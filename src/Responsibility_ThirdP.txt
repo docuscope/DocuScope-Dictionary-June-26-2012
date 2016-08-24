@@ -1,0 +1,203 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!POSSESSIVEPRONOUN accountability
+!POSSESSIVEPRONOUN answerability
+!POSSESSIVEPRONOUN being accountable
+!POSSESSIVEPRONOUN being answerable
+!POSSESSIVEPRONOUN being at fault
+!POSSESSIVEPRONOUN being beholden
+!POSSESSIVEPRONOUN being blamable
+!POSSESSIVEPRONOUN being culpable
+!POSSESSIVEPRONOUN being duty-bound
+!POSSESSIVEPRONOUN being in charge
+!POSSESSIVEPRONOUN being liable
+!POSSESSIVEPRONOUN being obliged
+!POSSESSIVEPRONOUN being responsible
+!POSSESSIVEPRONOUN being under the burden
+!POSSESSIVEPRONOUN being under the onus
+!POSSESSIVEPRONOUN blame
+!POSSESSIVEPRONOUN burden
+!POSSESSIVEPRONOUN charge
+!POSSESSIVEPRONOUN culpability
+!POSSESSIVEPRONOUN duty
+!POSSESSIVEPRONOUN fault
+!POSSESSIVEPRONOUN liability
+!POSSESSIVEPRONOUN obligation
+!POSSESSIVEPRONOUN onus
+!POSSESSIVEPRONOUN responsibility
+!PRONOUNNOMINAL !AUX accepting of full responsibility
+!PRONOUNNOMINAL !AUX accountable
+!PRONOUNNOMINAL !AUX answerable
+!PRONOUNNOMINAL !AUX at fault
+!PRONOUNNOMINAL !AUX beholden
+!PRONOUNNOMINAL !AUX bound
+!PRONOUNNOMINAL !AUX burden
+!PRONOUNNOMINAL !AUX culpable
+!PRONOUNNOMINAL !AUX fully accountable
+!PRONOUNNOMINAL !AUX fully answerable
+!PRONOUNNOMINAL !AUX fully at fault
+!PRONOUNNOMINAL !AUX fully burdened
+!PRONOUNNOMINAL !AUX fully culpable
+!PRONOUNNOMINAL !AUX fully duty-bound
+!PRONOUNNOMINAL !AUX fully in charge
+!PRONOUNNOMINAL !AUX fully obliged
+!PRONOUNNOMINAL !AUX fully responsible
+!PRONOUNNOMINAL !AUX fully to blame
+!PRONOUNNOMINAL !AUX fully under the onus
+!PRONOUNNOMINAL !AUX guilty
+!PRONOUNNOMINAL !AUX in charge
+!PRONOUNNOMINAL !AUX liable
+!PRONOUNNOMINAL !AUX obliged
+!PRONOUNNOMINAL !AUX responsible
+!PRONOUNNOMINAL !AUX to blame
+!PRONOUNNOMINAL !AUX under the onus
+!PRONOUNNOMINAL !HAVE acted badly
+!PRONOUNNOMINAL !HAVE acted poorly
+!PRONOUNNOMINAL !HAVE acted treacherously
+!PRONOUNNOMINAL !HAVE blasphemed
+!PRONOUNNOMINAL !HAVE deceived
+!PRONOUNNOMINAL !HAVE let everyone down
+!PRONOUNNOMINAL !HAVE let people down
+!PRONOUNNOMINAL !HAVE practiced deceit
+!PRONOUNNOMINAL !HAVE practiced deception
+!PRONOUNNOMINAL !HAVE trespassed
+!PRONOUNNOMINAL !MUSTSHOULD accept full reponsibility
+!PRONOUNNOMINAL !MUSTSHOULD accept reponsibility
+!PRONOUNNOMINAL !MUSTSHOULD accept some reponsibility
+!PRONOUNNOMINAL !MUSTSHOULD atone for
+!PRONOUNNOMINAL !MUSTSHOULD seek forgiveness
+!PRONOUNNOMINAL !MUSTSHOULD take full responsibility
+!PRONOUNNOMINAL !MUSTSHOULD take responsibility
+!PRONOUNNOMINAL !OUGHTNEED atone for
+!PRONOUNNOMINAL !OUGHTNEED seek forgiveness
+!PRONOUNNOMINAL !OUGHTNEED to accept full responsibility
+!PRONOUNNOMINAL !OUGHTNEED to accept responsibility
+!PRONOUNNOMINAL !OUGHTNEED to accept some responsibility
+!PRONOUNNOMINAL !OUGHTNEED to take full responsibility
+!PRONOUNNOMINAL !OUGHTNEED to take responsibility
+!PRONOUNNOMINAL accept full responsibility
+!PRONOUNNOMINAL accept responsibility
+!PRONOUNNOMINAL accepted full responsibility
+!PRONOUNNOMINAL accepted responsibility
+!PRONOUNNOMINAL accepts full responsibility
+!PRONOUNNOMINAL accepts responsibility
+!PRONOUNNOMINAL accountable
+!PRONOUNNOMINAL acted badly
+!PRONOUNNOMINAL acted poorly
+!PRONOUNNOMINAL acted treacherously
+!PRONOUNNOMINAL answerable
+!PRONOUNNOMINAL are accepting of responsibility
+!PRONOUNNOMINAL at fault
+!PRONOUNNOMINAL beholden
+!PRONOUNNOMINAL bound
+!PRONOUNNOMINAL culpable
+!PRONOUNNOMINAL duty-bound
+!PRONOUNNOMINAL fully accountable
+!PRONOUNNOMINAL fully answerable
+!PRONOUNNOMINAL fully at fault
+!PRONOUNNOMINAL fully beholden
+!PRONOUNNOMINAL fully bound
+!PRONOUNNOMINAL fully burdened
+!PRONOUNNOMINAL fully culpable
+!PRONOUNNOMINAL fully duty-bound
+!PRONOUNNOMINAL fully in charge
+!PRONOUNNOMINAL fully obliged
+!PRONOUNNOMINAL fully responsible
+!PRONOUNNOMINAL fully to blame
+!PRONOUNNOMINAL fully under the onus
+!PRONOUNNOMINAL has committed sin
+!PRONOUNNOMINAL has sinned
+!PRONOUNNOMINAL has wronged
+!PRONOUNNOMINAL have committed sin
+!PRONOUNNOMINAL have sinned
+!PRONOUNNOMINAL have wronged
+!PRONOUNNOMINAL in charge
+!PRONOUNNOMINAL let everyone down
+!PRONOUNNOMINAL let people down
+!PRONOUNNOMINAL liable
+!PRONOUNNOMINAL obliged
+!PRONOUNNOMINAL practiced deceit
+!PRONOUNNOMINAL practiced deception
+!PRONOUNNOMINAL responsible
+!PRONOUNNOMINAL trespassed
+!PRONOUNNOMINAL under the burden
+!PRONOUNNOMINAL under the onus
+accountability is !POSSESSIVEPRONOUN
+accountability is on !PRONOUNOBJECTIVE
+all on her
+all on her to
+all on him
+all on him to
+all on them
+all on them to
+answerability is !POSSESSIVEPRONOUN
+answerability is on !PRONOUNOBJECTIVE
+blame belongs to !PRONOUNOBJECTIVE
+blame is !POSSESSIVEPRONOUN
+blame is on !PRONOUNOBJECTIVE
+burden is on !PRONOUNOBJECTIVE
+charge is on !PRONOUNOBJECTIVE
+completely up to !PRONOUNOBJECTIVE
+completely up to themselves
+culpability is !POSSESSIVEPRONOUN
+culpability is on !PRONOUNOBJECTIVE
+duty is !POSSESSIVEPRONOUN
+duty is on !PRONOUNOBJECTIVE
+entirely up to !PRONOUNOBJECTIVE
+entirely up to themselves
+fall on !PRONOUNOBJECTIVE to
+fall to !PRONOUNOBJECTIVE
+falling on !PRONOUNOBJECTIVE to
+falling to !PRONOUNOBJECTIVE
+falls on !PRONOUNOBJECTIVE to
+falls to !PRONOUNOBJECTIVE
+fault is !POSSESSIVEPRONOUN
+fault is on !PRONOUNOBJECTIVE
+fault lies with !PRONOUNOBJECTIVE
+fell on !PRONOUNOBJECTIVE to
+fell to !PRONOUNOBJECTIVE
+fully incumbent on !PRONOUNOBJECTIVE
+he is responsible
+incumbent on !PRONOUNOBJECTIVE
+it's up to !PRONOUNOBJECTIVE
+it's up to themselves
+liability is on !PRONOUNOBJECTIVE
+obligation is on !PRONOUNOBJECTIVE
+on !POSSESSIVEPRONOUN watch
+on her to
+on him to
+on the watch of !POSSESSIVEPRONOUN
+on them to
+on themselves
+on themselves to
+onus is on !PRONOUNOBJECTIVE
+onus on !PRONOUNOBJECTIVE
+responsibility is on !PRONOUNOBJECTIVE
+she is responsible
+stand responsible
+stand responsible for
+standing our trick
+standing responsible
+standing responsible for
+stood responsible
+stood responsible for
+they're responsible
+They've acted badly
+They've acted poorly
+They've acted treacherously
+They've blasphemed
+They've deceived
+They've let everyone down
+They've let people down
+They've practiced deceit
+They've practiced deception
+They've trespassed
+they are responsible
+what he did
+what he is doing
+what she did
+what she is doing
+what they are doing
+what they did

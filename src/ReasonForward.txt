@@ -1,0 +1,835 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER main reason that
+!AUX !DETERMINER mark of
+!AUX !DETERMINER means to
+!AUX !DETERMINER prime reason that
+!AUX !DETERMINER reason behind
+!AUX !DETERMINER reason for
+!AUX !DETERMINER reason that
+!AUX !DETERMINER short step to
+!AUX !DETERMINER very reason that
+!AUX arriving at !DETERMINER conclusion that
+!AUX coming to !DETERMINER conclusion that
+!AUX grounds for
+!AUX grounds.
+!AUX her reason
+!AUX highly plausible that
+!AUX his reason
+!AUX my reason
+!AUX one reason behind
+!AUX our reason
+!AUX plausible that
+!AUX reasons behind
+!AUX signs
+!AUX their reason
+!AUX thus
+!AUX thusly
+!COME !DETERMINER conclusion
+!COME around to !DETERMINER !CLAIM
+!COME over to !DETERMINER !CLAIM
+!COME over to !DETERMINER view
+!COME to !DETERMINER !CLAIM
+!COME to !DETERMINER conclusion
+!COME to !DETERMINER decision
+!COME to !DETERMINER general understanding
+!COME to !DETERMINER place where I
+!COME to !DETERMINER point
+!COME to !DETERMINER realization
+!DETERMINER clear implication
+!DETERMINER conclusion !AUX
+!DETERMINER conclusion that
+!DETERMINER consequence !AUX
+!DETERMINER consequence being
+!DETERMINER consequences are
+!DETERMINER consequences being
+!DETERMINER direct implication
+!DETERMINER easy implication
+!DETERMINER following reasons
+!DETERMINER fortiori
+!DETERMINER good reason
+!DETERMINER implication
+!DETERMINER move that
+!DETERMINER obvious implication
+!DETERMINER possible inference !AUX that
+!DETERMINER posteriori
+!DETERMINER REASON FOR !DETERMINER
+!DETERMINER result !AUX
+!DETERMINER result !AUX that
+!DETERMINER simple implication
+!DETERMINER straight implication
+!DETERMINER upshot !AUX
+!DETERMINER upshot,
+!DRAW !DETERMINER conclusion
+!DRAW !DETERMINER further conclusion
+!DRAW !DETERMINER further inference
+!DRAW !DETERMINER inference
+!DRAW distinctions
+!FOLLOW from explicitly
+!FOLLOW implicitly
+!FOLLOW to !DETERMINER conclusion
+!GO TO SHOW HOW
+!GO TO SHOW THAT
+!HAVE !POSSESSIVEPRONOUN own reasons for
+!HAVE concluded
+!HAVE concluded that
+!HAVE implications
+!HAVE implications for
+!HAVE implications on
+!HAVE its own reasons for
+!HAVE largely concluded
+!HAVE largely concluded that
+!HAVE mainly concluded
+!HAVE mainly concluded that
+!HAVE my own reasons for
+!HAVE our own reasons for
+!INDEFINITEADDRESSEE can argue that
+!LEAD !PRONOUNOBJECTIVE to !DETERMINER !CLAIM
+!LEAD !PRONOUNOBJECTIVE to !DETERMINER conclusion
+!LEAD !PRONOUNOBJECTIVE to gather
+!LEAD me to assert
+!LEAD me to conclude
+!LEAD me to hypothesize
+!LEAD me to posit
+!MAKE !DETERMINER conclusion
+!MAKE !DETERMINER further conclusion
+!MAKE !DETERMINER further inference
+!MAKE !DETERMINER inference
+!MAKE it highly plausible
+!MAKE it highly plausible that
+!MAKE it plausible
+!MAKE it plausible that
+!PROVIDE !DETERMINER blueprint
+!PROVIDE !DETERMINER framework
+!PROVIDE !DETERMINER groundwork
+!PROVIDE !DETERMINER rationale
+!PROVIDE !DETERMINER reason
+!PROVIDE !DETERMINER reason for
+!QUESTION !MODAL be !DETERMINER good reason
+!QUESTION !MODAL be !DETERMINER reason
+!QUESTION else have
+!ROYALWE can infer
+!ROYALWE can reasonably infer
+!ROYALWE CONCLUDE THAT
+!ROYALWE conclude that !DETERMINER
+, and !QUESTION !DETERMINER
+, and so
+, by extension,
+, by implication,
+, for
+, for !DETERMINER reason
+, for !DETERMINER reason that
+, for !PRONOUNNOMINAL
+, for I
+, for it
+, for it !AUX
+, for it !AUX !DETERMINER case
+, for we
+, it follows,
+, meaning !DETERMINER
+, meaning that
+, revealing that
+, showing that
+, since
+, since !DETERMINER
+, since !PRONOUNNOMINAL
+, so
+, so !DETERMINER
+, so there
+, what with
+, what with !DETERMINER
+, which indicates that
+, which suggests that
+. !DETERMINER result !AUX
+. !DETERMINER result !AUX that
+. and !QUESTION !DETERMINER
+. and so
+. as such
+. judging by !DETERMINER
+. seeing as !DETERMINER
+. seeing as !POSSESSIVEPRONOUN
+. seeing as !PRONOUNNOMINAL are
+. seeing as I am
+. seeing as you are
+. seeing that
+. so
+. such
+. then you know !QUESTION
+. what this meant
+adequate reason for
+adequate reasons for
+allow !INDEFINITEADDRESSEE
+allowing !INDEFINITEADDRESSEE
+allowing us to
+allows !INDEFINITEADDRESSEE
+allows one to conclude
+allows us to claim
+allows us to conclude
+allows us to embrace !DETERMINER !CLAIM
+and !DETERMINER resulting
+and !QUESTION !DETERMINER
+and since
+and so
+and so !DETERMINER
+and so !PRONOUNNOMINAL
+and so moving ahead we can
+and so we can go on to !CLAIM
+and to cap it all
+are !DETERMINER marks of
+are !DETERMINER signs of
+are signs
+are signs of
+are thus
+are thusly
+as !DETERMINER result
+As reasons for
+as such
+assume !DETERMINER
+attendant on
+attendant upon
+backdrop for
+backdrop to
+background for
+background to
+basis for arguing
+basis for belief
+basis for believing
+basis for concluding
+basis for evaluating
+basis for generalizing
+basis for inferring
+basis for judging
+basis for reasoning
+basis for recommending
+basis for thinking
+be !DETERMINER mark of
+be !DETERMINER sign
+be !DETERMINER sign of
+be thus
+be thusly
+because of this
+because this !AUX so
+being as how
+bring !INDEFINITEADDRESSEE to !DETERMINER
+bringing !INDEFINITEADDRESSEE to !DETERMINER
+brings !INDEFINITEADDRESSEE to !DETERMINER
+by implication
+by parity of reasoning
+by reason of
+by reason of that
+came to !DETERMINER !CLAIM
+came to !DETERMINER conclusion that
+can assume that
+can be ventured that
+can entail
+can entail !DETERMINER
+can involve
+can move one
+can move us
+can often involve
+can only assume that
+carries !INDEFINITEADDRESSEE to !DETERMINER
+carry !INDEFINITEADDRESSEE to !DETERMINER
+carrying !INDEFINITEADDRESSEE to !DETERMINER
+causes one to conclude that
+causes us to conclude that
+come to !DETERMINER conclusion
+come to !DETERMINER conclusion that
+come to !DETERMINER decision
+come to light that
+comes to !DETERMINER conclusion
+comes to !DETERMINER conclusion that
+comes to !DETERMINER decision
+comes to light that
+coming TO !DETERMINER !CONCLUSION
+coming to !DETERMINER conclusion
+coming to !DETERMINER conclusion that
+coming to !DETERMINER decision
+compels us to !DETERMINER !CLAIM
+conclude that
+concluded that
+concludes that
+concluding that
+consequently
+corollaries
+corollary
+could assume that
+could only assume that
+deduce
+deduce that
+deduced
+deduced that
+deduces
+deduces that
+deducible
+deducible from
+deducing
+deducing that
+deductively follows
+derive !DETERMINER conclusion that
+derived !DETERMINER conclusion that
+derives !DETERMINER conclusion that
+deriving !DETERMINER conclusion that
+dialogically
+draw !DETERMINER difference
+drawing !DETERMINER difference
+draws !DETERMINER difference
+drew !DETERMINER difference
+either to
+entail
+entailed
+entailed !DETERMINER
+entailed !DETERMINER idea
+entailing
+entailing !DETERMINER
+entailing !DETERMINER idea
+entailment
+entailments
+entails
+entails !DETERMINER
+entails !DETERMINER idea
+ergo
+ergo-
+ergo proper hoc
+ergo propter hoc
+ergo sum
+establish !DETERMINER conclusion
+establish !DETERMINER further conclusion
+establish !DETERMINER further inference
+establish !DETERMINER inference
+established !DETERMINER conclusion
+established !DETERMINER further conclusion
+established !DETERMINER further inference
+established !DETERMINER inference
+establishes !DETERMINER conclusion
+establishes !DETERMINER further conclusion
+establishes !DETERMINER further inference
+establishes !DETERMINER inference
+establishing !DETERMINER conclusion
+establishing !DETERMINER further conclusion
+establishing !DETERMINER further inference
+establishing !DETERMINER inference
+fifth, since
+finally !COME around to !DETERMINER !CLAIM
+first, since
+follows deductively
+follows that
+for as much as
+for exactly
+for exactly !DETERMINER reason
+for exactly !DETERMINER reasons
+for I am
+for one reason or another
+for reasons
+for that cause,
+for that means
+for that reason !PRONOUNNOMINAL
+for that reason,
+for this occasion,
+for this reason !PRONOUNNOMINAL
+for this reason,
+for various reasons
+for we are
+forasmuch
+forasmuch as
+fortiori
+forwhy
+fourth, since
+further that
+further thinking that
+furthermore
+ground for
+grounds for assuming
+grounds for concluding
+grounds for considering
+grounds for deciding
+grounds for inferring
+grounds for judging
+grounds for thinking
+groundwork for
+had !DETERMINER reason
+had been so
+had no reason
+had no reason other than
+has !DETERMINER reason
+has been so
+has no reason
+has no reason other than
+have !DETERMINER reason
+have been so
+have no reason
+have no reason other than
+having !DETERMINER reason
+having been so
+having no reason
+having no reason other than
+hence
+hence,
+highly plausible
+highly plausible that
+if either
+if so
+if so then
+if that's !DETERMINER case
+if that !AUX !DETERMINER case
+if that !AUX true
+if that argument holds
+implication
+implication for
+implication on
+implication regarding
+implication that
+implication towards
+implication with respect to
+implicational
+implications for
+implications on
+implications regarding
+implications that
+implications with respect to
+implicative
+implicatively
+implicatories
+implicatory
+implicatory of
+implied about
+implied for
+implied from
+implied that
+implied with
+implies
+implies for
+implies that
+implies that something
+imply
+imply for
+imply that
+implying
+implying for
+implying that
+in view of !DETERMINER fact
+in view of !POSSESSIVEPRONOUN being
+in view of its
+in view of my being
+in view of our being
+in view of your being
+in virtue of
+indicate that
+indicated that
+indicates that
+indicating that
+infer that
+inferable
+inference
+inferences
+inferential
+inferentially
+inferred that
+inferring that
+infers that
+it's !DETERMINER only reason
+it's !DETERMINER reason
+it's !DETERMINER short step
+it's !DETERMINER short step from
+it's !DETERMINER short step to
+it !AUX !DETERMINER only reason
+it !AUX !DETERMINER reason
+it !AUX for this reason
+it !AUX for this reason !QUESTION
+it !AUX for this reason !QUESTION it
+it !AUX for this reason !QUESTION it would
+it !AUX for this very reason
+it !AUX for this very reason !QUESTION
+it !AUX for this very reason !QUESTION it
+it !AUX for this very reason !QUESTION it would
+it !AUX highly plausible that
+it !AUX plausible
+it !AUX plausible that
+it !AUX plausible to
+it !AUX therefore
+it !AUX thus
+it being so
+it came to this
+it can be supposed
+it comes to this
+it follows that
+it follows trivially
+it may be concluded
+it may be deduced
+it may be inferred
+it may be observed that
+it means
+it meant
+it must be ventured that
+it only stands to reason that
+it stands to reason
+it stands to reason that
+it thus follows that
+justified one in
+justified one in supposing
+justifies one in
+justifies one in supposing
+justify one in
+justify one in supposing
+justifying one in
+justifying one in supposing
+lead !PRONOUNOBJECTIVE to believe that
+lead me to believe that
+lead one to believe that
+lead to !DETERMINER conclusion
+lead to !DETERMINER inference
+lead us to believe that
+lead you to believe that
+leading !PRONOUNOBJECTIVE to believe that
+leading many to believe that
+leading many to think that
+leading me to believe that
+leading one to believe that
+leading one to think that
+leading some to believe that
+leading some to think that
+leading to !DETERMINER conclusion
+leading to !DETERMINER inference
+leading us to believe that
+leading you to believe that
+leads !PRONOUNOBJECTIVE to believe that
+leads me to believe that
+leads one to believe that
+leads one to conclude that
+leads one to infer that
+leads to !DETERMINER !CLAIM
+leads to !DETERMINER argument that
+leads to !DETERMINER conclusion
+leads to !DETERMINER conclusion that
+leads to !DETERMINER counter that
+leads to !DETERMINER inexorable conclusion
+leads to !DETERMINER inference
+leads to !DETERMINER objection that
+leads us to believe that
+leads you to believe that
+led !PRONOUNOBJECTIVE to believe that
+led me to believe that
+led one to believe that
+led to !DETERMINER conclusion
+led to !DETERMINER inference
+led us to believe that
+led you to believe that
+logical consequence
+logical consequences
+logical result
+logical results
+major premise
+major premises
+major premiss
+major premisses
+makes us come to !DETERMINER !CLAIM
+meaning that
+means that
+meant that
+minor premise
+minor premises
+minor premiss
+minor premisses
+move !INDEFINITEADDRESSEE
+move !INDEFINITEADDRESSEE to !DETERMINER
+moves !INDEFINITEADDRESSEE
+moves !INDEFINITEADDRESSEE to !DETERMINER
+moving !INDEFINITEADDRESSEE
+moving !INDEFINITEADDRESSEE to !DETERMINER
+MY OWN REASON for
+MY PERSONAL REASON for
+MY REASON FOR
+on !DETERMINER assumption that
+on !DETERMINER following reasons
+on !DETERMINER premise that
+on !DETERMINER supposition that
+on that account
+on that ground
+one can assume
+one can conclude that
+one can infer that
+own reasons for
+per consequens
+per consequent
+permit !INDEFINITEADDRESSEE
+permits !DETERMINER conclusion that
+permits !INDEFINITEADDRESSEE
+permits one to conclude that
+permitted !INDEFINITEADDRESSEE
+permitting !INDEFINITEADDRESSEE
+plausibility that
+plausible
+plausible that
+plausibly
+point directly to
+point indirectly to
+point to
+point up
+pointed directly to
+pointed indirectly to
+pointed to
+pointed up
+pointing directly to
+pointing indirectly to
+pointing to
+pointing up
+points directly to
+points indirectly to
+points to
+points up
+posteriori
+premiss
+premisses
+presumable
+presumable that
+PRESUMABLY
+presumably that
+PRESUME
+presume on
+presume on !DETERMINER basis
+presume that
+presumed on !DETERMINER
+presumed on !DETERMINER basis
+presumed on !POSSESSIVEPRONOUN
+presumed on there
+presumed that
+presumes
+presumes on
+presumes on !DETERMINER basis
+presumes that
+PRESUMING
+presuming on
+presuming on !DETERMINER basis
+presuming that
+presumption
+presumptions
+quasi-plausible
+reason for
+reason for being
+reason that
+reason to
+reasonably likely
+reasonably likely that
+reasoned that
+reasoned to
+reasoning for
+reasoning that
+reasoning to
+reasonings for
+reasonings to
+reasons for
+reasons for being
+reasons that
+reasons to
+second, since
+seeing as how
+signaled that
+signaling that
+significative
+significative of
+significatively
+significativeness
+signified that
+signifies that
+signify that
+signifying that
+since !PRONOUNNOMINAL do
+since !PRONOUNNOMINAL do not
+since !PRONOUNNOMINAL does
+since I do
+since I do not
+since it does
+Since there
+Since there is no time
+since we do
+since we do not
+sixth, since
+so-caused
+so-conditioned
+so-considered
+so-designated
+so-formed
+so-instructed
+so-like
+so-named
+so-regarded
+so-seeming
+so-styled
+so-termed
+so-titled
+so-wise
+so !DETERMINER
+so !POSSESSIVEPRONOUN
+so !PRONOUNNOMINAL can
+so !PRONOUNNOMINAL may
+so !PRONOUNNOMINAL might
+so as to
+so as to give
+so connected that
+so entrenched that
+so here !AUX !DETERMINER reason
+so I can
+so I could
+so it !AUX
+so it !AUX not surprising
+so it !AUX that
+so it !AUX with
+so it can
+so it could follow
+so it may
+so it might
+so much so that
+so much that
+so my
+so our
+so steady that
+so that
+so that you
+so there
+so tired that
+so we
+stand to reason
+standing to reason
+stands to reason
+steady so
+stood to reason
+such being !DETERMINER case
+such that it follows
+supposing that we argue
+supposing that we reason
+supposing that we say
+take !INDEFINITEADDRESSEE to !DETERMINER
+takes !INDEFINITEADDRESSEE to !DETERMINER
+taking !INDEFINITEADDRESSEE to !DETERMINER
+that's !DETERMINER reason
+that's why
+that's why I argue
+that !AUX !DETERMINER reason for thinking that
+that !AUX why
+that being !DETERMINER case
+that being !DETERMINER case,
+that being so
+that follow from
+that means
+that means that
+that means this
+that meant
+that plausibly
+then !MODAL
+then !PRONOUNNOMINAL are
+then !QUESTION
+then certainly
+then clearly
+then conclude that
+then concluded that
+then concludes that
+THEN IT'S CLEAR that
+THEN IT'S OBVIOUS that
+then it follows
+then on top of that
+then we can conclude
+then we can say
+then we know that
+THEN YOU CONCLUDE
+THEN YOU KNOW
+then you know !QUESTION
+there's reason to
+there !AUX reason
+there !AUX reason to
+there !AUX reason to believe
+THEREBY
+THEREFORE
+therefore on account of this
+therefore to
+these are good reasons for
+these things being so
+third, since
+THIS !AUX !DETERMINER REASON
+THIS !AUX !DETERMINER REASON !QUESTION
+THIS !AUX !QUESTION I ARGUE
+THIS !AUX EXACTLY !QUESTION
+THIS !AUX PRECISELY !QUESTION
+this !AUX support for !DETERMINER idea
+this allows me to say
+this allows us to think
+this being !DETERMINER case
+this being so
+This causes
+this is a good reason for
+This leads to
+this makes sense
+THIS MEANS
+THIS MEANS THAT
+this meant
+this only goes to show
+this only goes to show that
+This results
+THIS RESULTS IN !DETERMINER CONCLUSION
+this supports !DETERMINER
+thus
+thus and so
+thus and thus
+thus must
+thus need to
+thus needs to
+thus ought
+thus should
+thus to
+thus whether
+thusly
+upshot
+upshots
+warrant that
+warranted it's
+warranted that
+warranting its
+warranting that
+warrants !DETERMINER
+warrants its
+warrants that
+what it comes down to !AUX
+WHAT IT COMES TO !AUX
+WHAT THIS MEANS !AUX
+what this means then
+what this means then !AUX
+what this then means
+what this then means !AUX
+what with !POSSESSIVEPRONOUN
+what with our
+where I am going with this !AUX
+wherefore
+wherefore, !DETERMINER
+wherefores
+whether thus
+whether thus to
+which !AUX !QUESTION
+which !AUX exactly !QUESTION
+which !AUX precisely !QUESTION
+WHICH GOES TO SHOW THAT
+WHICH IMPLIES THAT
+WHICH MEANS THAT
+WHICH SHOWS THAT
+which suggests that
+with all of these considerations, we can infer
+with all these goings on, we can infer
+with all this going on, we can infer
+with all this happening
+with everything going on
+with everything happening
+with this situation going on
+working assumption
+working assumptions
+working hypothesis
+working principle
+working principles
+working proposition
+working propositions
+would thus allow
+would thus enable
+would thus end up
+would thus end us up in
+would thus prevent
+would thus provide
+would thus result in

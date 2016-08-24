@@ -1,0 +1,103 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!POSSESSIVEPRONOUN counter-assertion
+!POSSESSIVEPRONOUN counter-claim
+!POSSESSIVEPRONOUN counter that
+!POSSESSIVEPRONOUN counterassertion
+!POSSESSIVEPRONOUN counterclaim
+!POSSESSIVEPRONOUN denial
+!POSSESSIVEPRONOUN rebuttal that
+!POSSESSIVEPRONOUN refutation
+!POSSESSIVEPRONOUN retort
+!PRONOUNNOMINAL denied
+!PRONOUNNOMINAL retorted
+counter-argue that
+counter-argued that
+counter-argues that
+counter-arguing that
+counter-assert that
+counter-asserted that
+counter-asserting that
+counter-asserts that
+counter-claim that
+counter-claimed that
+counter-claiming that
+counter-claims that
+counter that
+counterargue that
+counterargued that
+counterargues that
+counterarguing that
+counterassert that
+counterasserted that
+counterasserting that
+counterasserts that
+counterclaim that
+counterclaimed that
+counterclaiming that
+counterclaims that
+countered that
+countering that
+counters that
+defend herself by saying
+defend himself by saying
+defend themselves by saying
+defended herself by saying
+defended himself by saying
+defended themselves by saying
+defending herself by saying
+defending himself by saying
+defending themselves by saying
+defends herself by saying
+defends himself by saying
+defends themselves by saying
+denied
+denied that
+denies
+denies that
+deny
+deny that
+denying
+denying that
+replied
+replied in
+replied that
+replied to
+replied to !DETERMINER question
+replied to !DETERMINER questions
+replied with
+replies
+replies that
+replies to
+replies to !DETERMINER question
+replies to !DETERMINER questions
+reply
+reply that
+reply to
+reply to !DETERMINER question
+reply to !DETERMINER questions
+replying
+replying that
+replying to
+replying to !DETERMINER question
+replying to !DETERMINER questions
+retort
+retort !DETERMINER
+retort !DETERMINER accusation
+retort that
+retorted
+retorted !DETERMINER
+retorted !DETERMINER accusation
+retorted that
+retorting
+retorting !DETERMINER
+retorting !DETERMINER accusation
+retorting that
+retortion
+retortions
+retorts
+retorts !DETERMINER
+retorts !DETERMINER accusation
+retorts that

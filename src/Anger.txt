@@ -1,0 +1,4958 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER bastard
+!AUX !DETERMINER bitch
+!AUX !DETERMINER brutal act
+!AUX !DETERMINER most misguided
+!AUX !DETERMINER ones to blame
+!AUX arrogant
+!AUX avoidable
+!AUX bastards
+!AUX being antagonized
+!AUX being foolish
+!AUX being selfish
+!AUX bitches
+!AUX blamable
+!AUX blamable on
+!AUX cheated
+!AUX completely avoidable
+!AUX deceived by
+!AUX deeply offensive
+!AUX full of herself
+!AUX full of himself
+!AUX full of themselves
+!AUX going to hell
+!AUX hoodwinked
+!AUX nuts to believe
+!AUX nuts to think
+!AUX offensive
+!AUX outraged
+!AUX outraged that
+!AUX put off by
+!AUX put off with
+!AUX rude
+!AUX selfish
+!AUX shabby
+!AUX stuck up
+!AUX stuck with
+!AUX taken advantage of
+!AUX ticked off
+!AUX to blame for
+!AUX undeserved
+!AUX very rude
+!BRING it on !REFLEXIVEPRONOUN
+!BRING it on !YOU
+!BRING it upon !REFLEXIVEPRONOUN
+!BRING it upon !YOU
+!BRING on !REFLEXIVEPRONOUN
+!BRING on !YOU
+!BRING shame on you
+!BRING shame upon you
+!BRING some of it on !REFLEXIVEPRONOUN
+!BRING to !DETERMINER brink of
+!BRING up anger
+!BRING up angry
+!BRING up angry memories
+!BRING up rage
+!BRING up rageful
+!BRING upon !REFLEXIVEPRONOUN
+!BRING upon !YOU
+!BRING you to shame
+!BURN !PRONOUNOBJECTIVE up
+!BURN them up
+!BURN you up
+!CAST aspersions on
+!CAST blame
+!CAST blame upon
+!CUT down for no reason
+!DETERMINER act of terrorism
+!DETERMINER actions of !DETERMINER few
+!DETERMINER affront to
+!DETERMINER arrogance of
+!DETERMINER assholes
+!DETERMINER AUDACITY of
+!DETERMINER bad apple
+!DETERMINER bunch of cowards
+!DETERMINER conniption
+!DETERMINER conniption fit
+!DETERMINER contemptible
+!DETERMINER cruel
+!DETERMINER damn
+!DETERMINER death of innocent people
+!DETERMINER devil incarnate
+!DETERMINER disregard for
+!DETERMINER dressing down
+!DETERMINER ease with which they carried out their plot
+!DETERMINER evil
+!DETERMINER good dressing down
+!DETERMINER GRUMBLE OF
+!DETERMINER hell out
+!DETERMINER inane
+!DETERMINER inanity of
+!DETERMINER indiscriminate loss
+!DETERMINER indiscriminate loss of life
+!DETERMINER ingrates
+!DETERMINER innocent people who were killed and hurt
+!DETERMINER innocent victims
+!DETERMINER killing of !DETERMINER innocent people
+!DETERMINER killing of innocents
+!DETERMINER life taken
+!DETERMINER lives !PRONOUNNOMINAL brought down
+!DETERMINER lives !PRONOUNNOMINAL destroyed
+!DETERMINER lives !PRONOUNNOMINAL took
+!DETERMINER lives that !PRONOUNNOMINAL brought down
+!DETERMINER lives that !PRONOUNNOMINAL destroyed
+!DETERMINER lives that !PRONOUNNOMINAL took
+!DETERMINER lives they took with them
+!DETERMINER lot of innocent people died
+!DETERMINER media is being destructive
+!DETERMINER media want you to buy !DETERMINER story
+!DETERMINER most mad
+!DETERMINER most responsible in allowing !DETERMINER terrorists
+!DETERMINER nerve he had
+!DETERMINER nerve she had
+!DETERMINER nerve they had
+!DETERMINER nerve to brag
+!DETERMINER nerve to flout
+!DETERMINER nerve to say
+!DETERMINER nerve to show off
+!DETERMINER offense
+!DETERMINER offense against
+!DETERMINER offense to
+!DETERMINER old excuse
+!DETERMINER old excuses
+!DETERMINER only thank-you !ROYALWE get
+!DETERMINER only thank-you he gets
+!DETERMINER only thank-you she gets
+!DETERMINER only thank-you they get
+!DETERMINER only thank-you you get
+!DETERMINER outrage
+!DETERMINER outraged
+!DETERMINER outraged stare
+!DETERMINER outright lie
+!DETERMINER outright lies
+!DETERMINER perpetrators
+!DETERMINER power-crazed
+!DETERMINER power crazy
+!DETERMINER rankled
+!DETERMINER real slap in !DETERMINER face
+!DETERMINER responsible Bin Laden apparently is still hidden
+!DETERMINER same excuse
+!DETERMINER same excuses
+!DETERMINER same old excuse
+!DETERMINER same old excuses
+!DETERMINER selfish
+!DETERMINER selfishness
+!DETERMINER slap in !DETERMINER face
+!DETERMINER snake in !DETERMINER grass
+!DETERMINER sneaky underhanded
+!DETERMINER sneaky underhanded no good
+!DETERMINER sneaky underhanded no good scum
+!DETERMINER sneaky underhanded no good scum of !DETERMINER earth
+!DETERMINER thoughtlessness
+!DETERMINER thoughtlessness of
+!DETERMINER thrill of hurting
+!DETERMINER thrill of hurting someone
+!DETERMINER underhanded way
+!DETERMINER undeserved
+!DETERMINER victims were our brothers and sisters
+!DETERMINER wanton
+!DETERMINER wantonly
+!DETERMINER WAY !PRONOUNNOMINAL SHOULD HAVE
+!DETERMINER way he should have
+!DETERMINER way it should have happened
+!DETERMINER way she should have
+!DETERMINER way they should have
+!DETERMINER worst part is !DETERMINER way !DETERMINER American people have responded
+!DO !DETERMINER slow burn
+!DO not heed anyone
+!DO not listen
+!DO such !DETERMINER thing
+!FEED !PRONOUNOBJECTIVE !DETERMINER line
+!FEED me !DETERMINER line
+!FEED off of hate
+!FEED them !DETERMINER line
+!FEED us !DETERMINER line
+!FEED you !DETERMINER line
+!FEEL anger
+!FEEL angry
+!FEEL annoyed
+!FEEL betrayed
+!FEEL cheated
+!FEEL contempt
+!FEEL contempt for
+!FEEL crossed
+!FEEL deceived
+!FEEL hatred
+!FEEL imposed on
+!FEEL interfered with
+!FEEL mad
+!FEEL mislead
+!FEEL no guilt for
+!FEEL no remorse
+!FEEL personally violated
+!FEEL put-upon
+!FEEL put out
+!FEEL put out that
+!FEEL put upon
+!FEEL resentment
+!FEEL royally screwed
+!FEEL screwed
+!FEEL violated by !PRONOUNOBJECTIVE
+!FIND it deeply offensive
+!FIND it in poor taste
+!FIND it offensive
+!FIND reprehensible
+!FLY into !DETERMINER rage
+!FLY into !DETERMINER temper
+!FLY off !DETERMINER handle
+!FOLLOW an idiot
+!GET !POSSESSIVEPRONOUN back up
+!GET !POSSESSIVEPRONOUN dander up
+!GET !POSSESSIVEPRONOUN gorge up
+!GET !POSSESSIVEPRONOUN hackles up
+!GET !POSSESSIVEPRONOUN irish up
+!GET !POSSESSIVEPRONOUN mad up
+!GET !PRONOUNOBJECTIVE angry
+!GET !PRONOUNOBJECTIVE hostile
+!GET !PRONOUNOBJECTIVE in this mess
+!GET !PRONOUNOBJECTIVE mad
+!GET !PRONOUNOBJECTIVE very angry
+!GET all bent out of shape
+!GET all in !DETERMINER lather
+!GET angry
+!GET angry at
+!GET away with
+!GET away with it
+!GET away with it unpunished
+!GET away with murder
+!GET even
+!GET even with
+!GET hostile
+!GET mad
+!GET madder
+!GET miffed
+!GET no respect
+!GET on !POSSESSIVEPRONOUN high horse
+!GET on !POSSESSIVEPRONOUN nerves
+!GET on !YOU high horse
+!GET on !YOU nerves
+!GET on my high horse
+!GET on our high horse
+!GET on our nerves
+!GET others to throw away their lives
+!GET royally mad
+!GET sniffy about
+!GET sore
+!GET steamed
+!GET steamed about
+!GET stiffed
+!GET stiffed with
+!GET too big for !POSSESSIVEPRONOUN breeches
+!GET too big for !POSSESSIVEPRONOUN britches
+!GET too big for !YOU breeches
+!GET too big for !YOU britches
+!GET under !YOU skin
+!GET up and say enough already
+!GET what's coming to
+!GET what's coming to !PRONOUNOBJECTIVE
+!GET worked up about
+!GET worked up over
+!GET you angry
+!GET you hostile
+!GET you very angry
+!GIVE !DETERMINER dressing-down to
+!GIVE !DETERMINER old what-for
+!GIVE !DETERMINER terrorist refuge
+!GIVE !DETERMINER terrorist support
+!GIVE !DETERMINER terrorists refuge
+!GIVE !DETERMINER terrorists support
+!GIVE !PRONOUNOBJECTIVE !DETERMINER dressing-down
+!GIVE !PRONOUNOBJECTIVE !DETERMINER taste of !POSSESSIVEPRONOUN own medicine
+!GIVE !PRONOUNOBJECTIVE !DETERMINER what-for
+!GIVE it to !PRONOUNOBJECTIVE good
+!GIVE it to them good
+!GIVE me !DETERMINER conniption
+!GIVE me !DETERMINER conniption fit
+!GIVE me !DETERMINER what-for
+!GIVE me umbrage
+!GIVE refuge to terrorists
+!GIVE them !DETERMINER taste of their own medicine
+!GIVE us !DETERMINER what-for
+!GIVE us umbrage
+!GIVE you !DETERMINER what-for
+!GO ballistic
+!GO into !DETERMINER lather
+!GO off on us
+!GO right to hell
+!GO up in arms
+!GROW angry
+!GROW hot under !DETERMINER collar
+!HAVE !DETERMINER audacity
+!HAVE !DETERMINER balls
+!HAVE !DETERMINER bee in !POSSESSIVEPRONOUN bonnet
+!HAVE !DETERMINER bone to pick with !PRONOUNOBJECTIVE
+!HAVE !DETERMINER bone to pick with !YOU
+!HAVE !DETERMINER conniption
+!HAVE !DETERMINER conniption fit
+!HAVE !DETERMINER cow
+!HAVE !DETERMINER good mind to
+!HAVE !DETERMINER nerve to say
+!HAVE a bone to pick
+!HAVE absolutely no respect for
+!HAVE been asked to endure
+!HAVE been blaming
+!HAVE been fed up with
+!HAVE been had
+!HAVE been squeezed out
+!HAVE been stuck with
+!HAVE blamed
+!HAVE had it up to here
+!HAVE had it up to here with
+!HAVE had it with
+!HAVE information about !DETERMINER attacks and did not heed them
+!HAVE issues
+!HAVE issues with
+!HAVE little regard for human life
+!HAVE no compassion
+!HAVE no compassion for
+!HAVE no concern for me
+!HAVE no concern for us
+!HAVE no consideration
+!HAVE no consideration for
+!HAVE no good feeling for
+!HAVE no good feelings for
+!HAVE no legal right
+!HAVE no regard for
+!HAVE no remorse
+!HAVE no respect for anyone
+!HAVE no respect for anyone else
+!HAVE no respect toward
+!HAVE no respect towards
+!HAVE no right to
+!HAVE no thought
+!HAVE pulled !PRONOUNOBJECTIVE into !DETERMINER war
+!HAVE pulled !PRONOUNOBJECTIVE into war
+!HAVE pulled me into !DETERMINER war
+!HAVE pulled me into war
+!HAVE pulled them into !DETERMINER war
+!HAVE pulled them into war
+!HAVE pulled us into !DETERMINER war
+!HAVE pulled us into war
+!HAVE pulled you into !DETERMINER war
+!HAVE pulled you into war
+!HAVE serious issues
+!HAVE serious issues with
+!HAVE strong words for
+!HAVE to be !DETERMINER sick person
+!HAVE to be bailed out again
+!HAVE to get back at
+!HAVE to take it out on others
+!HAVE TO TAKE THEIR SADNESS OUT ON OTHERS
+!HAVE words with
+!HELP !DETERMINER terrorist
+!HELP !DETERMINER terrorists
+!HIT !PRONOUNOBJECTIVE where !PRONOUNNOMINAL live
+!HIT !PRONOUNOBJECTIVE where !PRONOUNNOMINAL lives
+!HOLD !PRONOUNOBJECTIVE beneath contempt
+!HOLD beneath contempt
+!HOLD in contempt
+!HOLD it over my head that
+!HOLD it over our heads that
+!HOLD no respect for
+!HOLD no respect toward
+!HOLD no respect towards
+!LAY !DETERMINER blame
+!LAY !DETERMINER blame for
+!LAY !DETERMINER blame on
+!LAY blame
+!LAY blame at !DETERMINER foot of
+!LAY blame on
+!LAY blame upon
+!LET !PRONOUNOBJECTIVE have it good
+!LET them have it good
+!LIE directly to !POSSESSIVEPRONOUN face
+!LIE right to !POSSESSIVEPRONOUN face
+!LOOK about wildly
+!LOOK PLAINTIVELY AT
+!LOOK PLAINTIVELY TO
+!MAKE !DETERMINER guilty pay
+!MAKE !POSSESSIVEPRONOUN blood boil
+!MAKE !PRONOUNOBJECTIVE !DETERMINER most mad
+!MAKE !PRONOUNOBJECTIVE angry
+!MAKE !PRONOUNOBJECTIVE livid
+!MAKE !PRONOUNOBJECTIVE mad
+!MAKE !PRONOUNOBJECTIVE most mad
+!MAKE !PRONOUNOBJECTIVE see red
+!MAKE !REFLEXIVEPRONOUN feel important
+!MAKE angry
+!MAKE furious
+!MAKE guilty ones pay
+!MAKE it easy for !DETERMINER terrorists
+!MAKE lots of people lose their families
+!MAKE lots of people lose their jobs
+!MAKE people distrust everyone
+!MAKE people distrust everything
+!MAKE people go through hoops
+!MAKE people lose their families
+!MAKE people lose their jobs
+!MAKE people suffer
+!MAKE ridiculing fun of
+!MAKE ridiculing light of
+!MAKE them angry
+!MAKE them livid
+!MAKE them mad
+!MAKE them see red
+!MAKE you !DETERMINER most mad
+!MAKE you angry
+!MAKE you livid
+!MAKE you mad
+!MAKE you most mad
+!MAKE you really mad
+!MAKE you see red
+!MUSTSHOULD be !DETERMINER wake-up call for us
+!MUSTSHOULD be brought to justice
+!MUSTSHOULD be punished
+!MUSTSHOULD have been averted
+!MUSTSHOULD have been avoided
+!MUSTSHOULD have been blown off
+!MUSTSHOULD have been just blown off
+!MUSTSHOULD have been there faster
+!MUSTSHOULD have been there sooner
+!MUSTSHOULD have zero tolerance
+!MUSTSHOULD not have to tolerate
+!MUSTSHOULD not tolerate
+!MUSTSHOULD pay for what !ROYALWE did
+!MUSTSHOULD retaliate
+!MUSTSHOULD show no deference
+!MUSTSHOULD show no kindness
+!MUSTSHOULD show no patience
+!OUGHTNEED to be brought to justice
+!OUGHTNEED to be punished
+!OUGHTNEED to retaliate
+!PLAY with fire
+!PLAY with lives
+!POSSESSIVEPRONOUN brow knitted
+!POSSESSIVEPRONOUN brows knitted
+!POSSESSIVEPRONOUN complete disregard
+!POSSESSIVEPRONOUN complete disregard for
+!POSSESSIVEPRONOUN disregard for
+!POSSESSIVEPRONOUN rage
+!POSSESSIVEPRONOUN rage at
+!POSSESSIVEPRONOUN rages
+!POSSESSIVEPRONOUN rages at
+!POSSESSIVEPRONOUN taking !DETERMINER lives
+!POSSESSIVEPRONOUN total disregard
+!POSSESSIVEPRONOUN total disregard for
+!POSSESSIVEPRONOUN utter disregard
+!POSSESSIVEPRONOUN utter disregard for
+!PRESSING outrageous
+!PRONOUNNOMINAL destroyed so many innocent lives
+!PRONOUNNOMINAL did not have any thought or regard
+!PRONOUNNOMINAL don't belong over here
+!PRONOUNNOMINAL had it coming
+!PRONOUNNOMINAL hate when
+!PRONOUNNOMINAL hates when
+!PRONOUNNOMINAL show no care
+!PRONOUNNOMINAL show no concern
+!PRONOUNNOMINAL shows no care
+!PRONOUNNOMINAL shows no concern
+!PRONOUNNOMINAL took !DETERMINER freedom
+!PRONOUNNOMINAL took !DETERMINER freedoms
+!PRONOUNNOMINAL took too long
+!PRONOUNNOMINAL used our airliners to destroy our
+!PULL !PRONOUNOBJECTIVE into war
+!PULL me into war
+!PULL them into war
+!PULL us into war
+!PULL you into war
+!PUSH !PRONOUNOBJECTIVE to !DETERMINER edge
+!PUSH !YOU to !DETERMINER edge
+!PUT !DETERMINER blame for
+!PUT !DETERMINER blame on
+!PUT !DETERMINER lot of people in depair
+!PUT blame
+!PUT people in despair
+!QUESTION gives !PRONOUNOBJECTIVE !DETERMINER right
+!REACH !DETERMINER limit of !POSSESSIVEPRONOUN patience
+!REACH !DETERMINER limit of !YOU patience
+!REACH !DETERMINER limits of !POSSESSIVEPRONOUN patience
+!REACH !DETERMINER limits of !YOU patience
+!RIP into
+!RIP into !PRONOUNOBJECTIVE
+!RIP me off
+!RIP off
+!RIP offs
+!RIP to pieces
+!RIP us off
+!RUFFLE !POSSESSIVEPRONOUN feathers
+!RUFFLE !PRONOUNOBJECTIVE feathers
+!RUFFLE !YOU feathers
+!RUFFLE feather
+!RUFFLE feathers
+!RUFFLE feelings
+!RUFFLE more than !DETERMINER few feathers
+!RUFFLE some feathers
+!SEE my home abused
+!SEE our homes abused
+!SHOW !POSSESSIVEPRONOUN ignorance
+!SHOW no remorse
+!TAKE !DETERMINER innocent life
+!TAKE !DETERMINER life of
+!TAKE !DETERMINER lives of innocent
+!TAKE !DETERMINER lives of innocent civilians
+!TAKE !DETERMINER lot of innocent lives
+!TAKE !PRONOUNOBJECTIVE to task
+!TAKE advantage of !DETERMINER freedoms
+!TAKE advantage of !DETERMINER people
+!TAKE advantage of !DETERMINER poor
+!TAKE advantage of !POSSESSIVEPRONOUN
+!TAKE advantage of !POSSESSIVEPRONOUN generosity
+!TAKE advantage of !POSSESSIVEPRONOUN good will
+!TAKE advantage of !POSSESSIVEPRONOUN innocence
+!TAKE advantage of !POSSESSIVEPRONOUN kindness
+!TAKE advantage of !POSSESSIVEPRONOUN trust
+!TAKE advantage of !PRONOUNOBJECTIVE
+!TAKE advantage of helpless
+!TAKE advantage of innocent
+!TAKE advantage of me
+!TAKE advantage of my
+!TAKE advantage of my generosity
+!TAKE advantage of my good will
+!TAKE advantage of my graciousness
+!TAKE advantage of my innocence
+!TAKE advantage of my kindness
+!TAKE advantage of my trust
+!TAKE advantage of our
+!TAKE advantage of our country's good will
+!TAKE advantage of our country's graciousness
+!TAKE advantage of our country's leniency
+!TAKE advantage of our freedoms
+!TAKE advantage of our generosity
+!TAKE advantage of our good will
+!TAKE advantage of our graciousness
+!TAKE advantage of our innocence
+!TAKE advantage of our kindness
+!TAKE advantage of our leniency
+!TAKE advantage of people
+!TAKE advantage of people's generosity
+!TAKE advantage of people's good will
+!TAKE advantage of people's kindness
+!TAKE advantage of people's trust
+!TAKe advantage of poor
+!TAKE advantage of their generosity
+!TAKE advantage of their good will
+!TAKE advantage of their kindness
+!TAKE advantage of their trust
+!TAKE advantage of them
+!TAKE advantage of unsuspecting
+!TAKE advantage of us
+!TAKE advantage of you
+!TAKE advantage of your generosity
+!TAKE advantage of your good will
+!TAKE advantage of your innocence
+!TAKE advantage of your kindness
+!TAKE advantage of your trust
+!TAKE advantage over
+!TAKE all of those innocent lives
+!TAKE all those innocent lives
+!TAKE away !DETERMINER freedom
+!TAKE away !DETERMINER freedoms
+!TAKE away !POSSESSIVEPRONOUN right
+!TAKE away !POSSESSIVEPRONOUN rights
+!TAKE away freedom
+!TAKE away freedoms
+!TAKE away my rights
+!TAKE away our freedom
+!TAKE away our freedoms
+!TAKE away our right
+!TAKE away our rights
+!TAKE away some freedom
+!TAKE away some freedoms
+!TAKE away some of our freedom
+!TAKE away some of our freedoms
+!TAKE civilization back to !DETERMINER dark ages
+!TAKE innocent civilians
+!TAKE innocent civilians' lives
+!TAKE innocent life
+!TAKE innocent lives
+!TAKE it out on innocent
+!TAKE jobs away
+!TAKE jobs away from
+!TAKE jobs from us
+!TAKE me to task
+!TAKE of all those lives
+!TAKE of all those people's lives
+!TAKE of all those peoples' lives
+!TAKE of innocent lives
+!TAKE of lives
+!TAKE of so many innocent lives
+!TAKE offense
+!TAKE offense at
+!TAKE offense from
+!TAKE our knowledge and turned it against us
+!TAKE our money and used it against us
+!TAKE so many innocent lives
+!TAKE them to task
+!TAKE those innocent lives
+!TAKE to task
+!TAKE umbrage
+!TAKE umbrage at
+!TAKE umbrage on
+!TAKE unfair blame
+!TAKE us to task
+!TAKE you to task
+!THROW !DETERMINER conniption
+!THROW !DETERMINER conniption fit
+!THROW away her life
+!THROW away his life
+!THROW away lives
+!THROW away their lives
+!THROW it back in !POSSESSIVEPRONOUN face
+!THROW it back in !PRONOUNOBJECTIVE face
+!THROW it back in my face
+!THROW it back in our face
+!THROW it back in their face
+!THROW it back in your face
+!THROW my !GEOREGION
+!THROW our !GEOREGION
+!TURN !POSSESSIVEPRONOUN back on !PRONOUNOBJECTIVE
+!TURN !POSSESSIVEPRONOUN back on me
+!TURN !POSSESSIVEPRONOUN back on us
+!TURN !POSSESSIVEPRONOUN backs on !PRONOUNOBJECTIVE
+!TURN !POSSESSIVEPRONOUN backs on me
+!TURN !POSSESSIVEPRONOUN backs on us
+!TURN around and stab !PRONOUNOBJECTIVE in !DETERMINER back
+!TURN around and stab me in !DETERMINER back
+!TURN around and stab us in !DETERMINER back
+!TURN around and stab you in !DETERMINER back
+!WORK !PRONOUNOBJECTIVE into !DETERMINER lather
+!WORK !REFLEXIVEPRONOUN into !DETERMINER lather
+!WORK into !DETERMINER lather
+!WORK up about
+!WORK up into !DETERMINER lather
+!WORK yourself into !DETERMINER lather
+. how dare
+. shame on
+. shame on !PRONOUNOBJECTIVE
+. shame on them
+. what !DETERMINER joke
+abandon me
+abandon us
+abandoned me
+abandoned us
+abandoning me
+abandoning us
+abandons me
+abandons us
+absolute contempt
+absolutely contemptible
+absolutely no
+absolutely not
+accept this illusion
+accepted this illusion
+accepted this illusion uncritically
+accepting this illusion
+accepting this illusion uncritically
+accepts this illusion
+accepts this illusion uncritically
+accusatory tone
+accusatory tones
+act against innocent people
+act bitchy
+act cruelly
+act deceitfully
+act like !DETERMINER maniac
+act rudely
+acted bitchy
+acted cruelly
+acted deceitfully
+acted like !DETERMINER maniac
+acted rudely
+acting bitchy
+acting cruelly
+acting deceitfully
+acting like !DETERMINER maniac
+acting rudely
+acts cruelly
+acts deceitfully
+acts like !DETERMINER maniac
+acts rudely
+affront to civilized society
+against innocent
+against innocent fellow humans
+against innocent people
+against innocent persons
+against one's will
+against one's wishes
+against perfectly innocent
+against SO many innocent
+all-around bitch
+all !DETERMINER innocent victims
+all !DETERMINER lives !PRONOUNNOMINAL brought down
+all !DETERMINER lives !PRONOUNNOMINAL destroyed
+all !DETERMINER lives !PRONOUNNOMINAL took
+all !DETERMINER lives that !PRONOUNNOMINAL brought down
+all !DETERMINER lives that !PRONOUNNOMINAL destroyed
+all !DETERMINER lives that !PRONOUNNOMINAL took
+all !DETERMINER lives that they took with them
+all !DETERMINER lives they took with them
+all !DETERMINER thanks !ROYALWE get back
+all !DETERMINER thanks he gets back
+all !DETERMINER thanks she gets back
+all !DETERMINER thanks they get back
+all !DETERMINER thanks you get back
+all !ROYALWE get back is abuse
+all around bastard
+all around bitch
+all bent out of shape
+all he gets back is abuse
+all she gets back is abuse
+all they get back is abuse
+all worked up
+all worked up about
+all worked up over
+all you get back is abuse
+allow such easy access into our !GEOREGION
+allow terrorists
+allowed such easy access into our !GEOREGION
+allowed terrorists
+allowing such easy access into our !GEOREGION
+allowing terrorists
+allows such easy access into our !GEOREGION
+allows terrorists
+america got bombed
+American people have suffered
+an all-around bastard
+an all-around bitch
+an all around bastard
+an all around bitch
+an angered
+an asshole
+an eternal damnation
+an evil
+an inane
+and again I was told
+and for what?
+and how was !POSSESSIVEPRONOUN generosity returned
+and how was !POSSESSIVEPRONOUN kindness returned
+and how was my generosity returned
+and how was my kindness returned
+and how was our generosity returned
+and how was our kindness returned
+and how was their generosity returned
+and how was their kindness returned
+and how was your generosity returned
+and how was your kindness returned
+anger and defiance
+anger and exasperation
+anger rises hysterically
+anger rising hysterically
+anger rose hysterically
+anger toward
+anger towards
+angered over
+angrily and defiantly
+angrily pursed
+angrily sneered
+angry about
+angry at
+angry fire and brimstone
+angry glare
+angry glares
+angry look
+angry looks
+angry protest
+angry protests
+angry sneer
+angry sneers
+angry snit
+angry stare
+angry stares
+angry tizzy
+angry words
+animus cancellandi
+animus capiendi
+animus derelinquendi
+animus furandi
+animus injuriandi
+animus lucrandi
+animus manendi
+animus possidendi
+animus recipiendi
+animus remanendi
+animus revertendi
+animus revocandi
+annoyance at
+annoyances at
+annoyed about
+annoyed at
+annoyed that
+annoys at
+antagonized by
+anti-social segments of our society
+anyone doing such !DETERMINER thing
+are being unfairly
+are being unfairly lost
+are being unfairly lost now
+are deranged
+are fed up
+are fed up with
+are going to get away with
+are going to get off scot-free
+are going to get off scot free
+are in for !DETERMINER rude awakening
+are liars
+are living !DETERMINER lie
+are so deranged
+are so uncivilized
+are so uneducated
+are ticked off
+are unfair
+are unfair to
+arrogance
+arrogant sob
+arrogant sobs
+arrogant son of !DETERMINER bitch
+arrogant sons of bitches
+arrogantly impassive
+as an excuse to attack
+as an excuse to bother
+as an excuse to cause trouble
+as an excuse to cheat
+as an excuse to gain
+as an excuse to hurt
+as backwards as
+as backwards as !PRONOUNOBJECTIVE
+as backwards as them
+as backwards as you
+as if Americans are !DETERMINER enemy of god
+as if he was an animal
+as if I were an animal
+as if she was an animal
+as if they were animals
+as if we were animals
+as to kill
+as to kill countless
+as to kill countless innocents
+as to maim
+as to murder
+ass hole
+ass hole's
+ass holes
+asshole
+assholes
+assholes who have no clue
+assign blame
+assigned blame
+assigning blame
+assigns blame
+at !DETERMINER hands of
+at !POSSESSIVEPRONOUN maddest
+at each other's throats
+at one another's throats
+at this late date
+at your maddest
+attack !POSSESSIVEPRONOUN families
+attack !POSSESSIVEPRONOUN family
+attack helpless
+attack innocent
+attack innocent people
+attack innocent unsuspecting
+attack me unfairly
+attack my family
+attack on children
+ATTACK ON MEN, WOMEN, AND CHILDREN
+attack on our homeland
+attack on women and children
+attack our families
+attack our homeland
+attack unsuspecting
+attack us on our homeland
+attack us unfairly
+attacked !POSSESSIVEPRONOUN families
+attacked !POSSESSIVEPRONOUN family
+attacked helpless
+attacked innocent
+attacked innocent people
+attacked innocent unsuspecting
+attacked me unfairly
+attacked my family
+attacked on our homeland
+attacked our families
+attacked our homeland
+attacked unsuspecting
+attacked us on our homeland
+attacked us unfairly
+attacking !POSSESSIVEPRONOUN families
+attacking !POSSESSIVEPRONOUN family
+attacking helpless
+attacking innocent
+attacking innocent people
+attacking innocent unsuspecting
+attacking me unfairly
+attacking my family
+attacking on our homeland
+attacking our families
+attacking our homeland
+attacking unsuspecting
+attacking us on our homeland
+attacking us unfairly
+attacks !POSSESSIVEPRONOUN families
+attacks !POSSESSIVEPRONOUN family
+attacks helpless
+attacks innocent
+attacks innocent people
+attacks innocent unsuspecting
+attacks me unfairly
+attacks my family
+attacks on our homeland
+attacks our families
+attacks our homeland
+attacks unsuspecting
+attacks us on our homeland
+attacks us unfairly
+avenge !DETERMINER senseless loss
+avenge !DETERMINER senseless loss of life
+avenge !DETERMINER senseless loss of lives
+avenge !DETERMINER senseless losses
+avenged !DETERMINER
+avenged !DETERMINER senseless loss
+avenged !DETERMINER senseless losses
+avenges !DETERMINER senseless loss
+avenges !DETERMINER senseless losses
+avenging !DETERMINER senseless loss
+avenging !DETERMINER senseless losses
+avenging spirit
+avoidable risk
+avoidable risks
+awful act
+awful acts
+awful for !PRONOUNOBJECTIVE to
+backward nation
+backward nations
+backwards nation
+backwards nations
+bad for !PRONOUNOBJECTIVE to
+barbaric
+bastard
+bastards
+be fed up
+be fed up with
+be in for !DETERMINER rude awakening
+be ticked off
+be tired of
+became victims
+because of !DETERMINER mad man
+because of !DETERMINER stupidity
+because of an evil man
+because of POSSESSIVEPRONOUN! stupidity
+because of stupidity
+because of the stupidity
+become victims
+becomes victims
+becoming victims
+behave rudely
+behaved rudely
+behaves rudely
+behaving rudely
+being !DETERMINER bastard
+being !DETERMINER bitch
+being !DETERMINER jerk
+being blamed for what they had nothing to do with
+being fed up with
+being given !DETERMINER runaround
+being selfish
+bellow fire and brimstone
+bellowed fire and brimstone
+bellowing fire and brimstone
+bellows fire and brimstone
+beneath contempt
+bent out of shape
+berate !REFLEXIVEPRONOUN
+berate !YOU
+berate yourselves
+berated !REFLEXIVEPRONOUN
+berated !YOU
+berated yourselves
+berates !REFLEXIVEPRONOUN
+berates !YOU
+berates yourselves
+berating !REFLEXIVEPRONOUN
+berating !YOU
+berating yourselves
+berserk with anger
+beside !REFLEXIVEPRONOUN with anger
+betray me
+betray us
+betrayed me
+betrayed us
+betraying me
+betraying us
+betrays me
+betrays us
+better than currently
+better than they currently do
+better than they do
+biblical anger
+BITING !DETERMINER HANDS THAT IS FEEDING YOU
+BITING THE HANDS THAT IS FEEDING YOU
+bitter anger
+bitter resentments
+blamable
+blamableness
+blamably
+blame
+blame-game
+blame-shifting
+blame !DETERMINER
+blame for
+blame game
+blame is unfair
+blame it on
+blame on
+blame that on
+blame this on
+blame to
+blame upon
+blame yourself
+blamed
+blamed !DETERMINER
+blamed by
+blamed for
+blamed for being
+blamed it on
+blamed that on
+blamed this on
+blameful
+blamefully
+blamer
+blamers
+blames
+blames !DETERMINER
+blames it on
+blames that on
+blames this on
+blaming
+blaming !DETERMINER
+blaming it on
+blaming that on
+blaming this on
+blew !POSSESSIVEPRONOUN cool
+blew !POSSESSIVEPRONOUN fuse
+blew !POSSESSIVEPRONOUN gasket
+blew !PRONOUNOBJECTIVE cool
+blew !PRONOUNOBJECTIVE fuse
+blew !PRONOUNOBJECTIVE gasket
+blew their cool
+blew their fuse
+blew their gasket
+blew your cool
+blew your fuse
+blew your gasket
+blind from anger
+blind from rage
+blind rage
+blind with anger
+blind with rage
+blinded from anger
+blinded from rage
+blinded with anger
+blinded with rage
+blood boil
+bloody murder
+blow !POSSESSIVEPRONOUN cool
+blow !POSSESSIVEPRONOUN fuse
+blow !POSSESSIVEPRONOUN gasket
+blow !PRONOUNOBJECTIVE cool
+blow !PRONOUNOBJECTIVE fuse
+blow !PRONOUNOBJECTIVE gasket
+blow off !DETERMINER face of !DETERMINER earth
+blow their cool
+blow their fuse
+blow their gasket
+blow your cool
+blow your fuse
+blow your gasket
+blowing !POSSESSIVEPRONOUN cool
+blowing !POSSESSIVEPRONOUN fuse
+blowing !POSSESSIVEPRONOUN gasket
+blowing !PRONOUNOBJECTIVE cool
+blowing !PRONOUNOBJECTIVE fuse
+blowing !PRONOUNOBJECTIVE gasket
+blowing off !DETERMINER face of !DETERMINER earth
+blowing their cool
+blowing their fuse
+blowing their gasket
+blowing your cool
+blowing your fuse
+blowing your gasket
+blown off !DETERMINER face of !DETERMINER earth
+blown off and ignored
+blows !POSSESSIVEPRONOUN cool
+blows !POSSESSIVEPRONOUN fuse
+blows !POSSESSIVEPRONOUN gasket
+blows !PRONOUNOBJECTIVE cool
+blows !PRONOUNOBJECTIVE fuse
+blows !PRONOUNOBJECTIVE gasket
+blows off !DETERMINER face of !DETERMINER earth
+blows their cool
+blows their fuse
+blows their gasket
+blows your cool
+blows your fuse
+blows your gasket
+boiling anger
+bomb !DETERMINER hell out
+bombed !DETERMINER hell out
+bombed !DETERMINER homes of innocent people
+bombing !DETERMINER hell out
+bombing !DETERMINER homes of innocent people
+bombing innocent people
+bombs !DETERMINER hell out
+bombs !DETERMINER homes of innocent people
+bombs on innocent people
+boss everyone around
+boss me around
+boss us around
+bossed everyone around
+bossed me around
+bossed us around
+bosses everyone around
+bosses me around
+bosses us around
+bossing everyone around
+bossing me around
+bossing us around
+bristle with anger
+bristled with anger
+bristled,
+bristled.
+bristled;
+bristles with anger
+bristling with anger
+brutal act
+brutal acts
+brutal detachment
+brutal detachments
+brutal fact
+brutal task
+brutal that !DETERMINER
+brutal to that !DETERMINER
+brutal toward
+brutal towards
+brutal with
+brutalize !DETERMINER
+brutalize !POSSESSIVEPRONOUN
+brutes of
+bunched fists
+burning rage
+by !DETERMINER bunch of cowards
+by not protecting us
+by these terrible acts
+can't forgive
+can't forgive or forget
+can't listen
+can't stand
+can't stand !DETERMINER
+can't stand !DETERMINER likes of
+can't stand !DETERMINER sight of
+can't stand that
+can affect !DETERMINER confidence
+can control !DETERMINER minds
+can get no respect
+can go fuck herself
+can go fuck himself
+can go fuck themselves
+can go screw herself
+can go screw himself
+can go screw themselves
+can go to hell
+can kiss !POSSESSIVEPRONOUN ass
+can kiss !POSSESSIVEPRONOUN butt
+can kiss my ass
+can kiss my butt
+can kiss off
+can no longer accept this illusion
+can shake !DETERMINER confidence
+can stoop so low
+can stoop so low as
+can stoop so low as to kill
+can stoop so low as to kill countless innocents
+can that stop these
+can that stop these nuts
+can that stop those
+can you fathom having to decide whether you
+can you possibly imagine
+cannot forgive
+cannot forgive or forget
+cannot stand that
+capable of evil
+capable of such evil
+care so little
+cared so little
+cares so little
+caring so little
+carried on against me
+cause broken
+cause broken families
+cause shame
+cause so many broken families
+caused broken
+caused broken families
+caused shame
+caused so many broken families
+causes broken
+causes broken families
+causes shame
+causes so many broken families
+causing broken
+causing broken families
+causing shame
+causing so many broken families
+cavalier attitude
+cavalier attitudes
+cavalier disregard
+celebrate !DETERMINER deaths of innocent people
+celebrated !DETERMINER deaths of innocent people
+celebrates !DETERMINER deaths of innocent people
+celebrating !DETERMINER deaths of innocent people
+chafe about
+chafe on
+chafe over
+chafed !DETERMINER lot
+chafed about
+chafed on
+chafed on !PRONOUNOBJECTIVE
+chafed on !YOU
+chafed on me
+chafed on us
+chafed over
+chafes about
+chafes on
+chafes over
+chafing about
+chafing on
+chafing over
+cheat me
+cheat us
+cheated me
+cheated us
+cheating me
+cheating us
+cheats me
+cheats us
+childishness
+choose to ignore me
+choose to ignore us
+chooses to ignore me
+chooses to ignore us
+choosing to ignore me
+choosing to ignore us
+chose to ignore me
+chose to ignore us
+clenched teeth
+clip !POSSESSIVEPRONOUN words
+clipped !POSSESSIVEPRONOUN words
+clipped !PRONOUNOBJECTIVE words
+clipped my words
+clipped our words
+clipped tone
+clipped tones
+clipping !POSSESSIVEPRONOUN words
+clips !POSSESSIVEPRONOUN words
+clueless asshole
+clueless assholes
+cold-blooded
+cold-blooded murder
+cold-blooded murders
+cold blooded
+coldblooded
+commit an outrage
+commit these acts
+commit this act
+commiting these acts
+commiting this act
+commits an outrage
+commits these acts
+commits this act
+committed against me
+committed against us
+committed an outrage
+committed on innocent
+committed on other truly innocent
+committed on truly innocent
+committed these acts
+committed this act
+committing an outrage
+committing these acts
+complete asshole
+complete assholes
+complete disregard
+complete disregard for
+complete disregard for human life
+complete disregard for human lives
+completely avoidable
+completely selfish
+completely undeserved
+completely unforgivable
+completely unprovoked
+conniption fit
+conniption fits
+consume in anger
+consumed in anger
+consumes in anger
+consuming in anger
+contempt for
+contemptuous anger
+control !DETERMINER minds
+controlled !DETERMINER minds
+controlling !DETERMINER mind
+controls !DETERMINER minds
+could do such evil
+could have been averted
+could have been prevented
+could have done something about it
+could have done something about it but didn't
+could have done something about it but refused
+could have saved !PRONOUNOBJECTIVE but chose not to
+could have stopped it but didn't
+could just kill
+could just kill !PRONOUNOBJECTIVE
+could just strangle
+could not even find !DETERMINER way
+could not even find it in herself
+could not even find it in himself
+could not even find it in themselves
+could not even protect her own
+could not even protect his own
+could not even protect their own
+could not stand that
+could strangle
+couldn't lift !DETERMINER finger
+couldn't stand that
+countless innocents
+Cover up with lies
+Covered up with lies
+Covering up with lies
+Covers up with lies
+cowardice
+cowardly
+Cowardly act
+Cowardly acts
+cowardly and
+cowards
+crab at
+crabbed at
+crabbing at
+crabs at
+crazed look
+crazed looks
+create more problems than it solves
+created more problems than it solves
+creates more problems than it solves
+creating more problems than it solves
+cruel disappointment
+cruel enforcer
+cruel joke
+cruel jokes
+cruelty man
+dad-blamed
+dad-blasted
+dad-burned
+damn !DETERMINER
+damn !POSSESSIVEPRONOUN
+damn !PRONOUNOBJECTIVE
+damn bitch
+damn that
+Damn them
+damn thing
+damn things
+damn well please
+damn with faint praise
+damnable about !DETERMINER
+damnable that !DETERMINER
+dander up
+dangle these positions
+dangle this position
+dangled these positions
+dangled this position
+dangles these positions
+dangles this position
+dangling these positions
+dangling this position
+dastardly
+dastardly deed
+dastardly deeds
+dead for no reason
+death of an innocent person
+death of innocent people
+deaths of hundreds of innocent people
+deaths of innocent people
+deaths of innocent persons
+DEATHS OF SO MANY INNOCENT PEOPLE
+deaths of thousands of innocent people
+deceit and deception
+deceitful
+deceive !REFLEXIVEPRONOUN
+deceive into
+deceived !POSSESSIVEPRONOUN
+deceived !PRONOUNOBJECTIVE
+deceived !REFLEXIVEPRONOUN
+deceived into
+deceives !REFLEXIVEPRONOUN
+deceives into
+deceiving !REFLEXIVEPRONOUN
+deceiving into
+deceptive trick
+deceptive tricks
+deep contempt
+democracy was assaulted
+denied basic rights
+denies basic rights
+deny basic rights
+denying basic rights
+deprive of basic rights
+deranged mind
+deranged minds
+desert me
+desert us
+deserted me
+deserted us
+deserting me
+deserting us
+deserts me
+deserts us
+deserve better
+deserve eternal damnation
+deserve the worst
+deserve worse
+deserved better
+deserved eternal damnation
+deserved the worst
+deserved worse
+deserves better
+deserves eternal damnation
+deserves the worst
+deserves worse
+deserving better
+deserving eternal damnation
+deserving the worst
+deserving worse
+despicability
+despicable
+despicableness
+despicably
+destroy !DETERMINER life
+destroy another life
+destroyed !DETERMINER life
+destroyed another life
+destroying !DETERMINER life
+destroying another life
+destroys !DETERMINER life
+destroys another life
+devoid of sensitivity
+did feel anger
+did feel angry
+did feel furious
+did feel mad
+did he really accomplish
+did he really accomplish what he set out to do
+did I really need
+did it better then than they do now
+did not !DETERMINER thing to stop it
+did not appreciate
+did not care what I wanted
+did not care what we wanted
+did not care who they killed
+did not care whom they killed
+did not do anthing
+did not do any thing
+did not do anything to !PRONOUNOBJECTIVE to deserve
+did not do anything to deserve
+did not do anything to deserve this
+did not do anything wrong
+did not even bother
+did not have !DETERMINER balls
+did not have any regard for
+did not have any thought for
+did not have the balls
+did not have to happen
+did not lift !DETERMINER finger
+did not protect
+did not protect our borders !DETERMINER way he !MUSTSHOULD have
+did not protect our borders !DETERMINER way she !MUSTSHOULD have
+did not protect our borders !DETERMINER way they !MUSTSHOULD have
+did not respect me
+did not respect us
+did not so much as lift !DETERMINER finger
+did not take enough responsibility
+did nothing to harass
+did nothing to hurt !PRONOUNOBJECTIVE
+did nothing to provoke
+did nothing to stop it
+did she really accomplish
+did she really accomplish what she set out to do
+did they really accomplish
+did they really accomplish what they set out to do
+did we really need
+did we really need this
+did you really accomplish
+did you really accomplish what you set out to do
+did you really need
+didn't appreciate
+didn't appreciate being blown off
+didn't care what I wanted
+didn't care what we wanted
+didn't care who they killed
+didn't care whom they killed
+didn't deserve
+didn't do anthing
+didn't do any thing
+didn't do anything to !PRONOUNOBJECTIVE
+didn't do anything to deserve
+didn't do anything to deserve this
+didn't do anything to hurt !PRONOUNOBJECTIVE
+didn't do anything wrong
+didn't even bother
+didn't feel remorseful for anything
+didn't give !DETERMINER damn
+didn't have !DETERMINER balls
+didn't have !DETERMINER decency
+didn't have !DETERMINER guts
+didn't have any remorse
+didn't have any remorsefulness
+didn't have remorse
+didn't have the balls
+didn't have to happen
+didn't have to occur
+didn't help
+didn't lift !DETERMINER finger
+didn't protect
+didn't respect me
+didn't respect us
+didn't so much as lift !DETERMINER finger
+didn't stop to think about !DETERMINER lives
+didn't take enough responsibility
+didn't think about !DETERMINER lives
+die for no reason
+die for nothing
+die senselessly
+died before they ever had !DETERMINER chance to meet
+died before they ever met
+died for no reason
+died for nothing
+died senselessly
+dies for no reason
+dies senselessly
+direct !POSSESSIVEPRONOUN anger
+direct their anger
+direct your anger
+directed your anger
+directing !POSSESSIVEPRONOUN anger
+directing their anger
+directs !POSSESSIVEPRONOUN anger
+directs !PRONOUNOBJECTIVE anger
+directs their anger
+directs your anger
+disdain for
+disgraceful act
+disgraceful action
+disgraceful actions
+disgraceful acts
+disgraceful behavior
+disgraceful behaviors
+disgregard for
+disgusted resignation
+disgusting action
+disgusting actions
+disgusting acts
+disgusting ruling
+disgusting rulings
+dismiss it without !DETERMINER fair hearing
+dismissed it without !DETERMINER fair hearing
+dismisses it without !DETERMINER fair hearing
+dismissing it without !DETERMINER fair hearing
+display of anger
+disregard for
+disregard for !DETERMINER value of human life
+disregard for !DETERMINER value of human lives
+disregard of
+disrespect to me
+disrespect to us
+distain toward
+distain towards
+disturbed about
+disturbed that
+do not deserve
+do not feel remorseful for anything
+do not feel that human life is important
+do not think it's appropriate
+do not think it's fair
+do not think it's right
+do they really need
+does he really need
+does no one
+does no one care
+does not deserve
+does she really need
+does that stop these
+does that stop these nuts
+does that stop those
+doesn't anyone
+doesn't anyone care
+doesn't appreciate
+doesn't care how anyone else feels
+doesn't care how anyone feels
+doesn't care what I want
+doesn't care what we want
+doesn't deserve
+doesn't even care how anyone else feels
+doesn't even care how anyone feels
+doesn't feel remorseful for anything
+doesn't give !DETERMINER damn
+doesn't have !DETERMINER balls
+doesn't have !DETERMINER decency
+doesn't have !DETERMINER guts
+doesn't respect me
+doesn't respect us
+doesn't take enough responsibility
+doesn't think it's appropriate
+doesn't think it's right
+don't deserve
+don't feel that human life is important
+don't give !DETERMINER damn
+don't have !DETERMINER balls
+don't have !DETERMINER decency
+don't have !DETERMINER guts
+don't take enough responsibility
+don't think it's appropriate
+don't think it's fair
+don't think it's right
+dress !PRONOUNOBJECTIVE down
+dress me down
+dress them down
+dress us down
+dress you down
+dressed !PRONOUNOBJECTIVE down
+dressed down
+dressed me down
+dressed them down
+dressed you down
+dresses !PRONOUNOBJECTIVE down
+dresses down
+dresses me down
+dresses them down
+dresses us down
+dresses you down
+dressing !PRONOUNOBJECTIVE down
+dressing down
+dressing me down
+dressing them down
+dressing us down
+dressing you down
+drip with spite
+dripped with spite
+dripping with spite
+drips with spite
+drop !DETERMINER few bombs on innocent people
+drop bombs on innocent people
+dropped !DETERMINER few bombs on innocent people
+dropped bombs on innocent people
+dropping !DETERMINER few bombs on innocent people
+dropping bombs on innocent people
+drops !DETERMINER few bombs on innocent people
+drops bombs on innocent people
+due to !DETERMINER actions of some people
+due to !DETERMINER actions of some people in power
+dumb American
+dumb enough to
+dying for no reason
+dying for nothing
+dying senselessly
+earn !DETERMINER living by sitting
+earned !DETERMINER living by sitting
+earning !DETERMINER living by sitting
+earns !DETERMINER living by sitting
+egregious
+egregiously
+egregiousness
+enable terrorists
+enabled terrorists
+enables terrorists
+enabling terrorists
+enflamed in anger
+engulf in anger
+engulfed in anger
+engulfing in anger
+engulfs in anger
+enrage at
+enraged !DETERMINER
+enraged at
+entirely avoidable
+exasperation and anger
+exchange words with
+exchanged words with
+exchanges words with
+exchanging words with
+exhange of words
+exhaust !POSSESSIVEPRONOUN patience
+exhausted !POSSESSIVEPRONOUN patience
+exhausting !POSSESSIVEPRONOUN patience
+exhausts !POSSESSIVEPRONOUN patience
+expect everything free
+expect everything to be free
+expecting everything free
+expecting everything to be free
+expects everything free
+expects everything to be free
+expend !POSSESSIVEPRONOUN anger
+expend !POSSESSIVEPRONOUN anger on
+expend your anger
+expend your anger on
+expended !POSSESSIVEPRONOUN anger
+expended !POSSESSIVEPRONOUN anger on
+expended your anger
+expended your anger on
+expending !POSSESSIVEPRONOUN anger
+expending !POSSESSIVEPRONOUN anger on
+expending your anger
+expending your anger on
+expends !POSSESSIVEPRONOUN anger
+expends !POSSESSIVEPRONOUN anger on
+expends your anger
+expends your anger on
+exploit !DETERMINER lives of innocent people
+exploited !DETERMINER lives of innocent people
+exploiting !DETERMINER lives of innocent people
+exploits !DETERMINER lives of innocent people
+explosion of anger
+explosions of anger
+express !POSSESSIVEPRONOUN anger
+express anger
+expressed !POSSESSIVEPRONOUN anger
+expresses !POSSESSIVEPRONOUN anger
+expressing !POSSESSIVEPRONOUN anger
+extreme rudeness
+extremely rude
+eye rake !DETERMINER room in anger
+eyes blazing murderously
+eyes blazing with anger
+eyes bulging from their sockets
+eyes narrowed with contempt
+eyes raked !DETERMINER room
+eyes raking !DETERMINER room
+eyes scorching
+eyes sharpening
+face flushing with indignation
+face lit with bitter triumph
+face pinched
+face tight
+face turned purple
+face turned red
+face turned red then purple
+face turning red
+face turns purple
+fail to have regard
+fail to live up to !POSSESSIVEPRONOUN responsibility
+fail to protect
+fail to take !DETERMINER regard
+fail to take account of
+fail to think
+fail to think about
+failed to have regard
+failed to live up to !POSSESSIVEPRONOUN responsibility
+failed to protect
+failed to take !DETERMINER regard
+failed to take account of
+failed to think
+failed to think about
+failing to live up to !POSSESSIVEPRONOUN responsibility
+failing to protect
+failing to think
+fails to have regard
+fails to live up to !POSSESSIVEPRONOUN responsibility
+fails to protect
+fails to take !DETERMINER regard
+fails to take account of
+fails to think
+fails to think about
+fan !DETERMINER flames
+fan !DETERMINER flames of
+fanatical nationalist
+fanatical nationalists
+fed up
+fed up to !DETERMINER teeth with
+fed up to here with
+fed up up to here
+fed up with
+fiasco that !DETERMINER
+fiery anger
+fiery with anger
+find it bothering
+find maddening
+find most maddening
+finding it bothering
+finding maddening
+finding most maddening
+finds it bothering
+finds maddening
+finds most maddening
+fit of anger
+fit of temper
+fit to be tied with anger
+fits of anger
+fits of temper
+flared nostrils
+flaring !POSSESSIVEPRONOUN nostrils
+flaring !PRONOUNOBJECTIVE nostrils
+flaring my nostrils
+flaring nostrils
+flush with indignation
+flushed with anger
+flushed with indignation
+flushes with indignation
+flushing with indignation
+foolish enough to
+for allowing this continued ill treatment
+for allowing this ill treatment
+for failing to
+for lack of preparedness
+for no apparent reason
+for no apparent reasons
+for no good reason
+for no reason
+for no reason at all
+for no reason whatever
+for no reason whatsoever
+for not reporting !DETERMINER suspicious
+for nothing but their own reasons
+for someone to want power so bad
+for thinking about money
+for what good?
+for what they were about to do to so many human beings
+force !DETERMINER innocent
+force an innocent
+force innocent people
+forced !DETERMINER innocent
+forced an innocent
+forced innocent people
+forces !DETERMINER innocent
+forces an innocent
+forces innocent people
+forcing !DETERMINER innocent
+forcing an innocent
+forcing innocent people
+found it bothering
+found maddening
+found most maddening
+frenzied with anger
+fret and fume
+frets and fumes
+fretted and fumed
+fretting and fuming
+friggen AUDACITY
+from letting all these people
+from stupidity
+from these terrible acts
+frustrated rage
+fuckin audacity
+full head of rage
+full of anger
+full of angry piss and vinegar
+fully unprovoked
+fulminate about
+fulminate against
+fulminate over
+fulminate that
+fulminated about
+fulminated against
+fulminated over
+fulminated that
+fulminates about
+fulminates against
+fulminates over
+fulminates that
+fulminating about
+fulminating against
+fulminating over
+fulminating that
+fume about
+fume as
+fume at
+fume of anger
+fume on
+fume to
+fumed about
+fumed as
+fumed at
+fumed on about
+fumed to
+fumes about
+fumes as
+fumes at
+fumes of anger
+fumes on
+fumes to
+fuming about
+fuming as
+fuming at
+fuming on
+fuming to
+furious at
+furious faced
+furious gesticulation
+furious gesticulations
+furious rage
+furious rages
+fury on
+fury towards
+galled at
+galled by
+galled with
+gave !DETERMINER terrorists refuge
+gave away many of our national secrets
+gave away many of our secrets
+gave away our national secrets
+gave away our secrets
+gesticulate furiously
+gesticulated furiously
+gesticulates furiously
+gesticulating furiously
+give !PRONOUNOBJECTIVE an inch and he'll take !DETERMINER mile
+give !PRONOUNOBJECTIVE an inch and she'll take !DETERMINER mile
+give away many of our national secrets
+give away many of our secrets
+give away our national secrets
+give away our secrets
+give in too
+give them an inch and they'll take !DETERMINER mile
+given !DETERMINER runaround
+gives away many of our national secrets
+gives away many of our secrets
+gives away our national secrets
+gives away our secrets
+Gives more and helps more people around !DETERMINER world than all other countries combined
+giving away many of our national secrets
+giving away many of our secrets
+giving away our national secrets
+giving away our secrets
+glare of anger
+glares of anger
+glower with anger
+glowered at
+glowered from
+glowered on
+glowered with
+glowered with anger
+glowering look
+glowering looks
+glowering with anger
+glowers with anger
+god awful
+god damn
+god damned
+goddam it
+goddamned
+gone for no reason
+got away.
+grind out !DETERMINER words
+grinding out !DETERMINER words
+grinds out !DETERMINER words
+ground out !DETERMINER words
+grudging anger
+grudging tone
+grudging tones
+grumble about
+grumble on
+grumbled about
+grumbled at
+grumbled for
+grumbled from
+grumbled on
+grumbled with
+grumbles about
+grumbles on
+grumbling about
+grumbling on
+gutless wonder
+gutless wonders
+guttural rasp
+guttural rasps
+had !DETERMINER nerve
+had been blaming
+had been had
+had been squeezed out
+had been stuck with
+had blamed
+had enough
+had enough of
+had had all he could
+had had all she could
+had had all they could
+had had enough
+had had it
+had issues
+had issues with
+had it coming
+had it in for
+had more attention been
+had more money been
+had more resourses been
+had never done !DETERMINER hurtful thing
+had never done !PRONOUNOBJECTIVE harm
+had never done them harm
+had never hurt !DETERMINER flea
+had no concern
+had no consideration
+had not done one unfriendly thing
+had not done one unkind thing
+had nothing to do with !DETERMINER situation, yet became victims
+had nothing to do with this
+had nothing whatever
+had nothing whatever to do with this
+had to die
+had to die for no reason
+had to die for no reason at all
+had to really let !PRONOUNOBJECTIVE have it
+had what's coming
+half brains
+halfbrains
+harm innocent
+harm innocent people
+harmed innocent
+harmed innocent people
+harming innocent
+harming innocent people
+harms innocent
+harms innocent people
+hatred toward
+hatred towards
+have been betrayed
+have been murdered
+have no consideration
+have not done anything to !DETERMINER terrorist
+have that much nerve
+have to avenge
+haven't !DETERMINER balls
+he's !DETERMINER selfish
+he's demented
+he's so immature
+he almost blew up
+he blew !DETERMINER fuse
+he blew !DETERMINER gasket
+he blew up
+he caved in
+he did nothing to deserve
+he did nothing to stop it
+he didn't even bother
+he does not deserved
+he doesn't care if women and children die
+he doesn't deserve
+he don't care about anyone but himself
+he don't care if women and children die
+he don't give !DETERMINER damn
+he exploited her
+he exploited them
+he fumed
+he fumes
+he gets to do whatever he wants
+he got away with it
+he had !DETERMINER nerve
+he is !DETERMINER first to cry foul
+he is !DETERMINER liar
+he is foolish
+he is fuming
+he is pure evil
+he is scum
+he is so immature
+he is taking so long
+he just let it happen
+he killed !DETERMINER lot of people
+he knows that he's just as qualified
+He let terrorists run amok
+he let us down
+he needs to be taken down !DETERMINER peg
+he needs to be taken out
+he needs to be taken out permanently
+he needs to be taught !DETERMINER lesson
+he never does anything
+he refused to listen
+he should never have
+he speaks as if he is justified
+he takes so long
+he tore families apart
+he used her
+he used them
+he uses people.
+he was foolish
+he was framed
+he wouldn't listen
+head for eternal damnation
+head of rage
+headed for eternal damnation
+heading for eternal damnation
+heads for eternal damnation
+heap blame
+heap scorn
+heaped blame
+heaping blame
+heaping scorn
+heaps blame
+heaps scorn
+heartless act
+heartless acts
+heated argument
+heated argument with
+heated words
+heinous actions
+Hemorrhage anger
+hemorrhaged anger
+hemorrhages anger
+hemorrhaging anger
+her selfishness
+high dudgeon
+highjack airplanes full of innocent people
+highjacked airplanes full of innocent people
+highjacking airplanes full of innocent people
+highjacks airplanes full of innocent people
+his selfishness
+hit !DETERMINER roof about
+hit !DETERMINER roof over
+hold in contempt
+hot and bothered
+how angry
+how can !DETERMINER human being
+how can !DETERMINER person
+How can !DETERMINER person actually kill
+how can !DETERMINER person be expected
+how can !DETERMINER religion say
+how can anyone abandon
+how can anyone allow
+how can anyone be so cruel
+how can anyone dismiss
+how can anyone justify
+how can anyone shun
+how can anyone shut !POSSESSIVEPRONOUN eyes
+how can anyone stoop
+how can anyone turn !POSSESSIVEPRONOUN back
+how can human being be expected
+how can one justify
+how can one justify killing women and children
+how can people
+how can people be so cruel
+how can they justify
+how can they live with !REFLEXIVEPRONOUN
+how can they live with it
+how can they look !REFLEXIVEPRONOUN in !DETERMINER mirror
+how could !PRONOUNNOMINAL have allowed it to happen
+how could !PRONOUNNOMINAL have ever allowed it to happen
+how could !PRONOUNNOMINAL have ever let that happen
+how could !PRONOUNNOMINAL have ever permitted it to happen
+how could !PRONOUNNOMINAL have let that happen
+how could !PRONOUNNOMINAL have permitted it to happen
+how could that be allowed to happen
+how could that be permitted to happen
+how dare
+how dare he
+how dare she
+how dare someone
+how dare they
+how did !PRONOUNNOMINAL ever allow it to happen
+how did !PRONOUNNOMINAL ever allow that to happen
+how did !PRONOUNNOMINAL ever let it happen
+how did !PRONOUNNOMINAL ever let that happen
+how did !PRONOUNNOMINAL ever permit that to happen
+how did !PRONOUNNOMINAL let that happen
+how did !PRONOUNNOMINAL permit it to happen
+how little !PRONOUNNOMINAL has learned
+how little !PRONOUNNOMINAL have learned
+how pathetic
+how pathetically
+how pathetically little !PRONOUNNOMINAL has learned
+how pathetically little !PRONOUNNOMINAL have learned
+How sad to be so stupid
+how stupid
+how stupid people acted
+how stupid people can be
+how we let something like that happen
+how we let something like this happen
+huff about
+huff on
+huffed about
+huffed on
+huffing about
+huffing on
+huffs about
+huffs on
+huffy with anger
+hurt innocent
+hurt innocent people
+hurt innocent persons
+hurt my !GEOREGION
+hurt others not directly doing them harmWhy can he not just
+hurt our !GEOREGION
+hurt that comes to !DETERMINER innocent
+hurting innocent
+hurting innocent people
+hurting innocent persons
+hurting my !GEOREGION
+hurting our !GEOREGION
+hurts innocent
+hurts innocent people
+hurts innocent persons
+hurts my !GEOREGION
+hurts our !GEOREGION
+idiot
+idiotic enough to
+idiots
+idle away
+idle away time
+if !DETERMINER government spent !DETERMINER money going after !DETERMINER terrorists that they spent going after Bill Gates
+if our government spent !DETERMINER money going after !DETERMINER terrorists that they spent going after Bill Gates
+ignore !DETERMINER harm
+ignored !DETERMINER harm
+ignores !DETERMINER harm
+ignoring !DETERMINER harm
+ill treatment of !DETERMINER very people that are relied upon
+impassive arrogance
+in !DETERMINER angry face of
+in !DETERMINER end he will pay
+in !DETERMINER end she will pay
+in !DETERMINER end they will pay
+in !DETERMINER fume
+in !DETERMINER lather about
+in !DETERMINER rage
+in !DETERMINER snit of anger
+in allowing !DETERMINER terrorists
+in an angered
+in an angered huff
+in an angered tizzy
+in an angry lather
+in anger
+in contempt of
+in disgusted resignation
+in exasperation
+in for !DETERMINER rude
+in for !DETERMINER rude awakening
+in permitting !DETERMINER terrorists
+in this mess
+inane effort
+inane efforts
+incensed !DETERMINER
+incensed !POSSESSIVEPRONOUN
+incensed about
+incensed by
+incensed over
+incensed with
+indignant anger
+indignant displeasure
+indignant displeasures
+indignantly and angrily
+indignation meeting
+indignation meetings
+inflamed about
+inflamed over
+infuriate about
+infuriate over
+infuriated about
+infuriated over
+infuriates about
+infuriates over
+infuriating about
+infuriating over
+ingrates who
+injure innocent people
+injured innocent people
+injures innocent people
+injuring innocent people
+innocednt people massacred
+innocent adults
+innocent and deserved better
+innocent and should have been warned
+innocent and should have had !DETERMINER warning
+innocent animals bludgeoned
+innocent babies hurt
+innocent babies killed
+innocent babies murdered
+innocent baby hurt
+innocent baby killed
+innocent baby murdered
+innocent child hurt
+innocent child killed
+innocent child murdered
+Innocent children's life taken
+innocent children hurt
+innocent children killed
+innocent children murdered
+innocent citizens killed
+innocent dead
+innocent deaths
+innocent for !DETERMINER most part and should have had !DETERMINER warning
+innocent getting hurt
+innocent infant hurt
+innocent infant killed
+innocent infant murdered
+innocent infants hurt
+innocent infants killed
+innocent infants murdered
+innocent lives are being taken
+innocent lives were taken
+innocent men hurt
+innocent people's lives were taken away
+innocent people !AUX being killed
+innocent people !AUX dying
+innocent people are killed
+Innocent people being killed
+innocent people blamed
+innocent people bludgeoned
+innocent people butchered
+innocent people die
+innocent people died
+innocent people have died
+innocent people have to suffer
+innocent people hunted
+innocent people keep dying
+innocent people killed
+innocent people losing their lives
+innocent people lost their lives
+innocent people maimed
+innocent people murdered
+innocent people murdured
+innocent people must suffer
+INNOCENT PEOPLE NEVER KNEW WHAT HAPPENED
+innocent people should have to suffer
+innocent people should suffer
+innocent people slaughtered
+innocent people they killed
+innocent people tortured
+innocent people were hurt
+innocent people were killed
+innocent people were maimed
+innocent people were murdered
+innocent people who died
+innocent people who were hurt
+innocent people who were hurt and killed
+innocent people who were killed
+innocent person murdered
+innocent persons die
+innocent persons murdered
+innocent victim
+innocent victims
+innocent women hurt
+innocents were killed
+instead of guaranteeing
+instead of guaranteeing our
+instead of making sure !ROYALWE are safe
+instead of making sure !ROYALWE were safe
+instigate it
+instigated it
+instigates it
+instigating it
+intentionally defrauded
+intentionally incited
+intentionally inflamed
+invade my
+invade my world
+invade our
+invade some part of my world
+invaded my
+invaded my world
+invaded our
+invaded some part of my world
+invades my
+invades my world
+invades our
+invades some part of my world
+invading my
+invading my world
+invading our
+invading some part of my world
+irate at
+irateness at
+irritation crossing !POSSESSIVEPRONOUN face
+is !DETERMINER cruel
+is !DETERMINER liar
+is an outrage
+is completely avoidable
+is cruel
+is deranged
+is fed up
+is fed up with
+is going to get away with
+is going to get off scot-free
+is going to get off scott free
+is in for !DETERMINER rude awakening
+is living !DETERMINER lie
+is sickening
+is sickening when you think
+is so degranged
+is so uncivilized
+is taking too long
+is ticked off
+is unfair
+is unfair to
+is very unfair
+is what really burns !PRONOUNOBJECTIVE up
+is what really burns them up
+is what really burns you up
+is what really makes !PRONOUNOBJECTIVE angry
+is what really makes !PRONOUNOBJECTIVE mad
+is what really makes them angry
+is what really makes them mad
+is what really makes you angry
+is what really makes you mad
+it's !DETERMINER fiasco
+it's !POSSESSIVEPRONOUN own fault
+it's !PRONOUNOBJECTIVE own fault
+it's all about !PRONOUNOBJECTIVE
+it's for !DETERMINER birds
+it's going to get worse
+it's going to get worse before it gets better
+it's just about what he wants when he wants it
+it's maddening
+it's maddening that
+it's so immature
+it's terrorism
+it's their own fault
+it !AUX !DETERMINER outrageous
+it !AUX awful for her to attack
+it !AUX awful for him to attack
+it !AUX awful for me to have to
+it !AUX awful for them to attack
+it !AUX awful for us to have to
+it !AUX crummy
+it bothers
+it bothers !PRONOUNOBJECTIVE
+it bothers !PRONOUNOBJECTIVE that
+it bothers !YOU
+it burns !PRONOUNOBJECTIVE
+it burns them
+it burns you
+it enrages
+it enrages !DETERMINER
+it is !DETERMINER fiasco
+it is crummy
+it is deeply offensive
+it is god-awful
+it is maddening
+it is maddening that
+it is offensive
+It is ridiculous
+it is taking so long
+it raised !POSSESSIVEPRONOUN blood pressure
+it raised !PRONOUNOBJECTIVE blood pressure
+it raised their blood pressure
+it raised your blood pressure
+it raises !POSSESSIVEPRONOUN blood pressure
+it raises !PRONOUNOBJECTIVE blood pressure
+it raises their blood pressure
+it raises your blood pressure
+it takes so long
+it was !DETERMINER fiasco
+it was awful for her to attack
+it was awful for him to attack
+it was awful for me to have to
+it was awful for them to attack
+it was awful for us to have to
+it was crummy
+it was deceitful
+it was god-awful
+It was sneaky
+its lust for
+its lust for information
+jeer and hoot
+jeered and hooted
+jeering and hooting
+jeers and hoots
+jeopardize innocent
+jeopardized innocent
+jeopardizing innocent
+jeoparidizes innocent
+just !DETERMINER bit suspicious
+just !DETERMINER coward
+just !DETERMINER two-timing
+just barbaric
+just blindside
+just blindsided
+just blindsides
+just blindsiding
+just broken promises
+just contemptible
+just cowards
+just despicable
+just double-crossed
+just doublecross
+just doublecrossed
+just doublecrosses
+just doublecrossing
+just for ego
+just for vanity
+just inconsiderate
+just insult
+just insulted
+just insulting
+just insults
+just jerk around
+just jerked around
+just jerking around
+just jerks around
+just let us down
+just lying to
+just mentally deranged
+just mislead
+just misleading
+just misleads
+just misled
+just offend
+just offended
+just offending
+just offends
+just outrage
+just outraged
+just outrages
+just outraging
+just plain lax
+just sandbag
+just sandbagged
+just sandbagging
+just sandbags
+just selfishness
+just spineless
+just stabbed in !DETERMINER back
+just to make herself feel imporant
+just to make himself feel important
+just to make themselves feel important
+just two-timed
+just unfair
+just unjust
+justice has not been served
+keenly angry
+keep-your-mouth-shut look
+keep-your-mouth-shut looks
+kill !DETERMINER lot of innocent people
+kill children
+kill defenseless
+kill helpless
+kill innocent
+kill innocent and defenseless
+kill innocent people
+kill others not directly doing them harm
+kill so many innocent people
+kill thousands more innocent people
+kill thousands of innocent people
+kill women and children
+killed !DETERMINER innocence
+killed !DETERMINER lot of innocent people
+killed !DETERMINER lot of people
+killed children
+killed defenseless
+killed for no reason
+killed helpless
+killed innocent
+killed innocent and defenseless
+Killed innocent people
+killed so many innocent people
+killed thousands more innocent people
+killed thousands of innocent people
+killed women and children
+killing !DETERMINER innocence
+killing !DETERMINER lot of innocent people
+killing all those children
+killing children
+killing defenseless
+killing helpless
+killing innocent
+killing innocent and defenseless
+killing innocent people
+killing of innocent people
+killing people just like us Americans
+killing so many innocent people
+killing thousands more innocent people
+killing thousands of innocent people
+killing woman and children
+killings of innocent people
+killings that did not have to happen
+kills !DETERMINER lot of innocent people
+kills children
+kills defenseless
+kills helpless
+kills innocent
+kills innocent and defenseless
+kills innocent people
+kills so many innocent people
+kills thousands more innocent people
+kills thousands of innocent people
+kills women and children
+knew about !DETERMINER attacks long before they ever happened
+knew all along but said nothing
+knitted brow of anger
+knitted brows
+knitted by anger
+knitted from anger
+knitted in anger
+knitted with anger
+know only how to take
+lack morals
+lack remorse
+lacked morals
+lacked remorse
+lacking in morality
+lacking in morals
+lacking morals
+lacking remorse
+lacks morals
+lacks remorse
+lazy bum
+lazy bums
+let's start to treat those persons like they are sombody
+let !PRONOUNOBJECTIVE have it but good
+let !PRONOUNOBJECTIVE have it with both barrels
+let something like that happen
+let something like this happen
+let too many into !DETERMINER country
+letting !DETERMINER terrorists
+level stare
+level stares
+lie outright
+lie to !POSSESSIVEPRONOUN face
+lie to me
+lie to my face
+lie to us
+lied outright
+lied to !POSSESSIVEPRONOUN face
+lied to me
+lied to my face
+lied to us
+lies outright
+lies to !POSSESSIVEPRONOUN face
+lies to me
+lies to my face
+lies to us
+life !PRONOUNNOMINAL ruined
+life ruined by !PRONOUNOBJECTIVE
+life was stolen
+life was stolen from
+like !DETERMINER maniac
+like second-class citizens
+like second class citizens
+lips contorted grotesquely
+lips curled with disgust
+lips pursed in anger
+live !DETERMINER lie
+lived !DETERMINER lie
+lives !AUX taken
+lives !DETERMINER lie
+lives !PRONOUNNOMINAL ruined
+lives he ruined
+lives lost for no reason
+lives ruined by !PRONOUNOBJECTIVE
+lives she ruined
+lives taken needlessly
+lives they ruined
+lives to kill other people who have families
+lives were being taken away
+lives were stolen
+lives were stolen from them
+lives were taken
+lives were taken away
+livid about
+livid over
+livid regarding
+livid ridges
+livid with
+livid with rage
+livid with respect to
+living !DETERMINER lie
+long-simmering anger
+long simmering anger
+look of anger
+look what happened to me
+look what has happened to us
+looks of anger
+Loss of all !DETERMINER innocent lives
+loss of life of innocent people
+lost their lives suddenly
+love destroyed
+love that was destroyed by one brutal act
+loved ones suffered needlessly
+low-down sneaky
+lying outright
+lying through !POSSESSIVEPRONOUN teeth
+lying through your teeth
+lying to !POSSESSIVEPRONOUN face
+lying to me
+lying to my face
+lying to us
+mad about
+mad about !DETERMINER
+mad about !PRONOUNOBJECTIVE
+mad about them
+mad about your
+mad as
+mad as !DETERMINER
+mad as !DETERMINER buck
+mad as !DETERMINER cut snake
+mad as !DETERMINER hatter
+mad as !DETERMINER hornet
+mad as !DETERMINER March hare
+mad as !DETERMINER wet hen
+mad as hell
+mad as hell about
+mad at
+mad man
+mad men
+maddening that
+madder than
+made !PRONOUNOBJECTIVE so mad
+made them so mad
+madman
+madmen
+make !PRONOUNOBJECTIVE so mad
+make them so mad
+makes !PRONOUNOBJECTIVE angry
+makes !PRONOUNOBJECTIVE mad
+makes !PRONOUNOBJECTIVE so mad
+makes them angry
+makes them mad
+makes them so mad
+makes you angry
+makes you mad
+making !PRONOUNOBJECTIVE so mad
+making them so mad
+malicious glee
+malicious gleefulness
+maniac
+Maniacs
+many people have perished
+many people out in !DETERMINER world wanted and still want to kill innocent people
+mass destruction of innocent
+mass destruction of innocent people
+maunder in anger
+maunder into !POSSESSIVEPRONOUN shirt
+maunder into !PRONOUNOBJECTIVE shirt
+maunder into my shirt
+maundered in anger
+maundered into !POSSESSIVEPRONOUN shirt
+maundered into !PRONOUNOBJECTIVE shirt
+maundered into my shirt
+maundering in anger
+maundering into !POSSESSIVEPRONOUN shirt
+maundering into !PRONOUNOBJECTIVE shirt
+maundering into my shirt
+maunders in anger
+maunders into !POSSESSIVEPRONOUN shirt
+maunders into !PRONOUNOBJECTIVE shirt
+maunders into my shirt
+maybe !ROYALWE wouldn't be experiencing all !DETERMINER problems
+maybe !ROYALWE wouldn't have all !DETERMINER problems
+meet with hostility
+meeting with hostility
+meets with hostitily
+mentally inept
+met with hostility
+methodical destruction causing death and injury
+miffed about
+miffed at
+miffed over
+miffed with
+mind !POSSESSIVEPRONOUN own business
+minded !POSSESSIVEPRONOUN own business
+minded your own business
+minding !POSSESSIVEPRONOUN own business
+minding your own business
+minds !POSSESSIVEPRONOUN own business
+minds your own business
+mock !PRONOUNOBJECTIVE
+mock my
+mock our
+mock their
+mocked !PRONOUNOBJECTIVE
+mocked my
+mocked our
+mocked their
+mocking !PRONOUNOBJECTIVE
+mocking my
+mocking our
+mocking their
+mocks !PRONOUNOBJECTIVE
+mocks my
+mocks our
+mocks their
+molly coddle
+molly coddled
+molly coddles
+molly coddling
+mollycoddle !DETERMINER
+mollycoddled !DETERMINER
+mollycoddles !DETERMINER
+mollycoddling !DETERMINER
+mooch !DETERMINER ride from
+mooch !DETERMINER ride off
+mooch around
+mooch for
+mooch from
+mooch from !PRONOUNOBJECTIVE
+mooch money from
+mooch money off
+mooch off
+mooch off !PRONOUNOBJECTIVE
+mooch on
+mooched !DETERMINER ride from
+mooched !DETERMINER ride off
+mooched around
+mooched for
+mooched from
+mooched from !PRONOUNOBJECTIVE
+mooched money from
+mooched money off
+mooched off
+mooched off !PRONOUNOBJECTIVE
+mooched on
+mooches !DETERMINER ride from
+mooches !DETERMINER ride off
+mooches around
+mooches for
+mooches from
+mooches from !PRONOUNOBJECTIVE
+mooches money from
+mooches money off
+mooches off
+mooches off !PRONOUNOBJECTIVE
+mooches on
+mooching !DETERMINER ride from
+mooching !DETERMINER ride off
+mooching around
+mooching for
+mooching from
+mooching from !PRONOUNOBJECTIVE
+mooching money from
+mooching money off
+mooching off
+mooching off !PRONOUNOBJECTIVE
+mooching on
+more innocent people killed
+more mad than anything
+more mad than anything else
+mortal enemies
+mortal enemy
+most angry at
+most mad
+much anger
+murder children
+murder defenseless
+murder innocent
+murder innocent and defenseless
+murder of innocent people
+murder so many innocent people
+murder women and children
+murdered children
+murdered defenseless
+murdered innocent
+murdered innocent and defenseless
+murdered so many innocent people
+murdered women and children
+murdering children
+murdering defenseless
+murdering innocent
+murdering innocent and defenseless
+murdering so many innocent people
+murdering women and children
+murderous falsetto
+murderous falsettos
+murders children
+murders defenseless
+murders innocent
+murders innocent and defenseless
+murders of innocent people
+murders so many innocent people
+murders women and children
+must avenge
+must be brought to justice
+must be disciplined
+must be prosecuted
+must be punished
+must dress them down
+must even !DETERMINER score
+must get back at
+must get even
+must nuke
+mutter peevishly
+muttered peevishly
+muttering peevishly
+mutters peevishly
+my loved ones suffered
+need killing on !DETERMINER spot
+need to even !DETERMINER score
+need to get back at
+need to get even
+need to understand
+needless death
+needless deaths
+needless destruction
+needlessly lost
+needlessly suffered
+needs to be disciplined
+needs to be punished
+never deserve
+never deserved
+never deserves
+never deserving
+never did anything to !PRONOUNOBJECTIVE
+never did anything to anybody
+never did anything to deserve
+never get over !DETERMINER loss
+never hurt !DETERMINER fly
+never hurt !PRONOUNOBJECTIVE
+never hurt any one
+never hurt anyone
+never listen
+no compassion for !DETERMINER life of others
+no excuse
+no excuse for
+no feelings or respect for human life
+no guilt for what she had done
+no guilt for what they had done
+no guit for what he had done
+no hint of remorse
+no hint of remorsefulness
+no one and I mean no one
+no one and I mean no one has !DETERMINER right
+no one has !DETERMINER right
+no one owned up
+no one owned up to
+no one paid any attention
+no regard for
+no regard for decency
+no regard for human life
+no regard for innocent lives
+no regard for life
+no remorse
+no remorse for what he had done
+no remorse for what she had done
+no remorse for what they had done
+no remorse whatever
+no remorsefulness
+no remorsefulness whatever
+no respect for
+no right to
+no right whatsoever
+no sense of remorse
+no sense of remorsefulness
+no sign of remorse
+no sign of remorsefulness
+no trace of remorse
+no trace of remorsefulness
+nobody is scared for us
+nostrils flared
+nostrils flaring
+not !DETERMINER shred of remorse
+not !DETERMINER shred of remorse for what he
+not !DETERMINER shred of remorse for what she
+not !DETERMINER shred of remorse for what they
+not !DETERMINER shred of remorsefulness
+not an ounce of remorse
+not an ounce of remorsefulness
+not any remorse
+not caring about other people
+not caring about others
+not caring what effect it would have
+not deserve
+not deserve to
+not even caring
+not justified
+not one thing
+not protecting us
+not responsible enough
+not to care about human life
+nother other than selfishness
+nothing but an underhanded
+nothing but exploitation
+nothing is gained
+nuke'em
+nuke'm
+nuke !PRONOUNOBJECTIVE
+nuke Osama bin Laden
+oblivious to !DETERMINER misfortune
+oblivious to !DETERMINER plight
+oblivious to !DETERMINER suffering
+oblivious to suffering
+of all !DETERMINER gall
+of all !DETERMINER nerve
+of all !DETERMINER nerve to
+of all !DETERMINER nerve!
+of anger
+off !DETERMINER sweat of
+offence against
+offence to
+offences against
+offences to
+offend !DETERMINER ear
+offend !DETERMINER eye
+offend !DETERMINER nostrils
+offend against !DETERMINER law
+offend and shock
+offended !DETERMINER ear
+offended !DETERMINER eye
+offended !DETERMINER nostrils
+offended against !DETERMINER law
+offended and shocked
+offended at
+offending !DETERMINER ear
+offending !DETERMINER eye
+offending !DETERMINER nostrils
+offending against !DETERMINER law
+offending and shocking
+offends !DETERMINER ear
+offends !DETERMINER eye
+offends !DETERMINER nostrils
+offends against !DETERMINER law
+offends and shocks
+offense against
+offense to
+offense to !DETERMINER nostrils
+offenseless
+OFFENSENAME!
+offenses against
+offenses to
+offensive load
+offensive loads
+offensive material
+offensive odor
+offensive odors
+offensive smell
+offensive to
+offensive to ears polite
+offensive to gentle ears
+officious will
+officious wills
+ok for them to do any and all damage
+on !DETERMINER backs of
+on !DETERMINER backs of !DETERMINER people
+on !DETERMINER backs of !DETERMINER servants
+on !DETERMINER backs of !DETERMINER underclass
+on !DETERMINER backs of subalterns
+on !DETERMINER backs of subordinates
+on innocent
+on innocent fellow humans
+on innocent people
+on perfectly innocent
+one broken promise after another
+only disdain for
+only know how to take
+ought to be disciplined
+ought to be punished
+ought to have averted
+ought to nuke
+our loved ones suffered
+out of ego
+out of greed
+out of selfishness
+out of stupidity
+out of vanity
+outburst of anger
+outbursts of anger
+outraged about
+outraged over
+outrageous to
+outright lie
+outright lied to
+outright lies
+overflowing with anger
+pathetic action
+pathetic actions
+pathetic acts
+pathetic ruling
+pathetic rulings
+pathetic waste
+pathetically wasteful
+peeved about
+peeved toward
+peeved with
+peevish anger
+peevishly angry
+peevishness from anger
+peopld have been murdured
+people's disregard
+PEOPLE ARE SO IGNORANT
+people are stereotyping
+people are taking advantage
+people can use their religious beliefs to kill others not directly doing them harm
+people died believing they were safe
+PEOPLE DIED WHO WERE HARD WORKING CITIZENS
+PEOPLE DIED WHO WERE INNOCENT
+PEOPLE DIED WHO WERE INNOCENT HARD WORKING CITIZENS
+people have died
+people have perished
+people not caring
+people not caring about
+people not caring about others
+people stereotype
+people that died were all innocent people
+people that died were innocent people
+people that had to die for no reason at all
+people who didn't have any remorse
+people who didn't have any remorsefulness
+people who died were all innocent people
+people who died were innocent people
+people who had to die for no reason at all
+people who perpetrated
+people who perpetuated !DETERMINER wrong doing
+people who planned !DETERMINER attack justified it through religion
+peoples disregard
+permit terrorists
+permits terrorists
+permitted terrorists
+permitting terrorists
+perpetrate against me
+perpetrate against us
+perpetrate on me
+perpetrate on us
+perpetrate these acts
+perpetrated against me
+perpetrated against us
+perpetrated on me
+perpetrated on us
+perpetrated these acts
+perpetrates against me
+perpetrates against us
+perpetrates on me
+perpetrates on us
+perpetrates these acts
+perpetrating against me
+perpetrating against us
+perpetrating on me
+perpetrating on us
+perpetrating these acts
+piercing look of anger
+piss !PRONOUNOBJECTIVE off
+piss !YOU off
+piss artist
+piss artists
+piss away
+piss in !DETERMINER wind
+piss off
+piss off at
+piss poor
+pissed !PRONOUNOBJECTIVE off
+pissed !YOU off
+pissed at
+pissed away
+pissed in !DETERMINER wind
+pissed off
+pissed off !POSSESSIVEPRONOUN
+pissed off at
+pisses !PRONOUNOBJECTIVE off
+pisses !YOU off
+pisses away
+pisses in !DETERMINER wind
+pisses off
+pisses off at
+pissing !PRONOUNOBJECTIVE off
+pissing !YOU off
+pissing away
+pissing in !DETERMINER wind
+pissing off
+pissing off at
+place !DETERMINER blame for
+place !DETERMINER blame on
+place blame
+placed !DETERMINER blame for
+placed !DETERMINER blame on
+placed blame
+places !DETERMINER blame for
+places !DETERMINER blame on
+places blame
+placing !DETERMINER blame for
+placing !DETERMINER blame on
+placing blame
+plain inconsiderate
+plain lax
+plain laziness
+plain lazy
+plain lied to
+plain rat out
+plain rats out
+plain ratted out
+plain ratting out
+plain selfishness
+plain senseless
+plain senselessness
+plain shabby
+plain underhanded
+plaintive expression
+plaintive expressions
+plaintive look
+plaintive looks
+plaintive tone
+plaintive tones
+please stop
+poor treatment
+poor treatments
+poorly treated
+pop !POSSESSIVEPRONOUN cork
+pop their corks
+pop your cork
+POSSESSIVEPRONOUN! sub human level
+predatory expression
+predatory expressions
+pretty pissed-off
+pretty pissed off
+prey on helpless
+prey on innocent
+prey on unsuspecting
+preyed on helpless
+preyed on innocent
+preyed on unsuspecting
+preying on helpless
+preying on innocent
+preying on unsuspecting
+preys on innocent
+preys on unsuspecting
+preys ons helpless
+promise more than can be delivered
+promise more than he can deliver
+promise more than she can deliver
+promise more than they can deliver
+promised more than can be delivered
+promised more than he can deliver
+promised more than she can deliver
+promised more than they can deliver
+promises more than can be delivered
+promises more than he can deliver
+promises more than she can deliver
+promises more than they can deliver
+promising more than can be delivered
+promising more than he can deliver
+promising more than she can deliver
+promising more than they can deliver
+punish those responsible
+punish those who achieve
+punished those responsible
+punished those who achieve
+punishes those responsible
+punishes those who achieve
+punishing those responsible
+punishing those who achieve
+pure evil
+pure exploitation
+pure selfishness and greed
+purely for greed
+purely for selfish
+purple with anger
+purple with rage
+pursed in anger
+pursed lips
+put at risk
+put off by
+puts at risk
+putting at risk
+quest for power
+quick to anger
+rabid with anger
+rage
+rage against
+rage at
+rage toward
+raged against
+raged at
+raged toward
+rages
+rages against
+rages at
+rages toward
+raging in anger at
+rankle in !DETERMINER breast
+rankled about
+rankled in !DETERMINER breast
+rankled with
+rankles in !DETERMINER breast
+rankling in !DETERMINER breast
+raped our freedom
+rather bothering
+rather than guaranteeing
+real asshole
+real assholes
+real backward nation
+real backward nations
+real backwards nations
+real bastard
+real bastards
+real bitchiness
+real demented
+real deranged
+real dummy
+real low life
+real lowlife
+real lunatics
+real pathetic
+real scummy
+real self-absorbed
+real sneaky
+real spineless
+real ugly
+real underhanded
+real weasel
+real weasels
+real wicked
+really burns !PRONOUNOBJECTIVE up
+really burns !YOU up
+really burns you up
+really let !PRONOUNOBJECTIVE have it
+really let !PRONOUNOBJECTIVE have it with
+really mad
+really makes !PRONOUNOBJECTIVE angry
+really makes !PRONOUNOBJECTIVE mad
+really makes them angry
+really makes them mad
+really makes you angry
+really makes you mad
+really pissed-off
+really pissed off
+really unforgivable
+receive ill treatment
+received ill treatment
+receives ill treatment
+receiving ill treatment
+reckless expenditure
+reckless expenditures
+reckless person
+reckless persons
+reckless spending
+recklessly endangered
+recurring errors
+red-faced lie
+red-faced lies
+refuse to help
+refuse to own up to
+refused to help
+refused to lift !DETERMINER finger
+refuses to help
+refuses to lift !DETERMINER finger
+refusing to lift !DETERMINER finger
+religious nut
+religious nuts
+religious zealot
+religious zealots
+reprimand for
+reprimanded against
+reprimanded concerning
+reprimanded for
+reprimanded in
+reprimanded on
+reprimanded with
+reprimanding for
+reprimands for
+reprisals against
+reprisals on
+reproach herself
+reproach himself
+reproach themselves
+reproach upon
+reproach yourself
+reproached herself
+reproached himself
+reproached themselves
+reproached yourself
+reproaches and upcasts
+reproaches herself
+reproaches himself
+reproaches themselves
+reproaches yourself
+reproaching herself
+reproaching himself
+reproaching themselves
+reproaching yourself
+reproving look
+reproving looks
+resent strongly
+resented strongly
+resentful anger
+resenting strongly
+resents strongly
+reward those who sit and do nothing
+rewarded those who sit and do nothing
+rewarding those who sit and do nothing
+rewards those who sit and do nothing
+road rage
+rob !DETERMINER life
+rob !DETERMINER lives
+rob !PRONOUNOBJECTIVE of !POSSESSIVEPRONOUN life
+rob !PRONOUNOBJECTIVE of life
+robbed !DETERMINER life
+robbed !DETERMINER lives
+robbed !PRONOUNOBJECTIVE of !POSSESSIVEPRONOUN life
+robbed !PRONOUNOBJECTIVE of life
+robbed from me
+robbed from us
+robbing !DETERMINER life
+robbing !DETERMINER lives
+robbing !PRONOUNOBJECTIVE of !POSSESSIVEPRONOUN life
+robbing !PRONOUNOBJECTIVE of life
+robbing children of POSSESSIVEPRONOUN! innocence
+robs !DETERMINER life
+robs !DETERMINER lives
+robs !PRONOUNOBJECTIVE of !POSSESSIVEPRONOUN life
+robs !PRONOUNOBJECTIVE of life
+rose in indignation
+rose up in arms
+royally mad
+royally pissed
+ROYALWE! have been violated
+ROYALWE! WAS! betrayed
+ROYALWE! WAS! violated
+rude awakening
+rude awakenings
+rude gesture
+rude gestures
+rude play
+rude reproach
+rude reproaches
+ruffling !POSSESSIVEPRONOUN feathers
+ruffling !PRONOUNOBJECTIVE feathers
+ruffling !YOU feathers
+ruffling feathers
+sacrificed !DETERMINER best years of my life
+sacrificed !DETERMINER best years of our life
+sat on !POSSESSIVEPRONOUN ass
+sat on !POSSESSIVEPRONOUN butt
+sat on !POSSESSIVEPRONOUN duff
+sat on !POSSESSIVEPRONOUN hands
+sat on !PRONOUNOBJECTIVE ass
+sat on !PRONOUNOBJECTIVE butt
+sat on !PRONOUNOBJECTIVE duff
+sat on !PRONOUNOBJECTIVE hands
+saw their loved ones killed
+scorching look
+scorching looks
+scorching looks of anger
+scowl with anger
+scowled with anger
+scowling with anger
+scowls with anger
+scream !POSSESSIVEPRONOUN head off
+scream !POSSESSIVEPRONOUN heads off
+scream at !PRONOUNOBJECTIVE for
+scream in exasperation
+screamed !POSSESSIVEPRONOUN head off
+screamed !POSSESSIVEPRONOUN heads off
+screamed at !PRONOUNOBJECTIVE for
+screamed in exasperation
+screaming !POSSESSIVEPRONOUN head off
+screaming !POSSESSIVEPRONOUN heads off
+screaming at !PRONOUNOBJECTIVE for
+screaming in exasperation
+screams !POSsESSIVEPRONOUN head off
+screams !POSsESSIVEPRONOUN heads off
+screams at !PRONOUNOBJECTIVE for
+screams in exasperation
+screw it up
+screw me up
+screw our
+screw over
+screw up
+screw up !DETERMINER works
+screw us up
+screwed !PRONOUNOBJECTIVE up
+screwed !YOU up
+screwed it up
+screwed me
+screwed me up
+screwed our
+screwed over
+screwed up
+screwed up !DETERMINER works
+screwed us
+screwed us up
+screwing it up
+screwing me up
+screwing over
+screwing us up
+screws it up
+screws me up
+screws over
+screws us up
+scum bag
+scum bags
+scum of !DETERMINER earth
+scummy people
+see their loved ones killed
+seeing red with anger
+seeing their loved ones killed
+seek revenge
+seek revenge for
+seeking revenge for
+seekng revenge
+seeks revenge
+seeks revenge for
+sees their loved ones killed
+seeth with anger
+seethed with anger
+seethes with anger
+seething with anger
+selfish bastard
+selfish bastards
+selfish people
+selfish reasons
+sense of outrage
+senseless act
+senseless acts
+senseless idea
+senseless ideas
+SENSELESS KILLING
+senseless killings
+senseless murder
+senseless murder of !DETERMINER loved one
+senseless murders
+senseless murders of loved ones
+senseless reasoning
+senseless thinking
+shabbily treat
+shabbily treated
+shabbily treating
+shabbily treats
+shabby treatment
+shame on !PRONOUNOBJECTIVE
+shameful for
+shameful that
+shameful to
+shd don't give !DETERMINER damn
+she's !DETERMINER selfish
+she's demented
+she's so immature
+she almost blew up
+she blew !DETERMINER fuse
+she blew !DETERMINER gasket
+she blew up
+she caved in
+she did nothing to deserve
+she did nothing to stop it
+she didn't even bother
+she does not deserve
+she doesn't care if women and children die
+she doesn't deserve
+she don't care about anyone but herself
+she don't care if women and children die
+she exploited him
+she exploited them
+she fumed
+she fumes
+she gets to do whatever she wants
+she got away with it
+she had !DETERMINER nerve
+she is !DETERMINER first to cry foul
+she is !DETERMINER liar
+she is foolish
+she is fuming
+she is pure evil
+she is scum
+she is so immature
+she is taking so long
+she just let it happen
+she killed !DETERMINER lot of people
+she knows that she's just as deserving
+she let us down
+she needs to be taken down !DETERMINER peg
+she needs to be taken out
+she needs to be taken out permanently
+she needs to be taught !DETERMINER lesson
+she never does anything
+she refused to listen
+she said in !DETERMINER huffed voice
+she should never have
+she speaks as if she is justified
+she takes so long
+she tore families apart
+she used him
+she used them
+she uses people.
+she was foolish
+she was framed
+she wouldn't listen
+sheer ego
+sheer selfishness
+sheer thoughtlessness
+sheer vanity
+shot off !POSSESSIVEPRONOUN mouth
+should be disciplined
+should be punished
+should have been avoided
+should have been prevented
+should have done something
+should have protected !PRONOUNOBJECTIVE
+should have protected me
+should have protected us
+should have protected you
+should never have been treated so badly
+should never have been treated so shabbily
+should not be used as !DETERMINER basis for terrorism
+should not be used as !DETERMINER basis for war
+should not be used as !DETERMINER pretext
+should not be used as an excuse
+should nuke
+should pay for what he did
+should pay for what she did
+should pay for what they did
+should pay for what you did
+show of anger
+shut-off from
+shut-out from
+shut !DETERMINER door in !POSSESSIVEPRONOUN face
+shut !DETERMINER door in !POSSESSIVEPRONOUN faces
+shut !DETERMINER door in !PRONOUNOBJECTIVE face
+shut !DETERMINER door in !YOU face
+shut !DETERMINER door in my face
+shut !DETERMINER door in our face
+shut !DETERMINER door in our faces
+shut !DETERMINER door on
+shut !DETERMINER door to
+shut !DETERMINER door upon
+shut !PRONOUNOBJECTIVE completely out
+shut !PRONOUNOBJECTIVE out from
+shut !REFLEXIVEPRONOUN down
+shut completely out
+shut completely out from
+shuts !DETERMINER door in !POSSESSIVEPRONOUN face
+shuts !DETERMINER door in !POSSESSIVEPRONOUN faces
+shuts !DETERMINER door in !PRONOUNOBJECTIVE face
+shuts !DETERMINER door in !YOU face
+shuts !DETERMINER door in my face
+shuts !DETERMINER door in our face
+shuts !DETERMINER door in our faces
+shuts !DETERMINER door in their face
+shuts !DETERMINER door in their faces
+shuts !DETERMINER door in your face
+shuts !DETERMINER door on
+shuts !DETERMINER door to
+shuts !DETERMINER door upon
+shuts !DETERMINER eyes of !POSSESSIVEPRONOUN mind
+shuts !DETERMINER eyes of !PRONOUNOBJECTIVE mind
+shuts !DETERMINER eyes of their mind
+shuts !DETERMINER eyes of your mind
+shuts !DETERMINER eyes to
+shuts !POSSESSIVEPRONOUN eyes to
+shuts !POSSESSIVEPRONOUN mind
+shuts !PRONOUNOBJECTIVE eyes to
+shuts !PRONOUNOBJECTIVE mind
+shuts !PRONOUNOBJECTIVE out
+shuts !PRONOUNOBJECTIVE out from
+shuts !REFLEXIVEPRONOUN down
+shuts it down
+shuts ourselves down
+shuts out from
+shuts their eyes to
+shuts their minds
+shuts your eyes to
+shutting !DETERMINER door in !POSSESSIVEPRONOUN face
+shutting !DETERMINER door in !POSSESSIVEPRONOUN faces
+shutting !DETERMINER door in !PRONOUNOBJECTIVE face
+shutting !DETERMINER door in !YOU face
+shutting !DETERMINER door in my face
+shutting !DETERMINER door in our face
+shutting !DETERMINER door in our faces
+shutting !DETERMINER door on
+shutting !DETERMINER door to
+shutting !DETERMINER door upon
+simple minded
+simple tripe
+simply chimerical
+simply inconsiderate
+simply mundane
+simply rigged
+simply too
+simply unjustified
+sit and do nothing
+sit by idly
+sit on !DETERMINER barrel of gunpowder
+sit on !DETERMINER keg of dynamite
+sit on !DETERMINER powder keg
+sit on !POSSESSIVEPRONOUN ass
+sit on !POSSESSIVEPRONOUN butt
+sit on !POSSESSIVEPRONOUN duff
+sit on !POSSESSIVEPRONOUN hands
+sit on !PRONOUNOBJECTIVE ass
+sit on !PRONOUNOBJECTIVE butt
+sit on !PRONOUNOBJECTIVE duff
+sit on their ass
+sit on their butt
+sit on their duff
+sit on your ass
+sit on your butt
+sit on your duff
+sits by idly
+sits on !DETERMINER barrel of gunpowder
+sits on !DETERMINER keg of dynamite
+sits on !DETERMINER power keg
+sits on !POSSESSIVEPRONOUN ass
+sits on !POSSESSIVEPRONOUN butt
+sits on !POSSESSIVEPRONOUN duff
+sits on !POSSESSIVEPRONOUN hands
+sits on !PRONOUNOBJECTIVE ass
+sits on !PRONOUNOBJECTIVE butt
+sits on !PRONOUNOBJECTIVE duff
+sits on !PRONOUNOBJECTIVE hands
+sits on their ass
+sits on their butt
+sits on their duff
+sits on their hands
+sits on your ass
+sits on your butt
+sits on your duff
+sits on your hands
+sitting around and doing nothing
+sitting by idly
+sitting duck
+sitting ducks
+sitting on !DETERMINER barrel of gunpowder
+sitting on !DETERMINER keg of dynamite
+sitting on !DETERMINER powder keg
+sitting on !POSSESSIVEPRONOUN ass
+sitting on !POSSESSIVEPRONOUN butt
+sitting on !POSSESSIVEPRONOUN duff
+sitting on !POSSESSIVEPRONOUN hands
+sitting on !PRONOUNOBJECTIVE ass
+sitting on !PRONOUNOBJECTIVE butt
+sitting on !PRONOUNOBJECTIVE duff
+sitting on !PRONOUNOBJECTIVE hands
+sitting on their ass
+sitting on their butt
+sitting on their duff
+sitting on their hands
+sitting on your ass
+sitting on your butt
+sitting on your duff
+sitting on your hands
+slam !DETERMINER door in !YOU face
+slam !DETERMINER door on
+slam into
+slamed !DETERMINER door in !YOU face
+slammed !DETERMINER door on
+slap in !DETERMINER face
+slaughter innocent
+slaughter of innocent
+slaughter of innocent human beings
+slaughtered innocent
+slaughtering innocent
+slaughtering of innocent
+slaughtering of innocent human beings
+slaughters innocent
+slave of
+smiling maliciously
+smouldering eyes
+smouldering in anger
+smug in !DETERMINER belief
+smug in !DETERMINER thinking
+snake in !DETERMINER grass
+snap at
+snapped !POSSESSIVEPRONOUN head off
+snapped !POSSESSIVEPRONOUN nose off
+snapped !PRONOUNOBJECTIVE head off
+snapped !PRONOUNOBJECTIVE nose off
+snapped !YOU head off
+snapped !YOU nose off
+snapped at
+snapped at !PRONOUNOBJECTIVE
+snapped at !YOU
+snapped at me
+snapped at us
+snapped my head off
+snapped my nose off
+snapped our head off
+snapped our nose off
+snapping-point
+snapping-points
+snapping !POSSESSIVEPRONOUN head off
+snapping !POSSESSIVEPRONOUN nose off
+snapping !PRONOUNOBJECTIVE head off
+snapping !PRONOUNOBJECTIVE nose off
+snapping !YOU head off
+snapping !YOU nose off
+snapping at
+snapping my head off
+snapping my nose off
+snapping our head off
+snapping our nose off
+snaps !POSSESSIVEPRONOUN head off
+snaps !POSSESSIVEPRONOUN nose off
+snaps !PRONOUNOBJECTIVE head off
+snaps !PRONOUNOBJECTIVE nose off
+snaps !YOU head off
+snaps !YOU nose off
+snaps at
+snaps my head off
+snaps my nose off
+snaps our head off
+snaps our nose off
+snarl
+snarl-up
+snarled-up
+snarled look
+snarler
+snarlers
+snarling
+snarling-up
+snarling look
+snarling looks
+snarling mad
+snarls
+snarls-up
+sneaky and underhanded
+sneaky destruction
+sneaky mass destruction of innocent people
+sneaky mass destruction of innocent people for no reason
+sneaky means of attack
+sneered angrily
+sneering in anger
+snit of anger
+sniveling singsong
+so angry
+so arch
+so awful
+so bland
+so complacent
+so conceited
+so cruel
+so despicable
+so detestable
+so dimwitted
+so dismal that !DETERMINER
+so dismaying that !DETERMINER
+so fed up
+so furious
+so hard-hearted
+so hollow
+so inconsiderate
+so insensitive
+so little trust
+so mad
+so mad that
+So many innocent lives taken
+so many innocent people killed
+so many innocent people lost their life
+so many innocent people lost their lives
+so many innocent people murdered
+So many innocent people were killed
+so many lies
+so many people have perished
+so many people refuse to face !DETERMINER fact
+so much anger
+so much tripe
+so pissed
+so prissy
+so slimy
+so sluggish
+so small-minded
+so smarmy
+so smug
+so so
+so sour
+so stupid
+so terrible
+so that !DETERMINER upper crust !MODAL enjoy their continued success
+so that people will suffer
+so uncalled-for
+so uncalled for
+so vane
+some bad apples
+some nerve.
+sought revenge
+sought revenge for
+spasm of irritation
+spasms of irritation
+spat out !DETERMINER words
+spat out !POSSESSIVEPRONOUN words
+speaking in ragged bursts
+spew anger
+spew anger toward
+spew anger towards
+spew out !DETERMINER words
+spew out !POSSESSIVEPRONOUN words
+spewed anger
+spewed anger toward
+spewed anger towards
+spewed out !DETERMINER words
+spewed out !POSSESSIVEPRONOUN words
+spewing anger
+spewing anger toward
+spewing anger towards
+spewing out !DETERMINER words
+spewing out !POSSESSIVEPRONOUN words
+spewing out !PRONOUNOBJECTIVE words
+spews anger
+spews anger toward
+spews anger towards
+spews out !DETERMINER words
+spews out !POSSESSIVEPRONOUN words
+spews out !PRONOUNOBJECTIVE words
+spit out !DETERMINER words
+spit out !POSSESSIVEPRONOUN words
+spite and anger
+spitefulness and anger
+spits out !DETERMINER words
+spits out !POSSESSIVEPRONOUN words
+spitting mad
+spitting out !DETERMINER words
+spitting out !POSSESSIVEPRONOUN words
+spitting tacks
+splutter angrily
+splutter in anger
+spluttered angrily
+spluttered in anger
+spluttering angrily
+spluttering in anger
+splutters angrily
+splutters in anger
+spoke in ragged bursts
+spurn me
+spurn us
+spurned me
+spurned us
+spurning me
+spurning us
+spurns me
+spurns us
+sputter angrily
+sputter in anger
+sputtered angrily
+sputtered in anger
+sputtering angrily
+sputtering in anger
+sputters angrily
+sputters in anger
+stab in !DETERMINER back
+stab me in !DETERMINER back
+stab us in !DETERMINER back
+stabbed me in !DETERMINER back
+stabbed us in !DETERMINER back
+stabbing in !DETERMINER back
+stabbing me in !DETERMINER back
+stabbing us in !DETERMINER back
+stabs in !DETERMINER back
+stabs me in !DETERMINER back
+stabs us in !DETERMINER back
+stalk innocent
+stalk out
+stalked innocent
+stalked out
+stalking innocent
+stalking out
+stalks innocent
+stalks out
+stammer with rage
+stammered with rage
+stammering with rage
+stammers with rage
+stand around all day
+stand around and does nothing
+stand around and doing nothing
+stand out in livid ridges
+standing around all day
+standing out in livid ridges
+stands around all day
+stands out in livid ridges
+stare of anger
+stares of anger
+starved to death at !DETERMINER hands of
+starved to death by their own
+steal !DETERMINER life
+steal !DETERMINER lives
+stealing !DETERMINER life
+stealing !DETERMINER lives
+steals !DETERMINER life
+steals !DETERMINER lives
+steam at
+steamed at
+steaming at
+steams at
+stentorian bellow
+stentorian bellows
+stick out !POSSESSIVEPRONOUN chin defiantly
+stick out !PRONOUNOBJECTIVE chin defiantly
+stick out my chin defiantly
+sticking out !POSSESSIVEPRONOUN chin defiantly
+sticking out !PRONOUNOBJECTIVE chin defiantly
+sticking out my chin defiantly
+sticks out !POSSESSIVEPRONOUN chin defiantly
+sticks out !PRONOUNOBJECTIVE chin defiantly
+sticks out my chin defiantly
+stir !POSSESSIVEPRONOUN bile
+stir !YOU bile
+stir our bile
+stir up bile
+stirred !POSSESSIVEPRONOUN bile
+stirred !YOU bile
+stirred our bile
+stirred up bile
+stirring !POSSESSIVEPRONOUN bile
+stirring !YOU bile
+stirring our bile
+stirring up bile
+stirs !POSSESSIVEPRONOUN bile
+stirs !PRONOUNOBJECTIVE bile
+stirs !YOU bile
+stirs our bile
+stirs up bile
+stole !DETERMINER life
+stole !DETERMINER lives
+stolen from me
+stolen from us
+stone-faced anger
+stony expression of anger
+stony expressions
+stood around all day
+stood out in livid ridges
+stoop so low
+stoop to !DETERMINER level
+stooped so low
+stooped to !DETERMINER level
+stooping so low
+stooping to !DETERMINER level
+stoops so low
+stoops to !DETERMINER level
+storm out in !DETERMINER huff
+storm out in anger
+stormed out in anger
+stormed out in huff
+storming out in !DETERMINER huff
+storming out in anger
+storms out in !DETERMINER huff
+storms out in anger
+strangled tone
+strangled tones
+strike innocent
+strike out against me
+strike out against us
+strikes innocent
+strikes out against me
+strikes out against us
+striking innocent
+striking out against me
+striking out against us
+strongly resent
+strongly resented
+strongly resenting
+strongly resents
+struck innocent
+struck out against me
+struck out against us
+stuck out !POSSESSIVEPRONOUN chin defiantly
+stuck out !PRONOUNOBJECTIVE chin defiantly
+stuck out defiantly
+stuck out my chin defiantly
+stupid
+stupid action
+stupid actions
+stupid ass
+stupid asses
+stupid cause
+stupid causes
+stupid enough to
+stupid geek
+stupid geeks
+stupid grin
+stupid grins
+stupid jerk
+stupid jerks
+stupid thing
+stupid things
+stupid words
+stupid work
+stupidity of
+such shabby treatment
+sulky and angry
+sullen-faced bastard
+suppressed fury
+suppressed rage
+suspicious behavior
+suspicious behaviors
+take and take
+take and take and take some more
+taken advantage
+taken advantage of
+taken away from me
+taken away from us
+taken from me for no good reason
+taken from us for no good reason
+tear limb by limb
+tear limb from limb
+tearing limb by limb
+tearing limb from limb
+tears limb by limb
+tears limb from limb
+tee off on
+teed !PRONOUNOBJECTIVE off
+teed me off
+teed off about
+teed off by
+teed off in anger
+teed off on
+teeing off on
+tees off on
+teeth clenched
+teeth gritted
+tempestuous rage
+terrible acts against me
+terrible acts against us
+terrible for !PRONOUNOBJECTIVE to
+Terrible waste of innocent people
+terrorist method
+terrorist methods
+that's being selfish
+that any human being can justify taking !DETERMINER lives
+that any human being can justify taking !DETERMINER lives of innocent people
+that any human being would try to justify !DETERMINER taking of innocent
+that are so uneducated
+that bastard
+that did not have to happen
+that has befallen me
+that has befallen us
+that is no excuse for
+that people are stereotyping
+that people would discriminate against
+that people would discriminate against other people
+that people would discriminate against other people only because
+that people would discriminate against other people simply because
+that people would discriminate against other people solely because
+that people would harm
+that people would harm other people
+that people would harm other people only because
+that people would harm other people simply because
+that people would harm other people solely because
+that someone as fanatic as
+that someone would actually do such !DETERMINER thing as deliberately destroy
+that someone would kill innocent people
+that turn around and attack us
+their loved ones killed
+their rage
+their rage at
+their rages
+their rages at
+their selfishness
+Their so called leader is nuts
+then maybe this would not have happened
+then use !DETERMINER people's trust to kill
+there !MUSTSHOULD have been !DETERMINER screw-up
+there !MUSTSHOULD have been an idiot
+there !MUSTSHOULD have been imcomptence
+there is no excuse for
+There is so much political correctness
+there is still slavery
+there should have been more
+these bastards
+these damn
+these damn terrorists
+these goddamn
+These people don't care about their own, let alone us
+These people take advantage of all our
+these terrible acts
+they're demented
+they're selfish
+they're so immature
+they almost blew up
+they are !DETERMINER first to cry foul
+they are !DETERMINER one committing all
+they are !DETERMINER ones committing all these
+they are foolish
+they are fuming
+they are liars
+they are pure evil
+they are scum
+they are so immature
+they blew !DETERMINER fuse
+they blew !DETERMINER gasket
+they blew up
+they caved in
+they did nothing to deserve
+they did nothing to stop it
+they didn't even bother
+they do not deserve
+They don't care
+they don't care about anyone but themselves
+they don't care if women and children die
+they don't deserve
+they don't give !DETERMINER damn
+they exploited her
+they exploited him
+they exploited you
+they fume
+they fumed
+they get to do whatever they want
+they got away with it
+they had !DETERMINER nerve
+They have no regard
+They have no regard for life
+they just let it happen
+they killed !DETERMINER lot of people
+they know that they're just as deserving
+they know that they just as qualified
+they let us down
+they need to be taken down !DETERMINER peg
+they need to be taken out
+they need to be taken out permanently
+they need to be taught !DETERMINER lesson
+they never do anything
+They really don't care if !DETERMINER ones they ultimately hurt are their own people
+they refused to listen
+they should never have
+they simply used me
+they simply used us
+they speak as if they are justified
+they take advantage of !DETERMINER poor
+they take so long
+They tore families apart
+they use people.
+they used her
+they used him
+they used me
+they used OBJECTWE!
+They used our airliners to destroy our
+they used us
+they used you
+they were foolish
+they were framed
+they wouldn't listen
+thick with innuendo
+thick with insinuation
+think of getting back at
+think of ways of getting back at
+thinking of getting back at
+thinking of ways of getting back at
+thinks of getting back at
+thinks of ways of getting back at
+this !AUX an outrageous
+this bastard
+this cruel
+this damn
+this damn terrorists
+this fool
+this goddamn
+this idiot
+this would not have happened if
+those bastards
+those damn
+those goddamn
+those ingrates
+those responsible remain unpunished
+those responsible show no remorse
+those responsible show no remorse at all
+those who are in authority will ultimately pay
+thought of getting back at
+thought of ways of getting back at
+thoughtlessness toward
+thoughtlessness towards
+threw !DETERMINER hissy fit
+threw !DETERMINER nutty
+threw hissy fits
+through clenched teeth
+through pursed lips
+throw !DETERMINER hissy fit
+throw !DETERMINER nutty
+throw hissy fits
+throwing !DETERMINER hissy fit
+throwing !DETERMINER nutty
+throwing hissy fits
+throws !DETERMINER hissy fit
+throws !DETERMINER nutty
+throws hissy fits
+tick off
+ticked-off
+ticked !PRONOUNOBJECTIVE off
+ticked !YOU off
+ticked off
+ticked off about
+ticked off by
+ticked off from
+ticked off with
+ticking !PRONOUNOBJECTIVE off
+ticking !YOU off
+ticking off
+ticks !PRONOUNOBJECTIVE off
+ticks !YOU off
+ticks off
+ticks us off
+tinged with menace
+to !POSSESSIVEPRONOUN shame
+to !POSSESSIVEPRONOUN shame be it spoken
+to anger
+to ask at this late date
+to ask me at this late date
+to ask me now to do this is
+to ask us at this late date
+to ask us now to do this is
+to blame
+to enrage
+to even !DETERMINER score
+to incense
+to ingrates
+to satisfy !DETERMINER obsession of !DETERMINER madman
+to take innocent lives
+to take so many innocent lives
+to want power so bad
+to want power so badly
+too arrogant
+too complacent
+too lax
+too much complacency
+too self-absorbed
+too selfish
+too trusting
+tore into her
+tore into him
+tore into me
+tore into them
+tore into us
+tore limb by limb
+tore limb from limb
+total asshole
+total assholes
+total disregard
+total disregard for
+totally avoidable
+totally selfish
+totally undeserved
+totally unforgivable
+totally unprovoked
+transported with rage
+treat !PRONOUNOBJECTIVE roughly
+treat like dirt
+treat like dirt under your feet
+treat like second-class citizens
+treat people badly
+treat people so bad
+treat people so bad and think its ok
+treat poorly
+treat shabbily
+treat with contempt
+treated !PRONOUNOBJECTIVE roughly
+treated like animals
+treated like dirt
+treated like dirt under your feet
+treated like second-class citizens
+treated people badly
+treated people so bad
+treated poorly
+treated shabbily
+treated with contempt
+treating !PRONOUNOBJECTIVE roughly
+treating like dirt
+treating like dirt under your feet
+treating like second-class citizens
+treating people badly
+treating people so bad
+treating poorly
+treating shabbily
+treating with contempt
+treats !PRONOUNOBJECTIVE roughly
+treats like dirt
+treats like dirt under your feet
+treats like second-class citizens
+treats people badly
+treats people so bad
+treats poorly
+treats shabbily
+treats with contempt
+trespass !DETERMINER
+trespass on !DETERMINER
+trespasses on !DETERMINER
+trespasses over !DETERMINER
+trespassing on !DETERMINER
+trespassing over !DETERMINER
+tried to explain it away
+tries to explain it away
+try to explain it away
+trying to explain it away
+turned POSSESSIVEPRONOUN! backs on OBJECTWE!
+twisted with rage
+uncalled for
+unconscionable act
+unconscionable acts
+underhanded attempt
+underhanded method
+underhanded methods
+underhanded plot
+underhanded plots
+underhanded way
+underhanded ways
+undeserved hate
+undeserved hatreds
+unfair blame
+unfair to !PRONOUNOBJECTIVE
+unfair to everyone
+unfair to me
+unfair to us
+unleases !POSSESSIVEPRONOUN fury
+unleash !POSSESSIVEPRONOUN fury
+unleash fury
+unleashed !POSSESSIVEPRONOUN fury
+unleashed fury
+unleashes fury
+unleashing !POSSESSIVEPRONOUN fury
+unleashing fury
+unload !POSSESSIVEPRONOUN
+unload against
+unload on
+unload on !PRONOUNOBJECTIVE
+unload on me
+unloaded !POSSESSIVEPRONOUN
+unloaded against
+unloaded on
+unloaded on !PRONOUNOBJECTIVE
+unloading !POSSESSIVEPRONOUN
+unloading against
+unloading on
+unloading on !PRONOUNOBJECTIVE
+unloads !POSSESSIVEPRONOUN
+unloads against
+unloads on
+unloads on !PRONOUNOBJECTIVE
+unnecessary risk
+unnecessary risks
+unprovoked attack
+unprovoked attacks
+unprovoked murder
+unprovoked murders
+unsparingly anger
+unsparingness in anger
+unwilling to protect me
+unwilling to protect our
+unwilling to protect us
+unyielding jaw
+unyielding jaws
+up in arms
+up in arms about
+upset to discover
+upset to find out
+upset to learn
+use !DETERMINER lives of innocent people
+use !DETERMINER people's trust to kill
+use deceit
+use religion to spread !POSSESSIVEPRONOUN own fanatic ideas
+use religion to spread !PRONOUNOBJECTIVE own fanatic ideas
+use religion to spread their own fanatic ideas
+use religion to spread your own fanatic ideas
+use that knowledge to harm
+use that knowledge to kill
+use their freedoms to attack me
+use their freedoms to attack us
+use these freedoms to attack me
+use these freedoms to attack us
+use those freedoms to attack me
+use those freedoms to attack us
+used !DETERMINER lives of innocent people
+used !DETERMINER people's trust to kill
+used deceit
+used religion to spread !POSSESSIVEPRONOUN own fanatic ideas
+used religion to spread !PRONOUNOBJECTIVE own fanatic ideas
+used religion to spread their own fanatic ideas
+used religion to spread your own fanatic ideas
+used that knowledge to harm
+used that knowledge to kill
+used that knowledge to kill thousands of our people
+used their freedoms to attack me
+used their freedoms to attack us
+used these freedoms to attack me
+used these freedoms to attack us
+used those freedoms to attack me
+used those freedoms to attack us
+uses !DETERMINER lives of innocent people
+uses !DETERMINER people's trust to kill
+uses deceit
+uses people who have families
+uses religion to spread !POSSESSIVEPRONOUN own fanatic ideas
+uses religion to spread !PRONOUNOBJECTIVE own fanatic ideas
+uses religion to spread their own fanatic ideas
+uses religion to spread your own fanatic ideas
+uses that knowledge to harm
+uses that knowledge to kill
+uses their freedoms to attack me
+uses their freedoms to attack us
+uses these freedoms to attack me
+uses these freedoms to attack us
+uses those freedoms to attack me
+uses those freedoms to attack us
+using !DETERMINER lives of innocent people
+using !DETERMINER people's trust to kill
+using deceit
+using religion to disguise their greed
+using religion to spread !POSSESSIVEPRONOUN own fanatic ideas
+using religion to spread !PRONOUNOBJECTIVE own fanatic ideas
+using religion to spread their own fanatic ideas
+using religion to spread your own fanatic ideas
+using that knowledge to harm
+using that knowledge to kill
+using their freedoms to attack me
+using their freedoms to attack us
+using these freedoms to attack me
+using these freedoms to attack us
+using those freedoms to attack me
+using those freedoms to attack us
+utter disregard
+utter disregard for
+utterly avoidable
+vein in !POSSESSIVEPRONOUN neck swelling
+vein in !PRONOUNOBJECTIVE neck swelling
+vein in my neck swelling
+veins in forehead popping out
+veins in forehead reddening
+veins in neck popping out
+veins in neck reddening
+veins throbbing
+veins throbbing at !DETERMINER temple
+venomous with anger
+vent !POSSESSIVEPRONOUN anger
+vent !POSSESSIVEPRONOUN choler
+vent !POSSESSIVEPRONOUN rancor
+vent !POSSESSIVEPRONOUN spleen
+vent !PRONOUNOBJECTIVE anger
+vent !PRONOUNOBJECTIVE choler
+vent !PRONOUNOBJECTIVE rancor
+vent !PRONOUNOBJECTIVE spleen
+vent about
+vent anger
+vent anger toward
+vent anger towards
+vent at
+vent out at
+vent their anger
+vent their choler
+vent their rancor
+vent their spleen
+vented !POSSESSIVEPRONOUN anger
+vented !POSSESSIVEPRONOUN choler
+vented !POSSESSIVEPRONOUN rancor
+vented !POSSESSIVEPRONOUN spleen
+vented !PRONOUNOBJECTIVE anger
+vented !PRONOUNOBJECTIVE choler
+vented !PRONOUNOBJECTIVE rancor
+vented !PRONOUNOBJECTIVE spleen
+vented about
+vented against
+vented anger
+vented anger toward
+vented anger towards
+vented at
+vented out against
+vented their anger
+vented their choler
+vented their rancor
+vented their spleen
+venting !POSSESSIVEPRONOUN anger
+venting !POSSESSIVEPRONOUN choler
+venting !POSSESSIVEPRONOUN rancor
+venting !POSSESSIVEPRONOUN spleen
+venting !PRONOUNOBJECTIVE anger
+venting !PRONOUNOBJECTIVE choler
+venting !PRONOUNOBJECTIVE rancor
+venting !PRONOUNOBJECTIVE spleen
+venting about
+venting against
+venting anger
+venting anger toward
+venting anger towards
+venting at
+venting out at
+venting their anger
+venting their choler
+venting their rancor
+venting their spleen
+ventose hypochondriac
+ventose hypochondriacs
+vents !POSSESSIVEPRONOUN anger
+vents !POSSESSIVEPRONOUN choler
+vents !POSSESSIVEPRONOUN rancor
+vents !POSSESSIVEPRONOUN spleen
+vents !PRONOUNOBJECTIVE anger
+vents !PRONOUNOBJECTIVE choler
+vents !PRONOUNOBJECTIVE rancor
+vents !PRONOUNOBJECTIVE spleen
+vents about
+vents anger
+vents anger toward
+vents anger towards
+vents at
+vents their anger
+vents their choler
+vents their rancor
+vents their spleen
+very lax
+viciously slaughtered
+voice dripping with spite
+voice tinged with menace
+volcanic anger
+wage against me
+wage against us
+waged against me
+waged against us
+wages against me
+wages against us
+waging against me
+waging against us
+want to kill
+want to strangle
+want to tear !PRONOUNOBJECTIVE apart
+wanted to kill
+wanted to strangle
+wanted to tear !PRONOUNOBJECTIVE apart
+wanting to kill
+wanting to strangle
+wanting to tear !PRONOUNOBJECTIVE apart
+wantonly !TAKE !DETERMINER life
+wantonly !TAKE !DETERMINER lives
+wants to kill
+wants to stangle
+wants to tear !PRONOUNOBJECTIVE apart
+warning look
+warning looks
+warped belief
+warped beliefs
+was !DETERMINER sneaky
+was completely avoidable
+was cruel
+was stuck with
+was ticked off
+was to blame
+wasn't thinking
+wasn't thinking straight
+waste of innocent people
+way of getting back at
+ways of getting back at
+we've been given !DETERMINER runaround
+we've been harmed
+we've been personally attacked
+we've been violated
+we've been wronged
+we did nothing to deserve
+we do not think it's appropriate
+we do not think it's fair
+we do not think it's right
+we don't think it's appropriate
+we don't think it's fair
+we don't think it's right
+We gave them trust and freedom and what did they give us?
+we hate when
+we know that we're just as deserving
+we know that we're just as qualified
+weasel at
+weasels at
+were avoidable
+were murdered
+were squeezed out
+were ticked off
+were to blame
+what !DETERMINER heck
+what !DETERMINER hell
+what !DETERMINER joke!
+what a dummy
+what has he really accomplished
+what has he really accomplished in !DETERMINER end
+what has she really accomplished
+what has she really accomplished in !DETERMINER end
+what have they really accomplished
+what have they really accomplished in !DETERMINER end
+what is !DETERMINER thanks
+what measly
+what really burns !PRONOUNOBJECTIVE up
+what really burns them up
+what really burns you up
+what really makes !PRONOUNOBJECTIVE angry
+what really makes !PRONOUNOBJECTIVE mad
+what really makes them angry
+what really makes them mad
+what really makes you angry
+what really makes you mad
+what sort of thanks did !ROYALWE get
+what sort of thanks do !ROYALWE ever
+what sort of thanks do !ROYALWE get
+what sort of thanks do they ever
+what sort of thanks do you ever
+what sort of thanks does he ever
+what sort of thanks does she ever
+what thanks did !ROYALWE get
+what thanks do
+what thanks do !ROYALWE ever
+what thanks do !ROYALWE get
+what thanks do they ever
+what thanks does he ever
+what thanks does she ever
+what thanks have !ROYALWE ever
+what they were about to do to so many human beings
+what will it take before !PRONOUNNOMINAL do something about it
+what will it take before !PRONOUNNOMINAL does something about it
+what will it take before he does something
+what will it take before she does something
+what will it take before someone does something about it
+what will it take before they do something
+whatever he damn well pleases
+whatever she damn well pleases
+whatever they damn well please
+whatever you damn well please
+where do they get off accusing
+where do they get off attacking
+where do they get off belittling
+where do they get off bothering
+where do they get off causing
+where do they get off harassing
+where do they get off humiliating
+where do they get off ridiculing
+where do you get off accusing
+where do you get off attacking
+where do you get off belittling
+where do you get off bothering
+where do you get off causing
+where do you get off harassing
+where do you get off humiliating
+where do you get off ridiculing
+where does he get off accusing
+where does he get off attacking
+where does he get off belittling
+where does he get off bothering
+where does he get off causing
+where does he get off harassing
+where does he get off humiliating
+where does he get off ridiculing
+where does she get off accusing
+where does she get off attacking
+where does she get off belittling
+where does she get off bothering
+where does she get off causing
+where does she get off harassing
+where does she get off humiliating
+where does she get off ridiculing
+who are clueless about life
+who are so stupid
+who became !DETERMINER victim
+who became victims
+who believe that he is so superior
+who believe that she is so superior
+who believe that they are so superior
+who did this to !PRONOUNOBJECTIVE
+who did this to me
+who did this to our country
+who did this to our great nation
+who did this to us
+who did this to you
+who do not deserve
+who do not deserve !DETERMINER privilege
+who do they think they are
+who does he think he is
+who does she think she is
+who had never done !DETERMINER hurtful thing
+who had never done !PRONOUNOBJECTIVE harm
+who had never done them harm
+who had never hurt !DETERMINER flea
+who had not done one unfriendly thing
+who had not done one unkind thing
+who have done her no harm
+who have done him no harm
+who have done them no harm
+who have no clue about life
+who have no clue on life
+who have not done anything to !DETERMINER terrorist
+who think they are owed
+who were so stupid
+who were so stupid to
+who were so stupid to do
+who were so stupid to do something like that
+who would attempt to deny basic rights
+who would attempt to deny these basic rights
+why !MUSTSHOULD !ROYALWE have to
+why are they taking so long
+why are you taking so long
+why can't !PRONOUNNOMINAL
+why can't !PRONOUNNOMINAL get
+why can't !PRONOUNNOMINAL have
+why can't he just
+why can't she just
+why can't they just
+why can anyone abandon
+why can anyone allow
+why can anyone dismiss
+why can anyone shun
+why can anyone shut !POSSESSIVEPRONOUN eyes
+why can anyone stoop
+why can anyone turn !POSSESSIVEPRONOUN back
+why can she not just
+why can they not just
+why didn't !PRONOUNNOMINAL do !DETERMINER better job of
+why is he taking so long
+why is it so hard for people
+why is it so hard for people to understand
+why is she taking so long
+why kill innocent people
+why shouldn't !PRONOUNNOMINAL
+why shouldn't !PRONOUNNOMINAL get
+why shouldn't !PRONOUNNOMINAL have
+wicked and evil
+wicked thing
+wicked thing to do
+will !GIVE it to them good
+will avenge
+will be avengeful
+will have nightmares !DETERMINER rest of their lives
+will never be forgiven
+will never forgive
+will not be tolerated
+will not dignify
+will not hear of it
+will not heed
+will not own up to
+will not stand for
+will not stand for it
+will now bring struggle
+will now bring trouble
+will simply not stand for it
+willful act
+willful acts
+with !DETERMINER express intent of
+with !DETERMINER express intent of crippling
+with !DETERMINER express intent of destroying
+with !DETERMINER express intent of harming
+with !DETERMINER express intent of hurting
+with !DETERMINER express intent of killing
+with !DETERMINER express intent of maiming
+with !DETERMINER express intent of murdering
+with !DETERMINER intent of crippling
+with !DETERMINER intent of destroying
+with !DETERMINER intent of harming
+with !DETERMINER intent of hurting
+with !DETERMINER intent of killing
+with !DETERMINER intent of maiming
+with !DETERMINER intent of murdering
+with !DETERMINER lives of
+with accusation
+with all !DETERMINER garbage
+with all !DETERMINER garbage about
+with all !DETERMINER garbage said
+with all !POSSESSIVEPRONOUN garbage
+with an accusatory
+with an accusatory finger
+with an angered
+with anger
+with anger and defiance
+with brutal detachment
+with contempt
+with contempt for
+with contemptuous anger
+with disgust
+with hostility
+with huffiness and anger
+with indignation
+with insinuation
+with lives
+with menace
+with rage
+with so small !DETERMINER chance of ever bringing !DETERMINER perpetrators to justice
+with spite
+with taunting
+with unsparing anger
+with vitriol
+withering glare
+withering glares
+without !DETERMINER chance to watch their kids grow up
+without !DETERMINER change to watch their children grow up
+without !DETERMINER considerateness to
+without !DETERMINER considerateness to tell me
+without !DETERMINER considerateness to tell us
+without !DETERMINER decency
+without !DETERMINER decency to
+without !DETERMINER decency to say to !POSSESSIVEPRONOUN face
+without !DETERMINER decency to say to my face
+without !DETERMINER decency to say to our face
+without !DETERMINER decency to speak directly
+without !DETERMINER decency to tell me
+without !DETERMINER decency to tell us
+without !DETERMINER gusts to tell us
+without !DETERMINER guts to
+without !DETERMINER guts to tell me
+without !DETERMINER hint of remorse
+without !DETERMINER least feeling
+without !DETERMINER same sense of morality
+without !DETERMINER sign of remorse
+without !DETERMINER trace of remorse
+without !POSSESSIVEPRONOUN showing any remorse
+without !POSSESSIVEPRONOUN showing remorse
+without any remorse
+without even letting !PRONOUNOBJECTIVE know
+without even letting me know
+without even letting us know
+without even telling !PRONOUNOBJECTIVE
+without even telling me
+without even telling us
+without ever getting
+without getting !DETERMINER chance
+without getting to live
+without living to experience
+without living to experience their dreams
+without remorse coming from !PRONOUNOBJECTIVE
+without remorse on !POSSESSIVEPRONOUN part
+without so much as !DETERMINER chance to answer
+without so much as !DETERMINER chance to reply
+without so much as !DETERMINER chance to respond
+without so much as !DETERMINER fair
+without so much as !DETERMINER full investigation
+won't be shoehorned
+won't be taking it lying down
+won't dignify
+won't heed
+won't listen
+won't own up to
+won't stand for it
+won't take it lying down
+work !PRONOUNOBJECTIVE into !DETERMINER lather
+worked up about
+worked up over
+works !PRONOUNOBJECTIVE into !DETERMINER lather
+would be so inconsiderate as
+would be so inconsiderate as to
+would be so inconsiderate as to have done
+would be so inconsiderate as to have done what they did
+would condone this
+would have no mercy
+would let something like this happen
+would like to go and just kill
+would like to go and kill
+would not even lift !DETERMINER finger
+would not life so much as one finger
+would not put it past !PRONOUNOBJECTIVE
+would please stop
+would retaliate by
+wouldn't be shoehorned
+wouldn't give !DETERMINER time of day
+wouldn't give !PRONOUNOBJECTIVE !DETERMINER time of day
+wouldn't give me !DETERMINER time of day
+wouldn't give us !DETERMINER time of day
+wouldn't give you !DETERMINER time of day
+wouldn't lift !DETERMINER finger
+wouldn't put it past !PRONOUNOBJECTIVE
+wouldn't stand for
+wouldn't take it anymore
+wrath at
+wrath on
+wrathful at
+wrathful toward
+wrathful towards
+wrathfulness at
+yell !POSSESSIVEPRONOUN head off at !PRONOUNOBJECTIVE for
+yell !POSSESSIVEPRONOUN heads off at !PRONOUNOBJECTIVE for
+yell at !PRONOUNOBJECTIVE for
+yelled !POSSESSIVEPRONOUN head off at !PRONOUNOBJECTIVE for
+yelled !POSSESSIVEPRONOUN heads off at !PRONOUNOBJECTIVE for
+yelled at !PRONOUNOBJECTIVE for
+yelling !POSSESSIVEPRONOUN head off at !PRONOUNOBJECTIVE for
+yelling !POSSESSIVEPRONOUN heads off at !PRONOUNOBJECTIVE for
+yelling at !PRONOUNOBJECTIVE for
+yells !POSSESSIVEPRONOUN head off at !PRONOUNOBJECTIVE for
+yells !POSSESSIVEPRONOUN heads off at !PRONOUNOBJECTIVE for
+yells at !PRONOUNOBJECTIVE for
+you !TAKE too long
+you are !DETERMINER liar
+you are fuming
+you are scum
+you are taking so long
+you deserve !DETERMINER worst
+you deserve what is now befalling you
+you lie when you
+you take so long
+you were framed

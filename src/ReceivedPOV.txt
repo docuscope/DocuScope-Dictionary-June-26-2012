@@ -1,0 +1,1299 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX common practice
+!AUX hardly new
+!AUX not new
+!DETERMINER alleged view
+!DETERMINER approach that says
+!DETERMINER classic for its time
+!DETERMINER classic in its time
+!DETERMINER common practice
+!DETERMINER CONCERN !INDEFINITEADDRESSEE can raise
+!DETERMINER English common law
+!DETERMINER few hold !DETERMINER belief
+!DETERMINER few hold !DETERMINER idea
+!DETERMINER historic decision
+!DETERMINER landmark decision
+!DETERMINER literature has indicated
+!DETERMINER literature has shown
+!DETERMINER literature has suggested
+!DETERMINER literature indicates
+!DETERMINER literature shows
+!DETERMINER literature suggests
+!DETERMINER long established
+!DETERMINER long history
+!DETERMINER number of !PAPER
+!DETERMINER old masters
+!DETERMINER one side claims
+!DETERMINER one side says
+!DETERMINER other side claims
+!DETERMINER other side replies
+!DETERMINER other side says
+!DETERMINER research has suggested
+!DETERMINER study has suggested
+!DETERMINER study suggested
+!DETERMINER tradition has been
+!DETERMINER venerated and established
+!FILL !DETERMINER shoes of
+!GO down in !DETERMINER record books
+!GO DOWN IN history
+!HAND !POSSESSIVEPRONOUN name down
+!HAND down from generations
+!HAND down from tradition
+!HAND down from traditions
+!HAND down to generations
+!HAND down to new generations
+!HAND down to posterity
+!HAND down to traditions
+!HAND it down to
+!HAND your name down to posterity
+!HAVE !DETERMINER long history
+!HAVE ever
+!HAVE ever had
+!HAVE gone unequaled
+!HAVE gone unexampled
+!HAVE gone unmatched
+!HAVE investigated extensively
+!HAVE long ago argued that
+!HAVE long ago been known
+!HAVE long ago been recognized
+!HAVE long ago been studied
+!HAVE long ago been supposed
+!HAVE long ago contended that
+!HAVE long ago decided
+!HAVE long ago established
+!HAVE long ago realised
+!HAVE long ago realized
+!HAVE long ago recommended
+!HAVE long ago ruled
+!HAVE long ago shown that
+!HAVE long ago thought
+!HAVE long argued that
+!HAVE long been known
+!HAVE long been recognized
+!HAVE long been studied
+!HAVE long been supposed
+!HAVE long contended that
+!HAVE long realised
+!HAVE long realized
+!HAVE long recommended
+!HAVE long shown that
+!HAVE long thought
+!HAVE never again been
+!HAVE never been before
+!HAVE never been equaled
+!HAVE never been exampled
+!HAVE never been matched
+!HAVE never before
+!HAVE never before been
+!HAVE never prior to then
+!HAVE never since
+!HAVE never since been
+!HAVE precedent in
+!HAVE previously examined
+!HAVE previously explored
+!HAVE previously investigated
+!HAVE previously pointed out
+!HAVE previously proposed
+!HAVE previously suggested
+!HAVE proposed that
+!HAVE rarely
+!INDEFINITEADDRESSEE !MODAL !REFUTE
+!INDEFINITEADDRESSEE !MODAL !SAY
+!INDEFINITEADDRESSEE !MODAL argue
+!INDEFINITEADDRESSEE !MODAL conjecture
+!INDEFINITEADDRESSEE !MODAL contend
+!INDEFINITEADDRESSEE !MODAL speculate
+!MODEL !PRONOUNOBJECTIVE after
+!MODEL !REFLEXIVEPRONOUN after
+!MODEL after
+!MODEL it after
+!MODEL me after
+!MODEL myself after
+!MODEL ourselves after
+!MODEL us after
+!MODEL you after
+!MODEL yourself after
+!PRONOUNNOMINAL also think
+!PRONOUNNOMINAL also think that
+!PRONOUNNOMINAL commonly wrote that:
+!PRONOUNNOMINAL could think
+!PRONOUNNOMINAL could think that
+!PRONOUNNOMINAL have affirmed
+!PRONOUNNOMINAL have asserted
+!PRONOUNNOMINAL have claimed
+!PRONOUNNOMINAL have declared
+!PRONOUNNOMINAL have observed
+!PRONOUNNOMINAL have pointed out
+!PRONOUNNOMINAL have professed
+!PRONOUNNOMINAL have proposed
+!PRONOUNNOMINAL have said
+!PRONOUNNOMINAL have suggested
+!PRONOUNNOMINAL might think
+!PRONOUNNOMINAL might think that
+!PRONOUNNOMINAL would commonly argue
+!PRONOUNNOMINAL would commonly assert
+!PRONOUNNOMINAL would commonly claim
+!PRONOUNNOMINAL would commonly state
+!ROYALWE !CONTINGENTMODAL affirm
+!ROYALWE !CONTINGENTMODAL argue
+!ROYALWE !CONTINGENTMODAL assert
+!ROYALWE !CONTINGENTMODAL attest
+!ROYALWE !CONTINGENTMODAL aver
+!ROYALWE !CONTINGENTMODAL avow
+!ROYALWE !CONTINGENTMODAL claim
+!ROYALWE !CONTINGENTMODAL contend
+!ROYALWE !CONTINGENTMODAL counter-assert
+!ROYALWE !CONTINGENTMODAL counter-claim
+!ROYALWE !CONTINGENTMODAL counterassert
+!ROYALWE !CONTINGENTMODAL counterclaim
+!ROYALWE !CONTINGENTMODAL declaim
+!ROYALWE !CONTINGENTMODAL declare
+!ROYALWE !CONTINGENTMODAL deny
+!ROYALWE !CONTINGENTMODAL object
+!ROYALWE !CONTINGENTMODAL observe
+!ROYALWE !CONTINGENTMODAL POINT OUT
+!ROYALWE !CONTINGENTMODAL preach
+!ROYALWE !CONTINGENTMODAL proclaim
+!ROYALWE !CONTINGENTMODAL profess
+!ROYALWE !CONTINGENTMODAL pronounce
+!ROYALWE !CONTINGENTMODAL propose alternative
+!ROYALWE !CONTINGENTMODAL propose alternatives
+!ROYALWE !CONTINGENTMODAL rebut
+!ROYALWE !CONTINGENTMODAL refute
+!ROYALWE !CONTINGENTMODAL say
+!ROYALWE !CONTINGENTMODAL state
+!ROYALWE !CONTINGENTMODAL suggest
+!ROYALWE !CONTINGENTMODAL THINK that
+!ROYALWE !CONTINGENTMODAL try to deny
+!ROYALWE !CONTINGENTMODAL try to object
+!ROYALWE !CONTINGENTMODAL try to rebut
+!ROYALWE !CONTINGENTMODAL try to refute
+!ROYALWE !CONTINGENTMODAL try to retort
+!ROYALWE !MODAL affirm
+!ROYALWE !MODAL argue
+!ROYALWE !MODAL assert
+!ROYALWE !MODAL attest
+!ROYALWE !MODAL aver
+!ROYALWE !MODAL avow
+!ROYALWE !MODAL CALL
+!ROYALWE !MODAL claim
+!ROYALWE !MODAL contend
+!ROYALWE !MODAL counter-assert
+!ROYALWE !MODAL counter-claim
+!ROYALWE !MODAL counterassert
+!ROYALWE !MODAL counterclaim
+!ROYALWE !MODAL declaim
+!ROYALWE !MODAL declare
+!ROYALWE !MODAL deny
+!ROYALWE !MODAL object
+!ROYALWE !MODAL observe
+!ROYALWE !MODAL POINT OUT
+!ROYALWE !MODAL preach
+!ROYALWE !MODAL proclaim
+!ROYALWE !MODAL profess
+!ROYALWE !MODAL pronounce
+!ROYALWE !MODAL propose alternative
+!ROYALWE !MODAL propose alternatives
+!ROYALWE !MODAL rebut
+!ROYALWE !MODAL refute
+!ROYALWE !MODAL say
+!ROYALWE !MODAL state
+!ROYALWE !MODAL suggest
+!ROYALWE !MODAL think
+!ROYALWE !MODAL THINK that
+!ROYALWE !MODAL try to deny
+!ROYALWE !MODAL try to object
+!ROYALWE !MODAL try to rebut
+!ROYALWE !MODAL try to refute
+!ROYALWE !MODAL try to retort
+!ROYALWE could say
+!ROYALWE could think
+!RUN in couples
+!RUN in families
+!SET precedence
+!TAKE !DETERMINER leaf out of
+!TAKE !DETERMINER leaf out of !POSSESSIVEPRONOUN book
+!TAKE !DETERMINER leaf out of my book
+!TAKE !DETERMINER leaf out of our book
+!TAKE !DETERMINER leaf out of your book
+, but for many
+, but for some
+, but to many
+, but to some
+. traditionally,
+according to !DETERMINER account of
+according to !DETERMINER account,
+according to !DETERMINER assessment
+according to !DETERMINER conventional wisdom
+according to !DETERMINER evaluation
+according to !DETERMINER official account
+according to !DETERMINER popular way of thinking
+according to !DETERMINER public account of
+according to !DETERMINER review
+according to !DETERMINER thinking
+according to !DETERMINER view
+according to !DETERMINER view of
+according to !DETERMINER views
+according to !DETERMINER views of
+according to !POSSESSIVEPRONOUN account of
+according to !POSSESSIVEPRONOUN account,
+according to !POSSESSIVEPRONOUN assessment
+according to !POSSESSIVEPRONOUN evaluation
+according to !POSSESSIVEPRONOUN public account of
+according to !POSSESSIVEPRONOUN review
+according to !POSSESSIVEPRONOUN thinking
+according to !POSSESSIVEPRONOUN way of thinking
+according to conventional wisdom
+according to popular notions
+according to popular thinking
+adhering to previous
+advocate of
+advocates of
+age-honored
+age-lasting
+age-long
+age-old
+age old
+all-time
+all-time high
+all-time low
+along !DETERMINER convention
+along !DETERMINER convention that
+AN ALTERNATIVE !INDEFINITEADDRESSEE !MODAL
+AN ALTERNATIVE !INDEFINITEADDRESSEE may
+AN ALTERNATIVE IDEA !INDEFINITEADDRESSEE !MODAL
+AN ALTERNATIVE IDEA !INDEFINITEADDRESSEE may
+AN ALTERNATIVE PROPOSAL !INDEFINITEADDRESSEE !MODAL
+AN ALTERNATIVE PROPOSAL !INDEFINITEADDRESSEE may
+AN OBJECTION !INDEFINITEADDRESSEE !MODAL
+AN OBJECTION !INDEFINITEADDRESSEE may
+ancient wisdom
+and ancient as !DETERMINER sun
+another argument has it that
+ANOTHER CONCERN !INDEFINITEADDRESSEE !MODAL HAVE
+ANOTHER CONCERN !INDEFINITEADDRESSEE may HAVE
+another silly argument has it that
+as !DETERMINER endorser of
+as ever
+as has been previously done
+as in !DETERMINER past
+as is !DETERMINER custom
+as is !DETERMINER practice
+as is !DETERMINER tradition
+As is conventional
+as is customarily done
+As is customary
+as is done at
+As is normal
+As is the norm
+As is traditional
+as is traditionally done
+as is usual
+as one could think
+as one could well think
+as one may tend to think
+as one may think
+as one might tend to think
+as one might think
+as previously
+as was !DETERMINER custom
+as was !DETERMINER practice
+as was !DETERMINER tradition
+as was usual
+at !DETERMINER belief
+at !DETERMINER belief that
+at !DETERMINER belief that says
+at !DETERMINER beliefs out there
+at !DETERMINER bromide
+at !DETERMINER commonplace
+at !DETERMINER commonplace that says
+at !DETERMINER conceptualization
+at !DETERMINER conceptualization of
+at !DETERMINER conjecture
+at !DETERMINER convention wisdom
+at !DETERMINER conventional wisdom that says
+at !DETERMINER idea
+at !DETERMINER idea that
+at !DETERMINER idea that says
+at !DETERMINER ideas out there
+at !DETERMINER notion
+at !DETERMINER notion that
+at !DETERMINER notions out there
+at !DETERMINER old bromide
+at !DETERMINER opinion
+at !DETERMINER opinion out there
+at !DETERMINER opinion out there that says
+at !DETERMINER opinion that
+at !DETERMINER point of view
+at !DETERMINER received wisdom
+at !DETERMINER rumor
+at !DETERMINER scenario
+at !DETERMINER scenario of
+at !DETERMINER scenario that says
+at !DETERMINER speculation
+at !DETERMINER stereotype
+at !DETERMINER stereotypes that says
+at !DETERMINER thinking
+at !DETERMINER thinking out there
+at !DETERMINER thinking that
+at !DETERMINER thinking that says
+at !DETERMINER very idea
+based on common practices
+based oncommon practice
+been extensively
+before-written
+before or since
+before that time there was no trace
+before then it had never
+before written
+bloodline
+bloodlines
+commonly
+commonly argue
+commonly assert
+commonly claim
+commonly experienced
+commonly state
+conventional wisdom
+could consider
+could offer
+could propose
+create history
+creates history
+deeply rooted in history
+deeply seated in history
+earlier attempts
+earlier attempts have been
+earlier efforts
+earlier efforts have been
+earlier research
+earlier research has been
+earlier studies
+earlier writers
+earlier writers have
+earliest research
+earliest studies
+either before or since
+endorsement
+endorsements
+endorser of
+endorsers of
+endorses !DETERMINER
+enjoys precedence
+epoch-forming
+epoch-making
+epoch-marking
+established precedent
+established precedents
+ever after been
+ever after had
+ever after has
+ever again
+ever again will
+ever be
+ever before been
+ever before had
+ever before has
+ever did see
+ever heard
+ever known
+ever seen
+ever since been
+ever tasted
+ever to be equalled
+ever to be matched
+ever touched
+ever watched
+ever witnessed
+experienced often
+extended her theory
+extended his theory
+extends their theories
+extensive investigation
+extensive research
+extensive review
+extensive writing
+extensively investigated
+extensively researched
+extensively reviewed
+extensively written about
+following !DETERMINER convention
+following !DETERMINER convention that
+following previous
+for precedent
+for precedents
+founding father
+founding father's
+founding fathers
+founding fathers'
+grounded in !DETERMINER common law
+grounded in commmon practice
+grounded in common law
+grounded in legal tradition
+had long been !ROUTINEACT
+had never again
+had never again been
+had never before
+had never before been
+had never before or since
+had never since
+happily ever after
+HAS ALREADY BEEN !PASTCLAIMING
+HAS BEEN ARGUED THAT
+HAS BEEN ASSERTED THAT
+HAS BEEN MENTIONED THAT
+HAS BEEN STATED THAT
+Have until now
+Have until recently
+Have up through the present
+Have up to now
+he had ever
+he had ever witnessed
+he had never seen
+he has affirmed
+he has asserted
+he has claimed
+he has declared
+he has observed
+he has pointed out
+he has professed
+he has proposed
+he has said
+he has suggested
+historic
+historic decision
+historic decisions
+IF !DETERMINER READER ACKNOWLEDGES THAT
+IF !DETERMINER READER ALLOWS THAT
+IF ONE ACKNOWLEDGES THAT
+IF ONE ALLOWS THAT
+IF ONE CONCEDES THAT
+IF YOU !ASSERT
+IF YOU !REFUTE
+IF YOU ACKNOWLEDGE THAT
+IF YOU ALLOW THAT
+IF YOU CONCEDE THAT
+in !DETERMINER !PAPER on
+in !DETERMINER article on
+in !DETERMINER entire history
+in !DETERMINER historical tradition of
+in !DETERMINER history
+in !DETERMINER history of
+in !DETERMINER long history
+in !DETERMINER long history of
+in !DETERMINER recent !PAPER
+in !DETERMINER recent article on
+in !DETERMINER traditions of
+in !DETERMINER way it's never been before
+in !DETERMINER way of our fathers
+in !PAPER on
+in all of her history
+in all of her history with
+in all of his history
+in all of his history with
+in all of history
+in all of history with
+in all of its history
+in all of its history with
+in all of my history
+in all of my history with
+in all of our history
+in all of our history with
+in all of your history
+in all of your history with
+in her history
+in his history
+in historic times
+in history
+in its history
+IN KEEPING WITH
+IN KEEPING WITH !DETERMINER
+IN KEEPING WITH !POSSESSIVEPRONOUN
+in line with previous
+in my history with
+in our history
+in their history
+in your history
+institutive
+institutively
+is not !DETERMINER first time
+isn't !DETERMINER first time
+it's long been
+it's long been known
+it's long been thought
+it's long been traditional
+it's long been understood
+it !CONTINGENTMODAL be affirmed
+it !CONTINGENTMODAL be argued
+it !CONTINGENTMODAL be asserted
+it !CONTINGENTMODAL be attested
+it !CONTINGENTMODAL be avered
+it !CONTINGENTMODAL be avowed
+it !CONTINGENTMODAL be claimed
+it !CONTINGENTMODAL be contended
+it !CONTINGENTMODAL be counter-asserted
+it !CONTINGENTMODAL be counter-claimed
+it !CONTINGENTMODAL be counterasserted
+it !CONTINGENTMODAL be counterclaimed
+it !CONTINGENTMODAL be declaimed
+it !CONTINGENTMODAL be declared
+it !CONTINGENTMODAL be denied
+it !CONTINGENTMODAL be obected
+it !CONTINGENTMODAL be objected
+it !CONTINGENTMODAL be observed
+it !CONTINGENTMODAL be POINTed OUT
+it !CONTINGENTMODAL be preached
+it !CONTINGENTMODAL be proclaimed
+it !CONTINGENTMODAL be professed
+it !CONTINGENTMODAL be pronounced
+it !CONTINGENTMODAL be proposed
+it !CONTINGENTMODAL be rebuted
+it !CONTINGENTMODAL be rebutted
+it !CONTINGENTMODAL be refuted
+it !CONTINGENTMODAL be retorted
+it !CONTINGENTMODAL be said
+it !CONTINGENTMODAL be stated
+it !CONTINGENTMODAL be suggested
+it !CONTINGENTMODAL be thought that
+it had ever
+it had never before happened until
+it has been !DETERMINER custom
+it has been !DETERMINER tradition
+it has been customary to
+it has been found
+it has been known that
+it has been long known that
+it has been traditional
+it has been traditional to
+it has ever
+it has long been
+it has long been known
+it has long been thought
+it has long been traditional
+it has long been understood
+it has never been before
+it has never been like this before
+it has traditionally
+it is only !DETERMINER !RANKNUMBER time
+it may be affirmed
+it may be argued
+it may be asserted
+it may be attested
+it may be avered
+it may be avowed
+it may be claimed
+it may be contended
+it may be counter-asserted
+it may be counter-claimed
+it may be counterasserted
+it may be counterclaimed
+it may be declaimed
+it may be declared
+it may be denied
+it may be obected
+it may be objected
+it may be observed
+it may be POINTed OUT
+it may be preached
+it may be proclaimed
+it may be professed
+it may be pronounced
+it may be proposed
+it may be rebuted
+it may be rebutted
+it may be refuted
+it may be retorted
+it may be said
+it may be stated
+it may be suggested
+it may be thought that
+it might be thought
+it was only !DETERMINER !RANKNUMBER time
+it would be only !DETERMINER !RANKNUMBER time
+Judeo-Christian Tradition
+Judeo-Christian Traditions
+keeping with !DETERMINER !ROUTINEACT
+keeping with !DETERMINER authority
+last achieved when
+long-accustomed
+long-cited
+long-established
+long-fought
+long-handled
+long-held
+long-held belief
+long-held beliefs
+long-held decision
+long-held decisions
+long-held opinion
+long-held opinions
+long-rooted
+long-saved
+long-settled
+long-standing
+long-styled
+long-worshipped
+long ago held that
+long argued that
+long cited
+long contended that
+long discussed
+long enduring
+long fought
+long held
+long held that
+long instituted
+long poised
+long positioned
+long recommended
+long ruled
+long standing
+long sufferance
+long sweetening
+long thought
+longstanding
+many-storied
+many argue that
+Many believe
+many have argued that
+many hold
+many hold that
+Many people believe
+Many people think
+many suscribe to !DETERMINER !IDEA
+Many think
+may affirm
+may argue
+may assert
+may attest
+may aver
+may avow
+may claim
+may contend
+may counter-assert
+may counter-claim
+may counterassert
+may counterclaim
+may declaim
+may declare
+may deny
+may never be !DETERMINER same
+may object
+may object that
+may object to
+may observe
+may POINT OUT
+may preach
+may proclaim
+may profess
+may pronounce
+may propose alternative
+may propose alternatives
+may rebut
+may refute
+may say
+may state
+may THINK that
+may try to deny
+may try to object
+may try to rebut
+may try to refute
+may try to retort
+might consider
+might never be !DETERMINER same
+might offer
+might propose
+more than was ever before had
+much-discussed
+much-enduring
+much discussed
+much enduring
+never achieved since
+never been before
+never been this way before
+never been until now
+never before
+never before matched
+never before or after
+never before or after have
+never before or since
+never before or since have
+never before til now
+never before till now
+never done since
+never since
+never till now
+never to be again
+never to be equalled
+never to be matched
+never to be surpassed
+never to see !DETERMINER likes of again
+never until now
+never would again see
+never would see again
+not before this !TIMEFRAME had
+not since
+not until after this time did
+not until then had it ever
+not until this !TIMEFRAME had
+now as previously
+now as then
+now, as then
+of !DETERMINER old school
+of long standing
+of old
+oft-cited
+oft-experienced
+oft experienced
+often-cited
+often cited
+often experienced
+old-and-established
+old-established
+old-line
+old-order
+old-orders
+old-school
+old and established
+old establish
+old line
+old master
+old masters
+old order
+old orders
+old school
+on !DETERMINER official account
+on !DETERMINER other side of !DETERMINER argument
+on !DETERMINER other side of !DETERMINER debate
+on !POSSESSIVEPRONOUN account of
+on !POSSESSIVEPRONOUN public account of
+on another point of view
+on another side of !DETERMINER argument
+on another side of !DETERMINER debate
+on one point of view
+on one side of !DETERMINER argument
+on one side of !DETERMINER debate
+once-in-!DETERMINER-century
+once-in-!DETERMINER-decade
+once-in-!DETERMINER-lifetime
+one !CONTINGENTMODAL affirm
+one !CONTINGENTMODAL argue
+one !CONTINGENTMODAL assert
+one !CONTINGENTMODAL attest
+one !CONTINGENTMODAL aver
+one !CONTINGENTMODAL avow
+one !CONTINGENTMODAL claim
+one !CONTINGENTMODAL contend
+one !CONTINGENTMODAL counter-assert
+one !CONTINGENTMODAL counter-claim
+one !CONTINGENTMODAL counterassert
+one !CONTINGENTMODAL counterclaim
+one !CONTINGENTMODAL declaim
+one !CONTINGENTMODAL declare
+one !CONTINGENTMODAL deny
+one !CONTINGENTMODAL object
+one !CONTINGENTMODAL observe
+one !CONTINGENTMODAL POINT OUT
+one !CONTINGENTMODAL preach
+one !CONTINGENTMODAL proclaim
+one !CONTINGENTMODAL profess
+one !CONTINGENTMODAL pronounce
+one !CONTINGENTMODAL propose alternative
+one !CONTINGENTMODAL propose alternatives
+one !CONTINGENTMODAL rebut
+one !CONTINGENTMODAL refute
+one !CONTINGENTMODAL say
+one !CONTINGENTMODAL state
+one !CONTINGENTMODAL suggest
+one !CONTINGENTMODAL THINK that
+one !CONTINGENTMODAL try to deny
+one !CONTINGENTMODAL try to object
+one !CONTINGENTMODAL try to rebut
+one !CONTINGENTMODAL try to refute
+one !CONTINGENTMODAL try to retort
+one argument has it that
+one can allege
+one can believe
+one can easily believe
+one can easily think
+one can say
+one can think
+one could allege
+one could say
+one could think
+one had never
+one had never seen
+one may affirm
+one may allege
+one may argue
+one may assert
+one may attest
+one may aver
+one may avow
+one may claim
+one may contend
+one may counter-assert
+one may counter-claim
+one may counterassert
+one may counterclaim
+one may declaim
+one may declare
+one may deny
+one may easily think
+one may object
+one may observe
+one may POINT OUT
+one may preach
+one may proclaim
+one may profess
+one may pronounce
+one may propose alternative
+one may propose alternatives
+one may rebut
+one may refute
+one may say
+one may state
+one may suggest
+one may think
+one may THINK that
+one may try to deny
+one may try to object
+one may try to rebut
+one may try to refute
+one may try to retort
+one might allege
+one might easily think
+one might say
+one might think
+one silly argument has it that
+one would say
+one would think
+opponent of
+opponents of
+opponents of this !CLAIM allow that
+opponents of this !CLAIM say that
+other columnists
+other commentators
+other critics
+other editorial writers
+other pundits
+others argue that
+Others believe
+others believe that
+others contend that
+others found it
+OTHERS have !ASSERT
+OTHERS have !ASSERT that
+others have !CITEVERBED
+OTHERS have !REFUTE
+OTHERS have !REFUTE that
+others have argued that
+others have commented
+others have contended
+others have criticized
+others have noticed
+others have pointed out
+others have researched
+others have suggested that
+others have written
+others hold that
+others maintain
+others regarded
+others saw
+others suscribe to !DETERMINER !IDEA
+Others think
+pattern !PRONOUNOBJECTIVE after an earlier
+pattern !REFLEXIVEPRONOUN after an earlier
+pattern me after
+pattern myself after
+pattern ourselves after
+pattern the law after
+pattern us after
+pattern you after
+pattern yourself after
+patterned !PRONOUNOBJECTIVE after an earlier
+patterned !REFLEXIVEPRONOUN after an earlier
+patterned me after
+patterned myself after
+patterned ourselves after
+patterned the law after
+patterned us after
+patterned you after
+patterned yourself after
+patterning !PRONOUNOBJECTIVE after an earlier
+patterning me after
+patterning myself after
+patterning ourselves after
+patterning the law after
+patterning the law after an earlier
+patterning us after
+patterning you after
+patterning yourself after
+patterns !PRONOUNOBJECTIVE after an earlier
+patterns !REFLEXIVEPRONOUN after an earlier
+patterns me after
+patterns myself after
+patterns ourselves after
+patterns the law after
+patterns us after
+patterns you after
+patterns yourself after
+popular belief
+popular beliefs
+popular regard
+popular sentiment
+popular sentiments
+popular taste
+popular tastes
+popular view
+popular views
+previous attempts
+previous attempts have been
+previous efforts
+previous efforts have been
+previous research
+previous research has been
+previous studies have shown
+previous writers
+previous writers have
+previously done
+previously done at
+primal
+primality
+prior experiments
+prior investigation
+prior investigations
+prior research
+prior to that time
+prior to that time there was no trace
+prior to then
+prior to this !TIMEFRAME
+prior trials
+prior work
+proponent of
+proponents of
+proto
+proto-
+putative
+putative thought
+putatively
+putatively !THINK
+quite common
+recent claim
+recent claims
+recent studies
+recent work has
+recently there has been
+research has shown
+researchers have studied
+seldom or never
+she had ever
+she had ever witnessed
+she had never seen
+she has affirmed
+she has asserted
+she has claimed
+she has declared
+she has observed
+she has pointed out
+she has professed
+she has proposed
+she has said
+she has suggested
+SHOULD !DETERMINER READER ACKNOWLEDGE THAT
+SHOULD !DETERMINER READER ALLOW THAT
+SHOULD YOU !ASSERT
+SHOULD YOU !REFUTE
+SHOULD YOU ALLOW THAT
+SHOULD YOU CONCEDE THAT
+some !CITEVERB
+some argue that
+Some believe
+some believe that
+some columnists
+some commentators
+some contend that
+some critics
+some editorial writers
+some found it
+some have !ASSERT
+some have !ASSERT that
+some have !CITEVERBED
+some have !REFUTE
+some have !REFUTE that
+some have argued that
+some have criticized
+some have noticed
+some have pointed out
+some hold
+Some hold that
+some maintain
+some pundits
+some regarded
+some saw
+standing custom
+standing observance
+standing observances
+standing rite
+standing ritual
+standing rituals
+storied
+studies have shown
+subscribe to !DETERMINER !IDEA
+subscribed to !DETERMINER !IDEA
+subscribes to !DETERMINER !IDEA
+subscribing to !DETERMINER !IDEA
+than ever
+than ever after
+that had long
+that had long governed
+that had long held
+that had long held sway
+the conventional wisdom
+the norm is
+the norms are
+then as previously
+there had been no evidence of this until
+there had been no trace of this prior to
+there had been no trace of this until
+there had been no trace until
+there has been considerable
+there has been extensive
+there has been much investigation
+there has been much research
+there has been much review
+there has been much work
+there is !DETERMINER extensive literature on !DETERMINER subject
+there is extensive literature
+there is no record before
+there is precedent
+there is precedent for
+there was no trace before
+there was no trace prior to
+there was precedent
+there was precedent for
+these studies showed
+these studies suggested
+they had ever
+they had ever witnessed
+they had never seen
+this claim
+this point of view
+this previous study shows
+this research has suggested
+this school of thought
+this study has suggested
+this view
+this way of thinking
+through history
+time-authorized
+time-binding
+time-confirmed
+time-honored
+time-honored practice
+time-honoured
+time-proven
+time-sanctioned
+time-served
+time-taught
+time-tested
+time-tried
+time authorized
+time confirmed
+time honored
+time honored practice
+time honoured
+time proven
+time sanctioned
+time served
+time taught
+time tested
+time tried
+tradition-bound
+tradition-fed
+tradition-following
+tradition-making
+tradition-nourished
+tradition-ridden
+traditional customs
+traditional forms
+traditional grammar
+traditional grammars
+traditional habits
+traditional logic
+traditional logics
+traditional ways
+traditional wisdom
+truly one-of-!DETERMINER-kind
+under !DETERMINER historical aegis of
+under !DETERMINER historical authority of
+under !DETERMINER standing authority of
+under !DETERMINER venerable authority of
+unequaled since
+unexampled since
+universally acknowledged
+universally admitted
+universally known
+universally recognized
+universally understood
+until that moment he had never
+until that moment I had never
+until that moment she had never
+until that moment they had never
+until that moment we had never
+until that moment you had never
+up until now has been
+was !DETERMINER precedent
+WAS ARGUED THAT
+WAS ASSERTED THAT
+was long supposed
+was not !DETERMINER first time
+was popularly supposed
+was precedent
+was supposed
+was supposed to
+was widely supposed
+wasn't !DETERMINER first time
+we had ever
+we had ever witnessed
+we have ever
+we have known for some time
+we have long known
+we have long known that
+well-established
+well established
+went beyond anything that came before
+were !ROUTINEACT
+were discussed
+were long-held !ROUTINEACT
+were long supposed
+were popularly supposed
+were said to
+were said to have
+were said to have been
+were supposed
+were thought to
+were thought to have
+were thought to have been
+were widely supposed
+who argue
+who argues
+who articulate
+who articulates
+who assert
+who asserts
+who conclude
+who confirm
+who confirms
+who conjecture
+who conjectures
+who contend
+who contends
+who decide
+who declare
+who declares
+who explain
+who explains
+who express
+who expresses
+who insist
+who insists
+who mention
+who mentions
+who muse
+who muses
+who offer
+who offers
+who phrase
+who phrases
+who proclaim
+who proclaims
+who profess
+who professes
+who promulgate
+who promulgates
+who pronounce
+who pronounces
+who propound
+who propounds
+who refer
+who reference
+who referencing
+who referring
+who remark
+who remarks
+who say
+who says
+who speak
+who speaks
+who speculate
+who speculates
+who state
+who states
+who suggest
+who suggests
+who support
+who tell
+who tells
+who then argued
+who then articulated
+who then asserted
+who then confirmed
+who then conjectured
+who then contended
+who then declared
+who then explained
+who then expressed
+who then insisted
+who then mentioned
+who then mouthed
+who then mused
+who then offered
+who then petitioned
+who then phrased
+who then proclaimed
+who then professed
+who then promulgated
+who then pronounced
+who then propounded
+who then referenced
+who then referred
+who then remarked
+who then said
+who then speculated
+who then spoke
+who then stated
+who then suggested
+who then told
+widely-held
+with !DETERMINER history for
+WITH !DETERMINER HISTORY OF
+with !DETERMINER past of
+with !DETERMINER record for
+with !DETERMINER record of
+with !DETERMINER reputation for
+with !DETERMINER reputation of
+within acknowledged
+within established
+within standard
+within the norm
+within the norms
+within well-acknowledged
+within well-recognized
+without precedent since
+world-old
+world-remembered
+would assert
+would claim
+would like one to believe
+would like one to think
+would like us to believe
+would like us to think
+would say
+would think
+year of firsts
+you had ever
+you had ever witnessed

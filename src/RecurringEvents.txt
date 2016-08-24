@@ -1,0 +1,3531 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX at it again
+!AUX constantly trying
+!AUX striking again
+!BREAK out every
+!COME again
+!COME again and again
+!COME and !GO
+!COME full circle
+!CREATE again
+!CREATE once more
+!DETERMINER abiding
+!DETERMINER authorizing
+!DETERMINER autumn
+!DETERMINER autumns
+!DETERMINER daily
+!DETERMINER daily round
+!DETERMINER daily rounds
+!DETERMINER everyday
+!DETERMINER give and take
+!DETERMINER many times
+!DETERMINER mood would darken
+!DETERMINER past again
+!DETERMINER routine
+!DETERMINER several times
+!DETERMINER summer
+!DETERMINER summers
+!DETERMINER times of each
+!DETERMINER usual
+!DETERMINER usual course
+!DETERMINER usual course of things
+!DETERMINER winter
+!DETERMINER winters
+!DO again
+!DO it again
+!DO it over again
+!DO over again
+!FALL again
+!FALL again into
+!GET back to
+!GROW UP WITH
+!HAVE always
+!HAVE another crack
+!HAVE another go
+!HAVE another shot
+!HAVE another think coming
+!HAVE another try
+!KEEP coming up with
+!KEEP popping up
+!KEEP trying
+!KEEP trying to
+!LET it happen recurrently
+!LET it recur
+!MAKE it over again
+!NUMS1to100 TIMES over
+!NUMS1to100 times per !TIMEFRAME
+!PUT in appearances
+!RANKNUMBER take
+!RANKNUMBER time around
+!RANKNUMBER time around for
+!ROUTINEACT
+!SAY again
+!SAY over again
+!SAY over and over
+!SET at intervals
+!TAKE another crack
+!TAKE another go
+!TAKE another shot
+!TAKE another think coming
+!TAKE another try
+!TAKE it over again
+!TIMEFRAME after !TIMEFRAME
+!TIMEFRAME and days
+!TIMEFRAME by !TIMEFRAME
+!TIMEFRAME in !TIMEFRAME out
+!TIMEFRAME running
+, by custom
+. each !DAY
+. each !MONTH
+1-hour intervals
+1 time
+10-hour intervals
+10 times
+11-hour intervals
+11 times
+12-hour intervals
+12 times
+14 times
+15 times
+2-hour intervals
+2 times
+3-hour intervals
+3 times
+4-hour intervals
+4 times
+5-hour intervals
+5 times
+6-hour intervals
+6 times
+7-hour intervals
+7 times
+8-hour intervals
+8 times
+9-hour intervals
+9 times
+a-day
+a-month
+a-trip
+a-try
+a-week
+a-year
+a day to day
+a lot of times
+a lustral
+a number of times
+a regular basis
+a revivified
+a revivifies
+a revivify
+a revivifying
+a standing appointment
+a standing time
+a time when it often
+a time when it was !ROUTINEACT
+a wave of
+accustomed to
+across each of !DETERMINER !TIMEFRAME
+again
+again-
+again-and-again
+again and yet again
+again in season
+all over again
+alternate !TIMEFRAME
+alternate seasons
+alternating !TIMEFRAME
+alternating seasons
+always sunrise
+always sunset
+always used to
+annalistic
+annual
+annual bibliography
+annual bluegrass
+annual epact
+annual holiday
+annual outing
+annual outings
+annual parallax
+annual percentage rate
+annual period
+annual ring
+annual wage
+annually
+annuals
+annuities
+annuity
+annum
+are eternal
+are ever
+as a matter of ritual
+as a matter of routine
+as events unfold
+as is !DETERMINER wont
+as is wont
+as it unfolds
+as often
+as often as
+at !DETERMINER cockcrow
+at all times of !DETERMINER year
+at any particular
+at daybreak
+at each of !DETERMINER times
+at established periods
+at frequent
+at frequent intervals
+at infrequent
+at infrequent intervals
+at intervals
+at intervals of
+at irregular
+at irregular intervals
+at it again
+at more or less regular intervals
+at night
+at noon times
+at odd times
+at regular intervals
+at regular times
+at stated times
+at sundown
+at sunrise
+at sunup
+at this rate of
+at times
+at various times
+auroral
+autumnal
+autumnally
+autumns
+back and forth
+back and forth over many !TIMEFRAME
+baseball season
+baseball seasons
+basketball season
+basketball seasons
+bedtimes
+before school
+before work
+bi-annual
+bi-annually
+bi-monthly
+bi-weekly
+biannual
+biannually
+bicentenaries
+bicentenary
+bicentennial
+bicentennially
+bicentennials
+biennia
+biennial
+biennially
+biennials
+biennium
+bimestrial
+bimonthlies
+bimonthly
+bissextile
+bissextiles
+biweeklies
+biweekly
+biyearlies
+biyearly
+boom-and-bust
+break of !DETERMINER day
+break out every !NUMS1TO100 times
+break out every!NUMS1TO100 !TIMEFRAME
+breaking out every !NUMS1TO100 !TIMEFRAME
+breaking out every !NUMS1TO100 times
+breaks out every !NUMS1TO100 !TIMEFRAME
+breaks out every !NUMS1TO100 times
+broke out every !NUMS1TO100 !TIMEFRAME
+broke out every !NUMS1TO100 times
+by !DETERMINER week
+by !DETERMINER year
+by tradition
+centenaries
+centenary
+centennial
+centennially
+centennials
+check-ins
+common practice
+common practices
+consistently
+constant
+constantly
+constantly recur to
+constantly recurred to
+constantly recurring to
+constantly recurs to
+constantly revert to
+constantly reverted to
+constantly reverting to
+constantly reverts to
+constantly tried
+constantly tries
+constantly tries to
+constantly try
+constantly trying
+continual
+continually
+continually find
+continually finding
+continually finds
+continually found
+continuatively
+continued to try
+continued trying
+continues to try
+continues trying
+continuous
+continuously
+continuousness
+countercheck
+counterchecked
+counterchecking
+counterchecks
+customariness
+customary
+cycle
+cycle of
+cycle of erosion
+cycle of indiction
+cycle through
+cycled for
+cycled over
+cycled through
+cycles
+cycles of
+cycles through
+cyclic
+cyclic AMP
+cyclic GMP
+cyclic group
+cyclic neutropenia
+cyclic pitch lever
+cyclic shift
+cyclical
+cyclical stock
+cyclical unemployment
+cyclically
+cyclicity
+cycling
+cycling through
+daily
+daily and hourly
+daily bread
+daily communicant
+daily cycle
+daily cycles
+daily double
+daily dozen
+daily meetings
+daily newspaper
+daily prayer
+daily prayers
+daily round
+daily rounds
+daily routine
+day-after-day
+day-and-night
+day-to-day
+day-to-day loan
+day-to-day money
+day after day
+day and night
+day by day
+day in and day out
+day in day out
+day in, day out
+daybreaks
+days and !TIMEFRAME
+days running
+dayspring
+daysprings
+decade after decade
+decade by decade
+decennial
+decennially
+decennials
+digenesis
+din !DETERMINER
+dinned
+dinning
+dins !DETERMINER
+diurnal
+diurnally
+diurnals
+do-over
+do it over
+does it over
+doing it over
+down times
+downtimes
+drinking-up times
+drinking times
+each !DAY
+each !TIMEFRAME
+each and every time
+each autumntime
+each break of day
+each dawn
+each day
+each day-time
+each night
+each of !DETERMINER times
+each of !POSSESSIVEPRONOUN evenings out
+each season
+each springtime
+each summertime
+each sunset
+each time
+each week
+each wintertime
+each year
+early and ongoing
+early and periodic
+early evenings
+early mornings
+eight-hour intervals
+eight-time
+eleven-hour intervals
+endless
+endless duration
+endless time
+endlessly
+endlessness
+endure forever
+endured forever
+endures forever
+enduring forever
+ephemeres
+ephemeris second
+ephemeris seconds
+ephemeris time
+ephemeris times
+erosion cycle
+erosion cycles
+eternal
+eternal dawn
+eternal fitness
+eternal gloaming
+eternal home
+eternal homes
+eternal object
+eternal objects
+eternal re-creation
+eternal re-creations
+eternal recurrence
+eternal recurrences
+eternal rest
+eternal rests
+eternal return
+eternal returns
+eternal sleep
+eternal sleeps
+eternal sunrise
+eternal sunset
+eternal triangle
+eternal triangles
+eternal youth
+eternal youths
+eternally
+eternally !DETERMINER
+eternally !DETERMINER same
+eternalness
+eternals
+etesian
+evection
+evections
+evening prayer
+evening prayers
+evensong
+evensongs
+eventide
+eventides
+ever falling
+ever rising
+every !DAY
+every !DAY !TIMEOFDAY
+every !MONTH
+every !NUMS1TO100 !TIMEFRAME
+every !NUMS1to100 days
+every !NUMS1to100 minutes
+every !NUMS1to100 months
+every !NUMS1TO100 times
+every !NUMS1to100 weeks
+every !NUMS1to100 years
+every !RANKNUMBER !TIMEFRAME
+every !TIMEFRAME
+every !TIMEFRAME would
+every !TIMEOFDAY
+every autumn
+every autumn time
+every autumntime
+every break of day
+every couple
+every dawn
+every day
+every day after school
+every day after work
+every eighteenth
+every eighth
+every eightieth
+every eleventh
+every fall
+every few
+every few !TIMEFRAME
+every few days
+every few decades
+every few minutes
+every few moments
+every few months
+every few weeks
+every few years
+every fifteenth
+every fifth
+every fiftieth
+every first
+every fortyieth
+every fourteenth
+every fourth
+every fourth !TIMEFRAME
+every fourth thursday
+every harvest
+every hundreth
+every nineteenth
+every ninetieth
+every ninth
+every noon
+every noon time
+every noontime
+every now and then
+every once in a while
+every other !TIMEFRAME
+every other day
+every planting season
+every quarter
+every season
+every second
+every second-day
+every seventeenth
+every seventh
+every seventieth
+every sixteenth
+every sixth
+every sixtieth
+every spring
+every spring time
+every springtime
+every summer
+every summer time
+every summertime
+every sunset
+every ten thousand
+every ten years
+every tenth
+every third
+every third-day
+every third day
+every thirteenth
+every thirtieth
+every thousand
+every twelvth
+every twentieth
+every week
+every winter
+every winter time
+every wintertime
+everyday
+everydayness
+eves
+first flush of !DETERMINER !TIMEFRAME
+first lights
+five-hour intervals
+five-time
+flare up every
+flared up every
+flares up every
+flaring up every
+flux and reflux
+football season
+football seasons
+for !DETERMINER eighth time
+for !DETERMINER fifth time
+for !DETERMINER fourth time
+for !DETERMINER ninth time
+for !DETERMINER second time
+for !DETERMINER seventh time
+for !DETERMINER sixth time
+for !DETERMINER tenth time
+for !DETERMINER third time
+for successive !TIMEFRAME
+forever falling
+forever rising
+fortnightlies
+fortnightly
+four-hour intervals
+four-time
+frequent
+frequented
+frequenting
+frequently
+frequently has to
+frequently with
+frequents
+fridays
+from time to time
+full many a time
+full many a time and oft
+generally
+generally appears
+generally comes about
+generally emerges
+generally goes on
+generally happens
+generally occurs
+generally recurs
+give and take
+good Fridays
+growing-seasons
+growing seasons
+habit
+habitual
+habitually
+half-hourly
+half-monthly
+half-yearly
+happen over and over
+happen yearly
+happened over and over
+happening five-yearly
+happening over and over
+happens over and over
+harvest-time
+harvest time
+hebdomadal
+hebdomadary
+hoarary
+hockey season
+hockey seasons
+horal
+horary
+hourly
+in-and-in
+in !DETERMINER habit
+in !DETERMINER habit of
+in and in
+in and out of
+in and out of !DETERMINER papers
+in constant
+in each of !DETERMINER !TIMEFRAME
+in her efforts
+in her turn
+in his efforts
+in its turn
+in requital
+in their efforts
+in their turn
+in your turn
+increasing frequency
+incremental repetition
+incremental repetitions
+indiction
+intermittent
+intermittently
+is ever
+is ever !DETERMINER
+is ever a
+is ever falling
+is ever rising
+isochronally
+it !AUX !DETERMINER !RANKNUMBER time
+it keeps taking
+it often happened that
+it was not uncommon
+iterate
+iterated
+iterates
+iterating
+iteration
+iterations
+iterative
+late nights
+light again
+light it again
+lighting again
+lighting it again
+lights again
+lights it again
+like clockwork would
+lit again
+lit it again
+lots of times
+lunar-dirunal
+lunar dirunal
+lunchtimes
+lustra
+lustrum
+lustrums
+luteal
+luteals
+made repeat performances
+make repeat performances
+makes repeat performances
+making repeat performances
+many's !DETERMINER time
+many-wintered
+many-yeared
+many a time
+many a time and oft
+many is !DETERMINER time
+many occasions
+many time
+many times
+many times when
+many was !DETERMINER time
+manytimes
+matinal
+matinals
+Maundy Thursdays
+mealtime
+mealtimes
+millennial
+millennially
+mondays
+month-after-month
+monthlies
+monthly
+monthly cycle
+monthly cycles
+monthly epacts
+monthly investment plan
+monthly investment plans
+monthly meeting
+monthly meetings
+monthly payment
+monthly payments
+months running
+mood would darken
+more often than not
+most days
+most frequently
+most of !DETERMINER time
+most often
+most times
+much of !DETERMINER time
+night-falls
+night-time ritual
+night-time rituals
+night and day
+night prayer
+night prayers
+nightfalls
+nightly
+nightshift
+nightshifts
+nighttimes
+nine-hour intervals
+nine-time
+nocturn
+nocturnal
+nocturnally
+nocturnals
+nocturns
+noondays
+noontimes
+normally
+not infrequent
+not infrequently
+not uncommon
+not uncommonly
+now and again
+now and then
+numerous occasions
+occas
+occas.
+occasional
+occasionally
+occasionally has to
+occasionally mentioned
+occur often
+occur periodically
+occurred often
+occurred periodically
+occurring often
+occurring periodically
+occurs often
+occurs periodically
+octan
+octans
+octennial
+octennials
+of centuries
+of days
+of decades
+of each !TIMEFRAME
+of months
+of weeks
+off-again
+off-peak
+off-season
+off-seasons
+off-time
+off-year election
+off-year elections
+off again, on again
+off and on
+off season
+off seasons
+oft
+oft-named
+oft-repeated
+oft-time
+oft-times
+often
+often-times
+often enough
+often has to
+often times
+often with
+oftentimes
+omni mane
+on-again
+on-again-off-again
+on !DETERMINER occasions
+on !DETERMINER times
+on !RECURDAYS
+on a daily basis
+on a monthly basis
+on a number
+on a number of
+on a number of occasions
+on a quarterly basis
+on a regular basis
+on a routine basis
+on a weekly basis
+on a yearly basis
+on again, off again
+on and off
+on divers occasions
+on each  !TIMEFRAME
+on each !DAY
+on her turn
+on its turn
+on many an occasion
+on many occasions
+on more than one occasion
+on my turn
+on numerous occasions
+on occasion
+on occasion would
+on occasions
+on occasions such as
+on our turn
+on several occasions
+on so many occasions
+on some occasion
+on special occasions
+on such occasions
+on sunrises
+on sunsets
+on their turn
+on weekends
+on your turn
+once !DETERMINER  !TIMEFRAME
+once a !TIMEFRAME
+once a day
+once a week
+once a year
+once again
+once ever decade
+once every
+once every !NUMS1TO100
+once every !NUMS1TO100 !TIMEFRAME
+once every !TIMEFRAME
+once every four !TIMEFRAME
+once every other !TIMEFRAME
+once every other week
+once every other year
+once in a while
+once more
+once or twice
+one-hour intervals
+one-time
+one !TIMEFRAME in every
+one !TIMEFRAME out of
+one !TIMEFRAME out of every
+one morsel at a time
+ongoing processes
+ongoing state of affairs
+over a number
+over a number of
+over again
+over and over again
+pasttime
+pepayed
+per !TIMEFRAME
+per annum
+per annums
+per annun
+per diem
+per diems
+per mensem
+perennial
+perennial treatment
+perennial treatments
+perennially
+periodic
+periodically
+periodicities
+periodicity
+periods of
+periods of duty
+periods of existence
+periods of revolution
+photoperiod
+photoperiodic
+photoperiodically
+photoperiods
+pillow-habit
+pillow-habits
+pillow habit
+pillow habits
+planting time
+playtimes
+primetimes
+produce again
+produce once more
+produced again
+produced once more
+produces again
+produces once more
+producing again
+producing once more
+quadrennial
+quadrennials
+quartan
+quarter-year
+quarter-yearly
+quarterly
+quarterly meeting
+quarterly payment
+quarterly payments
+quarto-centenary
+quintan
+quotidian
+rainy season
+rainy seasons
+raising again
+ran himself ragged
+re-
+re-act
+re-ally
+Re-americanization
+Re-americanize
+re-assess
+re-assessed
+re-assesses
+re-assessing
+re-attaches
+re-beget
+re-binding
+re-bleach
+re-bleached
+re-bleaches
+re-bleaching
+re-book
+re-buff
+re-bundled
+re-bus
+re-buses
+re-cede
+Re-christianize
+re-claim
+re-co-operate
+re-co-operation
+re-cognition
+re-cognitional
+re-coil
+re-coilre-collect
+re-collect
+re-collection
+re-commend
+re-contact
+re-contacted
+re-contacting
+re-contacts
+re-cord
+re-count
+re-cover
+re-create
+re-created
+re-creating
+re-creation
+re-creative
+re-creator
+re-derive
+re-desert
+re-do
+re-dress
+re-earn
+re-ebullient
+re-echo
+re-edificate
+re-edification
+re-edifier
+re-edify
+re-edit
+re-educate
+re-education
+re-educative
+re-effeminate
+re-egg
+re-ejaculate
+re-eject
+re-ejection
+re-ejectment
+re-elaborate
+re-elaboration
+re-elect
+re-election
+re-elevate
+re-elevation
+re-eligibility
+re-eligible
+re-eliminate
+re-elimination
+re-emanate
+re-embark
+re-embarkation
+re-embarrass
+re-embarrassment
+re-embattle
+re-embed
+re-embellish
+re-embodiment
+re-embody
+re-embosom
+re-embrace
+re-embracement
+re-embroil
+re-emerge
+re-emergence
+re-emergent
+re-emersion
+re-emigrant
+re-emigrate
+re-emigration
+re-emission
+re-emit
+re-emphasis
+re-emphasize
+re-emphasized
+re-emphasizes
+re-emphasizing
+re-employ
+re-employment
+re-empower
+re-empty
+re-emulsify
+re-enable
+re-enact
+re-enaction
+re-enactment
+re-enacts
+re-enamel
+re-enamor
+re-enamour
+re-enchain
+re-enclose
+re-enclosure
+re-encounter
+re-encourage
+re-encouragement
+re-endear
+re-endearment
+re-ender
+re-endorse
+re-endorsement
+re-endow
+re-endowment
+re-energize
+re-enfeoff
+re-enfeoffment
+re-enforce
+re-enforcement
+re-enforcer
+re-enfranchise
+re-enfranchisement
+re-engage
+re-engagement
+re-engender
+re-engenderer
+re-engine
+Re-english
+re-engraft
+re-engrave
+re-engraving
+re-engross
+re-enhearten
+re-enjoin
+re-enjoy
+re-enjoyment
+re-enkindle
+re-enlarge
+re-enlargement
+re-enlighten
+re-enlightenment
+re-enlist
+re-enlister
+re-enlistment
+re-enliven
+re-ennoble
+re-enroll
+re-enrollment
+re-enshrine
+re-enslave
+re-enslavement
+re-ensphere
+re-enter
+re-entering
+re-entering angle
+re-enters
+re-entertain
+re-entertainment
+re-enthral
+re-enthrone
+re-enthronement
+re-enthronize
+re-entice
+re-entitle
+re-entoil
+re-entomb
+re-entrain
+re-entrance
+re-entrancy
+re-entrant
+re-entrant angle
+re-entrenchment
+re-entry
+re-entry card
+re-enumerate
+re-enumeration
+re-enunciate
+re-enunciation
+re-epitomize
+re-equilibrate
+re-equilibration
+re-equip
+re-equipment
+re-erect
+re-erection
+re-escape
+re-escort
+re-espousal
+re-espouse
+re-essay
+re-establish
+re-establisher
+re-establishment
+re-esteem
+re-estimate
+re-estimation
+re-etch
+re-etcher
+re-evacuate
+re-evacuation
+re-evade
+re-evaluate
+re-evaluated
+re-evaluates
+re-evaluating
+re-evaluation
+re-evaporate
+re-evaporation
+re-evasion
+re-evoke
+re-evolution
+re-exalt
+re-examinable
+re-examination
+re-examine
+re-examined
+re-examiner
+re-examines
+re-examining
+re-excavate
+re-excavation
+re-excel
+re-exchange
+re-excitation
+re-excite
+re-exclude
+re-exclusion
+re-execute
+re-execution
+re-exempt
+re-exemption
+re-exercise
+re-exert
+re-exertion
+re-exhale
+re-exhaust
+re-exhibit
+re-exhibition
+re-exhilarate
+re-exhilaration
+re-exist
+re-existence
+re-existent
+re-expand
+re-expansion
+re-expect
+re-expectation
+re-expedite
+re-expedition
+re-expel
+re-experience
+re-experiment
+re-explain
+re-explanation
+re-export
+re-exportation
+re-exporter
+re-expose
+re-exposure
+re-expound
+re-express
+re-expression
+re-expulsion
+re-extend
+re-extension
+re-extent
+re-extract
+re-extraction
+re-fight
+re-form
+re-formation
+re-formative
+re-former
+re-fund
+re-genesis
+Re-germanization
+Re-germanize
+Re-hellenization
+Re-hellenize
+re-ice
+re-ink
+re-interpret
+re-interpreted
+re-interpreting
+re-interprets
+re-inventors
+re-laid
+re-lay
+re-laying
+re-lease
+re-leased
+re-leasing
+re-ligio
+re-live
+re-lived
+re-lives
+re-living
+re-marginalized
+re-mark
+re-mix
+re-payment
+re-pose
+re-posed
+re-posing
+re-present
+re-presentation
+re-presentment
+re-press
+re-prints
+re-programmed
+re-proof
+re-prove
+re-proved
+re-proven
+re-proving
+Re-puritanize
+re-purpose
+re-purposed
+re-purposes
+re-purposing
+re-reaction
+re-rebel
+re-receive
+re-reception
+re-recital
+re-recite
+re-reckon
+re-recognition
+re-recognize
+re-recollect
+re-recollection
+re-recommend
+re-recommendation
+re-reconcile
+re-reconciliation
+re-record
+re-recover
+re-rectification
+re-rectify
+re-reduce
+re-reduction
+re-refer
+re-refine
+re-reflect
+re-reflection
+re-reform
+re-reformation
+re-refusal
+re-refuse
+re-regenerate
+re-regeneration
+re-rehearsal
+re-rehearse
+re-reiterate
+re-reiteration
+re-reject
+re-rejection
+re-rejoinder
+re-relate
+re-relation
+re-release
+re-relish
+re-rely
+re-remember
+re-remind
+re-remit
+re-removal
+re-remove
+re-rendition
+re-repair
+re-repeat
+re-repent
+re-replevin
+re-reply
+re-report
+re-represent
+re-representation
+re-reproach
+re-request
+re-require
+re-requirement
+re-rescue
+re-resent
+re-resentment
+re-reservation
+re-reserve
+re-reside
+re-residence
+re-resign
+re-resignation
+re-resolution
+re-resolve
+re-respond
+re-response
+re-restitution
+re-restoration
+re-restore
+re-restrain
+re-restraint
+re-restrict
+re-restriction
+re-retire
+re-retirement
+re-return
+re-reveal
+re-revealation
+re-revenge
+re-reversal
+re-reverse
+re-revise
+re-revision
+Re-romanize
+re-routed
+re-search
+re-send
+re-serve
+re-shooting
+re-shot
+re-shots
+re-sign
+re-soluble
+re-solution
+re-sort
+re-sorter
+re-sound
+re-specify
+re-store
+re-strain
+re-teams
+re-telling
+re-thought
+re-trace
+re-traced
+re-tracing
+re-training
+re-tread
+re-treader
+re-treat
+re-treatment
+re-trench
+re-try
+re-turn
+re-unions
+re-up
+re-use
+re-win
+reabsorb
+reabsorbed
+reabsorbing
+reabsorbs
+reaccelerating
+reaccept
+reaccepted
+reaccepting
+reaccepts
+reacclimatize
+reacclimatizes
+reaccredit
+reaccredits
+reacquaint
+reacquainted
+reacquainting
+reacquaints
+reacquire
+reacquired
+reacquires
+reacquiring
+reacquisition
+reactivate
+reactivates
+reactivating
+reactivation
+reactivations
+readapt
+readapted
+readapting
+readapts
+readdress
+readdressed
+readdresses
+readdressing
+readjust
+readjusted with
+readjusting
+readjustment
+readjustments
+readjusts
+readmission
+readmissions
+readmit
+readmits
+readmitted
+readmitting
+readopt
+readopted
+readopting
+readopts
+reallocate
+reallocated
+reallocates
+reallocating
+reallocation
+reallocations
+reamass
+reamasses
+reamassing
+reammassed
+reanalysis
+reanalyze
+reanalyzed
+reanalyzes
+reanalyzing
+reanimate
+reanimated
+reanimates
+reanimating
+reanimation
+reanimations
+reappearance
+reappearances
+reappearing
+reapplication
+reapplies
+reapply
+reapplying
+reappoint
+reappointed
+reappointing
+reappointment
+reappointments
+reappoints
+reapportion
+reapportioned
+reapportioning
+reapportionment
+reapportionments
+reapportions
+reappraisal
+reappraisals
+reappraise
+reappraised
+reappraises
+reappraising
+reargue
+reargued
+reargues
+rearguing
+rearm
+rearmament
+rearmaments
+rearmed
+rearming
+rearms
+rearrange
+rearrange !DETERMINER
+rearranged with
+rearrangement
+rearrangements
+rearranges
+rearranges !DETERMINER
+rearranging
+rearranging !DETERMINER
+rearrested
+rears !DETERMINER
+rears its head
+rearticulate
+rearticulated
+rearticulates
+rearticulating
+reassemble
+reassembled
+reassembles
+reassemblies
+reassembling
+reassembly
+reassertion
+reassertions
+reassess
+reassessed
+reassesses
+reassessing
+reassessment
+reassessments
+reassign
+reassigned with
+reassigning
+reassignment
+reassignments
+reassigns
+reassume
+reassumed
+reassumes
+reassuming
+reassurances
+reattach
+reattached
+reattaches
+reattaching
+reattachment
+reattachments
+reattempts
+reattribute
+reattributed
+reattribution
+reauthorization
+reauthorize
+reawake
+reawaked
+reawaken
+reawakening
+reawakens
+reawakes
+reawaking
+rebaptism
+rebaptisms
+rebar
+rebilling
+rebind
+rebinding
+rebinds
+rebirths
+reboil
+reboils
+rebook
+rebooked
+rebooks
+reboot
+rebooted
+rebooting
+reboots
+rebottled
+rebreeds
+rebroadcast
+rebroadcasts
+reburial
+reburials
+reburied
+reburies
+rebury
+recalculate
+recalculates
+recalculating
+recalculation
+recalculations
+recalibrating
+recap
+recapitulate
+recapitulated with
+recapitulates
+recapitulating
+recapitulatories
+recapitulatory
+recapture
+recaptured
+recaptures
+recapturing
+recast
+recasting
+recasts
+rechanneling
+recharacterization
+recharacterize
+recharacterized
+recharacterizes
+recharacterizing
+recharge
+recharged
+recharges
+recharging
+rechartered
+recheck
+rechecking
+rechecks
+reciprocation
+recirculate
+recirculates
+recirculating
+reclaim
+reclaiming
+reclaims
+reclamation
+reclamations
+reclassification
+reclassifications
+reclassified
+reclassifies
+reclassify
+reclassifying
+recoat
+recoated
+recoating
+recoats
+recode
+recoded
+recodes
+recoding
+recolor
+recolored !DETERMINER
+recolored !POSSESSIVEPRONOUN
+recolored !PRONOUNOBJECTIVE
+recoloring
+recolors
+recombine
+recombined
+recombines
+recombining
+recommence
+recommenced
+recommencement
+recommencements
+recommences
+recommencing
+recommitment
+recompense
+recompensed
+recompenses
+recompensing
+recompilation
+recompilations
+recompile
+recompiled
+recompiles
+recompiling
+recompose
+recomposed
+recomposes
+recomposing
+recompress
+recompressed
+recompresses
+recompressing
+recomputed
+recon
+recondition
+reconditioned
+reconditioning
+reconditions
+reconfiguration
+reconfigurations
+reconfigure
+reconfigured with
+reconfigures
+reconfiguring
+reconfirm
+reconfirmation
+reconfirmations
+reconfirmed
+reconfirming
+reconfirms
+reconnect
+reconnected
+reconnecting
+reconnection
+reconnections
+reconnects
+reconquer
+reconsolidate
+reconsolidated
+reconsolidates
+reconsolidating
+reconsolidation
+reconsolidations
+reconstitute
+reconstitutes
+reconstituting
+reconstitution
+reconstitutions
+reconstruct
+reconstructed
+reconstructing
+reconstruction
+reconstructions
+reconstructs
+recontact
+recontacted
+recontacting
+recontacts
+reconvention
+reconvert
+reconverted
+reconverting
+reconverts
+reconvict
+reconvicted
+recopied
+recopies
+recopy
+recopying
+recreate
+recreates
+recreating
+recreation
+recreations
+recrudesce
+recrudesced
+recrudescence
+recrudescent
+recrudesces
+recrudescing
+recur
+recur every
+recur to
+recurred every
+recurred to
+recurred with
+recurrence
+recurrences
+recurrent
+recurrent fever
+recurrent fevers
+recurrently
+recurring
+recurring action
+recurring actions
+recurring every
+recurring to
+recurs
+recurs every
+recurs to
+rededicate
+rededicated
+rededicates
+rededicating
+rededication
+rededications
+redefine
+redefining
+redefinition
+redeliver
+redelivered
+redeliveries
+redelivering
+redelivers
+redelivery
+redeploy
+redeployed
+redeploying
+redeployment
+redeployments
+redeploys
+redeposit
+redesign
+redesigned
+redesigning
+redesigns
+redetected
+redetermination
+redevelop
+redeveloped
+redeveloping
+redevelopment
+redevelopments
+redevelops
+redial
+redialed
+redials
+redid
+redirect
+redirected
+redirecting
+redirection
+redirections
+redirector
+redirects
+rediscount
+rediscounted
+rediscounting
+rediscounts
+rediscover
+rediscovered
+rediscoveries
+rediscovering
+rediscovers
+rediscovery
+redisplay
+redisplayed
+redisplaying
+redisplays
+redistill
+redistilled
+redistilling
+redistills
+redistributable
+redistribute
+redistributed
+redistributes
+redistributing
+redistribution
+redistributions
+redistrict
+redistricted
+redistricting
+redistricts
+redo
+redoes
+redoing
+redone
+redos
+redraft
+redrafted
+redrafting
+redrafts
+redraw
+redrawing
+redrawn
+redraws
+redrew
+redropped
+reduplicate
+reduplicated
+reduplicates
+reduplicating
+reduplication
+reduplications
+reduplicative
+reecho
+reechoed
+reechoes
+reechoing
+reedit
+reedited
+reediting
+reedits
+reeducate
+reeducated
+reeducates
+reeducating
+reeducation
+reelect
+reelecting
+reelection
+reelections
+reelects
+reembrace
+reembraced
+reembraces
+reembracing
+reemerge
+reemergence
+reemerges
+reemerging
+reemissions
+reemit
+reemitted
+reemitting
+reemphasis
+reemphasize
+reemphasized
+reemphasizes
+reemphasizing
+reemploy
+reemployment
+reemploys
+reenact
+reenacting
+reenactment
+reenactments
+reenacts
+reencounters
+reendow
+reendowed
+reendows
+reengage
+reengaged
+reengineer
+reengineering
+reenlist
+reenlisted
+reenlisting
+reenlistment
+reenlists
+reentrance
+reentrancy
+reentrant
+reentrants
+reentries
+reentry
+reequip
+reequipped
+reequipping
+reequips
+reestablish
+reestablishes
+reestablishing
+reestablishment
+reevaluate
+reevaluated
+reevaluates
+reevaluating
+reevaluation
+reevaluations
+reevaluting
+reexamination
+reexaminations
+REEXAMINE
+REEXAMINE THAT
+reexamined
+REEXAMINED THAT
+REEXAMINES
+REEXAMINES THAT
+REEXAMINING
+REEXAMINING THAT
+reexperience
+reexperienced
+reexperiences
+reexperiencing
+reexport
+reexporting
+reexports
+reface
+refaced
+refaces
+refacing
+refashion
+refashioning
+refashions
+refax
+refaxed
+refaxes
+refaxing
+refight
+refights
+refigure
+refigured
+refigures
+refiguring
+refill
+refilling
+refills
+refinance
+refinances
+refinancing
+refit
+refits
+refitting
+reflate
+reflated
+reflates
+reflating
+reflation
+reflations
+refluence
+refluences
+refocus
+refocuses
+refocusing
+refold
+refolding
+refolds
+reforest
+reforesting
+reforests
+reformat
+reformat !DETERMINER
+reformat !POSSESSIVEPRONOUN
+reformat !PRONOUNOBJECTIVE
+reformats
+reformats !DETERMINER
+reformats !POSSESSIVEPRONOUN
+reformats !PRONOUNOBJECTIVE
+reformatted
+reformatted !DETERMINER
+reformatted !POSSESSIVEPRONOUN
+reformatted !PRONOUNOBJECTIVE
+reformatting
+reformatting !DETERMINER
+reformatting !POSSESSIVEPRONOUN
+reformatting !PRONOUNOBJECTIVE
+reformulate
+reformulated
+reformulates
+reformulating
+reformulation
+refortification
+refortify
+reframe
+reframed
+reframes
+reframing
+refreeze
+refreezed
+refreezes
+refreezing
+refried
+refries
+refroze
+refrozen
+refry
+refrying
+refuel
+refueling
+refuels
+refund
+refunding
+refunds
+refunds !DETERMINER
+refurbish
+refurbishes
+refurbishing
+refurnish
+refurnished
+refurnishes
+refurnishing
+regain
+regaining
+regains
+regenerate
+regenerates
+regenerating
+regrant
+regranted
+regranting
+regrants
+regrind
+regrinding
+regrinds
+reground
+regroup
+regrouping
+regroups
+regular appearance
+regular appearances
+regular as
+regular as clockwork
+regular check-in
+regular check-ins
+regular interval
+regular interval of
+regular intervals
+regular intervals of
+regular payment
+regular payments
+regularly
+rehash
+rehashed
+rehashes
+rehashing
+rehear
+reheard
+rehearing
+rehears
+reheat
+reheat !DETERMINER ashes
+reheated
+reheated !DETERMINER ashes
+reheating
+reheating !DETERMINER ashes
+reheats
+reheats !DETERMINER ashes
+rehire
+rehires
+rehiring
+rehouse
+rehoused
+rehouses
+rehousing
+rehthought
+reimagined
+reimport
+reimported
+reimporting
+reimports
+reimpression
+reimpressions
+reinduction
+reinfection
+reinfections
+reinstatements
+reinstitution
+reinsurance
+reinsure
+reinsured
+reinsures
+reinsuring
+reintegrate
+reintegrated
+reintegrates
+reintegrating
+reintegration
+reinterpret
+reinterpretation
+reinterpretations
+reinterpretative
+reinterpreted with
+reinterpreting
+reinterprets
+reintroduce
+reintroduces
+reintroducing
+reintroduction
+reintroductions
+reinvade
+reinvent
+reinventing
+reinvention
+reinvents
+reinvest
+reinvestigate
+reinvestigated
+reinvestigates
+reinvestigating
+reinvestigation
+reinvestigations
+reinvesting
+reinvestment
+reinvestments
+reinvests
+reissue
+reissued
+reissues
+reissuing
+reiterant
+reiterants
+reiterate
+reiterated with
+reiterates
+reiterating
+reiteration
+reiterations
+reiterative
+reiteratively
+rekindle
+rekindles
+rekindling
+relabel
+relabeled
+relabeling
+relabels
+relearn
+relearned
+relearning
+relearns
+reline
+relined
+relines
+relining
+relive over and over
+relived over and over
+relives over and over
+reliving over and over
+relock
+relocked
+relocking
+relocks
+relume
+relumed
+relumes
+relumine
+relumined
+relumines
+reluming
+relumining
+remade
+remake
+remake !DETERMINER
+remake of
+remakes
+remakes of
+remaking
+remand
+remand back to
+remand home
+remand to
+remanded
+remanded back to
+remanded home
+remanded to
+remanding
+remanding back to
+remanding home
+remanding to
+remands
+remands back to
+remands home
+remands to
+remanufacture
+remanufactured
+remanufactures
+remanufacturing
+remap
+remapped
+remapping
+remaps
+remarginalized
+remarket
+remarketed
+remarketing
+remarkets
+remarriage
+remarriages
+remarries
+remarry
+remarrying
+rematch
+rematched
+rematches
+rematching
+remilitarise
+remilitarised
+remilitarises
+remilitarising
+remilitarization
+remilitarize
+remilitarized
+remilitarizes
+remilitarizing
+remission
+remissions
+remittent
+remittent cold
+remittent colds
+remittent fever
+remittent fevers
+remix
+remixed
+remixes
+remixing
+remobilization
+remobilize
+remobilizes
+remobilizing
+remold
+remolded
+remolding
+remolds
+remonetize
+remonetized
+remonetizes
+remonetizing
+remotion
+remotions
+rename
+renames
+renaming
+renascence
+renascent
+renegotiation
+renegotiations
+renomination
+renormalization
+renormalizations
+renormalize
+renumber
+renumbered
+renumbering
+renumbers
+reoccupation
+reoccupied
+reoccupies
+reoccupy
+reoccupying
+reoccur
+reoccurred
+reoccurrence
+reoccurrences
+reoccurring
+reoccurs
+reopen
+reopened with
+reopening
+reopens
+reorder
+reordered
+reordering
+reorders
+reorganization
+reorganizations
+reorganize
+reorganized with
+reorganizer
+reorganizers
+reorganizes
+reorganizing
+reorient
+reorientation
+reorientations
+reoriented
+reorienting
+reorients
+rep
+repack
+repackage
+repackaged
+repackages
+repackaging
+repacked
+repacking
+repacks
+repaginate
+repaginated
+repaginates
+repaginating
+repagination
+repaginations
+repaid with
+repaint
+repainted
+repainting
+repaints
+repapered with
+repartition
+repartitioning
+repave
+repaved
+repaves
+repaving
+repay
+repay in
+repay in kind
+repaying
+repaying in
+repaying in kind
+repayment
+repayments
+repays
+repays in
+repays in kind
+repeat
+repeat again
+repeat by heart
+repeat by rote
+repeat order
+repeat orders
+repeat verbatim
+repeat word for word
+repeated
+repeated again
+repeated by heart
+repeated by rote
+repeated figure
+repeated figures
+repeated order
+repeated sound
+repeated verbatim
+repeated word for word
+repeatedly
+repeating
+repeating again
+repeating by heart
+repeating by rote
+repeating order
+repeating verbatim
+repeating word for word
+repeats
+repeats again
+repeats by heart
+repeats by rote
+repeats order
+repeats verbatim
+repeats word for word
+repetition
+repetitions
+repetitious
+repetitiously
+repetitiousness
+repetitive
+repetitively
+repetitiveness
+rephrase
+rephrased
+rephrases
+rephrasing
+replant
+replanted with
+replanting
+replants
+replay
+replayed with
+replaying
+replays
+replication
+replications
+repopulate
+repopulated
+repopulates
+repopulating
+repopulation
+repopulations
+reposit
+reposited
+repositing
+reposition
+repositioned with
+repositioning
+repositions
+reposits
+repossess
+repossessed
+repossesses
+repossessing
+repossession of
+repossessions of
+repot
+repot !DETERMINER
+repots
+repots !DETERMINER
+repotted
+repotted !DETERMINER
+repotting
+repotting !DETERMINER
+reprint
+reprinted with
+reprinting
+reprints
+reprioritization
+reprise
+reprised with
+reprises
+reprising
+reprocess
+reprocessed
+reprocesses
+reprocessing
+reprogram
+reprogrammed
+reprogramming
+reprograms
+reps
+republication
+republications
+republish
+republished
+republishes
+republishing
+repurchase
+repurchased
+repurchases
+repurchasing
+repurpose
+repurposed
+repurposes
+repurposing
+requital
+requitals
+requite
+requited with
+requites
+requiting
+reradiate
+reradiated
+reran
+reread
+rereading
+rereadings
+rereads
+rerecords
+reregister
+reregistered
+reregistering
+reregisters
+reregistration
+reregistrations
+reregulate
+reregulated
+reregulates
+reregulating
+reregulation
+reregulations
+rerelease
+rereleased
+rereleases
+rereleasing
+reroute
+rerouted
+reroutes
+rerouting
+rerun
+rerunning
+reruns
+resalable
+resale
+resample
+rescale
+rescaled
+rescanning
+reschedule
+rescheduled
+reschedules
+rescheduling
+rescript
+rescripted
+rescripting
+rescripts
+rescrubs
+reseal
+resealed
+resealing
+reseals
+reseat
+reseated
+reseating
+reseats
+resection
+resections
+resects !DETERMINER
+reseed
+reseeded
+reseeding
+reseeds
+reselect
+reselected
+reselecting
+reselections
+reselects
+resell
+reselling
+resells
+resend
+resending
+resends
+reset
+resets
+resetting
+resettle
+resettled with
+resettlement
+resettlements
+resettles
+resettling
+reshape
+reshaped
+reshapes
+reshaping
+reship
+reshipment
+reshipments
+reshipped
+reshipping
+reships
+reshoot
+reshooting
+reshoots
+reshot
+reshots
+reshow
+reshowing
+reshown
+reshows
+reshuffle
+reshuffled with
+reshuffles
+reshuffling
+resift
+resifted
+resifts
+resituate
+resituated
+resituates
+resituating
+resize
+resized
+resizes
+resizing
+resold with
+resole
+resoled
+resoles
+resoling
+respell
+respelled
+respelling
+respells
+restage
+restaged
+restages
+restaging
+restatement
+restatements
+restimulate
+restimulated
+restimulates
+restimulating
+restock
+restocked
+restocking
+restocks
+restructure
+restructured with
+restructures
+restructuring
+restudied
+restudies
+restudy
+restudying
+restyle
+restyled
+restyles
+restyling
+resubmission
+resubmit
+resubmits
+resubmitted
+resubmitting
+resurection
+resurfacings
+resurrection
+resurrections
+resurvey
+resurveyed
+resurveying
+resurveys
+retag
+retagged
+retagging
+retags
+retake
+retaken
+retakes
+retaking
+retellings
+retest
+retested
+retesting
+retests
+retexture
+retextured
+retextures
+retexturing
+rethread
+rethreaded
+rethreading
+rethreads
+retie
+retied
+reties
+retightens
+retime
+retook
+retool
+retooled
+retooling
+retools
+retouch
+retouched with
+retouches
+retouching
+retrace
+retraces
+retracing
+retrain
+retrained
+retraining
+retrains
+retransfer
+retransferring
+retranslate
+retranslated
+retranslates
+retranslating
+retranslation
+retransmission
+retransmit
+retransmits
+retransmitted
+retrial
+retrials
+retried
+retries
+retry
+retrying
+retuning
+return
+returning
+returns
+retying
+retype
+retyped
+retypes
+retyping
+reuptake
+reuptakes
+revaccinate
+revaccinates
+revaccination
+revaluate
+revaluated
+revaluates
+revaluating
+revaluation
+revaluations
+revalue
+revalued
+revalues
+revaluing
+revamp
+revamped
+revamping
+revamps
+revisable
+revisal
+revise
+revised with
+reviser
+revisers
+revises
+revising
+revisionism
+revisionist
+revisionists
+revisions
+rewashed
+reweave
+reweaves
+reweigh
+reweighs
+rewets
+rewhipping
+rewin
+rewire
+rewired
+rewires
+rewiring
+reword
+reworded
+rewording
+rewordings
+rewords
+rework
+reworked
+reworking
+reworks
+rewound with
+rewrapped
+rewrite
+rewriter
+rewriters
+rewrites
+rewriting
+rewritings
+rewritten with
+rewrote with
+rexported
+rezone
+rezoned
+rezones
+rezoning
+rise again
+rises again
+ritualistic
+ritualistically
+ritually
+rose again
+round !DETERMINER clock
+round robin
+round robins
+routinely
+sabbaticals
+saturdays
+saw little of
+saw much of
+sea times
+season
+seasonable
+seasonableness
+seasonably
+seasonal
+seasonal reproduction
+seasonal reproductions
+seasonal unemployment
+seasonality
+seasonally
+seasonals
+seasons
+second day
+see little of
+see much
+seeing little of
+seeing much of
+sees little of
+sees much of
+semester cycle
+semester cycles
+semi-annual
+semi-annually
+semi-weekly
+semiannual
+semiannually
+semiannuals
+semicentennial
+semicentennials
+semidiurnal
+semidiurnals
+semimonthlies
+semimonthly
+semimonthy
+semiweeklies
+semiweekly
+semiyearlies
+semiyearly
+send !PRONOUNOBJECTIVE to !POSSESSIVEPRONOUN last account
+send to my last account
+send to our last account
+sends !PRONOUNOBJECTIVE to !POSSESSIVEPRONOUN last account
+sends !PRONOUNOBJECTIVE to !PRONOUNOBJECTIVE last account
+sends to my last account
+sends to our last account
+septennial
+septennials
+sesquicentennial
+sesquicentennials
+seven-hour intervals
+seven-time
+several times
+several times when
+sextan
+sexual custom
+sexual customs
+sexual practices
+six-hour intervals
+so many occasions
+sometimes mentioned
+sothic cycle
+sothic cycles
+sporadic
+sporadically
+springtide
+springtime
+strike again
+strikes again
+striking again
+struck again
+successive
+successively
+such occasions
+summer times
+sundays
+sundowns
+sunups
+suppertimes
+switch back and forth
+switched back and forth
+switches back and forth
+switching back and forth
+ten-hour intervals
+ten-time
+tertian
+that frequently
+that often
+that often when
+that whenever
+third day
+three-hour intervals
+three-time
+three times a !TIMEFRAME
+three times every !TIMEFRAME
+thrice-weekly
+through custom
+thursdays
+time and again
+times a !TIMEFRAME
+times and often
+times every !TIMEFRAME
+times without number
+town-frequenting
+tried again
+tried and tried again
+triennia
+triennial
+triennially
+triennials
+triennium
+trienniums
+tries again
+tries and tries again
+try again
+try and try again
+trying again
+trying and trying again
+tuesdays
+twelve-hour intervals
+twelve-monthly
+twice
+twice-abandoned
+twice-abolished
+twice-absent
+twice-accented
+twice-accepted
+twice-accomplished
+twice-accorded
+twice-accused
+twice-achieved
+twice-acknowledged
+twice-acquired
+twice-acted
+twice-adapted
+twice-adjourned
+twice-adjusted
+twice-admitted
+twice-adopted
+twice-affirmed
+twice-agreed
+twice-alarmed
+twice-alleged
+twice-allied
+twice-altered
+twice-amended
+twice-angered
+twice-announced
+twice-answered
+twice-anticipated
+twice-appealed
+twice-appointed
+twice-appropriated
+twice-approved
+twice-arbitrated
+twice-arranged
+twice-assaulted
+twice-asserted
+twice-assessed
+twice-assigned
+twice-associated
+twice-assured
+twice-attained
+twice-attempted
+twice-attested
+twice-audited
+twice-authorized
+twice-avoided
+twice-baked
+twice-balanced
+twice-bankrupt
+twice-baptized
+twice-barred
+twice-bearing
+twice-beaten
+twice-begged
+twice-begun
+twice-beheld
+twice-beloved
+twice-bent
+twice-bereaved
+twice-bereft
+twice-bested
+twice-bestowed
+twice-betrayed
+twice-bid
+twice-bit
+twice-blamed
+twice-blessed
+twice-blooming
+twice-blowing
+twice-boiled
+twice-born
+twice-borrowed
+twice-bought
+twice-branded
+twice-broken
+twice-brought
+twice-buried
+twice-called
+twice-canceled
+twice-canvassed
+twice-captured
+twice-carried
+twice-caught
+twice-censured
+twice-challenged
+twice-changed
+twice-charged
+twice-cheated
+twice-chosen
+twice-cited
+twice-claimed
+twice-collected
+twice-commenced
+twice-commended
+twice-committed
+twice-competing
+twice-completed
+twice-compromised
+twice-concealed
+twice-conceded
+twice-condemned
+twice-conferred
+twice-confessed
+twice-confirmed
+twice-conquered
+twice-consenting
+twice-considered
+twice-consulted
+twice-contested
+twice-continued
+twice-converted
+twice-convicted
+twice-copyrighted
+twice-corrected
+twice-counted
+twice-cowed
+twice-created
+twice-crowned
+twice-cured
+twice-damaged
+twice-dared
+twice-darned
+twice-dead
+twice-dealt
+twice-debated
+twice-deceived
+twice-declined
+twice-decorated
+twice-decreed
+twice-deducted
+twice-defaulting
+twice-defeated
+twice-deferred
+twice-defied
+twice-delayed
+twice-delivered
+twice-demanded
+twice-denied
+twice-depleted
+twice-deserted
+twice-deserved
+twice-destroyed
+twice-detained
+twice-diminished
+twice-dipped
+twice-directed
+twice-disabled
+twice-disappointed
+twice-discarded
+twice-discharged
+twice-discontinued
+twice-discounted
+twice-discovered
+twice-disgraced
+twice-dismissed
+twice-dispatched
+twice-divided
+twice-divorced
+twice-doubled
+twice-doubted
+twice-drafted
+twice-drugged
+twice-dyed
+twice-earned
+twice-effected
+twice-elected
+twice-enacted
+twice-encountered
+twice-endorsed
+twice-engaged
+twice-enlarged
+twice-ennobled
+twice-essayed
+twice-evaded
+twice-examined
+twice-excelled
+twice-excused
+twice-exempted
+twice-exiled
+twice-exposed
+twice-expressed
+twice-extended
+twice-fallen
+twice-false
+twice-favored
+twice-felt
+twice-filmed
+twice-fined
+twice-folded
+twice-fooled
+twice-forgiven
+twice-forgotten
+twice-forsaken
+twice-fought
+twice-foul
+twice-fulfilled
+twice-gained
+twice-garbed
+twice-given
+twice-granted
+twice-grieved
+twice-guilty
+twice-handicapped
+twice-hazarded
+twice-healed
+twice-heard
+twice-helped
+twice-hidden
+twice-hinted
+twice-hit
+twice-honored
+twice-humbled
+twice-hurt
+twice-identified
+twice-ignored
+twice-imposed
+twice-improved
+twice-incensed
+twice-increased
+twice-indulged
+twice-infected
+twice-injured
+twice-insulted
+twice-insured
+twice-invented
+twice-invited
+twice-issued
+twice-jailed
+twice-judged
+twice-kidnaped
+twice-knighted
+twice-laid
+twice-lamented
+twice-leagued
+twice-learned
+twice-left
+twice-lengthened
+twice-levied
+twice-liable
+twice-listed
+twice-loaned
+twice-lost
+twice-mad
+twice-maintained
+twice-marketed
+twice-married
+twice-mastered
+twice-mated
+twice-measured
+twice-menaced
+twice-mended
+twice-mentioned
+twice-merited
+twice-met
+twice-missed
+twice-mistaken
+twice-modified
+twice-mortal
+twice-mourned
+twice-named
+twice-necessitated
+twice-needed
+twice-negligent
+twice-negotiated
+twice-nominated
+twice-noted
+twice-notified
+twice-numbered
+twice-objected
+twice-obligated
+twice-occasioned
+twice-occupied
+twice-offended
+twice-offered
+twice-offset
+twice-omitted
+twice-opened
+twice-opposed
+twice-ordered
+twice-originated
+twice-orphaned
+twice-overdue
+twice-overtaken
+twice-overthrown
+twice-owned
+twice-paid
+twice-painted
+twice-pardoned
+twice-parted
+twice-partitioned
+twice-patched
+twice-pensioned
+twice-permitted
+twice-persuaded
+twice-perused
+twice-petitioned
+twice-pinnate
+twice-placed
+twice-planned
+twice-pleased
+twice-pledged
+twice-poisoned
+twice-pondered
+twice-posed
+twice-postponed
+twice-praised
+twice-predicted
+twice-preferred
+twice-prepaid
+twice-prepared
+twice-prescribed
+twice-presented
+twice-preserved
+twice-pretended
+twice-prevailing
+twice-prevented
+twice-printed
+twice-procured
+twice-professed
+twice-prohibited
+twice-promised
+twice-promoted
+twice-proposed
+twice-prosecuted
+twice-protected
+twice-proven
+twice-provided
+twice-provoked
+twice-published
+twice-punished
+twice-pursued
+twice-qualified
+twice-questioned
+twice-quoted
+twice-raided
+twice-re-elected
+twice-read
+twice-realized
+twice-rebuilt
+twice-recognized
+twice-reconciled
+twice-reconsidered
+twice-recovered
+twice-redeemed
+twice-refined
+twice-reformed
+twice-refused
+twice-regained
+twice-regretted
+twice-rehearsed
+twice-reimbursed
+twice-reinstated
+twice-rejected
+twice-released
+twice-relieved
+twice-remedied
+twice-remembered
+twice-remitted
+twice-removed
+twice-rendered
+twice-rented
+twice-repaired
+twice-repeated
+twice-replaced
+twice-reported
+twice-reprinted
+twice-requested
+twice-required
+twice-reread
+twice-resented
+twice-resisted
+twice-restored
+twice-restrained
+twice-resumed
+twice-revenged
+twice-reversed
+twice-revised
+twice-revived
+twice-revolted
+twice-rewritten
+twice-rich
+twice-right
+twice-risen
+twice-roasted
+twice-robbed
+twice-roused
+twice-ruined
+twice-sacked
+twice-sacrificed
+twice-said
+twice-salvaged
+twice-sampled
+twice-sanctioned
+twice-saved
+twice-scared
+twice-scattered
+twice-scolded
+twice-scorned
+twice-sealed
+twice-searched
+twice-secreted
+twice-secured
+twice-seen
+twice-seized
+twice-selected
+twice-sensed
+twice-sent
+twice-sentenced
+twice-separated
+twice-served
+twice-set
+twice-settled
+twice-severed
+twice-shamed
+twice-shared
+twice-shelled
+twice-shelved
+twice-shielded
+twice-shot
+twice-shown
+twice-sick
+twice-silenced
+twice-sketched
+twice-soiled
+twice-sold
+twice-soled
+twice-solicited
+twice-solved
+twice-sought
+twice-sounded
+twice-spared
+twice-specified
+twice-spent
+twice-sprung
+twice-stabbed
+twice-staged
+twice-stated
+twice-stolen
+twice-stopped
+twice-straightened
+twice-stress
+twice-stretched
+twice-stricken
+twice-struck
+twice-subdued
+twice-subjected
+twice-subscribed
+twice-substituted
+twice-sued
+twice-suffered
+twice-sufficient
+twice-suggested
+twice-summoned
+twice-suppressed
+twice-surprised
+twice-surrendered
+twice-suspected
+twice-suspended
+twice-sustained
+twice-sworn
+twice-tabled
+twice-taken
+twice-tamed
+twice-taped
+twice-tardy
+twice-taught
+twice-tempted
+twice-tendered
+twice-terminated
+twice-tested
+twice-thanked
+twice-thought
+twice-threatened
+twice-thrown
+twice-tied
+twice-told
+twice-told tale
+twice-torn
+twice-touched
+twice-trained
+twice-transferred
+twice-translated
+twice-transported
+twice-treated
+twice-tricked
+twice-tried
+twice-trusted
+twice-turned
+twice-undertaken
+twice-undone
+twice-united
+twice-unpaid
+twice-upset
+twice-used
+twice-uttered
+twice-vacant
+twice-vamped
+twice-varnished
+twice-ventured
+twice-verified
+twice-vetoed
+twice-victimized
+twice-violated
+twice-visited
+twice-voted
+twice-waged
+twice-waived
+twice-wanted
+twice-warned
+twice-wasted
+twice-weaned
+twice-welcomed
+twice-whipped
+twice-widowed
+twice-wished
+twice-withdrawn
+twice-witnessed
+twice-won
+twice-worn
+twice-wounded
+twice-yielded
+twice a !TIMEFRAME
+twice a day
+twice a week
+twice a year
+twice every !TIMEFRAME
+twice over
+two-hour intervals
+two-time
+two times
+typically
+unfolding events
+unvarying
+upon such occasions
+used always to
+used to always
+usual
+usually
+usualness
+various times
+vernal
+vernally
+vesper
+vespers
+vespertine
+vespertines
+vicennial
+vicennials
+wartime
+wartimes
+washday
+washdays
+watch and watch
+waves of recurrent
+waves of recurring
+wax and wane
+waxed and waned
+waxes and wanes
+waxing and waning
+wayzgoose
+wayzgooses
+wednesdays
+week after week
+week by week
+week in, week out
+weekly
+weekly cycle
+weekly cycles
+weekly meetings
+weekly newspaper
+weekly newspapers
+weekly payment
+weekly payments
+weeknights
+weeks running
+wet seasons
+when dealing with
+when it was bright and early
+whene'er
+whenever
+whenever dealing with
+whenever I try to
+whenever it was bright and early
+whensoever
+winters
+with births
+with deaths
+with due procedure
+with every
+with every breath
+with every other breath
+with marriages
+wk.
+wkly
+wkly.
+workaday
+workdays
+workweeks
+would every !TIMEFRAME
+yahrzeit
+yahrzeits
+year-after-year
+year-round
+year after year
+year by year
+year in, year out
+year round
+yearly
+yearly cycle
+yearly cycles
+yearly payment
+yearly payments
+yet again
+yule
+yuletide
+yuletides

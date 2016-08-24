@@ -1,0 +1,338 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX it enforced through
+!AUX it fair to say
+!AUX it fair to say that
+!AUX there a
+!AUX there a moment
+!AUX there a process
+!AUX there a sharing
+!AUX there a time
+!AUX there an
+!AUX there any
+!AUX there any possible way
+!AUX there any way
+!AUX there something
+!AUX this necessary
+!DO !ROYALWE know
+!DO !ROYALWE know !QUESTION much
+!DO he know
+!DO he know !QUESTION much
+!DO she know
+!DO she know !QUESTION much
+!DO there exist any
+!DO they know
+!DO they know !QUESTION much
+!DO we have to
+!DO we know
+!DO we know !QUESTION much
+!DO you go by
+!DO you have a policy
+!DO you have any
+!DO you have any questions
+!DO you have questions
+!DO you know !QUESTION
+!DO you know !QUESTION much
+!DO you know of
+!DO you know of any
+!DO you know what
+!DO you know what !ROYALWE mean
+!DO you know what I'm talking about
+!DO you know what makes
+!DO you know whom
+!DO you provide any
+!DO you understand what !ROYALWE mean
+!DO you want us
+!DO you want us to
+!DO you want us to hold
+!DO you want us to hold up
+!modal !ROYALWE ask you
+!modal !ROYALWE help you
+!QUESTION !modal !ROYALWE help
+!QUESTION do you conceive
+!QUESTION do you feel
+!QUESTION do you imagine
+!QUESTION do you measure
+!QUESTION do you plan to
+!QUESTION do you suppose
+!QUESTION do you think
+!QUESTION do you think you
+!QUESTION do you think you want to
+!QUESTION do you wish
+!QUESTION in the world !MUSTSHOULD you
+!QUESTION in the world could you
+!QUESTION in the world did you
+!QUESTION in the world might you
+!QUESTION in the world ought you
+!QUESTION in the world would you
+!QUESTION long
+!QUESTION long ago did you
+!QUESTION long did
+!QUESTION long have you
+!QUESTION long will
+!QUESTION long would
+!QUESTION many
+!QUESTION many are
+!QUESTION many have you
+!QUESTION many time this past !TIMEFRAME have you
+!QUESTION many times
+!QUESTION many times a !TIMEFRAME !DO
+!QUESTION many times a !TIMEFRAME do
+!QUESTION many times a !TIMEFRAME have
+!QUESTION many times do
+!QUESTION many times have
+!QUESTION many times this past !TIMEFRAME
+!QUESTION might !INDEFINITEADDRESSEE know
+!QUESTION much
+!QUESTION much !AUX
+!QUESTION much !MUSTSHOULD
+!QUESTION much am
+!QUESTION much are
+!QUESTION much can
+!QUESTION much did
+!QUESTION much do
+!QUESTION much does
+!QUESTION much time can it really take
+!QUESTION much time can it really take to
+!QUESTION much time can it take
+!QUESTION much time can it take to
+!QUESTION much time does it really take
+!QUESTION much time does it really take to
+!QUESTION much time does it take
+!QUESTION much time does it take to
+!QUESTION much weight
+!QUESTION much would
+!QUESTION often
+!QUESTION often !MUSTSHOULD you
+!QUESTION often !OUGHTNEED you to
+!QUESTION often am
+!QUESTION often do
+!QUESTION often do you
+!QUESTION often do you need
+!QUESTION often does
+!QUESTION often have
+!QUESTION often have you
+!QUESTION often must you
+!QUESTION old
+!QUESTION regular !AUX
+!QUESTION regular are
+!QUESTION regularly
+!QUESTION regularly do
+!QUESTION regularly does
+!QUESTION satisfied !AUX
+!QUESTION satisfied !AUX you
+!QUESTION satisfied were
+!QUESTION satisfied were you
+!QUESTION satisfied with
+!QUESTION satisified !AUX
+!QUESTION was it determined
+!QUESTION was it evaluated
+!QUESTION was it that
+!QUESTION was sent
+!QUESTION were they
+!QUESTION were they corrected
+!QUESTION would !INDEFINITEADDRESSEE know
+!QUESTION would anyone
+!QUESTION would anyone know
+!QUESTION would be your
+!QUESTION would someone know
+!QUESTION would that be
+!QUESTION would you
+!QUESTION would you advise someone
+!QUESTION would you go about
+!QUESTION would you have
+!QUESTION would you know
+!QUESTION would you like
+!QUESTION would you prefer
+!QUESTION would you want
+. !AUX there something
+. !QUESTION many
+. !QUESTION much
+. !QUESTION much do
+. !QUESTION would anyone
+. for which
+. from whom
+. in what
+. let me know if you have any questions
+. let me know if you have questions
+. to the best of your knowledge
+. to your knowledge
+. what happened
+. what would anyone
+. when would anyone
+. where would anyone
+. whereinto
+. why do many
+. why do so many
+. why would anyone
+any questions?
+anyone with information !AUX asked
+anyone with information !MUSTSHOULD contact
+are there any
+are there any questions
+are there any questions?
+are there many
+are there mechanisms
+are there moments
+are there systematic mechanisms
+are there times
+can !ROYALWE help !YOU
+can !ROYALWE help you
+can you change as a result of your
+can you explain to me !QUESTION
+can you give me an idea of
+can you let me know
+can you please tell me
+can you tell me !QUESTION
+could you ever
+did you do any
+for what reason
+for whatever reason !DO
+for which reason
+from !QUESTION
+from what
+from what cause
+from what source
+from when
+from whence
+from where
+from why
+has anyone asked you
+have there ever been
+have you established
+have you experienced
+have you prioritized the
+How's the world been treating you
+I'd just like to ask you
+if so, !QUESTION
+if so, !QUESTION did
+if so, did
+if so, what
+if so, when
+if so, where
+if so, why
+if so, would you
+if yes to either
+if yes, !QUESTION do
+in the last !TIMEFRAME !QUESTION often have
+in the past !NUMS1TO100 !TIMEFRAME !QUESTION often have
+in the past !TIMEFRAME !QUESTION often have
+in the past month !QUESTION often have
+in the past week !QUESTION often have
+in the past year !QUESTION often have
+in what condition
+in what direction
+in what form
+in what manner
+in what period
+in what place
+in what places
+in what way
+in what ways
+in which place
+in which time
+in which times
+nicht wahr
+on a scale of 1 to
+overall, do you feel
+permit me to ask you
+so !QUESTION would you
+specify !QUESTION many times a !TIMEFRAME
+to what extent !AUX
+to whom !MODAL !INDEFINITEADDRESSEE
+to whom does !INDEFINITEADDRESSEE
+want to know if you have ever
+was it done in phases
+was there a
+was there a moment
+was there a reason for
+was there a time
+was there any
+was there ever a
+was there something more for me
+was this the only
+was this training developed
+was this your only
+were there moments
+were there times
+were you ever the
+what's supposed to
+what !AUX it's status
+what !AUX the range of
+what !AUX the role of
+what !AUX your ongoing
+what are some of the more
+what are the concerns
+what are the key issues
+what are your symptoms
+what benchmarking
+what can they do
+what do you think !modal
+what do you think !MUSTSHOULD
+what do you think can
+what do you think could
+what do you think might
+what do you think needs
+what do you think ought
+what if it were
+what kind of
+what kinds of
+what makes her think
+what makes him think
+what makes them think
+what makes us think
+what measures have been put in place
+what shall we
+what sort of
+what sorts of
+what time of the year
+what were the results
+what would anyone
+what would be your
+when was the first time you
+when was the last time you
+when would anyone
+where would anyone
+which do you conceive
+which do you imagine
+which do you suppose
+which do you think
+which would be your
+which would you
+which would you have
+which would you like
+which would you prefer
+which would you want
+whom in the world !MUSTSHOULD
+whom in the world could
+whom in the world did
+whom in the world might
+whom in the world ought
+whom in the world would
+why can't !PRONOUNNOMINAL not
+why can't !PRONOUNNOMINAL not just
+why do many
+why do so many
+why doesn't !PRONOUNNOMINAL not
+why doesn't !PRONOUNNOMINAL not just
+why would anyone
+why would you ever
+will you be
+will you ever
+will you explain to me !QUESTION
+will you give me an idea of
+will you let me know
+will you tell me !QUESTION
+with what frequency do you
+would you agree
+would you agree or disagree
+would you be so kind as to respond
+would you be willing
+would you be willing to
+would you consider
+would you ever consider
+would you ever think about
+would you please respond
+would you share your

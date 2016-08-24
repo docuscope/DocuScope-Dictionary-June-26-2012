@@ -1,0 +1,319 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX in place of
+!DETERMINER alternative
+!DETERMINER alternative to
+!DETERMINER alternatives
+!DETERMINER exchange of
+!DETERMINER fill-in
+!FILL !POSSESSIVEPRONOUN shoes
+!FILL in for
+!FILL my shoes
+!FILL our shoes
+!FILL your shoes
+!HIT for
+!HOLD !DETERMINER proxy of
+!TAKE !DETERMINER place of
+!TAKE !POSSESSIVEPRONOUN place
+!TAKE its place
+!TAKE my place
+!TAKE our place
+!TAKE over for
+act in !DETERMINER place of
+acted in !DETERMINER place of
+acting in !DETERMINER place of
+acts in !DETERMINER place of
+alternate
+alternate to
+alternates to
+are there to take its place
+as !DETERMINER replacement
+as !DETERMINER replacement for
+as !DETERMINER substitute
+as compensation
+as proxies for
+as proxy for
+as replacements
+as substitutes
+backup
+backups
+bat for
+bats for
+batted for
+batting for
+double for
+doubled for
+doubles for
+doubling for
+exchange
+exchange of
+exchangeable
+exchanged
+exchanges
+exchanging
+fill-in for
+for !DETERMINER alternative
+for another
+for another party
+in-place-of
+in !DETERMINER shoes of
+in !DETERMINER stead of
+in !POSSESSIVEPRONOUN place
+in !POSSESSIVEPRONOUN stead
+in compensation
+in compensation for
+in exchange
+in exchange for
+in exchange of
+in lieu
+in lieu of
+in loco
+in my stead
+in our stead
+in place of
+in relief of
+in replace of
+in return for
+in stead for
+instead
+INSTEAD OF
+instead of !DETERMINER
+into !DETERMINER place of
+into !DETERMINER shoes of
+is there to take its place
+knockoff
+knockoff of
+knockoffs
+knockoffs of
+mutual replacement
+mutual replacements
+pinch-hit
+pinch-hit for
+pinch-hits for
+pinch-hitting
+pinch-hitting for
+pinch hit for
+pinch hits for
+pinch hitting for
+pinched-hit for
+pinched hit for
+proxies for
+proxy for
+rather than
+replace
+replace !DETERMINER
+replace from
+replaced
+replaced !DETERMINER
+replaced from
+replacement
+replacements
+replaces
+replaces !DETERMINER
+replaces from
+replacing
+replacing !DETERMINER
+replacing from
+sat in for
+serve in !POSSESSIVEPRONOUN stead
+serve in my stead
+serve in our stead
+serve in your stead
+served in !POSSESSIVEPRONOUN stead
+served in my stead
+served in our stead
+served in your stead
+serves in !POSSESSIVEPRONOUN stead
+serves in my stead
+serves in our stead
+serves in your stead
+serving in !POSSESSIVEPRONOUN stead
+serving in my stead
+serving in our stead
+serving in your stead
+shift places
+shifted places
+shifting places
+shifts places
+shoes to fill
+sign for her
+sign for him
+sign for me
+sign for them
+sign for us
+sign for you
+signed for her
+signed for him
+signed for me
+signed for them
+signed for us
+signed for you
+signing for her
+signing for him
+signing for me
+signing for them
+signing for us
+signing for you
+signs for her
+signs for him
+signs for me
+signs for them
+signs for us
+signs for you
+sit in for
+sits in for
+sitting in for
+spell her for !DETERMINER while
+spell him for !DETERMINER while
+spell me for !DETERMINER while
+spell them for !DETERMINER while
+spell us for !DETERMINER while
+stand-in
+stand-ins
+stand in !DETERMINER place of
+stand in !DETERMINER stead of
+stand in for
+stand in stead for
+standing-in
+standing in !DETERMINER place of
+standing in !DETERMINER stead of
+standing in for
+standing in stead for
+stands in !DETERMINER place of
+stands in !DETERMINER stead of
+stands in for
+stands in stead for
+stead
+step into !DETERMINER place of
+step into !DETERMINER shoes of
+stepped into !DETERMINER place of
+stepped into !DETERMINER shoes of
+stepping into !DETERMINER place of
+stepping into !DETERMINER shoes of
+steps into !DETERMINER place of
+steps into !DETERMINER shoes of
+stood-in
+stood in !DETERMINER place of
+stood in !DETERMINER stead of
+stood in for
+stood in stead for
+stopgap
+stopgaps
+sub
+sub for
+subbed
+subbed for
+subbing
+subbing for
+subrogate
+subrogated
+subrogates
+subrogating
+subrogation
+subs
+subs for
+substituing for
+substitute
+substitute for
+substitute in its place
+substitute with
+substituted for
+substituted in its place
+substituted with
+substitutes
+substitutes for
+substitutes in its place
+substitutes with
+substituting
+substituting for
+substituting in its place
+substituting with
+substitution
+substitutions
+substitutive
+substitutively
+substitutives
+substitutivity
+succedanea
+succedaneous
+succedaneum
+succedaneums
+supplant
+supplanted
+supplanting
+supplants
+surrogacies
+surrogacy for
+surrogated
+surrogating
+swap one for another
+swapped one for another
+swapping one for another
+swaps one for another
+switch !DETERMINER
+switch !POSSESSIVEPRONOUN
+switch !PRONOUNOBJECTIVE for
+switch me for
+switch my
+switch one for
+switch our
+switch us for
+switch with
+switch you for
+switch your
+switched !POSSESSIVEPRONOUN pants
+switched !PRONOUNOBJECTIVE for
+switched me for
+switched my
+switched one for
+switched our
+switched players
+switched us for
+switched with
+switched you for
+switched your
+switches !DETERMINER
+switches !POSSESSIVEPRONOUN
+switches !PRONOUNOBJECTIVE for
+switches me for
+switches my
+switches one for
+switches our
+switches us for
+switches with
+switches you for
+switches your
+switching
+switching !DETERMINER players
+switching !POSSESSIVEPRONOUN
+switching !PRONOUNOBJECTIVE for
+switching me for
+switching my
+switching one for
+switching our
+switching us for
+switching with
+switching you for
+switching your
+swop
+swopped
+swopping
+swops
+token for
+tokened for
+tokening for
+tokens for
+took !DETERMINER place of
+took over for
+understudied
+understudies !DETERMINER
+understudies !POSSESSIVEPRONOUN
+understudies !PRONOUNOBJECTIVE
+understudies for
+understudy !DETERMINER
+understudy !POSSESSIVEPRONOUN
+understudy !PRONOUNOBJECTIVE
+understudy for
+understudying

@@ -1,0 +1,236 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER better for
+!AUX !DETERMINER established
+!AUX !DETERMINER giving
+!AUX !DETERMINER good decision
+!AUX !DETERMINER good move
+!AUX !DETERMINER healthy decision
+!AUX !DETERMINER hit
+!AUX !DETERMINER informed
+!AUX !DETERMINER informing
+!AUX !DETERMINER linch-pin
+!AUX !DETERMINER linchpin
+!AUX !DETERMINER right decision
+!AUX !DETERMINER sensible !IDEA
+!AUX !DETERMINER sensible thing
+!AUX !DETERMINER smart move
+!AUX !DETERMINER solid !IDEA
+!AUX !DETERMINER staple of
+!AUX !DETERMINER sterling
+!AUX !DETERMINER world class
+!AUX able to surmount
+!AUX accomplished
+!AUX adjusting to
+!AUX ahead of schedule
+!AUX alert to
+!AUX also essential for
+!AUX apropos
+!AUX apropos to
+!AUX best at
+!AUX best on
+!AUX best to
+!AUX booming
+!AUX brought to justice
+!AUX careful
+!AUX cleaner
+!AUX coherent
+!AUX commended
+!AUX content
+!AUX content with
+!AUX counted on
+!AUX cut out for
+!AUX desirable
+!AUX elaborate
+!AUX essential for
+!AUX established
+!AUX exceptional
+!AUX fit
+!AUX fitting !DETERMINER
+!AUX fitting !POSSESSIVEPRONOUN
+!AUX fitting to
+!AUX for real
+!AUX free to
+!AUX full of life
+!AUX given credit
+!AUX given credit for
+!AUX glad
+!AUX good for
+!AUX hale
+!AUX having !DETERMINER ball
+!AUX hits
+!AUX impressed by
+!AUX impressed with
+!AUX in deep together
+!AUX in deep with one another
+!AUX in good company
+!AUX in order
+!AUX in place
+!AUX in season
+!AUX in service
+!AUX inducted
+!AUX inducted into
+!AUX informative
+!AUX informed in
+!AUX informed on
+!AUX instrumental in
+!AUX instrumental to
+!AUX justified
+!AUX justified in
+!AUX learned about
+!AUX learned in
+!AUX lettered
+!AUX linch-pins
+!AUX linchpins
+!AUX made easy
+!AUX master
+!AUX masters
+!AUX mutual
+!AUX notable
+!AUX notable for
+!AUX notably
+!AUX now on time
+!AUX of use
+!AUX on !DETERMINER square
+!AUX on !POSSESSIVEPRONOUN toes
+!AUX on our toes
+!AUX on time
+!AUX penetrating indeed
+!AUX poetic
+!AUX promising.
+!AUX rich and substantive
+!AUX right
+!AUX right about
+!AUX right with
+!AUX rising fast
+!AUX scintillating
+!AUX secure
+!AUX sensible
+!AUX smitten with
+!AUX solved
+!AUX solvent
+!AUX somebodies
+!AUX somebody
+!AUX sound
+!AUX sublime
+!AUX substantive
+!AUX supportive of
+!AUX taken with
+!AUX tangible assets
+!AUX there for !PRONOUNOBJECTIVE
+!AUX there for !YOU
+!AUX there when !PRONOUNNOMINAL need !PRONOUNOBJECTIVE
+!AUX there when !PRONOUNNOMINAL needs !PRONOUNOBJECTIVE
+!AUX there when !ROYALWE need !PRONOUNOBJECTIVE
+!AUX there when !YOU need !PRONOUNOBJECTIVE
+!AUX there when I need !PRONOUNOBJECTIVE
+!AUX timely
+!AUX to be commended
+!AUX tried and tested
+!AUX true for
+!AUX true poetry
+!AUX up-to-date
+!AUX up on
+!AUX useable
+!AUX useful toward
+!AUX valid
+!AUX well
+!AUX well-received
+!AUX well-spoken
+!AUX well received
+!AUX whole
+!AUX widely given credit for
+!PRONOUNNOMINAL contributed
+!PRONOUNNOMINAL contributes
+!PRONOUNNOMINAL donated
+!PRONOUNNOMINAL donates
+!PRONOUNNOMINAL enlightened
+!PRONOUNNOMINAL enlightens
+!PRONOUNNOMINAL flourished
+!PRONOUNNOMINAL flourishes
+!PRONOUNNOMINAL fortified
+!PRONOUNNOMINAL fortifies
+!PRONOUNNOMINAL freed
+!PRONOUNNOMINAL frees
+!PRONOUNNOMINAL gets along well with
+!PRONOUNNOMINAL gets along with
+!PRONOUNNOMINAL gives of herself
+!PRONOUNNOMINAL gives of himself
+!PRONOUNNOMINAL got busy
+!PRONOUNNOMINAL healed
+!PRONOUNNOMINAL heals
+!PRONOUNNOMINAL helped
+!PRONOUNNOMINAL helps
+!PRONOUNNOMINAL helps out
+!PRONOUNNOMINAL hugged
+!PRONOUNNOMINAL hugs
+!PRONOUNNOMINAL hunkers down
+!PRONOUNNOMINAL inaugurated
+!PRONOUNNOMINAL inaugurates
+!PRONOUNNOMINAL inspired
+!PRONOUNNOMINAL inspires
+!PRONOUNNOMINAL instilled
+!PRONOUNNOMINAL instills
+!PRONOUNNOMINAL instituted
+!PRONOUNNOMINAL institutes
+!PRONOUNNOMINAL instructed
+!PRONOUNNOMINAL instructs
+!PRONOUNNOMINAL liberated
+!PRONOUNNOMINAL liberates
+!PRONOUNNOMINAL makes sacrificed
+!PRONOUNNOMINAL makes sacrifices
+!PRONOUNNOMINAL makes the ultimate sacrifice
+!PRONOUNNOMINAL mastered
+!PRONOUNNOMINAL masters
+!PRONOUNNOMINAL meshes well with
+!PRONOUNNOMINAL ministers to
+!PRONOUNNOMINAL overcame
+!PRONOUNNOMINAL overcomes
+!PRONOUNNOMINAL paves the way for
+!PRONOUNNOMINAL pays the way
+!PRONOUNNOMINAL pioneered
+!PRONOUNNOMINAL pioneers
+!PRONOUNNOMINAL sacrificed
+!PRONOUNNOMINAL sacrifices
+Blessed with
+Can rightfully take credit for
+Can take credit for
+fighting trim
+gift of
+gift of expression
+gift of speech
+gift of thought
+gift of tongues
+gifted
+gifted person
+gifted persons
+gifted with
+giftedly
+giftedness
+gifts of
+gifts of expression
+given credit
+given credit for
+graced
+graced with
+graceful
+graceful gesture
+graceful gestures
+graceful tending
+graceful tending of
+gracefully
+gracefulness
+he has positive qualities
+in !POSSESSIVEPRONOUN element
+is credited for
+is credited with
+is praised for
+is widely credited for
+is widely credited with
+is widely praised for
+Owe a lot to
+Owe her a lot
+Owe him a lot
+she has positive qualities

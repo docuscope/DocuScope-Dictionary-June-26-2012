@@ -1,0 +1,128 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!MUSTSHOULD acknowledge
+!MUSTSHOULD acknowledge defeat
+!MUSTSHOULD acquiesce
+!OUGHTNEED to acknowledge
+!OUGHTNEED to acknowledge defeat
+!OUGHTNEED to acquiesce
+!ROYALWE !MUSTSHOULD acknowledge
+!ROYALWE !MUSTSHOULD acquiesce
+!ROYALWE !MUSTSHOULD admit
+!ROYALWE !MUSTSHOULD admit the truth
+!ROYALWE !MUSTSHOULD capitulate
+!ROYALWE !MUSTSHOULD concede
+!ROYALWE !OUGHTNEED to acknowledge
+!ROYALWE !OUGHTNEED to acknowledge defeat
+!ROYALWE !OUGHTNEED to acquiesce
+!ROYALWE !OUGHTNEED to admit
+!ROYALWE !OUGHTNEED to admit the truth
+!ROYALWE !OUGHTNEED to capitulate
+!ROYALWE !OUGHTNEED to concede
+!ROYALWE !OUGHTNEED to surrender
+!ROYALWE !OUGHTNEED to withdraw
+!ROYALWE !OUGHTNEED to yield
+!ROYALWE need to acknowledge
+!ROYALWE need to acquiesce
+!ROYALWE need to admit
+!ROYALWE need to admit the truth
+!ROYALWE need to capitulate
+!ROYALWE need to concede
+!ROYALWE ought to acquiesce
+!ROYALWE ought to admit
+!ROYALWE ought to admit the truth
+!ROYALWE ought to capitulate
+!ROYALWE ought to concede
+, although,
+, even though
+, though
+, though,
+. although
+. granted that
+. regardless of
+. though
+; granted that
+admittedly
+although
+although even
+although even if
+although it's agreed that
+although it is granted that
+although it is true
+although there
+although there are
+although there are no
+can't be defended
+can't be fully defended
+even if
+even if it's conceded that !ROYALWE
+even if it is conceded that !ROYALWE
+even less does it
+even so, !ROYALWE
+even though !ROYALWE
+granted,
+has weaknesses I must acknowledge
+has weaknesses I must concede
+having just said that,
+having said all that,
+having said that,
+he did what he could
+I'll be the first to acknowledge
+I'll be the first to concede
+I'm the first to acknowledge
+I acknowledge that
+I admit
+I admit freely
+I admit that
+I concede
+I concede that
+I did everything I could
+I did what I could
+I must acknowledge
+I must admit
+I must admit that
+I must confess that
+in all due respect
+in all fairness to
+in fairness to
+it must be acknowledged
+it must be admitted
+it must be conceded
+it needs to be acknowledged
+it needs to be admitted
+it needs to be conceded
+it ought to be acknowledged
+it ought to be admitted
+it ought to be conceded
+it should be acknowledged
+it should be admitted
+it should be conceded
+she did everything she could
+they did everything they could
+they did what they could
+though
+though even
+though even !ROYALWE would be hard pressed to
+though even if
+though it is true that
+though the heavens may fall
+though there
+though there are
+though there are no
+TRUE,
+we concede
+we concede that
+we did everything we could
+we did what we could
+while it admittedly seems
+while it goes without saying
+while it is true
+while it may
+while it may be
+while it might
+while it might be
+with all due respect
+with all due respect to
+with all respect to

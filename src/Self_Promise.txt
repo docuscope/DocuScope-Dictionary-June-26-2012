@@ -1,0 +1,122 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!GIVE my word
+!GIVE my word of honor
+!GIVE our word
+!GIVE our word of honor
+!GIVE you my word
+!HAND ourselves !DETERMINER promise
+!ROYALWE agree to
+!ROYALWE can provide
+!ROYALWE give you my word
+!ROYALWE have the answer
+!ROYALWE have the answers
+!ROYALWE pledge
+!ROYALWE promise
+!ROYALWE promise to keep
+!ROYALWE promise you
+!ROYALWE resolve
+!ROYALWE resolve to
+!ROYALWE solemnly promise
+!ROYALWE swear
+!ROYALWE swear on a stack of bibles
+!ROYALWE swear on my mother's grave
+!ROYALWE vow
+!ROYALWE will comply
+!ROYALWE will comply with
+!ROYALWE will look into it
+!ROYALWE will pay
+!ROYALWE will spearhead
+!ROYALWE will spearhead any effort
+from now on !ROYALWE promise
+from now on !ROYALWE will
+from now on !ROYALWE will always
+from this !TIMEFRAME forward !ROYALWE
+from this !TIMEFRAME forwards !ROYALWE
+from this !TIMEFRAME onward !ROYALWE promise
+from this !TIMEFRAME onward !ROYALWE swear
+from this !TIMEFRAME onwards !ROYALWE resolve
+from this !TIMEFRAME onwards !ROYALWE vow
+from this moment on !ROYALWE
+from this moment on !ROYALWE promise
+from this moment on !ROYALWE vow
+from this point !ROYALWE will
+from this time forward !ROYALWE will
+going foward !ROYALWE resolve
+going foward !ROYALWE will
+I'll look into it
+mark my word
+mark my words
+my pledge
+my pledges
+my promise
+my promises
+my solemn promise
+my word of honor
+on my honor
+on my oath
+on my word
+on our honor
+on our oath
+on our word
+on our word of honor
+our pledge
+our pledges
+our promise
+our promise to
+our promise to you
+our promise:
+our promises
+our word of honor
+pledge my
+pledge my honor
+pledge my word
+pledge our
+pledge our honor
+pledge our support
+pledge our word
+pledged my
+pledged my honor
+pledged my word
+pledged our
+pledged our honor
+pledged our support
+pledged our word
+pledges my
+pledges my honor
+pledges my word
+pledges our
+pledges our honor
+pledges our support
+pledges our word
+pledging my
+pledging my honor
+pledging my word
+pledging our
+pledging our honor
+pledging our support
+pledging our word
+this is our promise
+this is our promise to you
+we'll look into it
+we are here to help
+we are here to save you
+we can beat
+we can calculate
+we can outperform
+we can outsell
+we can outwork
+we can provide
+we can undercut
+we can undersell
+we have the answer
+we have the answers
+we will beat
+we will look into it
+we will outperform
+we will outsell
+we will pay
+with my pledge
+with our pledge

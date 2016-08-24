@@ -1,0 +1,2743 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!ASK for !POSSESSIVEPRONOUN hand in marriage
+!AUX all over for !POSSESSIVEPRONOUN
+!AUX all over for him
+!AUX all over for them
+!AUX all over.
+!AUX over.
+!AUX writing a new chapter
+!BEAR !DETERMINER child
+!BREAK in the market
+!BREAK into music
+!COME of age
+!DETERMINER advanced age
+!DETERMINER bedridden childhood
+!DETERMINER come-of-age
+!DETERMINER coming of age
+!DETERMINER eventful night
+!DETERMINER generation of
+!DETERMINER highly visible public figure
+!DETERMINER lifetime
+!DETERMINER lifetime of
+!DETERMINER longtime
+!DETERMINER matriculated
+!DETERMINER moment standing still forever
+!DETERMINER move that widened !POSSESSIVEPRONOUN circle
+!DETERMINER native of
+!DETERMINER post !PRONOUNNOMINAL kept until
+!DETERMINER special night
+!DETERMINER staff writer
+!DETERMINER very may-morn of !POSSESSIVEPRONOUN youth
+!DETERMINER watershed !TIMEFRAME
+!DETERMINER watershed for
+!DETERMINER watershed for !PRONOUNOBJECTIVE
+!DETERMINER watershed for me
+!DETERMINER watershed for us
+!DETERMINER watershed for you
+!DETERMINER watershed in !POSSESSIVEPRONOUN
+!DETERMINER watershed in !POSSESSIVEPRONOUN life
+!DETERMINER writer of
+!GET used to
+!GET with child
+!GET with young
+!GIVE BIRTH TO
+!GO back generations
+!HAVE !DETERMINER child
+!HAVE A REPUTATION FOR
+!HOLD !DETERMINER degree
+!HOLD !DETERMINER degree from
+!HOLD !DETERMINER honorary degree
+!HOLD !DETERMINER honorary degree from
+!HOLD a job
+!HOLD the office of
+!HOLD the offices of
+!HOLD the position of
+!HOLD the positions of
+!HOLD the presses
+!HOLD the title
+!KEEP it for that night
+!LEAVE the world
+!LEAVE this world
+!LIVE !DETERMINER life of
+!LIVE again
+!LIVE alone
+!LIVE apart
+!LIVE as man and wife
+!LIVE by !DETERMINER
+!LIVE ever
+!LIVE FOR !DETERMINER MOMENT
+!LIVE IN !DETERMINER
+!LIVE IN !DETERMINER IVORY TOWER
+!LIVE in retirement
+!LIVE IT DOWN
+!LIVE off !DETERMINER fat of !DETERMINER land
+!LIVE off of
+!LIVE on
+!LIVE on !DETERMINER fat of !DETERMINER land
+!LIVE ON BORROWED TIME
+!LIVE OUT OF !DETERMINER SUITCASE
+!LIVE upon
+!LIVE with
+!LOOK for a husband
+!LOOK for a mate
+!LOOK for a spouse
+!LOOK for a wife
+!LOSE !POSSESSIVEPRONOUN husband
+!LOSE !POSSESSIVEPRONOUN spouse
+!LOSE !POSSESSIVEPRONOUN wife
+!POSSESSIVEPRONOUN !NUMS1TO100 year anniversary
+!POSSESSIVEPRONOUN !NUMS1TO100 years
+!POSSESSIVEPRONOUN !NUMS1TO100 years of life
+!POSSESSIVEPRONOUN !RANKNUMBER anniversary
+!POSSESSIVEPRONOUN !RANKNUMBER birthday
+!POSSESSIVEPRONOUN !RANKNUMBER book
+!POSSESSIVEPRONOUN !RANKNUMBER novel
+!POSSESSIVEPRONOUN adulthood
+!POSSESSIVEPRONOUN adulthood's
+!POSSESSIVEPRONOUN adulthoods's
+!POSSESSIVEPRONOUN autobiography
+!POSSESSIVEPRONOUN bachelor's degree from
+!POSSESSIVEPRONOUN being known as
+!POSSESSIVEPRONOUN best known
+!POSSESSIVEPRONOUN birth
+!POSSESSIVEPRONOUN blood relatives
+!POSSESSIVEPRONOUN brother died
+!POSSESSIVEPRONOUN brother was born
+!POSSESSIVEPRONOUN career
+!POSSESSIVEPRONOUN childhood
+!POSSESSIVEPRONOUN childhood's
+!POSSESSIVEPRONOUN childhoods'
+!POSSESSIVEPRONOUN class
+!POSSESSIVEPRONOUN confirmation to
+!POSSESSIVEPRONOUN daughter,
+!POSSESSIVEPRONOUN days at
+!POSSESSIVEPRONOUN death
+!POSSESSIVEPRONOUN degree from
+!POSSESSIVEPRONOUN doctorate from
+!POSSESSIVEPRONOUN earliest schooling
+!POSSESSIVEPRONOUN early work
+!POSSESSIVEPRONOUN early years
+!POSSESSIVEPRONOUN entire life
+!POSSESSIVEPRONOUN entire professional life
+!POSSESSIVEPRONOUN entire professional lives
+!POSSESSIVEPRONOUN experiences
+!POSSESSIVEPRONOUN facilities
+!POSSESSIVEPRONOUN family was descended from
+!POSSESSIVEPRONOUN father's
+!POSSESSIVEPRONOUN father died
+!POSSESSIVEPRONOUN final !NUMS1TO100 years
+!POSSESSIVEPRONOUN first !NUMS1TO100 years
+!POSSESSIVEPRONOUN first assignment
+!POSSESSIVEPRONOUN first bout
+!POSSESSIVEPRONOUN first challenge
+!POSSESSIVEPRONOUN first fight
+!POSSESSIVEPRONOUN first match
+!POSSESSIVEPRONOUN focus
+!POSSESSIVEPRONOUN followers
+!POSSESSIVEPRONOUN graduate degree from
+!POSSESSIVEPRONOUN grandfather died
+!POSSESSIVEPRONOUN grandmother died
+!POSSESSIVEPRONOUN greatest
+!POSSESSIVEPRONOUN hand in marriage
+!POSSESSIVEPRONOUN heyday
+!POSSESSIVEPRONOUN historic
+!POSSESSIVEPRONOUN husband's family
+!POSSESSIVEPRONOUN inquiry into
+!POSSESSIVEPRONOUN last !NUMS1TO100 years
+!POSSESSIVEPRONOUN last bout
+!POSSESSIVEPRONOUN last challeng
+!POSSESSIVEPRONOUN last days
+!POSSESSIVEPRONOUN last fight
+!POSSESSIVEPRONOUN last illness
+!POSSESSIVEPRONOUN last match
+!POSSESSIVEPRONOUN last years
+!POSSESSIVEPRONOUN late work
+!POSSESSIVEPRONOUN later schooling
+!POSSESSIVEPRONOUN later work
+!POSSESSIVEPRONOUN later years
+!POSSESSIVEPRONOUN latest book
+!POSSESSIVEPRONOUN life
+!POSSESSIVEPRONOUN life story
+!POSSESSIVEPRONOUN long career
+!POSSESSIVEPRONOUN longtime
+!POSSESSIVEPRONOUN master's degree from
+!POSSESSIVEPRONOUN most famous
+!POSSESSIVEPRONOUN mother died
+!POSSESSIVEPRONOUN native
+!POSSESSIVEPRONOUN native instinct
+!POSSESSIVEPRONOUN older brother
+!POSSESSIVEPRONOUN older brothers
+!POSSESSIVEPRONOUN older sister
+!POSSESSIVEPRONOUN olders sisters
+!POSSESSIVEPRONOUN other books
+!POSSESSIVEPRONOUN place in history
+!POSSESSIVEPRONOUN professional life
+!POSSESSIVEPRONOUN propensity to
+!POSSESSIVEPRONOUN relatives
+!POSSESSIVEPRONOUN reputation
+!POSSESSIVEPRONOUN reputation as
+!POSSESSIVEPRONOUN reputation for
+!POSSESSIVEPRONOUN research on
+!POSSESSIVEPRONOUN resignation
+!POSSESSIVEPRONOUN resignations
+!POSSESSIVEPRONOUN retirement
+!POSSESSIVEPRONOUN scholarship on
+!POSSESSIVEPRONOUN short career
+!POSSESSIVEPRONOUN sister died
+!POSSESSIVEPRONOUN sister was born
+!POSSESSIVEPRONOUN son,
+!POSSESSIVEPRONOUN stints
+!POSSESSIVEPRONOUN studies on
+!POSSESSIVEPRONOUN style
+!POSSESSIVEPRONOUN term of office
+!POSSESSIVEPRONOUN undergraduate degree from
+!POSSESSIVEPRONOUN whole life
+!POSSESSIVEPRONOUN wife's family
+!POSSESSIVEPRONOUN work had been
+!POSSESSIVEPRONOUN work was
+!POSSESSIVEPRONOUN work was part of
+!POSSESSIVEPRONOUN years in
+!POSSESSIVEPRONOUN younger brother
+!POSSESSIVEPRONOUN younger brothers
+!POSSESSIVEPRONOUN younger sister
+!POSSESSIVEPRONOUN younger sisters
+!PRONOUNNOMINAL accepted !DETERMINER scholarship
+!PRONOUNNOMINAL adopted the belief
+!PRONOUNNOMINAL adopted the conviction
+!PRONOUNNOMINAL also divorced
+!PRONOUNNOMINAL also edited
+!PRONOUNNOMINAL became
+!PRONOUNNOMINAL became !DETERMINER exponent of
+!PRONOUNNOMINAL became !DETERMINER professor
+!PRONOUNNOMINAL became editor
+!PRONOUNNOMINAL began work on
+!PRONOUNNOMINAL began work together on
+!PRONOUNNOMINAL came to believe
+!PRONOUNNOMINAL came to take up
+!PRONOUNNOMINAL co-authored
+!PRONOUNNOMINAL co-edited
+!PRONOUNNOMINAL coined
+!PRONOUNNOMINAL completed !POSSESSIVEPRONOUN bachelor's
+!PRONOUNNOMINAL completed !POSSESSIVEPRONOUN doctorate
+!PRONOUNNOMINAL completed !POSSESSIVEPRONOUN graduate
+!PRONOUNNOMINAL completed !POSSESSIVEPRONOUN master's
+!PRONOUNNOMINAL completed !POSSESSIVEPRONOUN medical degree
+!PRONOUNNOMINAL completed !POSSESSIVEPRONOUN medical training
+!PRONOUNNOMINAL completed !POSSESSIVEPRONOUN studies at
+!PRONOUNNOMINAL completed !POSSESSIVEPRONOUN undergraduate
+!PRONOUNNOMINAL crossed into
+!PRONOUNNOMINAL decided to stay
+!PRONOUNNOMINAL decided to study
+!PRONOUNNOMINAL defined
+!PRONOUNNOMINAL developed
+!PRONOUNNOMINAL died
+!PRONOUNNOMINAL divorced
+!PRONOUNNOMINAL divorces
+!PRONOUNNOMINAL earned !DETERMINER
+!PRONOUNNOMINAL earned !POSSESSIVEPRONOUN bachelor's
+!PRONOUNNOMINAL earned !POSSESSIVEPRONOUN bachelor's degree
+!PRONOUNNOMINAL earned !POSSESSIVEPRONOUN master's degree
+!PRONOUNNOMINAL earned bachelor's degrees
+!PRONOUNNOMINAL earned master's degrees
+!PRONOUNNOMINAL earned the
+!PRONOUNNOMINAL edited
+!PRONOUNNOMINAL emigrates
+!PRONOUNNOMINAL enlisted in
+!PRONOUNNOMINAL enrolled in
+!PRONOUNNOMINAL ever
+!PRONOUNNOMINAL ever would have
+!PRONOUNNOMINAL experienced
+!PRONOUNNOMINAL experienced for the first time
+!PRONOUNNOMINAL first met
+!PRONOUNNOMINAL first saw
+!PRONOUNNOMINAL founded
+!PRONOUNNOMINAL frequently wrote
+!PRONOUNNOMINAL graduated
+!PRONOUNNOMINAL had !DETERMINER daughter
+!PRONOUNNOMINAL had !DETERMINER son
+!PRONOUNNOMINAL had been !DETERMINER
+!PRONOUNNOMINAL had been !DETERMINER member
+!PRONOUNNOMINAL had been !DETERMINER member of
+!PRONOUNNOMINAL had been members
+!PRONOUNNOMINAL had been members of
+!PRONOUNNOMINAL had been the
+!PRONOUNNOMINAL had earlier
+!PRONOUNNOMINAL had first met
+!PRONOUNNOMINAL had later
+!PRONOUNNOMINAL had never
+!PRONOUNNOMINAL had never been
+!PRONOUNNOMINAL has ever
+!PRONOUNNOMINAL has never
+!PRONOUNNOMINAL have ever
+!PRONOUNNOMINAL helped direct
+!PRONOUNNOMINAL helped found
+!PRONOUNNOMINAL immigrates
+!PRONOUNNOMINAL invented
+!PRONOUNNOMINAL joined the editorial staff
+!PRONOUNNOMINAL kept close to home
+!PRONOUNNOMINAL later built
+!PRONOUNNOMINAL later received
+!PRONOUNNOMINAL later said
+!PRONOUNNOMINAL left office
+!PRONOUNNOMINAL left the magazine
+!PRONOUNNOMINAL made !POSSESSIVEPRONOUN first
+!PRONOUNNOMINAL married
+!PRONOUNNOMINAL marries
+!PRONOUNNOMINAL matriculates
+!PRONOUNNOMINAL never
+!PRONOUNNOMINAL ofen relied on
+!PRONOUNNOMINAL often relied on
+!PRONOUNNOMINAL often relied upon
+!PRONOUNNOMINAL often used
+!PRONOUNNOMINAL often wrote
+!PRONOUNNOMINAL once
+!PRONOUNNOMINAL once said
+!PRONOUNNOMINAL once said that
+!PRONOUNNOMINAL passed the admissions exam
+!PRONOUNNOMINAL passed the admissions test
+!PRONOUNNOMINAL pledged
+!PRONOUNNOMINAL pledged !PRONOUNNOMINAL would never again
+!PRONOUNNOMINAL ran as !DETERMINER candidate for
+!PRONOUNNOMINAL ran for office
+!PRONOUNNOMINAL ran for the position
+!PRONOUNNOMINAL received !DETERMINER bachechor's degree
+!PRONOUNNOMINAL received !DETERMINER bachelor's degree
+!PRONOUNNOMINAL received !POSSESSIVEPRONOUN Ph.D
+!PRONOUNNOMINAL received bachelor's
+!PRONOUNNOMINAL received master's
+!PRONOUNNOMINAL retired in
+!PRONOUNNOMINAL sought to
+!PRONOUNNOMINAL started from
+!PRONOUNNOMINAL started out
+!PRONOUNNOMINAL took lucrative posts
+!PRONOUNNOMINAL took posts with
+!PRONOUNNOMINAL turned instead to
+!PRONOUNNOMINAL vowed
+!PRONOUNNOMINAL was !DETERMINER
+!PRONOUNNOMINAL was !DETERMINER candidate
+!PRONOUNNOMINAL was !DETERMINER doctor
+!PRONOUNNOMINAL was !DETERMINER exponent
+!PRONOUNNOMINAL was !DETERMINER founder of
+!PRONOUNNOMINAL was !DETERMINER lawyer
+!PRONOUNNOMINAL was !DETERMINER physician
+!PRONOUNNOMINAL was !DETERMINER professor
+!PRONOUNNOMINAL was !NUMS1TO100
+!PRONOUNNOMINAL was also !DETERMINER founder of
+!PRONOUNNOMINAL was also divorced
+!PRONOUNNOMINAL was born
+!PRONOUNNOMINAL was close to
+!PRONOUNNOMINAL was confirmed
+!PRONOUNNOMINAL was counselor
+!PRONOUNNOMINAL was divorced
+!PRONOUNNOMINAL was drawn to
+!PRONOUNNOMINAL was earlier known
+!PRONOUNNOMINAL was employed by
+!PRONOUNNOMINAL was first named
+!PRONOUNNOMINAL was for !DETERMINER time
+!PRONOUNNOMINAL was hardly known outside
+!PRONOUNNOMINAL was known
+!PRONOUNNOMINAL was known as
+!PRONOUNNOMINAL was known for
+!PRONOUNNOMINAL was later known
+!PRONOUNNOMINAL was once more
+!PRONOUNNOMINAL was one of !NUMS1TO100 children
+!PRONOUNNOMINAL was popular
+!PRONOUNNOMINAL was raised
+!PRONOUNNOMINAL was studying at
+!PRONOUNNOMINAL was sworn in
+!PRONOUNNOMINAL were candidates for
+!PRONOUNNOMINAL were divorced
+!PRONOUNNOMINAL were married
+!PRONOUNNOMINAL were raised
+!PRONOUNNOMINAL were separated
+!PRONOUNNOMINAL won !DETERMINER
+!PRONOUNNOMINAL worked as
+!PRONOUNNOMINAL worked for
+!PRONOUNNOMINAL would
+!PRONOUNNOMINAL would all the time say
+!PRONOUNNOMINAL would always
+!PRONOUNNOMINAL would always say
+!PRONOUNNOMINAL would always say about !PRONOUNOBJECTIVE
+!PRONOUNNOMINAL would be forced to explain
+!PRONOUNNOMINAL would come to say
+!PRONOUNNOMINAL would come to take up
+!PRONOUNNOMINAL would later say
+!PRONOUNNOMINAL would often
+!PRONOUNNOMINAL would often say
+!PRONOUNNOMINAL would say
+!PRONOUNNOMINAL would say about !PRONOUNOBJECTIVE
+!PRONOUNNOMINAL would show you
+!PRONOUNNOMINAL would typically
+!PRONOUNNOMINAL would usually
+!PRONOUNNOMINAL would usually find !DETERMINER
+!PRONOUNNOMINAL would usually have !DETERMINER
+!PRONOUNNOMINAL would usually take !DETERMINER
+!PRONOUNNOMINAL wrote
+!PRONOUNNOMINAL wrote !DETERMINER article for
+!PRONOUNNOMINAL wrote of
+!RANKNUMBER birthday
+!RANKNUMBER president
+!RANKNUMBER prime minister
+!RUN a company
+!RUN in !DETERMINER bloodline
+!RUN in !DETERMINER bloodlines
+!RUN in !DETERMINER family
+!SAY !POSSESSIVEPRONOUN LAST PRAYER
+!SEE action
+!SEE action in
+!SEE action with
+!SEE active duty
+!SEE combat
+!TAKE to !POSSESSIVEPRONOUN grave
+!TAKE to my grave
+!TAKE to our graves
+!TAKE to the grave
+!TAKE to your grave
+, as he would
+, as she would
+, as they would
+, teaching at the university of
+, was the author
+, was the author of
+, where !POSSESSIVEPRONOUN commitment
+, where !POSSESSIVEPRONOUN interest in
+, where !POSSESSIVEPRONOUN teachers included
+, where !PRONOUNNOMINAL had taught
+, who joined the company
+, who worked there as
+. as the leader of
+. as the middle daughter
+. as the middle son
+. as the oldest daughter
+. as the oldest son
+. as the youngest daughter
+. as the youngest son
+. besides !POSSESSIVEPRONOUN daughter,
+. besides !POSSESSIVEPRONOUN daughters,
+. besides !POSSESSIVEPRONOUN father
+. besides !POSSESSIVEPRONOUN mother
+. besides !POSSESSIVEPRONOUN son,
+. besides !POSSESSIVEPRONOUN sons,
+. besides !POSSESSIVEPRONOUN wife,
+. under !POSSESSIVEPRONOUN direction
+. under !POSSESSIVEPRONOUN leadership
+. under !POSSESSIVEPRONOUN management
+. under !POSSESSIVEPRONOUN supervision
+. under Mr.
+. under Ms.
+1-month-old
+1-year-old
+1-year-olds
+10-month-old
+10-year-old
+10-year-olds
+100-month-old
+100-year-old
+101-month-old
+101-year-old
+102-month-old
+102-year-old
+103-month-old
+103-year-old
+104-month-old
+104-year-old
+105-month-old
+105-year-old
+106-month-old
+106-year-old
+107-month-old
+107-year-old
+108-month-old
+108-year-old
+109-month-old
+109-year-old
+11-month-old
+11-year-old
+110-month-old
+110-year-old
+12-month-old
+12-year-old
+13-month-old
+13-year-old
+14-month-old
+14-year-old
+15-month-old
+15-year-old
+16-month-old
+16-year-old
+17-month-old
+17-year-old
+18-month-old
+18-year-old
+19-month-old
+19-year-old
+2-month-old
+2-year-old
+2-year-olds
+20-month-old
+20-year-old
+21-month-old
+21-year-old
+22-month-old
+22-year-old
+23-month-old
+23-year-old
+24-month-old
+24-year-old
+25-month-old
+25-year-old
+26-month-old
+26-year-old
+27-month-old
+27-year-old
+28-month-old
+28-year-old
+29-month-old
+29-year-old
+3-month-old
+3-year-old
+3-year-olds
+30-month-old
+30-year-old
+31-month-old
+31-year-old
+32-month-old
+32-year-old
+33-month-old
+33-year-old
+34-month-old
+34-year-old
+35-month-old
+35-year-old
+36-month-old
+36-year-old
+37-month-old
+37-year-old
+38-month-old
+38-year-old
+39-month-old
+39-year-old
+4-month-old
+4-year-old
+4-year-olds
+40-month-old
+40-year-old
+41-month-old
+41-year-old
+42-month-old
+42-year-old
+43-month-old
+43-year-old
+44-month-old
+44-year-old
+45-month-old
+45-year-old
+46-month-old
+46-year-old
+47-month-old
+47-year-old
+48-month-old
+48-year-old
+49-month-old
+49-year-old
+5-month-old
+5-year-old
+5-year-olds
+50-month-old
+50-year-old
+51-month-old
+51-year-old
+52-month-old
+52-year-old
+53-month-old
+53-year-old
+54-month-old
+54-year-old
+55-month-old
+55-year-old
+56-month-old
+56-year-old
+57-month-old
+57-year-old
+58-month-old
+58-year-old
+59-month-old
+59-year-old
+6-month-old
+6-year-old
+6-year-olds
+60-month-old
+60-year-old
+61-month-old
+61-year-old
+62-month-old
+62-year-old
+63-month-old
+63-year-old
+64-month-old
+64-year-old
+65-month-old
+65-year-old
+66-month-old
+66-year-old
+67-month-old
+67-year-old
+68-month-old
+68-year-old
+69-month-old
+69-year-old
+7-month-old
+7-year-old
+7-year-olds
+70-month-old
+70-year-old
+71-month-old
+71-year-old
+72-month-old
+72-year-old
+73-month-old
+73-year-old
+74-month-old
+74-year-old
+75-month-old
+75-year-old
+76-month-old
+76-year-old
+77-month-old
+77-year-old
+78-month-old
+78-year-old
+79-month-old
+79-year-old
+8-month-old
+8-year-old
+8-year-olds
+80-month-old
+80-year-old
+81-month-old
+81-year-old
+82-month-old
+82-year-old
+83-month-old
+83-year-old
+84-month-old
+84-year-old
+85-month-old
+85-year-old
+86-month-old
+86-year-old
+87-month-old
+87-year-old
+88-month-old
+88-year-old
+89-month-old
+89-year-old
+9-month-old
+9-year-old
+9-year-olds
+90-month-old
+90-year-old
+91-month-old
+91-year-old
+92-month-old
+92-year-old
+93-month-old
+93-year-old
+94-month-old
+94-year-old
+95-month-old
+95-year-old
+96-month-old
+96-year-old
+97-month-old
+97-year-old
+98-month-old
+98-year-old
+99-month-old
+99-year-old
+about the time of !POSSESSIVEPRONOUN
+accepted !DETERMINER appointment
+accepted !DETERMINER commission
+accepted appointments at
+accepted fellowships
+accepted scholarships
+accepting !DETERMINER appointment at
+accepting !DETERMINER commission at
+accepting appointments at
+accepting fellowships
+accepting scholarships
+adulthood
+adulthood's
+advanced in life
+advanced in years
+aet.
+aetat.
+after !POSSESSIVEPRONOUN death
+after !PRONOUNNOMINAL was !NUMS1TO100
+after college
+after earning !DETERMINER high school diploma
+after earning !DETERMINER undergraduate degree
+after further study at
+after graduating became
+after matriculating
+afteryear
+afteryears
+age-1
+age-10
+age-100
+age-101
+age-102
+age-103
+age-104
+age-105
+age-106
+age-107
+age-108
+age-109
+age-11
+age-110
+age-12
+age-13
+age-14
+age-15
+age-16
+age-17
+age-18
+age-19
+age-2
+age-20
+age-21
+age-22
+age-23
+age-24
+age-25
+age-26
+age-27
+age-28
+age-29
+age-3
+age-30
+age-31
+age-32
+age-33
+age-34
+age-35
+age-36
+age-37
+age-38
+age-39
+age-4
+age-40
+age-41
+age-42
+age-43
+age-44
+age-45
+age-46
+age-47
+age-48
+age-49
+age-5
+age-50
+age-51
+age-52
+age-53
+age-54
+age-55
+age-56
+age-57
+age-58
+age-59
+age-6
+age-60
+age-61
+age-62
+age-63
+age-64
+age-65
+age-66
+age-67
+age-68
+age-69
+age-7
+age-70
+age-71
+age-72
+age-73
+age-74
+age-75
+age-76
+age-77
+age-78
+age-79
+age-8
+age-80
+age-81
+age-82
+age-83
+age-84
+age-85
+age-86
+age-87
+age-88
+age-89
+age-9
+age-90
+age-91
+age-92
+age-93
+age-94
+age-95
+age-96
+age-97
+age-98
+age-99
+age of consent
+age of discretion
+age of growing pains
+age of ignorance
+age of matured powers
+age of responsibility
+age of retirement
+ahead of !POSSESSIVEPRONOUN time
+ahead of its time
+ahead of my time
+ahead of our time
+ahead of time
+ahead of your time
+all the days of your life
+also surviving
+also surviving !AUX
+always to have been
+always went in for
+American-born
+among !POSSESSIVEPRONOUN best-known works
+among !POSSESSIVEPRONOUN books
+among !POSSESSIVEPRONOUN honors
+among !POSSESSIVEPRONOUN many books
+among !POSSESSIVEPRONOUN recognitions
+appears never to have been
+applied to college
+applied to graduate school
+applied to law school
+applied to medical school
+applied to schools
+applied to universities
+applied to university
+applies to college
+applies to graduate school
+applies to law school
+applies to medical school
+applies to schools
+applies to universities
+applies to university
+apply to college
+apply to graduate school
+apply to law school
+apply to medical school
+apply to schools
+apply to universities
+apply to university
+applying to college
+applying to graduate school
+applying to law school
+applying to medical school
+applying to schools
+applying to universities
+applying to university
+are never told that
+are never told what
+are never told when
+are never told where
+are never told why
+around the age
+around the age that
+around the age when
+around the time of !POSSESSIVEPRONOUN
+as !DETERMINER active member
+as !DETERMINER actor
+as !DETERMINER adult
+as !DETERMINER author
+as !DETERMINER baby
+as !DETERMINER bedridden boy
+as !DETERMINER bedridden child
+as !DETERMINER bedridden girl
+as !DETERMINER boy
+as !DETERMINER candidate
+as !DETERMINER candidate for
+as !DETERMINER champion
+as !DETERMINER champion of
+as !DETERMINER child
+as !DETERMINER copyboy
+as !DETERMINER executive
+as !DETERMINER freshman
+as !DETERMINER girl
+as !DETERMINER graduate
+as !DETERMINER graduate of
+as !DETERMINER graduate student
+as !DETERMINER infant
+as !DETERMINER junior
+as !DETERMINER novelist
+as !DETERMINER nurse
+as !DETERMINER old man
+as !DETERMINER old woman
+as !DETERMINER planner
+as !DETERMINER police reporter
+as !DETERMINER reporter
+as !DETERMINER rhythm-and-blues singer
+as !DETERMINER scholar
+as !DETERMINER senior
+as !DETERMINER senior citizen
+as !DETERMINER showgirl
+as !DETERMINER single man
+as !DETERMINER single woman
+as !DETERMINER sophmore
+as !DETERMINER stage name
+as !DETERMINER student
+as !DETERMINER stylish writer
+as !DETERMINER teacher
+as !DETERMINER teenager
+as !DETERMINER toddler
+as !DETERMINER undergraduate
+as !DETERMINER unmarried man
+as !DETERMINER unmarried woman
+as !DETERMINER writer
+as !DETERMINER young
+as !DETERMINER young adult
+as !DETERMINER young baby
+as !DETERMINER young boy
+as !DETERMINER young girl
+as !DETERMINER young man
+as !DETERMINER young woman
+as !DETERMINER youngster
+as !POSSESSIVEPRONOUN friend
+as !PRONOUNNOMINAL later explained
+as !PRONOUNNOMINAL neared the end of her career
+as !PRONOUNNOMINAL neared the end of his career
+as active members
+as candidates for
+as chief spokesperson
+as custodian of
+as descendant of
+as e'er was
+as ever had been
+as ever was
+as ever would be
+as far back as
+as he once was
+as heir apparent
+as heir to
+as owners of
+as president
+as scion of
+as scions of
+as she once was
+as steward of
+as the first chief of
+as the first leader of
+as the guest of
+as the host of
+as the man who
+as the middle daughter
+as the middle son
+as the oldest daughter
+as the oldest son
+as the owner of
+as the person who
+as the time !PRONOUNNOMINAL
+as the woman who
+as the youngest daughter
+as the youngest son
+as their friends
+as they once were
+as tutor
+as tutor to
+as when !PRONOUNNOMINAL
+asked on
+asked on dates
+assume to the office
+assume to the position
+assume to the throne
+ASSUMED TO the office
+ASSUMED TO the position
+ASSUMED TO the throne
+ASSUMES TO the office
+ASSUMES TO the position
+ASSUMES TO the throne
+ASSUMING TO the office
+ASSUMING TO the position
+ASSUMING TO the throne
+at !DETERMINER advanced age
+at !DETERMINER age
+at !DETERMINER certain age
+at !DETERMINER ripe age
+at !DETERMINER ripe old age
+at !DETERMINER tender age
+at !DETERMINER tender age of
+at !DETERMINER young age
+at !POSSESSIVEPRONOUN birth
+at !POSSESSIVEPRONOUN death
+at one time
+at puberty
+at that time, !PRONOUNNOMINAL
+at the age of
+at the age of !NUMS1TO100
+at the age when
+at the age when one
+at the tender age
+at the tender age of
+at the time of !POSSESSIVEPRONOUN death
+authored
+authored !NUMS1TO100 books
+authored !NUMS1TO100 novels
+authored !NUMS1TO100 plays
+authored or co-authored
+back in the !RANKNUMBER grade
+be born to
+became !DETERMINER classic
+became !DETERMINER evangelist
+became !DETERMINER widdower
+became the parents
+became the proud parents
+before !POSSESSIVEPRONOUN death
+before !PRONOUNNOMINAL was !NUMS1TO100
+before college
+before matriculating
+birth date
+birthday
+birthdays
+bore !DETERMINER daughter
+bore !DETERMINER son
+born at
+born in
+born in !DETERMINER
+born in !DETERMINER !GEOREGION
+born in Poland
+born inside
+born inside !DETERMINER
+born of
+born of !DETERMINER
+born of the
+born on
+born outside
+born outside !DETERMINER
+born within
+born within sound of Bow bells
+born within the sound of
+born yesterday
+brought !POSSESSIVEPRONOUN to fame
+brought !POSSESSIVEPRONOUN to public attention
+brought !POSSESSIVEPRONOUN to public awareness
+brought !POSSESSIVEPRONOUN to public fame
+brought !POSSESSIVEPRONOUN to public notice
+brought fame to !POSSESSIVEPRONOUN
+brought fame to him
+brought him to fame
+brought him to public attention
+brought him to public awareness
+brought him to public fame
+brought him to public notice
+Brought up in
+but it was not to be
+by months of
+by trade
+by training
+by weeks of
+by years of
+came-of-age
+came of age in
+carried that name
+cement !POSSESSIVEPRONOUN reputation
+cement my reputation
+cement our reputation
+cemented !POSSESSIVEPRONOUN reputation
+cemented my reputation
+cemented our reputation
+cementing !POSSESSIVEPRONOUN reputation
+cementing my reputation
+cementing our reputation
+cements !POSSESSIVEPRONOUN reputation
+cements my reputation
+cements our reputation
+changed !POSSESSIVEPRONOUN family name
+changed !POSSESSIVEPRONOUN given name
+changed !POSSESSIVEPRONOUN name
+childbearing years
+childhood
+childhood's
+childhood's careless days
+childhoods
+climacteric
+climacterics
+climactic
+climactical
+climactically
+cloistered life
+come-of-age
+come of age in
+comes-of-age
+comes of age
+comes of age in
+coming-of-age
+coming of age in
+consent-age
+consent age
+could never be
+couldn't ever
+couldn't know
+dated only on
+dated only on occasion
+dated only when
+daughter of the
+dead at
+dead at !NUMS1TO100
+define !DETERMINER life
+defined !DETERMINER life
+defines !DETERMINER life
+defining !DETERMINER life
+destinies of
+destiny of
+devote !POSSESSIVEPRONOUN life
+devote our lives
+devote their lives
+devoted !POSSESSIVEPRONOUN life
+devoted !POSSESSIVEPRONOUN time
+devoted !POSSESSIVEPRONOUN time to
+devoted our lives
+devoted their lives
+devotes !POSSESSIVEPRONOUN life
+devotes our lives
+devotes their lives
+devoting !POSSESSIVEPRONOUN life
+devoting our lives
+devoting their lives
+die !DETERMINER natural death
+die at !NUMS1TO100
+die at home
+die in !POSSESSIVEPRONOUN boots
+die in harness
+die in my boots
+die of
+die with
+die with !POSSESSIVEPRONOUN boots on
+die with my boots on
+died
+died !DETERMINER natural death
+died at
+died at home
+died by
+died early
+died friday
+died from
+died in
+died in !POSSESSIVEPRONOUN boots
+died in harness
+died in my boots
+died in our boots
+died last
+died last week
+died late
+died monday
+died of
+died on
+died saturday
+died sunday
+died thursday
+died tuesday
+died wednesday
+died with
+died with !POSSESSIVEPRONOUN boots on
+died with my boots on
+died with our boots on
+died yesterday
+dies !DETERMINER natural death
+dies at !NUMS1TO100
+dies at home
+dies in harness
+dies of
+dies with
+drinking-age
+during !POSSESSIVEPRONOUN study at
+during !POSSESSIVEPRONOUN time at
+during puberty
+dying !DETERMINER natural death
+dying at !NUMS1TO100
+dying at home
+dying in !POSSESSIVEPRONOUN boots
+dying in harness
+dying in my boots
+dying in our boots
+dying of
+dying with
+dying with !POSSESSIVEPRONOUN boots on
+dying with my boots on
+dying with our boots on
+e'er
+e'er was
+early in life
+Earn a doctoral degree
+Earn a master?s degree
+earned !DETERMINER bachelor's degree
+earned !DETERMINER doctor of
+earned !DETERMINER doctorate
+earned !DETERMINER master's degree
+earned !DETERMINER PhD
+earned !DETERMINER reputation
+earned !POSSESSIVEPRONOUN bachelor's degree
+earned !POSSESSIVEPRONOUN bachelor's degrees
+earned !POSSESSIVEPRONOUN doctorate
+earned !POSSESSIVEPRONOUN master's degree
+earned !POSSESSIVEPRONOUN master's degrees
+Earned a doctoral degree
+Earned a master?s degree
+earned somewhat of !DETERMINER reputation
+Earning a doctoral degree
+Earning a master?s degree
+Earns a doctoral degree
+Earns a master?s degree
+ebb of life
+educate herself
+educate himself
+educate myself
+educate ourselves
+educate themselves
+educated at
+educated during !DETERMINER
+educated herself
+educated himself
+educated in
+educated myself
+educated ourselves
+educated themselves
+educates herself
+educates himself
+educates myself
+educates ourselves
+educates themselves
+educating herself
+educating himself
+educating myself
+educating ourselves
+educating themselves
+eight-year-old
+eight-year-olds
+eighteen-year-old
+eighty-eight-year-old
+eighty-five-year-old
+eighty-four-year-old
+eighty-nine-year-old
+eighty-one-year-old
+eighty-seven-year-old
+eighty-six-year-old
+eighty-three-year-old
+eighty-two-year-old
+eighty-year-old
+eightysomething
+eld
+eleven-year-old
+ended in divorce
+ended up !DETERMINER
+ended up the
+entered the university of
+ETCH !PRONOUNOBJECTIVE INTO HISTORY
+ETCHed !PRONOUNOBJECTIVE INTO HISTORY
+ETCHes !PRONOUNOBJECTIVE INTO HISTORY
+ETCHING !PRONOUNOBJECTIVE INTO HISTORY
+even took time from !POSSESSIVEPRONOUN day
+event of the century
+eventful
+eventfully
+eventfulness
+events of the century
+eventually began
+eventually would become
+ever
+ever-after
+ever-before
+ever after
+ever again would
+ever been priviledged to know
+ever before
+ever called !POSSESSIVEPRONOUN
+ever called him
+ever dare call !POSSESSIVEPRONOUN
+ever dare call him
+ever dare say to !POSSESSIVEPRONOUN
+ever dare say to him
+ever did
+ever had
+ever had the priviledge
+ever had the priviledge to know
+ever has
+ever has been
+ever have
+ever knowing
+ever once
+ever said to !POSSESSIVEPRONOUN
+ever said to him
+ever so briefly
+ever to
+ever to be
+ever to have
+ever was
+ever would
+ever would have
+everlasting
+everlasting fire
+everlasting flower
+everlasting moment
+everlasting pea
+everlasting thorn
+everlasting torment
+everlastingly
+everlastingness
+evermore
+expected to lead !DETERMINER life
+father's side
+father !DETERMINER
+father !POSSESSIVEPRONOUN
+father !PRONOUNOBJECTIVE
+father of the
+fathered
+fathered !DETERMINER
+fathered !POSSESSIVEPRONOUN
+fathered !PRONOUNOBJECTIVE
+fathering
+fathering !DETERMINER
+fathering !POSSESSIVEPRONOUN
+fathering !PRONOUNOBJECTIVE
+fathers !DETERMINER
+fathers !POSSESSIVEPRONOUN
+fathers !PRONOUNOBJECTIVE
+fifteen-year-old
+fifty-eight-year-old
+fifty-five-year-old
+fifty-four-year-old
+fifty-nine-year-old
+fifty-one-year-old
+fifty-seven-year-old
+fifty-six-year-old
+fifty-three-year-old
+fifty-two-year-old
+fifty-year-old
+fiftysomething
+final book
+final job
+final novel
+final year of college
+first book
+first book of
+first born of
+first breath
+first brought !POSSESSIVEPRONOUN to fame
+first brought him to fame
+first child
+first dance
+first dances
+first date
+first dates
+first husband
+first job
+first kiss
+first kisses
+first met
+first novel
+first prom
+first proms
+first school
+first sleepover
+first sleepovers
+first wife
+first year of college
+five-year-old
+five-year-olds
+for !DETERMINER lifetime
+for !POSSESSIVEPRONOUN eld
+for !POSSESSIVEPRONOUN role in
+for !POSSESSIVEPRONOUN role on
+for comments !PRONOUNNOMINAL made
+for history
+for life
+for lifetimes
+for that special night
+foreign-born
+forever and !DETERMINER day
+forever and aye
+forever to be known
+forever to be known as
+forevermore
+formative years
+former student
+former students
+former teacher
+former teachers
+forty-eight-year-old
+forty-five-year-old
+forty-four-year-old
+forty-nine-year-old
+forty-one-year-old
+forty-seven-year-old
+forty-six-year-old
+forty-three-year-old
+forty-two-year-old
+forty-year-old
+fortysomething
+four-year-old
+four-year-olds
+fourteen-year-old
+fourth husband
+fourth wife
+fourth year of college
+from !DETERMINER first marriage
+from !DETERMINER second marriage
+from !POSSESSIVEPRONOUN divorce
+from !POSSESSIVEPRONOUN first marriage
+from !POSSESSIVEPRONOUN marriage
+from !POSSESSIVEPRONOUN second marriage
+from adulthood
+from childhood
+from everlasting to everlasting
+from here to eternity
+from here to the back of beyond
+from now till doomsday
+further study at
+gained !DETERMINER reputation
+gained somewhat of !DETERMINER reputation
+generations of
+gradually grew apart
+graduate !DETERMINER
+graduate !POSSESSIVEPRONOUN
+graduate !PRONOUNOBJECTIVE
+graduate !RANKNUMBER
+graduated !DETERMINER
+graduated !POSSESSIVEPRONOUN
+graduated !PRONOUNOBJECTIVE
+graduated !RANKNUMBER
+graduated magna cum laude
+graduated with honors
+graduates !DETERMINER
+graduates !POSSESSIVEPRONOUN
+graduates !PRONOUNOBJECTIVE
+graduates !RANKNUMBER
+graduating !DETERMINER
+graduating !POSSESSIVEPRONOUN
+graduating !PRONOUNOBJECTIVE
+graduating !RANKNUMBER
+granddaughter of the
+grandson of the
+grew apart from
+grew away from
+grew old
+grew older
+grew out of
+grew too big for
+grew up
+grew up in
+grew up on
+grew up to
+grew up to become
+grow up in
+growing up in
+growing up on
+growing up,
+grows up in
+had !DETERMINER bright future ahead of !POSSESSIVEPRONOUN
+had !DETERMINER bright future ahead of him
+had !DETERMINER brilliant career ahead of !POSSESSIVEPRONOUN
+had !DETERMINER brilliant career ahead of him
+had !DETERMINER reputation
+had !DETERMINER reputation as
+had !DETERMINER reputation for
+had !NUMS1TO100 brothers
+had !NUMS1TO100 children
+had !NUMS1TO100 daughters
+had !NUMS1TO100 grandchildren
+had !NUMS1TO100 greatgrandchildren
+had !NUMS1TO100 sisters
+had !NUMS1TO100 sons
+had become chairman
+had become the ranking
+had been !DETERMINER associate
+had been !DETERMINER young associate
+had been bequeathed to
+had been chairman
+had been head of
+had been ill
+had been ill with
+had been president
+had been suffering from
+had been suffering with
+had been trained in
+had died of
+had ever had
+had first met
+had its roots in
+had married
+had multiple husbands
+had multiple wives
+had never intended
+had never meant
+had never planned
+had once said
+had roots in
+had since !POSSESSIVEPRONOUN days
+had since !POSSESSIVEPRONOUN days at
+had slipped from her days
+had slipped from his days
+had slipped from its days
+had slipped from their days
+had somewhat of !DETERMINER reputation
+had spent much of !POSSESSIVEPRONOUN adulthood
+had spent much of !POSSESSIVEPRONOUN childhood
+had to grow up in
+happened just once
+happens just once
+has died of
+has lectured
+has lectured at
+has married
+have ever known
+have known !PRONOUNOBJECTIVE for many years
+have known !PRONOUNOBJECTIVE for several years
+have known !PRONOUNOBJECTIVE for years
+he'd amaze
+he'd often say
+he'd often wonder
+he'd say
+he never wanted
+he was brought up
+he was brought up around
+he was known as
+he was known to be
+he was liked
+hebetic
+her first movie
+her legacy
+heyday of youth
+high-birth
+high-born
+high-bred
+high-descended
+high-descent
+high-lineaged
+high birth
+high born
+high descent
+his first movie
+his legacy
+historic brief
+humble beginning
+humble beginnings
+I'll never forget
+in !POSSESSIVEPRONOUN 20s
+in !POSSESSIVEPRONOUN 30s
+in !POSSESSIVEPRONOUN 40s
+in !POSSESSIVEPRONOUN 50s
+in !POSSESSIVEPRONOUN 60s
+in !POSSESSIVEPRONOUN 70s
+in !POSSESSIVEPRONOUN 80s
+in !POSSESSIVEPRONOUN 90s
+in !POSSESSIVEPRONOUN adolescence
+in !POSSESSIVEPRONOUN career
+in !POSSESSIVEPRONOUN current job
+in !POSSESSIVEPRONOUN earlier !TIMEFRAME
+IN !POsSESSIVEPRONOUN EARLIER DAY
+in !POSSESSIVEPRONOUN earliest !TIMEFRAME
+in !POSSESSIVEPRONOUN early-20s
+in !POSSESSIVEPRONOUN early-30s
+in !POSSESSIVEPRONOUN early-40s
+in !POSSESSIVEPRONOUN early-50s
+in !POSSESSIVEPRONOUN early-60s
+in !POSSESSIVEPRONOUN early-70s
+in !POSSESSIVEPRONOUN early-80s
+in !POSSESSIVEPRONOUN early-90s
+in !POSSESSIVEPRONOUN early-teens
+in !POSSESSIVEPRONOUN early 20s
+in !POSSESSIVEPRONOUN early 30s
+in !POSSESSIVEPRONOUN early 40s
+in !POSSESSIVEPRONOUN early 50s
+in !POSSESSIVEPRONOUN early 60s
+in !POSSESSIVEPRONOUN early 70s
+in !POSSESSIVEPRONOUN early 80s
+in !POSSESSIVEPRONOUN early 90s
+in !POSSESSIVEPRONOUN early teens
+in !POSSESSIVEPRONOUN early years
+in !POSSESSIVEPRONOUN eighties
+in !POSSESSIVEPRONOUN fifties
+in !POSSESSIVEPRONOUN forties
+in !POSSESSIVEPRONOUN freshman year
+in !POSSESSIVEPRONOUN innocent time of life
+in !POSSESSIVEPRONOUN junior year
+in !POSSESSIVEPRONOUN late-20s
+in !POSSESSIVEPRONOUN late-30s
+in !POSSESSIVEPRONOUN late-40s
+in !POSSESSIVEPRONOUN late-50s
+in !POSSESSIVEPRONOUN late-60s
+in !POSSESSIVEPRONOUN late-70s
+in !POSSESSIVEPRONOUN late-80s
+in !POSSESSIVEPRONOUN late-90s
+in !POSSESSIVEPRONOUN late-teens
+in !POSSESSIVEPRONOUN late 20s
+in !POSSESSIVEPRONOUN late 30s
+in !POSSESSIVEPRONOUN late 40s
+in !POSSESSIVEPRONOUN late 50s
+in !POSSESSIVEPRONOUN late 60s
+in !POSSESSIVEPRONOUN late 70s
+in !POSSESSIVEPRONOUN late 80s
+in !POSSESSIVEPRONOUN late 90s
+in !POSSESSIVEPRONOUN late teens
+in !POSSESSIVEPRONOUN late years
+in !POSSESSIVEPRONOUN later !TIMEFRAME
+in !POSSESSIVEPRONOUN later years of
+IN !POSSESSIVEPRONOUN LESIURE TIME
+in !POSSESSIVEPRONOUN many addresses
+in !POSSESSIVEPRONOUN many books
+in !POSSESSIVEPRONOUN many speeches
+in !POSSESSIVEPRONOUN memoir
+in !POSSESSIVEPRONOUN memoirs
+in !POSSESSIVEPRONOUN mid-20s
+in !POSSESSIVEPRONOUN mid-30s
+in !POSSESSIVEPRONOUN mid-40s
+in !POSSESSIVEPRONOUN mid-50s
+in !POSSESSIVEPRONOUN mid-60s
+in !POSSESSIVEPRONOUN mid-70s
+in !POSSESSIVEPRONOUN mid-80s
+in !POSSESSIVEPRONOUN mid-90s
+in !POSSESSIVEPRONOUN mid-teens
+in !POSSESSIVEPRONOUN mid 20s
+in !POSSESSIVEPRONOUN mid 30s
+in !POSSESSIVEPRONOUN mid 40s
+in !POSSESSIVEPRONOUN mid 50s
+in !POSSESSIVEPRONOUN mid 60s
+in !POSSESSIVEPRONOUN mid 70s
+in !POSSESSIVEPRONOUN mid 80s
+in !POSSESSIVEPRONOUN mid 90s
+in !POSSESSIVEPRONOUN mid teens
+in !POSSESSIVEPRONOUN middle years
+in !POSSESSIVEPRONOUN most innocent time of life
+in !POSSESSIVEPRONOUN native
+in !POSSESSIVEPRONOUN nineties
+IN !POSSESSIVEPRONOUN OFF TIME
+in !POSSESSIVEPRONOUN own lifetimes
+IN !POSSESSIVEPRONOUN PRIME
+in !POSSESSIVEPRONOUN quiet moments
+in !POSSESSIVEPRONOUN recent work
+IN !POSSESSIVEPRONOUN SALAD DAYS
+in !POSSESSIVEPRONOUN second childhood
+in !POSSESSIVEPRONOUN senior year
+in !POSSESSIVEPRONOUN seventies
+in !POSSESSIVEPRONOUN sixties
+in !POSSESSIVEPRONOUN sophomore year
+IN !POSSESSIVEPRONOUN SPARE TIME
+in !POSSESSIVEPRONOUN studies
+in !POSSESSIVEPRONOUN teens
+in !POSSESSIVEPRONOUN thirties
+IN !POSSESSIVEPRONOUN TIME
+in !POSSESSIVEPRONOUN twenies
+in !RANKNUMBER grade
+IN BETTER TIMES
+in earlier years
+IN FORMER INSTANCES
+IN HAPPIER TIMES
+IN ITS PRIME
+IN ITS TIME
+in later year
+in later years
+in most of !POSSESSIVEPRONOUN decisions
+IN NORMAL TIMES
+in our own lifetimes
+in our times
+in quiet moments
+in rare moments
+IN RECENT MEMORY
+in the !TIMEFRAME since !PRONOUNNOMINAL first
+IN THE PRIME OF LIFE
+in your own lifetime
+induc.
+infra atatem
+innocent time of life
+into !POSSESSIVEPRONOUN eighties
+into !POSSESSIVEPRONOUN fifties
+into !POSSESSIVEPRONOUN forties
+into !POSSESSIVEPRONOUN nineties
+into !POSSESSIVEPRONOUN seventies
+into !POSSESSIVEPRONOUN sixties
+into !POSSESSIVEPRONOUN teens
+into !POSSESSIVEPRONOUN thirties
+into !POSSESSIVEPRONOUN twenties
+into adulthood
+into history
+into manhood
+into which !PRONOUNNOMINAL was born
+into which !PRONOUNNOMINAL was raised
+into womanhood
+it ever would have
+it had been about the time
+it had been around the time
+it was !POSSESSIVEPRONOUN
+it was !POSSESSIVEPRONOUN first marriage
+it was !POSSESSIVEPRONOUN first time
+it was !POSSESSIVEPRONOUN second marriage
+it was !POSSESSIVEPRONOUN third marriage
+it was D-day
+it was D day
+it was never to be
+it was not to be
+it was only !POSSESSIVEPRONOUN second time
+it was only then
+it was only then when
+it was our
+it was this body of work
+it was this research that
+it wasn't like back then
+it wasn't like then
+it wasn't like today
+it would be the last time
+joined the company
+joined the faculty
+joined the firm
+joining the company
+joining the faculty
+joining the firm
+juggled jobs
+juggled jobs at
+juggled teaching jobs at
+known as !DETERMINER
+known as the
+known for
+known for !POSSESSIVEPRONOUN
+last breath
+last known to reside
+last surviving
+late in life
+later explained
+later settled in
+led !DETERMINER life
+led !DETERMINER life of
+led !DETERMINER lifestyle
+left the company
+left the industry
+left the university
+life-long
+life choices
+lifelong
+lifetime
+lifetime of
+lifetimes
+lifetimes of
+like !POSSESSIVEPRONOUN father
+like !POSSESSIVEPRONOUN mother
+little did !PRONOUNNOMINAL know that it would be years
+little did !PRONOUNNOMINAL know that years later
+little did !PRONOUNNOMINAL know that years would pass
+little did we know
+Live apart
+Lived apart
+lived between the years
+lived from the years
+Lives apart
+Living apart
+low-birth
+low-born
+low-bred
+low-descended
+low-descent
+low-lineaged
+low birth
+low descent
+made !POSSESSIVEPRONOUN one of the
+made him one of the
+made its debut on
+man-entered
+man-state
+married
+married to
+marries
+matriculate
+matriculated from
+matriculated into
+matriculated to
+matriculates
+matriculating
+midway through life
+modest beginning
+modest beginnings
+mother's side
+mother of the
+much of !POSSESSIVEPRONOUN life
+native-born
+native-born citizenship
+native-bornness
+native of
+natives of
+natural-born
+never again
+never again would
+never again would !PRONOUNNOMINAL
+never aware it would be the last time
+never be forgotten
+never cease
+never could
+never could get over it
+never did
+never die
+never do
+never end
+never fear
+never feel better
+never finish
+never forget
+never free from
+never got over it
+never had
+never has !PRONOUNNOMINAL
+never have !PRONOUNNOMINAL
+never have I
+never have we
+never have you
+never hear the last of
+never idle
+never in all your born days
+never in my life
+never in the world
+never knew it would be the last time
+never meant to be !DETERMINER
+never meant to be the
+never pursued !DETERMINER career
+never stop
+never stopped
+never stopping
+never stops
+never the same
+never to
+never to be
+never to be erased from the mind
+never to be forgotten
+never to be heard
+never to give it
+never to have
+never to have been
+never to return
+never went in for
+never would be
+nine-year-old
+nine-year-olds
+nineteen-year-old
+ninety-eight-year-old
+ninety-five-year-old
+ninety-four-year-old
+ninety-nine-year-old
+ninety-one-year-old
+ninety-seven-year-old
+ninety-six-year-old
+ninety-three-year-old
+ninety-two-year-old
+ninety-year-old
+ninetysomething
+noble-birth
+noble-born
+noble birth
+noble rank or birth
+of !DETERMINER certain age
+of !DETERMINER life
+of !POSSESSIVEPRONOUN !NUMS1TO100 years
+of !POSSESSIVEPRONOUN career
+of !POSSESSIVEPRONOUN last years
+of !POSSESSIVEPRONOUN time
+of !POSSESSIVEPRONOUN times
+of !POSSESSIVEPRONOUN youth
+of age
+of full age
+of marriageable age
+of ripe age
+of the !RANKNUMBER century
+of the entire century
+off-camera
+off camera
+old-bachelorship
+old-ladyhood
+on-camera
+on camera
+on one occasion
+on returning to
+on the brink of adolescence
+on the brink of adulthood
+on the brink of manhood
+on the verge of !DETERMINER new era
+once-
+once-fatal
+once believed to be
+once described
+once described as
+once thought to be
+once understood to be
+once used
+once used to
+once widely used
+once would
+one-hundred-eight-year-old
+one-hundred-five-year-old
+one-hundred-four-year-old
+one-hundred-nine-year-old
+one-hundred-one-year-old
+one-hundred-seven-year-old
+one-hundred-six-year-old
+one-hundred-three-year-old
+one-hundred-two-year-old
+one-hundred-year-old
+one-year-old
+one-year-olds
+one of !NUMS1TO100 children
+one of !POSSESSIVEPRONOUN best known
+one of !POSSESSIVEPRONOUN first
+one of !POSSESSIVEPRONOUN most famous
+one of !POSSESSIVEPRONOUN very first
+one of the first times
+one of the last times
+one of the most interesting figures
+one of the most polarizing figures
+our lives
+over !DETERMINER lifetime
+over the destiny
+over the destiny of
+paid !POSSESSIVEPRONOUN way through
+pauper-born
+pauper-bred
+plate of history
+plates of history
+prime of life
+published !POSSESSIVEPRONOUN !RANKNUMBER
+published !POSSESSIVEPRONOUN first book
+published !POSSESSIVEPRONOUN second book
+published !POSSESSIVEPRONOUN third book
+pursue careers
+pursue her studies
+Pursue his studies
+pursue their studies
+pursued !DETERMINER career
+pursued careers
+pursued her studies
+Pursued his studies
+pursued their studies
+pursues careers
+pursues her studies
+Pursues his studies
+pursues their studies
+pursuing careers
+pursuing her studies
+Pursuing his studies
+pursuing their studies
+raised in
+raised in !DETERMINER
+raised to be
+raised to have
+raised to think
+ran as !DETERMINER candidate
+rarely asked to
+rarely dated
+reach adulthood
+reach manhood
+reach maturity
+reach t!GOy-one
+reach the age of
+reach the age of consent
+reach voting age
+reach womanhood
+reach your majority
+reached adulthood
+reached manhood
+reached maturity
+reached t!GOy-one
+reached the age of
+reached the age of consent
+reached voting age
+reached womanhood
+reached your majority
+reaches adulthood
+reaches manhood
+reaches maturity
+reaches t!GOy-one
+reaches the age of
+reaches the age of consent
+reaches voting age
+reaches womanhood
+reaches your majority
+reaching adulthood
+reaching manhood
+reaching maturity
+reaching t!GOy-one
+reaching the age of
+reaching the age of consent
+reaching voting age
+reaching womanhood
+reaching your majority
+reading age
+reared at
+reared in
+reared to
+reared to be
+reared to have
+recall !POSSESSIVEPRONOUN father
+recall !POSSESSIVEPRONOUN father's
+recall !POSSESSIVEPRONOUN mother
+recall !POSSESSIVEPRONOUN mother's
+recall our father
+recall our father's
+recall our mother
+recall our mother's
+recall your father
+recall your father's
+recall your mother
+recall your mother's
+recalled !POSSESSIVEPRONOUN father
+recalled !POSSESSIVEPRONOUN father's
+recalled !POSSESSIVEPRONOUN mother
+recalled !POSSESSIVEPRONOUN mother's
+recalled our father
+recalled our father's
+recalled our mother
+recalled our mother's
+recalled your father
+recalled your father's
+recalled your mother
+recalled your mother's
+recalling !POSSESSIVEPRONOUN father
+recalling !POSSESSIVEPRONOUN father's
+recalling !POSSESSIVEPRONOUN mother
+recalling !POSSESSIVEPRONOUN mother's
+recalling our father
+recalling our father's
+recalling our mother
+recalling our mother's
+recalling your father
+recalling your father's
+recalling your mother
+recalling your mother's
+recalls !POSSESSIVEPRONOUN father
+recalls !POSSESSIVEPRONOUN father's
+recalls !POSSESSIVEPRONOUN mother
+recalls !POSSESSIVEPRONOUN mother's
+recalls our father
+recalls our father's
+recalls our mother
+recalls our mother's
+recalls your father
+recalls your father's
+recalls your mother
+recalls your mother's
+received !DETERMINER bachelor's degree
+received !DETERMINER doctorate
+received !DETERMINER fellowship
+received !DETERMINER master's degree
+received !DETERMINER newbery award
+received !DETERMINER scholarship
+received !POSSESSIVEPRONOUN B.A.
+received !POSSESSIVEPRONOUN BA
+received !POSSESSIVEPRONOUN bachelor's degree
+received !POSSESSIVEPRONOUN doctor's degree
+received !POSSESSIVEPRONOUN M.A.
+received !POSSESSIVEPRONOUN MA
+received !POSSESSIVEPRONOUN master's degree
+received !POSSESSIVEPRONOUN Ph.D.
+received !POSSESSIVEPRONOUN PhD
+receiving !POSSESSIVEPRONOUN B.A.
+receiving !POSSESSIVEPRONOUN BA
+receiving !POSSESSIVEPRONOUN M.A.
+receiving !POSSESSIVEPRONOUN MA
+receiving !POSSESSIVEPRONOUN Ph.D.
+receiving !POSSESSIVEPRONOUN PhD
+rejected fellowships
+rejected scholarships
+rejecting appointments at
+rejecting fellowships
+rejecting scholarships
+remained in the role
+remarried
+remember !POSSESSIVEPRONOUN father
+remember !POSSESSIVEPRONOUN father's
+remember !POSSESSIVEPRONOUN mother
+remember !POSSESSIVEPRONOUN mother's
+remember our father
+remember our father's
+remember our mother
+remember our mother's
+remember your father
+remember your father's
+remember your mother
+remember your mother's
+remembered !POSSESSIVEPRONOUN father
+remembered !POSSESSIVEPRONOUN father's
+remembered !POSSESSIVEPRONOUN mother
+remembered !POSSESSIVEPRONOUN mother's
+remembered our father
+remembered our father's
+remembered our mother
+remembered our mother's
+remembered your father
+remembered your father's
+remembered your mother
+remembered your mother's
+remembering !POSSESSIVEPRONOUN father
+remembering !POSSESSIVEPRONOUN father's
+remembering !POSSESSIVEPRONOUN mother
+remembering !POSSESSIVEPRONOUN mother's
+remembering our father
+remembering our father's
+remembering our mother
+remembering our mother's
+remembering your father
+remembering your father's
+remembering your mother
+remembering your mother's
+remembers !POSSESSIVEPRONOUN father
+remembers !POSSESSIVEPRONOUN father's
+remembers !POSSESSIVEPRONOUN mother
+remembers !POSSESSIVEPRONOUN mother's
+remembers our father
+remembers our father's
+remembers our mother
+remembers our mother's
+remembers your father
+remembers your father's
+remembers your mother
+remembers your mother's
+reputation as
+reputation as !DETERMINER
+reputation as the
+retirement-age
+retirement age
+ripe age
+ripe ages
+ripe old age
+riper years
+rise to the office
+rise to the position
+rises TO the office
+rises TO the position
+rises TO the throne
+rising generation
+rising generations
+rising TO the office
+rising TO the position
+rising TO the throne
+rose to the office
+rose TO the position
+rose TO the throne
+said in !DETERMINER interview
+said in !DETERMINER recent interview
+school-age
+school-aged
+school-bred
+schooled-in
+schooled at
+second child
+second husband
+second wife
+second year of college
+seedtime of life
+seldom ever
+seldom if ever
+self-educated
+self-taught
+self-taught in
+served as chairmman
+serving as chairman
+set in her ways
+set in his ways
+set in our ways
+set in their ways
+set on being
+set on doing
+set on giving
+set on having
+set on learning
+seven-year-old
+seven-year-olds
+seventeen-year-old
+seventy-eight-year-old
+seventy-five-year-old
+seventy-four-year-old
+seventy-nine-year-old
+seventy-one-year-old
+seventy-seven-year-old
+seventy-six-year-old
+seventy-three-year-old
+seventy-two-year-old
+seventy-year-old
+seventysomething
+shape !DETERMINER life
+shaped !DETERMINER life
+shapes !DETERMINER life
+shaping !DETERMINER life
+she'd amaze
+she'd often say
+she'd often wonder
+she'd say
+she never wanted
+she was brought up
+she was brought up around
+she was known as
+she was known to be
+she was liked
+since !POSSESSIVEPRONOUN childhood
+since !POSSESSIVEPRONOUN days
+since !POSSESSIVEPRONOUN days at
+since !PRONOUNNOMINAL was !NUMS1TO100
+SINCE !PRONOUNNOMINAL WAS KNEE HIGH TO !DETERMINER GRASSHOPPER
+since !PRONOUNNOMINAL were !NUMS1TO100
+since adulthood
+since birth
+since childhood
+since college
+since early adulthood
+since early childhood
+since elementary school
+since first
+since grade school
+since high school
+since kindergarten
+since late adulthood
+since late childhood
+since our childhood
+since your childhood
+six-year-old
+six-year-olds
+sixteen-year-old
+sixty-eight-year-old
+sixty-five-year-old
+sixty-four-year-old
+sixty-nine-year-old
+sixty-one-year-old
+sixty-seven-year-old
+sixty-six-year-old
+sixty-three-year-old
+sixty-two-year-old
+sixty-year-old
+sixtysomething
+son of the
+special night
+spend !POSSESSIVEPRONOUN life
+spend more than decade
+spend much of !POSSESSIVEPRONOUN life
+spend our lives
+spend the better part of !DETERMINER decade
+spend their lives
+spending !POSSESSIVEPRONOUN life
+spending more than !DETERMINER decade
+spending much of !POSSESSIVEPRONOUN life
+spending our lives
+spending the better part of !DETERMINER decade
+spending their lives
+spends !POSSESSIVEPRONOUN life
+spends more than !DETERMINER decade
+spends much of !POSSESSIVEPRONOUN life
+spends our lives
+spends the better part of !DETERMINER decade
+spends their lives
+spent !POSSESSIVEPRONOUN life
+spent more than !DETERMINER decade
+spent much of !POSSESSIVEPRONOUN adulthood
+spent much of !POSSESSIVEPRONOUN childhood
+spent much of !POSSESSIVEPRONOUN life
+spent our lives
+spent the better part of !DETERMINER decade
+spent their lives
+springtide of life
+springtides of life
+springtime of life
+springtimes of life
+started !DETERMINER career
+started !DETERMINER family
+started !DETERMINER home
+started !DETERMINER job
+STARTED A NEW
+started afresh
+started anew
+Started at
+started college
+started in
+started in !DETERMINER
+started in !DETERMINER new
+started in on
+started off
+started over !DETERMINER
+started over this
+started school
+stayed in the role
+still green
+still inexperienced
+still raw behind the ears
+still wet under the ears
+survive !POSSESSIVEPRONOUN
+survive across
+survive between
+survive beyond
+survive him
+survived across
+survived among
+survived between
+survived beyond
+survived by !POSSESSIVEPRONOUN
+survived from
+survived with
+survives
+survives !POSSESSIVEPRONOUN
+survives across
+survives between
+survives beyond
+survives him
+surviving
+surviving !POSSESSIVEPRONOUN
+surviving across
+surviving between
+surviving beyond
+surviving him
+taught at
+taught at the university of
+taught journalism at
+teaching days
+teenage life
+ten-year-old
+ten-year-olds
+tender-aged
+tender age
+tender ages
+that !PRONOUNNOMINAL first saw
+that book, which won
+that would eventually
+that would eventually become
+that would later
+that would later appear
+that would later be
+that would soon be
+that would soon become
+the apparent cause was !DETERMINER heart attack
+the author of
+the cause of death
+the cause was !DETERMINER heart attack
+the cause was !DETERMINER stroke
+the cause was aids
+the cause was breast cancer
+the cause was cancer
+the cause was complications from
+the cause was complications of
+the daughter of
+the death of
+the destiny of
+the director of
+the first Mrs.
+the granddaughter of
+the grandfather of
+the grandmother of
+the grandson of
+the great grandaughter of
+the great grandfather of
+the great grandmother of
+the great grandson of
+the happiness it would bring
+the joy it would bring
+the late years
+the life and time
+the life and times
+the life choices
+the longtime
+the message of !POSSESSIVEPRONOUN work
+the middle years
+the proud parents
+the remainder of !POSSESSIVEPRONOUN life
+the remainder of our lives
+the remainder of their lives
+the remainder of your life
+the rest of !POSSESSIVEPRONOUN life
+the rest of our lives
+the rest of their lives
+the rest of your life
+the son of
+the story of !POSSESSIVEPRONOUN life
+the theme of !POSSESSIVEPRONOUN work
+the theme running through !POSSESSIVEPRONOUN
+the theme running throughout !POSSESSIVEPRONOUN
+their lives
+their resignations
+their retirements
+themes running through !POSSESSIVEPRONOUN
+themes running throughout !POSSESSIVEPRONOUN
+then settled in
+there ever
+there ever has been
+THERE EVER IS
+there ever was
+there ever would be
+they'd amaze
+they'd often say
+they'd often wonder
+they'd say
+third child
+third husband
+third wife
+third year of college
+thirteen-year-old
+thirty-eight-year-old
+thirty-five-year-old
+thirty-four-year-old
+thirty-nine-year-old
+thirty-one-year-old
+thirty-seven-year-old
+thirty-six-year-old
+thirty-three-year-old
+thirty-two-year-old
+thirty-year-old
+thirtyish
+thirtysomething
+three-year-old
+three-year-olds
+throne-born
+throughout !POSSESSIVEPRONOUN life
+time of !POSSESSIVEPRONOUN life
+time of !POSSESSIVEPRONOUN life when
+time of life
+to !POSSESSIVEPRONOUN  heirs
+to !POSSESSIVEPRONOUN  heirs and assigns
+to !POSSESSIVEPRONOUN executors and assigns
+to adulthood
+to be known
+to be known as
+to childhood
+to history
+to lead !DETERMINER life
+took !DETERMINER job as
+took !DETERMINER stint on
+took !DETERMINER stint with
+took !POSSESSIVEPRONOUN post at
+took !POSSESSIVEPRONOUN post in
+took over the management
+took over the management of
+took the name
+took the stage name
+trained at
+turned !NUMS1TO100
+twelve-year-old
+twenty-eight-year-old
+twenty-five-year-old
+twenty-four-year-old
+twenty-nine-year-old
+twenty-one-year-old
+twenty-seven-year-old
+twenty-six-year-old
+twenty-three-year-old
+twenty-two-year-old
+twenty-year-old
+twentysomething
+two-year-old
+two-year-olds
+unaware of it being the last time
+unaware that it would be the last time
+uneducated in
+unmarried
+unmarried person
+unmarried persons
+until !POSSESSIVEPRONOUN last illness
+until !POSSESSIVEPRONOUN retirement
+until !PRONOUNNOMINAL turned
+until !PRONOUNNOMINAL was !NUMS1TO100
+untrained in
+unversed in
+up to that point
+UP TO THIS DAY
+upon !POSSESSIVEPRONOUN relocating to
+upon !POSSESSIVEPRONOUN relocation to
+upon !POSSESSIVEPRONOUN relocaton to
+upon !POSSESSIVEPRONOUN returning to
+upon being selected
+upon having been selected
+upon learning of !POSSESSIVEPRONOUN
+UPON RETURNING
+upon the heels of
+upon their
+USHER IN !DETERMINER time
+USHERED IN !DETERMINER time
+USHERING IN !DETERMINER time
+USHERS IN !DETERMINER time
+verge of !DETERMINER
+versed in
+voting-age
+was !DETERMINER co-founder
+was !DETERMINER co-founder of
+was !DETERMINER consultant to
+was !DETERMINER emeritus professor
+was !DETERMINER founder
+was !DETERMINER founder of
+was !DETERMINER mentor of
+was !DETERMINER mentor to
+was !DETERMINER professor
+was !DETERMINER reporter
+was !DETERMINER student of
+was !DETERMINER teacher of
+was !NUMS1TO100 years !POSSESSIVEPRONOUN junior
+was !NUMS1TO100 years !POSSESSIVEPRONOUN senior
+was about to happen
+was about to to
+WAS ACCUSTOMED TO
+was active in
+was all but certain
+was all but final
+was all over
+was all over.
+was also !DETERMINER reporter
+was also the editor
+WAS ALWAYS MINDFUL THAT
+was bequeathed to
+was best known
+was best known for
+was born
+was born Apr
+was born April
+was born at
+was born Aug
+was born August
+was born Dec
+was born December
+was born Feb
+was born Feburary
+was born in
+was born into
+was born Jan
+was born January
+was born July
+was born June
+was born Mar
+was born March
+was born May
+was born Nov
+was born November
+was born Oct
+was born October
+was born on
+was born Sept
+was born September
+was born to
+was born with
+was called to the bar
+was destined
+was discovered by
+was divorced
+was divorced from
+was earlier !DETERMINER
+was earlier !DETERMINER different
+was elected captain
+was elected head
+was elected president
+was elected to
+was ever to be
+was fated
+WAS FOLLOWED BY
+was inspired by
+was inspired to
+was keeping it for that night
+was known for
+was known to
+was later !DETERMINER
+was later !DETERMINER different
+was later to become
+was named after !POSSESSIVEPRONOUN
+was never to
+was not then
+was often cast as
+was one of the co-authors
+was one of the few
+was one of the rare
+was orphaned
+was over.
+was partnered with
+was president
+was president of !POSSESSIVEPRONOUN class
+was raised in
+was remembered
+was replaced as
+was so often cast
+was so often cast as
+was soon
+was soon to
+was spotted by
+was summoned to duty
+was summoned to report
+was teamed with
+was the author
+was the author of
+was the co-author
+was the directer of
+was the editor
+was the inventor of
+was the producer of
+was the writer of
+was then
+was tried for
+was voted into
+was widowed
+way back to
+we ever would have
+we had been members
+we had been members of
+we never
+WE NO LONGER
+were about to do
+were about to happen
+WERE ACCUSTOMED TO
+were born into
+were born with
+WERE THEN
+WERE YET TO COME
+WHAT'S ON THE HORIZON
+what !PRONOUNNOMINAL called !POSSESSIVEPRONOUN
+what !PRONOUNNOMINAL often called !POSSESSIVEPRONOUN
+what !PRONOUNNOMINAL once described as
+what !PRONOUNNOMINAL would often call !POSSESSIVEPRONOUN
+WHAT HAD ONCE BEEN
+what has since
+what has since become
+what has since become known
+what today would
+what today would be
+what today would be called
+when !PRONOUNNOMINAL was !DETERMINER child
+when !PRONOUNNOMINAL was !DETERMINER infant
+when !PRONOUNNOMINAL was !DETERMINER toddler
+when !PRONOUNNOMINAL was !NUMS1TO100
+when !PRONOUNNOMINAL was OLD
+when !PRONOUNNOMINAL was OLDER
+when !PRONOUNNOMINAL was only !NUMS1TO100
+when !PRONOUNNOMINAL was still green
+when !PRONOUNNOMINAL was still tender
+when !PRONOUNNOMINAL was still young
+when !PRONOUNNOMINAL was young
+when !PRONOUNNOMINAL was younger
+when !PRONOUNNOMINAL were still young
+when !PRONOUNNOMINAL were young
+when his father died
+when his mother died
+when interviewed for
+when still young
+where !POSSESSIVEPRONOUN commitment
+where !POSSESSIVEPRONOUN interest in
+where !POSSESSIVEPRONOUN teachers included
+where !PRONOUNNOMINAL graduated
+where !PRONOUNNOMINAL had taught
+where !PRONOUNNOMINAL studied
+where !PRONOUNNOMINAL was at in !POSSESSIVEPRONOUN life
+where !PRONOUNNOMINAL were at in their lives
+where I was at in my life
+where we were at in our lives
+where you were at in your life
+which would later
+which would later appear
+which would later be
+while studying at
+who contributed articles to
+who contributed features to
+who graduated
+who had joined the faculty
+who had quietly won
+who had won
+who had worked for
+who have known !POSSESSIVEPRONOUN for years
+who have known him for years
+who joined the company
+who never
+who was !DETERMINER
+who was known as
+who was known to be
+who was later to become
+who was reputed
+who worked as !DETERMINER
+who worked for
+who worked there as
+who would become
+who would become !POSSESSIVEPRONOUN
+who would prove
+who would someday
+who would turn out to be
+whom !PRONOUNNOMINAL had earlier
+whom !PRONOUNNOMINAL later
+whom !PRONOUNNOMINAL married
+widowed
+widowed and with !DETERMINER baby
+widowed and with !DETERMINER child
+widowed and with !DETERMINER young child
+widowed and with children
+widowed in
+with !DETERMINER degree in
+with !DETERMINER new baby
+with !POSSESSIVEPRONOUN death
+with !POSSESSIVEPRONOUN fondness for
+with !POSSESSIVEPRONOUN passing
+with degrees in
+without !POSSESSIVEPRONOUN ever knowing
+without my ever knowing
+without our ever knowing
+without your ever knowing
+worked !POSSESSIVEPRONOUN way through
+worked as !DETERMINER
+worked briefly on
+worked on
+working as !DETERMINER
+working as !DETERMINER cashier
+would be remembered
+would become !POSSESSIVEPRONOUN most
+would become !POSSESSIVEPRONOUN signature
+would during !POSSESSIVEPRONOUN childhood
+would during childhood
+would ever be the same
+would ever be the same again
+would forever
+would forever be
+would forever change !POSSESSIVEPRONOUN
+would from that day forward
+would from then on
+would go their separate ways
+would grow apart
+would henceforth
+would henceforth be
+would make !POSSESSIVEPRONOUN one of the
+would make him one of the
+would never
+would never again
+would never again be
+would never again feel
+would never again feel the same
+would never be
+would never be !DETERMINER first
+would never be close
+would never be close again
+would never be the same
+would never feel the same
+would never know
+would never see one another again
+would not ever
+would not ever again
+would prove fortunate for !POSSESSIVEPRONOUN
+would prove fortunate for him
+would prove to be !DETERMINER
+would prove to be !POSSESSIVEPRONOUN
+would seal !POSSESSIVEPRONOUN fate
+wrote !NUMS1TO100
+wrote !NUMS1TO100 books
+wrote !NUMS1TO100 novels
+wrote more than !NUMS1TO100 books
+wrote over !NUMS1TO100 books
+wrote over !NUMS1TO100 novels
+you'd converse with !POSSESSIVEPRONOUN
+you'd converse with him
+you'd interact with !POSSESSIVEPRONOUN
+you'd interact with him
+you'd talk with !POSSESSIVEPRONOUN
+you'd talk with him
+you'd walk with !POSSESSIVEPRONOUN
+you'd walk with him
+you ever would have
+you have ever
+you never would
+young and green
+young and inexperienced

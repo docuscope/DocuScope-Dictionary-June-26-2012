@@ -1,0 +1,873 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER ODD MAN OUT
+!AUX !DETERMINER ONE
+!AUX !DETERMINER ONE AND ONLY
+!AUX !DETERMINER ONLY
+!AUX !DETERMINER ONLY WAY
+!AUX !DETERMINER special
+!AUX but
+!AUX exceptional in being
+!AUX exceptional with
+!AUX peculiar
+!AUX peculiarly
+!DETERMINER all but
+!DETERMINER exception of
+!DETERMINER exceptional
+!DETERMINER few
+!DETERMINER few exceptions
+!DETERMINER lone one
+!DETERMINER one and only
+!DETERMINER one and only who
+!DETERMINER one and only whom
+!DETERMINER one exception
+!DETERMINER one whom
+!DETERMINER only
+!DETERMINER only animal
+!DETERMINER only animal that blushes
+!DETERMINER only animals
+!DETERMINER only animals that blush
+!DETERMINER only aunt
+!DETERMINER only case
+!DETERMINER only cousin
+!DETERMINER only daughter
+!DETERMINER only father
+!DETERMINER only game
+!DETERMINER only game in town
+!DETERMINER only grandfather
+!DETERMINER only grandmother
+!DETERMINER only mother
+!DETERMINER only nephew
+!DETERMINER only niece
+!DETERMINER only one
+!DETERMINER only one of its kind
+!DETERMINER only one to
+!DETERMINER only one to have
+!DETERMINER only one who
+!DETERMINER only one whom
+!DETERMINER only person to
+!DETERMINER only recourse
+!DETERMINER only son
+!DETERMINER only son of mary
+!DETERMINER only thing
+!DETERMINER only thing !PRONOUNNOMINAL !MODAL do
+!DETERMINER only thing remaining
+!DETERMINER only thing sticking out
+!DETERMINER only time
+!DETERMINER only uncle
+!DETERMINER only universal
+!DETERMINER only universal tongue
+!DETERMINER only universals
+!DETERMINER only way
+!DETERMINER only way out of this is to
+!DETERMINER only way out of this mess is to
+!DETERMINER only ways
+!DETERMINER single
+!DETERMINER single one
+!DETERMINER single separate person
+!DETERMINER single time
+!DETERMINER sole
+!DETERMINER sole one
+!DETERMINER sole person to
+!DETERMINER sole time
+!DETERMINER solitary
+!DETERMINER special case
+!DETERMINER special few
+!DETERMINER specials
+!DETERMINER unique
+!DETERMINER uniquely
+!DETERMINER very few
+!DETERMINER very one
+!DETERMINER very one to
+!DETERMINER very one to have
+!DETERMINER very one who
+!DETERMINER very one whom
+!DETERMINER very ones who
+!MAKE an exception
+!POSSESSIVEPRONOUN only
+!PULL !DETERMINER lone oar
+, all but
+, bar !DETERMINER
+, bar !POSSESSIVEPRONOUN
+, bar !PRONOUNNOMINAL
+, barring
+, save
+, save perhaps
+. all but
+. apart from
+. barring !DETERMINER
+. but for !DETERMINER
+. but for her
+. but for his
+. but for their
+. other than
+. with !DETERMINER exception
+. with !DETERMINER exception of
+. with !DETERMINER exceptions
+. with !DETERMINER exceptions of
+; apart from
+all but
+all by itself
+All to herself
+All to himself
+all to itself
+All to myself
+All to ourselves
+All to themselves
+although in !DETERMINER case of
+an all but
+an exception
+an exceptional
+an exceptional character
+an exceptional person
+an exclusive
+and excepting whom
+any other time
+anyone but
+anyone else would have
+anyone other than
+anything fits but
+anything other than
+are !DETERMINER only
+are few
+are few and far between
+are one of !DETERMINER few
+as few
+as few as
+as no other
+as seldom
+aside from
+asterisked
+asterisking
+at least one
+at most one
+atypical
+atypically
+be anything but
+became !DETERMINER single
+become !DETERMINER single
+becomes !DETERMINER single
+becoming !DETERMINER single
+besides !DETERMINER
+besides her
+besides him
+besides me
+besides them
+beyond !DETERMINER expected
+beyond expectations
+break all precedent
+break precedent
+breaking all precedent
+breaking precedent
+breaks all precedent
+breaks precedent
+bring only
+bringing only
+brings only
+broke all precedent
+broke precedent
+brought only
+but !DETERMINER single
+but !DETERMINER single other
+but breath and shadow
+but for
+but for !DETERMINER
+but for !DETERMINER exception of
+but in !DETERMINER case of
+but one
+but that !DETERMINER
+can be !DETERMINER only
+completely conventional
+curious exception
+custom builder
+custom tailor
+custom work
+custom worker
+customized for
+did only
+did only about
+distinctive feature
+distinctive features
+each is all
+elite
+elites
+every other time
+everybody but
+everyone but
+everyone except
+everyone excepting
+everything but
+everything except
+everything excepting
+except
+except !DETERMINER
+except !MOTIONPREP
+except !POSSESSIVEPRONOUN
+except !PRONOUNOBJECTIVE
+except as
+except at
+except comfort food
+except crying
+except food
+except for
+except for !DETERMINER
+except for when
+except in
+except laughing
+except sleep
+except when
+except where
+except with
+excepted
+excepting
+excepting !DETERMINER
+excepting at
+excepting for
+excepting when
+excepting where
+exception
+exception proving !DETERMINER rule
+exceptionable
+exceptionably
+exceptional case
+exceptional of
+exceptionalities
+exceptionality
+exceptionalness
+exceptions
+exceptive
+excepts
+exclude from
+excluded from
+excludes from
+exclusive
+exclusive of
+exclusive possession
+exclusive possession of
+exclusive possessions
+exclusive representation
+exclusive representations
+exclusive rights to
+exclusive to
+exclusively
+exclusiveness
+exclusives
+exclusives to
+exclusivity
+exempt
+exempt from
+exempt her from
+exempt him from
+exempt them from
+exempted her from
+exempted him from
+exempted them from
+exemptible
+exempting
+exempting from
+exempting her frm
+exempting him frm
+exempting them frm
+exemption
+exemption from
+exemption from hostilities
+exemptions
+exemptions from
+exempts from
+exempts her from
+exempts him from
+exempts them from
+exluding from
+extraordinary jubilee
+extraordinary jubilees
+extraordinary ray
+extraordinary rays
+extraordinary wave
+extraordinary waves
+extraordinary worth
+extreme case
+extreme cases
+eyes only for
+few if any
+few, if any
+find all but
+finding all but
+finds all but
+first student to
+for !POSSESSIVEPRONOUN own
+for !POSSESSIVEPRONOUN very own
+for its own purpose
+found all but
+from anyone else
+had it not been for
+has !DETERMINER only
+have had !DETERMINER only
+he alone
+he is !DETERMINER only
+he is all
+however in !DETERMINER case of
+I alone
+in !DETERMINER class by herself
+in !DETERMINER class by himself
+in !DETERMINER class by itself
+in !DETERMINER class by myself
+in !DETERMINER class by ourselves
+in !DETERMINER class by themselves
+in !DETERMINER singular
+in !DETERMINER singularity
+in !POSSESSIVEPRONOUN singularity
+in and of itself
+in extreme cases
+in infrequent cases
+in its singularity
+in just one context
+in just one situation
+in remote cases
+IN WHAT !MODAL ONLY
+IN WHAT !MODAL ONLY BE
+IN WHAT CAN ONLY
+IN WHAT CAN ONLY BE
+IN WHAT COULD ONLY
+IN WHAT COULD ONLY BE
+in what is otherwise
+in what was otherwise
+infrequence
+infrequency
+infrequent
+infrequent case
+infrequent cases
+infrequently
+irregular
+irregular in
+irregular in shape
+irregularities
+irregularity
+irregularly
+irregulars
+is !DETERMINER only
+is few
+is few and far between
+is one of !DETERMINER few
+is the only
+IT !AUX !DETERMINER ONLY
+IT !AUX UNIQUE
+IT !AUX UNIQUE IN
+it alone
+just once did
+just once do
+just once have
+just once was
+just one time
+just with
+just within !DETERMINER
+left !DETERMINER grind
+left !DETERMINER grind behind
+left !DETERMINER rat race
+left !DETERMINER rat race behind
+left behind !DETERMINER grind
+left behind !DETERMINER rat race
+like no other
+lone
+lone-wolf
+lone-wolves
+lone wolf
+lone wolves
+lone woman
+lone women
+loneness
+march to !DETERMINER beat of !POSSESSIVEPRONOUN own drummer
+march to !POSSESSIVEPRONOUN own tune
+might be !DETERMINER only
+more than anyone else
+more than ordinary
+move beyond all precedent
+move beyond precedent
+moved beyond all precedent
+moved beyond precedent
+moves beyond all precedent
+moves beyond precedent
+moving beyond all precedent
+moving beyond precedent
+my only
+never has !DETERMINER
+never have !DETERMINER
+no one but
+no one else besides
+no one other than
+no other
+no other than
+non-conforming
+none-so-pretties
+none-so-pretty
+none else
+none else than
+none more than
+none other
+none other than
+none other than !DETERMINER
+none so
+not at all ordinary
+not at all typical
+not like !DETERMINER rest
+NOT WHAT !INDEFINITEADDRESSEE !AUX USED TO
+NOT WHAT MOST OF US !AUX USED TO
+NOT WHAT YOU ARE USED TO
+notable exception
+noteworthy exception
+nothing except
+nothing except !DETERMINER
+odd horse
+odd horses
+odd man out
+odd men out
+ODD PERSON OUT
+off !DETERMINER beaten path
+off !DETERMINER beaten paths
+off !DETERMINER beaten track
+off !DETERMINER beaten tracks
+off !DETERMINER beaten trail
+off !DETERMINER beaten trails
+on its own
+one-of-a-kind
+one-of-its-kind
+one and only
+one exception
+one in !DETERMINER way
+one in ten thousand
+one of a kind
+one of its kind
+only-begotten
+only !DETERMINER few
+only begotten
+only by
+only by !DETERMINER
+only case
+only case of
+only he
+only if
+only if !DETERMINER
+only it
+only once
+only once in !DETERMINER blue moon
+only once in !DETERMINER while
+only one
+only one can
+only one may
+only one or two
+only one other
+only one other option
+only one should
+only one time
+only one to
+only one to be
+only one to have
+only one to have been
+only one who
+only one will
+only ones
+only place
+only place to
+only recourse
+only room
+only room to
+only she
+only sometimes
+only these
+only they
+only time
+only time to
+only under !DETERMINER condition
+only under !DETERMINER condition that
+only unless
+only way
+only way to
+only ways
+only when
+only with
+other than !DETERMINER case when
+other than !DETERMINER single
+other than one
+other than one in paticular
+other than perhaps
+our only
+out of !DETERMINER ordinary
+out of !DETERMINER routine
+outside !DETERMINER mainstream
+outside of maybe
+outside of one
+outside of one or two
+outside of perhaps
+paranormal
+PECULIAR
+peculiar expression
+peculiar expressions
+peculiar institution
+peculiar institutions
+peculiar people
+peculiar peoples
+peculiar thing
+peculiar things
+peculiar to
+peculiar trait
+peculiar traits
+peculiarities of
+PECULIARLY
+PECULIARLY to
+perhaps other than
+preternatural
+preternaturally
+preternaturalness
+radical departure
+radical departures
+rare
+rare-bred
+rare-featured
+rare-felt
+rare-gifted
+rare-painted
+rare-qualitied
+rare-ripe
+rare-seen
+rare-shaped
+rare bird
+rare birds
+rare book
+rare books
+rare earth
+rare earths
+rare exception
+rare gas
+rare gases
+rare good humor
+rare good humors
+rare metal
+rare metals
+rarefied
+rarefies
+rarefy
+rarefying
+rarely
+rarely !AUX
+rarely !AUX !DETERMINER
+rarely can
+rarely do
+rarely does
+rarely should
+rareness
+rarest
+rarified
+rarifies
+rarify
+rarifying
+rarities
+rarity
+remote case
+remote cases
+restricted class
+restricted classes
+restricted information
+restricted practice
+restricted practices
+save !DETERMINER few exceptions
+save !DETERMINER intervention of
+save !DETERMINER necessity
+save for
+save for !DETERMINER
+saving clause
+saving clauses
+seldom
+seldom-performed
+seldom-seen
+seldom-used
+seldom used
+seldomly
+seldomness
+select few
+she alone
+she is !DETERMINER only
+she is all
+should be !DETERMINER only
+single-condition
+single-handed
+single-handedly
+single-handedness
+single-hander
+single-headed
+single-hearted
+single-heartedly
+single-heartedness
+single-out
+single condition
+single conditions
+single message
+single out
+single out for
+single purchase
+single separate
+single voice
+single voices
+single vote
+single votes
+single voting
+single votings
+singled-out
+singled out
+singled out for
+singlehanded
+singlehandedly
+singleness
+singles-out
+singles out
+singles out for
+singling-out
+singling out
+singling out for
+singular
+singular influence
+singular influences
+singular occasion
+singularities
+singularity
+sole-begotten
+sole-beloved
+sole-living
+sole-lying
+sole-ruling
+sole-saving
+sole-seated
+sole-shaped
+sole-stitching
+sole-sufficient
+sole-thoughted
+sole-walking
+sole blocker
+sole blockers
+sole child
+sole corporation
+sole corporations
+sole exception
+sole exceptions
+sole guy
+sole man
+sole person
+sole student
+sole time
+sole woman
+solo part
+solo parts
+special
+special-delivery
+special-process
+special-processes
+special act
+special acts
+special area
+special areas
+special call
+special calls
+special case
+special cases
+special circumstance
+special circumstances
+special consideration
+special considerations
+special deliveries
+special delivery
+special emergencies
+special emergency
+special handling
+special handlings
+special occasion
+special pleading
+special pleadings
+special properties
+special school
+special schools
+special situation
+special situations
+special sort
+special sorts
+special student
+special students
+special term
+special terms
+special treatment
+special treatments
+specialite
+specialite de la maison
+specially
+specially designed for
+specially developed for
+specially made for
+specially tailored for
+specials
+specials in store
+specials on tap
+stand alone as
+stand apart
+stand out
+stand out above
+stand out as
+stand out from
+stand out from !DETERMINER rest
+stand way out
+stand way out there
+standing alone as
+standing apart
+standing out
+standing out above
+standing out as
+standing out from
+standing out from !DETERMINER rest
+standing way out
+standing way out there
+stands alone as
+stands apart
+stands out
+stands out above
+stands out as
+stands out from
+stands out from !DETERMINER rest
+stands way out
+stands way out there
+stick out
+stick out !DETERMINER
+stick out !DETERMINER mile
+stick out from
+stick out from !DETERMINER rest
+stick out from all !DETERMINER rest
+stick out like !DETERMINER sore thumb
+sticking out
+sticking out !DETERMINER
+sticking out from !DETERMINER crowd
+sticking out from !DETERMINER rest
+sticking out from all !DETERMINER rest
+sticks out
+sticks out !DETERMINER
+sticks out from
+sticks out from !DETERMINER rest
+sticks out from all !DETERMINER rest
+stood alone as
+stood apart
+stood out
+stood out above
+stood out as
+stood out from
+stood out from !DETERMINER rest
+stood way out
+stood way out there
+strictly cash
+stuck out
+stuck out !DETERMINER
+stuck out from
+stuck out from !DETERMINER rest
+stuck out from all !DETERMINER rest
+sui generis
+than anyone
+than anyone else
+than usual
+than usually
+that alone
+that by itself
+that rare
+the-one-and-only
+The only reason
+there is little for !PRONOUNOBJECTIVE to do but
+there is little to do but
+there were at least
+these and no others
+they alone
+they are all
+they are few and far between
+they are the only
+this and no other
+this very
+though in !DETERMINER case of
+through !DETERMINER singular effort
+to be anything but
+totally unique
+uncharacteristic
+uncharacteristically
+uncommon
+uncommonly
+uncommonness
+uncustomary
+unique for
+unique from
+unique look
+unique looks
+unique to
+uniqueness
+unlike !DETERMINER rest
+unlike any other
+unlike anything
+unlike anything else
+unlike anything I've ever seen
+unlike dozens
+unlike every other
+unlike hundreds
+unlike many
+unlike millions
+unlike most
+unlike other
+unlike others
+unlike some
+unlike thousands
+unordinary
+unrepresentative
+unrepresentatively
+untypical
+unusual
+unusual crystalline shape
+unusual in
+unusual in shape
+unusual shape
+unusually
+unusualness
+unwonted
+unwontedly
+very seldom
+very thing
+very things
+was !DETERMINER only
+we alone
+we are !DETERMINER only
+what is otherwise
+what was otherwise
+when !DETERMINER only thing
+when !DETERMINER only thing !PRONOUNNOMINAL
+while in !DETERMINER case of
+who more than any other
+who perhaps more than any other
+wholly unconventional
+with !DETERMINER exception
+with !DETERMINER exception being
+with !DETERMINER exception now of
+with !DETERMINER exception now that
+with !DETERMINER exception of
+with !DETERMINER exception that
+with !DETERMINER exceptions
+with !DETERMINER exceptions being
+with !DETERMINER exceptions of
+with !DETERMINER only
+with !DETERMINER rare exception
+with !DETERMINER sole exception
+with !DETERMINER sole exceptions
+with an exception
+with but
+with but !DETERMINER
+with just
+with none other than
+with nothing but
+with nothing other than
+with nothing save
+with one exception
+with only
+without !DETERMINER contribution of
+without !DETERMINER presence of
+world-rare
+would rarely
+you are !DETERMINER only
+your only

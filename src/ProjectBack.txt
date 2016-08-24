@@ -1,0 +1,3073 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX remembered as
+!BIGNUMBER of !TIMEFRAME ago
+!CARRY !POSSESSIVEPRONOUN thoughts back
+!CARRY !PRONOUNOBJECTIVE back in time
+!CARRY back in recollection
+!CARRY in recollection
+!CARRY your thoughts back
+!DAY last
+!DETERMINER !TIMEFRAME AGO
+!DETERMINER !TIMEFRAME that are past
+!DETERMINER ANCESTRAL
+!DETERMINER ancient
+!DETERMINER ancient and honorable
+!DETERMINER ancient and honourable
+!DETERMINER ancients
+!DETERMINER ANTIQUE
+!DETERMINER bit previous
+!DETERMINER constant reminder
+!DETERMINER constant reminder of
+!DETERMINER cry back
+!DETERMINER cry back to
+!DETERMINER days that are no more
+!DETERMINER dim past
+!DETERMINER extinct
+!DETERMINER few !TIMEFRAME ago
+!DETERMINER few !TIMEFRAME back
+!DETERMINER few autumns ago
+!DETERMINER few autumns back
+!DETERMINER FEW DAYS AGO
+!DETERMINER few spring ago
+!DETERMINER few spring back
+!DETERMINER few summers ago
+!DETERMINER few summers back
+!DETERMINER FEW WEEKS AGO
+!DETERMINER few winters ago
+!DETERMINER few winters back
+!DETERMINER generation ago
+!DETERMINER generation back
+!DETERMINER historic significance
+!DETERMINER historical significance
+!DETERMINER long time ago
+!DETERMINER long while ago
+!DETERMINER middle ages
+!DETERMINER old countries'
+!DETERMINER old country
+!DETERMINER old country's
+!DETERMINER old world
+!DETERMINER old world?s
+!DETERMINER olden day
+!DETERMINER olden days
+!DETERMINER olden time
+!DETERMINER olden times
+!DETERMINER origins of
+!DETERMINER past
+!DETERMINER past !NUMS1TO100 !TIMEFRAME
+!DETERMINER past !TIMEFRAME
+!DETERMINER previous !TIMEFRAME
+!DETERMINER quaint
+!DETERMINER recital of previous
+!DETERMINER remembrance
+!DETERMINER remembrance of
+!DETERMINER remembrance of things past
+!DETERMINER remembrances
+!DETERMINER remembrances of
+!DETERMINER remembrances of things past
+!DETERMINER reminder
+!DETERMINER reminder of
+!DETERMINER short time ago
+!DETERMINER storm has blown over
+!DETERMINER summer of !POSSESSIVEPRONOUN youth
+!DETERMINER summer of my youth
+!DETERMINER summer of our youth
+!DETERMINER summer of your youth
+!DETERMINER summers of !POSSESSIVEPRONOUN youth
+!DETERMINER summers of my youth
+!DETERMINER summers of our youth
+!DETERMINER summers of your youth
+!DETERMINER then
+!DETERMINER throw-back to
+!DETERMINER throw back to
+!DETERMINER throwback to
+!DETERMINER time ago
+!DETERMINER time came when
+!DETERMINER way !PRONOUNNOMINAL was
+!DETERMINER way !PRONOUNNOMINAL were
+!DETERMINER way back when
+!DETERMINER way it had been
+!DETERMINER way it has been
+!DETERMINER way it was
+!DETERMINER way it was for
+!DETERMINER while back
+!DETERMINER WHILE BACK WHEN
+!FEEL like old times
+!GET back to !POSSESSIVEPRONOUN roots
+!GET back to my roots
+!GET back to our roots
+!GET back to your roots
+!GO back !DETERMINER long way together
+!GO back !DETERMINER long ways together
+!GO back DAYS BEFORE
+!GO back together
+!GO back together !DETERMINER long time
+!GO back with one another
+!GO back with one another for !DETERMINER long time
+!GO far back to
+!HAVE !DETERMINER background
+!HAVE !DETERMINER background in
+!HAVE !DETERMINER flashblack
+!HAVE !DETERMINER history
+!HAVE !ROUTINEACT been
+!HAVE actually
+!HAVE actually been
+!HAVE been
+!HAVE been accumulated
+!HAVE been accumulating
+!HAVE been around
+!HAVE BEEN INVOLVED IN
+!HAVE been looking back
+!HAVE been looking back with
+!HAVE been made to
+!HAVE done for
+!HAVE enclosed
+!HAVE flashbacks
+!HAVE had !POSSESSIVEPRONOUN day
+!HAVE had !POSSESSIVEPRONOUN time
+!HAVE had its day
+!HAVE had its time
+!HAVE had my day
+!HAVE had my time
+!HAVE had our day
+!HAVE had our time
+!HAVE had your day
+!HAVE had your time
+!HAVE history with
+!HAVE in fact been
+!HAVE long ago
+!HAVE seen
+!HOLD in remembrance
+!HOLD on to !DETERMINER past
+!HOLD on to memories
+!HOLD on to old
+!HOLD on to thoughts
+!LEAVE over from
+!LIVE in !POSSESSIVEPRONOUN memory
+!LIVE in my memory
+!LIVE in our memory
+!LIVE in your memory
+!LOOK back
+!LOOK back on
+!LOOK back on !POSSESSIVEPRONOUN childhood
+!LOOK back over !DETERMINER !TIMEFRAME
+!LOOK back over !POSSESSIVEPRONOUN life
+!LOOK back to
+!LOOK back upon
+!LOOK back upon !POSSESSIVEPRONOUN childhood
+!LOOK back upon things past
+!NUMS1TO100 !DAY ago
+!NUMS1TO100 !MONTH ago
+!NUMS1TO100 !TIMEFRAME ago
+!NUMS1TO100 centuries ago
+!NUMS1TO100 YEARS AGO
+!POSSESSIVEPRONOUN ancestors
+!POSSESSIVEPRONOUN background in
+!POSSESSIVEPRONOUN backgrounds in
+!POSSESSIVEPRONOUN past
+!POSSESSIVEPRONOUN previous
+!PRONOUNHAVE !ROUTINEACT
+!PRONOUNHAVE been
+!PRONOUNHAVE been to
+!PRONOUNNOMINAL !REMIND
+!PRONOUNNOMINAL had
+!PRONOUNNOMINAL had substantially
+!PRONOUNNOMINAL had substantively
+!PRONOUNNOMINAL last
+!PRONOUNNOMINAL missed
+!PRONOUNNOMINAL recalled
+!PRONOUNNOMINAL remember
+!PRONOUNNOMINAL REMEMBERS
+!PRONOUNNOMINAL remind
+!PRONOUNNOMINAL reminds
+!PRONOUNNOMINAL used to
+!PRONOUNNOMINAL used to be
+!PUT !PRONOUNOBJECTIVE in mind
+!QUESTION !PRONOUNNOMINAL had to
+!QUESTION !PRONOUNNOMINAL had to do
+!QUESTION had
+!QUESTION HAD BEEN
+!QUESTION HAD BEEN !DETERMINER
+!QUESTION happened
+!QUESTION HAS BEEN
+!QUESTION HAVE BEEN
+!QUESTION HAVING BEEN
+!QUESTION it had been like to
+!QUESTION it was like to
+!QUESTION transpired
+!QUESTION was
+!QUESTION were !DETERMINER
+!QUESTION WERE !DETERMINER only
+!REMIND
+!REMIND !PRONOUNOBJECTIVE not to
+!REMIND !PRONOUNOBJECTIVE of
+!REMIND !PRONOUNOBJECTIVE of !DETERMINER time when
+!REMIND !PRONOUNOBJECTIVE that
+!REMIND !PRONOUNOBJECTIVE that !DETERMINER
+!REMIND !PRONOUNOBJECTIVE to
+!REMIND me not to
+!REMIND me to
+!REMIND one
+!REMIND one of
+!REMIND us not to
+!REMIND us to
+!ROLL back in time
+!ROLL time back
+!TIMEFRAME AGO
+!TIMEFRAME BACK
+!TIMEFRAME had passed before
+!TIMEFRAME had passed since
+!TIMEFRAME have passed since
+!TIMEFRAME passed before
+!TINTERVAL !ELEVENTHRUTEENS !TIMEFRAME ago
+!TINTERVAL !HYPHENNUMS1TO100 !TIMEFRAME ago
+!TINTERVAL !ONEDIGIT !TIMEFRAME ago
+!TINTERVAL !TWODIGITS !ONEDIGIT !TIMEFRAME ago
+!TURN to !DETERMINER past
+!TURN to !POSSESSIVEPRONOUN memories of
+!TURN to !POSSESSIVEPRONOUN memory of
+!TURN to memories
+, had been !DETERMINER
+, has been !DETERMINER
+, was !DETERMINER
+, were !DETERMINER
+. around that time
+. back then
+. it was
+. there was
+. there was something that
+. to have all that was
+1400s
+1500s
+1600s
+1700s
+1800s
+1848
+1849
+1850
+1851
+1852
+1853
+1854
+1855
+1856
+1857
+1858
+1859
+1860
+1861
+1862
+1863
+1864
+1865
+1866
+1867
+1868
+1869
+1870
+1871
+1872
+1873
+1874
+1875
+1876
+1877
+1878
+1879
+1880
+1881
+1882
+1883
+1884
+1885
+1886
+1887
+1888
+1889
+1890
+1891
+1892
+1893
+1894
+1895
+1896
+1897
+1898
+1899
+1900
+1900s
+1901
+1902
+1903
+1904
+1905
+1906
+1907
+1908
+1909
+1910
+1910's
+1911
+1912
+1913
+1914
+1915
+1916
+1917
+1918
+1919
+1920
+1920's
+1921
+1922
+1923
+1924
+1925
+1926
+1927
+1928
+1929
+1930
+1930's
+1931
+1932
+1933
+1934
+1935
+1936
+1937
+1938
+1939
+1940
+1940's
+1941
+1942
+1943
+1944
+1945
+1946
+1947
+1948
+1949
+1950
+1950's
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+1958
+1959
+1960
+1960's
+1961
+1962
+1963
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+1970's
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1980's
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1990's
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+a long time since
+a might-have-been experience
+a very long time since
+ABOUT !NUMS1TO100 YEARS AGO
+aeons ago
+afore-acted
+afore-coming
+afore-decried
+afore-given
+afore-going
+afore-granted
+afore-heard
+afore-known
+afore-planned
+afore-running
+afore-seeing
+afore-seen
+afore-spoken
+aforetime
+aforetimes
+ages ago
+AGO
+ago when
+agone
+all !PRONOUNNOMINAL did was
+all along was
+all I did was
+all was
+all was well
+all we did was
+all you did was
+already being done
+already done
+already have done
+already having done
+always been
+an inborn
+analepsis
+anamneses
+anamnesis
+ancestor
+ancestors
+ancestral
+ancestrally
+ancestress
+ancestries
+ancestry
+ancien regime
+ancien rgime
+ancienne noblesse
+ancient's
+ancient byzantine
+ancient greece
+ancient greek
+ancient hebrew measure
+ancient hebrew measures
+ancient history
+ancient language
+ancient literature
+ancient manuscript
+ancient rome
+ancient times
+anciently
+ancientness
+ancients'
+and formerly
+and formerly in
+anecdotal
+anecdotally
+anecdote
+anecdotes
+anecdotic
+anniversaries
+anniversaries of
+anniversary
+anniversary of
+ante-
+ante-acted
+ante-ambulo
+ante-bellum
+ante-chapel
+ante-Christum
+ante-ecclesiastical
+ante-eternity
+ante-mortem
+ante-mortem clot
+ante-Nicaean
+ante-Nicene
+ante-Nicene Fathers
+ante-orbital
+ante-partum
+ante-room
+ante-temple
+ante bellum
+ante Christum
+antebellum
+antecedent right
+antecedent used in
+antediluvian
+antediluvian patriarch
+antediluvians
+antiq.
+appeared in 1848
+appeared in 1849
+appeared in 1850
+appeared in 1851
+appeared in 1852
+appeared in 1853
+appeared in 1854
+appeared in 1855
+appeared in 1856
+appeared in 1857
+appeared in 1858
+appeared in 1859
+appeared in 1860
+appeared in 1861
+appeared in 1862
+appeared in 1863
+appeared in 1864
+appeared in 1865
+appeared in 1866
+appeared in 1867
+appeared in 1868
+appeared in 1869
+appeared in 1870
+appeared in 1871
+appeared in 1872
+appeared in 1873
+appeared in 1874
+appeared in 1875
+appeared in 1876
+appeared in 1877
+appeared in 1878
+appeared in 1879
+appeared in 1880
+appeared in 1881
+appeared in 1882
+appeared in 1883
+appeared in 1884
+appeared in 1885
+appeared in 1886
+appeared in 1887
+appeared in 1888
+appeared in 1889
+appeared in 1890
+appeared in 1891
+appeared in 1892
+appeared in 1893
+appeared in 1894
+appeared in 1895
+appeared in 1896
+appeared in 1897
+appeared in 1898
+appeared in 1899
+appeared in 1900
+appeared in 1900s
+appeared in 1901
+appeared in 1902
+appeared in 1903
+appeared in 1904
+appeared in 1905
+appeared in 1906
+appeared in 1907
+appeared in 1908
+appeared in 1909
+appeared in 1910
+appeared in 1911
+appeared in 1912
+appeared in 1913
+appeared in 1914
+appeared in 1915
+appeared in 1916
+appeared in 1917
+appeared in 1918
+appeared in 1919
+appeared in 1920
+appeared in 1921
+appeared in 1922
+appeared in 1923
+appeared in 1924
+appeared in 1925
+appeared in 1926
+appeared in 1927
+appeared in 1928
+appeared in 1929
+appeared in 1930
+appeared in 1931
+appeared in 1932
+appeared in 1933
+appeared in 1934
+appeared in 1935
+appeared in 1936
+appeared in 1937
+appeared in 1938
+appeared in 1939
+appeared in 1940
+appeared in 1941
+appeared in 1942
+appeared in 1943
+appeared in 1944
+appeared in 1945
+appeared in 1946
+appeared in 1947
+appeared in 1948
+appeared in 1949
+appeared in 1950
+appeared in 1951
+appeared in 1952
+appeared in 1953
+appeared in 1954
+appeared in 1955
+appeared in 1956
+appeared in 1957
+appeared in 1958
+appeared in 1959
+appeared in 1960
+appeared in 1961
+appeared in 1962
+appeared in 1963
+appeared in 1964
+appeared in 1965
+appeared in 1966
+appeared in 1967
+appeared in 1968
+appeared in 1969
+appeared in 1970
+appeared in 1971
+appeared in 1972
+appeared in 1973
+appeared in 1974
+appeared in 1975
+appeared in 1976
+appeared in 1977
+appeared in 1978
+appeared in 1979
+appeared in 1980
+appeared in 1981
+appeared in 1982
+appeared in 1983
+appeared in 1984
+appeared in 1985
+appeared in 1986
+appeared in 1987
+appeared in 1988
+appeared in 1989
+appeared in 1990
+appeared in 1991
+appeared in 1992
+appeared in 1993
+appeared in 1994
+appeared in 1995
+appeared in 1996
+appeared in 1997
+appeared in 1998
+appeared in 1999
+appeared in 2000
+appeared in 2001
+appeared in 2002
+appeared in 2003
+appeared in 2004
+appeared in 2005
+appears always to have been
+archaic smile
+archaic smiles
+archaic white race
+are past
+around !DETERMINER time of
+around that time
+as !DETERMINER reminder
+as !DETERMINER reminder of
+as !DETERMINER reminder that
+as been
+as before
+as before when
+as far back
+AS FAR BACK AS ANTIQUITY
+as has been
+as has been !DETERMINER case
+as has been !ROUTINEACT
+as has often been
+as having been
+as I think back
+AS IT WAS
+AS IT WAS AT !DETERMINER TIME
+AS IT WAS BEFORE
+AS IT WAS THEN
+AS IT WAS WHEN
+AS IT WAS WHENEVER
+As of !DETERMINER day ago
+as of !DETERMINER few minutes ago
+As of !DETERMINER month ago
+As of !DETERMINER week ago
+As of !DETERMINER year ago
+as of minutes ago
+as of moments ago
+as planned
+as reminders
+as reminders of
+as seldom before
+as seldom before or since
+as we think back
+at !DETERMINER last
+at last month's
+at last week's
+at last year's
+at one time back then
+at one time back when
+at one time used
+at some past time
+at that time !PRONOUNNOMINAL was
+at that time !PRONOUNNOMINAL were
+auld
+azoic
+back in !DETERMINER Clinton era
+back in !DETERMINER day
+back in !DETERMINER era
+back in !DETERMINER fall
+back in !DETERMINER month of
+back in !DETERMINER spring
+back in !DETERMINER summer
+back in !DETERMINER week of
+back in !DETERMINER winter
+back in !DETERMINER year
+back in !MONTH
+back in childhood
+back in history
+back in our childhoods
+back in prehistoric
+back in their childhoods
+back in time
+back in your childhood
+back in your childhoods
+back last !TIMEFRAME
+BACK THEN
+BACK TO
+BACK TO !DETERMINER HALCYON DAYS
+BACK TO !DETERMINER PAST
+back to !DETERMINER time
+back to !DETERMINER time that
+back to !DETERMINER time when
+back to !DETERMINER times
+BACK TO ANTIQUITY
+back to living
+back to prehistoric
+back to prehistoric times
+BACK WHEN
+background in
+backgrounds in
+be no more
+been
+been set up
+been set up by
+been there
+been there, done that
+been through there
+been through there before
+before-told
+before !DETERMINER Christian Era
+before !DETERMINER Common Era
+before !DETERMINER Fall
+before !DETERMINER Flood
+before !DETERMINER war
+before Christ
+before when
+before your time
+beforehand
+beforehand it was
+beforehand was
+beforetime
+begun
+begun !TIMEFRAME ago
+begun long ago
+belong to !DETERMINER past
+belonged to !DETERMINER past
+belonging to !DETERMINER past
+belongs to !DETERMINER past
+BORN AND BRED
+BORN AND RAISED
+BORN TO
+BORN WITH !DETERMINER SILVER SPOON
+boyhood
+boyhood?s
+boyhoods
+boyhoods?
+bring back memories
+bring back old memories
+bringing back memories
+bringing back old memories
+brings back memories
+brings back old memories
+bronze age
+brought back memories
+brought back old memories
+by !DETERMINER standards of !DETERMINER times
+bygone
+bygone days
+bygone times
+bygones
+came to stand for
+case histories
+case history
+centennial anniversary
+childhood memories
+childhood memory
+childhood?s
+childhoods?
+cinquecento
+cis-Elizabethan
+city-born
+city-bred
+classical time
+classical times
+constant reminder
+constant reminder of
+constant reminders
+constant reminders of
+contemplate !DETERMINER past
+contemplated !DETERMINER past
+contemplates !DETERMINER past
+contemplating !DETERMINER past
+contemplation of !DETERMINER past
+contemplations of !DETERMINER past
+corner of !DETERMINER memories
+corner of !DETERMINER memory
+corner of !POSSESSIVEPRONOUN memories
+corner of !POSSESSIVEPRONOUN memory
+corner of our memories
+corner of our memory
+corners of !DETERMINER memories
+corners of !DETERMINER memory
+corners of !POSSESSIVEPRONOUN memories
+corners of !POSSESSIVEPRONOUN memory
+corners of our memories
+corners of our memory
+could've
+could-have-been
+Could have just as easily
+Could have just as well
+could just as well have
+could not understand it back then
+could not understand it then
+could still have
+couldn't understand it back then
+couldn't understand it then
+country-born
+country-bred
+cried back
+cried back to
+cries back
+cries back to
+crude and rude
+cry back
+cry back to
+crying back
+crying back to
+cut back to
+cuts back to
+cutting back to
+darrein
+date all !DETERMINER way back to
+DATE BACK TO
+date from !DETERMINER
+dated all !DETERMINER way back to
+dated back
+dated back to
+dated from
+dated from !DETERMINER
+dates all !DETERMINER way back to
+DATES BACK TO
+DATES BACK TO ANTIQUITY
+dates from !DETERMINER
+dating all !DETERMINER way back to
+DATING BACK TO
+dating from !DETERMINER
+DAYS AGO
+days gone by
+days of old
+days of yore
+dead and buried
+dead and gone
+deeply rooted in !DETERMINER past
+deja vu
+desert-bred
+diluvial
+diluvian
+dim-remembered
+dim past
+dim pasts
+dim recollection
+distant past
+done-it-all
+done for
+done it all
+done that
+donkey's years ago
+during some past time
+dwell in memory
+dwelled in memory
+dwelling in memory
+dwells in memory
+early 1400s
+early 1500s
+early 1600s
+early 1700s
+early 1800s
+early 1900s
+early hominid
+early hominids
+early stone age
+Edwardian
+Edwardian times
+eidetic memories of
+eidetic memory of
+eidetic recall
+eidetic recall of
+ended up
+eon ago
+eon past
+eons ago
+eons back
+eons past
+ere
+ere then
+erenow
+erewhile
+erewhiles
+erst
+erstwhile
+everything that came with it
+extinct mammoth
+extinct mammoths
+fairy-born
+far back to
+farm-bred
+fatherland
+fen-born
+fen-bred
+flash-back
+flash-backs
+flash back
+flash back to !DETERMINER
+flash back to an
+flash back to images
+flash backs
+flash with memories
+flashback
+flashbacks
+flashcube-memory
+flashcube memories
+flashcube memory
+flashed back to !DETERMINER
+flashed back to an
+flashed back to images
+flashed with memories
+flashes back to !DETERMINER
+flashes back to an
+flashes back to images
+flashes with memories
+flashing back to !DETERMINER
+flashing back to an
+flashing back to images
+flashing with memories
+floruit
+flourished back
+flourished back in
+flush with memories
+flushed with memories
+flushes with memories
+flushing with memories
+folk memories
+folk memory
+for !QUESTION happened
+for as far back
+for as far back as
+fore elder
+fore elders
+forebear
+forebears
+forefather
+forefather-land
+forefather-lands
+forefathers
+foreign-bred
+foremother
+foremothers
+foretime
+foretimes
+former
+former time
+former times
+formerly
+formerly in
+formerly in use
+formerly of
+formerly widely used to
+formerly with
+founded in
+from !DETERMINER past
+from !DETERMINER past of
+from !DETERMINER pasts of
+from !POSSESSIVEPRONOUN past
+from away back
+from her past
+from his past
+from our past
+from our pasts
+from that time came
+from that time comes
+from that time there was
+from their past
+from their pasts
+from time immemorial
+generations ago
+generations back
+gentle-born
+gentle-bred
+girlhood
+girlhood's
+girlhoods
+girlhoods'
+golden-age
+golden-era
+golden age
+golden ages
+golden era
+golden eras
+golden time
+golden times
+gone-by
+gone by
+had
+had !DETERMINER authority to
+had !DETERMINER company
+had !DETERMINER detail
+had !DETERMINER go at
+had !DETERMINER last laugh
+had !DETERMINER nature
+had !DETERMINER nature of
+had !DETERMINER power
+had !DETERMINER power to
+had !DETERMINER property of
+had !DETERMINER real shot
+had !DETERMINER shape of
+had !DETERMINER spathe
+had !DETERMINER teach-in
+had !DETERMINER tendency
+had !PRONOUNNOMINAL been
+had access to
+had actually
+had actually been
+had agreed
+had always
+had always been
+had an obligation
+had an obligation to
+had an opportunity
+had anything but
+had approved
+had assigned
+had at it
+had been
+had been !DETERMINER
+had been !DETERMINER companion
+had been !DETERMINER companion to
+had been !DETERMINER compendious
+had been !DETERMINER crucial
+had been !DETERMINER embodiment
+had been !DETERMINER essential
+had been !DETERMINER important
+had been !DETERMINER KEYS TO !DETERMINER
+had been !DETERMINER LAST PERSON !DETERMINER
+had been !DETERMINER manifestation
+had been !DETERMINER monumental
+had been !DETERMINER NAME OF !DETERMINER
+had been !DETERMINER object of
+had been !DETERMINER part of
+had been !DETERMINER party to
+had been !DETERMINER significant
+had been !DETERMINER source of
+had been !DETERMINER source of heightened
+had been !DETERMINER spate of
+had been !DETERMINER story
+had been !DETERMINER subject
+had been !DETERMINER symbol
+had been !DETERMINER THING !DETERMINER
+had been !DETERMINER VERY THING !DETERMINER
+had been !MOTIONPREP
+had been !MOTIONPREP !VPARTICLE
+had been !POSSESSIVEPRONOUN
+had been !POSSESSIVEPRONOUN way of
+had been !QUESTION
+had been !QUESTION !DETERMINER
+had been !QUESTION !PRONOUNNOMINAL
+had been !QUESTION !PRONOUNNOMINAL did
+had been !QUESTION needs
+had been !VPARTICLE !DETERMINER
+had been abatable
+had been about
+had been about all
+HAD BEEN ACCUSTOMED TO
+had been acronymic
+had been acronyms for
+had been active
+had been actually
+had been actually !DETERMINER
+had been ALIGNED WITH !DETERMINER
+had been all
+had been ALSO !DETERMINER
+had been among !DETERMINER
+had been an acronym
+had been an important part of
+had been an object of
+had been an object of heightened
+had been an understatement
+HAD BEEN AQUAINTED WITH
+had been around !DETERMINER block
+had been AVAILABLE FOR !DETERMINER
+had been AVAILABLE TO !DETERMINER
+had been AVAILABLE WITH !DETERMINER
+had been awarded
+had been bad
+had been BECOMING !DETERMINER
+had been BECOMING INCREASINGLY !DETERMINER
+had been being
+had been being done
+had been between !DETERMINER
+had been between this
+had been binding
+had been born
+had been broadly discussed
+had been BUSY WITH !DETERMINER
+had been cast in stone
+had been close
+had been CLOSELY RELATED TO !DETERMINER
+had been CONNECTED WITH !DETERMINER
+had been continued
+had been COUPLED WITH !DETERMINER
+had been CRUCIAL FOR !DETERMINER
+had been DEPENDENT ON !DETERMINER
+had been designated
+had been discontinued
+had been DIVIDED INTO !DETERMINER
+had been due to
+had been elected
+had been elected to
+had been especially
+had been ESSENTIAL TO !DETERMINER
+had been essentially
+had been essentially !DETERMINER
+had been extensively studied
+had been facing
+had been facing !DETERMINER
+had been featured
+had been following through on
+had been for !DETERMINER most part
+had been forced to
+had been FRAGMENTED INTO !DETERMINER
+had been FROM !DETERMINER
+had been GAME TO
+had been going on
+had been good
+had been HARD ON !DETERMINER
+had been heavy
+had been HELL BENT ON !DETERMINER
+had been HELPFUL IN !DETERMINER
+had been here.
+had been HEREIN !DETERMINER
+had been HEREIN INCLUDED !DETERMINER
+had been hired
+had been HOT ON !DETERMINER TRAIL OF !DETERMINER
+had been immune from
+had been immune to
+had been IMPORTANT TO !DETERMINER
+had been in control
+had been IN EFFECT !DETERMINER
+had been IN RELATIVE AGREEMENT ABOUT !DETERMINER
+had been indicative of
+had been inducted
+had been INTO !DETERMINER
+had been itself
+had been itself !DETERMINER
+had been JUST ABOUT !DETERMINER
+had been lifelong
+had been made partner
+had BEEN MINDFUL THAT
+had been named
+had been objects of
+had been OF !DETERMINER
+had been of interest
+had been of note
+had been of some interest
+had been of some note
+had been of special note
+had been ONE OF !DETERMINER
+had been one of !DETERMINER central
+had been one of !DETERMINER key
+had been one of !DETERMINER main
+had been one of !DETERMINER most
+had been one of !DETERMINER salient
+had been one of many
+had been one of several
+had been OUT OF POCKET FOR !DETERMINER
+had been OUT TO BE !DETERMINER
+had been part of
+had been particularly
+had been PARTICULARLY !DETERMINER
+had been parties to
+had been party to
+had been persuasively
+had been persuasively articulated
+had been POINTED IN !DETERMINER
+had been PRESENT !DETERMINER
+had been PRESENT AT !DETERMINER
+had been PRESENTED !DETERMINER
+had been prevalent
+had been prevalent in
+had been probed
+had been promoted
+had been promoted to
+had been PRONE TO !DETERMINER
+had been PROPERLY !DETERMINER
+had been ready
+had been READY !DETERMINER
+had been READY FOR !DETERMINER !DETERMINER
+had been really something
+had been really something to
+had been recently
+had been recently hired
+had been recently investigated
+had been recently studied
+had been RELATED TO !DETERMINER
+had been repainted
+had been REPRESENTATIVE OF !DETERMINER
+had been scheduled for
+had been scheduled to take place
+had been SECOND NATURE TO !DETERMINER
+had been set in stone
+had been SIGNIFICANT !DETERMINER
+had been SIGNIFICANTLY !DETERMINER
+had been SIMPLE !DETERMINER
+had been SLATED FOR !DETERMINER
+had been SLATED TO !DETERMINER
+had been so close
+had been SOME !DETERMINER
+had been something
+had been SOMETHING !DETERMINER
+had been SOMETHING !MOTIONPREP !DETERMINER
+had been SOMETHING !VPARTICLE !DETERMINER
+had been SOMETHING ABOUT !DETERMINER
+had been SOMETHING ELSE !DETERMINER
+had been SOMETHING ELSE AGAIN !DETERMINER
+had been SOMETHING FOR !DETERMINER
+had been SOMETHING OF !DETERMINER !DETERMINER
+had been something of interest
+had been something of special note
+had been SOMETHING SO !DETERMINER
+had been something to
+had been SOMETHING TO !DETERMINER
+had been something to note
+had been starting to follow through
+had been STATEMENTS !DETERMINER
+had been steadily
+had been studied extensively
+had been SUBMITTED !DETERMINER
+had been SUBMITTED BY !DETERMINER
+had been SUCH !DETERMINER !DETERMINER
+had been SUSCEPTIBLE TO !DETERMINER
+had been TALKED OUT !DETERMINER
+had been THEIR
+had been THERE IN PERSON !DETERMINER
+had been there.
+had been thoroughly explored
+had been TOLD !QUESTION !DETERMINER
+had been TOLD HOW !DETERMINER
+had been TOLD WHERE !DETERMINER
+had been TOLD WHY !DETERMINER
+had been transferred
+had been transferred to
+had been UP FRONT !DETERMINER
+had been used
+had been used to
+had been USED TO !DETERMINER
+had been VARIED !DETERMINER
+had been VERY UP-FRONT !DETERMINER
+had been VERY UP FRONT !DETERMINER
+had been visible
+had been VITAL TO !DETERMINER
+had been with
+had been WITH !DETERMINER
+had been WITH CERTAIN OF !DETERMINER
+had begun
+had begun to
+had brought back memories
+had brought to mind
+had come
+had consented
+had done something
+had each
+had faded
+had feasted on
+had first been
+had flourished his
+had foreseen
+HAD FORGOT
+HAD FORGOTTEN
+HAD FORGOTTEN THAT
+had fought to
+had given consent
+had given permission
+had gobbled up
+had gouged out
+had granted consent
+HAD GUESSED
+had had nothing to do with
+had hailed from
+had her number
+had his number
+had I been
+HAD IMAGINED
+HAD INFERRED
+HAD INTENDED
+had it been
+had it not been
+HAD JUDGED
+HAD KNEW
+had known
+had known it was
+had latched on
+had latched onto
+HAD LEARNED
+had little or nothing to do with
+had little to do with
+had little to do with !PRONOUNOBJECTIVE
+had locked up
+had managed to
+had many roots
+had many stamens
+HAD MISSED HER
+HAD MISSED HIS
+HAD MISSED THEIR
+HAD MULLED
+had my number
+had never been
+had no
+had no way to
+had nosed in
+had nosed through
+had not
+had not been
+HAD NOTED
+had nothing to do with
+HAD NOTICED
+HAD OBSERVED
+HAD ONCE BEEN
+had opened fire
+had opened fire on
+had opened fire upon
+had our number
+HAD PERCEIVED
+had permitted
+HAD PLANNED
+had planted !DETERMINER foot on
+had planted her feet on
+had planted his feet on
+had planted their feet on
+HAD PONDERED
+had properties
+had ran over
+had ran roughshod over
+had ranted and raved
+HAD REALIZED
+HAD REASONED
+HAD RECALLED THAT
+HAD RECOGNIZED
+HAD REEXAMINED
+had remembered for
+HAD REMEMBERED THAT
+HAD RUED
+had run out
+had sanctioned
+had scaled up
+had seen !DETERMINER spate of
+had shrunk down
+had signed off
+had signed off on
+had since been
+had snaked in
+had snaked through
+had sold for
+HAD SPECULATED
+had spines
+had stamens
+had taken advantage
+had their number
+had these been
+had this been
+HAD THOUGHT
+had to be
+had to bear in mind
+had to become
+had to have little or nothing to do with
+had to impress on
+had to impress upon
+had to keep in mind
+had to put her foot down
+had to put his foot down
+had to put my foot down
+had to put our foot down
+had to put their feet down
+had to put your foot down
+had to take into account
+HAD UNDERSTOOD
+HAD USED TO
+HAD WOUND UP
+HAD WOUND UP IN
+had you been
+had,
+had.
+had;
+hadn't
+hadn't actually
+hadn't known
+hadn't literally
+hadn't really
+hadst
+handed down
+happened at
+HAPPENED EXACTLY AT
+HAPPENED ON
+HAPPENED RIGHT AT
+happened to have
+happened to have had
+happened together
+hark back
+hark back to
+HARK BACK TOHARKED BACK TO
+harked back
+harked back to
+HARKEN BACK TO
+HARKENED BACK TO
+HARKENING BACK TO
+HARKENS BACK TO
+harking back
+harking back to
+harks back
+harks back to
+has-been
+Has been open
+hath been
+have-been
+he'd
+he'd !ROUTINEACT
+he'd have been
+he'd have had
+he's long been
+hear it before
+heard !POSSESSIVEPRONOUN name
+heard it before
+hearing it before
+hearken back
+hearken back to
+hearkened back
+hearkened back to
+hearkening back
+hearkening back to
+hearkens back
+hearkens back to
+hears it before
+her background
+her time came when
+hercynian
+heretofore
+heretofore !HAVE
+hind-sight
+hindsight
+his background
+his time came when
+historic significance
+historical
+historical significance
+historically
+historicalness
+histories
+histories of
+history of
+hitherto
+hitherto !HAVE
+how were !DETERMINER
+hung on to !DETERMINER past
+hung on to memories
+hung on to old
+hung on to thoughts
+I last
+ice age
+ice ages
+immemorial
+immemorial usage
+immemorial usages
+immemorially
+in !DETERMINER !TIMEFRAME past
+in !DETERMINER !TIMEOFDAY past
+in !DETERMINER distant past
+in !DETERMINER memories of
+in !DETERMINER memories of men
+in !DETERMINER memory of
+in !DETERMINER memory of man
+in !DETERMINER old days
+in !DETERMINER olden day
+in !DETERMINER olden days
+in !DETERMINER olden time
+in !DETERMINER olden times
+in !DETERMINER original
+in !DETERMINER original edition
+in !DETERMINER original edition of
+in !DETERMINER past
+in !DETERMINER recent past
+in !DETERMINER remote past
+in !DETERMINER salad days
+in !DETERMINER Vietnam War
+in !POSSESSIVEPRONOUN memory of
+in !TIMEFRAME past
+in !TIMEOFDAY past
+in an olden day
+in an olden time
+in ancient times
+in commemoration of
+in days of yore
+in hindsight
+in its early days
+in medieval
+in medieval times
+in mem.
+in memoriam
+in memories of
+in memorium
+in memory of
+in my memory of
+in olden
+in olden days
+in olden times
+in our memory of
+in past
+in past !TIMEFRAME
+in past times
+in perpectual remembrance
+in remembrance
+in remembrance of
+in retrospect
+in that day
+in that day and age
+in that era
+in that time
+in those days
+in those times
+in times gone by
+in times past
+in what had been
+in your memory of
+inborn
+INDULGE IN MEMORIES OF
+indulged in memories of
+indulges in memories of
+indulging in memories of
+it'd
+it've
+it've been
+it !REMIND
+it came down to
+it had
+it had !DETERMINER
+it had all !DETERMINER
+it had been
+it had been !DETERMINER
+it had been from
+it had reached
+it had something to do with
+it had to
+it had to be
+it had to do with
+it hadn't been
+it happened
+it happened on
+It has been
+it has been !DETERMINER
+it has had
+it has had to have been
+it hasn't been
+it reminds
+it used to be
+it was
+it was !DETERMINER
+IT WAS !DETERMINER LONG TIME BEFORE
+it was !DETERMINER time of
+it was !DETERMINER time when
+it was coming down to
+it was common
+it was custom
+it was customary
+it was early !DAY
+it was early !TIMEFRAME
+it was early !TIMEOFDAY
+it was expectable
+it was founded
+it was founded by
+it was from
+it was not too long ago when
+it was ritualistic
+it was then
+it was then when
+it was traditional
+it was when
+it would have been
+it would have been better
+it would have been wiser
+its early days
+jacobean
+jogged memories of
+jogging memories of
+jogs memories of
+joke with whiskers
+jurassic
+just !DETERMINER way it was
+just !DETERMINER way it was for
+just like old times
+just look at the last
+just the other day
+known !DETERMINER
+known her
+known him
+known them
+known us
+lame-born
+lang syne
+langsyne
+last !MONTH
+last election
+last elections
+last month's
+last night
+last night?s
+last quarter
+last quarter?s
+last quarters?
+last remnant
+last remnants
+last vestige
+last vestiges
+last week's
+last year's
+late 1400s
+late 1500s
+late 1600s
+late 1700s
+late 1800s
+late 1900s
+like he's never
+like I've never
+like old times
+like she's never
+like they've never
+like you've never
+long-ago
+long-buried
+long-dated
+long-faded
+long-fed
+long-forgotten
+long-hid
+long-memoried
+long-memories
+long-memory
+long-parted
+long-past
+long ago
+long ago when
+long been
+long forget that
+long forgets that
+long forgetting that
+long forgotten
+long forgotten that
+long have
+long have thought
+long memories
+long memory
+long since
+longlost
+look at the last
+look back
+LOOK BACK ON
+look back to
+looked back
+LOOKED BACK ON
+looked back to
+looking at this from hindsight
+looking back
+Looking back across a century
+Looking back across a decade
+Looking back across a month
+Looking back across a week
+looking back across a year
+Looking back across more than a century
+Looking back across more than a decade
+Looking back across more than a month
+Looking back across more than a week
+looking back across more than a year
+looking back he'd have rather
+looking back on
+Looking back over a century
+Looking back over a decade
+Looking back over a month
+Looking back over a week
+looking back over a year
+Looking back over more than a century
+Looking back over more than a decade
+Looking back over more than a month
+Looking back over more than a week
+looking back over more than a year
+looking back they'd have rather
+looking back to
+Looking back to a century
+Looking back to a decade
+Looking back to a month
+Looking back to a week
+looking back to a year
+Looking back to more than a century
+Looking back to more than a decade
+Looking back to more than a month
+Looking back to more than a week
+looking back to more than a year
+looking back, she'd have rather
+looks back
+LOOKS BACK ON
+looks back to
+man of old
+MANY !TIMEFRAME AGO
+maternal ancestor
+maternal ancestors
+matrilineage
+matrilineages
+matrilineal
+matrilineals
+matrilinies
+matriliny
+may well have
+mediaeval
+medieval
+medievalism
+memento of
+mementoes of
+mementos of
+memoir
+memoirs
+memorabilia about
+memorable for
+memorably
+memorialize
+memorialized
+memorializes
+memorializing
+memoriam
+memories
+memories of
+memories of !DETERMINER !TIMEFRAME
+memories of childhood
+memories past
+memory of
+memory of !DETERMINER !TIMEFRAME
+memory of childhood
+men of old
+mid-16th !TIMEFRAME
+mid-17th !TIMEFRAME
+mid-18th !TIMEFRAME
+mid-1910's
+mid-1920's
+mid-1930's
+mid-1940's
+mid-1950's
+mid-1960's
+mid-1970's
+mid-1980's
+mid-1990's
+mid-19th !TIMEFRAME
+mid-20th !TIMEFRAME
+mid-eighteenth
+mid-nineteenth
+mid-Victorian
+might've
+might-have-been
+Might as well have
+MONTHS AGO
+monument to
+monuments to
+motherland
+moyen-age
+moyen age
+much has been
+much has been made
+much has been made of
+much has been said
+much has been written
+musing on !DETERMINER past
+musings on !DETERMINER past
+must have been
+must have felt
+my time came when
+nearly !NUMS1TO100 !TIMEFRAME ago
+needed
+needed to
+nostalgia
+nostalgic
+nostalgically
+NOT LONG AGO
+not too long ago when
+obsolete theories
+obsolete theory
+obsolete thinking
+obsolete thought
+of-old
+of !DETERMINER early stone age
+of !DETERMINER past
+of !DETERMINER stone age
+of !DETERMINER time in history
+of !DETERMINER time when
+of !QUESTION was
+of days gone by
+of earlier
+of earlier times
+of happier times
+of past
+of past occasions
+of past outings
+of previous
+of previous occasions
+of previous outings
+of that era
+of that time
+of things past
+of times gone by
+of times long ago
+of yesterday
+of yesteryear
+of yore
+old-countries
+old-country
+old-days
+old-farrand
+old-farrandlike
+old-fashionedly
+old-fashionedness
+old-field
+old-fields
+old-fort
+old-forts
+old-line companies
+old-line company
+old-nobilities
+old-nobility
+old-parties
+old-pary
+old-standing
+old-style
+old-styles
+old-talk
+old-talks
+old-time
+old-time country music
+old-time religion
+old-times
+old-timey
+old-timey music
+old-timiness
+old-timy
+old-world
+old-worldish
+old-worldism
+old-worldliness
+old-worldly
+old-worlds
+old country
+old days
+old fort
+old forts
+old habit
+old habits
+old nobilities
+old nobility
+old parties
+old parties'
+old party
+old party's
+old school tie
+old school ties
+old style
+old styles
+old talk
+old talks
+old time
+old times
+old wives' tale
+old world
+old worlds
+olde-worlde
+olden
+olden times
+oldest profession
+oldfangled
+oldie
+oldies
+on !DETERMINER past
+on !DETERMINER past occasion
+on past occasions
+once had
+once had taken for granted
+once took for granted
+ONCE UPON A TIME
+once was
+one time back then
+orig.
+originally
+originally derive
+originally derive from
+originally derived
+originally derived from
+originally derives
+originally derives from
+originally deriving
+originally deriving from
+originally published
+originally published in
+originate
+originated
+originates
+originating
+origination
+originations
+originative
+origins
+our background
+our time came when
+paleo-
+paleolithic
+paleolithic age
+paleolithic ages
+paleolithic man
+Paleolithic men
+paleontological
+parentage
+parentages
+past-bearing
+past-master
+past !TIMEFRAME
+past and gone
+past bearing
+past danger
+past dangers
+past dispute
+past disputes
+past expectation
+past expectations
+past experience
+past experiences
+past histories
+past history
+past hope
+past hopes
+past memories
+past mistress
+past mistresses
+past performance
+past performances
+past recall
+past recalls
+past recollection
+past recollections
+past student
+past students
+past time
+past times
+past trainee
+past trainees
+past understanding
+past understandings
+past use
+past uses
+paternal ancestor
+paternal ancestors
+paternal domicile
+paternal domiciles
+patrilineage
+patrilineages
+patrilineal
+patrilineals
+patrilinies
+patriliny
+peasant-born
+period piece
+period pieces
+period style
+period styles
+pioneer days
+plain-bred
+plow-bred
+prehistoric
+prehistoric man
+prehistoric men
+prehistoric races
+prehistorics
+previous
+previously
+previously !DETERMINER
+PREVIOUSLY !DETERMINER RESIDENT
+PREVIOUSLY RESIDING
+primeval
+primeval times
+primitive art
+primitive church
+primitive churche
+primitive settler
+primitive settlers
+primogenitor
+primogenitors
+primordial times
+primordiality
+primordially
+prior
+prior !TIMEFRAME
+prior attempts
+prior conditions
+prior consultation
+prior consultations
+prior decade's
+prior efforts
+prior month's
+prior quarter's
+prior right of purchase
+prior right of purchases
+prior to
+prior to !DETERMINER
+prior year's
+priors
+prison-bred
+progenitor
+progenitors
+protohistoric
+protohistorical
+protohistories
+protohistory
+protolithic
+protomartyr
+protomartyrs
+punch-and-judys
+punch and judy
+purchased back in
+purchased in
+quainter
+quaintest
+quaintly
+quaintness
+quondam
+rake up !DETERMINER past
+raked up !DETERMINER past
+rakes up !DETERMINER past
+raking up !DETERMINER past
+REALIZE after
+realize afterward
+realize beforehand
+realized after
+realized afterward
+realized beforehand
+realizes after
+realizes afterward
+realizes beforehand
+realizing after
+realizing afterward
+realizing beforehand
+recall !DETERMINER
+recall !DETERMINER memories
+recall !DETERMINER memory
+recall !DETERMINER origin of
+recall !DETERMINER origins of
+recall !DETERMINER time
+recall !DETERMINER time when
+recall !POSSESSIVEPRONOUN memories
+recall !POSSESSIVEPRONOUN memory
+recall how
+recall memories
+RECALL ON
+recall that
+recalled
+recalled !DETERMINER
+recalled !DETERMINER memories
+recalled !DETERMINER memory
+recalled !DETERMINER origin of
+recalled !DETERMINER origins of
+recalled !DETERMINER time
+recalled !DETERMINER time when
+recalled !POSSESSIVEPRONOUN memories
+recalled !POSSESSIVEPRONOUN memory
+recalled how
+recalled memories
+recalled that
+recalling
+recalling !DETERMINER
+recalling !DETERMINER memories
+recalling !DETERMINER memory
+recalling !DETERMINER origin of
+recalling !DETERMINER origins of
+recalling !DETERMINER time
+recalling !DETERMINER time when
+recalling !POSSESSIVEPRONOUN memories
+recalling !POSSESSIVEPRONOUN memory
+recalling how
+recalling memories
+recalling of
+recalling of memories
+RECALLING ON
+recalling that
+recalls
+RECALLS !DETERMINER
+recalls !DETERMINER memories
+recalls !DETERMINER memory
+recalls !DETERMINER origin of
+recalls !DETERMINER origins of
+recalls !DETERMINER time
+recalls !DETERMINER time when
+recalls !POSSESSIVEPRONOUN memories
+recalls !POSSESSIVEPRONOUN memory
+recalls how
+recalls memories
+RECALLS ON
+recalls that
+RECAPTURE !DETERMINER PAST
+recite previous
+recited previous
+recites previous
+reciting previous
+recollect
+RECOLLECT THAT
+recollected
+RECOLLECTED THAT
+recollecting
+RECOLLECTING THAT
+recollection
+recollections
+recollections of
+recollects
+RECOLLECTS THAT
+recount
+recountal
+recountal of
+recountals
+recountals of
+recounted
+recounting
+recounts
+reflect back
+reflect back on
+reflect back to
+reflect back upon
+reflected back
+reflected back on
+reflected back to
+reflected back upon
+reflecting back
+reflecting back on
+reflecting back to
+reflecting back upon
+reflects back
+reflects back on
+reflects back to
+reflects back upon
+REHASHES THAT
+relic
+relic from
+relic from !DETERMINER past
+relic of !DETERMINER past
+relics
+relics from
+relics of !DETERMINER past
+relique from
+reliques from
+relive
+relived
+relives
+reliving
+REMEMBER
+REMEMBER !DETERMINER
+remember !QUESTION
+remember back to
+remember it was
+remember it was !DETERMINER
+REMEMBERED
+REMEMBERED !DETERMINER
+remembered !QUESTION
+remembered as
+remembered back to
+REMEMBERED THAT
+remembering
+REMEMBERING !DETERMINER
+remembering !QUESTION
+REMEMBERING THAT
+remembers
+REMEMBERS !DETERMINER
+REMEMBERS !DETERMINER TIME
+remembers !QUESTION
+remembers back to
+REMEMBERS THAT
+reminder
+reminder of
+reminder that
+reminders
+reminders of
+remindful
+reminisce
+REMINISCE ABOUT
+REMINISCE BACK
+reminisced
+REMINISCED ABOUT
+REMINISCED BACK
+REMINISCED ON
+REMINISCED OVER
+reminiscence
+REMINISCENCE ABOUT
+REMINISCENCED ABOUT
+reminiscences
+REMINISCENCES ABOUT
+REMINISCENCES THAT
+REMINISCENCING ABOUT
+REMINISCENT
+reminiscently
+reminisces
+REMINISCES BACK
+reminiscing
+REMINISCING BACK
+remnant
+remnant left from
+remnant of
+remnants
+remnants of
+reptilian-age
+reptilian-aged
+reptilian-ages
+reptilian age
+reptilian aged
+reptilian ages
+retro
+retro with
+retroact
+retroacted
+retroacting
+retroaction
+retroactions
+retroactive
+retroactively
+retroactivity
+retroacts
+retrocede
+retrocession
+retroed with
+retrofire
+retrofires
+retrofit
+retrofits
+retrofitted with
+retrofitting
+retrograded
+retrogrades
+retrograding
+retrogress
+retrogressed
+retrogresses
+retrogressing
+retrogression
+retrogressions
+retrogressive
+retrogressively
+retroing with
+retros with
+retrospect
+retrospected
+retrospecting
+retrospection
+retrospective
+retrospectively
+retrospectives
+retrospects
+revert back to
+reverted back to
+reverting back to
+reverts back to
+review in retrospect
+review of things past
+reviewed in retrospect
+reviewed of things past
+reviewing in retrospect
+reviewing of things past
+reviews in retrospect
+reviews of things past
+rooted in !DETERMINER past
+royal-born
+rude-spun
+rude agricultural
+rude and crude
+sail plan
+sail plans
+salad days
+saw all of
+saw in retrospect
+saw one of
+see in retrospect
+seeing in retrospect
+seen-it-all
+seen in retrospect
+seen it all
+sees in retrospect
+seicento
+seldom has
+seldom have
+seldom mentioned
+serve as !DETERMINER constant reminder
+served as !DETERMINER constant reminder
+serves as !DETERMINER constant reminder
+serving as !DETERMINER constant reminder
+several !TIMEFRAME ago
+she'd
+she'd !ROUTINEACT
+she'd have been
+she'd have had
+she's long been
+short memories
+short memory
+since !DETERMINER 1800's
+since !DETERMINER 1810's
+since !DETERMINER 1820's
+since !DETERMINER 1830's
+since !DETERMINER 1840's
+since !DETERMINER 1850's
+since !DETERMINER 1860's
+since !DETERMINER 1870's
+since !DETERMINER 1880's
+since !DETERMINER 1890's
+since !DETERMINER 1900's
+since !DETERMINER 1910's
+since !DETERMINER 1920's
+since !DETERMINER 1930's
+since !DETERMINER 1940's
+since !DETERMINER 1950's
+since !DETERMINER 1960's
+since !DETERMINER 1970's
+since !DETERMINER 1980's
+since !DETERMINER 1990's
+since !DETERMINER days
+since !DETERMINER days of
+since !DETERMINER onset
+since !DETERMINER onset of
+since !DETERMINER start
+since !DETERMINER time
+since !DETERMINER time of
+since !DETERMINER world was made
+since !DETERMINER world was young
+since !DETERMINER year one
+since as far back as
+since days of yore
+since had
+since has
+since have
+since Hector was !DETERMINER pup
+since long ago
+since this event
+since this happened
+since this occurred
+since this occurrence
+since this whole thing
+since time began
+snows of yesteryear
+SOME !NUMS1TO100 YEARS AGO
+some past time
+some time ago
+some time back
+some time since
+sometime down !DETERMINER line
+stable-born
+standards of !DETERMINER times
+stirred memories
+stirring memories
+stirs memories
+stone-age
+stone age
+stone age's
+stone age?s
+stone era
+stone era?s
+stone period
+stone period?s
+street-born
+street-bred
+suddenly rang !DETERMINER bell
+suddenly rings !DETERMINER bell
+taken
+taken from
+that'd have
+that'd have been
+that !PRONOUNNOMINAL had
+that are no more
+that are past
+that attracted
+that established !DETERMINER historic significance
+that established !DETERMINER historical significance
+that had
+that had been
+that happened
+that has been
+that has existed
+that have existed
+that is !DETERMINER last time
+that is no more
+that it happened
+that was
+that was !DETERMINER last time
+that was back
+that was back in
+thegn-born
+their background
+their childhoods
+their time came when
+then-!DETERMINER-days
+then expanding across
+then mushrooming across
+then proliferating across
+there'd
+there'd have
+there'd have been
+there has been
+there has been !DETERMINER
+there has been much
+there have been
+there have been !DETERMINER
+there have been many
+there was
+there was !DETERMINER
+there was !DETERMINER time
+there was !DETERMINER time when
+there was never any mention of
+there was no mention of
+there was no need
+there was no need to
+there were
+these memories
+these were
+they'd
+they'd !ROUTINEACT
+they'd have been
+they'd have had
+they'd often
+they'd used to
+they've long been
+things from !DETERMINER past
+things past
+THINK BACK
+think back on
+think back over
+thinking back
+thinking back on
+thinking back over
+thinking back to
+thinks back on
+thinks back over
+thinks back to
+this happened
+this has been
+this has been one of those
+this was
+those memories
+thought back on
+thought back over
+thought back to
+thought of !DETERMINER !TIMEFRAME when !PRONOUNNOMINAL had
+thought of !DETERMINER time when !PRONOUNNOMINAL had
+thought of !DETERMINER times when
+thought of !DETERMINER times when !PRONOUNNOMINAL had
+throughout !DETERMINER ages
+throughout !DETERMINER course of time
+throw-back
+throw-back to
+throw-backs
+throw back to
+throwback
+throwback to
+throwbacks
+time was
+times of old
+times of yore
+times past
+times used to be
+times were
+to !DETERMINER past
+to have been
+to look back on
+to look back to
+to remember
+to remind !PRONOUNOBJECTIVE
+to remind !PRONOUNOBJECTIVE of
+to remind me
+to remind me of
+to remind us
+to remind us of
+to remind you
+to remind you of
+tooth relic
+tooth relics
+toward !DETERMINER past
+towards !DETERMINER past
+transport back to !DETERMINER time
+transported back to !DETERMINER time
+transporting back to !DETERMINER time
+transports back to !DETERMINER time
+TRIED TO BREAK !DETERMINER HABIT
+tried to link
+tried to link this to
+tried to recall
+tries to recall
+try to recall
+trying to recall
+turn back !DETERMINER hands of time
+turned back !DETERMINER hands of time
+turning back !DETERMINER hands of time
+turns back !DETERMINER hands of time
+twas
+undergone
+underwent
+use hindsight
+used !DETERMINER power
+used in !DETERMINER past
+used to
+used to be
+used to be that
+used to have
+used to have been
+used to have been !DETERMINER
+used to have been that
+used to keep two parts separated
+USED TO OCCASIONALLY
+uses hindsight
+using hindsight
+vestige
+vestiges
+VIEWED IN RETROSPECT
+VIEWED RETROSPECTIVELY
+viewing it retrospectively
+vintage
+vintages
+WALKED CLEAN OUT OF
+WALKED IN TURN
+was
+was  !DETERMINER
+WAS !DETERMINER ACCEPTED
+was !DETERMINER companion
+was !DETERMINER companion to
+was !DETERMINER compendious
+was !DETERMINER crucial
+WAS !DETERMINER CUSTOM
+was !DETERMINER embodiment
+was !DETERMINER essential
+was !DETERMINER important
+was !DETERMINER KEYS TO !DETERMINER
+was !DETERMINER LAST PERSON !DETERMINER
+WAS !DETERMINER LAW
+was !DETERMINER manifestation
+was !DETERMINER monumental
+was !DETERMINER NAME OF !DETERMINER
+was !DETERMINER object of
+was !DETERMINER part of
+was !DETERMINER party to
+WAS !DETERMINER RULE
+WAS !DETERMINER RULE OF THUMB
+was !DETERMINER significant
+was !DETERMINER story
+was !DETERMINER subject
+was !DETERMINER symbol
+was !DETERMINER THING !DETERMINER
+WAS !DETERMINER TRADITION
+was !DETERMINER VERY THING !DETERMINER
+was !DETERMINER work
+was !DETERMINER work of
+was !MOTIONPREP !VPARTICLE
+was !POSSESSIVEPRONOUN
+was !POSSESSIVEPRONOUN way of
+was !QUESTION
+was !QUESTION !DETERMINER
+was !QUESTION !PRONOUNNOMINAL
+was !QUESTION !PRONOUNNOMINAL did
+was !QUESTION needs
+was !ROUTINEACT to
+was !VPARTICLE !DETERMINER
+was abatable
+was about
+was about all
+was acronymic
+was acronyms for
+was actually
+was actually !DETERMINER
+was ALIGNED WITH !DETERMINER
+was all
+was all along
+was ALSO !DETERMINER
+was among !DETERMINER
+was an acronym
+was an important part of
+was an object of
+was an understatement
+was ascertained
+was ascertained for
+was ascertained to be
+was AVAILABLE FOR !DETERMINER
+was AVAILABLE TO !DETERMINER
+was AVAILABLE WITH !DETERMINER
+was BECOMING !DETERMINER
+was BECOMING INCREASINGLY !DETERMINER
+was being
+was being done
+was between !DETERMINER
+was between this
+was binding
+was BUSY WITH !DETERMINER
+WAS BUT
+was called out by
+was called out for
+was cast in stone
+was close
+was CLOSELY RELATED TO !DETERMINER
+was compound by
+was compounded
+was CONNECTED WITH !DETERMINER
+was contained
+was contained by
+was COUPLED WITH !DETERMINER
+was CRUCIAL FOR !DETERMINER
+was DEPENDENT ON !DETERMINER
+was determined for
+was determined to be
+was DIVIDED INTO !DETERMINER
+was doing !QUESTION
+was due to
+was ESSENTIAL TO !DETERMINER
+was essentially
+was essentially !DETERMINER
+was facing
+was facing !DETERMINER
+was forced to
+was found for
+was found to be
+was FRAGMENTED INTO !DETERMINER
+was FROM !DETERMINER
+was GAME TO
+was HARD ON !DETERMINER
+was heavy
+was immune from
+was immune to
+was IMPORTANT TO !DETERMINER
+was in !DETERMINER wind
+was in control
+was IN EFFECT !DETERMINER
+was IN RELATIVE AGREEMENT ABOUT !DETERMINER
+was indicative of
+was INTO !DETERMINER
+was itself
+was itself !DETERMINER
+was JUST ABOUT !DETERMINER
+was made aware of
+was never able to
+was never prepared for
+was never prepared to
+was not approved
+was not yet
+was objects of
+was OF !DETERMINER
+was of interest
+was of note
+was of some interest
+was of some note
+was of special note
+was ONE OF !DETERMINER
+was one of !DETERMINER central
+was one of !DETERMINER key
+was one of !DETERMINER main
+was one of !DETERMINER most
+was one of !DETERMINER salient
+was one of many
+was one of several
+was OUT OF POCKET FOR !DETERMINER
+was OUT TO BE !DETERMINER
+WAS OWNED BY
+was part of
+was PARTICULARLY !DETERMINER
+was parties to
+was party to
+was POINTED IN !DETERMINER
+was PRESENT !DETERMINER
+was PRESENT AT !DETERMINER
+was PRESENTED !DETERMINER
+was prevalent
+was prevalent in
+was PRONE TO !DETERMINER
+was PROPERLY !DETERMINER
+was raised by
+was raised from
+was raised with
+was READY !DETERMINER
+was READY FOR !DETERMINER !DETERMINER
+was really something
+was really something to
+was regarded
+was regarded as
+was regarded by
+was RELATED TO !DETERMINER
+was REPRESENTATIVE OF !DETERMINER
+was SECOND NATURE TO !DETERMINER
+was selectively
+was set in stone
+was SIGNIFICANT !DETERMINER
+was SIGNIFICANTLY !DETERMINER
+was SIMPLE !DETERMINER
+was SLATED FOR !DETERMINER
+was SLATED TO !DETERMINER
+was SOME !DETERMINER
+was something
+was SOMETHING !DETERMINER
+was SOMETHING !MOTIONPREP !DETERMINER
+was SOMETHING !VPARTICLE !DETERMINER
+was SOMETHING ABOUT !DETERMINER
+was SOMETHING ELSE !DETERMINER
+was SOMETHING ELSE AGAIN !DETERMINER
+was SOMETHING FOR !DETERMINER
+was SOMETHING OF !DETERMINER !DETERMINER
+was something of interest
+was something of special note
+was SOMETHING SO !DETERMINER
+was something to
+was SOMETHING TO !DETERMINER
+was something to note
+was STATEMENTS !DETERMINER
+was steadily
+was SUBMITTED !DETERMINER
+was SUBMITTED BY !DETERMINER
+was SUCH !DETERMINER !DETERMINER
+was SUSCEPTIBLE TO !DETERMINER
+was TALKED OUT !DETERMINER
+was that
+was THEIR
+was THERE IN PERSON !DETERMINER
+was there.
+was TOLD !QUESTION !DETERMINER
+was TOLD HOW !DETERMINER
+was TOLD WHERE !DETERMINER
+was TOLD WHY !DETERMINER
+was UP FRONT !DETERMINER
+was used
+was used to
+was USED TO !DETERMINER
+was VARIED !DETERMINER
+was VERY UP-FRONT !DETERMINER
+was VERY UP FRONT !DETERMINER
+was visible
+was VITAL TO !DETERMINER
+was voted against
+was voted for
+was voted up
+was watching
+was WITH !DETERMINER
+was WITH CERTAIN OF !DETERMINER
+was YET ANOTHER
+wasn't scheduled to arrive until
+wast
+way back when
+we'd !ROUTINEACT
+we've long been
+we had
+we had been
+we had been living
+we have been through
+we have gone through
+we last
+we missed
+we used to
+we used to be
+we were living
+went on her first
+went on his first
+went on their first
+were
+were !DETERMINER companion
+were !DETERMINER companion to
+were !DETERMINER compendious
+were !DETERMINER KEYS TO !DETERMINER
+were !DETERMINER LAST PERSON !DETERMINER
+were !DETERMINER manifestation
+were !DETERMINER monumental
+were !DETERMINER NAME OF !DETERMINER
+were !DETERMINER object of
+were !DETERMINER part of
+were !DETERMINER party to
+were !DETERMINER THING !DETERMINER
+were !DETERMINER VERY THING !DETERMINER
+WERE !QUESTION
+were !QUESTION !PRONOUNNOMINAL
+were !QUESTION !PRONOUNNOMINAL did
+were !QUESTION needs
+were abatable
+were about
+were about all
+were acronymic
+were acronyms for
+were actually
+were actually !DETERMINER
+were ALIGNED WITH !DETERMINER
+were all
+were ALSO !DETERMINER
+were among !DETERMINER
+were an acronym
+were an important part of
+were an object of
+were an understatement
+were AVAILABLE FOR !DETERMINER
+were AVAILABLE TO !DETERMINER
+were AVAILABLE WITH !DETERMINER
+were BECOMING !DETERMINER
+were BECOMING INCREASINGLY !DETERMINER
+were being
+were being done
+were between !DETERMINER
+were between this
+were binding
+were BUSY WITH !DETERMINER
+were cast in stone
+were close
+were closed
+were CLOSELY RELATED TO !DETERMINER
+were compound by
+were compounded
+were CONNECTED WITH !DETERMINER
+were contained
+were contained by
+were COUPLED WITH !DETERMINER
+were CRUCIAL FOR !DETERMINER
+were DEPENDENT ON !DETERMINER
+were DIVIDED INTO !DETERMINER
+were doing !QUESTION
+were due to
+were ESSENTIAL TO !DETERMINER
+were essentially
+were essentially !DETERMINER
+were facing
+were facing !DETERMINER
+were forced to
+were FRAGMENTED INTO !DETERMINER
+were FROM !DETERMINER
+were GAME TO
+were HARD ON !DETERMINER
+were heavy
+were HELL BENT ON !DETERMINER
+were HELPFUL IN !DETERMINER
+were here.
+were HEREIN !DETERMINER
+were HEREIN INCLUDED !DETERMINER
+were HOT ON !DETERMINER TRAIL OF !DETERMINER
+were immune from
+were immune to
+were IMPORTANT TO !DETERMINER
+were in control
+were IN EFFECT !DETERMINER
+were IN RELATIVE AGREEMENT ABOUT !DETERMINER
+were indicative of
+were INTO !DETERMINER
+were itself
+were itself !DETERMINER
+were JUST ABOUT !DETERMINER
+were objects of
+were OF !DETERMINER
+were of interest
+were of note
+were of some interest
+were of some note
+were of special note
+were ONE OF !DETERMINER
+were one of !DETERMINER central
+were one of !DETERMINER key
+were one of !DETERMINER main
+were one of !DETERMINER most
+were one of !DETERMINER salient
+were one of many
+were one of several
+were OUT OF POCKET FOR !DETERMINER
+were OUT TO BE !DETERMINER
+were paid for
+were part of
+were PARTICULARLY !DETERMINER
+were parties to
+were party to
+were POINTED IN !DETERMINER
+were PRESENT !DETERMINER
+were PRESENT AT !DETERMINER
+were PRESENTED !DETERMINER
+were prevalent
+were prevalent in
+were PRONE TO !DETERMINER
+were PROPERLY !DETERMINER
+were READY !DETERMINER
+were READY FOR !DETERMINER !DETERMINER
+were really something
+were really something to
+were RELATED TO !DETERMINER
+were REPRESENTATIVE OF !DETERMINER
+were SECOND NATURE TO !DETERMINER
+were selectively
+were set in stone
+were SIGNIFICANT !DETERMINER
+were SIGNIFICANTLY !DETERMINER
+were SIMPLE !DETERMINER
+were SLATED FOR !DETERMINER
+were SLATED TO !DETERMINER
+were SOME !DETERMINER
+were something
+were SOMETHING !DETERMINER
+were SOMETHING !MOTIONPREP !DETERMINER
+were SOMETHING !VPARTICLE !DETERMINER
+were SOMETHING ABOUT !DETERMINER
+were SOMETHING ELSE !DETERMINER
+were SOMETHING ELSE AGAIN !DETERMINER
+were SOMETHING FOR !DETERMINER
+were SOMETHING OF !DETERMINER !DETERMINER
+were something of interest
+were something of special note
+were SOMETHING SO !DETERMINER
+were something to
+were SOMETHING TO !DETERMINER
+were something to note
+were STATEMENTS !DETERMINER
+were steadily
+were SUBMITTED !DETERMINER
+were SUBMITTED BY !DETERMINER
+were SUCH !DETERMINER !DETERMINER
+were SUSCEPTIBLE TO !DETERMINER
+were TALKED OUT !DETERMINER
+were THEIR
+were THERE IN PERSON !DETERMINER
+were there.
+were TOLD !QUESTION !DETERMINER
+were TOLD HOW !DETERMINER
+were TOLD WHERE !DETERMINER
+were TOLD WHY !DETERMINER
+were UP FRONT !DETERMINER
+were used
+were used to
+were USED TO !DETERMINER
+were VARIED !DETERMINER
+were VERY UP-FRONT !DETERMINER
+were VERY UP FRONT !DETERMINER
+were visible
+were VITAL TO !DETERMINER
+were WITH !DETERMINER
+were WITH CERTAIN OF !DETERMINER
+were YET ANOTHER
+wert
+when it came time
+when it came time to
+when time came
+when time came to
+when were !DETERMINER
+Whence did
+whence had
+whence have
+whence were
+where were !DETERMINER
+which are no more
+which had been !DETERMINER common practice
+which had been !DETERMINER standard practice
+which is no more
+whilom
+whisked !PRONOUNOBJECTIVE back in time
+who !ROUTINEACT had been
+who !ROUTINEACT have been
+who had
+who had been
+who have been
+who were !DETERMINER
+why were !DETERMINER
+WITH !DETERMINER EYE looking back
+WITH !DETERMINER EYE TOWARD !DETERMINER past
+with memories
+woman-born
+woman-bred
+woman of old
+women of old
+wore with !DETERMINER
+worn a path
+worn a path through
+worn back in
+worn with !DETERMINER
+would
+would've
+would !ROUTINEACT
+would by custom
+would characteristically
+would constantly
+would continually
+would customarily
+would cyclically
+would frequently
+would generally
+would habitually
+would have been
+would incessantly
+would infrequently
+would intermittently
+would like clockwork
+would listen
+would make !DETERMINER sojourn
+would mean
+would normally
+would occasional
+would occasionally
+would often
+would on occasion
+would periodically
+would regularly
+would repeatedly
+would routinely
+would seasonally
+would sing
+would sporadically
+would typically
+would usually
+would usually find !DETERMINER
+would usually have !DETERMINER
+would usually take !DETERMINER
+would, by custom
+YEARS AGO
+yester
+yester-
+yester-year
+yester-year's
+yester-years
+yester evening
+yester morning
+yester night
+yesterday
+yesterday's
+yesterday evening
+yesterday morning
+yesterdays
+yesterevening
+yestermorning
+yesternight
+yesteryear
+yesteryears
+yore
+you'd !ROUTINEACT
+you last
+you missed
+your background

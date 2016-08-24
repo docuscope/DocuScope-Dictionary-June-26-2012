@@ -1,0 +1,12 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+conjecture that
+conjecture:
+conjectured that
+conjectured:
+conjectures that
+conjectures:
+conjecturing that
+conjecturing:

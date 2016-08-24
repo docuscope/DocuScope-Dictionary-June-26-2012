@@ -1,0 +1,167 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX alleged that
+!AUX allegedly
+!PRONOUNNOMINAL apologize for
+!PRONOUNNOMINAL apologizes for
+!PRONOUNNOMINAL had to apologize for
+acknowledge that
+acknowledged that
+acknowledges that
+acknowledging that
+allege
+allege that
+allege to have
+allegeable
+alleged
+alleged that
+alleged to have
+allegedly
+alleges
+alleges that
+alleges to
+alleges to have
+alleging
+alleging that
+alleging tht
+alleging to have
+brag that
+bragged that
+bragging that
+brags that
+charge that
+charged that
+charges that
+charging that
+concede that
+conceded that
+concedes that
+conceding that
+crow that
+crowed that
+crowing that
+crows that
+even admit
+even admits
+even admitted
+even admitting
+even would admit that
+had to retract
+mouth off
+mouthed off
+mouthed off about
+mouthed off that
+mouthing off
+mouths off
+prattle
+prattle about
+prattle on
+prattle on about
+prattle on and on
+prattled about
+prattled for
+prattled on
+prattled on about
+prattled with
+prattler
+prattlers
+prattles
+prattles about
+prattles on
+prattles on about
+prattling
+prattling about
+prattling on
+prattling on about
+prattling on and on
+retract !DETERMINER previous statement
+retract !DETERMINER statement
+retract !POSSESSIVEPRONOUN earlier
+retract !POSSESSIVEPRONOUN earlier statement
+retract !POSSESSIVEPRONOUN earlier statements
+retract !POSSESSIVEPRONOUN previous
+retract !POSSESSIVEPRONOUN previous statement
+retract !POSSESSIVEPRONOUN previous statements
+retract !POSSESSIVEPRONOUN statement
+retract my previous statement
+retract my statement
+retract our previous statement
+retract our statement
+retract your previous statement
+retract your statement
+retracted !DETERMINER previous statement
+retracted !DETERMINER statement
+retracted !POSSESSIVEPRONOUN earlier
+retracted !POSSESSIVEPRONOUN earlier statement
+retracted !POSSESSIVEPRONOUN earlier statements
+retracted !POSSESSIVEPRONOUN previous
+retracted !POSSESSIVEPRONOUN previous statement
+retracted !POSSESSIVEPRONOUN previous statements
+retracted !POSSESSIVEPRONOUN statement
+retracted my previous statement
+retracted my statement
+retracted our previous statement
+retracted our statement
+retracted your previous statement
+retracted your statement
+retracting !DETERMINER previous statement
+retracting !DETERMINER statement
+retracting !POSSESSIVEPRONOUN earlier
+retracting !POSSESSIVEPRONOUN earlier statement
+retracting !POSSESSIVEPRONOUN earlier statements
+retracting !POSSESSIVEPRONOUN previous
+retracting !POSSESSIVEPRONOUN previous statement
+retracting !POSSESSIVEPRONOUN previous statements
+retracting !POSSESSIVEPRONOUN previous statment
+retracting !POSSESSIVEPRONOUN statement
+retracting my previous statement
+retracting my statement
+retracting our previous statement
+retracting our statement
+retracting your previous statement
+retracting your statement
+retracts !DETERMINER previous statement
+retracts !DETERMINER statement
+retracts !POSSESSIVEPRONOUN earlier
+retracts !POSSESSIVEPRONOUN earlier statement
+retracts !POSSESSIVEPRONOUN earlier statements
+retracts !POSSESSIVEPRONOUN previous
+retracts !POSSESSIVEPRONOUN previous statement
+retracts !POSSESSIVEPRONOUN previous statements
+retracts !POSSESSIVEPRONOUN statement
+retracts my previous statement
+retracts my statement
+retracts our previous statement
+retracts our statement
+retracts your previous statement
+retracts your statement
+spew out that
+spewed out that
+spewing out that
+spews out that
+spiel off
+spieled off
+spieling off
+spiels off
+spout off that
+spouted off that
+spouting off that
+spouts off that
+tout
+tout that
+touted
+touted that
+touting
+touting that
+touts
+touts that
+wax on about
+wax on that
+waxed on about
+waxed on that
+waxes on about
+waxes on that
+waxing on about
+waxing on that

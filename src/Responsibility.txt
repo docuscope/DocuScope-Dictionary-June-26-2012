@@ -1,0 +1,562 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+!AUX beholden
+!AUX beholden to
+!AUX being arranged
+!AUX being dealt with
+!AUX being handled
+!AUX being taken care of
+!AUX liable under
+!DO all that can be done
+!LEAVE it up to
+!LEAVE it up to !PRONOUNOBJECTIVE
+!MUSTSHOULD atone for
+!MUSTSHOULD seek forgiveness
+!OUGHTNEED atone for
+!OUGHTNEED seek forgiveness
+!PRONOUNNOMINAL committed
+!PRONOUNNOMINAL obligated
+!TAKE !DETERMINER active part in
+!TAKE !DETERMINER air
+!TAKE !DETERMINER air line
+!TAKE !DETERMINER approach to
+!TAKE !DETERMINER assumed name
+!TAKE !DETERMINER average
+!TAKE !DETERMINER back track
+!TAKE !DETERMINER bait
+!TAKE !DETERMINER ball on !DETERMINER rebound
+!TAKE !DETERMINER BATH
+!TAKE !DETERMINER BATH ON !DETERMINER
+!TAKE !DETERMINER bit in
+!TAKE !DETERMINER bite out
+!TAKE !DETERMINER CAKE
+!TAKE !DETERMINER chair
+!TAKE !DETERMINER chill off
+!TAKE !DETERMINER consequences
+!TAKE !DETERMINER count
+!TAKE !DETERMINER COURSE IN
+!TAKE !DETERMINER cross
+!TAKE !DETERMINER cure
+!TAKE !DETERMINER data
+!TAKE !DETERMINER deduction
+!TAKE !DETERMINER dimensions of
+!TAKE !DETERMINER edge off of
+!TAKE !DETERMINER excerpt from
+!TAKE !DETERMINER field
+!TAKE !DETERMINER first step
+!TAKE !DETERMINER flier
+!TAKE !DETERMINER floor
+!TAKE !DETERMINER foreign language
+!TAKE !DETERMINER form
+!TAKE !DETERMINER form of
+!TAKE !DETERMINER good !DETERMINER gods provide
+!TAKE !DETERMINER ground
+!TAKE !DETERMINER HAND IN
+!TAKE !DETERMINER helm
+!TAKE !DETERMINER HINT
+!TAKE !DETERMINER HOLD OF
+!TAKE !DETERMINER job
+!TAKE !DETERMINER last count
+!TAKE !DETERMINER law of
+!TAKE !DETERMINER lid off
+!TAKE !DETERMINER LOAD
+!TAKE !DETERMINER loan
+!TAKE !DETERMINER Lord's name in vain
+!TAKE !DETERMINER mantle of
+!TAKE !DETERMINER marriage vows
+!TAKE !DETERMINER MATTER
+!TAKE !DETERMINER mean
+!TAKE !DETERMINER measure
+!TAKE !DETERMINER offensive
+!TAKE !DETERMINER PAGE OUT OF
+!TAKE !DETERMINER part
+!TAKE !DETERMINER part of
+!TAKE !DETERMINER percentage
+!TAKE !DETERMINER pledge
+!TAKE !DETERMINER premium
+!TAKE !DETERMINER PULSE of
+!TAKE !DETERMINER quiz
+!TAKE !DETERMINER RAIN CHECK
+!TAKE !DETERMINER random sample
+!TAKE !DETERMINER reading
+!TAKE !DETERMINER reciprocal course
+!TAKE !DETERMINER road
+!TAKE !DETERMINER ROLL
+!TAKE !DETERMINER set
+!TAKE !DETERMINER set of
+!TAKE !DETERMINER shape of
+!TAKE !DETERMINER shine out of
+!TAKE !DETERMINER STARCH OUT OF
+!TAKE !DETERMINER stump
+!TAKE !DETERMINER throne
+!TAKE !DETERMINER tuck out of
+!TAKE !DETERMINER turn
+!TAKE !DETERMINER veil
+!TAKE !DETERMINER WORDS OUT OF !POSSESSIVEPRONOUN MOUTH
+!TAKE !POSSESSIVEPRONOUN bearings
+!TAKE !POSSESSIVEPRONOUN business to
+!TAKE !POSSESSIVEPRONOUN ease
+!TAKE !POSSESSIVEPRONOUN measure
+!TAKE !POSSESSIVEPRONOUN order
+!TAKE !POSSESSIVEPRONOUN PART
+!TAKE !POSSESSIVEPRONOUN picture
+!TAKE !POSSESSIVEPRONOUN position
+!TAKE !POSSESSIVEPRONOUN stand
+!TAKE !POSSESSIVEPRONOUN stand upon
+!TAKE !POSSESSIVEPRONOUN trade to
+!TAKE !POSSESSIVEPRONOUN turn
+!TAKE !POSSESSIVEPRONOUN way
+!TAKE !PRONOUNOBJECTIVE by hand
+!TAKE !PRONOUNOBJECTIVE for !DETERMINER
+!TAKE !PRONOUNOBJECTIVE for granted
+!TAKE !PRONOUNOBJECTIVE OVER
+!TAKE action
+!TAKE advice
+!TAKE all of
+!TAKE another look
+!TAKE arms
+!TAKE as !DETERMINER excuse
+!TAKE as !DETERMINER model
+!TAKE as !DETERMINER occasion
+!TAKE as !DETERMINER precondition
+!TAKE as !DETERMINER reason
+!TAKE at face value
+!TAKE ATTENDANCE
+!TAKE away from
+!TAKE back
+!TAKE bearings
+!TAKE biology
+!TAKE birth
+!TAKE care
+!TAKE care of
+!TAKE care of number one
+!TAKE center stage
+!TAKE CHARGE
+!TAKE charge of
+!TAKE CHARGE OVER
+!TAKE chemistry
+!TAKE command
+!TAKE COMPLETE CONTROL
+!TAKE CONTROL
+!TAKE control of
+!TAKE control over
+!TAKE counsel
+!TAKE counsel with
+!TAKE courage
+!TAKE credit
+!TAKE doing
+!TAKE down in shorthand
+!TAKE excerpts from
+!TAKE fire
+!TAKE for
+!TAKE for !DETERMINER
+!TAKE for !DETERMINER sucker
+!TAKE for better or for worse
+!TAKE for gospel
+!TAKE form
+!TAKE FORTY WINKS
+!TAKE fright
+!TAKE from
+!TAKE full responsibility
+!TAKE gym
+!TAKE history
+!TAKE hold
+!TAKE HOLD OF
+!TAKE hold of one
+!TAKE holy orders
+!TAKE horse
+!TAKE in !DETERMINER
+!TAKE in !DETERMINER reef
+!TAKE in !DETERMINER sights
+!TAKE in at
+!TAKE in bad part
+!TAKE in exchange
+!TAKE in good part
+!TAKE in vain
+!TAKE into camp
+!TAKE into employment
+!TAKE INVENTORY
+!TAKE it
+!TAKE it all
+!TAKE IT APART
+!TAKE it as given
+!TAKE IT AWAY
+!TAKE IT EASY ON
+!TAKE IT FROM
+!TAKE it like !DETERMINER man
+!TAKE it lying down
+!TAKE it meanstream
+!TAKE it on !DETERMINER lam
+!TAKE it or leave it
+!TAKE it out of
+!TAKE IT UPON !PRONOUNOBJECTIVE
+!TAKE IT WITH
+!TAKE IT WITH !DETERMINER PINCE OF SALT
+!TAKE its rise
+!TAKE its rise from
+!TAKE lessons
+!TAKE LIBERTIES
+!TAKE LIBERTIES WITH
+!TAKE life
+!TAKE life easy
+!TAKE line
+!TAKE lying down
+!TAKE mainstream
+!TAKE math
+!TAKE matters into
+!TAKE matters into !POSSESSIVEPRONOUN hands
+!TAKE measures
+!TAKE medicine
+!TAKE narrow views
+!TAKE no account of
+!TAKE notes
+!TAKE nourishment
+!TAKE off !DETERMINER high
+!TAKE off weight
+!TAKE on
+!TAKE on credit
+!TAKE on faith
+!TAKE on over
+!TAKE on weight
+!TAKE one's life
+!TAKE one over
+!TAKE order
+!TAKE orders
+!TAKE origin
+!TAKE our bearings
+!TAKE our business to
+!TAKE our cue from
+!TAKE our ease
+!TAKE our measure
+!TAKE our medicine
+!TAKE our opinions ready-made
+!TAKE our own course
+!TAKE our own life
+!TAKE our picture
+!TAKE our position
+!TAKE our stand
+!TAKE our stand upon
+!TAKE our trade to
+!TAKE our turn
+!TAKE our way
+!TAKE our word
+!TAKE ourselves off
+!TAKE out insurance
+!TAKE out membership
+!TAKE out of mothballs
+!TAKE over
+!TAKE over !DETERMINER
+!TAKE physics
+!TAKE place
+!TAKE position
+!TAKE possession
+!TAKE possession of
+!TAKE possession over
+!TAKE potluck
+!TAKE power
+!TAKE precautions
+!TAKE proceedings
+!TAKE quizzes
+!TAKE random samples
+!TAKE rank
+!TAKE responsibility
+!TAKE responsibility to
+!TAKE rest
+!TAKE rise
+!TAKE sides
+!TAKE sides with
+!TAKE silk
+!TAKE snuff
+!TAKE some doing
+!TAKE soundings
+!TAKE steps and measures
+!TAKE stock in
+!TAKE ten
+!TAKE THAT
+!TAKE that data
+!TAKE THESE
+!TAKE things as they come
+!TAKE THIS
+!TAKE this data
+!TAKE to !DETERMINER air
+!TAKE to !DETERMINER airways
+!TAKE to !DETERMINER cleaners
+!TAKE to !DETERMINER hustings
+!TAKE to account
+!TAKE to arms
+!TAKE to be
+!TAKE to court
+!TAKE to mean
+!TAKE to wife
+!TAKE TURNS
+!TAKE TURNS AT
+!TAKE UNDER !POSSESSIVEPRONOUN WING
+!TAKE under !POSSESSIVEPRONOUN wings
+!TAKE under my wing
+!TAKE under our wing
+!TAKE upon !REFLEXIVEPRONOUN
+!TAKE upon myself
+!TAKE upon our shoulders
+!TAKE upon ourselves
+!TAKE us at our word
+!TAKE us back
+!TAKE vows
+!TAKE what comes
+!TAKE wing
+accept full responsibility
+accept responsibility
+acceptable sacrifice
+accepted full responsibility
+accepted responsibility
+accepting full responsibility
+accepting responsibility
+accepts full responsibility
+accepts responsibility
+accountable
+answerable
+at fault
+bear responsibility
+bear some responsibility
+bearing responsibility
+bearing some responsibility
+bears responsibility
+bears some responsibility
+Behold !DETERMINER power of cheese
+beholden
+being dealt with
+being handled
+bore responsibility
+bore some responsibility
+bound by authority
+bound by the authority
+bound to the obligation
+bound to the responsibility
+direct report
+direct report of
+direct reports
+direct reports of
+duty-bound
+fully accountable
+fully answerable
+fully at fault
+fully beholden
+fully bound
+fully burdened
+fully culpable
+fully duty-bound
+fully in charge
+fully incumbent on
+fully obliged
+fully reliable
+fully responsible
+fully to blame
+fully under the onus
+in charge
+in charge of
+in charge of !DETERMINER
+incumbencies
+incumbency
+incumbent on
+incumbent upon
+incur !DETERMINER responsibilities
+incur !DETERMINER responsibility
+incurred !DETERMINER responsibilities
+incurred !DETERMINER responsibility
+incurring !DETERMINER responsibilities
+incurring !DETERMINER responsibility
+incurs !DETERMINER responsibilities
+incurs !DETERMINER responsibility
+it is up to everyone
+liable under
+necessary sacrifice
+obligate
+obligate !DETERMINER
+obligate !POSSESSIVEPRONOUN
+obligate !PRONOUNOBJECTIVE
+obligate !REFLEXIVEPRONOUN
+obligate me
+obligate myself
+obligate ourselves
+obligated
+obligated !DETERMINER
+obligated !POSSESSIVEPRONOUN
+obligated !PRONOUNOBJECTIVE
+obligated !REFLEXIVEPRONOUN
+obligated me
+obligated myself
+obligated ourselves
+obligates
+obligates !DETERMINER
+obligates !POSSESSIVEPRONOUN
+obligates !PRONOUNOBJECTIVE
+obligates !REFLEXIVEPRONOUN
+obligates me
+obligates myself
+obligates ourselves
+obligating
+obligating !DETERMINER
+obligating !POSSESSIVEPRONOUN
+obligating !PRONOUNOBJECTIVE
+obligating !REFLEXIVEPRONOUN
+obligating me
+obligating myself
+obligating ourselves
+obligation
+obligations
+obligator
+obligatorily
+obligators
+obligatory
+oblige
+obliged
+ones responsible
+onus
+onuses
+part responsibility
+partly responsible
+report to
+reported to
+reporting to
+reports to
+responsibilities
+responsibilities for
+responsibilities to
+responsibility
+responsible
+responsible for
+responsible to
+rest on !DETERMINER shoulders of
+rest squarely on
+rest squarely with
+rested on !DETERMINER shoulders of
+rested squarely on
+rested squarely with
+resting on !DETERMINER shoulders of
+resting squarely on
+resting squarely with
+restitutio in integrum
+restitution to
+rests on !DETERMINER shoulders of
+rests squarely on
+rests squarely with
+shoulder !DETERMINER
+shoulder !DETERMINER burden
+shoulder !DETERMINER responsibility
+shouldered !DETERMINER
+shouldered !DETERMINER burden
+shouldered !DETERMINER responsibility
+shouldering !DETERMINER
+shouldering !DETERMINER burden
+shouldering !DETERMINER responsibility
+shoulders !DETERMINER
+shoulders !DETERMINER burden
+shoulders !DETERMINER responsibility
+some responsibility
+strategic sacrifice
+the one to blame
+the ones responsible
+the people responsible
+the persons responsible
+the responsible parties
+those responsible
+those who are responsible
+under !DETERMINER advice
+under !DETERMINER aegis
+under !DETERMINER aegis of
+under !DETERMINER allowed
+under !DETERMINER auspice
+under !DETERMINER auspice of
+under !DETERMINER auspices
+under !DETERMINER auspices of
+under !DETERMINER authority
+under !DETERMINER authority of
+under !DETERMINER authorization
+under !DETERMINER authorization of
+under !DETERMINER care
+under !DETERMINER circumstances of
+under !DETERMINER classification of
+under !DETERMINER consideration
+under !DETERMINER consideration of
+under !DETERMINER control
+under !DETERMINER control of
+under !DETERMINER counsel
+under !DETERMINER direction of
+under !DETERMINER evident
+under !DETERMINER express written
+under !DETERMINER express written consent
+under !DETERMINER guidance
+under !DETERMINER guidance of
+under !DETERMINER guiding
+under !DETERMINER influence of
+under !DETERMINER influence of !DETERMINER
+under !DETERMINER influence of !POSSESSIVEPRONOUN
+under !DETERMINER necessity
+under !DETERMINER obligation
+under !DETERMINER order
+under !DETERMINER orders of
+under !DETERMINER ownership of
+under !DETERMINER protection of
+under !DETERMINER purview
+under !DETERMINER purview of
+under !DETERMINER reign
+under !DETERMINER review of
+under !DETERMINER rubric of
+under !DETERMINER rule of
+under !DETERMINER rule of law
+under !DETERMINER rules
+under !DETERMINER rules set by
+under !DETERMINER scrutiny
+under !DETERMINER scrutiny of
+under !DETERMINER sponsorship
+under !DETERMINER sponsorship of
+under !DETERMINER stipulation
+under !DETERMINER stipulation that
+under !DETERMINER stipulations
+under !DETERMINER stipulations that
+under !DETERMINER supervision
+UNDER !DETERMINER SUPERVISION OF
+under !DETERMINER supreme
+under !DETERMINER topic of
+under !DETERMINER tutelage
+under !DETERMINER tutelage of
+UNDER !DETERMINER WATCH OF
+under !DETERMINER wing
+under !DETERMINER wing of
+under !POSSESSIVEPRONOUN command
+under !POSSESSIVEPRONOUN control
+under !POSSESSIVEPRONOUN jurisdiction
+under !POSSESSIVEPRONOUN orders
+under !POSSESSIVEPRONOUN supervision
+under active
+under active care
+under active consideration
+under active treatment
+under advisement
+under appeal
+under consideration
+under discussion
+under discussion with
+under examination
+under god
+under her direction
+under her leadership
+under her management
+under her supervision
+under his direction
+under his leadership
+under his management
+under his supervision
+under investigation
+under my supervision
+under oath
+under obligation
+under our supervision
+under review
+under review by
+under scrutiny of
+under surveillance
+under terms
+under terms negotiated
+under terms worked out
+under the burden
+under this understanding

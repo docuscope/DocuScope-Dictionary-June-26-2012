@@ -1,0 +1,94 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!DETERMINER court has ruled
+!DETERMINER court ruled
+!DETERMINER court rules
+!DETERMINER courts have ruled
+!DETERMINER courts rule
+!DETERMINER courts ruled
+!HAVE conclusively argued
+!HAVE conclusively reported
+!HAVE conclusively shown
+!HAVE definitively argued
+!HAVE definitively reported
+!HAVE definitively shown
+conclude:
+concluded !POSSESSIVEPRONOUN !GENRE by
+concluded !POSSESSIVEPRONOUN !GENRE with
+concluded that:
+concluded:
+concludes:
+concluding:
+confirm that
+confirm:
+confirmed that
+confirmed:
+confirming that
+confirming:
+confirms that
+confirms:
+examination indicates
+examination suggests
+expatiate
+expatiate on
+expatiated
+expatiated on
+expatiates
+expatiates on
+expatiating
+expatiating on
+expatiation
+expatiation of
+expatiation on
+expatiations
+expatiations of
+expatiations on
+explain
+explain !DETERMINER
+explain that
+explain up to
+explain:
+explained !DETERMINER
+explained that
+explained to
+explained up to
+explained:
+explaining
+explaining !DETERMINER
+explaining that
+explaining up to
+explaining:
+explains:
+explicate
+explicated
+explicates
+explicating
+expound
+expound on
+expound upon
+expounded
+expounded on
+expounded upon
+expounding
+expounding on
+expounding upon
+expounds
+expounds on
+expounds upon
+ruled that
+support !DETERMINER !IDEA
+support that
+support:
+supported !DETERMINER !IDEA
+supported:
+supporting !DETERMINER !IDEA
+supporting:
+supports !DETERMINER !IDEA
+supports:
+through exhaustive reporting
+through exhaustive research
+well-placed source
+well-placed sources
+well-placed sources !CITEVERB

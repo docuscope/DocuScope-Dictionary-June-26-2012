@@ -1,0 +1,213 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+-- hold everything
+-- which
+--which
+-which
+!AUX a sidelight
+!AUX is a sidelight to
+!AUX sidelights to
+!DETERMINER sidelight of
+!GET off on a tangent
+!GET off on tangents
+!GET off the subject
+!GO off at a tangent
+!GO off on a tangent
+!GO off the subject
+!GO off the track with
+!MAKE an aside
+!SAY aside
+!SAY by the way
+!SPEAK OFF THE SUBJECT
+!TAKE us far afield
+(and
+(and who
+(as
+(as the
+(whatever
+(whatever the
+, anyhow,
+, in passing
+, which
+, which !PRONOUNNOMINAL
+, which by the way !AUX
+, which took place
+. but that's a different story
+. but that's a long story
+. but that's a longer story
+. but that's another story
+. come to think of it
+. hold everything
+. hold the thought
+. regardless!
+; hold everthing
+a side comment
+a side note
+a sidelight of
+afield
+all joking apart
+all joking aside
+all kidding aside
+all kidding aside,
+an aside I need to make
+an aside to make is
+and by the way
+and I am digressing
+and I am digressing here
+and, anyhow,
+and, by the way
+and, by the way,
+anyhow
+anyway
+anyway it is
+anyways
+appropo of nothing
+as a side comment
+as a side note
+as a sidelight
+as an aside
+as I was saying
+as sidelight
+aside from that
+aside like
+asides from that
+asides like
+at any rate
+at least he
+at least I
+at least she
+at least they
+at least we
+at least you
+beside the point
+beside the question
+besides the point
+but I digress
+but that's a different story
+but that's a long story
+but that's a longer story
+but that's another story
+by the by
+by the bye
+by the way
+by way of a digression
+by way of a parenthetical
+by way of an aside
+by way of digressing
+by way of digression
+by way of parenthesis
+digress
+digressed
+digresses
+digressing
+digression
+digressional
+digressionary
+digressions
+digressive
+digressively
+digressiveness
+divagate
+divagated
+divagates
+divagating
+divagation
+divagations
+en passant
+excursionary
+excuse the digression
+far afield
+forgive the digression
+hold everything --
+I digress
+if I may go off on a tangeant
+in an aside
+in any case let's
+in any case let us
+in any event
+in asides
+in passing
+in passing,
+incidental information
+incidental music
+incidental note
+incidental power
+incidental remark
+incidental remarks
+incidental to
+incidentally
+it is anyway
+it is anyway important
+it is perhaps worth noting
+it is worth noting
+joking aside
+kidding aside
+let me digress
+let me digress for a moment
+let me go off on a tangent
+mention !PRONOUNOBJECTIVE in passing
+mention in passing
+mentioned !PRONOUNOBJECTIVE in passing
+mentioned in passing
+mentioning !PRONOUNOBJECTIVE in passing
+mentioning in passing
+mentions !PRONOUNOBJECTIVE in passing
+mentions in passing
+my digression
+not to mention
+not to mention more than
+not to mention no fewer than
+off-the-subject
+off-the-subjects
+off-topic
+off the subject
+off the subjects
+off the topic
+offtopic
+one of the sidelights
+one sidelight
+parenthetic
+parenthetical
+parenthetically
+parenthetically speaking
+permit me to digress
+regardless
+regardless.
+said in passing
+say in passing
+saying in passing
+says in passing
+sidelight of
+sidelight to
+sidelights of
+sidelights to
+speaking incidentally
+speaking parenthetically
+tangential
+tangentially
+that's a long story
+that's beside the point
+this is only a tangential point
+to digress,
+to get off the subject
+which accompanies
+which amounts to
+which areas of
+which areas of !DETERMINER
+which by the way
+which incidentally
+which is !DETERMINER part
+which is !DETERMINER part of
+which is part
+which is part of
+which is the case of the
+which is the case with
+which is the precise situation of the
+which is the situation of the
+which is to say
+which is to say that
+which see
+which, by the way
+which, incidentally

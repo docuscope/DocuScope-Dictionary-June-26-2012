@@ -1,0 +1,702 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+CLUSTER: Subjective_Register
+Subjective Register
+This cluster is active when the text contains subjective observation.
+
+DIMENSION: First_Person
+First Person
+This dimension is active when the text contains first person.
+
+CLASS: FirstPer
+First Person (First Person)
+The use of words indicating self-reference (e.g., I, me, my, myself).
+
+DIMENSION: FirstPerson_Personal
+First Person Personal
+This dimension is active when the text contains first person personal reference.
+
+CLASS: SelfDisclosure
+Self-Disclosure (First Person Personal)
+The use of words indicating self-reference (e.g., First Person; I, me, my) in combination with verbs indicating personal thought or feeling (e.g., I think, I feel, I believe). 
+
+CLASS: SelfReluctance
+Self-Reluctance (First Person Personal)
+The use of words indicating first person resistance within decision-making,  (e.g., I regret that, I am sorry  that, I'm afraid that). 
+
+CLASS: Autobio
+Autobiography (First Person Personal)
+The use of words indicating self-reference (e.g., First Person, I, me, my) in combination with a form of have or used-to to signal an individual mind reflecting back on a personal past (e.g., I have, I have always, I used to). 
+
+DIMENSION: Personal_Register
+Personal Register
+This dimension features references to a person's personal thinking, not necessarily from the first person.
+
+CLASS: PrivateThinking 
+Private Thinking (Personal Register)
+The use of words indicating the unshared contents of an individual mind (e.g., believe, feel, conjecture, speculate, pray for, hallucinate). A front row seat into someone else's mind. 
+
+CLASS: Disclosure
+Disclosure (Personal Register)
+The use of words indicating the leaking of private information (e.g., confess, acknowledge that, admit, let on that, let it slip that). Readers are awarded special access to information that strangers won't get.
+
+CLASS: Intensity
+Intensity (Personal Register)
+The use of words indicating a mind very actively involved and committed to the ideas being expressed (e.g., very, fabulously, really, torrid, amazingly).
+
+CLASS: Immediacy
+Immediacy (Personal Register)
+The use of words indicating immediacy (e.g., right now, now, just then).
+
+CLASS: SubjectiveTime
+Subjective Time (Personal Register)
+The use of words indicating experiencing time from the inside (e.g., seems like only yesterday).
+
+CLASS: SubjectivePercept
+Subjective Perception (Personal Register)
+The use of words indicating that one's take on reality is only a version that needs to be confirmed by other minds to count as objective (e.g., it seems, tentatively, appears to be, a way to think about). 
+
+DIMENSION: Dialog_Orality
+Dialog-Orality
+This dimension features words indicating dialog between people and/or words found more in speaking than in writing (e.g. um, well).
+
+CLASS: DialogCues
+Dialog Cues (Dialog_Orality)
+The use of words indicating dialog (e.g., ',""', she said). 
+
+CLASS: OralCues
+Oral Element (Dialog_Orality)
+The use of words indicating the oral register (e.g., well, uh..um). 
+
+
+DIMENSION: Confidence
+Confident
+This dimension is active when the writing exhibits confidence.
+
+CLASS: Confidence
+Confidence (Confident)
+The use of words indicating feelings of absolute knowledge (e.g., completely true, assuredly so). 
+
+DIMENSION: Uncertainty
+Uncertain
+This dimension is active when the writing exhibits uncertainty.
+
+CLASS: Uncertainty
+Uncertainty (Uncertain)
+The use of words indicating uncertainty (e.g., maybe, perhaps). 
+
+CLUSTER: Emotion
+Emotion
+This cluster is active when the writing includes emotion. 
+
+DIMENSION: Positive_Emotion
+Positive Emotion
+This dimension is active when the writing includes positive emotion. 
+
+CLASS: Positivity
+Positivity Emotion (Positive Emotion)
+This class is active when the writing includes positive emotion. 
+
+DIMENSION: Negative_Emotion
+Negative Emotion
+This dimension is active when the writing includes negative emotion. 
+
+CLASS: Negativity
+Negative Emotion (Negative Emotion)
+This class is active when the writing includes negative emotion. 
+
+CLASS: Anger
+Anger (Negative Emotion)
+The use of words referencing anger.
+
+CLASS: Fear
+Fear (Negative Emotion)
+The use of words referencing fear.
+
+CLASS: Sad
+Sadness (Negative Emotion)
+The use of words referencing sadness. 
+
+CLASS: Reluctance
+Reluctance (Negative Emotion)
+The use of words indicating resistance within the mind (e.g., regret that, sorry that, afraid that). 
+
+
+CLASS: Apology
+Apology (Negative Emotion)
+The use of words indicating apology (e.g., I'm sorry). 
+
+
+
+
+CLUSTER: Description
+Descriptive
+This cluster is relevant when your writing needs to appeal to a feast of sights and sounds and maybe even smells, touches ("the warm embrace") and tastes ("the salty crunch of bacon").  Description conjures in the reader's mind concrete spaces, scenes, objects with lively and colorful properties, human speech and dialog. 
+
+DIMENSION: Sensory_Language
+Sensory Language
+This dimension is active when you include words that stir the senses (e.g., blue, textured), concrete things (e.g., table, chair), spatial relations (e.g., near to,  seated with), motions (e.g., run, jump), dialogue cues (e.g., ," he barked) and oral speech features (e.g., uh huh).
+
+CLASS: SenseProperty
+Sense Properties (Description)
+The use of words indicating concrete properties (e.g., pink, velvety). The five senses related to properties.
+
+CLASS: SenseObject
+Sense Objects (Description)
+The use of concrete nouns (e.g., table, chair). The five senses related to objects.
+
+DIMENSION: Space_Movement
+Space Movement
+This dimension is active when the text describes space, motion in a space or movement across spaces. 
+
+CLASS: SpaceRelation
+Spatial Relations (Description)
+The use of words indicating relations in space (e.g., sitting next to, abutting). 
+
+CLASS: SceneShift
+Scene Shifts (Description)
+The use of words indicating shifts in spatial location, typically indicated by entering or leaving human-made and geographically defined enclosures (e.g., left the room, went oudoors). 
+
+CLASS: Motions
+Motion (Description)
+The use of words indicating motion (e.g., run, skip, jump). 
+
+
+CLUSTER: Institutional_Register
+Institutional Register
+The Institutional Cluster includes writing that invokes public registers and values. 
+
+
+DIMENSION: Public_Sources
+Public Sources
+This dimension is active when the authorized source of the language used comes from public media, publications or institutions and not necessarily from the individual immediately speaking.
+
+CLASS: In_Media
+Media (Public Sources)
+The use of words circulating freely over formal or informal media channels. This includes institutional networks but also rumor, gossip, buzz and memes. These words may or may not authorized and so they are not used in warranting information as readily as the information used in commonplace authority (see the class of public language called CommonAuthorities).
+
+CLASS: CommonAuthorities
+Commonplace Authority (Public Sources)
+The use of words making direct reference to public or institutional authorities, already familiar and respected in the culture (e.g., founding fathers, Emirs, parliamentary course of action, duly authorized). 
+
+
+DIMENSION: Public_Responsibility
+Public Responsibility
+This dimension is active when the source cited accepts public responsibility for an action.
+
+CLASS: Responsibility
+Responsibilites (Public Responsibility)
+The use of words where public responsibility is referenced (e.g., responsible). Assigning
+responsibility in the second person (e.g. you are responsible) overlaps with confrontation.
+
+DIMENSION: Positive_Values
+Positive Values
+This dimension is active when positive values and innovations are referenced.
+
+CLASS: StandardsPos
+Positive Values (Positive Values)
+The use of words indicating standards most audiences believe in (e.g., justice, happiness, fairness, the good). Exerience: Standards to uphold and champion.
+
+CLASS: Innovations
+Innovation (Positive Values)
+The use of words indicating significant discovery (e.g., breakthrough, cutting-edge, state-of-the-art). Technological innovations, particularly the kind that Wall Street wants to invest in.
+
+DIMENSION: Negative_Values
+Negative Values
+This dimension is active when the text references negative values, like injustice or fraud.
+
+CLASS: StandardsNeg
+Negative Values (Negative Values)
+The use of words indicating standards most audiences reject (e.g., Injustice, unhappiness, unfairness, the bad). 
+
+CLUSTER: Academic_Register
+Academic Register
+This cluster is active when the text uses an academic register.
+
+DIMENSION: Abstract_Thought
+Abstract Thought
+This dimension is active when text relies on abstract thought. 
+
+CLASS: AbstractConcepts
+Abstract Concepts (Academic Register)
+The use of words indicating abstract concepts (e.g., metaphysics), a category including a very large set of latin (tion, sion, ment, ogy) or greek (logy) suffixes and other patterns indicating abstract general concepts, like sociological or anthropological.
+
+CLASS: CommunicatorRole
+Communicator Role (Academic Register)
+The use of words referencing a formal communication situation (eg. "speaker" "listener" "audience"). 
+
+CLASS: LangRef
+Language Reference (Academic Register)
+The use of words referencing language objects (e.g., noun, verb, adjective, play, novel, poem, prose). 
+
+DIMENSION: Citing_Others
+Citing Others
+This dimension is active when the text cites others, common in academic writing. 
+
+CLASS: Precedent_Defending
+Precedent Defending (Citing Others)
+The use of words referencing a chain of historical decisions to which you can link your own ideas (e.g., has long  been; has a long history). 
+
+CLASS: ReceivedPOV
+Received Point of View (Citing Others)
+The use of words indicating prior points of view that are already circulating in the culture and well-known. (e.g., some hold that; others believe that). The beliefs, ideas, and approaches that have been proposed and archived as part of public culture.
+
+CLASS: ConfirmedThght
+Confirm Other's Thought (Citing Others)
+The use of words indicating that the writer agrees to and supports ideas that are already out in the culture and well-known (e.g., I recognize that, I agree with). 
+
+CLASS: Citations
+Citation (Citing Others)
+The use of words indicating external sources (e.g., according to, to cite, to quote from the words of, some have argued that). 
+
+
+CLASS: Neg_Citation
+Neg Citation (Citing Others)
+A citation that hints at a biased or deficient source.
+
+CLASS: Repair_Citation 
+Repair Citation (Citing Others)
+A citation used to counter a previous statement.
+
+CLASS: Speculative_Citation 
+Speculative Citation (Citing Others)
+A citation of a source that is guessing.
+
+CLASS: Authoritative_Citation
+Authoritative Citation (Citing Others)
+A citation of a source that knows.
+
+CLASS: Contested_Citation
+Contested Citation (Citing Others)
+A citation of a source in a debate.
+
+
+CLASS: Attack_Citation
+Attack Citation (Citing Others)
+A citation attacking a previous source.
+
+CLASS: Quotation
+Quotation (Citing Others)
+The use of quotations. As Shakespeare wrote: "All's well that ends well." 
+
+DIMENSION: Guide_thru_Complexity
+Guide_thru_Complexity
+This dimension is active when the writer must guide through reader through complex ideas.
+
+CLASS: Metadiscourse
+Metadiscourse (Guide_thru_Complexity)
+The use of language indicating linear navigational guides through the stream of language (e.g., to clarify, just to be brief, this paper will argue, my purpose is). 
+
+CLUSTER: Future
+Future
+This cluster is active when the future is invoked.
+
+DIMENSION: Future
+Future Perspective
+This dimension is active when the future is invoked. 
+
+CLASS: ProjectAhead
+Projecting Ahead (Future Perspective)
+The use of words indicating the future (e.g., in order to, look forward to, will be in New York). 
+
+CLASS: PredictedFuture
+Predicting the Future (Future Perspective)
+The use of words predicting the future more confidently than the regular future orientation, with often leaves the future uncertain or contingent. With patterns using the predicted future, the writer projects out to an imagined future, one even farther into the future than the future being predicted. Example: Imagine predicting what the year 2010 will look like from the vantage of 2020. You see this technique in science fiction writing (e.g., By 2020, Earth will have long been conquered) and policy statements that project outward to, say, 2050 (e.g., By 2050, we will have cured cancer, we will have forgotten what it was like to use a rotary telephone, etc.). The technique can be used for everyday purposes too, such as "Mom will be home by now." 
+
+CLUSTER: Past
+Past
+This cluster is active when the text invokes the past.
+
+DIMENSION: Past 
+Past Perspective
+This dimension is active when the past is invoked.
+
+CLASS: ProjectBack
+Projecting Back (Past Perspective)
+The use of words indicating a mental leap to the past (e.g., used to, have been, had always wanted, would have liked to). 
+
+CLASS: Future_in_Past
+Future in Past (Past Perspective)
+The use of words that presents what the future looked like from the vantage of the past. Example: what the year 1940 looked like from the vantage of 1930. Think of this technique in riveting history writing that tries to show you how a historical character made plans about an uncertain future (e.g., Lincoln was to look for the general who could win the war for him). The technique can be use for everyday purposes too, such as "Mom was to be home by now." The future in past can either indicate a future action that was planned then and still ongoing (e.g. Jill WAS TO go to the store [indeed she may be there righ now]) or a future planned then but that has now completed or resolved itself (e.g. Jill was to HAVE gone to the store [if she did, it is past the time we can reasonably expect Jill to be there]). 
+
+CLUSTER: Personal_Relations
+Personal Relations
+This cluster is active when the text contains personal relations.
+
+DIMENSION: Positive_Relations
+Positive Relations
+This dimension is active when the text contains positive relations.
+
+CLASS: Promise
+Promising (Positive Relations)
+The use of words indicating a promise being made (e.g. promise, promised that). 
+
+CLASS: Self_Promise
+Self-Promise (Positive Relations)
+The use of words indicating a promise being made from the first person (e.g., I promise, we promised that). 
+CLASS: Reassure
+Reassuring (Positive Relations)
+The use of words that reassure (e.g., don't worry, it's okay). 
+
+CLASS: Reinforce
+Reinforcing (Positive Relations)
+The use of words that reinforce (e.g., congratulations, good going). An audience has passed a milestone and is being praised. Or the speaker provides words that reinforce the audience's prior values.
+
+CLASS: Acknowledge
+Acknowledging (Positive Relations)
+The use of words that give public notice of gratitude to persons (e.g., I acknowledge your help, thank you). Acknowlegments can also work in contexts that have nothing to do with gratitude. See apology and concessions for these types of acknowledgments. 
+
+DIMENSION: Inclusive_Relations
+Inclusive Relations
+
+CLASS: Inclusive
+Inclusiveness (Inclusive Relations)
+The use of inclusive words (e.g., we all, all together). Someone feels a sense of social belonging, fellow feeling, or like-mindedness and is expressing it.
+
+DIMENSION: Negative_Relations
+Negative Relations
+This dimension is active when the text contains negative relations.
+
+CLASS: Negative_Relation
+Negative Relation (Negative Relations)
+The use of words that indicate negative relations (e.g. condemn, denounce, criticize). 
+
+CLASS: Confront
+Confrontation (Negative Relations)
+The use of words that confront or threaten the addressee (e.g., What were you thinking of?; I'll kick your butt). 
+
+CLUSTER: Reasoning
+Reasoning
+This cluster is active when the text contains reasoning.  
+
+DIMENSION: Constructive_Reasoning
+Constructive Reasoning
+This dimension is active when the text contains constructive reasoning, supporting inferences.
+
+CLASS: ReasonForward
+Reason Forward (Constructive Reasoning)
+The use of words indicating a chain of thought moving forward from premise to conclusion, cause to effect (e.g., thus, therefore). Ideas progress down a chain and the writer is leading the reader down the chain, link by link. 
+
+CLASS: ReasonBackward
+Reason Backward (Constructive Reasoning)
+The use of words indicating a chain of thought moving backward from conclusion to premise, effect to cause (e.g., because, owing to the fact, on the grounds that). One link in the chain depends on an earier link and the dependence was not mentioned in the forward direction. So it is mentioned after the fact. 
+
+CLASS: DirectReasoning
+Direct Reasoning (Constructive Reasoning)
+The use of words that initiate and direct another's reasoning (e.g., suppose that, imagine that). Words that invite one to start a chain of reasoning.
+
+CLASS: Support
+Support (Constructive Reasoning)
+The use of words indicating support or evidence for a reasoning process that you or someone you are citing has 
+
+DIMENSION: Contingent_Reasoning
+Contingent Reasoning
+This dimension is active when the text contains contingent reasoning.
+
+CLASS: Contingency
+Contingency (Contingent Reasoning)
+The use of words indicating contingency (e.g., if, possibly).
+
+DIMENSION: Oppositional_Reasoning
+Oppositional Reasoning
+This dimension is active when the text contains oppositional reasoning. 
+
+CLASS: DenyDisclaim
+Denial (Oppositional Reasoning)
+The use of words like not or some other negative element in front of an assertion, which signals the taking away of what a listener or reader might believe (e.g., not the case, not do it, am not a crook). 
+
+CLASS: Concessive
+Concessive (Oppositional Reasoning)
+The use of words indicating that another and overridable point of view is available (e.g., although, even if, it must be acknowledged). The public acknowledgement of the weaknesses in one's own position or the strengths in the position of an opponent. 
+
+CLASS: Resistance
+Resistance (Oppositional Reasoning)
+The use of words indicating an opposition or struggle between competing ideas, events, forces, or groups (e.g., resistant, veto, contradiction, counterargument, filibuster, went into battle against). Listed under reasoning because opponents have minds who can counterplan.
+
+
+CLUSTER: Interactive
+Interactivity
+This cluster is active when there is interaction between author and reader. 
+
+DIMENSION: Inquiry
+Inquiry
+This dimension is active when the interaction is inquiry-based, based on questions and curiosity in order to learn information the writer does not have.
+
+CLASS: Curiosity
+Curiosity Raising (Inquiry)
+The use of words involving a reader in a common line of thinking (e.g., what then shall we make of?). Two minds engaged in intellectual problem-solving.
+
+CLASS: Question
+Question (Inquiry)
+The use of questions.
+
+CLASS: Future_Question
+Future Question (Inquiry)
+The use of questions that start with "will" to indicate the question pertains to a future state.
+
+CLASS: OpenQuery
+Formal Query (Inquiry)
+The use of survey-type queries. One mind seeking information from what seems like a population of other heads.
+
+DIMENSION: AddressingOther
+Address Other
+This dimension is active when the interaction is used to address others.
+
+CLASS: DirectAddress
+Directing Address (Address Other)
+The use of words summoning another's attention (e.g., let us, I advise you, I urge, I urge you to, I recommend, I favor) or making implicit acknowledgement of an interlocutor (e.g., you, trust me, okay now). 
+
+CLASS: Request
+Request (Address Other)
+The use of words that make requests (e.g., I request). 
+
+CLASS: FollowUp
+Following Up (Address Other)
+The use of words referencing a previous interaction (e.g., in response to your, per your last message). 
+
+CLASS: Feedback
+Feedback (Address Other)
+The use of words indicating generic feedback to another (e.g., okay). 
+
+CLASS: PosFeedback
+Positive Feedback (Address Other)
+The use of words indicating positive feedback (e.g., that's very good, very nice). 
+
+CLASS: NegFeedback
+Negative Feedback (Address Other)
+The use of words indicating negative feedback (e.g., that's awful, that's crummy). 
+
+CLASS: PriorKnowledge
+Prior Knowledge (Address Other)
+The use of words indicating that the ideas under discussion are already public and familiar to the audience hearing or reading them (e.g., as you know). 
+
+CLUSTER: Elaboration
+Elaboration
+This cluster is active when the writer elaborates ideas. 
+
+DIMENSION: GeneralExampleExcept
+General-Example-Except
+This dimension is active when the writer generalizes, gives examples, or exceptions.
+
+CLASS: Generalization
+Generalization (General-Example-Except)
+The use of words indicating generalizations (e.g., all, every). Some property is extended to all members of a class. 
+
+CLASS: Example
+Example (General-Example-Except)
+The use of words indicating an example (e.g., for example). 
+
+CLASS: Exceptions
+Exception (General-Example-Except)
+The use of words indicating exception (e.g., an exception, the only one to). A member of class resists a generalization assigned to other members. Jeff was the only cheerleader to wear yellow socks.
+
+DIMENSION: Comparison
+Comparision
+This dimension is active when the writer compares one thing to another.
+
+CLASS: Comparison
+Comparison (Comparison)
+The use of words indicating conceptual similarity and difference, like "more" or "fewer." 
+
+CLASS: Resemblances
+Resemblances (Comparison)
+The use of words indicating perceptual similarity. Resemblances indicate positive comparisons based on visual, auditory, or other sensory similarities  (e.g., resembles, looks like). 
+
+DIMENSION: Defining_Specifying
+Defining-Specifying
+This dimension is active when the writer is defining or specifying things.
+
+CLASS: Specifiers
+Specifiers (Defining-Specifying)
+The use of words indicating more specific or more restricted information is to come (e.g., in particular, more specifically). 
+
+CLASS: Definition
+Definitions (Defining-Specifying)
+The use of words indicating definitions (e.g., is defined as, the meaning of the term). 
+
+CLASS: Numbers
+Numbers (Defining-Specifying)
+The use of words indicating numbers.
+
+CLUSTER: Reporting
+Reporting 
+This cluster is active when the text contains verbs of reporting. Contrasts with verbs of narration or story-telling.
+
+DIMENSION: Reporting_States
+Reporting States
+This dimension is active when the text contains reports of states.
+
+CLASS: ReportingStates 
+Report States (Reporting States)
+The use of verbs of "is" "are" and "be" to report constant states of information, along with many other varieties of verbs used to report states of affairs (e.g., is carried by, is housed in). 
+
+DIMENSION: Reporting_Events
+Reporting Events
+This dimension is active when the text contains reported events.   
+
+CLASS: ReportingEvents 
+Report Events (Reporting Events)
+The use of words, especially verbs of reporting, that report event information (e.g., established, instituted, influenced). 
+
+DIMENSION: Reporting_Process
+Reporting Process
+This dimension is active when you want to report on processes, events that are grouped into recurring sequences.
+
+CLASS: RecurringEvents
+Recurring Events (Reporting Process)
+The use of words reporting event recurrence over time (e.g., again, recurred). 
+
+CLASS: GenericEvents
+Generic Events (Reporting Process)
+The use of words reporting generic events, events that repeat over time through processes of biology, culture, and convention (e.g., sleeping, playing, working, relaxing). 
+CLASS: Sequence
+Sequence (Reporting Process)
+The use of words indicating a sequential process unfolding over time (e.g., first, second). 
+
+CLASS: MatureProcess
+Mature Process (Reporting Process)
+The use of words indicating a mature sequential process, now in its late or advanced stages of development (e.g., well-done, well into his third year). 
+
+CLASS: Cause
+Causation (Reporting Process)
+The use of words indicating causation, or cause-consequence sequence, which, like any sequential process, unfolds in time (e.g., cause to consequence). A process whose earlier phases are responsible for bringing about the later phases. The focus of this LAT is the early phases, the causes.
+
+CLASS: Consequence
+Consequence (Reporting Process)
+The use of words indicating consequence, or cause-consequence sequence, which, like any sequential process, unfolds in time (e.g., cause to consequence). A process whose earlier phases are responsible for bringing about the later phases. The focus of this LAT is the later phases, the consequences.
+
+DIMENSION: Reporting_Change
+Reporting Change
+This dimension is active when the text reports changes. 
+
+CLASS: Transformation
+Transformed-State (Reporting Change)
+The use of words indicating transformation (e.g., computerize, metamorphize). 
+
+CLASS: Substitution
+Substitution (Reporting Change)
+The use of words indicating substitution (e.g., goes in to replace). 
+
+CLASS: Updates
+Updates (Reporting Change)
+The use of words reporting an update (e.g., the latest, latebreaking, announcing a new) and directly signaling a change over into a new state or reality. 
+
+CLASS: Precedent_Setting
+Precedent Setting (Reporting Change)
+The use of words reporting historical "firsts." 
+
+CLUSTER: Directing
+Directives
+This cluster is active when the text directs the reader or characters direct other characters. 
+
+DIMENSION: Directives
+Directives
+This dimension is active when the writer or a character in the text seeks to teach, instruct, supervise, or seek the compliance of readers, typically on physical action in the world. 
+
+CLASS: Imperative
+Imperatives (Directives)
+The use of imperative verbs (e.g., Come to, Stop what you are doing). 
+
+CLASS: Procedures
+Procedures (Directives)
+The use of words indicating procedures to perform (e.g., fold on the dotted line, do not bend, fold, or mutilate). 
+
+CLASS: MoveBody
+Bodily Action (Directives)
+The use of words indicating physical directions to the body (e.g., clasp, grab, twist, lift up).
+
+CLASS: ConfirmExperience
+Confirm Experience (Directives)
+The use of words indicating the confirmation of a just-taken instructional step (e.g., [assuming you took the right step] you will see, you will then see, you will be looking at, you should be looking at). 
+
+CLASS: ErrorRecovery
+Error Recovery (Directives)
+The use of words indicating how to recover from error (e.g., should you get lost....). 
+
+DIMENSION: Insistence
+Insistence
+This dimension is active when the text insists. 
+
+CLASS: Insist
+Insist (Insistence)
+The use of words indicating insistence, either on action (e.g., you need to come) or on reasoning (e.g., you need to consider). Hallmarks of insistence langauge are the modals "must" "should" "need" and "ought". 
+
+CLUSTER: Narrative
+Narrative 
+This cluster is active when the text contains narrative.
+
+DIMENSION: Narrative_Verbs
+Narrative Verbs
+This dimension is active when the text contains verbs used to support narrative.
+
+CLASS: Narrative_Verbs
+Narrative Verbs (Narrative Verbs)
+The use of past -ed verbs indicating the action of a story (e.g., came, saw, conquered). 
+
+DIMENSION: Time_Expressions
+Time Expressions
+This dimension is active when the text contains time expressions.
+
+CLASS: TimeShift
+Time Shifts (Time Expressions)
+The use of words indicating time shifts (e.g., next week, next month). 
+
+CLASS: TimeDuration
+Time Intervals (Time Expressions)
+the use of words indicating temporal intervals (e.g., for two years, over the last month). 
+
+CLASS: Biographical_Time
+Biographical Time (Time Expressions)
+The use of words marking milestones in a person's life (e.g.,in her youth, she would never again). Time intervals that reflect back upon a whole life lived. Commonly used by the omnicient narrator in fiction and by the writer of obituaries. 
+
+CLASS: TimeDate
+Time-Date Information (Time Expressions)
+The use of words indicating the time and date (e.g., June 5, 2000). 
+
+DIMENSION: Narrative_Background
+Narrative Background
+The use of words providing background and often incidental information to narrative.
+
+CLASS: Aside
+Asides (Narrative Background)
+The use of words indicating a side comment or return from one (e.g., by the way, anyway). 
+
+CLUSTER: Character
+Character
+This cluster is active when a reference is made of a man or woman, a human pronoun (he, she) or a generic character (butcher, baker, candle-stick maker). The reference may involve a positive, negative or neutral attribution about the character. Typically supports narrative.
+
+DIMENSION: PersonalPronoun
+Personal Pronoun
+This dimension is active when a personal pronoun (e.g., he, she) is used.
+
+CLASS: PersonPronoun
+Person Pronouns (Character)
+The use of pronouns (e.g., he, she) indicatings the persistent topical reference to people, especially in narrative.
+
+DIMENSION: Person_Attribution
+Person Attribution
+This dimension is active when some property is attributed to a person.
+
+CLASS: Positive_Attribution
+Positive Attribution (Character)
+This dimension is active when a positive attribution is made of a man or woman expressed by the pronoun he or she.
+
+CLASS: Negative_Attribution
+Negative Attribution (Character)
+This dimension is active when a negative attribution is made of a man or woman expressed by the pronoun he or she.
+
+CLASS: Neutral_Attribution
+Neutral Attribution (Character)
+This dimension is active when a neutral attribution is made of a man or woman expressed by the pronoun he or she.
+
+DIMENSION: Person_Class
+Person Class
+This dimension is active when a person is assigned an occupational class or identity.
+
+CLASS: PersonProperty
+Person Properties (Personal Attribution)
+The use of words referencing a person's formal (e.g. someone) or occuptional and identity roles (e.g., butcher, baker, catholics). 
+
+
+

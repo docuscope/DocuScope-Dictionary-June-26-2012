@@ -1,0 +1,5469 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+'threats' we now live with
+!AUX afraid
+!AUX afraid of
+!AUX afraid that
+!AUX being threatened
+!AUX beyond my control
+!AUX beyond our control
+!AUX chilling
+!AUX chillingly
+!AUX concerned that
+!AUX confronting !DETERMINER loss
+!AUX dangerous
+!AUX facing !DETERMINER termination
+!AUX imminent
+!AUX in deep jeopardy
+!AUX in jeopardy
+!AUX nervous
+!AUX nervous about
+!AUX not as secure
+!AUX not proactive
+!AUX not safe
+!AUX prepared to use terrorist tactics
+!AUX so vulnerable
+!AUX threatened
+!AUX very cautious
+!AUX vulnerable
+!BEAR panic
+!BUILD nervousness
+!CANCOULD !LOSE !POSSESSIVEPRONOUN my safety
+!CANCOULD !LOSE !POSSESSIVEPRONOUN my security
+!CANCOULD !LOSE !POSSESSIVEPRONOUN our safety
+!CANCOULD !LOSE !POSSESSIVEPRONOUN our security
+!CANCOULD !LOSE !POSSESSIVEPRONOUN safety
+!CANCOULD !LOSE !POSSESSIVEPRONOUN security
+!CANCOULD !LOSE my safety
+!CANCOULD !LOSE my security
+!CANCOULD !LOSE our safety
+!CANCOULD !LOSE our security
+!CANCOULD !LOSE safety
+!CANCOULD !LOSE security
+!CANCOULD be hurt
+!CANCOULD be injured
+!CANCOULD be killed
+!CANCOULD be shelved
+!CANCOULD cause havoc at will
+!CANCOULD destroy
+!CANCOULD destroy at will
+!CANCOULD disrupt
+!CANCOULD disrupt and destroy
+!CANCOULD disrupt at will
+!CANCOULD get hurt
+!CANCOULD happen anywhere
+!CANCOULD happen at any time anyplace
+!CANCOULD happen at any time, anyplace
+!CANCOULD have dire
+!CANCOULD have done to stop
+!CANCOULD have grave
+!CANCOULD have serious
+!CANCOULD have such dire
+!CANCOULD have such grave
+!CANCOULD have such serious
+!CANCOULD have such unhappy
+!CANCOULD have such unintended
+!CANCOULD have unhappy
+!CANCOULD have unintended
+!CANCOULD our government protect
+!CHANGE !DETERMINER secure feeling that !PRONOUNNOMINAL had
+!CHANGE !DETERMINER secure feeling that !ROYALWE had
+!CONTINGENTMODAL be !DETERMINER threat
+!CONTINGENTMODAL be carcinogenic
+!CONTINGENTMODAL be contaminated
+!CONTINGENTMODAL be dangerous
+!CONTINGENTMODAL be dangerously
+!CONTINGENTMODAL be fatal
+!CONTINGENTMODAL be harmed
+!CONTINGENTMODAL be hazardous
+!CONTINGENTMODAL be hurt
+!CONTINGENTMODAL be injured
+!CONTINGENTMODAL be perilous
+!CONTINGENTMODAL cause peril
+!CONTINGENTMODAL inconvenienced
+!CONTINGENTMODAL pose !DETERMINER threat
+!DETERMINER agony will be prolonged
+!DETERMINER attacks will continue
+!DETERMINER big unknown
+!DETERMINER certain edginess
+!DETERMINER chill down !POSSESSIVEPRONOUN back
+!DETERMINER chill down !POSSESSIVEPRONOUN spine
+!DETERMINER chill down his back
+!DETERMINER chill down his spine
+!DETERMINER chill down their backs
+!DETERMINER chill down their spines
+!DETERMINER chill down your back
+!DETERMINER chill down your spine
+!DETERMINER chilling feeling
+!DETERMINER creeps
+!DETERMINER danger of
+!DETERMINER dangerous age
+!DETERMINER dangerous age of
+!DETERMINER dread
+!DETERMINER dread about
+!DETERMINER dreaded
+!DETERMINER end of my world
+!DETERMINER end of my world as I know it
+!DETERMINER end of our world
+!DETERMINER end of our world as we know it
+!DETERMINER enemy has infiltrated our country
+!DETERMINER fear of
+!DETERMINER feeling of being safe !AUX gone
+!DETERMINER feeling of safety !AUX over
+!DETERMINER freedoms we can lose
+!DETERMINER freedoms we could lose
+!DETERMINER government is unable to do anything
+!DETERMINER jumpiness
+!DETERMINER king of terrors
+!DETERMINER lack of security
+!DETERMINER loss of lives
+!DETERMINER loss of my feeling of safety
+!DETERMINER loss of our feeling of safety
+!DETERMINER lot more innocent people will die
+!DETERMINER monster will be produced
+!DETERMINER most anxious
+!DETERMINER next victim
+!DETERMINER odds will be against
+!DETERMINER overriding fear
+!DETERMINER overriding fears
+!DETERMINER overwhelming danger
+!DETERMINER overwhelming dangers
+!DETERMINER overwhelming threat
+!DETERMINER overwhelming threats
+!DETERMINER pain will be
+!DETERMINER person next to you may be !DETERMINER terrorist
+!DETERMINER person next to you may be a terrorist
+!DETERMINER possibility of contacting anthrax
+!DETERMINER possibility of dying
+!DETERMINER potential for complete randomness
+!DETERMINER quavering
+!DETERMINER real danger
+!DETERMINER scare of
+!DETERMINER scary
+!DETERMINER sheer terror
+!DETERMINER sheer terrors
+!DETERMINER specter of germ warfare
+!DETERMINER terror
+!DETERMINER terror of
+!DETERMINER terrors
+!DETERMINER threat of war
+!DETERMINER threats I now live with
+!DETERMINER threats we now live with
+!DETERMINER trap-door opening in !DETERMINER pit of !POSSESSIVEPRONOUN belly
+!DETERMINER trap-door opening in !DETERMINER pit of his belly
+!DETERMINER trap-door opening in !DETERMINER pit of their bellies
+!DETERMINER trap-door opening in !DETERMINER pit of your belly
+!DETERMINER trap door opening in !DETERMINER pit of !POSSESSIVEPRONOUN belly
+!DETERMINER trap door opening in !DETERMINER pit of his belly
+!DETERMINER trap door opening in !DETERMINER pit of their bellies
+!DETERMINER trap door opening in !DETERMINER pit of your belly
+!DETERMINER uncertain edginess
+!DETERMINER uncertainty of !DETERMINER future
+!DETERMINER vast unknown
+!DETERMINER war could come to !DETERMINER United States
+!DETERMINER war will come to !DETERMINER United States
+!DETERMINER war will shift to our country
+!DETERMINER war will shit to my country
+!DETERMINER willies
+!DETERMINER worried
+!DETERMINER worrying
+!DETERMINER worse !AUX yet to come
+!DETERMINER worse that can happen
+!DETERMINER worse that could happen
+!DETERMINER worst !AUX yet to come
+!DETERMINER worst that could happen
+!FEEL !DETERMINER knot in !POSSESSIVEPRONOUN throat
+!FEEL !DETERMINER knot in his throat
+!FEEL !DETERMINER knot in their throats
+!Feel !DETERMINER know in your throat
+!FEEL !POSSESSIVEPRONOUN pursuer
+!FEEL !POSSESSIVEPRONOUN pursuer's
+!FEEL anxiety
+!FEEL anxious
+!FEEL butterflies
+!FEEL discomposed
+!FEEL dread
+!FEEL edgy
+!FEEL fearful and insecure
+!FEEL helpless to protect
+!FEEL hunted
+!FEEL ill at ease
+!FEEL in !DETERMINER crosshairs
+!FEEL insecure
+!FEEL intimidated
+!FEEL jittery
+!FEEL jumpy
+!FEEL like !DETERMINER hunted animal
+!FEEL on guard
+!FEEL overwrought
+!FEEL queasy and panicky
+!FEEL scared
+!FEEL skittish
+!FEEL strung out
+!FEEL targeted
+!FEEL unglued
+!FEEL unsafe
+!FEEL uptight
+!FEEL very scared
+!FEEL vulnerable
+!FLY into !DETERMINER face of danger
+!FRIGHTEN !DETERMINER wits out of
+!FRIGHTEN !PRONOUNOBJECTIVE out of
+!FRIGHTEN about
+!FRIGHTEN to death
+!GET !DETERMINER creeps
+!GET afraid
+!GET fearful
+!GET her killed
+!GET him killed
+!GET scared
+!GET them killed
+!GET you killed
+!GIVE !PRONOUNOBJECTIVE !DETERMINER creeps
+!GIVE !PRONOUNOBJECTIVE !DETERMINER willies
+!GIVE !YOU !DETERMINER creeps
+!GIVE her !DETERMINER jitters
+!GIVE him !DETERMINER jitters
+!GIVE one !DETERMINER scare
+!GIVE them !DETERMINER jitters
+!GIVE us !DETERMINER willies
+!GIVE you !DETERMINER jitters
+!GIVE you !DETERMINER scare
+!GIVE you !DETERMINER willies
+!GROW fearful
+!HAVE !DETERMINER cold creeps
+!HAVE !DETERMINER cold shivers
+!HAVE !DETERMINER creeps
+!HAVE apprehension
+!HAVE apprehensions
+!HAVE fear
+!HAVE no clue what can happen
+!HAVE no clue what might happen
+!HAVE no clue what will happen
+!HAVE no control of any event that might
+!HAVE no control of any events that might
+!HAVE no control over !DETERMINER situation
+!HAVe no control over any events that might
+!HAVe no control over events that might
+!HAVE no escape
+!HAVE no way out
+!HAVE placed fear
+!HAVE put fear
+!HAVE to struggle to maintain !POSSESSIVEPRONOUN security
+!HAVE to struggle to maintain his security
+!HAVE to struggle to maintain my security
+!HAVE to struggle to maintain our security
+!HAVE to struggle to maintain that security
+!HAVE to struggle to maintain their security
+!HAVE to struggle to maintain your security
+!HAVE to WATCH out
+!KEEP !POSSESSIVEPRONOUN family safe
+!KEEP !POSSESSIVEPRONOUN on edge
+!KEEP !POSSESSIVEPRONOUN on pins and needles
+!KEEP !PRONOUNOBJECTIVE on tenterhooks
+!KEEP her on tenterhooks
+!KEEP him on tenterhooks
+!KEEP his family safe
+!KEEP their families safe
+!KEEP them on tenterhooks
+!KEEP your family safe
+!LEAVE !PRONOUNOBJECTIVE vulnerable
+!LIVE in fear
+!LOSE !DETERMINER feeling of being safe
+!LOSE !DETERMINER feeling of safety
+!LOSE !DETERMINER secure feeling
+!LOSE !POSSESSIVEPRONOUN safety
+!LOSE !POSSESSIVEPRONOUN secure feeling
+!LOSE !POSSESSIVEPRONOUN security
+!LOSE !POSSESSIVEPRONOUN sense of protection
+!LOSE !POSSESSIVEPRONOUN sense of safety
+!LOSE !POSSESSIVEPRONOUN sense of security
+!LOSE !POSSESSIVEPRONOUN sense of security and safety
+!LOSE !POSSESSIVEPRONOUN sense of well-being
+!LOSE his safety
+!LOSE his sense of protection
+!LOSE his sense of safety
+!LOSE his sense of security
+!LOSE his sense of security and safety
+!LOSE my safety
+!LOSE my secure feeling
+!LOSE my security
+!LOSE my sense of protection
+!LOSE my sense of safety
+!LOSE my sense of security
+!LOSE my sense of security and safety
+!LOSE my sense of well-being
+!LOSE our safety
+!LOSE our secure feeling
+!LOSE our security
+!LOSE our sense of protection
+!LOSE our sense of safety
+!LOSE our sense of security
+!LOSE our sense of security and safety
+!LOSE our sense of well-being
+!LOSE their safety
+!LOSE their sense of protection
+!LOSE their sense of safety
+!LOSE their sense of security
+!LOSE their sense of security and safety
+!MAKE !POSSESSIVEPRONOUN blood run cold
+!MAKE !POSSESSIVEPRONOUN flesh crawl
+!MAKE !POSSESSIVEPRONOUN flesh creep
+!MAKE !POSSESSIVEPRONOUN hair curl
+!MAKE !POSSESSIVEPRONOUN hair stand on end
+!MAKE !POSSESSIVEPRONOUN hair stand straight up
+!MAKE !POSSESSIVEPRONOUN skin crawl
+!MAKE anxious
+!MAKE her afraid
+!MAKE her anxious
+!MAKE her frightened
+!MAKE her jittery
+!MAKE her most afraid
+!MAKE her most anxious
+!MAKE her most frightened
+!MAKE her most jittery
+!MAKE her most nervous
+!MAKE her most scared
+!MAKE her nervous
+!MAKE her scared
+!MAKE him afraid
+!MAKE him anxious
+!MAKE him frightened
+!MAKE him jittery
+!MAKE him most afraid
+!MAKE him most anxious
+!MAKE him most frightened
+!MAKE him most jittery
+!MAKE him most nervous
+!MAKE him most scared
+!MAKE him nervous
+!MAKE him scared
+!MAKE it scary
+!MAKE nervous
+!MAKE them afraid
+!MAKE them anxious
+!MAKE them frightened
+!MAKE them jittery
+!MAKE them most afraid
+!MAKE them most anxious
+!MAKE them most frightened
+!MAKE them most jittery
+!MAKE them most nervous
+!MAKE them most scared
+!MAKE them nervous
+!MAKE them scared
+!MAKE you afraid
+!MAKE you anxious
+!MAKE you frightened
+!MAKE you jittery
+!MAKE you most afraid
+!MAKE you most anxious
+!MAKE you most frightened
+!MAKE you most jittery
+!MAKE you most scared
+!MAKE you nervous
+!MAKE you scared
+!MODAL !LOSE !POSSESSIVEPRONOUN my safety
+!MODAL !LOSE !POSSESSIVEPRONOUN my security
+!MODAL !LOSE !POSSESSIVEPRONOUN our safety
+!MODAL !LOSE !POSSESSIVEPRONOUN our security
+!MODAL !LOSE !POSSESSIVEPRONOUN safety
+!MODAL !LOSE !POSSESSIVEPRONOUN security
+!MODAL !LOSE my safety
+!MODAL !LOSE my security
+!MODAL !LOSE our safety
+!MODAL !LOSE our security
+!MODAL !LOSE safety
+!MODAL !LOSE security
+!MODAL happen anywhere
+!MODAL happen at any time, anyplace
+!MODAL happen to me at any time, anyplace
+!MODAL happen to me at any time, anyplace"
+!NEG feel safe
+!POSSESSIVEPRONOUN anxieties
+!POSSESSIVEPRONOUN anxiety
+!POSSESSIVEPRONOUN becoming !DETERMINER victim
+!PRESSING dangerous
+!PRONOUNNOMINAL !AUX absolutely petrified
+!PRONOUNNOMINAL !AUX petrified
+!PUT !DETERMINER fear of God into
+!PUT !POSSESSIVEPRONOUN good name in jeopardy
+!PUT !PRONOUNOBJECTIVE in danger
+!PUT !PRONOUNOBJECTIVE in fear
+!PUT !PRONOUNOBJECTIVE in jeopardy
+!PUT !PRONOUNOBJECTIVE on edge
+!PUT !PRONOUNOBJECTIVE on guard
+!PUT in bodily fear
+!PUT in danger
+!PUT in fear
+!PUT in jeopardy
+!PUT me in jeopardy
+!PUT me on guard
+!PUT my good name in jeopardy
+!PUT my head in !DETERMINER lion's mouth
+!PUT our good name in jeopardy
+!PUT our head in !DETERMINER lion's mouth
+!PUT us in jeopardy
+!QUESTION and where these people will strike again
+!QUESTION another one will occur
+!QUESTION and where these people will strike again
+!QUESTION another one will occur
+!RAISE apprehensions
+!ROYALWE !MUSTSHOULD be alert for
+!ROYALWE !MUSTSHOULD be on guard for
+!ROYALWE !OUGHTNEED to be alert for
+!ROYALWE !OUGHTNEED to be on guard for
+!ROYALWE can't see or can't control
+!ROYALWE can't see or control
+!ROYALWE can be so vulnerable
+!ROYALWE cannot ever feel completely safe
+!ROYALWE cannot ever feel completely safe from
+!ROYALWE cannot see or cannot control
+!ROYALWE cannot see or control
+!ROYALWE did not feel as safe
+!ROYALWE didn't feel as safe
+!ROYALWE didn't feel safe
+!ROYALWE do not feel as safe
+!ROYALWE do not feel safe
+!ROYALWE don't feel as safe
+!ROYALWE don't feel safe
+!ROYALWE feel no protection
+!ROYALWE feel no safety
+!ROYALWE feel that we cannot ever feel completely safe
+!ROYALWE feel that we cannot ever feel completely safe from
+!ROYALWE feel vulnerable
+!ROYALWE feel we are not as safe
+!ROYALWE feel we are not safe
+!ROYALWE have no control of any event that might
+!ROYALWE have no control over any events that might
+!ROYALWE have no escape
+!ROYALWE have no means of escape
+!ROYALWE have no way out
+!ROYALWE will never feel safe
+!ROYALWE will not feel safe
+!RUN into danger
+!RUN like !DETERMINER scared rabbit
+!RUN scared
+!SEND !DETERMINER chill up !POSSESSIVEPRONOUN spine
+!SEND a chill down !POSSESSIVEPRONOUN spine
+!SEND a chill down !POSSESSIVEPRONOUN spines
+!SEND chills down !POSSESSIVEPRONOUN spine
+!SEND chills down !POSSESSIVEPRONOUN spines
+!STRIKE terror
+!STRIKE terror into
+!TAKE !DETERMINER dangerous gamble
+!TAKE away !POsSESSIVEPRONOUN security
+!TAKE away my security
+!TAKE away our security
+!TAKE security from
+!WAIT for !DETERMINER other shoe to drop
+!WATCH OUT FOR
+"CANCOULD! happen at any time, anyplace"
+"CANCOULD! happen to me at any time, anyplace"
+"MODAL happen at any time, anyplace"
+"MODAL happen to me at any time, anyplace"
+"Whatever it is, I fear"
+. be on your guard
+a lack of security
+a little concerned about
+a situation can develop
+a situation could develop
+a situation may develop
+a situation might develop
+abandon safety
+abandoned safety
+abandoning safety
+abandons safety
+ability to damage
+ability to destroy
+ability to harm
+ability to injure
+able to cause such destruction
+Absolute horror
+absolutely petrified
+adversity !CONTINGENTMODAL be imposed
+adversity !CONTINGENTMODAL be imposed upon
+adversity may be imposed
+adversity may be imposed upon
+afraid !CONTINGENTMODAL
+afraid !PRONOUNNOMINAL
+afraid !PRONOUNNOMINAL will
+afraid for
+afraid he !CANCOULD
+afraid he can
+afraid he may
+afraid he might
+afraid he would
+afraid it can
+afraid it could
+afraid it may
+afraid it might
+afraid it will happen
+afraid it would
+afraid of
+afraid of offending
+afraid she can
+afraid she could
+afraid she may
+afraid she might
+afraid she would
+afraid that
+afraid that !DETERMINER end !AUX near
+afraid that !DETERMINER terrorism
+afraid that !PRONOUNNOMINAL
+afraid that !PRONOUNNOMINAL will
+afraid that it !CONTINGENTMODAL
+afraid that it will
+afraid that it will happen
+afraid that something is likely
+afraid that something will
+afraid that terrorism
+afraid they can
+afraid they could
+afraid they may
+afraid they might
+afraid they would
+afraid to
+afraid to be
+afraid to be attacked
+afraid to die
+afraid to walk down !DETERMINER street
+afraid to walk down !DETERMINER streets
+afraid you can
+afraid you could
+afraid you may
+afraid you might
+afraid you would
+airplanes flying into buildings
+alarm of fear
+alarm of fears
+alarmed at
+alarmed by
+alarming that
+alarms of fear
+alert status
+all hell will break loose
+All of this will be for nothing
+all worked up about what would happen
+all worked up over what would happen
+am concerned that
+am helpless
+an alarm of fear
+an enemy that we can not define
+an enemy that we cannot define
+an enemy that we could not define
+an overriding fear
+and portents and evils imminent
+and we all die
+angst about
+angst over
+angst towards
+another attack may take place
+anxieties for
+anxieties struck
+anxiety equivalent
+anxiety for
+anxiety hysteria
+anxiety neurosis
+anxiety prone
+anxiety reaction
+anxiety state
+anxiety struck
+anxiety toward
+anxiety towards
+anxious-ed up
+anxious about
+anxious about what might happen
+anxious bench
+anxious concern
+anxious for
+anxious over
+anxious seat
+anxious that he !CONTINGENTMODAL lose freedoms
+anxious that he may lose freedoms
+anxious that she !CONTINGENTMODAL lose freedoms
+anxious that she may lose freedoms
+anxious that they !CONTINGENTMODAL lose freedoms
+anxious that they may lose freedoms
+anxious that you !CONTINGENTMODAL lose freedoms
+anxious that you may lose freedoms
+anxiously await
+anxiously await for
+anxiously awaited
+anxiously awaited for
+anxiously awaiting
+anxiously awaiting for
+anxiously awaits
+anxiously awaits for
+anxiously wait
+anxiously wait for
+anxiously waited
+anxiously waited for
+anxiously waiting
+anxiously waiting for
+anxiously waits
+anxiously waits for
+anyone !AUX susceptible
+anyone !CANCOULD be a victim
+anyone !CANCOULD become a victim
+anyone !CONTINGENTMODAL be at risk
+anyone !CONTINGENTMODAL be attacked
+anyone !CONTINGENTMODAL fall prey
+anyone !CONTINGENTMODAL fall victim
+anyone !MODAL be a victim
+anyone !MODAL become a victim
+anyone can be exposed
+anyone can be susceptible
+anyone can harm us
+anyone can receive !DETERMINER piece of mail that has anthrax
+anyone CANCOULD! be a victim
+anyone CANCOULD! become a victim
+anyone could be exposed
+anyone could be susceptible
+anyone could receive !DETERMINER contaminated
+anyone could receive !DETERMINER piece of mail that has anthrax
+anyone may be at risk
+anyone may be attacked
+anyone may be exposed
+anyone may be susceptible
+anyone may fall prey
+anyone may fall victim
+anyone may receive !DETERMINER piece of mail that has anthrax
+anyone might be exposed
+anyone might be susceptible
+anyone might receive !DETERMINER piece of mail that has anthrax
+anyone MODAL! be a victim
+anyone MODAL! become a victim
+anyone that !CANCOULD be a victim
+anyone that !CANCOULD become a victim
+anyone that CANCOULD! be a victim
+anyone that CANCOULD! become a victim
+anything !CANCOULD happen at anytime
+anything !MODAL happen
+anything !MODAL happen at anytime
+anything !MODAL still happen
+anything bad
+anything CANCOULD! happen
+anything CANCOULD! happen at anytime
+anything CANCOULD! still happen
+anything MODAL! happen
+anything MODAL! happen at anytime
+anything MODAL! still happen
+apprehension about
+apprehensions about
+apprehensive about
+apprehensive about what could happen
+apprehensive about what may happen
+apprehensive about what might happen
+apprehensive about what will happen
+apprehensive toward
+apprehensively toward
+Are ROYALWE! truly safe
+are we being told !DETERMINER whole story
+aren't safe
+armed and dangerous
+armed and desperate
+as vulnerable as
+as vulnerable as ever
+ash-faced fear
+at any moment it can
+attack can happen
+attack can happen at any time
+attack may take place
+attack that awaits
+attack that awaits me
+attack that awaits OBJECTWE!
+attack that awaits us
+attacks !MODAL happen anywhere
+attacks against our
+attacks are hard to defend against and stop
+attacks are hard to defend agents and stop
+attacks can happen
+attacks can happen anywhere
+attacks can happen at any time
+attacks could happen anywhere
+attacks in !DETERMINER future
+attacks lie ahead
+attacks MODAL happen anywhere
+attacks to come
+attended with danger
+AUGUR ILL FOR
+augured ill for
+auguring ill for
+augurs ill for
+avoid !DETERMINER danger
+avoid danger
+avoided !DETERMINER danger
+avoided danger
+avoiding !DETERMINER danger
+avoiding danger
+avoids !DETERMINER danger
+avoids danger
+await anxiously
+await anxiously for
+awaited anxiously
+awaited anxiously for
+awaiting anxiously
+awaiting anxiously for
+awaits anxiously
+awaits anxiously for
+bad future
+bad futures
+bad prospect
+bad that awaits me
+bad that awaits us
+bad things to come
+bad will happen
+banks will be overwhelmed
+basic fear
+basic fear to
+basic fears
+be threatened
+being afraid
+being an innocent bystander
+being annihilated by nuclear weapons
+being annihilated by nuclear weapons at anytime
+being safe !AUX gone
+being so unprotected
+being threatened
+bio-terrorism will
+biological warfare would be next
+blind fear
+blind fears
+blood ran cold
+blood running cold
+blood runs cold with fear
+blow up a tunnel or bridge
+bodies buried beneath rubble
+bodies still buried beneath rubble
+breath quickening from fear
+breath raw in !DETERMINER throat
+breathed raw in !DETERMINER throat
+breathes raw in !DETERMINER throat
+breathing raw in !DETERMINER throat
+butterflies in !POSSESSIVEPRONOUN stomach
+butterflies in his stomach
+butterflies in their stomachs
+by raw fear
+came unglued from fear
+can't afford to let !POSSESSIVEPRONOUN guard down
+can't afford to let my guard down
+can't afford to let your guard down
+can't afford to our guard down
+can't avoid !DETERMINER future
+can't avoid death
+can't control anything
+can't control what !PRONOUNNOMINAL may
+can't control what !PRONOUNNOMINAL might
+can't control what may
+can't control what may happen
+can't control what might
+can't control what might happen
+can't ever control
+can't ever feel completely safe
+can't ever feel safe
+can't ever feel totally safe
+can't feel safe
+can't hold off !DETERMINER future
+can't let my guard down
+can't let our guard down
+can't protect
+can't protect me
+can't protect OBJECTWE!
+can't protect us
+can't provide protection
+can't really protect
+can't rely on !DETERMINER old security
+can't rely on !DETERMINER same secruity
+can't rely on security
+can't see or can't control
+can't see or control
+can't stop !DETERMINER future
+can't stop !DETERMINER madman
+can't trust
+can anyone protect us
+can attack
+can attack !DETERMINER food supply
+can attack !DETERMINER water supply
+can be !DETERMINER lie
+can be a shame
+can be ambushed
+can be an affront
+can be an attack
+can be an easy target
+can be an indignity
+can be assassinated
+can be assaulted
+can be assaulted at any time
+can be awkward
+can be bombed
+can be caught off guard
+can be caught unaware
+can be caught unprotected
+can be counterfeit
+can be dangerous
+can be destroyed
+can be devastated
+can be devastating
+can be discomfiting
+can be discomforting
+can be discomposing
+can be disconcerting
+can be disfiguring
+can be driven out
+can be embarrassed
+can be exiled
+can be expensive
+can be exterminated
+can be fired
+can be forged
+can be harmed
+can be hazardous
+can be hit
+can be humiliated
+can be imposed
+can be kidnapped
+can be killed
+can be left unprotected
+can be let go
+can be made fun of
+can be maimed
+can be manipulated
+can be more terrorists
+can be mortifying
+can be mugged
+can be poisoned
+can be prickly
+can be pushed to !DETERMINER limit
+can be ridiculed
+can be robbed
+can be shaming
+can be slayed
+can be so vulnerable
+can be some attack
+can be squandered
+can be stolen
+can be targeted
+can be terminated
+can be terrorized
+can be ticklish
+can be tortured
+can be touchy
+can be uncomfortable
+can be undignifying
+can be unhealthy
+can be unprotected
+can be unsafe
+can be unsettling
+can be visited upon
+can be vulnerable
+can be wasted
+can block
+can breach
+can breach !DETERMINER security
+can breach security
+can cause !DETERMINER hazard
+can change drastically
+can change for !DETERMINER worse
+can die
+can get in !DETERMINER way
+can get me killed
+can get us killed
+can get worse for me
+can get worse for us
+can happen anywhere
+can impede
+can infiltrate
+can kill
+can kill her
+can kill him
+can kill me
+can kill them
+can kill us
+can kill you
+can lose
+can lose someone close
+can no longer be free
+can obstruct
+can our government protect us
+can pose an obstacle
+can put !DETERMINER damper on
+can slow down progress
+can sting
+can strike
+can strike again
+can sue
+can suffer
+can take advantage of !POSSESSIVEPRONOUN generosity
+can take advantage of !POSSESSIVEPRONOUN good will
+can take advantage of !POSSESSIVEPRONOUN kindness
+can take advantage of !POSSESSIVEPRONOUN trust
+can take advantage of his generosity
+can take advantage of his good will
+can take advantage of his kindness
+can take advantage of his trust
+can take advantage of my generosity
+can take advantage of my good will
+can take advantage of my kindness
+can take advantage of my trust
+can take advantage of people's generosity
+can take advantage of people's good will
+can take advantage of people's kindness
+can take advantage of people's trust
+can take advantage of their generosity
+can take advantage of their good will
+can take advantage of their kindness
+can take advantage of their trust
+can take advantage of your generosity
+can take advantage of your good will
+can take advantage of your kindness
+can take advantage of your trust
+CANCOULD! happen anywhere
+CANCOULD! happen at any time anyplace
+CANCOULD! happen to me at any time anyplace
+CANCOULD! have done to stop
+CANCOULD! our government protect OBJECTWE!
+cannnot protect
+cannnot protect OBJECTWE!
+cannot avoid !DETERMINER future
+cannot avoid death
+cannot control
+cannot ever feel completely safe
+cannot ever feel completely safe from
+cannot ever feel safe
+cannot feel safe
+cannot guarantee
+cannot hold off !DETERMINER future
+cannot protect
+cannot protect me
+cannot protect us
+cannot provide protection
+cannot really protect
+cannot see or cannot control
+cannot see or control
+cannot stop !DETERMINER future
+cannot stop !DETERMINER madman
+cant control
+cant protect
+cant protect OBJECTWE!
+capability to damage
+capability to destroy
+capability to harm
+capability to injure
+capacity to damage
+capacity to destroy
+capacity to harm
+capacity to injure
+caution about what could happen
+caution about what may happen
+caution about what will happen
+cautious about what could happen
+cautious about what may happen
+cautious about what might happen
+cautious about what will happen
+certain death
+certainly to be targeted
+challenges to come
+change to our free society
+changed !DETERMINER secure feeling
+changed !POSSESSIVEPRONOUN secure feeling
+changes to our free society
+chemical warfare would be next
+children !AUX hurt
+children were hurt
+children were hurt and killed
+chilled your spine
+chilling !POSSESSIVEPRONOUN spine
+chilling along !DETERMINER spine
+chilling to !DETERMINER bone
+chilling to !DETERMINER marrow
+chilling view
+chilling your spine
+chills !POSSESSIVEPRONOUN spine
+chills along !DETERMINER spine
+chills of fear
+chills of terror
+chills to !DETERMINER bone
+chills to !DETERMINER marrow
+chills your spine
+clammy from fear
+cold creeps
+cold sweat of fear
+cold sweats of fear
+comes unglued from fear
+coming after civilians
+coming unglued from fear
+completely helpless
+completely petrifried
+concern !AUX !DETERMINER overwhelming danger
+concern !AUX !DETERMINER overwhelming threat
+concern about !POSSESSIVEPRONOUN future
+concern about my future
+concern about our future
+concern for !DETERMINER safety
+concern is that
+concern over !POSSESSIVEPRONOUN future
+concern over our future
+concern this will happen again
+concern will be raised
+concerned about
+concerned about !DETERMINER safety
+concerned about what could happen
+concerned about what may happen
+concerned about what might happen
+concerned about what will happen
+concerned for
+concerned for !DETERMINER safety
+concerned over
+concerned that
+concerns !AUX !DETERMINER overwhelming danger
+concerns !AUX !DETERMINER overwhelming threat
+concerns about !POSSESSIVEPRONOUN future
+concerns about my future
+concerns about our future
+concerns are that
+concerns over !POSSESSIVEPRONOUN future
+concerns over our future
+concerns this will happen again
+concerns will be raised
+consumed about what could happen
+consumed about what may happen
+consumed about what might happen
+consumed about what will happen
+consumed in what could happen
+consumed in what may happen
+consumed in what might happen
+consumed in what will happen
+consumed over what could happen
+consumed over what may happen
+consumed over what might happen
+consumed over what will happen
+contracted !DETERMINER dread
+contracting !DETERMINER dread
+could attack
+could attack !DETERMINER food supply
+could attack !DETERMINER water supply
+could be !DETERMINER lie
+could be an attack
+could be an easy target
+could be assassinated
+could be counterfeit
+could be destroyed
+could be exterminated
+could be fired
+could be forged
+could be harmed
+could be killed
+could be led to perform !DETERMINER cowardly act
+could be led to perform such !DETERMINER cowardly act
+could be let go
+could be manipulated
+could be more terrorists
+could be poisoned
+could be slayed
+could be some attack
+could be squandered
+could be stolen
+could be terminated
+could be visited upon
+could be wasted
+could become pure chaos
+could breach
+could breach !DETERMINER security
+could breach security
+could change drastically
+could change for !DETERMINER worse
+could die
+could end our lives
+could feel !DETERMINER knot in !POSSESSIVEPRONOUN throat
+could feel !DETERMINER knot in his throat
+could feel !DETERMINER knot in their throats
+could feel !DETERMINER know in your throat
+could get me killed
+could get us killed
+could have to evacuate
+could infiltrate
+could kill
+could kill innocent
+could kill innocent people
+could lose
+could lose someone close
+could need to evacuate
+could strike
+could strike again
+could sue
+could suffer
+could take advantage of !POSSESSIVEPRONOUN generosity
+could take advantage of !POSSESSIVEPRONOUN good will
+could take advantage of !POSSESSIVEPRONOUN kindness
+could take advantage of !POSSESSIVEPRONOUN trust
+could take advantage of his generosity
+could take advantage of his good will
+could take advantage of his kindness
+could take advantage of his trust
+could take advantage of my generosity
+could take advantage of my good will
+could take advantage of my kindness
+could take advantage of my trust
+could take advantage of people's generosity
+could take advantage of people's good will
+could take advantage of people's kindness
+could take advantage of people's trust
+could take advantage of their generosity
+could take advantage of their good will
+could take advantage of their kindness
+could take advantage of their trust
+could take advantage of your generosity
+could take advantage of your good will
+could take advantage of your kindness
+could take advantage of your trust
+could turn into a bad
+could turn into pure chaos
+cracking with fear
+crashing into buildings
+creep !PRONOUNOBJECTIVE out
+creep !YOU out
+creep me out
+creep out on
+creep us out
+creeped !PRONOUNOBJECTIVE out
+creeped !YOU out
+creeped me out
+creeped out on
+creeped us out
+creeping !PRONOUNOBJECTIVE out
+creeping !YOU out
+creeping me out
+creeping of !DETERMINER flesh
+creeping out on
+creeping us out
+creeps !PRONOUNOBJECTIVE out
+creeps !YOU out
+creeps me out
+creeps out on
+creeps us out
+dancing on !DETERMINER razor's edge
+danger angle
+danger angles
+danger ball
+danger balls
+danger bearing
+danger bearings
+danger flag
+danger flags
+danger line
+danger lines
+danger money
+danger point
+danger points
+danger sign
+danger signal
+danger signals
+danger signs
+danger spot
+danger spots
+danger to health
+danger whistle
+danger whistles
+danger zone
+danger zones
+dangerous age
+dangerous age of
+dangerous ages
+dangerous ages of
+dangerous ambition
+dangerous drop
+dangerous drug
+dangerous drugs
+dangerous feature
+dangerous features
+dangerous ground
+dangerous grounds
+dangerous people
+dangerous person
+dangerous persons
+dangerous that !DETERMINER
+dangerous time
+dangerous times
+dangerous to
+dangerously slippery
+dangers to health
+dart maniacally from fear
+darted maniacally from fear
+darting maniacally from fear
+darts maniacally from fear
+deep jeopardy
+desperate cries
+desperate cry
+destruction will happen
+destruction will occur
+DETERMINER! attacks will continue
+DETERMINER! enemy has infiltrated our country
+DETERMINER! person next to you may be a terrorist
+DETERMINER! unknown
+did not feel as safe
+didn't feel as safe
+didn't feel safe
+direct !POSSESSIVEPRONOUN apprehension
+direct apprehension
+direct my apprehension
+direct our apprehension
+directed !POSSESSIVEPRONOUN apprehension
+directed apprehension
+directed my apprehension
+directed our apprehension
+directing !POSSESSIVEPRONOUN apprehension
+directing apprehension
+directing my apprehension
+directing our apprehension
+directs !POSSESSIVEPRONOUN apprehension
+directs apprehension
+directs my apprehension
+directs our apprehension
+disastrous consequences
+disease lies ahead
+disease to come
+disembodied with fear
+do fear
+do not feel as safe
+do not feel safe
+do not know !QUESTION it may
+do not know !QUESTION it might
+do not know !QUESTION it may
+do not know !QUESTION it might
+do not know !QUESTION it will strike
+doesn't know what's happening
+doesn't know what to do
+doesn't trust
+doleful consequences
+don't feel as safe
+don't feel safe
+don't think !DETERMINER attacks are over
+don't trust
+downright scary
+drained by fear
+drained from fear
+dread !DETERMINER
+dread disease
+dread for
+dread of
+dread to think
+dreaded !DETERMINER
+dreaded to
+dreadful feeling
+dreadful feelings
+dreadful thought about
+dreadful thoughts about
+dreadful to
+dreadfully stale
+dreading !DETERMINER
+dreads !DETERMINER
+dry swallow from fear
+dry swallows from fear
+edginess about !DETERMINER future
+edginess over !DETERMINER future
+edginess over what will
+edgy about
+edgy about !DETERMINER future
+edgy about what will
+edgy toward
+emergency system will be overwhelmed
+encounter danger
+encountered danger
+encountering danger
+encounters danger
+end my life
+end my live
+end our lifes
+end our lives
+endanger
+endanger us all
+endangered
+endangered us all
+endangering
+endangering us all
+endangerment
+endangerments
+endangers
+endangers us all
+enemy has infiltrated my
+enemy has infiltrated our
+even more vulnerable
+Even worse, they suggest there may be more to come
+events are beyond !POSSESSIVEPRONOUN control
+events are beyond my control
+events are beyond our control
+events are beyond your control
+events beyond our control
+events beyond your control
+ever feel completely safe
+ever feel completely safe from
+everyone !AUX cautious about what might happen to her
+everyone !AUX cautious about what might happen to him
+everyone !AUX cautious about what might happen to them
+everyone now !AUX cautious
+evil !AUX all around
+evil !AUX everywhere
+evil people !AUX everywhere
+evil people !AUX living near us
+evil people could be living near us
+evil people live near us
+extremely concerned
+eyes widen in alarm
+eyes widened in alarm
+eyes widening in alarm
+eyes widens in alarm
+face ashen from fear
+face certain death
+face danger
+face drained from fear
+face jeopardy
+face stricken by fear
+faced certain death
+faced danger
+faced jeopardy
+faces certain death
+faces danger
+faces jeopardy
+facing certain death
+facing danger
+facing jeopardy
+false security
+false sense of security
+fascinated horror
+Fathom about !DETERMINER possible nuclear war
+Fathomed about !DETERMINER possible nuclear war
+Fathoming about !DETERMINER possible nuclear war
+Fathoms about !DETERMINER possible nuclear war
+fear !DETERMINER worst
+fear and incredulity
+fear and trembling
+fear and trepidation
+fear and trepidations
+fear being
+fear being trapped
+fear coursing through !POSSESSIVEPRONOUN veins
+fear coursing through his veins
+fear coursing through their veins
+fear coursing through your veins
+fear for
+fear holding on !DETERMINER minute longer
+fear in
+fear in !DETERMINER pit
+fear in !DETERMINER pit of
+fear in !DETERMINER pits
+fear into !DETERMINER heart of
+fear made
+fear made !POSSESSIVEPRONOUN skin crawl
+fear made his skin crawl
+fear made your skin crawl
+fear of
+fear of !DETERMINER unknown
+fear of exposure
+Fear of germ warfare
+fear struck
+fear that
+fear to
+fear toward
+feared !DETERMINER unknown
+feared !DETERMINER worst
+feared being
+feared being trapped
+feared for
+feared that
+fearful about what could happen
+fearful about what may happen
+fearful about what might happen
+fearful about what will happen
+fearful alarm
+fearful alarms
+fearful and bloodcurdling
+fearful and creepy
+fearful and distressing
+fearful and heart-stopping
+fearful anticipation of
+fearful for
+fearful of
+fearful of !DETERMINER
+fearful of !DETERMINER loss of life
+fearful that
+fearful to
+fearfully and nightmarishly
+fearfully anxious
+fearfulness and creepiness
+fearing !DETERMINER consequences
+fearing !DETERMINER unknown
+fearing !DETERMINER worst
+fearing being
+fearing being trapped
+fearing for
+fears !DETERMINER worst
+fears being
+fears being trapped
+fears for
+fears in
+fears of
+fears of !DETERMINER unknown
+fears that
+fears toward
+fears towards
+feathers will be ruffled
+feel helpless
+feel threatened
+feeling of insecurity
+feelings of insecurity
+felt helpless
+Find scary
+Finding scary
+Finds scary
+for fear
+for fear of
+for fear of !DETERMINER
+for fear that
+foreboding about
+foreboding toward
+forfeit safety
+forfeit their safety
+forfeited safety
+forfeited their safety
+forfeiting safety
+forfeiting their safety
+forfeits safety
+forfeits their safety
+Found scary
+fraught with danger
+fright apprehension
+frighten away
+frighten from
+frighten from your propriety
+frighten off
+frighten off from
+frighten out of
+frighten out of !POSSESSIVEPRONOUN wits
+frighten out of your senses
+frighten out of your wits
+frightened !DETERMINER
+frightened away
+frightened from
+frightened from your propriety
+frightened off
+frightened off from
+frightened out of
+frightened out of your senses
+frightened out of your wits
+frightening !PRONOUNOBJECTIVE out of !POSSESSIVEPRONOUN wits
+frightening away
+frightening from
+frightening from your propriety
+frightening off
+frightening off from
+frightening out of
+frightening out of your senses
+frightening out of your wits
+frightening that !DETERMINER
+frightening to
+frightening to see
+frightens !PRONOUNOBJECTIVE out of !POSSESSIVEPRONOUN wits
+frightens away
+frightens from
+frightens from your propriety
+frightens off
+frightens off from
+frightens out of
+frightens out of your senses
+frightens out of your wits
+frightful anticipation
+frightful bore
+frightful bores
+frightful that !DETERMINER
+frightfully anxious
+frightfully insane
+from fear
+from raw fear
+future is unraveling
+gape pop-eyed in fear
+gaped pop-eyed in fear
+gapes pop-eyed in fear
+gaping pop-eyed in fear
+gasping for air from fear
+Germ warfare and biochemical terrorism
+get worse for me
+get worse for us
+going to get involved in !DETERMINER prolonged military operation
+goosebumps of fear
+government !CANCOULD not protect
+government !CANCOULD not really protect
+government can't protect
+government can't protect OBJECTWE!
+government can't really protect
+government can't really protect OBJECTWE!
+government CANCOULD! not protect OBJECTWE!
+government CANCOULD! not really protect OBJECTWE!
+government cannot protect
+government cannot protect OBJECTWE!
+government cannot really protect
+government cannot really protect OBJECTWE!
+government cant protect
+government cant protect OBJECTWE!
+government cant really protect
+government cant really protect OBJECTWE!
+grave jeopardy
+great danger
+Greatest fear
+grisly consequences
+gulped heavilly
+gulping air furiously from fear
+gulping for air out of fear
+hackles raised
+hackles rise
+hackles rising
+had to face
+hair-raising fear
+harbinger of !DETERMINER imminent
+harbingers of !DETERMINER imminent
+Has become dangerous
+haunt her
+haunt him
+haunt me
+haunt them
+haunt us
+haunt you
+haunted her
+haunted him
+haunted look
+haunted looks
+haunted me
+haunted them
+haunted us
+haunted you
+haunting her
+haunting him
+haunting me
+haunting them
+haunting us
+haunting you
+haunts her
+haunts him
+haunts me
+haunts them
+haunts us
+haunts you
+have !DETERMINER ability to harm
+having to be on guard
+he !AUX also anxious
+he !AUX anxious
+he can attack me
+he can attack us
+he can lose someone close
+he could lose someone close
+he has to look over his shoulder
+he has to watch his back
+he may lose someone close
+he might lose someone close
+he will be forced
+he will be forced to live
+heart-fluttering fear
+heart-palpitating fear
+heart-pounding fear
+heart flip-flopping
+heart fluttering fear
+heart hammering fear
+heart palpitating fear
+heart performing
+heart pounding fear
+heartbeat quickening with fear
+heartpounding fear
+heavy gulp
+heavy gulping
+heavy gulps
+helpless
+helpless to protect
+helplessly
+helplessness
+hidden danger
+hidden dangers
+hidden enemies
+hidden enemy
+high alert
+high alert status
+high state of alert
+higher state of alert
+highest state of alert
+Highly frightening
+his anxieties
+his anxiety
+his becoming !DETERMINER victim
+hit closer to my home
+hope will be crushed
+hopes will be crushed
+horror stricken
+horror struck
+hospitals will be overwhelmed
+how can I protect myself
+how can we protect ourselves
+how fearful
+HOW MANY MORE ARE HERE
+HOW MANY PLANS OF TERRORISM ARE BEING WORKED ON
+HOW WOULD YOU KNOW?
+huge structures collapsing
+hunted at any time
+hunted look
+hunted looks
+hyperventilating about
+I'm most concerned
+I'm vulnerable
+I've been threatened
+I am coming unglued
+I am concerned
+I am concerned about !DETERMINER safety
+I am concerned for !DETERMINER safety
+I am feeling so vulnerable
+I am feeling vulnerable
+I am not able to do anything about it
+I am under threat
+I am uptight
+I am very vulnerable
+I am vulnerable
+I can't yet relax
+I can lose someone close
+I could lose someone close
+I do not feel safe
+I do not know what I'll do
+I do not know what I will do
+I do not know what we'll do
+I do not know what we will do
+I do not think our enemies have finished yet
+I don't feel safe
+I don't know how I will handle any threat
+I don't know what I'll do
+I don't know what I will do
+I don't know what is going to happen to me
+I don't know what we'll do
+I don't know what we will do
+I don't know what will happen
+I don't know what will happen to me
+I don't think !DETERMINER attacks are over
+I don't think !DETERMINER terrorists are through doing damage
+I don't think our enemies have finished yet
+I doubt we will be able to punish those responsible
+I doubt we will ever
+I doubt we will ever find peace
+I feel like I'm very vulnerable
+I feel like I'm vulnerable
+I feel threatened
+I feel unglued
+I feel unsafe
+I feel very vulnerable
+I feel vulnerable
+I feel we haven't seen !DETERMINER last of attacks
+I felt like my life was not as safe
+I felt like my life was not safe
+I felt my life was not safe
+I find it worrisome
+I find myself having to watch my back
+I find myself looking over my shoulders
+I find myself watching my back
+I have no confidence
+I have to look over my shoulder
+I have to watch my back
+I just don't know what will happen
+I may lose someone close
+I might lose someone close
+I need protection
+I now find it dangerous
+I require protection
+I still feel vulnerable
+I will be forced to live
+I will be haunted
+I will go bankrupt
+I will go broke
+I will never feel safe
+I won't be able to do anything
+I won't be able to help
+I won't be able to stop it
+icy chill down !POSSESSIVEPRONOUN spine
+icy chill down his spine
+icy chill down their spines
+icy chill down your spine
+icy clutch of dread
+icy clutches of dread
+icy finger of dread
+icy fingers of dread
+If I would get hurt
+if something bad !AUX allowed to happen to me
+if something bad !AUX allowed to happen to us
+If we would get hurt
+imminence of
+imminent harbinger
+imminent harbingers
+impend over
+impended over
+impending danger
+impending dangers
+impending over
+impends over
+in !DETERMINER cold sweat of fear
+in !DETERMINER complete jam
+in !DETERMINER complete quagmire
+in !DETERMINER high and hysterical voice
+in !DETERMINER panic
+in alarming
+in anticipation and fear
+in apprehension of
+in cold sweats of fear
+in danger
+in danger imminent
+in danger of
+in dread
+in dread for
+in dread for !QUESTION
+in dread of
+in fear
+in fear and anticipation
+in fear and apprehension
+in fear and dread
+in fear and trembling
+in fear of
+in fear of !POSSESSIVEPRONOUN life
+in fear of impending
+in fear of your life
+in fearful anticipation of
+in fright apprehension
+in frightful anticipation
+in great danger
+in imminent danger
+in jams
+in jeopardy
+in mortal fear
+in mortal fears
+in panic
+in panic mode
+in peril
+in profound danger
+in real danger
+in real danger of
+in terror
+in trembling anticipation
+in trembling apprehension
+increased feeling of insecurity
+increased feelings of insecurity
+incredulity and fear
+incur !DETERMINER debt
+incur costs
+incur danger
+incur discredit
+incur disesteem
+incur disgrace
+incur dishonor
+incur expenses
+incur loss
+incurred !DETERMINER debt
+incurred costs
+incurred danger
+incurred discredit
+incurred disesteem
+incurred disgrace
+incurred dishonor
+incurred expenses
+incurrence
+incurrent
+incurring !DETERMINER debt
+incurring costs
+incurring danger
+incurring discredit
+incurring disesteem
+incurring disgrace
+incurring dishonor
+incurring expenses
+incurring loss
+incurs !DETERMINER debt
+incurs costs
+incurs danger
+incurs discredit
+incurs disesteem
+incurs disgrace
+incurs dishonor
+incurs expenses
+incurs loss
+induced by fear
+infiltrate !DETERMINER water resources
+infiltrate my
+infiltrate our
+infiltrate your
+infiltrated !DETERMINER water resources
+infiltrated my
+infiltrated our
+infiltrated your
+infiltrates !DETERMINER water resources
+infiltrates my
+infiltrates our
+infiltrates your
+infiltrating !DETERMINER water resources
+infiltrating my
+infiltrating our
+inflation lies ahead
+inflation to come
+innocent people will die
+insecure and on guard
+insecure feeling
+insecure feelings
+insecure thought
+insecure thoughts
+into danger
+is anxious about what might happen
+is being threatened
+is cautious about what might happen
+is concerned about what might happen
+is imminent
+is in deep jeopardy
+is in jeopardy
+is ominous
+is prepared to use terrorist tactics
+is threatened
+isn't safe
+it's dangerous
+it's not over
+it's pure chaos
+it's scary
+It !AUX already dangerous
+it !AUX dangerous
+It !AUX dangerous to go to !DETERMINER store
+It !AUX frightening
+It !AUX highly frightening
+it !AUX so scary
+it !CANCOULD and will happed again
+it !CANCOULD easily happen again
+it !CANCOULD happen again
+it !CANCOULD happen anywhere
+it !CANCOULD happen anywhere at any time
+it !CANCOULD happen at any place or time
+it can be an easy target
+it can happen anywhere
+it can happen at any moment
+it can happen at any time
+it can happen in any city
+it can happen in any city at any time
+it can happen to anyone
+it CANCOULD! and will happed again
+it CANCOULD! easily happen again
+it CANCOULD! happen again
+it CANCOULD! happen anywhere
+it CANCOULD! happen anywhere at any time
+it CANCOULD! happen at any place or time
+it could be an easy target
+It could happen here
+it happens that something bad
+it is dangerous to
+it is not over
+it made me uneasy
+it makes me uneasy
+it might be an easy target
+it sends !DETERMINER chill
+it will be awful
+it will be dangerous
+it will be horrendous
+it will be horrible
+it will be terrible
+It will become dangerous
+it will happen again
+it will happen again ?
+it will happen again?
+it would be an easy target
+it would be awful
+it would be horrendous
+it would be horrible
+it would be terrible
+jittery feeling
+jittery feelings
+jobs !AUX lost
+jobs !AUX lost on !DETERMINER massive level
+jumpiness about
+jumpy and fearful
+just as vulnerable
+just as vulnerable as
+just cannot control
+just helpless
+just pure chaos
+keeping !PRONOUNOBJECTIVE on tenterhooks
+kept !PRONOUNOBJECTIVE on tenterhooks
+killed at any time
+kind of afraid
+king of terror
+king of terrors
+knees quaking
+knot constrict his throat
+knot constrict their throats
+knot constrict your throat
+knot constricted !POSSESSIVEPRONOUN throat
+knot constricted his throat
+knot constricted their throats
+knot constricted your throat
+knot constricts his throat
+knot constricts their throats
+knot constricts your throat
+know you might die
+knowing that our lives are not as secure
+lack confidence
+lack of control in my life
+lack of safety
+lack of security
+lacked confidence
+lacking confidence
+lacks confidence
+laden with danger
+lay in wait in our !GEOREGION
+leave OBJECTWE! open for another surprise
+leave open for another surprise
+leave unprotected
+leave vulnerable
+leaves unprotected
+leaves vulnerable
+leaving unprotected
+leaving vulnerable
+left unprotected
+left vulnerable
+lie in wait in our !GEOREGION
+lies in wait in our !GEOREGION
+life hanging in !DETERMINER balance
+life hangs in !DETERMINER balance
+likely be targeted
+likely that !DETERMINER terrorists
+likely that terrorism
+likely to be targeted
+little confidence
+little has been done proactively
+little protection
+little protection from
+little security
+live in apprehension
+live in apprehension of
+live in dangerous
+live in dangerous times
+live in dread
+live in dread of
+live with !DETERMINER apprehension
+live with !DETERMINER apprehension of
+lived in apprehension
+lived in apprehension of
+lived in dangerous
+lived in dangerous times
+lived in dread
+lived in dread of
+lived with !DETERMINER apprehension
+lived with !DETERMINER apprehension of
+lives are being threatened
+lives are threatened
+lives hang in !DETERMINER balance
+lives hanging in !DETERMINER balance
+lives in apprehension
+lives in apprehension of
+lives in dangerous
+lives in dangerous times
+lives in dread
+lives in dread of
+lives in fear of
+lives with !DETERMINER apprehension
+lives with !DETERMINER apprehension of
+living in apprehension
+living in apprehension of
+living in dangerous
+living in dangerous times
+living in dread
+living in dread of
+living with !DETERMINER apprehension
+living with !DETERMINER apprehension of
+load of fear
+long threatened
+lose safety
+loses safety
+losing safety
+loss of having control
+loss of my feeling of safety
+loss of my security
+loss of our feeling of safety
+loss of our security
+loss of safety
+lost safety
+loved ones will be lost
+lying in wait in our !GEOREGION
+massive loss of life
+may attack
+may attack !DETERMINER food supply
+may attack !DETERMINER water supply
+may be !DETERMINER lie
+may be !DETERMINER terrorist
+may be !DETERMINER threat
+may be an attack
+may be assassinated
+may be carcinogenic
+may be contaminated
+may be dangerous
+may be dangerously
+may be destroyed
+may be exterminated
+may be fatal
+may be fired
+may be forged
+may be harmed
+may be harmful
+may be hazardous
+may be hurt
+may be in harm's way
+may be injured
+may be killed
+may be led to perform !DETERMINER cowardly act
+may be led to perform such !DETERMINER cowardly act
+may be let go
+may be manipulated
+may be more terrorists
+may be perilous
+may be shelved
+may be slayed
+may be some attack
+may be sporadic assaults
+may be squandered
+may be stolen
+may be terminated
+may be wasted
+may breach
+may breach !DETERMINER security
+may breach security
+may cause peril
+may change drastically
+may change for !DETERMINER worse
+may die
+may get hurt
+may have !DETERMINER few fanatics
+may inconvenienced
+may infiltrate
+may kill
+may kill innocent
+may kill innocent people
+may lose
+may lose someone close
+may pose !DETERMINER threat
+may strike
+may strike again
+may take advantage of !POSSESSIVEPRONOUN generosity
+may take advantage of !POSSESSIVEPRONOUN good will
+may take advantage of !POSSESSIVEPRONOUN kindness
+may take advantage of !POSSESSIVEPRONOUN trust
+may take advantage of his generosity
+may take advantage of his good will
+may take advantage of his kindness
+may take advantage of his trust
+may take advantage of my generosity
+may take advantage of my good will
+may take advantage of my kindness
+may take advantage of my trust
+may take advantage of people's generosity
+may take advantage of people's good will
+may take advantage of people's kindness
+may take advantage of people's trust
+may take advantage of their generosity
+may take advantage of their good will
+may take advantage of their kindness
+may take advantage of their trust
+may take advantage of your generosity
+may take advantage of your good will
+may take advantage of your kindness
+may take advantage of your trust
+me becoming !DETERMINER victim
+might attack
+might attack !DETERMINER food supply
+might attack !DETERMINER water supply
+might be !DETERMINER lie
+might be an attack
+might be an easy target
+might be assassinated
+might be counterfeit
+might be destroyed
+might be exterminated
+might be fired
+might be forged
+might be harmed
+might be killed
+might be led to perform !DETERMINER cowardly act
+might be led to perform such !DETERMINER cowardly act
+might be let go
+might be manipulated
+might be more terrorists
+might be poisoned
+might be shelved
+might be slayed
+might be some attack
+might be squandered
+might be stolen
+might be terminated
+might be visited upon
+might be wasted
+might breach
+might breach !DETERMINER security
+might breach security
+might change drastically
+might change for !DETERMINER worse
+might die
+might get hurt
+might have to evacuate
+might infiltrate
+might kill
+might kill innocent
+might kill innocent people
+might lose
+might lose someone close
+might need to evacuate
+might strike
+might strike again
+might take advantage of !POSSESSIVEPRONOUN generosity
+might take advantage of !POSSESSIVEPRONOUN good will
+might take advantage of !POSSESSIVEPRONOUN kindness
+might take advantage of !POSSESSIVEPRONOUN trust
+might take advantage of his generosity
+might take advantage of his good will
+might take advantage of his kindness
+might take advantage of his trust
+might take advantage of my generosity
+might take advantage of my good will
+might take advantage of my kindness
+might take advantage of my trust
+might take advantage of people's generosity
+might take advantage of people's good will
+might take advantage of people's kindness
+might take advantage of people's trust
+might take advantage of their generosity
+might take advantage of their good will
+might take advantage of their kindness
+might take advantage of their trust
+might take advantage of your generosity
+might take advantage of your good will
+might take advantage of your kindness
+might take advantage of your trust
+might turn into a bad
+miserable future
+miserable futures
+misery lies ahead
+misery that awaits me
+misery that awaits us
+misery to come
+MODAL happen anywhere
+monsters are right amongst us and we don't even know it
+monsters are still out there
+morbid fear
+morbid fears
+More enemies in this country than we realize
+more innocent people will die
+more innocent will die
+more situations that will kill
+more will die
+mortal fear
+mortal fears
+most anxious
+most anxious about
+most anxious to
+most upset
+most upset that
+must not trust
+mustn't trust
+my becoming !DETERMINER victim
+my child being hurt
+my child getting hurt
+my concern is that
+my concerns are that
+my daughter being hurt
+my daughter getting hurt
+my dread
+my falling prey
+my family being hurt
+my family can be harmed
+my family could be harmed
+my family getting hurt
+my family may be harmed
+my family might be harmed
+my foreboding
+my husband being hurt
+my husband getting hurt
+my insecurity
+my lack of security
+my son being hurt
+my son getting hurt
+my state's plant !AUX in !DETERMINER line of fire
+my uneasiness about what could
+my uneasiness about what may
+my uneasiness about what might
+my uneasiness toward !DETERMINER future
+my uneasiness toward what could
+my uneasiness toward what may
+my uneasiness toward what might
+my wife being hurt
+my wife getting hurt
+nailbiter of
+nailbiters of
+nauseating spurts of fear
+need to be cautious
+need to face
+needed to face
+needing to face
+needs to face
+nerve-racking and
+nerve-wracking and
+nerve jangling
+nerve racked
+nerve racking
+nerve rending
+nerve ridden
+nerve shaken
+nerve shaking
+nerve shattering
+nerve trying
+nerve wracking
+nerve wrecking
+nervous about
+nervous and
+nervous nellie
+nervous nellies
+nervous nelly
+nervous over
+nervous stomach
+nervous stomachs
+nervous strain
+nervous strains
+nervous tension
+nervous tensions
+nervous wreck
+nervous wrecks
+nervously and
+never feel safe
+never know what will happen
+Never knowing !QUESTION you life will end
+Never knowing !QUESTION you life will end
+never knowing what will happen
+never knowing what will happen next
+never safe
+next victim
+night terror
+night terrors
+no chance to escape
+no chance to hide
+no chance to run
+No clue as to what !AUX happening
+No clue as to what can happen
+No clue as to what might happen
+No clue as to what will happen
+no clue what can happen
+no clue what might happen
+no clue what will happen
+no confidence
+No control over !DETERMINER situation
+no escape
+no escape from
+no hope of life
+no longer be free
+no longer enjoy !DETERMINER same security
+no longer feel !DETERMINER same security
+no longer feel safe
+no longer feeling safe
+no longer feels safe
+no longer felt safe
+no longer have !DETERMINER same security
+No one !AUX safe
+No one in this country !AUX safe
+no one in this country is safe
+no one to defend
+no one to protect
+no one to secure
+no one will be able to do anything
+no one will be able to help
+no one wlll be able to stop it
+no protection
+no protection from
+no safety
+no security
+no warning
+no way for me to fight back
+no way for us to fight back
+no way to defend herself
+no way to defend himself
+no way to defend myself
+no way to defend ourselves
+no way to defend themselves
+no way to fight back
+no where to escape
+no where to feel safe
+no where to go
+no where to hide
+no where to run
+nostrils dilated in fear
+not as safe
+not as safe as
+not as safe as it !CANCOULD be
+not as safe as it might be
+not as safe as it used to be
+not as secure
+not at all safe
+not be able to have !DETERMINER secure
+not be able to have !DETERMINER secure future
+not be able to have security
+not constricted !POSSESSIVEPRONOUN throat
+not constricts !POSSESSIVEPRONOUN throat
+not going to have peace
+Not knowing !QUESTION !DETERMINER next attack will occur
+Not knowing !QUESTION anyone
+not knowing !QUESTION everyone
+Not knowing !QUESTION or where !DETERMINER next attack will occur
+not knowing what's going to happen next
+Not knowing what to do
+Not knowing where !DETERMINER next attack will occur
+Not knowing where to go
+not safe
+not safe at all
+nothing good may
+nothing good might
+nothing good will happen
+nothing has been done proactively
+nothing will be accomplished
+nothing will get accomplished
+nothing will get done
+now I don't know what bad can happen
+now I don't know what bad can or will happen
+now I don't know what bad will happen
+nuclear war possibilities
+nuclear weapons can be used
+nuclear weapons could be used
+nuclear weapons might be used
+nuclear weapons will be used
+numbed horror
+object of terror
+objects of terror
+of fear
+of terror
+of terrors
+on !DETERMINER anxious bench
+on !DETERMINER anxious seat
+on !DETERMINER danger
+on !DETERMINER danger of
+on !DETERMINER dangers
+on !DETERMINER dangers of
+on !DETERMINER high state of alert
+on !DETERMINER higher state of alert
+on !DETERMINER highest state of alert
+on guard against
+on guard for
+on guard in anticipation
+on high alert
+on pins and needles of apprehension
+on pins and needles of apprehensiveness
+on pins and needles of fear
+on tenterhooks
+opening !DETERMINER door to more attacks
+ostensibly protecting
+Other attacks
+ought not trust
+oughtn't trust
+our becoming !DETERMINER victim
+our carefree way of life is tainted by fears
+our concern is that
+our concerns are that
+our dread
+our enemy has infiltrated
+our falling prey
+our families being killed
+our freedom !AUX under attack
+our freedoms may be shelved
+our future will unravel
+our husbands being killed
+our insecurity
+our lack of security
+our lives are not as secure
+our loss of safety
+our open way of life !AUX being threatened
+our safety !AUX being compromised
+our safety !AUX being threatened
+our safety !AUX threatened
+Our security has been shattered
+our uneasiness
+our very way of life !AUX under attack
+our way of life !AUX being threatened
+our way of life !AUX under attack
+our world will be like
+our world will turn into
+out of fear
+out of raw fear
+overriding fear
+overriding fears
+overwhelming danger
+overwhelming dangers
+overwhelming threat
+overwhelming threats
+pain that awaits me
+pain that awaits us
+pain to come
+pale with fear
+panic about
+panic button
+panic buttons
+panic driven
+panic fear
+panic fears
+panic pale
+panic prone
+panic sets in
+panic stricken
+panic strike
+panic struck
+panic stunned
+panic terror
+panic toward
+panicked about
+panicking about
+panicking panics
+panicky feeling
+panics about
+paralyzed with fear
+peace is unraveling
+peer wild-eyed with fear
+peering wild-eyed with fear
+peers wild-eyed with fear
+people !AUX cautious
+people jumping out of windows
+petrified at
+petrified of
+petrified that
+place fear
+place me in jeopardy
+placed fear
+placed me in jeopardy
+places fear
+places me in jeopardy
+placing fear
+placing me in jeopardy
+plotting more disastrous events
+possibility of dying
+possibility that !DETERMINER terrorists
+possibility that terrorism
+possible that !DETERMINER terrorists
+possible that terrorism
+pot-shots will be taken
+potential to damage
+potential to destroy
+potential to harm
+potential to injure
+pounding from fear
+pray that he will not
+pray that he won't
+pray that it will not
+pray that she will not
+pray that she won't
+pray that they will not
+pray that they won't
+pray to god that it will not
+prayed that he will not
+prayed that he won't
+prayed that it will not
+prayed that she will not
+prayed that she won't
+prayed that they will not
+prayed that they won't
+praying that !DETERMINER terrorism is over
+praying that he will not
+praying that he won't
+praying that it will not
+praying that she will not
+praying that she won't
+praying that they will not
+praying that they won't
+prays that he will not
+prays that he won't
+prays that it will not
+prays that she will not
+prays that she won't
+prays that they will not
+prays that they won't
+predicated that terrorism
+predicted that !DETERMINER terrorists
+prey to blind fear
+preyed to blind fear
+preying to blind fear
+preys to blind fear
+prickling sensation up !POSSESSIVEPRONOUN spine
+prickling sensation up his spine
+prickling sensation up their spines
+prickling sensation up your spine
+prickling sensations up !POSSESSIVEPRONOUN spine
+prickling sensations up his spine
+prickling sensations up their spines
+prickling sensations up your spine
+prickling up !POSSESSIVEPRONOUN spine
+prickling up his spine
+prickling up their spines
+prickling up your spine
+proceed with caution
+proceeded with caution
+proceeding with caution
+proceeds with caution
+profound danger
+prospect of pure chaos
+provoke anxieties
+provoke anxiety
+provoked anxieties
+provoked anxiety
+provokes anxieties
+provokes anxiety
+provoking anxieties
+provoking anxiety
+pure chaos ahead
+purple with fear
+purpose !AUX to create destruction
+purpose !AUX to destroy
+purposely crashing into office buildings
+put fear
+put on guard by
+puts fear
+putting fear
+quaking knees
+quavering feeling
+quavering feelings
+quavering mouth
+questioning !DETERMINER stranger next to !PRONOUNOBJECTIVE
+questioning !DETERMINER stranger next to me
+questioning !DETERMINER stranger next to us
+quickening with fear
+quiver at
+quiver like !DETERMINER rabbit
+quiver of terror
+quivered at
+quivered like !DETERMINER rabbit
+quivered of terror
+quivering at
+quivering like !DETERMINER rabbit
+quivering of terror
+quivers at
+quivers like !DETERMINER rabbit
+quivers of terror
+racing from fear
+racing with fear
+random acts of destruction
+raw fear
+raw fears
+real danger
+real nailbiter
+real nailbiters
+recoil in shock
+recoiled in shock
+recoiling in shock
+recoils in shock
+recurrence of terrorist attacks
+reel from fear
+reel in fear
+reeled from fear
+reeled in fear
+reeling from fear
+reeling in fear
+reels from fear
+reels in fear
+relations will be strained
+request protection
+requested protection
+requesting protection
+requests protection
+require protection
+required protection
+requires protection
+requiring protection
+risk of being !DETERMINER victim
+risk will be posed
+risks of being !DETERMINER victim
+risks will be posed
+ROYALWE! all have to be alert
+ROYALWE! are all potentially victims
+ROYALWE! can't do a thing about it
+ROYALWE! can not do a thing about it
+ROYALWE! CANCOULD! have been one of them
+ROYALWE! do not know how to handle it
+ROYALWE! do not know what is going to happen to OBJECTWE!
+ROYALWE! do not know what ROYALWE! will do
+ROYALWE! do not know who or what to fear
+ROYALWE! do not know who these people are
+ROYALWE! don't know what is going to happen to OBJECTWE!
+ROYALWE! don't know what ROYALWE! will do
+ROYALWE! don't know who or what to fear
+ROYALWE! don't know who these people are
+ROYALWE! have no confidence that ROYALWE! can control !DETERMINER situation
+ROYALWE! have not seen !DETERMINER last of attacks
+ROYALWE! haven't seen !DETERMINER last of attacks
+ROYALWE! never know from what direction an attack may come
+ROYALWE! simply do not know who DETERMINER! enemy is
+ROYALWE! simply do not know who our enemy is
+ROYALWE! will be wide open again
+ROYALWE! won't be there to help them
+ROYALWE! would not be there to protect them
+run scared
+running scared
+runs scared
+sadly it can happen again
+sadly it could happen again
+sadly it may happen again
+sadly it might happen again
+safety of my children
+scare !DETERMINER hell off
+scare !DETERMINER hell out of
+scare !DETERMINER life out of
+scare !DETERMINER living daylights
+scare !DETERMINER pants off of
+scare !DETERMINER shit out of
+scare !DETERMINER wits out of
+scare !PRONOUNOBJECTIVE out of !POSSESSIVEPRONOUN wits
+scare away
+scare for
+scare hell
+scare one spitless
+scare one stiff
+scare shitless
+scare stiff
+scare to death
+scared !DETERMINER hell off
+scared !DETERMINER hell out of
+scared !DETERMINER life out of
+scared !DETERMINER living daylights
+scared !DETERMINER pants off of
+scared !DETERMINER shit out of
+scared !PRONOUNOBJECTIVE out of !POSSESSIVEPRONOUN wits
+scared about
+scared as hell
+scared away
+scared for
+scared hell
+scared one spitless
+scared one stiff
+scared rabbit
+scared shitless
+scared stiff
+scared that
+scared to
+scared to death
+scares !DETERMINER hell off
+scares !DETERMINER hell out of
+scares !DETERMINER life out of
+scares !DETERMINER living daylights
+scares !DETERMINER pants off of
+scares !DETERMINER shit out of
+scares !PRONOUNOBJECTIVE out of !POSSESSIVEPRONOUN wits
+scares away
+scares for
+scares hell
+scares one spitless
+scares one stiff
+scares shitless
+scares stiff
+scares to death
+scaring !DETERMINER hell off
+scaring !DETERMINER hell out of
+scaring !DETERMINER life out of
+scaring !DETERMINER living daylights
+scaring !DETERMINER pants off of
+scaring !DETERMINER shit out of
+scaring !PRONOUNOBJECTIVE out of !POSSESSIVEPRONOUN wits
+scaring away
+scaring for
+scaring hell
+scaring one spitless
+scaring one stiff
+scaring shitless
+scaring stiff
+scaring to death
+scary to
+schools will be overwhelmed
+security !AUX unreliable
+security blanket would be gone
+security blanket would be lost
+security blanket would be undermined
+Security has been shattered
+security of our borders
+Security scare
+Security scares
+security would be gone
+security would be lost
+security would be undermined
+send !DETERMINER chill of fear
+sending !DETERMINER chill of fear
+sends !DETERMINER chill of fear
+sent !DETERMINER chill of fear
+serious consequences
+shake !DETERMINER foundations of my
+shake !DETERMINER foundations of our
+shake in fear
+shake us to !DETERMINER core
+shakes !DETERMINER foundations of my
+shakes !DETERMINER foundations of our
+shakes in fear
+shaking !DETERMINER foundations of my
+shaking !DETERMINER foundations of our
+shaking in fear
+shaking us to !DETERMINER core
+shaky confidence
+she !AUX also anxious
+she !AUX anxious
+she can attack me
+she can attack us
+she can lose someone close
+she could lose someone close
+she has to look over her shoulder
+she has to watch her back
+she may lose someone close
+she might lose someone close
+she will be forced
+she will be forced to live
+sheer terror
+sheer terros
+shit a brick
+shit bricks
+shit will happen
+shits a brick
+shits bricks
+shitting a brick
+shitting bricks
+shook !DETERMINER foundations of my
+shook !DETERMINER foundations of our
+shook in fear
+shook us to !DETERMINER core
+shortages lie ahead
+shortages to come
+should not trust
+should something bad happen to me
+shouldn't trust
+shrill with horror
+shudder
+shudder at
+shudder at !DETERMINER
+shudder at !DETERMINER !IDEA
+shudder from fear
+shudder of !DETERMINER flesh
+shudder out of fear
+shuddered at
+shuddered at !DETERMINER
+shuddered at !DETERMINER !IDEA
+shuddered from fear
+shuddered of !DETERMINER flesh
+shuddered out of fear
+shuddering
+shuddering at
+shuddering at !DETERMINER
+shuddering at !DETERMINER !IDEA
+shuddering from fear
+shuddering of !DETERMINER flesh
+shuddering out of fear
+shudders
+shudders at
+shudders at !DETERMINER
+shudders at !DETERMINER !IDEA
+shudders from fear
+shudders of !DETERMINER flesh
+shudders out of fear
+shuddery
+Silent invaders
+simply not safe
+sitting hostage
+skin blossomed with goosebumps
+skin blossoming with goosebumps
+skin blossoms with goosebumps
+skin crawled by fear
+skin crawled from fear
+skin crawled in fear
+skin crawling by fear
+skin crawling from fear
+skin crawling in fear
+skin crawls in fear
+skin turned clammy from fear
+skin turning clammy from fear
+skin turns clammy from fear
+slumped dangerously
+small hairs at !DETERMINER back of !POSSESSIVEPRONOUN neck stir
+small hairs at !DETERMINER back of !POSSESSIVEPRONOUN neck stirred
+small hairs at !DETERMINER back of !POSSESSIVEPRONOUN neck stirring
+small hairs at !DETERMINER back of his neck stir
+small hairs at !DETERMINER back of his neck stirred
+small hairs at !DETERMINER back of his neck stirring
+small hairs at !DETERMINER back of their neck stir
+small hairs at !DETERMINER back of their neck stirred
+small hairs at !DETERMINER back of their neck stirring
+smells dangerous
+so fearful
+so fearful of
+So many people lost and it can happen again
+So many unanswered questions
+so unprotected
+so vulnerable
+someone in my family can be harmed
+someone in my family could be harmed
+someone in my family may be harmed
+someone in my family might be harmed
+something bad
+something bad !AUX allowed to happen
+something bad !AUX allowed to happen to me
+something bad !AUX allowed to happen to us
+something bad happens
+something bad happens to me
+something bad happens to us
+something bad will happen
+something else bad will happen
+somewhat concerned about
+sour note will be
+spasm-of terror
+spasm of terror
+spasms of terror
+sprout goosebumps of fear
+sprouted goosebumps of fear
+sprouting goosebumps of fear
+sprouts goosebumps of fear
+spurt of fear
+spurts of fear
+stand guard against
+standing guard against
+stands guard against
+stare catatonically in fear
+stare saucer-eyed in fear
+stared catatonically in fear
+stared saucer-eyed in fear
+stares catatonically in fear
+stares saucer-eyed in fear
+staring catatonically in fear
+staring saucer-eyed in fear
+state of alert
+still !CANCOULD happen anywhere
+still in danger
+still under threat
+stir anxieties
+stir up anxieties
+stirred anxieties
+stirred up anxieties
+stirring anxieties
+stirring up anxieties
+stirs anxieties
+stirs up anxieties
+stomach in !DETERMINER clench of fear
+stomach in knots of fear
+stomach in shrivels of fear
+stood guard against
+stood in dread of
+strangled cries
+strangled cry
+stricken by fear
+stricken in fear
+Strike !QUESTION unexpected
+strike fear
+Strikes !QUESTION unexpected
+strikes fear
+strikes panic
+Striking !QUESTION unexpected
+striking fear
+striking panic
+struck fear
+struck panic
+struggle that awaits me
+struggle that awaits us
+struggle to maintain !POSSESSIVEPRONOUN security
+struggle to maintain his security
+struggle to maintain my security
+struggle to maintain our security
+struggle to maintain that security
+struggle to maintain their security
+struggle to maintain your security
+struggled to maintain !POSSESSIVEPRONOUN security
+struggled to maintain his security
+struggled to maintain my security
+struggled to maintain our security
+struggled to maintain that security
+struggled to maintain their security
+struggled to maintain your security
+struggles to maintain !POSSESSIVEPRONOUN security
+struggles to maintain his security
+struggles to maintain my security
+struggles to maintain our security
+struggles to maintain that security
+struggles to maintain their security
+struggles to maintain your security
+struggling to maintain !POSSESSIVEPRONOUN security
+struggling to maintain his security
+struggling to maintain my security
+struggling to maintain our security
+struggling to maintain that security
+struggling to maintain their security
+struggling to maintain your security
+strung-out feeling
+strung-out feelings
+subject to danger
+subject to dangers
+subject to exposure
+subject to exposures
+subject to humiliation
+subject to humiliations
+subject to indignities
+subject to indignity
+subject to jeopardies
+subject to jeopardy
+subject to risk
+subject to risks
+subject to threat
+subject to threats
+subjected to danger
+subjected to dangers
+subjected to exposure
+subjected to exposures
+subjected to humiliation
+subjected to humiliations
+subjected to indignities
+subjected to indignity
+subjected to jeopardies
+subjected to jeopardy
+subjected to risk
+subjected to risks
+subjected to threat
+subjected to threats
+subjecting to danger
+subjecting to dangers
+subjecting to exposure
+subjecting to exposures
+subjecting to humiliation
+subjecting to humiliations
+subjecting to indignities
+subjecting to indignity
+subjecting to jeopardies
+subjecting to jeopardy
+subjecting to risk
+subjecting to risks
+subjecting to threat
+subjecting to threats
+subjects to danger
+subjects to dangers
+subjects to exposure
+subjects to exposures
+subjects to humiliation
+subjects to humiliations
+subjects to indignities
+subjects to indignity
+subjects to jeopardies
+subjects to jeopardy
+subjects to risk
+subjects to risks
+subjects to threat
+subjects to threats
+submit to danger
+submit to dangers
+submit to exposure
+submit to exposures
+submit to humiliation
+submit to humiliations
+submit to indignities
+submit to indignity
+submit to jeopardies
+submit to jeopardy
+submit to risk
+submit to risks
+submit to threat
+submit to threats
+submits to danger
+submits to dangers
+submits to exposure
+submits to exposures
+submits to humiliation
+submits to humiliations
+submits to indignities
+submits to indignity
+submits to jeopardies
+submits to jeopardy
+submits to risk
+submits to risks
+submits to threat
+submits to threats
+submitted to danger
+submitted to dangers
+submitted to exposure
+submitted to exposures
+submitted to humiliation
+submitted to humiliations
+submitted to indignities
+submitted to indignity
+submitted to jeopardies
+submitted to jeopardy
+submitted to risk
+submitted to risks
+submitted to threat
+submitted to threats
+submitting to danger
+submitting to dangers
+submitting to exposure
+submitting to exposures
+submitting to humiliation
+submitting to humiliations
+submitting to indignities
+submitting to indignity
+submitting to jeopardies
+submitting to jeopardy
+submitting to risk
+submitting to risks
+submitting to threat
+submitting to threats
+Such Fear This Will happen Again
+suffer angst
+suffer anguish
+suffer dread
+suffered angst
+suffered anguish
+suffered dread
+suffering angst
+suffering anguish
+suffering dread
+suffers angst
+suffers anguish
+suffers dread
+supposed to be giving protection
+supposed to be protecting
+supposed to be protecting !PRONOUNOBJECTIVE
+supposed to be protecting !PRONOUNOBJECTIVE against
+supposed to be protecting against
+supposed to be protecting me
+supposed to be protecting us
+surely to be targeted
+suspense of if something else will happen
+suspicious of my neighbors
+suspicious of our neighbors
+swallow !DETERMINER lump in !POSSESSIVEPRONOUN throat
+swallow !DETERMINER lump in his throat
+swallow !DETERMINER lump in their throats
+swallow dryly from fear
+swallowed !DETERMINER lump in !POSSESSIVEPRONOUN throat
+swallowed !DETERMINER lump in his throat
+swallowed !DETERMINER lump in their throats
+swallowing !DETERMINER lump in !POSSESSIVEPRONOUN throat
+swallowing !DETERMINER lump in his throat
+swallowing !DETERMINER lump in their throats
+swallows !DETERMINER lump in !POSSESSIVEPRONOUN throat
+swallows !DETERMINER lump in his throat
+swallows !DETERMINER lump in their throats
+swallows dryly from fear
+sweat bullets
+sweated bullets
+sweating bulleted
+sweats bullets
+teetering confidence
+tense and nervous
+tense atmosphere
+tense border
+tense borders
+tense mood
+tension in
+tension mounting
+tensions boiling
+tensions boiling over
+tensions mounting
+terrified about
+terror continues
+terror of
+terror that awaits me
+terror that awaits us
+terrorism can
+Terrorism can happen anywhere at anytime
+terrorism could
+terrorism could become
+terrorism may
+terrorism might
+Terrorist attack occurred in our country
+terrorist attacks are imminent
+terrorist attacks may
+terrorist attacks might
+terrorist can strike
+terrorist could strike
+terrorist may strike
+terrorist might strike
+terrorists are living among us
+terrorists can
+terrorists can disrupt and destroy
+terrorists can disrupt and destroy OBJECTWE! at will
+terrorists can strike
+terrorists could strike
+terrorists may strike
+terrorists might aim for
+terrorists might strike
+terrorists will
+terrorists will do
+terrorists will do it
+that anyone can harm us
+That more will happen
+that will harm
+their anxieties
+their anxiety
+their becoming !DETERMINER victim
+There !AUX dangers
+There !AUX new danger
+there !AUX no escape
+there !AUX no exit
+there !AUX no way out
+there !MODAL be more terrorist in this country
+there !MODAL be more terrorists in this country
+there are many more enemies over in this country than !ROYALWE realize
+there are many more enemies over in this country than ROYALWE! realize
+There are more attacks to come
+there could be more terrorists
+there is no way !ROYALWE can cover all !DETERMINER potential gaps
+there is no way ROYALWE! can cover all !DETERMINER potential gaps
+there may be more terrorists
+there may be sporadic assaults
+there might be more terrorists
+there MODAL! be more terrorist in this country
+there MODAL! be more terrorists in this country
+there was no escape
+there was no exit
+there was no way out
+there will be no escape
+there will be no exit
+there will be no way out
+there would be no escape
+there would be no exit
+there would be no way out
+these people will die to kill
+they !AUX also anxious
+they !AUX anxious
+they !MODAL attack
+they !MODAL attack again
+they are not over
+they can attack me
+they can attack us
+they can lose someone close
+they could lose someone close
+they have !DETERMINER ability to harm OBJECTWE! in other ways
+they have to look over their shoulder
+they have to watch their back
+they may lose someone close
+they might lose someone close
+they MODAL! attack again
+they MODAL! attack OBJECTWE! again
+They want to eliminate our way of life
+they will attack again
+they will be forced
+they will be forced to live
+This !AUX !DETERMINER beginning of !DETERMINER end
+This !AUX !DETERMINER beginning of !DETERMINER end of !DETERMINER world
+this !CANCOULD have dire
+this !CANCOULD have grave
+this !CANCOULD have serious
+this !CANCOULD have such dire
+this !CANCOULD have such grave
+this !CANCOULD have such serious
+this !CANCOULD have such unhappy
+this !CANCOULD have such unintended
+this !CANCOULD have unhappy
+this !CANCOULD have unintended
+This will be for nothing
+threat looms
+threat of
+threat of war
+threat to
+threat to me
+threat to us
+threaten me
+threaten to
+threaten us
+threatened !DETERMINER
+threatened by
+threatened me
+threatened to
+threatened us
+threatening course
+threatening courses
+threatening gait
+threatening gaits
+threatening me
+threatening to
+threatening us
+threatens me
+threatens to
+threatens us
+threats against
+threats of
+threats to
+threats to me
+threats to us
+threats we now live with
+threw !DETERMINER scare into
+threw blind fear into
+throat closed spastically
+throat closes spastically
+throat closing spastically
+throw !DETERMINER scare into
+throw blind fear into
+throwing !DETERMINER scare into
+throwing blind fear into
+throws !DETERMINER scare into
+throws blind fear into
+timid and fearful
+to avoid danger
+to cause such destruction
+to face.
+to fear
+to keep safe
+to stay safe
+toil that awaits me
+toil that awaits us
+too dangerous
+too nervous
+took !DETERMINER heavy gulp
+totally helpless
+totally petrified
+tremble in fear
+trembled in fear
+trembles in fear
+trembling anticipation
+trembling apprehension
+trembling in fear
+tried to avoid
+tried to destroy
+tried to obviate
+tries to avoid
+tries to destroy
+tries to obviate
+trouble that awaits me
+trouble that awaits us
+try to avoid
+try to destroy
+try to destroy every city
+try to obviate
+try to shake !DETERMINER foundations of our
+trying to avoid
+trying to destroy
+trying to obviate
+twisted with fear
+unable to insulate her from
+unable to insulate him from
+unable to insulate me from
+unable to insulate them from
+unable to insulate us from
+unable to insulate you from
+under !DETERMINER threat of war
+undercut my secure
+undercut my security
+undercut our secure
+undercut our security
+undercuts my secure
+undercuts my security
+undercuts our secure
+undercuts our security
+undercutting my secure
+undercutting my security
+undercutting our secure
+undercutting our security
+undermine !DETERMINER secure feeling
+undermine !DETERMINER secure feeling that !PRONOUNNOMINAL  had
+undermine !DETERMINER secure feeling that !ROYALWE had
+undermine my secure
+undermine my security
+undermine our secure
+undermine our security
+undermined !DETERMINER secure feeling
+undermined !DETERMINER secure feeling that !PRONOUNNOMINAL had
+undermined !DETERMINER secure feeling that !ROYALWE had
+undermined my secure
+undermined my security
+undermined our secure
+undermined our security
+undermines !DETERMINER secure feeling
+undermines !DETERMINER secure feeling that !PRONOUNNOMINAL had
+undermines !DETERMINER secure feeling that !ROYALWE had
+undermines my secure
+undermines my security
+undermines our secure
+undermines our security
+undermining !DETERMINER secure feeling
+undermining !DETERMINER secure feeling that !PRONOUNNOMINAL had
+undermining !DETERMINER secure feeling that !ROYALWE had
+undermining my secure
+undermining my security
+undermining our secure
+undermining our security
+unforeseen consequences
+unforeseen problems
+unfortunate future
+unfortunate futures
+unfortunately it can happen again
+unfortunately it could happen again
+unfortunately it may happen again
+unfortunately it might happen again
+unglued about
+unglued toward
+unhappy future
+unhappy futures
+unholy dread
+unholy dreads
+unknown assailant
+unknown assailants
+unplanned dangers
+unreliable security
+unsavory will happen
+unseen danger
+unseen enemies
+unseen enemy
+unsettling
+unsettling feeling
+unsettling feelings
+unwanted will happen
+unwelcome future
+unwelcome futures
+unwelcome prospect
+unwelcome prospects
+unwelcome will happen
+upset that
+very cautious
+very concerned
+very much afraid
+violence can break out
+violence can break out at any time
+violence can erupt
+visions of people dying
+visions of people going broke
+visions of people starving
+visions of people suffering
+voice cracking in fear
+voice cracking in horror
+vulnerability
+vulnerable place
+vulnerable places
+vulnerable point
+vulnerable points
+vulnerable to
+wait anxiously
+wait anxiously for
+waited anxiously
+waited anxiously for
+waiting anxiously
+waiting anxiously for
+waiting for !DETERMINER other shoe to drop
+waits anxiously
+waits anxiously for
+wake up to bombs
+wake up to seeing bombs
+wakes up to bombs
+wakes up to seeing bombs
+waking up to bombs
+waking up to seeing bombs
+want to avoid
+want to kill all of us
+want to kill me
+want to kill us
+wanted to avoid
+wanted to kill all of us
+wanted to kill me
+wanted to kill us
+wanting to avoid
+wanting to kill all of us
+wanting to kill me
+wanting to kill us
+wants to avoid
+wants to kill all of us
+wants to kill me
+wants to kill us
+war-dreading
+war can break out
+war could break out
+war may break out
+war might break out
+war scare
+war scares
+war will be waged
+was going to be attacked
+watch out
+watch out!
+watch out.
+watch your step.
+way of life AUX! being threatened
+way of life AUX! threatened
+way of life being threatened
+way to keep !POSSESSIVEPRONOUN family safe
+way to keep his family safe
+way to keep my family safe
+way to keep our families safe
+way to keep their families safe
+way to keep your family safe
+ways to keep !POSSESSIVEPRONOUN family safe
+ways to keep his family safe
+ways to keep my family safe
+ways to keep our families safe
+ways to keep their families safe
+ways to keep your family safe
+we're vulnerable
+we !AUX suspicious of our
+we !AUX suspicious of our neighbors
+we !AUX under threat
+we are feeling so vulnerable
+we are feeling vulnerable
+we are living in dangerous times
+we are vulnerable
+we can't yet relax
+we can lose someone close
+We can no longer be free
+we come to work for !DETERMINER future and people who !AUX stupid destroy it
+we could lose someone close
+we don't know what will happen to us
+we feel unsafe
+we find ourselves having to watch our backs
+we find ourselves watching our backs
+we have to look over our shoulders
+we have to watch our backs
+we let all these foreigners come into our country without checking their background
+we may lose someone close
+we might lose someone close
+we need protection
+We no longer enjoy !DETERMINER free movement that we always enjoyed
+we now live with threats
+we now must endure
+we now must face
+we now must live with
+we require protection
+we still feel vulnerable
+we will all be helpless
+we will be destroyed
+We will be forced
+We will be forced to live
+we will be haunted
+we will go bankrupt
+We will no longer be free
+weak and shaky from fear
+weak and shaky with fear
+weak future
+weak futures
+weak prospect
+weak prospects
+were to hit my city
+what !DETERMINER dreadful
+What do I do if my nightmare
+what if they attack again
+what if they decide to attack again
+what is next
+What will happen to her
+What will happen to him
+what will happen to me
+What will happen to me if
+What will happen to them
+what will happen to us
+What will happen to us if
+What will happen to you
+What will I do if
+what will we do if
+what worries
+which may cause harm
+which may harm
+which will harm
+who had no way out
+who have no way out
+who will be hurt
+widen in alarm
+widened in alarm
+widening in alarm
+widens in alarm
+wild-eyed with fear
+will add fuel to !DETERMINER fire
+will admonish
+will again be attacked
+will agitate
+will all be helpless
+will anyone be watching my back
+will anyone be watching our back
+will augur ill
+will be !DETERMINER bad thing
+will be !DETERMINER bane
+will be !DETERMINER basket case
+will be !DETERMINER bit much
+will be !DETERMINER bit thin
+will be !DETERMINER bitter pill
+will be !DETERMINER blockage
+will be !DETERMINER blow
+will be !DETERMINER boondoggle
+will be !DETERMINER bottleneck
+will be !DETERMINER bum steer
+will be !DETERMINER burden
+will be !DETERMINER burden on
+will be !DETERMINER bust
+will be !DETERMINER calamity
+will be !DETERMINER can of worms
+will be !DETERMINER catastrophe
+will be !DETERMINER chore
+will be !DETERMINER collapse of
+will be !DETERMINER complete bust
+will be !DETERMINER concern
+will be !DETERMINER concern of
+will be !DETERMINER danger
+will be !DETERMINER decline
+will be !DETERMINER demise
+will be !DETERMINER disadvantage
+will be !DETERMINER disaster
+will be !DETERMINER discordant
+will be !DETERMINER disincentive
+will be !DETERMINER disinclination
+will be !DETERMINER downfall of
+will be !DETERMINER drag
+will be !DETERMINER end of me
+will be !DETERMINER end of us
+will be !DETERMINER excuse
+will be !DETERMINER failure
+will be !DETERMINER fall of
+will be !DETERMINER false
+will be !DETERMINER fish out of water
+will be !DETERMINER flimsy
+will be !DETERMINER flop
+will be !DETERMINER force to be reckoned with
+will be !DETERMINER hazard
+will be !DETERMINER horrible
+will be !DETERMINER horror
+will be !DETERMINER jerk
+will be !DETERMINER lack of
+will be !DETERMINER lie
+will be !DETERMINER lot of hard work
+will be !DETERMINER mean person
+will be !DETERMINER miserable
+will be !DETERMINER mockery
+will be !DETERMINER nagging
+will be !DETERMINER next victim
+will be !DETERMINER no-show
+will be !DETERMINER nobody
+will be !DETERMINER nuisance
+will be !DETERMINER pest
+will be !DETERMINER problem
+will be !DETERMINER real blow
+will be !DETERMINER real threat
+will be !DETERMINER repudiation
+will be !DETERMINER risk
+will be !DETERMINER ruin
+will be !DETERMINER scapegoat
+will be !DETERMINER setback
+will be !DETERMINER shake-up
+will be !DETERMINER sheer terror
+will be !DETERMINER slump
+will be !DETERMINER smokescreen
+will be !DETERMINER specter
+will be !DETERMINER step backwards
+will be !DETERMINER stinger
+will be !DETERMINER stinging blow
+will be !DETERMINER strain
+will be !DETERMINER straw that broke !DETERMINER camel's back
+will be !DETERMINER subterfuge
+will be !DETERMINER terrible
+will be !DETERMINER terror
+will be !DETERMINER theft
+will be !DETERMINER third degree
+will be !DETERMINER threat
+will be !DETERMINER threaten
+will be !DETERMINER tired
+will be !DETERMINER total bust
+will be !DETERMINER total jerk
+will be !DETERMINER tyrant
+will be !DETERMINER undoing
+will be !DETERMINER undoing of
+will be !DETERMINER unmaking
+will be !DETERMINER unmaking of
+will be !DETERMINER unspeakable
+will be !DETERMINER victim
+will be !DETERMINER worm
+will be !DETERMINER worry
+will be !DETERMINER worse case
+will be !DETERMINER worst case
+will be !DETERMINER wrench in
+will be !DETERMINER wretched
+will be !DETERMINER zero
+will be a shame
+will be abused
+will be admonished
+will be afraid
+will be agitated
+will be alarmed
+will be all alone
+will be an affront
+will be an indignity
+will be an ordeal
+will be an outcast
+will be anxious
+will be assassinated
+will be at !DETERMINER cost
+will be at !DETERMINER mercy of
+will be at !DETERMINER wrong time
+will be at an impasse
+will be at cross-purposes
+will be at each other's throats
+will be at gunpoint
+will be at loggerheads
+will be at sea
+will be at variance with
+will be at war
+will be at wit's end
+will be attacked
+will be attacked again
+will be averse to
+will be awful
+will be awkward
+will be awry
+will be axed
+will be bad-mouthed
+will be bad news
+will be balkanized
+will be bamboozled
+will be banished
+will be bankrupt
+will be banned
+will be barely sufficient
+will be bargained away
+will be barred
+will be barren
+will be bashed
+will be bastardized
+will be battered
+will be bedeviled
+will be berated
+will be bereft
+will be besieged
+will be betrayed
+will be bewildered
+will be bitten
+will be blackened
+will be blacklisted
+will be blackmailed
+will be blasted out
+will be blatant
+will be blemished
+will be blighted
+will be blind-sided
+will be blinded
+will be bloody
+will be blotted
+will be blown off
+will be blown to smithereens
+will be bludgeoned
+will be blundered
+will be bogus
+will be booted
+will be bored
+will be boring
+will be bothered
+will be bothersome
+will be bottlenecked
+will be brainless
+will be branded
+will be bribed
+will be broadsided
+will be brow-beaten
+will be brushed off
+will be buffaloed
+will be bugged
+will be bullied
+will be bullshitted
+will be bumped off
+will be bungled
+will be burglarized
+will be bushwhacked
+will be busted
+will be butchered
+will be callous
+will be cannabalized
+will be carping
+will be cast out
+will be castigated
+will be castrated
+will be caught in !DETERMINER crossfire
+will be caught in !DETERMINER middle
+will be caught off guard
+will be caught red-handed
+will be caught redhanded
+will be caught unaware
+will be caught with my pants down
+will be caught with our pants down
+will be censored
+will be chagrined
+will be chastised
+will be cheated
+will be cheated on
+will be cheerless
+will be chewed out
+will be chicanery
+will be chided
+will be chillingly
+will be choked off
+will be clashing with
+will be clogged
+will be clouded
+will be coerced into
+will be cold-comfort
+will be cold-hearted
+will be complained about
+will be contaminated
+will be contradictory to
+will be costly
+will be cracked
+will be cramped
+will be crimped
+will be criticized
+will be criticized for
+will be crushed
+will be cuckoo
+will be cursed
+will be curtains for
+will be cut off
+will be damaged
+will be dampened
+will be dangerous
+will be dashed
+will be daunting
+will be debilitated
+will be deceived
+will be deceiving
+will be deceptive
+will be declined
+will be defaulted on
+will be defeated
+will be defrocked
+will be delayed
+will be deluded
+will be deluding
+will be demented
+will be demonized
+will be demoted
+will be denied
+will be denigrated
+will be denounced
+will be denunicated
+will be dependent upon
+will be depersonalized
+will be depleted
+will be deprecated
+will be depreciated
+will be depressed
+will be depressing
+will be deprived
+will be derided
+will be despised
+will be despondent
+will be devastated
+will be devastating
+will be difficult
+will be diminished
+will be dimly viewed
+will be dire
+will be direful
+will be direly
+will be disabled
+will be disadvantaged
+will be disadvantageous
+will be disaffected
+will be disappointed
+will be disapproved
+will be disastrous
+will be discomfited
+will be disconcerting
+will be disconfirmed
+will be disconnected
+will be disconsolate
+will be discontent
+will be discontented
+will be discontinued
+will be discordant
+will be discouraged
+will be discredited
+will be disdained
+will be disenchanted
+will be disfavored
+will be disfigured
+will be disgraced
+will be disgruntled
+will be disgusted
+will be disheartened
+will be disillusioned
+will be disingenous
+will be disinherited
+will be disintegrated
+will be disjointed
+will be dislocated
+will be dismal
+will be disobeyed
+will be disordered
+will be disowned
+will be disparaged
+will be disparaging
+will be dispirited
+will be dispiriting
+will be displaced
+will be displeased
+will be dispossessed
+will be disprized
+will be disquieted
+will be disregarded
+will be disrupted
+will be distant
+will be distorted
+will be distressed
+will be distrusted
+will be distrustful
+will be distrusting
+will be disturbed
+will be disturbing
+will be doomed
+will be drastic
+will be dreaded
+will be dreadful
+will be driven out
+will be drubbed
+will be dumbed down
+will be duped
+will be duplicitous
+will be dysfunctional
+will be eaten alive
+will be edgy
+will be embarressed
+will be embattled
+will be embittered
+will be embroiled
+will be enfeebled
+will be enmeshed in
+will be ensnared
+will be ensnarled
+will be entangled
+will be evicted
+will be evil
+will be eviserated
+will be exacerbated
+will be exacted
+will be exasperated
+will be excruciating
+will be exercised
+will be exessive
+will be exhausted
+will be expensive
+will be exploited by
+will be exposed
+will be extremely stressed
+will be fabricated
+will be faced with
+will be false
+will be falsified
+will be famine
+will be fatal
+will be fatigued
+will be fearful
+will be fed !DETERMINER line
+will be feeble
+will be fiendish
+will be fined
+will be fired
+will be fishy
+will be flawed
+will be fleeced
+will be flimsy
+will be flogged
+will be flops
+will be flubbed
+will be flunked
+will be foiled
+will be fooled
+will be forbidden
+will be forborn
+will be forced to
+will be forced to live
+will be foreclosed
+will be forfeited
+will be fouled
+will be found offensive
+will be fraught
+will be frayed
+will be frazzled
+will be freaked
+will be fret about
+will be fret at
+will be fret over
+will be frightening
+will be frittered away
+will be frivilous
+will be frowned on
+will be frustrated
+will be fucked-up
+will be fudged
+will be gambled away
+will be gambled with
+will be garbage
+will be given !DETERMINER run-around
+will be given as !DETERMINER excuse
+will be given as an excuse
+will be going under
+will be goofed
+will be grounded
+will be had
+will be hampered
+will be handcuffed
+will be hanged
+will be harassed
+will be hard
+will be hard-hearted
+will be hard on
+will be hard work
+will be hardest hit
+will be harmed
+will be hassled
+will be hated
+will be hateful
+will be hindered
+will be hit
+will be hogtied
+will be homeless
+will be hounded
+will be humiliated
+will be hurt
+will be ignored
+will be ill
+will be imminent
+will be immoral
+will be impaired
+will be implicated
+will be implicated in
+will be impolite
+will be impoverished
+will be in !DETERMINER bad way
+will be in !DETERMINER shadow of
+will be in !DETERMINER unenviable
+will be in deep shit
+will be in deep trouble
+will be in dire
+will be in disarray
+will be in for !DETERMINER kill
+will be in peril
+will be in shit
+will be in trouble
+will be inconvenienced
+will be inconvenient
+will be inflicted
+will be ingulfed
+will be inmeshed
+will be insecured
+will be instigated
+will be insulted
+will be intruded
+will be intruding
+will be invaded
+will be inveighed
+will be jaded
+will be jammed up
+will be jeered
+will be jerked around
+will be jobless
+will be killed
+will be knifed
+will be knocked out
+will be kow-towed
+will be lacking !DETERMINER
+will be lacking in
+will be lame
+will be late
+will be lax
+will be left to fend for myself
+will be left to fend for ourselves
+will be liable
+will be liable to
+will be like sheep
+will be lost
+will be lulled
+will be mad
+will be made fun of
+will be maimed
+will be marginalized
+will be marred
+will be mauled
+will be meddled with
+will be messed up
+will be messy
+will be miffed
+will be mired
+will be missing
+will be mistaken
+will be much too
+will be muddled
+will be muddy
+will be muffed
+will be mugged
+will be murdered
+will be mutilated
+will be nauseating
+will be neglected
+will be neglectful
+will be nervous
+will be nitpicked
+will be nowhere
+will be nuts
+will be obsessed over
+will be obstructed
+will be obstructive
+will be off base
+will be off on !DETERMINER wrong foot
+will be off to !DETERMINER bad start
+will be off track
+will be offensive
+will be offered as !DETERMINER excuse
+will be offered as an excuse
+will be on !DETERMINER brink
+will be on !DETERMINER edge
+will be on pins and needles
+will be on pure spite
+will be opposed
+will be oppressed
+will be oppressive
+will be ostracized
+will be othered
+will be out of !DETERMINER job
+will be out of bounds
+will be out of date
+will be out of joint
+will be out of necessity
+will be out of proportion
+will be out of sorts
+will be out of spite
+will be out of touch
+will be out of turn
+will be out of whack
+will be outcasts
+will be outed
+will be over !DETERMINER hill
+will be overbearing
+will be overblown
+will be overburdened
+will be overcautious
+will be overcome
+will be overlooked
+will be overrun
+will be pained
+will be panicked
+will be panned
+will be paralyzed
+will be pelted
+will be periled
+will be periling
+will be perilous
+will be perished
+will be persecuted
+will be perturbed
+will be perverted
+will be pessimistic
+will be pestered
+will be petered out
+will be petrified
+will be picked apart
+will be picked on
+will be picked to death
+will be pigeon-holed
+will be pilfered
+will be pinned on
+will be plundered
+will be pooh-poohed
+will be pooped
+will be pooped-out
+will be poorly attended
+will be pounced on
+will be precarious
+will be premature
+will be pressed for
+will be pressured
+will be preyed on
+will be prickly
+will be procrastinated
+will be punished
+will be purged
+will be purloined
+will be quarreled over
+will be quashed
+will be raged against
+will be rammed down
+will be ramrodded
+will be ransomed
+will be raped
+will be ratted on
+will be rattled
+will be ravaged
+will be rebuked
+will be reduced to
+will be regretted
+will be relinquished
+will be remiss
+will be rended
+will be renounced
+will be repressed
+will be reproached
+will be repudiated
+will be resented
+will be revengeful
+will be ridiculed
+will be rigged
+will be ripped apart
+will be ripped into
+will be ripped open
+will be ripped to pieces
+will be riven with
+will be robbed
+will be rocked
+will be rocky
+will be roiled
+will be rough
+will be rudely
+will be ruined
+will be run-down
+will be run down
+will be run ragged
+will be rundown
+will be sabotaged
+will be saddled under
+will be sandbagged
+will be savaged
+will be scalped
+will be scammed
+will be scandalized
+will be scandalously
+will be scant
+will be scapegoated
+will be scared
+will be scary
+will be scathing
+will be scoffed at
+will be scorched
+will be scorned
+will be scornful
+will be scotched
+will be scourged
+will be scowled at
+will be scratched
+will be screwed
+will be shackled
+will be shafted
+will be shaken
+will be shaken up
+will be shaky
+will be shocked
+will be shoddy
+will be shortchanged
+will be shortsided
+will be shot down
+will be shouted at
+will be shouted down
+will be shoved back
+will be showboating
+will be shown !DETERMINER door
+will be shown !POSSESSIVEPRONOUN place
+will be shown up
+will be shunted
+will be shut down
+will be shut out
+will be sick
+will be sick and tired
+will be sickened
+will be sidetracked
+will be simpering
+will be sinking money
+will be skeptical toward
+will be skimping
+will be skinned alive
+will be slandered
+will be slapped at
+will be slapped down
+will be slapped on !DETERMINER wrist
+will be slighted
+will be slimed
+will be slogged out
+will be slow to react
+will be slow to respond
+will be slutty
+will be snake-bitten
+will be snarled-up
+will be sneered
+will be sneered at
+will be snickered at
+will be snowed under
+will be so scary
+will be sold down !DETERMINER river
+will be sold short
+will be sorely
+will be sorry
+will be soured on
+will be spat over
+will be spelled with trouble
+will be spiteful
+will be spoiled
+will be sprained
+will be spread too thin
+will be spurned
+will be squabbled over
+will be squandered
+will be squeezed
+will be squelched
+will be stacked against
+will be stagnated
+will be startled
+will be starved
+will be starving
+will be stewed about
+will be stewed over
+will be stiffed
+will be stonewalled
+will be straitjacketed
+will be stranded
+will be strangled
+will be strapped for
+will be stressed
+will be stricken
+will be strong-armed
+will be strong-arming
+will be struck down
+will be struggling
+will be strung along
+will be strung out
+will be stuck up
+will be stultified
+will be stupidly
+will be stymied
+will be subject to
+will be subjected to
+will be sucked dry
+will be sued
+will be suffered
+will be suicide
+will be sulking
+will be surrendered
+will be susceptible
+will be suspect
+will be suspected of
+will be suspicious
+will be sweat over
+will be symptomatic
+will be tainted
+will be taken apart
+will be taken from me
+will be taken from us
+will be taken to court
+will be tampered
+will be tampered with
+will be tangled
+will be tangled with
+will be tarnished
+will be tattled on
+will be taunted
+will be taxed
+will be taxing
+will be tedious
+will be tense
+will be terminated
+will be terrified
+will be terrorized
+will be testy
+will be their firing from
+will be thorny
+will be thrashing
+will be threatened
+will be threatening
+will be thrown !DETERMINER wrench
+will be thrown into
+will be thrown off
+will be ticketed
+will be time-consuming
+will be tiraded
+will be tired of
+will be tired to death
+will be tiring
+will be toiled over
+will be told on
+will be too
+will be too costly
+will be too little
+will be too much
+will be tormented
+will be torn apart
+will be torn assunder
+will be tortuous
+will be tortured
+will be tottering
+will be tough
+will be tramatized
+will be tramatizing
+will be trapped
+will be trashed
+will be traumatic
+will be trembling
+will be trite
+will be tromped on
+will be trouble
+will be troubled
+will be troubling
+will be trumped up
+will be trying on
+will be turbulent
+will be tussled over
+will be ugly
+will be unappealing
+will be unappetizing
+will be unattended
+will be uncaring
+will be uncommunicative
+will be uncongenial
+will be under !DETERMINER cloud
+will be under !DETERMINER control of
+will be under !DETERMINER power of
+will be under !DETERMINER spell of
+will be under arrest
+will be under duress
+will be under pressure
+will be under undue pressure
+will be underestimated
+will be underexposed
+will be underhanded
+will be undermined
+will be underrated
+will be underreported
+will be undervalued
+will be underwhelmed
+will be undeserved
+will be undone
+will be unearned
+will be uneasy
+will be unemployed
+will be unenthusiastic
+will be unfashionable
+will be unfavorble
+will be unfelt
+will be unflattering
+will be unforeseen
+will be unforgivable
+will be unfortunate
+will be unfunny
+will be ungainly
+will be ungenerous
+will be unglamorously
+will be ungraceful
+will be ungrateful
+will be unhappy
+will be unheeded
+will be unholy
+will be unimpressed
+will be uninformed
+will be uninsured
+will be uninterested
+will be uninvited
+will be unkept
+will be unkindly
+will be unlettered
+will be unliberated
+will be unlikable
+will be unloved
+will be unloving
+will be unluckly
+will be unmet
+will be unmourned
+will be unmoved
+will be unncessary
+will be unnerved
+will be unobtainable
+will be unpaid
+will be unpalatable
+will be unpardonable
+will be unpardonably
+will be unpleasant
+will be unpleasantly
+will be unpleased
+will be unpracticed
+will be unprovoked
+will be unquiet
+will be unquotable
+will be unrealized
+will be unreasonable
+will be unreasonably
+will be unreasoning
+will be unrefined
+will be unrelenting
+will be unrequited
+will be unresponsive
+will be unrest
+will be unrestrained
+will be unrewarded
+will be unsafe
+will be unsavory
+will be unsayable
+will be unseated
+will be unsecured
+will be unsettled
+will be unsettling
+will be unsheltered
+will be unsightly
+will be unskilled
+will be unsmiling
+will be unsociable
+will be unsociably
+will be unsought
+will be unsparing
+will be unspeakable
+will be unspeakably
+will be unstable
+will be unsteadied
+will be unstrung
+will be unsympathetic
+will be unthanked
+will be unthinking
+will be unthroned
+will be untidy
+will be untimely
+will be unwanted
+will be unwary
+will be unwatchable
+will be unwelcome
+will be unwilling
+will be up in arms
+will be up to something
+will be upbraided
+will be upset
+will be upstaged
+will be used as !DETERMINER excuse
+will be used as an excuse
+will be vetoed
+will be vexed
+will be vicious
+will be victimized
+will be vituperative
+will be waffled on
+will be waivered on
+will be wallowed in pity
+will be warned
+will be wasting away
+will be wasting money
+will be watered-down
+will be watered down
+will be waylaid
+will be weakened
+will be wearing on
+will be weary of
+will be weaseling out
+will be whined over
+will be whitewashed
+will be withheld.
+will be without !DETERMINER family
+will be without work
+will be worn out
+will be worried about
+will be worried over
+will be worse
+will be wrangled
+will be wrecked
+will be wrenched
+will be written off
+will become ensnarled
+will become entangled
+will become trapped
+will bedevil
+will betray
+will blacklist
+will blackmail
+will blemish
+will blight
+will blind-side
+will bloody
+will blot
+will blow off
+will blow to smithereens
+will bludgeon
+will blunder
+will bog down
+will boot out
+will bore
+will bother
+will break my
+will break our
+will bribe
+will bring difficulties
+will bring to destruction
+will brow-beat
+will brush off
+will bug
+will bullshit
+will bully
+will bump heads
+will bump off
+will bungle
+will burglarize
+will bushwhack
+will cannibalize
+will carp
+will cast out
+will castigate
+will castrate
+will catch me red-handed
+will catch us red-handed
+will cause !DETERMINER bottleneck
+will cause !DETERMINER collapse
+will cause !DETERMINER commotion
+will cause !DETERMINER crackdown on
+will cause !DETERMINER decline
+will cause !DETERMINER default
+will cause !DETERMINER demise
+will cause !DETERMINER dislike
+will cause !DETERMINER dismal
+will cause !DETERMINER dismantling
+will cause !DETERMINER rift
+will cause !DETERMINER ruckus
+will cause !DETERMINER shutoff
+will cause !DETERMINER stir
+will cause !DETERMINER tiff
+will cause an inconvenience
+will cause complaints
+will cause concern
+will cause consternation
+will cause death
+will cause depair
+will cause depression
+will cause deprivation
+will cause derision
+will cause destruction
+will cause discontent
+will cause disease
+will cause disenchantment
+will cause disfavor
+will cause disfigurement
+will cause dislike
+will cause dislocation
+will cause dismalness
+will cause disorder
+will cause embarrassment
+will cause famine
+will cause illness
+will cause irritation
+will cause misery
+will cause pain
+will cause problems
+will cause starvation
+will cause suffering
+will cause trouble
+will cause unemployment
+will cause unhappiness
+will cause unpleasantness
+will cause violence
+will censor
+will change drastically
+will change for !DETERMINER worse
+will cheat
+will clash with
+will clog
+will cloud
+will coerce
+will come around and hurt
+will come around and murder
+will come around where I live and hurt
+will come into my own backyard
+will come into our own backyard
+will come to blows
+will come undone
+will come unglued
+will compromise my
+will compromise your
+will contaminate
+will cramp
+will create !DETERMINER monster
+will create !DETERMINER scene
+will create !DETERMINER stink
+will create an uproar
+will creep everyone out
+will crimp
+will damage
+will dampen
+will dash !POSSESSIVEPRONOUN hopes
+will dash his hopes
+will dash my hopes
+will dash our hopes
+will dash their hopes
+will daunt
+will debilitate
+will deceive
+will decimate my
+will decimate our
+will decline
+will defrock
+will delude
+will demonize
+will demote
+will deny risks
+will depersonalized
+will depreciate
+will derail
+will destroy
+Will destroy me
+will destroy my
+will destroy our
+Will destroy us
+will die
+will diminish
+will disaffect
+will disappoint
+will disapprove
+will disconcert
+will disconfirm
+will disconnect
+will discourage
+will discredit
+will disdain
+will disenchant
+will disfavor
+will disfigure
+will disgrace
+will disgruntle
+will disgust
+will dishearten
+will disillusion
+will disincentivize
+will disincline
+will disinherit
+will disintegrate
+will disjoint
+will dislike
+will dislocate
+will dismally
+will disobey
+will disorder
+will disown
+will disparage
+will dispirit
+will displease
+will dispossess
+will disprize
+will disquiet
+will disregard
+will disrupt
+will distort
+will distress
+will distrust
+will disturb
+will doom
+will draw blanks
+will drub
+will dumb down
+will dupe
+will embarrass
+will embattle
+will embitter
+will embroil
+will end my life
+will end our lives
+will end up bereft
+will endanger
+will ensnare
+will ensnarl
+will entangle
+will eviserate
+will exacerbate
+will exact
+will exasperate
+will excruciate
+will exploit by
+will expose
+will fabricate
+will face !DETERMINER layoff
+will face an insecure
+will face an uncertain
+will face being laid off
+will fail
+will fail to relate
+will fall down
+will fall flat
+will fall ill
+will fall in with
+will fall off
+will fall off severely
+will fall off sharply
+will fall on my shoulders
+will fall on our shoulders
+will fall prey to
+will fall short
+will fall through !DETERMINER cracks
+will falsify
+will fare poorly
+will fatigue
+will feed !DETERMINER line
+will feel !DETERMINER crush
+will feel !DETERMINER finality
+will feel !DETERMINER pinch
+will feel alone
+will feel apart
+will feel bad
+will feel criticized
+will feel defeated
+will feel disconnected
+will feel disgraced
+will feel dragged out
+will feel endangered
+will feel financial loss
+will feel hopeless
+will feel hurt
+will feel injured
+will feel licked
+will feel mortified
+will feel nauseous
+will feel no compassion
+will feel out of place
+will feel put-upon
+will feel remorse
+will feel run-down
+will feel rundown
+will feel threatened
+will feel unsettled
+will find it fraught
+will find it lacking
+will find it unmoving
+will find it upsetting
+will find it wanting
+will find wanting
+will fire
+will flagged
+will flagging
+will flaw
+will flee
+will fleece
+will flog
+will flubb
+will flunk
+will foil
+will fool
+will forbid
+will force
+will force !DETERMINER confrontation
+will force me
+will force us
+will forebear
+will foreclose
+will forfeit
+will foul
+will fray
+will frazzle
+will freak
+will fret
+will fritter away
+will frown on
+will frustrate
+will fuck-up
+will fudge
+will fulminate
+will gamble away
+will gamble with
+will get !DETERMINER short end of !DETERMINER stick
+will get bogged down
+will get flak
+will get involved in !DETERMINER prolonged
+will get me killed
+will get stuck
+will get us killed
+will get worked into lather
+will get worse
+will give !DETERMINER thumb's down
+will go along with such !DETERMINER ludicrous
+will go hungry
+will go into !DETERMINER slump
+will go on !DETERMINER skids
+will go unheeded
+will goof
+will grate on
+will grate upon
+will grow worse
+will hamper
+will handcuff
+will happen that we don't want
+will harass
+will hassle
+will hate
+will have !DETERMINER door shut on
+will have !DETERMINER door slammed
+will have an uphill battle
+will have an uphill climb
+will have no one to turn to
+will have no peace
+will have to be spoon-fed
+will have to be spoon fed
+will have to be spoonfed
+will have to be swept under !DETERMINER rug
+will have to brace for
+will have to confront
+will have to duke it out
+will have to face
+will have to go without
+will have to scrape bottom
+will have to soldier through
+will have to spoon-feed
+will have to spoon feed
+will have to steel herself for
+will have to steel himself for
+will have to steel themselves for
+will have to swallow
+will have to sweep under !DETERMINER rug
+will have to take time
+will have to take time away from
+will have too
+will have undue pressure
+will hinder
+will hit closer next time
+will hit me
+will hit us
+will hound
+will humiliate
+will hurt
+will hurt me
+will hurt us
+will I be able to
+will I be able to avoid
+will I be able to escape
+will I be able to make it
+will I be able to make it out
+Will I make it out if anything happens
+will ignore
+will implicate
+will impoverish
+will incur
+will inflict
+will inmesh
+will instigate
+will insult
+will intrude
+will invade
+will inveigh
+will isolate me
+will isolate us
+Will it happen to me or my family?
+will jade
+will jam up
+will jeer
+will jerk around
+will jerk me
+will jerk us
+will just throw money on
+will kick me out
+will kick us out
+will kill
+will kill me
+will kill us
+will knife
+will knock out
+will knuckle under
+will kow-tow
+will labor under
+will lack
+will lead to !DETERMINER waning
+will lead to depression
+Will lie in wait for me
+Will lie in wait for us
+will live in !DETERMINER time and !DETERMINER place where it !AUX dangerous
+will look into an insecure
+will look into an uncertain
+will lose
+will lose loved ones
+will maim
+will make !DETERMINER mockery
+will make matters worse
+will mar
+will mar my
+will mar our
+will marginalize
+will masquerade as
+will maul
+will meddle
+will mess it up
+will miff
+will mind that
+will minimize or deny risks
+will minimize risks
+will mire
+will mooch
+will mope
+will mouth off
+will muddle
+will muddy
+will muff
+will mug
+will murder
+will muscle in
+will mutilate
+will mutiny
+will nag
+will nauseate
+will need to scrounge
+will neglect
+will never feel safe
+Will never find those responsible
+will nitpick
+will no longer be free
+Will not be able to truly punish those responsible
+will not be around to help
+will not be free
+will not be there to help
+will not bear
+Will not give up until they have destroyed our
+Will not give up until they have destroyed us
+will not have !DETERMINER prayer
+will not have peace
+will not lift !DETERMINER finger
+will not protect
+will not protect me
+will not protect us
+will not sit well
+will not sit well with
+will obsess
+will obstruct
+will offend
+will offend and shock
+will offer excuses
+will only tick her off
+will only tick him off
+will only tick me off
+will only tick them off
+will only tick us off
+will only tick you off
+will opposed
+will oppress
+will ostracize
+will other
+will overlook
+will overrun
+will pain
+will pan
+will panic
+will paralyze
+will pelt
+will perish
+will persecute
+will perturb
+will pervert
+will pester
+will peter out
+will petrify
+will pick !DETERMINER fight
+will pick !DETERMINER quarrel
+will pick apart
+will pick on
+will pick to death
+will pigeon-hole
+will pilfer
+will pin it on
+will pine away
+will place !DETERMINER strain
+will place in jeopardy
+will plunder
+will point !DETERMINER finger
+will poke !POSSESSIVEPRONOUN nose
+will poke his nose
+will poke their nose
+will pooh-pooh
+will poop-out
+will pose !DETERMINER problem
+will pose !DETERMINER risk
+will pounce on
+will praise to excess
+will precariously
+will prematurely
+will present !DETERMINER difficulty
+will pressure to
+will prey on
+will procrastinate
+will produce !DETERMINER monster
+will prolong !DETERMINER agony
+will provide !DETERMINER test
+will puke
+will punish
+will purge
+will purloin
+will put !DETERMINER squeeze on
+will put !DETERMINER toll
+will put in jeopardy
+will quarrel
+will quash
+will rag on
+will rage against
+will raise concern
+will raise concerns
+will raise suspicions
+will ram down my throat
+will ram down our throats
+will ramrod
+will ransom
+will rape
+will rat on
+will rattle
+will ravage
+will reach !DETERMINER breaking point
+will rebel
+will rebuke
+will receive flak
+will recoil
+will recriminate
+will reduce to
+will regress back
+will regret
+will relapse
+will relinquish
+will remain !DETERMINER concern
+will remain !DETERMINER nagging
+will remain !DETERMINER problem
+will remain unsettled
+will rend
+will renounce
+will repress
+will reproach
+will repudiate
+will require lots of space
+will require resources
+will require time
+will resent
+will revenge
+will ridicule
+will rip into
+will rip open
+will rip to pieces
+will rise up in arms
+will risk
+will rob
+will roil
+will rudely
+will rue
+will rue !DETERMINER day
+will ruffle feathers
+will ruin
+will run ragged
+will sabotage
+will saddle her
+will saddle him
+will saddle me
+will saddle me with
+will saddle them
+will saddle us with
+will sandbag
+will savage
+will scam
+will scandalize
+will scandalously
+will scant
+will scapegoat
+will scheme
+will scoff
+will scorch
+will scorn
+will scotch
+will scourge
+will scowl at
+will scrape bottom
+will scratch
+will sell short
+will set me back
+will set us back
+will shackle
+will shaft me
+will shaft us
+will shake-up
+will shake me
+will shake me to !DETERMINER core
+will shake us
+will shake us to !DETERMINER core
+will shakeup
+will shock
+will shoddily
+will shoot down
+will shortchange
+will shout at
+will shout down
+will shove back
+will show !DETERMINER door
+will showboat
+will shut !DETERMINER door on
+will sicken
+will sidetrack
+will simper
+will skimp
+will skimp on
+will skin alive
+will slam !DETERMINER door
+will slander
+will slap at
+will slap down
+will slight me
+will slight us
+will slime
+will sling mud
+will slip their mind
+will slog it out
+will slump
+will slump badly
+will smell from
+will snarl-up
+will sneer
+will snicker
+will snipe
+will snipe at
+will snow under
+will solider through
+will sour on
+will spat with
+will spell trouble
+will spitefully
+will spoil
+will sprain
+will spread too thin
+will spurn
+will squabble
+will squander
+will squawk about
+will squeal on
+will squelch
+will stack against
+will stagnate
+will startle
+will starve
+will stew about
+will stew over
+will stiff
+will stonewall
+will strain my
+will strain our
+will strain relations
+will straitjacket
+will strand
+will strangle
+will stress my
+will stress our
+will strike
+will strike again
+will strike me
+will strike us
+will stultify
+will stupidly
+will stymie
+will succumb to
+will suck me dry
+will suck us dry
+will sue
+will sue me
+will sue us
+will suffer
+will sulk
+will surrender
+will suspect
+will sweat over
+will sweep under !DETERMINER rug
+will taint with
+will take !DETERMINER blow
+will take !DETERMINER bullet
+will take !DETERMINER dim view
+will take !DETERMINER gamble
+will take !DETERMINER nosedive
+will take !DETERMINER poke
+will take !DETERMINER pot-shot
+will take !DETERMINER swipe
+will take !DETERMINER toll
+will take !DETERMINER tortuous
+will take !DETERMINER turn for !DETERMINER worse
+will take flak
+will take lots of space
+will take resources
+will take space
+will take their toll
+will take time
+will take to court
+will tamper
+will tangle with
+will tarnish
+will tattle
+will taunt
+will tax
+will tax me
+will tax my
+will tax our
+will test me
+will test us
+will threaten
+will throw !DETERMINER curve
+will throw me off
+will throw stones
+will throw us off
+will thumb !POSSESSIVEPRONOUN nose
+will thumb his nose
+will thumb their nose
+will thumb your nose
+will tick her off
+will tick him off
+will tick me off
+will tick them off
+will tick us off
+will tick you off
+will tie !POSSESSIVEPRONOUN hands
+will tie his hands
+will tie my hands
+will tie our hands
+will tie their hands
+will tie your hands
+will tirade
+will tire of
+will toil
+will torment
+will torture
+will torturously
+will toss her out
+will toss him out
+will toss me out
+will toss them out
+will toss us out
+will toss you out
+will totter
+will traumatize
+will tremble
+will trip over !POSSESSIVEPRONOUN own
+will trip over his own
+will trip over their own
+will trip over your own
+will tromp on
+will trouble
+will truculently
+will trump up
+will try !POSSESSIVEPRONOUN patience
+will try his patience
+will try their patience
+will try to kill as many people as they can
+will try your patience
+will turn !DETERMINER blind eye
+will turn on her
+will turn on him
+will turn on me
+will turn on them
+will turn on us
+will turn on you
+will tussle over
+will tyrannically
+will tyrannize
+will uglify
+will undermine
+will underrate
+will underreport
+will undervalue
+will unload on
+will unsteadily
+will unsuccesssfully
+will unsympathetically
+will unthanked
+will unthinkingly
+will untidily
+will unwarily
+will unwelcomely
+will unwillingly
+will upbraid
+will upstage
+will vex
+will viciously
+will victimize
+will vituperate
+will waffle on
+will wage war
+will waiver on
+will walk !DETERMINER plank
+will walk out in !DETERMINER huff
+will wallow in pity
+will wane
+will warn
+will waste away
+will water-down
+will water down
+will waylay
+will we be able to avoid
+will we be able to escape
+will we be able to make it
+will we be able to make it out
+will weaken
+will wear herself ragged
+will wear himself ragged
+will wear out
+will wear themselves ragged
+will wear yourselves ragged
+will weary of
+will weasel out
+will whine
+will whitewash
+will with truculence
+will worm out
+will worsen
+will wrangle
+will wreck
+will wrench
+will write her off
+will write him off
+will write them off
+will write you off
+with !DETERMINER apprehension
+with !DETERMINER quavering
+with all its dread
+with angst
+with anthrax
+with apprehension
+with caution
+with cautious
+with danger
+with death
+with dread
+with fear
+with fear and trembling
+with no escape
+with no escape from
+with no hope of life
+with no warning
+with no warning signs
+with no warning signs at all
+with no where to escape
+with no where to feel safe
+with no where to go
+with no where to hide
+with no where to run
+with trepidation
+with worry
+without any safety
+without any warning
+without warning
+woke up to bombs
+woke up to seeing bombs
+won't be able to do anything about it
+won't be around to help
+won't be there to help
+won't protect
+won't protect me
+won't protect us
+world-dreaded
+worried about
+worried about !DETERMINER future
+worried about !DETERMINER security
+worried about !POSSESSIVEPRONOUN future
+worried about !POSSESSIVEPRONOUN security
+worried about what could happen
+worried about what may happen
+worried about what might happen
+worried about what will happen
+worried about what would happen
+worried for !POSSESSIVEPRONOUN safety
+worried mostly about
+worried sick
+worried stiff
+worried this will happen again
+worried to !DETERMINER frazzle
+worried what would happen
+worries about
+worries about !DETERMINER future
+worries about !DETERMINER security
+worries about !POSSESSIVEPRONOUN future
+worries about !POSSESSIVEPRONOUN security
+worries about what would happen
+worries and cares
+worries for !POSSESSIVEPRONOUN safety
+worries mostly about
+worries this will happen again
+worries what would happen
+worry about
+worry about !DETERMINER future
+worry about !DETERMINER security
+worry about !POSSESSIVEPRONOUN future
+worry about !POSSESSIVEPRONOUN security
+worry about what would happen
+worry along
+worry for !POSSESSIVEPRONOUN safety
+worry more for their safety
+worry mostly about
+worry shoe
+worry this will happen again
+worry what would happen
+worry your head about
+worry yourself
+worry yourself sick
+worrying about
+worrying about !DETERMINER future
+worrying about !DETERMINER security
+worrying about !POSSESSIVEPRONOUN future
+worrying about !POSSESSIVEPRONOUN security
+worrying about what would happen
+worrying for !POSSESSIVEPRONOUN safety
+worrying mostly about
+worrying this will happen again
+worrying what would happen
+worse case
+worse case scenario
+worse case scenarios
+worse cases
+worse that can happen
+worse that could happen
+worst case
+worst case scenario
+worst case scenarios
+worst cases
+worst that could happen
+would be !DETERMINER sour note
+would be agitated
+would be an easy target
+would be awful
+would be callous
+would be excessive
+would be excruciating
+would be exhausted
+would be forced
+would be hampered
+would be handcuffed
+would be hard-hearted
+would be hassled
+would be hit
+would be in disarray
+would be led to perform such !DETERMINER cowardly act
+would be manipulated
+would be poisoned
+would be scary
+would be so frightening
+would be so scary
+would be sorely
+would be suffered
+would be suffocated
+would be suicide
+would be suspect to
+would be symptomatic
+would be unsafe
+would change drastically
+would change for !DETERMINER worse
+would hamper
+would handcuff
+would have to be on guard for
+would have to evacuate
+would kill
+would kill innocent
+would kill innocent people
+would like to kill my children
+would like to kill our children
+would likely be targeted
+would need to evacuate
+would sound an alarm
+would sour on
+would suffocate
+wring !POSSESSIVEPRONOUN hands in fear
+wring his hands in fear
+wring their hands in fear
+wringing !POSSESSIVEPRONOUN hands in fear
+wringing his hands in fear
+wringing their hands in fear
+wrings !POSSESSIVEPRONOUN hands in fear
+wrings his hands in fear
+wrings their hands in fear
+wrung !POSSESSIVEPRONOUN hands in fear
+wrung his hands in fear
+wrung in fear
+wrung their hands in fear
+you're loved ones un-assisted
+you can lose someone close
+you could lose someone close
+you do not know what's happening
+you don't know what's happening
+you may lose someone close
+you might lose someone close
+You never know !DETERMINER people around you
+you never know what they have up POSSESSIVEPRONOUN! sleeves
+you see !DETERMINER plane coming towards you
+you will be forced
+you will be forced to live
+young children were hurt
+young children were hurt and killed
+your anxieties
+your anxiety
+your becoming !DETERMINER victim
+your life is over

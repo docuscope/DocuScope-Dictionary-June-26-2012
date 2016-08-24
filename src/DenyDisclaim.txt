@@ -1,0 +1,2138 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+--nothing that
+!AUX no
+!AUX no match for
+!AUX not
+!AUX not consistent with
+!AUX not doing
+!AUX not doing !DETERMINER
+!AUX not doing !QUESTION
+!AUX not hard-and-fast
+!AUX not in a position
+!AUX not in a position to
+!AUX not limited to
+!AUX not long for
+!AUX not made on time
+!AUX not proportional to
+!AUX nothing
+!AUX nothing hard-and-fast
+!AUX plain false
+!AUX simply false
+!AUX simply not true
+!AUX unattainable
+!AUX unattainably
+!BEAR no resemblance
+!BEAR no resemblance to
+!BREAK no bones
+!DETERMINER less than
+!DETERMINER more than
+!DO no evil
+!DO no harm
+!DO not do anything to her
+!DO not do anything to him
+!DO not do anything to them
+!DO nothing
+!DO nothing in excess
+!DO nothing wrong
+!FEEL no obligation
+!GET no
+!GET nothing
+!GIVE no trouble
+!HAVE little or nothing to do with
+!HAVE little to do with
+!HAVE little to do with !PRONOUNOBJECTIVE
+!HAVE never
+!HAVE never been associated
+!HAVE no association with
+!HAVE no bearing on
+!HAVE no business
+!HAVE no license to
+!HAVE no relation to
+!HAVE no skeletons
+!HAVE no skeletons in !DETERMINER closet
+!HAVE no skeletons in !POSSESSIVEPRONOUN closet
+!HAVE no way to
+!HAVE not
+!HAVE not been associated with
+!HAVE not given it a lot of thought
+!HAVE not given it much thought
+!HAVE nothing to do with
+!MAKE no allowance
+!MAKE no allowance for
+!MAKE no allowances
+!MAKE no allowances for
+!MAKE no difference to
+!MAKE no mention of
+!MAKE no provision
+!MAKE no real difference
+!MAKE no sign
+!MAKE nothing of
+!MAKE nothing of it
+!MODAL not excuse
+!PRODUCE none
+!PRODUCE not
+!PRODUCE nothing
+!PULL no punches
+!QUESTION can never be
+!QUESTION cannot be
+!QUESTION cannot happen
+!SAY nothing
+, nay for
+, nay with
+. there is no
+. there is no sign
+. there was no
+. there was no sign
+. this !AUX not about
+. this !AUX not about !QUESTION
+. this isn't about
+. this isn't about !QUESTION
+a far cry from
+a fat chance
+accept no
+achieve not a thing
+achieve nothing
+ain't
+ain't got
+ain't got a thing
+ain't got no
+ain't hay
+almost no
+an't
+and all without
+and no-one
+and no one
+and not
+and not just in
+and not just something
+and not one
+and not one person
+and on !DETERMINER contrary
+any one else
+any time soon
+anymore,
+anymore.
+anymore;
+anything else
+anytime soon
+anywise
+apples-and-oranges
+are'nt long for
+aren't
+aren't exactly
+aren't intending to
+as not
+as not !DETERMINER
+as not !PRONOUNNOMINAL
+at no
+at no great
+at no great distance
+at no hand
+at no pains to
+at no time
+at nothing
+bears no connection to
+bears no relevance to
+beat a dead horse but
+belonged not
+belonged not to
+beyond !DETERMINER scope
+bring nothing
+brook no
+brooked no
+brooking no
+brooks no
+buff nor stye
+but no way
+but nothing of !DETERMINER
+but nowhere
+but that still does not
+but that still doesn't
+by no manner of means
+by no means
+can't
+can't abide with
+can't accept that
+can't account for
+can't afford
+can't afford not to
+can't afford to
+can't be
+can't believe !POSSESSIVEPRONOUN eyes
+can't count
+can't defend
+can't deny
+can't dispense with
+can't do it
+can't do without
+can't down
+can't endure
+can't get her to do a lick of work
+can't get him to do a lick of work
+can't get near it
+can't get them to do a lick of work
+can't go on forever
+can't hack it
+can't imagine
+can't imagine that anyone
+can't just sit back and
+can't keep
+can't live it down
+can't make a silk purse out of a sow's ear
+can't measure up
+can't measure up to
+can't move a muscle
+can't promise
+can't reconcile that
+can't refrain from
+can't refute
+can't say much for
+can't see any objection
+can't see any objection to
+can't see beyond !DETERMINER end of !POSSESSIVEPRONOUN nose
+can't seem to hack it
+can't set foot
+can't set foot on
+can't show !POSSESSIVEPRONOUN face
+can't simply
+can't sit back and
+can't sit down
+can't stand still
+can't stomach !DETERMINER !IDEA
+can't stoop to
+can't swallow
+can't take no for an answer
+can't talk
+can't tarry
+can't teach an old dog new tricks
+can't tell a living soul
+can't tell a soul
+can't tell anyone
+can't tell them apart
+can't tell which is which
+can no longer
+can not
+cannot
+cannot afford to
+cannot be
+cannot be !DETERMINER
+cannot be considered
+cannot be overstated
+cannot choose but
+cannot do otherwise
+cannot help but deny
+cannot just sit back and
+cannot promise
+cannot sit back and
+cannot think of
+could not
+couldn't
+couldn't open !POSSESSIVEPRONOUN mouth
+couldn't sleep a wink
+couldn't think of
+create not
+decide apples and oranges
+decides apples and oranges
+deciding apples and orange
+deliver not
+denegation
+denegations
+denial
+denials
+denials of
+did no longer
+did not
+did not cause
+did not change
+did not change !DETERMINER fact
+did not change !DETERMINER fact that
+did not continue
+did not continue keeping
+did not continue to
+did not excuse
+did not keep doing
+did not keep going
+did not keep this up
+did not keep up
+did not let on
+did not make a dent in
+did not need
+did not occur
+did not say a dickey bird
+did not say a dicky bird
+did not stoop to
+did not sustain
+did not yet
+didn't
+didn't bat an eyelid
+didn't cause
+didn't have !DETERMINER heart to
+didn't let on
+didn't make a dent in
+didn't make much of
+didn't make much of it
+didn't need
+didn't pull punches
+didn't realize beforehand
+didn't realize earlier
+didn't realize sooner
+didn't sleep a wink
+didn't spearhead any effort
+didn't utter a word
+didn't want to catch
+dinna
+dinnae
+disincline to
+disinclined to
+disinclines to
+disinclining to
+disproportional to
+do not
+do not change
+do not change !DETERMINER fact
+do not change !DETERMINER fact that
+do not fit in
+do not fit into
+do not have that
+do not have that much
+do not have that much to do
+do not have that much to do with
+do not have to
+do not produce
+do not promise
+do not publicize
+do not want to make a big deal
+do not want to make a big deal about
+do not want to make it a big deal
+does not
+does not at all
+does not at all matter
+does not change
+does not change !DETERMINER fact
+does not change !DETERMINER fact that
+does not come from
+does not cut !DETERMINER mustard
+does not excuse
+does not have
+does not have anything to do with
+does not have to
+does not mean
+does not satisfy
+does not suspect
+doesn't
+doesn't amount to a hill of beans
+doesn't at all
+doesn't at all matter
+doesn't cut !DETERMINER mustard
+doesn't get
+doesn't have !DETERMINER heart to
+doesn't have any
+doesn't have anything to do with
+doesn't have to
+doesn't lend itself to
+doesn't let !DETERMINER grass grow under !POSSESSIVEPRONOUN feet
+doesn't mean
+doesn't measure up
+doesn't measure up to
+doesn't mince
+doesn't miss much
+doesn't ring a bell
+doesn't ring a bell for !PRONOUNOBJECTIVE
+doesn't stoop to
+doesn't suspect
+doesn't want to make a big deal about
+doesn't want to make it a big deal
+don't
+don't do anything
+don't do anything about
+don't get
+don't have any
+don't have skeletons
+don't have skeletons in !DETERMINER closet
+don't have skeletons in !POSSESSIVEPRONOUN closet
+don't have that
+don't have that much
+don't have that much to
+don't have that much to do
+don't have to
+don't intend to
+don't just sit by
+don't just sit by while
+don't just sit idly by
+don't just sit idly by while
+don't kid yourself
+don't let anyone
+don't let anything
+don't mean to
+don't mince
+don't need
+don't need extensive
+don't promise
+don't pull any punches
+don't see
+don't see any objection
+don't see any objection to
+don't simply
+don't think
+don't trouble
+don't want to make a big deal
+don't want to make a big deal about
+don't want to make it a big deal
+earn nothing
+earning not enough
+exchanged no more than three words with
+exchanged no more than two words with
+far be it for
+far be it for !PRONOUNOBJECTIVE
+far be it for me
+far cry from
+far from able
+far from an expert
+far from it
+far from qualified
+far too few
+far too little
+fat chance
+few of
+few pretensions
+find nothing
+flatly no
+for not
+for not having
+for not having to
+for nothing
+for nothing can
+found nothing
+from from being
+from so much as
+gainsaid
+gainsay
+gainsayer
+gainsayers
+gainsaying
+gainsays
+had no contact with
+had no time
+had none
+hard to answer
+hard to dispute
+hard to say
+hardly
+hardly at all
+hardly then
+hardly to be
+has little to do with
+has little to do with !PRONOUNOBJECTIVE
+has no association with
+has no license to
+has no plans to
+has no relation to
+has no skeletons
+has no skeletons in !DETERMINER closet
+has no skeletons in !POSSESSIVEPRONOUN closet
+has not
+has nothing to do with
+hasn't
+hasn't a modicum
+hasn't actually
+hasn't literally
+hasn't really
+haven't
+haven't a
+haven't given it a lot of thought
+haven't given it much thought
+haven't got
+hide nor hair
+hide or hair
+how never
+how not
+however not
+however, not
+in no
+in no case
+in no direction
+in no long time
+in no mood to
+in no place
+in no respect
+in no way
+in no wise
+inconsecutive
+inconsecutively
+inconsecutiveness
+irrelative
+irrelatively
+isn't
+isn't !POSSESSIVEPRONOUN fault
+isn't anywhere close
+isn't anywhere close to
+isn't hard-and-fast
+isn't here
+isn't intending to
+isn't long for
+isn't set in stone
+isn't there
+it's just one of those things
+it's no go
+it's not !QUESTION !YOU think
+it's not as
+it's not like
+it's not my job
+it's not really
+it's not worth
+it's nothing that should
+it's too deep for !YOU
+it !AUX never
+it !AUX not
+it !AUX not a major
+it !AUX not apparent
+it !AUX not clear that
+it !AUX not cold reality
+it !AUX not commonly believed that
+it !AUX not easy to see
+it !AUX not easy to see that
+it !AUX not extremely
+it !AUX not from
+it !AUX not hard reality
+it !AUX not hard truth
+it !AUX not hateful
+it !AUX not like
+it !AUX not only
+it !AUX not really
+it !AUX not so
+it !AUX not so very
+it !AUX not that
+it !AUX not very
+it !AUX nothing !ROYALWE would have
+it !AUX nothing but a stereotype
+it !AUX nothing really
+it !AUX nothing that should
+it !AUX nothing that would have
+it !AUX of no consequence
+it !AUX of no importance
+it ain't
+it can't
+it can't be
+it can't hold water
+it can never
+it can not
+it cannot
+it cannot be
+it cannot be helped
+it did not
+it didn't
+it didn't matter
+it didn't matter !QUESTION
+it didn't matter !QUESTION !DETERMINER reason
+it does not
+it does not matter
+it does not signify
+it doesn't
+It doesn't matter
+it had not
+it hardly
+it has never
+it has not
+it isn't
+it isn't !DETERMINER case
+it isn't !POSSESSIVEPRONOUN fault
+it isn't !POSSESSIVEPRONOUN fault that
+it isn't !POSSESSIVEPRONOUN place
+it isn't !POSSESSIVEPRONOUN place to
+it isn't !QUESTION
+it isn't !QUESTION !YOU
+it isn't a
+it isn't difficult to
+it isn't easy to
+it isn't hard to
+it isn't just for
+it isn't like
+it isn't that
+it isn't true
+it just can't
+it just can not
+it just didn't
+it just does not
+it just shouldn't
+it just won't
+it just wouldn't
+it makes no difference
+it matters not
+it never
+judge not
+judged not
+judges not
+judging not
+keep nothing
+keeping nothing
+like nothing
+little bearing on
+Little consequences
+little recall
+little relationship to
+little relevance to
+little to
+little to do with
+little to say
+little weight
+maintain nothing
+matter of no
+matter of no consequence
+matter of no importance
+matters not at all
+matters of no
+matters of no consequence
+matters of no importance
+mean no harm
+mean nothing
+mean nothings
+meaning no harm
+meaning nothing
+means no harm
+means nothing
+meant no harm
+meant nothing
+meatless
+much too few of
+n'importe
+nae
+nary
+nary a
+nary a one
+nary one
+ne'er
+ne'er-dos
+ne'er a
+ne'er a one
+need no explanation
+need no prodding
+needed no explanation
+needed no prodding
+needed not
+needing no explanation
+needing no prodding
+needing not
+needs-not
+needs no explanation
+needs no prodding
+neither
+neither thick nor thin
+never
+never-ceasing
+never-ceasingly
+never-changing
+never-conquered
+never-constant
+never-daunted
+never-dead
+never-dietree
+never-dying
+never-ended
+never-ending
+never-endingly
+never-endingness
+never-fading
+never-failing
+never-lasting
+never-needed
+never-never
+never-never country
+never-never land
+never-quenching
+never-ready
+never-resting
+never-resting thing called Time
+never-satisfied
+never-say-die
+never-setting
+never-shaken
+never-silent
+never-sleeping
+never-smiling
+never-stable
+never-strike
+never-swerving
+never-tamed
+never-tiring
+never-to-be-equaled
+never-trodden
+never-twinkling
+never-vacant
+never-varied
+never-varying
+never-waning
+never-wearied
+never-winking
+never-withering
+never a one
+never about
+never communicated
+never mentioned
+never nod
+never on earth
+never on time
+never once
+never otherwise
+never pass
+never quite
+never TOLD THAT !DETERMINER
+never touch
+never were
+nihil
+no
+no-one
+no advisor signature is required
+no alternative
+no alternatives
+no amount of
+no association with
+no attention span
+no ball
+no balls
+no basis in fact
+no bearing
+no bearing on
+no beauties
+no beauty
+no better
+no big deal
+no bounds
+no breakthrough
+no breakthrough on
+no buy
+no can do
+no changes
+no chicken
+no choice to
+no choices
+no claim
+no claim upon
+no comment
+no compunction
+no compunctions
+no conception
+no conjuror
+No consequence
+no crimp
+no crimp on
+no crimps
+no denial
+no department or college can override
+no departmental signatures !AUX required
+no design to
+no designs on
+no desire
+no desire for
+no difference
+no diffidence
+no dumbbell
+no ear
+no ears
+no effort
+no empty
+no exactness
+no exception
+no exception to
+no exceptions
+no exceptions to
+no exit
+no expectation
+no expectations
+no explanation
+no false modesty
+no fear
+no few
+no fight left
+no fine print at !DETERMINER bottom
+no flies on
+no fluke
+no going back
+No great import
+No great importance
+no great matter
+No great significance
+no grue
+no hack it
+no hand in
+no help but
+no idea
+no idea !QUESTION a
+no ifs, ands, or buts about it
+no indication
+no indication of
+no interest in
+no joke
+no joker
+no joker in !DETERMINER deck
+no jokers
+no jokers in !DETERMINER deck
+no just anyone
+no kick coming
+no kicker
+no lie
+no likeness
+no limit
+no limits
+no lower to go
+no man
+no material change
+no material changes
+no matter
+no matter to
+no measures with
+no misgivings
+no more
+no more than a negligible
+no more than a small
+no more,
+no necessary
+no note of
+no nothing
+no notice
+no notice of
+no objection to
+no one
+no one's place
+no one comes out
+no one else
+no one nobody
+no opportunity
+no option
+no option but
+no options
+no other basis
+no other basis on which
+no other choice
+no part
+no part in
+no person
+no plan to
+no prodding
+no pulling any punches
+no pulling punches
+no reason
+no reasons
+no recollection of
+no recourse
+no recourse but
+no reflection of
+no reflection on
+no regrets
+no relationship to
+no relevance to
+no relevant
+no relish for
+no remembrance of
+no required
+no reservations toward
+no responsible for
+no risk
+no risks
+no scruple of
+no secrets
+no shame
+no shrinking-violet
+no skeletons
+no skeletons in !DETERMINER closet
+no skeletons in !POSSESSIVEPRONOUN closet
+no skin off
+no slouch herself
+no slouch herself in
+no slouch himself
+no slouch himself in
+no slouch in
+no slouch themselves
+no slouch themselves in
+no small
+no small print
+no soap
+no stock in
+no stone is unturned
+no stone unturned
+no straight
+no stranger to
+no strings
+no such a thing
+no such thing
+no such things
+no support
+no taste for
+no term
+no thought of
+no thought of !DETERMINER morrow
+no thought of tomorrow
+no time for
+no time to lose
+no time to spare
+no title
+no title to
+no turning
+no use for
+no water
+no way
+no way dispensable
+no whit
+no winner
+no winners
+no without
+no word
+no word about
+no words
+no words about
+no words for
+no worse
+nobody
+nobody's
+nobody !DETERMINER wiser
+nobody home
+nobody present
+nobody special
+nobody under !DETERMINER sun
+non-existent
+non-liquet
+non-mysterious
+non liquet
+non whatsoe'er
+none
+none !DETERMINER worse off
+none can substitute
+none deserves
+none here allowed
+none of
+none of !DETERMINER
+none of !DETERMINER kind
+none of that
+none of your beeswax
+none to
+none to spare
+none too
+none too pleased
+none whatsoever
+nonexistent
+nope
+nor
+NOR !AUX
+NOR !AUX !DETERMINER
+nor !AUX it
+nor !AUX it a
+nor !DETERMINER
+nor !DETERMINER other
+nor can !PRONOUNOBJECTIVE  be
+nor nee
+nosee-um
+not
+not-
+not-being
+not-delivery
+not-ephemeral
+not-good
+not-living
+not-out
+not-self
+not-so
+not-soul
+not-under-command lights
+not !DETERMINER
+not !DETERMINER CASE THAT
+not !DETERMINER half of
+not !DETERMINER least
+not !DETERMINER place
+not !DETERMINER remotest
+not !DETERMINER same
+not !DETERMINER same thing at all
+not !DETERMINER slightest
+not !DETERMINER thing
+not !DETERMINER time
+not !DETERMINER type
+not !MAKE !DETERMINER course
+not !MAKE an issue of
+not !MAKE any difference
+not !MAKE head or tail of
+not !MAKE heads or tails of
+not !MAKE it
+not !MAKE out
+not !MAKE sense
+not !MAKE static
+not !MAKE waves
+not !MOTIONPREP
+not !POSSESSIVEPRONOUN
+not !POSSESSIVEPRONOUN brother's keeper
+not !POSSESSIVEPRONOUN cup of tea
+not !QUESTION
+not !QUESTION !YOU think
+not !QUESTION !YOU used to be
+not !QUESTION it !AUX cracked up to be
+not !QUESTION it is cracked up to be
+not !ROUTINEACT
+not a
+not a !TIMEFRAME
+not a !TIMEFRAME went by
+not a !TIMEOFDAY
+not a !TIMEOFDAY went by
+not a bad idea
+not a bit
+not a bit alike
+not a bit of difference
+not a bit of it
+not a blessed one
+not a blessed soul
+not a boy
+not a breakthrough
+not a breath of air
+not a chance
+not a Chinaman's chance
+not a dickey bird
+not a dicky bird
+not a dream
+not a few
+not a fluke
+not a girl
+not a grue
+not a high price for
+not a hint
+not a jot
+not a jot or tittle
+not a leaf stirring
+not a lick or smell
+not a living soul
+not a man
+not a match for
+not a mite
+not a modicums
+not a one
+not a one grue
+not a panacea
+not a particle
+not a patch on
+not a peg to hang on
+not a pin to choose
+not a prayer
+not a red cent
+not a rose garden
+not a scintilla
+not a scrap
+not a shade
+not a shade of difference
+not a shadow of a suspicion
+not a single one
+not a single person
+not a smidgen
+not a smitch
+not a snowball's chance in hell
+not a soul
+not a speck
+not a stitch
+not a stitch to your back
+not a stitch to your name
+not a suspicion
+not a thing
+not a trace
+not a woman
+not a word of
+not absolutely
+not accord with
+not according to
+not add up
+not admit
+not affected
+not afraid
+not all
+not all it's cracked up to be
+not all it is cracked up to be
+not allow
+not allow yourself to believe
+not allowed
+not always
+not always easy to
+not amiss
+not amount to a damn
+not amount to a hill of beans
+not amount to anything
+not an if
+not an illusion
+not an iota
+not angry
+not another peep out of !YOU
+not another word
+not answer
+not anticipate
+not anticipated
+not anxious
+not any
+not anybody's fool
+not appraised
+not appreciate
+not approach
+not approve
+not as
+not as a
+not as young as !YOU used to be
+not at all
+not at all concerned
+not at all far
+not at all far from
+not at all worried
+not at any price
+not at issue
+not at liberty
+not at stake
+not attend
+not back down
+not bad
+not bargain for
+not bat an eye
+not bat an eyelash
+not be !DETERMINER
+not be a bit surprised
+not be able to abide
+not be able to account for
+not be able to bear
+not be able to dispense with
+not be able to do without
+not be able to down
+not be able to endure
+not be able to say much for
+not be able to sit down
+not be able to stand still
+not be able to swallow
+not be affected by
+not be all there
+not be at home to
+not be behindhand
+not be born yesterday
+not be caught flatfooted
+not be content with
+not be entitled to
+not be found
+not be good for
+not be in existence
+not be in it
+not be in pigtails
+not be in your right mind
+not be likely
+not be met with
+not be on speakers
+not be on speaking terms
+not be on time
+not be ready
+not be right in !DETERMINER head
+not be so.
+not be surprised
+not be taken in by
+not be too visible
+not be uninterrupted
+not be up to
+not be versed
+not be with it
+not bear
+not bear inspection
+not bear with
+not beat about !DETERMINER bush
+not being
+not being !DETERMINER
+not believe
+not believe your ears
+not believe your eyes
+not believe your senses
+not believed
+not better
+not blink an eye
+not boggle at anything
+not born yesterday
+not bothered
+not breathe
+not bright
+not budge
+not budge an inch
+not butt in
+not buy
+not by a damn sight
+not by a darn sight
+not by a long chalk
+not by a long shot
+not by a long sight
+not by a mile
+not by any means
+not care
+not care a damn
+not care a straw about
+not care for
+not care if !YOU do
+not care much for
+not care to
+not cast in stone
+not catching
+not change
+not charmed
+not choke on
+not come
+not come amiss
+not come near
+not come off
+not come to !DETERMINER point
+not come to grips with
+not come up to
+not come up to !DETERMINER mark
+not come up to expectation
+not come up to par
+not come up to scratch
+not coming
+not comparable
+not comparable to
+not compare
+not compare with
+not comply
+not concern
+not condone
+not conform
+not connect with
+not connected with
+not consent
+not consider
+not considered
+not contain
+not contain !POSSESSIVEPRONOUN
+not convey anything
+not cost anything
+not count
+not count !DETERMINER cost
+not countenance
+not counting
+not covered by
+not crack a smile
+not cricket
+not crimped
+not crimping
+not cry over spilled milk
+not cut !DETERMINER mustard
+not cut it
+not dare to show your face
+not deep
+not deep enough to float a match
+not defensible
+not deny
+not deserving belief
+not destroy
+not difficult
+not dispensable
+not do
+not do anything with
+not do by halves
+not do justice to
+not done
+not down
+not dry behind !DETERMINER ears
+not easy
+not easy to
+not eat
+not either
+not empty
+not endanger
+not endure
+not enough
+not enough room
+not enough to count
+not enough to matter
+not enter your head
+not enter your mind
+not equal to
+not everyone
+not exhaustively
+not exist
+not expect
+not expend
+not expose yourself
+not face up to
+not fail
+not fall for
+not familiar
+not familliar with
+not fast
+not fearful
+not figure
+not fill !DETERMINER bill
+not filled
+not find it in your heart to
+not find your way to first base
+not firm
+not fix !DETERMINER
+not flag
+not flinch from
+not fluent
+not following
+not for !DETERMINER life of me
+not for !DETERMINER record
+not for a moment
+not for all her
+not for all his
+not for all my
+not for all their
+not for anything in !DETERMINER world
+not for attribution
+not for hire
+not for love or money
+not for publication
+not for release
+not force a crimp
+not force to crimp
+not forced
+not forelorn
+not foresee
+not forget
+not found
+not from a
+not gag on
+not get all choked up over
+not get along
+not get involved
+not get involved in
+not get off base
+not get out of line
+not get to first base
+not give
+not give a thought to
+not give away
+not give it a second thought
+not give it another thought
+not give two hoots for
+not give up
+not give up !DETERMINER ship
+not go along with
+not go for
+not go off !DETERMINER deep end
+not go on all fours with
+not go out on a limb
+not go too far
+not guesswork
+not guilty
+not hack it
+not half
+not half a chance
+not half of
+not hard
+not hard to look at
+not hardly
+not harken
+not have
+not have !DETERMINER first idea
+not have !DETERMINER foggiest
+not have !DETERMINER heart
+not have !DETERMINER heart to
+not have !DETERMINER knack
+not have !DETERMINER least idea
+not have !DETERMINER remotest idea
+not have !DETERMINER stomach for
+not have !DETERMINER stomach to
+not have a chance
+not have a Chinaman's chance
+not have a dry thread
+not have a leg to stand on
+not have a moment to spare
+not have a penny
+not have a prayer
+not have a sou
+not have a word to say
+not have all your buttons
+not have all your marbles
+not have any consequence
+not have any part of
+not have anything to do with
+not have idea one
+not have it
+not have it in one
+not have time
+not hay
+not hear a word
+not hear of
+not heed
+not held against !YOU
+not held against one
+not here
+not hesitate
+not hesitate to
+not hold a candle to
+not hold back
+not hold it against one
+not hold together
+not hold up
+not hold up in !DETERMINER wash
+not hold water
+not hold with
+not hold your breath
+not if !ROYALWE can help it
+not if !ROYALWE know it
+not if !YOU can help it
+not implicate
+not imply
+not in !DETERMINER best of health
+not in !DETERMINER habit of
+not in !DETERMINER least
+not in !DETERMINER least concerned
+not in !DETERMINER least dispensable
+not in !DETERMINER least worried
+not in !DETERMINER mood
+not in !DETERMINER picture
+not in !DETERMINER same street with
+not in !DETERMINER slightest interested
+not in !DETERMINER slightest interested in
+not in any way
+not in donkey's years
+not in error
+not in her right mind
+not in his right mind
+not in it
+not in keeping with
+not in my life
+not in residence
+not in their right mind
+not in your right mind
+not included
+not interfere
+not invited
+not involve
+not involve yourself
+not involved
+not just another
+not just because
+not just in
+not just when
+not keep
+not keep faith with
+not kid yourself
+not kosher
+not leave a leg to stand on
+not let a word escape !YOU
+not let a word escape one
+not let go
+not let it
+not let it get !YOU down
+not let it go further
+not let it happen
+not let out a peep
+not let their
+not lift a finger
+not lift a hand
+not like
+not likely
+not listen
+not live to eat
+not live up to expectation
+not long
+not look back
+not look backward
+not look for
+not look like
+not looked on
+not looked on as
+not lose a moment
+not lose sight of
+not lying down
+not mad
+not made
+not made of money
+not made susceptible
+not making a
+not making a full
+not making a full orbit
+not many
+not matter
+not matter !QUESTION
+not matter to
+not mean a thing
+not meant to
+not meant to be
+not measure up
+not measure up to expectation
+not measuring up
+not meddle
+not meddle with
+not meriting belief
+not mince words
+not mind
+not mind if !YOU do
+not mind your business
+not miss a trick
+not molested
+not more
+not move a foot
+not much
+not much for looks
+not much of a bargain
+not much range
+not much scope
+not much to boast of
+not much tolook at
+not nearly
+not necessarily
+not necessary
+not new
+not notice
+not now
+not observe
+not occur
+not odd
+not of !DETERMINER earth
+not of this world
+not often
+not on !DETERMINER job
+not on any account
+not on firm ground
+not on solid footing
+not on solid ground
+not on speaking terms
+not once
+not one
+not one bit
+not one iota
+not one little bit
+not one of
+not one scintilla
+not one too
+not open
+not open your mouth
+not opinion
+not oppose
+not outstanding
+not overlook a bet
+not overstated
+not pass
+not pass muster
+not pay
+not penetrate
+not perfect
+not permit
+not permitted
+not play fair
+not possible
+not prepared to
+not present
+not pretend to say
+not pretty
+not privy
+not proceed with
+not proved
+not proven
+not pull fair
+not pull punches
+not pull your punches
+not pulling punches
+not pursue with
+not put a foot wrong
+not put it past
+not put up with
+not qualify
+not quite right
+not quite so
+not quite that
+not rare
+not reach
+not reach to
+not real
+not realize your expectations
+not really
+not really afraid
+not really angry
+not really anxious
+not really fearful
+not really forelorn
+not really mad
+not really sad
+not really think
+not receive
+not reflections of
+not reflections on
+not refuse
+not register
+not relate to
+not relax
+not relax your concern
+not remember
+not required
+not resemble
+not resist
+not rest
+not restrained
+not ring any bells
+not ring true
+not rock !DETERMINER boat
+not rocket science
+not sad
+not say 'boo'
+not say a word
+not see
+not see !DETERMINER wood for !DETERMINER trees
+not see an inch beyond your nose
+not see beyond your nose
+not seldom
+not set in stone
+not shall
+not shall any
+not shall be
+not show up
+not shrink from
+not shut your eyes
+not signify
+not singular
+not slacken
+not sleep a wink
+not so !YOU could tell it
+not so dumb
+not so many
+not so much
+not so much as a
+not so plenty
+not solely
+not some
+not spare !DETERMINER horses
+not speak well of
+not spearheaded any effort
+not spearheading any effort
+not square
+not square with
+not stand a chance
+not stand on ceremony
+not stand up
+not standard
+not stick your neck out
+not stir
+not stir a step
+not stomach
+not stop to think
+not stretch
+not strike your colors
+not subject to
+not subject to call
+not submit
+not suffer
+not suffice
+not sung
+not support
+not supported
+not surprised
+not susceptible
+not swallow
+not sweat it
+not take
+not take care of
+not take it as a joke
+not take kindly to
+not take lying down
+not take upon yourself to say
+not tamper
+not tell
+not tell apart
+not tell one from !DETERMINER other
+not tenuous about
+not terribly
+not that
+not that it
+not that it's
+not that it's a
+not that it is
+not that sort
+not that there is
+not there
+not think
+not think like
+not think of
+not thinking like
+not thinks like
+not thought like
+not to
+not to !DETERMINER purpose
+not to accept
+not to admit
+not to allow
+not to be
+not to be able to abide
+not to be able to account for
+not to be able to bear
+not to be able to dispense with
+not to be able to do without
+not to be able to down
+not to be able to endure
+not to be able to say much for
+not to be able to sit down
+not to be able to stand still
+not to be able to swallow
+not to be believed
+not to be changed
+not to be compared
+not to be compared with
+not to be deflected
+not to be depended on
+not to be depended upon
+not to be despised
+not to be distinguished
+not to be expected
+not to be fooled
+not to be had
+not to be had at any price
+not to be had for love or money
+not to be handled without gloves
+not to be improved
+not to be minuted
+not to be mistaken
+not to be moved
+not to be overlooked
+not to be quoted
+not to be recommended
+not to be relied on
+not to be relied upon
+not to be shaken
+not to be sneezed at
+not to be spoken
+not to be spoken of
+not to be thought of
+not to be trifled with
+not to be trusted
+not to beat a dead horse
+not to concede
+not to consider
+not to discriminate
+not to fear
+not to get a thing out of
+not to have
+not to hide
+not to imply
+not to include
+not to lift a hand
+not to permit
+not to remember
+not to run from
+not to say
+not to speak of
+not to write home about
+not to your taste
+not tolerate
+not too
+not too bad
+not too many
+not too often
+not touch
+not touch it
+not touch with a ten-foot pole
+not trespassing
+not true
+not turn !DETERMINER other cheek
+not turn a hair
+not turning over
+not understand
+not unexpected
+not unwilling
+not use
+not use up
+not used
+not used to
+not utter a word
+not vital
+not wait for an invitation
+not wait to be asked
+not want any part of
+not want to !MAKE a big deal
+not war
+not wash
+not waste
+not weaken
+not well-founded
+not willing to hear of
+not with it
+not with it yet
+not within !DETERMINER memory of man
+not without
+not without !DETERMINER
+not words but action
+not work
+not worse
+not worth !DETERMINER trouble
+not worth mentioning
+not write off
+not yield an inch
+not your cup of tea
+not your sort
+not yourself
+nothing
+nothing a
+nothing a match for
+nothing at all
+nothing be
+nothing between
+nothing but time
+nothing could be less
+nothing could be more
+nothing down
+nothing else
+nothing else but
+nothing else major
+nothing empty
+nothing flukey
+nothing happen
+nothing happened
+nothing happening
+nothing happens
+nothing if not critical
+nothing in common
+nothing in excess
+nothing in particular
+nothing like
+nothing loath
+nothing longer
+nothing more
+nothing necessary
+nothing new
+nothing of !DETERMINER
+nothing of a
+Nothing of consequence
+nothing off
+nothing on
+nothing on earth
+nothing relevant
+nothing required
+nothing rum
+nothing rum about
+nothing special
+nothing to
+nothing to !DETERMINER left
+nothing to !DETERMINER right
+nothing to accept
+nothing to admit
+nothing to allow
+nothing to be
+nothing to beat a dead horse
+nothing to boast of
+nothing to brag about
+nothing to buy
+nothing to consider
+nothing to discriminate
+nothing to do
+nothing to do with
+nothing to do with !DETERMINER case
+nothing to fear
+nothing to have
+nothing to hide
+nothing to include
+nothing to it
+nothing to purchase
+nothing to remember
+nothing to run from
+nothing to say
+nothing to say about
+nothing to signify
+nothing to speak of
+nothing to think twice about
+nothing to worry
+nothing under !DETERMINER sun
+nothing whatever
+nothing whatever to do with
+nothing with it
+nothing without
+nothing without !DETERMINER
+nothing worth speaking of
+nothings
+nothnig too
+nought nothing
+noway
+nowhere
+nowhere-dense
+nowhere near
+nowhere to be found
+nowhere to turn
+nowise
+nowt
+of no account
+of no concern
+Of no consequence
+of no earthly use
+of no effect
+of no force
+Of no great consequence
+of no great importance
+of no importance
+of no matter
+of no purpose
+of no significance
+offer nothing
+on no account
+on no condition
+on no occasion
+one else
+one person can't
+one person cannot
+one thing it is not
+one thing nor !DETERMINER other
+one would never
+one would not
+only a marginal
+only a negligible
+only a slight
+only few of
+only not
+opinions expressed !AUX !DETERMINER sole
+opinions expressed !AUX solely
+or not
+or otherwise
+owe !YOU no
+owe her no
+owe him no
+owe me no
+owe nothing to
+owe them no
+owe us no
+owed !YOU no
+owed her no
+owed him no
+owed me no
+owed nothing to
+owed them no
+owed us no
+owes !YOU no
+owes her no
+owes him no
+owes me no
+owes nothing to
+owes them no
+owes us no
+owing !YOU no
+owing her no
+owing him no
+owing me no
+owing nothing to
+owing them no
+owing us no
+palinode
+palinodes
+play no role
+play no role to speak of
+played no role
+played no role to speak of
+playing no role
+playing no role to speak of
+plays no role
+plays no role to speak of
+praeterea nihil
+produce nothing
+promise nothing
+promised nothing
+promises nothing
+promising nothing
+pure fantasy
+pure fiction
+renunciatory
+rien du tout
+rien ne va plus
+saw nothing
+say-nothing
+scarcely
+scarcely to be
+see nothing
+seeing nothing
+sees nothing
+Small consequence
+Small consequences
+speak not a word of
+speaking not a word of
+speaks not a word of
+spoke not a word of
+stick at nothing
+sticking at nothing
+sticks at nothing
+stuck at nothing
+support nothing
+supporting no one but
+suspects nothing
+t'aint
+t ain't
+tain't
+take no stock in
+takes it without lying down
+that'll be !DETERMINER day
+that's not
+that's not all
+THAT at no place
+that at no time
+that in no
+that is not to imply
+that is not to say
+that is not to suggest
+that meant nothing
+that never
+that no
+that none
+THAT not
+THAT nowhere
+that still does not
+that still doesn't
+that there !AUX no
+that there !AUX not
+that there !AUX nothing
+there's no
+there's no need
+there's no sign
+there's no such thing
+there's no use
+there's no using trying
+there's not
+there's not !DETERMINER
+there's not a
+there's not a shred of evidence
+there's not a thing
+there's not enough evidence
+there's not enough reason
+there's not lots of
+there's not much left to do
+there's nothing
+there's nothing about
+there's nothing left to do
+there's nothing that
+there's nothing with
+there !AUX no
+there !AUX no reason
+there !AUX no testimony
+there !AUX not
+there !AUX not !DETERMINER
+there !AUX not any
+there !AUX not anything
+there !AUX not anything about
+there !AUX not anything to
+there !AUX not plenty of
+there !AUX nothing
+there !AUX nothing about
+there !AUX nothing to
+there !AUX simply no
+there doesn't exist
+there has not
+there hasn't
+there have not
+there haven't
+there isn't
+there isn't any
+there isn't anything
+there isn't anything about
+there no
+there not
+there nothing
+there would not be !DETERMINER
+there would not be !DETERMINER problem
+there wouldn't be !DETERMINER
+there wouldn't be !DETERMINER problem
+There?s no reason
+these !AUX not
+these aren't
+these can't
+these can not
+these cannot
+these won't
+these would not
+these wouldn't
+this !AUX not evidence
+this appears not to
+this appears not to have
+this can't
+this can't count
+this can't work
+this can not
+this cannot
+this controversy is not about
+this debate is not about
+this doesn't appear to
+this doesn't appear to have
+this doesn't count
+this is not
+this is not !DETERMINER
+this is not !POSSESSIVEPRONOUN
+this is not about whether
+this is not cold reality
+this is not hard reality
+this is not hard truth
+this is not new reality
+this is not reality
+this is not to imply
+this is not to imply that
+this is not to say
+this is not to say that
+this is not to suggest
+this is not to suggest that
+this isn't
+this isn't about whether
+this issue is not about
+this won't
+those !AUX not
+those aren't
+those can't
+those can not
+those cannot
+those won't
+those would not
+those wouldn't
+to have little or nothing to do with
+to no
+to no extent
+to not
+to nothing
+too few of
+took it without lying down
+unachievable
+unalike
+uncommunicated
+unconfused
+unconnected
+unconnectedly
+unfamous
+unfeigned
+unget-at-able
+ungreenable
+unharmed
+unhindered
+unhurt
+uninflammable
+unrepeatable
+unsaved
+unstopped
+was not !QUESTION
+was not always
+was not used
+wasn't
+wasn't !DETERMINER least
+wasn't !DETERMINER least bit
+wasn't !POSSESSIVEPRONOUN fault
+wasn't always
+wasn't here
+wasn't like
+wasn't shoehorned
+wasn't there
+way too few of
+weren't
+what never
+when hell freezes over
+when never
+which !AUX not !ROYALWE
+which never
+why never
+will never see !DETERMINER light of day
+will not promise anything
+win nothing
+with no
+with no nonsense
+with no sign
+with no sign of
+with no stomach
+with nothing
+with nothing inside
+with nothing on
+without noticing
+without paying
+without so much as noticing
+won't get near it
+won't give !PRONOUNOBJECTIVE !DETERMINER time of day
+won't give it another thought
+won't go on forever
+won't grant
+won't mince
+won't promise
+won't show !POSSESSIVEPRONOUN face
+would utter a word
+wouldn't
+wouldn't hurt a flea

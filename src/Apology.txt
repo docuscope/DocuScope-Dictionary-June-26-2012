@@ -1,0 +1,227 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!MAKE an apology
+!MAKE apology for
+!ROYALWE !MUSTSHOULD atone to you for
+!ROYALWE !MUSTSHOULD seek your forgiveness
+!ROYALWE !OUGHTNEED atone to you for
+!ROYALWE !OUGHTNEED seek your forgiveness
+!ROYALWE ask your forgiveness
+!ROYALWE seek your forgiveness
+. excuse my
+. let me apologize
+. let us apologize
+. please accept my apology
+. please excuse
+. please excuse my
+. please let me apologize
+. please let us apologize
+accept my apologies
+accept my apology
+accept my sincerest apologies
+accept my sincerest apology
+accept our apologies
+accept our apology
+accept our sincerest apologies
+accept our sincerest apology
+am sorry for the error
+apologetic
+apologetically
+apologetics
+apologist
+apologists
+apologize "
+apologize for
+apologize over
+apologize, "
+apologize:
+apologize: "
+apologized "
+apologized for
+apologized that
+apologized, "
+apologized:
+apologized: "
+apologizes "
+apologizes for
+apologizes that
+apologizes, "
+apologizes:
+apologizes: "
+apologizing "
+apologizing for
+apologizing that
+apologizing, "
+apologizing:
+apologizing: "
+apology
+can you forgive me
+can you forgive us
+didn't mean to barge in
+didn't mean to bother
+didn't mean to bump
+didn't mean to disturb
+didn't mean to hurt
+didn't mean to interrupt
+didn't mean to kill
+didn't mean to make
+didn't mean to pry
+didn't mean to startle
+didn't mean to upset
+didn't mean to wake
+didn't mean to worry
+do not mean to pry
+does not mean to pry
+everyone makes mistakes
+extend an apology
+extended an apology
+extending an apology
+extends an apology
+forgive me
+forgive me for
+forgive us
+forgive us for
+I'm really sorry
+I'm really sorry about
+I'm sincerely sorry
+I'm so sorry
+I'm so sorry I
+I'm so sorry that I
+I'm sorry about
+I'm sorry to you
+I am guilty of
+I am profoundly sorry that I
+I am profoundly sorry to you
+I am sincerely sorry
+I am so sorry
+I am so sorry I
+I am so sorry that I
+I am sorry about my
+I am sorry for the error
+I am sorry I
+I am sorry that I
+I am sorry to you
+I am truly sorry
+I am truly sorry about
+I am truly sorry for
+I apologize
+I apologize for
+I ask for your forgiveness
+I extend my heartfelt apologies
+I extend my heartfelt apology
+I extend my personal apologies
+I extend my personal apology
+I goofed
+I goofed!
+I have blundered
+I have disappointed
+I have failed
+I have fallen short
+I have let down
+I have no excuse
+I have sinned against you
+I have to apologize
+I have wronged
+I hope that you can forgive
+I hope that you can forgive me
+I hope that you can someday forgive me
+I hope that you forgive me
+I hope that you forgive us
+I hope that you will forgive me
+I hope that you will forgive us
+I hope you forgive me
+I hope you forgive us
+I hope you will accept my apologies
+I hope you will accept my apology
+I hope you will forgive me
+I hope you will forgive us
+I must apologize
+I need to apologize
+I offer my heartfelt apologies
+I offer my heartfelt apology
+I offer my personal apologies
+I offer my personal apology
+I owe you an apology
+I owe you an apology for
+I should apologize
+I should never have done this
+I sincerely apologize
+I sincerely apologize for
+I want to apologize
+I want to apologize for
+I wish to apologize
+let me apologize
+let me apologize for
+let us apologize
+my apologies
+my deep apologies
+my heartfelt apologies
+my heartfelt apology
+my personal apologies
+my personal apology
+my sincere apologies
+not know any better
+not mean it as it came out
+not mean it as it sounded
+not what I intended to say
+offer an apology
+offered an apology
+offering an apology
+offers an apology
+only human
+our apologies
+our deep apologies
+our sincere apologies
+peccavi
+please accept my apologies
+please accept my apology
+please accept my sincerest apologies
+please accept my sincerest apology
+please accept our apologies
+please accept our apology
+please accept our sincerest apologies
+please accept our sincerest apology
+please excuse
+please excuse !DETERMINER
+please excuse !DETERMINER delay
+please excuse my
+please forgive me
+please forgive me for
+please forgive my
+please forgive us
+please let me apologize
+please let me apologize for
+please let us apologize
+plesae accept our apology
+sorry for the error
+this is an apology
+this is to apologize
+we apologize
+we apologize about
+we apologize concerning
+we apologize for
+we apologize regarding
+we are sorry for causing
+we are sorry we
+we goofed
+we goofed!
+we hope that you can forgive
+we hope that you can forgive us
+we hope that you can someday forgive us
+we hope that you will forgive me
+we hope that you will forgive us
+we hope you forgive me
+we hope you will forgive me
+we hope you will forgive us
+we sincerely apologize
+we want to apologize
+we want to apologize for
+we wish to apologize
+will you accept my apologies
+will you accept my apology
+will you accept our apologies
+will you accept our apology
+will you ever forgive me
+will you ever forgive us

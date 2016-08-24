@@ -1,0 +1,21 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!HAVE !REFUTE
+!HAVE !REFUTE that
+!HAVE effectively refuted
+!HAVE put the lie to
+!HAVE successfully refuted
+!PRONOUNNOMINAL !REFUTE that
+categorically !REFUTE
+in !DETERMINER strongest terms !REFUTE
+refutation
+refutations
+refute
+refuted
+refuter
+refuters
+refutes
+refuting
+strongly !REFUTE

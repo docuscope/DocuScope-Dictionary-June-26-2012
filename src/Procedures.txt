@@ -1,0 +1,337 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER NECESSARY STEP
+!AUX !DETERMINER next STEP
+!MODAL find it necessary to
+!YOU do it by
+!YOU do it with
+!YOU insert
+!YOU must attach
+!YOU must insert
+!YOU must place
+!YOU must pull
+!YOU must push
+!YOU must put
+!YOU will attach
+!YOU will fold
+!YOU will insert
+!YOU will place
+!YOU will pull
+!YOU will push
+. add
+. bake
+. bake until
+. baste
+. be careful
+. be careful as
+. be careful that
+. be careful to
+. be cautious
+. be especially careful to
+. be especially sure to
+. be patient
+. be prepared
+. be sure
+. be sure to
+. be very careful
+. beat until
+. broil
+. but by that act
+. chill
+. chill until
+. consider how to
+. cool until
+. develop
+. dip
+. don't panic
+. for more information call
+. handle with
+. head straight to
+. head toward !DETERMINER
+. here !AUX !QUESTION
+. insert !DETERMINER
+. insert blank paper
+. insert it
+. insert paper
+. insert the
+. install
+. install !DETERMINER
+. just put
+. look over everything before you
+. mail it in
+. make !DETERMINER
+. make the
+. make your way past
+. mix
+. next,
+. place !DETERMINER
+. place !DETERMINER tab
+. place tabs
+. place the tab
+. place the tabs
+. pour
+. pre-heat
+. preheat
+. proceed cautiously
+. proceed with caution
+. put !DETERMINER
+. season to taste
+. send over the
+. sign on the dotted line
+. stir
+. stir in
+. stir vigorously
+. take care
+. take care to
+. take caution
+. then assemble
+. to secure
+. use adv!AUXedly
+. use sparingly
+. wash in cold water
+. wash in cool water
+. wash in hot water
+. wash in warm water
+. whip until
+. write to
+: develop
+; add
+; bake
+; bake until
+; baste
+; be careful
+; be careful as
+; beat until
+; broil
+; chill
+; chill until
+; cool until
+; develop
+; mix
+; pre-heat
+; season to taste
+; stir
+; stir in
+; whip until
+accepts only
+according to the instructions
+act forthwith
+allow for drying
+allow the surface to dry
+allows that one
+allows that one !MUSTSHOULD
+allows that one !OUGHTNEED
+allows that you
+allows that you !MUSTSHOULD
+allows that you !OUGHTNEED
+always use
+always use your
+and return it
+and return it in
+and return it in the
+and return it in the enclosed
+and sign
+and sign the enclosed
+be careful as
+bill me
+bill us
+but by that act
+by that act
+can not exceed
+cannot exceed
+careful not to
+closely examine
+closely examined
+closely examines
+do not hesitate to
+do not place
+do not put
+do not use
+do not use on
+does not accept
+expressly forbids
+expressly forbids one
+expressly forbids you
+expressly prohibits
+expressly prohibits one
+expressly prohibits you
+find it necessary to
+finding it necessary to
+finds it necessary to
+first make !DETERMINER
+follow these steps
+for more information call
+forbids one
+forbids you
+force us to
+found it necessary to
+get !DETERMINER copy of the
+go back to step
+go back to step !NUMS1TO100
+go on to the next step
+handle with gloves
+have your immediate superv!AUXor
+have your superv!AUXor
+here's !QUESTION to
+here's !QUESTION to get it
+here's !QUESTION to order
+here's !QUESTION you do it
+here !AUX !QUESTION you do
+here !AUX !QUESTION you go about it
+hold your questions
+how-to
+insert in
+inserting in
+inserts in
+installation required
+it's done by
+it !AUX by
+it accepts
+it accepts all
+it accepts any and all
+it accepts only
+it does not accept
+it only accepts
+just attach
+just insert
+just place
+just pull
+just push
+keep !DETERMINER copy for your records
+keep the blue copy
+keep the blue copy of the
+keep the copy
+keep the yellow copy for your records
+let's consider !QUESTION to
+let's learn !QUESTION to
+let dry
+let us consider !QUESTION to
+let us learn !QUESTION to
+may access
+may appoint
+may authorize
+may d!AUXclose
+may have access to
+may select
+may table
+may vote
+must be as
+must be careful not to
+must be careful to
+must install
+must take care not to
+needs to be as
+obtain !DETERMINER form
+on !DETERMINER small area before proceeding
+once we have formed
+or write to
+ought to be as
+pay attention
+pay close attention
+pay the invoice
+per instructions
+per the instructions
+per the steps above
+please attach
+please insert
+please place
+please pull
+please push
+please put
+please send over
+plus !NUMS1TO100 teaspoons
+plus 1 teaspoon
+proceed cautiously
+prohibit one
+prohibit you
+prohibits one
+prohibits you
+provides that one
+provides that one !MUSTSHOULD
+provides that one !OUGHTNEED
+provides that you
+provides that you !MUSTSHOULD
+provides that you !OUGHTNEED
+put on low heat
+repeat these steps
+repeat these steps until
+retain !DETERMINER copy
+retain the blue copy
+return back to step
+return back to step !NUMS1TO100
+return the completed
+return the completed form
+return the contract
+return to sender
+return to sender within
+return to step
+return to step !NUMS1TO100
+return within
+return within !NUMS1TO100 business days to
+returned the contract
+returning the contract
+returns the contract
+review carefully
+save and except
+saved and excepted
+saves and excepts
+saving and excepting
+send us back !DETERMINER
+should be as
+specifies that one
+specifies that one !MUSTSHOULD
+specifies that one !OUGHTNEED
+specifies that you
+specifies that you !MUSTSHOULD
+specifies that you !OUGHTNEED
+stipulates that one
+stipulates that one !MUSTSHOULD
+stipulates that one !OUGHTNEED
+stipulates that you
+take once every !NUMS1TO100 !TIMEFRAME
+take two times
+th!AUX !AUX !QUESTION
+th!AUX !AUX !QUESTION you
+th!AUX !AUX !QUESTION you do
+th!AUX process may be used
+that !AUX !QUESTION to do
+the procedure !AUX
+the procedure will be
+the procedures
+the procedures are
+the procedures below
+the procedures below are
+the procedures will be
+the scenario !AUX
+the scenario !AUX as follows
+to be completed
+to be done using
+to be filled out
+to do it
+to do it, you
+to go about it
+try to do th!AUX
+try to keep your
+try to use your
+until desired
+use mild
+use only
+use your
+we dev!AUXed the following scenario
+wear only
+wear protective
+what I need you to do
+what to do if you
+what we need you to do
+what you need to do
+when !PROCEDUREVERBING
+whenever !PROCEDUREVERBING
+will not exceed
+with !DETERMINER sponge
+with clean water
+you'll do it by
+you'll do it with
+you'll need to bake
+you'll need to stir

@@ -1,0 +1,254 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX  a great idea
+!AUX a great idea
+!AUX well-noted
+!AUX well-taken
+!GET the go-ahead
+!HAVE no charge
+!MAKE sense to me
+!MAKE sense to us
+!SAY 'amen' to
+!SAY 'ditto' to
+!SAY amen to
+!YOU can say that again
+. good enough!
+. good enough.
+. right on.
+a-ok
+a bouquet to
+a feather in your cap
+a great improvement
+a ok
+absolutely rules
+ain't it the truth
+ain't that the truth
+all's well
+all fine and good
+all is good
+all is well with
+all right by me
+all right with me
+all went fine
+all went well
+aok
+are my right hand
+at my convenience
+bingo!
+bingo.
+bouquets to
+congratulations are in order
+congratulations for
+congratulations for being
+congratulations for being accepted
+congratulations for being named
+congratulations for being nominated
+congratulations for being selected
+congratulations on
+congratulations on being
+congratulations on being accepted
+congratulations on being named
+congratulations on being nominated
+congratulations on being selected
+definitely right
+ditto
+dittoed
+dittoes
+dittoing
+dittos
+exactly right
+exactly so.
+exactly!
+exactly.
+fine and good
+fine by me
+Go-ahead,
+Go ahead,
+good and fine
+good going!
+good going.
+good job!
+great job
+great point
+great points
+how right you are
+I am much happier with this
+I had no problems
+I like it
+I like the implementation
+I liked the process
+I prefer it
+I prefer this way of
+I really appreciate the
+it's a winner
+it's all right!
+it's really good
+it's really good at
+it certainly beats
+it certainty beats having to
+it checked out
+it is a really good thing
+It really frees
+it really helps
+it sure beats
+it sure beats having to
+it was easier
+it was friendlier
+it was more efficient
+it was much better
+it was much easier, friendlier, and more efficient
+it was nicer than waiting in line
+je vous en prie
+je vous remercie beaucoup
+kudos to
+kudos to the
+love the fact
+love the fact that I can
+many accolades to the
+neato
+nice and fast
+no charge
+no charge for
+No more waiting
+no room for improvement
+not far off
+not far wrong
+nothing to improve
+now you're talking
+okay by me
+overall well done
+perfectly
+perfectly fine!
+perfectly fine.
+perfectly reasonable
+perfectly sensible!
+perfectly sound
+perfectly willing
+point well-noted
+point well-taken
+points well-noted
+points well-taken
+positively right
+precisely right
+precisely!
+precisely.
+present no difficulties
+presented no difficulties
+presenting no difficulties
+presents no difficulties
+quick and painless
+quite good
+really delicious
+really hits the spot
+really quite good
+right hand person
+right on the money
+right you are
+same here
+seems great
+spot-on
+than I ever expected
+than I ever thought
+that'd be dandy
+that'd be fine
+that'd be great
+that'd be just
+that'd be just dandy
+that'd be just fine
+that'd be just great
+that'll be fine
+that'll be good
+that'll be just fine
+that's a winner
+that's all right
+that's all well and good
+that's correct
+that's exactly it
+that's fine
+that's good to know
+that's great
+that's interesting!
+that's it exactly
+that's just fine
+that's just the thing
+that's ok!
+that's okay!
+that's perfect
+that's precisely correct
+that's precisely right
+that's quite good
+that's right!
+that's the ticket
+that's very good
+that's very nice
+that's well and good
+that's wonderful
+that-a-boy
+that-a-girl
+that-a-way to go
+that is absolutely
+that is correct
+that was delicious
+that was wonderful
+that will be fine
+that will be good
+that will be just
+that would be dandy
+that would be fine
+that would be great
+that would be just dandy
+that would be just fine
+that would be just great
+That?s a good one
+that?s a great point
+that?s about right
+that?s definitely right
+that?s spot-on
+the go-ahead
+The performance is great
+the performance was good
+the system is very well put together
+the system seems fairly good
+the system seems fairly good so far
+there's a lot to be said for that
+there's a lot to that
+there's something to that
+there is no charge
+there is no charge for
+this idea has a lot of merit
+this is so much better than
+This is the fastest and easiest
+this thing kicks ass
+this thing kicks so much ass
+this thing kicks soo much Assssss
+this was a very refreshing experience
+this was many times better than
+very nice
+was pretty good
+well-noted
+well-taken
+well all right then
+well and fine
+well deserved applause for whom ever designed, created and implemented this
+well it sure beats
+when will you expand it
+worked fine
+you're definitely right
+you're right
+you've done a good job
+you've got it!
+you've got it.
+you are definitely right
+you are doing a good job
+you are doing a great job
+you are right
+you are right about
+you did a good job
+you have done a good job
+you have done a great job
+you should be proud
+you should make a go of it
+you were right
+you were right about

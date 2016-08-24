@@ -1,0 +1,659 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX all !DETERMINER
+!AUX all about
+!AUX all the
+!AUX all to !DETERMINER man
+!AUX all to !DETERMINER person
+!AUX all to !DETERMINER woman
+!AUX always
+!AUX always there
+!AUX arriving at the conclusion
+!AUX broadly
+!AUX coming to the conclusion
+!AUX general,
+!AUX in essence
+!AUX OVERALL
+!AUX to !DETERMINER person
+!AUX uniform
+!AUX uniform with
+!AUX universals
+!DETERMINER APPROPRIATE GENERALIZATION
+!DETERMINER capite ad calcem
+!DETERMINER finding
+!DETERMINER findings
+!DETERMINER findings of
+!DETERMINER GENERALIZATION !AUX
+!DETERMINER GENERALIZATION ARRIVED AT
+!DETERMINER GENERALIZATION FOLLOWS THAT
+!DETERMINER GENERALIZATION ON THESE
+!DETERMINER GENERALIZATION TO DRAW
+!DETERMINER overarching
+!DETERMINER PLAUSIBLE GENERALIZATION
+!DETERMINER POSSIBLE GENERALIZATION
+!DETERMINER REASONABLE GENERALIZATION
+!DETERMINER TENTATIVE GENERALIZATION
+!GET EVERY
+!GIVE EVERY
+!HOLD EVERY
+, all
+. in the end
+. in the end,
+. in the final analysis
+. in the final analysis,
+. what unified
+. what united
+; all !DETERMINER
+; all !PRONOUNNOMINAL
+about the whole thing
+all !THCONJUNCTION
+all about
+all abroad
+all agreeing
+all animate nature
+all aspects
+all being
+all brought together
+all cases
+all combined
+all comers
+all connected
+all creation
+all engines
+all engines ahead
+ALL ENTIRELY
+all examples
+all flesh
+all hands
+ALL HER
+all her time
+all here
+ALL HIS
+all his time
+all in
+ALL IN ALL
+all included
+all indicate that
+all indicated that
+all indicates that
+all indicating that
+ALL INDICATIONS
+all interconnected
+all intertwined
+all is said and done
+ALL ITS
+all like that
+ALL MY
+all my time
+all of
+all of !THCONJUNCTION
+ALL OF HER
+ALL OF HIS
+ALL OF ITS
+ALL OF MY
+all of the
+ALL OF THEIR
+all of these
+all of which
+all of whom
+all offers
+all other
+all others
+all our time
+all over !NUMS1TO100 years old
+all parts
+all points ot
+all purchases
+all related
+all rolled into
+all rolled into one
+ALL SIGNS
+all similar
+all squares
+all straight
+all suggest that
+all suggested that
+all suggesting that
+all suggests that
+all taught that
+all teach that
+all teaches that
+all teaching that
+all that
+all that is
+all that is coming to one
+all that lives
+all the
+ALL THE EVIDENCE
+all the time
+ALL THEIR
+all their time
+all there.
+ALL THIS IS TO SAY that
+ALL THIS MEANS
+all times
+all told
+ALL WALKS OF LIFE
+always means
+and all
+and everywhere
+AND OVERALL
+as !DETERMINER form of
+AS !DETERMINER GENERAL RULE
+AS !DETERMINER RULE
+as !DETERMINER whole
+as all
+as embodiments of
+as examples of
+as forms of
+as instances of
+at all events
+at all hands
+at all points
+at any hand
+at base
+at base,
+at bottom
+at bottom,
+au fond
+be uniform with
+BEHIND IT ALL
+BEST OF ALL
+big-picture
+BOILS DOWN TO
+Bottom-line generalization
+BOTTOM LINE !AUX
+broadly the
+BUT OVERALL
+by-and-large
+BY ALL
+BY AND LARGE
+CAME DOWN TO THE GENERAL VIEW THAT
+CAME DOWN TO THE GENERALIZATION
+can all
+CAN NOW GENERALIZE
+CAN NOW GENERALIZE WHAT
+characteristically
+city-wide
+citywide
+COME DOWN TO
+COME TO THE GENERALIZATION
+COMES DOWN TO
+COMING DOWN TO
+company-wide
+companywide
+could all
+countrywide
+countywide
+deductively proved
+deductively proves
+did it for all
+distill !DETERMINER essence
+distilled !DETERMINER essence
+distilled essence
+distilling !DETERMINER essence
+distills !DETERMINER essence
+distinction without !DETERMINER difference
+districtwide
+do all
+do all the
+each !AUX all different
+each one
+EACH THING
+epitomize
+epitomized
+epitomizes
+epitomizing
+ever-active
+ever-admiring
+ever-angry
+ever-bearing
+ever-being
+ever-beloved
+ever-blazing
+ever-blessed
+ever-blooming
+ever-burning
+ever-celebrated
+ever-changeful
+ever-changing
+ever-circling
+ever-conquering
+ever-constant
+ever-craving
+ever-dear
+ever-deepening
+ever-dripping
+ever-drizzling
+ever-dropping
+ever-durable
+ever-during
+ever-during dark
+ever-duringness
+ever-dying
+ever-echoing
+ever-endingly
+ever-esteemed
+ever-expanding
+ever-faithful
+ever-fast
+ever-fertile
+ever-fresh
+ever-friendly
+ever-glooming
+ever-goading
+ever-going
+ever-growing
+ever-happy
+ever-honored
+ever-increasing
+ever-living
+ever-loving
+ever-mingling
+ever-moving
+ever-new
+ever-noble
+ever-normal granary
+ever-present
+ever-prompt
+ever-ready
+ever-recurrent
+ever-recurring
+ever-renewing
+ever-smiling
+ever-strong
+ever-thrilling
+ever-varying
+ever-victorious
+ever-wearing
+ever-white
+ever-widening
+ever-willing
+ever-wise
+ever-young
+ever and again
+ever and always
+ever and anon
+ever less
+ever more
+ever the same
+EVERY
+every-way
+every inch !DETERMINER king
+every inch of
+EVERY INDICATION
+EVERY INDICATION OF
+EVERY INDICATOR
+every jack man
+every kind
+every kind of
+EVERY LAST ONE
+EVERY LAST ONE OF !PRONOUNOBJECTIVE
+EVERY LEADING INDICATOR
+every man Jack
+every mother's son
+every one
+every one in his turn
+EVERY ONE OF
+every other
+every part
+every so often
+every sort of
+EVERY THING
+EVERY TIME
+every which way
+every whit
+everybody
+everybody's
+everybody's fool
+everybody !AUX
+everybody and his uncle
+everyone
+everyone's
+everyone !AUX
+everyone else
+EVERYONE OF
+everyone of these
+everyplace
+everything
+everything !AUX intertwined
+everything about
+everything else
+everything points to
+EVERYTHING THAT
+everything that !AUX
+EVERYTIME
+everyway
+everywhere
+everywhere-dense
+everywhere else
+everywhere visible
+exceptionableness
+exceptionless
+exhaust all
+exhaust all moves
+exhaust every
+exhaust every move
+exhausted all
+exhausted every
+exhausting all
+exhausting all moves
+exhausting every
+exhausting every move
+exhausts all
+exhausts all moves
+exhausts every
+exhausts every move
+final word on
+final words on
+findings
+findings of
+for any and all
+for any one of
+for anyone who
+FOR ANYONE WITH
+for each and every
+FOR EVERY
+FOR EVERY ONE OF
+for everyone
+for when all !AUX said and done
+FROM ALL
+from every
+from every quarter
+from everywhere
+from soup to nuts
+generality
+generalization
+generalizations
+generalize
+GENERALIZE FROM
+GENERALIZE ON WHAT
+GENERALIZE ON WHAT WE'VE
+generalize that
+generalized
+generalized from
+generalized that
+generalizes
+generalizes from
+generalizes that
+generalizing
+GENERALIZING about
+GENERALIZING ACROSS
+GENERALIZING ON
+GENERALIZING OVER
+generalizing that
+GENERALIZING THESE
+GENERALIZING THESE RESULTS
+GENERALIZING with
+GENERALLY I WANT TO
+GENERALLY MY
+HAD EVERY
+half of all
+happen uniformly
+happened uniformly
+happening uniformly
+happens uniformly
+HAS EVERY
+HAS TRIED !PRONOUNOBJECTIVE ALL
+HAS TRIED EVERY ONE
+have all
+have all to !DETERMINER man
+have all to !DETERMINER person
+have all to !DETERMINER woman
+have to !DETERMINER person
+HAVING EVERY
+he !AUX all different
+he !AUX all unique
+high and low
+I am all
+I CAN NOW GENERALIZE FROM WHAT
+I CAN NOW GENERALIZE ON WHAT
+illustrate that
+illustrated that
+illustrates that
+illustrating that
+in all
+in all ages
+in all cases
+IN ALL CASES OF
+in all manner of ways
+in all places
+in all quarters
+in all reason
+in all respects
+in all situations
+in any given
+in any given situation
+in every aspect
+in every case
+in every clime
+in every hole and corner
+in every instance
+in every mouth
+in every nook and cranny
+in every place
+in every quarter
+in every region
+in every respect
+in everyone's
+in everyone's mouth
+in everyway
+in general
+in season and out of season
+in sickness and in health
+IN SUM
+in summary
+IN TERMS OF EVERY
+in the final analysis
+IN THE LAST ANALYSIS
+induce !DETERMINER !IDEA
+induced !DETERMINER !IDEA
+induces !DETERMINER !IDEA
+inducing !DETERMINER !IDEA
+inductively
+irregardless
+irrespective
+irrespective of
+irrespectively
+is general,
+it all
+it all boils down to
+IT BOILS DOWN TO
+IT BOILS DOWN TO THIS
+IT TOOK !POSSESSIVEPRONOUN DEATH TO
+JUST GOES TO SHOW
+JUST GOES TO SHOW THAT
+JUST SHOWS
+last word on
+last words on
+like all
+most all
+MOVE TO THE GENERALIZATION
+national trend
+national trends
+nationally
+nationwide
+neighborhood-wide
+none of whom
+occur uniformly
+occurred uniformly
+occurring uniformly
+occurs uniformly
+of everything
+of everything from
+omni-ignorant
+on all
+on all aspects
+on all aspects of
+on all levels
+ON ANY ACCOUNT OF
+ON ANY LARGE VIEW OF
+ON ANY VIEW OF
+ON BALANCE,
+ON EVERY
+on every hand
+on every side
+on everyone's lips
+on everyone's tongue
+ON THE AVERAGE
+on the whole
+once forgotten
+once known
+once lost
+once recognized
+once understood
+one fifth of all
+one third of all
+only goes to show that
+over-all
+OVER ALL
+overall
+OVERALL !AUX
+overarch
+overarch everything else
+overarches
+overarches everything else
+overarching
+overarchingly
+people generally
+permeate every
+permeated every
+permeates every
+permeating every
+politicians !AUX always
+popularly
+popularly known
+popularly understood
+precinct-wide
+precinctwide
+REGARDLESS OF
+REGARDLESS OF !DETERMINER FACT THAT
+regardless of !QUESTION
+REGARDLESS OF !QUESTION !PRONOUNNOMINAL
+REGARDLESS OF !QUESTION ANYONE MAY
+REGARDLESS OF !QUESTION ANYONE MAY THINK
+RELIED ON EVERY
+RELIES ON EVERY
+RELY ON EVERY
+RELYING ON EVERY
+she !AUX all different
+she !AUX all unique
+sign of the times
+so common
+so common to
+so representative
+so representative of
+society at large
+streetwide
+sum !PRONOUNOBJECTIVE up
+sum and substance
+sum of things
+SUM TOTAL OF
+sum und substance
+summaries
+summarization
+summarizations
+summary
+summation
+summations
+summative
+summed !PRONOUNOBJECTIVE up
+summing !PRONOUNOBJECTIVE up
+sums !PRONOUNOBJECTIVE up
+synopsize
+synopsized
+synopsizes
+synopsizing
+synoptic
+synoptically
+taken together though,
+taken together,
+that's about the size of it
+that's it in !DETERMINER nutshell
+that's the size of it
+that !AUX it in !DETERMINER nutshell
+that all
+the big picture !AUX
+THE GIST
+The net effect is
+The net effects !AUX
+the overall
+the overall bottom line
+the overall gist
+the overall summary
+the public at large
+THE simple BOTTOM LINE
+THE SIMPLE GIST
+THE SUM AND SUBSTANCEF
+the sum of things
+the theme running through
+the theme running throughout
+the whole shot
+the world's
+they !AUX all different
+they !AUX all unique
+three fourths of all
+three quarters of all
+throughout the corporation
+throughout the rank-and-file
+throughout the ranks
+to !DETERMINER man
+to !DETERMINER person
+to !DETERMINER woman
+to all
+to anybody
+to anyone
+TO CAP IT ALL off, let me
+to everywhere
+TO GENERALIZE
+TO GENERALIZE ACROSS
+TO GENERALIZE ON
+TO GENERALIZE OVER
+TO NUTSHELL
+tom, dick, or harry
+tout ensemble
+tout le monde
+townwide
+ubiquitous
+ubiquitously
+ubiquity
+UNDER IT ALL
+unexceptionability
+unexceptionable
+unexceptionableness
+unexceptionably
+unexceptionally
+uniformly
+UNIVERSAL
+universally
+universals
+unvaryingly
+use every
+USED EVERY
+USES EVERY
+using every
+very common
+very representative
+VIEWED AS !DETERMINER WHOLE
+VIEWED OVERALL
+we !AUX all different
+we !AUX all unique
+WE CAN NOW GENERALIZE FROM WHAT
+WE CAN NOW GENERALIZE ON WHAT
+what it all comes to
+what it all means
+WHAT IT BOILS DOWN
+WHAT IT BOILS DOWN TO !AUX
+when all !AUX said and done
+when everything !AUX said and done
+when it's all said and done
+whoso
+will always
+will always be
+with all
+with all of the
+WITH REGARD TO EVERY
+WITH RESPECT TO EVERY
+without exceptions

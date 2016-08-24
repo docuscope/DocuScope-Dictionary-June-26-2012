@@ -1,0 +1,722 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER best evidence
+!AUX !DETERMINER good argument
+!AUX !DETERMINER reason
+!AUX !DETERMINER sign
+!AUX !DETERMINER sign of
+!AUX !DETERMINER signal of
+!AUX !DETERMINER strong argument
+!AUX !DETERMINER warning sign of
+!AUX also true for
+!AUX direct evidence
+!AUX direct evidence for
+!AUX direct evidence in support of
+!AUX direct evidence supporting
+!AUX evidence
+!AUX evidence in support of
+!AUX much of !DETERMINER reason why
+!AUX SHOWN BY
+!AUX suggestive of
+!DETERMINER !RANKNUMBER reason
+!DETERMINER !RANKNUMBER reason why
+!DETERMINER basic reason
+!DETERMINER basic reason why
+!DETERMINER basic reasons
+!DETERMINER basic reasons why
+!DETERMINER best evidence
+!DETERMINER best evidence !AUX
+!DETERMINER best evidence for !AUX
+!DETERMINER best evidence I know of !AUX
+!DETERMINER body of evidence indicates
+!DETERMINER body of evidence points to
+!DETERMINER body of evidence suggests
+!DETERMINER evidence for this
+!DETERMINER evidence for this !AUX
+!DETERMINER evidence predominantly
+!DETERMINER evidence predominately
+!DETERMINER larger reason for
+!DETERMINER preponderate evidence
+!DETERMINER primary reason being
+!DETERMINER reason
+!DETERMINER reason !AUX
+!DETERMINER reason behind
+!DETERMINER reason being that
+!DETERMINER reason for
+!DETERMINER reason has to do with
+!DETERMINER reason in support
+!DETERMINER reason in support for
+!DETERMINER reason supporting
+!DETERMINER reason that
+!DETERMINER reason was
+!DETERMINER reasons
+!DETERMINER reasons have to do with
+!DETERMINER reasons in support
+!DETERMINER reasons in support for
+!DETERMINER reasons supporting
+!DETERMINER reasons why
+!GATHER evidence of
+!GIVE !DETERMINER example
+!GIVE !DETERMINER examples
+!GIVE !DETERMINER illustration
+!GIVE credence
+!GIVE credence to
+!GIVE evidence
+!GIVE evidence for
+!GIVE evidence that
+!GIVE examples
+!GIVE further credence
+!GIVE further credence to
+!GIVE good reason
+!GIVE good reason for
+!GIVE good reasons
+!GIVE good reasons for
+!GIVE illustrations
+!GIVE my reasons
+!GIVE reasons
+!GIVE reasons for
+!HAVE all !DETERMINER signs
+!HAVE all !DETERMINER signs of
+!HAVE amassed evidence
+!HAVE been borne out
+!HAVE been borne out by
+!HAVE been borne out with
+!HAVE evidence
+!HAVE examples
+!HAVE good reason
+!HAVE good reasons for
+!HAVE good reasons for backing
+!HAVE good reasons for believing
+!HAVE good reasons for supporting
+!HAVE illustrations
+!HAVE no been borne out
+!HAVE probable cause
+!HAVE proof
+!HAVE substantial evidence that
+!HAVE substantial evidence that links
+!IDEA !AUX supported by
+!MAKE !POSSESSIVEPRONOUN case
+!MAKE !POSSESSIVEPRONOUN case for
+!PLACE in evidence
+!PLACE into evidence
+!POSSESSIVEPRoNOUN data
+!POSSESSIVEPRONOUN datum
+!POSSESSIVEPRONOUN evidence
+!PUT in evidence
+!PUT into evidence
+!RANKNUMBER reason
+!SEE it as evidence
+!SEE it as evidence that
+!TAKE it as evidence
+!TAKE it as evidence that
+. that shows that
+. there are reasons
+. there are reasons for
+. this !AUX evident
+. this shows that
+A reason for
+A reason that
+accumulating evidence
+adduce
+ADDUCE EVIDENCE
+adduced
+ADDUCED EVIDENCE
+adduces
+ADDUCES EVIDENCE
+adducing
+ADDUCING EVIDENCE
+amass evidence
+amassed evidence
+amasses evidence
+amassing evidence
+and !DETERMINER reason !AUX
+and !DETERMINER reason was
+another reason why
+apparent from
+are much of !DETERMINER reason why
+argument !AUX supported by
+arrange evidence
+arranged evidence
+arranged for evidence
+arranges evidence
+arranging evidence
+array evidence
+arrayed evidence
+arraying evidence
+arrays evidence
+as !DETERMINER basis to believe
+as !DETERMINER basis to believe that
+as !DETERMINER basis to think
+as !DETERMINER basis to think that
+as !DETERMINER foundation to believe that
+as !DETERMINER foundation to think that
+as !DETERMINER justification
+as attested
+as attested by
+as evidence that
+as evidenced by
+as grounds to think
+as grounds to think that
+as justification
+assertion !AUX supported by
+attest
+attestation
+attestations
+attested
+attested to
+attesting
+attests
+backing for
+backings for
+based on !DETERMINER awareness
+based on !DETERMINER belief
+based on !DETERMINER complete review
+based on !DETERMINER concept
+based on !DETERMINER concern
+based on !DETERMINER contingency
+based on !DETERMINER evidence
+based on !DETERMINER findings
+based on !DETERMINER notion
+based on !DETERMINER recognition
+based on !DETERMINER research
+based on !DETERMINER review
+based on !DETERMINER stipulation
+based on !DETERMINER thinking
+based on !DETERMINER thorough review
+based on depositions
+based on discussion with
+based on discussions with
+based on evidence
+based on findings
+based on our discussion with
+based on our discussions with
+based on petitions
+based on reports
+based on research
+based on testimony
+based upon depositions
+based upon evidence
+based upon petitions
+based upon reports
+based upon testimony
+be evidence enough
+belief !AUX supported by
+by !DETERMINER fact
+by !DETERMINER fact that
+by !POSSESSIVEPRONOUN evidence
+by my evidence
+by our data
+by our datum
+by our evidence
+by that data
+by that datum
+by that evidence
+by this data
+by this datum
+by this evidence
+clear from
+clear sign of
+clear signs of
+concept !AUX supported by
+counts as evidence
+counts as evidence for
+cumulative evidence
+direct evidence for
+documents backing it up
+documents backing this up
+earn !DETERMINER endorsement
+earn !DETERMINER endorsements
+earned !DETERMINER endorsement
+earned !DETERMINER endorsements
+earning !DETERMINER endorsement
+earning !DETERMINER endorsements
+earns !DETERMINER endorsement
+earns !DETERMINER endorsements
+evidence as to
+evidence enough
+evidence for
+evidence for this
+evidence in support of
+evidence that
+evidenced by
+evidenced in
+evidenced though
+evidenced with
+evident from
+external evidence
+extrinsic evidence
+for all these reasons
+for proof,
+for these reasons
+for this reason
+furnish !DETERMINER reason to
+furnish evidence
+furnish reasons to
+furnish support
+furnished !DETERMINER reason to
+furnished evidence
+furnished reasons to
+furnished support
+furnishes !DETERMINER reason to
+furnishes evidence
+furnishes reasons to
+furnishes support
+furnishing !DETERMINER reason to
+furnishing evidence
+furnishing reasons to
+furnishing support
+further evidence
+grounded in fact
+grounds for
+grounds for !CLAIM
+grounds for belief
+grounds for believing
+grounds for war
+help account for
+helps account for
+Her reason for
+His reason for
+I have evidence
+I have evidence to show this
+I have plenty of evidence
+I have plenty of examples
+I have plenty of illustrations
+I have proof
+illustrate !POSSESSIVEPRONOUN point by
+illustrate !POSSESSIVEPRONOUN point with
+illustrate my point by
+illustrate my point with
+illustrate our point by
+illustrate our point with
+illustrate your point by
+illustrate your point with
+illustrated !POSSESSIVEPRONOUN point by
+illustrated !POSSESSIVEPRONOUN point with
+illustrated my point by
+illustrated my point with
+illustrated our point by
+illustrated our point with
+illustrated your point by
+illustrated your point with
+illustrates !POSSESSIVEPRONOUN point by
+illustrates !POSSESSIVEPRONOUN point with
+illustrates my point by
+illustrates my point with
+illustrates our point by
+illustrates our point with
+illustrates your point by
+illustrates your point with
+illustrating !POSSESSIVEPRONOUN point by
+illustrating !POSSESSIVEPRONOUN point with
+illustrating my point by
+illustrating my point with
+illustrating our point by
+illustrating our point with
+illustrating your point by
+illustrating your point with
+in evidence
+in light of !DETERMINER evidence that
+in order to justify
+in support for
+in support of
+indicant
+indicant of
+indicants
+indicants of
+indication
+indication of
+indications
+indications of
+indicative
+indicative of
+indicator
+indicator of
+indicators
+indicators of
+indicatory
+indicatory of
+internal evidence
+intrinsic evidence
+it's apparent from
+it's clear from
+it's evident from
+it !AUX apparent from
+it !AUX clear from
+it !AUX evident from
+just another reason why
+lend credence
+lend evidence
+lend her backing to
+lend her countenance to
+lend her favor to
+lend her name to
+lend her offices
+lend her support to
+lend herself to
+lend himself to
+lend his backing to
+lend his countenance to
+lend his favor to
+lend his name to
+lend his offices
+lend his support to
+lend my backing to
+lend my countenance to
+lend my favor to
+lend my name to
+lend my offices
+lend my support to
+lend myself to
+lend our backing to
+lend our countenance to
+lend our favor to
+lend our name to
+lend our offices
+lend our support to
+lend ourselves to
+lend substance to
+lend support to !DETERMINER assertion
+lend support to !DETERMINER claim
+lend support to !DETERMINER idea
+lend their backing to
+lend their countenance to
+lend their favor to
+lend their name to
+lend their offices
+lend their support to
+lend themselves to
+lend wings to
+lend your backing to
+lend your countenance to
+lend your favor to
+lend your name to
+lend your offices
+lend your support to
+lend yourself to
+lended credence
+lended evidence
+lended support
+lending credence
+lending evidence
+lending support for
+lending support to !DETERMINER assertion
+lending support to !DETERMINER claim
+lending support to !DETERMINER idea
+lends credence
+lends evidence
+lends support to !DETERMINER assertion
+lends support to !DETERMINER claim
+lends support to !DETERMINER idea
+lent credence
+lent evidence
+lent support to !DETERMINER assertion
+lent support to !DETERMINER claim
+lent support to !DETERMINER idea
+logic indicates that
+logic suggests that
+marshal evidence
+marshal support
+marshaled evidence
+marshaled support
+marshaling evidence
+marshaling of evidence
+marshaling support
+marshall evidence
+marshalled evidence
+marshalled support
+marshalling evidence
+marshalling of evidence
+marshalling support
+marshalls evidence
+marshals evidence
+marshals support
+mounting evidence
+much in evidence
+much of !DETERMINER reason why
+much of !DETERMINER reasons why
+my !RANKNUMBER reason
+my evidence
+my own reason !AUX
+my personal reason !AUX
+my reason
+my reason !AUX
+my reason !AUX that
+my reason has to do with
+my reasons
+my reasons are
+my reasons are that
+my reasons have to do with
+nce that
+notion !AUX supported by
+offer evidence
+offer further evidence
+offer support
+offered evidence
+offered further evidence
+offered support
+offering evidence
+offering further evidence
+offering support
+offers evidence
+offers further evidence
+offers support
+on !DETERMINER evidence
+on !DETERMINER strength of !DETERMINER evidence that
+one of !DETERMINER main reasons
+one of !DETERMINER major reasons
+one of !DETERMINER reasons
+one reason
+One reason for
+ought to be evidence enough
+ought to be evidence for
+our evidence
+Our reason for
+our reason has to do with
+our reasons have to do with
+papers backing it up
+papers backing this up
+piece of evidence
+pieces of evidence
+predicate it on
+predicate on
+predicate this on
+predicated it on
+predicated on
+predicated this on
+predicates it on
+predicates on
+predicates this on
+predicating it on
+predicating on
+predicating this on
+predominance of !DETERMINER evidence
+predominant evidence
+preponderance of !DETERMINER evidence
+preponderancy of evidence
+preponderant evidence
+preponderantly !DETERMINER evidence
+proposition !AUX supported by
+prove her out
+prove his out
+prove it out
+prove me out
+prove out
+prove them out
+prove us out
+prove you out
+proved her out
+proved his out
+proved it out
+proved me out
+proved out
+proved them out
+proved us out
+proved you out
+proves her out
+proves his out
+proves it out
+proves me out
+proves out
+proves them out
+proves us out
+proves you out
+provide !DETERMINER Reason to
+provide evidence
+provide evidence for
+provide evidence that
+provide reasons to
+provided !DETERMINER Reason to
+provided evidence
+provided evidence for
+provided evidence that
+provided reasons to
+provides !DETERMINER Reason to
+provides evidence
+provides evidence for
+provides evidence that
+provides reasons to
+providing !DETERMINER Reason to
+providing evidence
+providing evidence for
+providing evidence that
+providing reasons to
+proving ground
+proving grounds
+proving her out
+proving his out
+proving it out
+proving me out
+proving out
+proving them out
+proving us out
+proving you out
+reason for this !AUX
+reason to believe
+reason to think
+reasons as to
+reasons as to why
+reasons for this !AUX
+reasons to believe
+reasons to think
+secret evidence
+should be evidence enough
+should be evidence for
+show signs of
+show sufficient grounds for
+showed signs of
+showed sufficient grounds for
+showing signs of
+showing sufficient grounds for
+shows signs of
+shows sufficient grounds for
+sign of
+signs of
+some evidence
+some evidence that
+speak volumes
+speaking volumes
+speaks volumes
+spoke volumes
+statement !AUX supported by
+strong argument
+strong arguments
+strong evidence
+strong evidence that
+strongly suggestive
+strongly suggestive of
+strongly suggests !DETERMINER
+strongly suggests that
+substantiate
+substantiate !DETERMINER
+substantiate that
+substantiated
+substantiated !DETERMINER
+substantiated by
+substantiated that
+substantiates !DETERMINER
+substantiates that
+substantiating
+substantiating !DETERMINER
+substantiating that
+subtantiated with
+sufficient grounds for
+suggesting something like !DETERMINER
+suggestive-of
+suggestive of
+suggests that this
+support !DETERMINER hypothesis
+support !DETERMINER thesis
+support for this
+support of this
+supported !DETERMINER hypothesis
+supported !DETERMINER thesis
+supported by facts
+supported in facts
+supporting !DETERMINER contention
+supporting !DETERMINER hypothesis
+supporting !DETERMINER thesis
+supporting evidence
+supports !DETERMINER contention
+supports !DETERMINER hypothesis
+supports !DETERMINER thesis
+supports my contention
+take it as evidence that
+takes it as evidence that
+taking it as evide
+telltale-sign
+telltale-signs
+telltale sign
+telltale signs
+testified for
+testifies for
+testify for
+testifying for
+that data
+that datum
+that evidence
+that shows that
+The main reason
+The main reasons
+The reason for
+The reason that
+Their reason for
+there's gathering evidence of
+there !AUX evidence
+there !AUX evidence for
+there !AUX evidence that
+there !AUX much support
+there !AUX probable cause
+there !AUX some evidence
+there !AUX substantial evidence that
+there are reasons
+there are reasons for
+these !AUX evident
+these !AUX supported by
+these arguments !AUX supported by
+these assertions !AUX supported by
+these beliefs !AUX supported by
+these ideas !AUX supported by
+these notions !AUX supported by
+these propositions !AUX supported by
+these statements !AUX supported by
+this !AUX evident
+this !AUX supported by
+this !IDEA !AUX supported by
+this argument !AUX supported by
+this assertion !AUX supported by
+this belief is supported by
+this can be substantiated
+this concept !AUX supported by
+this data
+this datum
+this evidence
+this notion !AUX supported by
+this proposition !AUX supported by
+this shows that
+this statement !AUX supported by
+to attest
+to explain by way of
+to justify
+took it as evidence that
+vouch
+vouch for
+vouched
+vouched for
+vouches
+vouches for
+vouching
+vouching for
+we have evidence
+we have evidence to show this
+we have plenty of evidence
+we have plenty of examples
+we have plenty of illustrations
+we have proof
+weak evidence
+weak evidence that
+will substantiate
+win !DETERMINER endorsement
+win !DETERMINER endorsements
+winning !DETERMINER endorsement
+winning !DETERMINER endorsements
+wins !DETERMINER endorsement
+wins !DETERMINER endorsements
+with !POSSESSIVEPRONOUN data
+with !POSSESSIVEPRONOUN datum
+with !POSSESSIVEPRONOUN evidence
+with my evidence
+with our data
+with our datum
+with our evidence
+with that data
+with that datum
+with that evidence
+with this data
+with this datum
+with this evidence
+won !DETERMINER endorsement
+won !DETERMINER endorsements
+would substantiate
+Your reason for

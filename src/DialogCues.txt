@@ -1,0 +1,315 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!"
+!HAVe to interject
+!POSSESSIVEPRONOUN pleading that
+!POSSESSIVEPRONOUN pleas that
+!PRONOUNNOMINAL said: "
+!PRONOUNNOMINAL say, "
+!PRONOUNNOMINAL say: "
+!PRONOUNNOMINAL says, "
+!PRONOUNNOMINAL says: "
+!SAY aye
+!SAY cast
+!SAY farewell
+!SAY good-bye
+!SAY goodbye to
+!SAY hello
+!SAY neither yes nor no
+!SAY out
+!SAY over
+!SAY sincerely
+!SAY the word
+!SAY to
+!SAY unto
+!SAY yes
+!TALK "
+!TALK : "
+!TALK, "
+" !QUESTION
+" !TALK
+"!
+", !PRONOUNNOMINAL declared
+", !PRONOUNNOMINAL exclaimed
+", !PRONOUNNOMINAL remarked
+", !PRONOUNNOMINAL said
+", !TALK
+", explained
+", explains
+", he
+", he added
+", he jawed
+", he said
+", he says
+", he snarled
+", remarked
+", remarks
+", replied
+", replies
+", retorted
+", retorts
+", she
+", she added
+", she jawed
+", she said
+", she says
+", she snarled
+", they
+"?
+"Hello
+"Hi
+"Hi ya
+"Hiya
+"How
+"How !AUX
+"How come
+"How do you do
+"Howdy
+"Look
+"Look at
+"Look what
+"No
+"Oh
+"Well
+"Well,
+"What
+"What's up
+"What !AUX
+"When
+"When !AUX
+"Where
+"Where !AUX
+"Who
+"Who !AUX
+"Why
+"Why !AUX
+"Yes
+, !PRONOUNNOMINAL said
+, " he put in
+, " she put in
+, " she said
+,"
+," !TALK
+," he
+," he added
+," he hollered
+," he said
+," I said
+," she
+," she added
+," she hollered
+," they hollered
+?"
+?, !PRONOUNNOMINAL !TALK
+answer-back
+answer-backs
+answer back
+answering back
+answers back
+blarney
+blarneyed
+blarneying
+blarneys
+brogue
+chime in on
+chime in that
+chime in with
+chimed in on
+chimed in that
+chimed in with
+chimes in on
+chimes in that
+chimes in with
+chiming in on
+chiming in that
+chiming in with
+drawl that
+drawl:
+drawled that
+drawled:
+drawling that
+drawling:
+drawls that
+drawls:
+enunciation of
+enunciations of
+exclaiming that, "
+exclaims that, "
+half-intoned
+half-whispered
+half-whisperingly
+he pleads for
+he pleas for
+he twanged
+heavy brogue
+holler that "
+hollered that
+hollered:
+hollered: "
+hollering "
+hollering that "
+hollering, "
+hollers that "
+in a terse
+in an understated
+interject about
+interject on
+interjected on the matter
+interjected that
+interjecting about
+interjecting on
+interjects about
+interjects on
+intonate
+intonated that
+intonates
+intonating
+intonation
+intonations
+jaw at one another
+jawed at one another
+jawing at one another
+jaws at one another
+laconically
+mouth "
+mouth, "
+mouth: "
+mouthed "
+mouthed off that, "
+mouthed, "
+mouthed: "
+mouthing "
+mouthing, "
+mouthing: "
+mouths "
+mouths, "
+mouths: "
+muse "
+muse, "
+muse: "
+mused "
+mused, "
+mused: "
+muses "
+muses, "
+muses: "
+musing "
+musing, "
+musing: "
+narrate "
+narrate, "
+narrate: "
+narrated "
+narrated, "
+narrated: "
+narrates "
+narrates, "
+narrates: "
+narrating "
+narrating, "
+narrating: "
+offer that "
+offered that "
+offering that "
+offers that "
+pipe up
+pipe up !DETERMINER song
+piped off
+piped up
+piped up !DETERMINER song
+pipes off
+pipes up
+pipes up !DETERMINER song
+recalled: "
+replied, "
+replied: "
+replies, "
+replies: "
+said concisely
+said delicately
+said epigrammatically
+said firmly
+said he is "
+said he was "
+said it concisely
+said matter-of-factly
+said matter of factly
+said she is "
+said she was "
+said succinctly
+said they are "
+said they were "
+said with a laugh
+said with a snarle
+say with a laugh
+say with a snarle
+saying with a laugh
+saying with a snarle
+says concisely
+says delicately
+says epigrammatically
+says firmly
+says matter-of-factly
+says matter of factly
+says with a laugh
+says with a snarle
+she pleads for
+she pleas for
+she twanged
+snap back that
+snap that
+snapped back that
+snapped that
+snapping back that
+snapping that
+snaps back that
+snaps that
+soliloquies
+soliloquize
+soliloquized
+soliloquized !DETERMINER
+soliloquizes
+soliloquizing
+soliloquy
+Speak up
+Speaking up
+Speaks up
+Spoke up
+stammer out
+stammer out a
+stammer out that
+stammered out
+stammered out a
+stammered out that
+stammering out
+stammering out a
+stammering out that
+stammers out
+stammers out a
+stammers out that
+tersely
+they plea for
+they plead for
+told her, "
+told him, "
+told them, "
+under !POSSESSIVEPRONOUN breadth
+under my breadth
+volunteer that "
+volunteered that "
+volunteering that "
+volunteers that "
+wisecrack about
+wisecrack on
+wisecracked about
+wisecracked on
+wisecracking about
+wisecracking on
+wisecracks about
+wisecracks on
+with a snarle
+with tenseness in !POSSESSIVEPRONOUN voice
+with terseness
+with understatement

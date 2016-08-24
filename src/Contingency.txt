@@ -1,0 +1,2980 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX not necessarily
+!AUX possible
+!AUX subject to
+!AUX whether
+!CANCOULD
+!CANCOULD !MAKE !DETERMINER difference
+!CANCOULD .
+!CANCOULD add up
+!CANCOULD also
+!CANCOULD also have
+!CANCOULD arise
+!CANCOULD as well happen
+!CANCOULD at times
+!CANCOULD bar
+!CANCOULD be
+!CANCOULD be !DETERMINER
+!CANCOULD be broken down
+!CANCOULD be classified as
+!CANCOULD be described as
+!CANCOULD be divided into steps
+!CANCOULD be done to
+!CANCOULD be identified
+!CANCOULD be identified as
+!CANCOULD be led
+!CANCOULD be no more than
+!CANCOULD be of
+!CANCOULD be pulled off
+!CANCOULD be specified as
+!CANCOULD be up to
+!CANCOULD be used in
+!CANCOULD be used to
+!CANCOULD benefit
+!CANCOULD boast
+!CANCOULD carry !DETERMINER maximum of
+!CANCOULD carry up to
+!CANCOULD change with !DETERMINER times
+!CANCOULD clean
+!CANCOULD come off
+!CANCOULD come up
+!CANCOULD cook
+!CANCOULD do chores
+!CANCOULD do it only if
+!CANCOULD endure
+!CANCOULD excel
+!CANCOULD FURTHER
+!CANCOULD GET ALONG WITHOUT
+!CANCOULD go on
+!CANCOULD happen
+!CANCOULD happen if
+!CANCOULD happen only if
+!CANCOULD happen that way
+!CANCOULD haul up to
+!CANCOULD have
+!CANCOULD have !DETERMINER
+!CANCOULD have !DETERMINER big impact
+!CANCOULD have !DETERMINER maximum of
+!CANCOULD have averted this
+!CANCOULD have been
+!CANCOULD have behaved
+!CANCOULD have behaved differently
+!CANCOULD have done differently
+!CANCOULD have no more than
+!CANCOULD have to
+!CANCOULD have turned out
+!CANCOULD have turned out differently
+!CANCOULD have up to
+!CANCOULD hold up to
+!CANCOULD HOPE FOR
+!CANCOULD IN ADDITION
+!CANCOULD just
+!CANCOULD LET
+!CANCOULD likely
+!CANCOULD live
+!CANCOULD make !YOU career
+!CANCOULD make her career
+!CANCOULD make his career
+!CANCOULD make my career
+!CANCOULD make on
+!CANCOULD make our career
+!CANCOULD make their career
+!CANCOULD move with !DETERMINER times
+!CANCOULD not be
+!CANCOULD not countenance
+!CANCOULD not think of !DETERMINER better way
+!CANCOULD occasionally
+!CANCOULD occur
+!CANCOULD on occasion
+!CANCOULD outlast
+!CANCOULD push up to
+!CANCOULD put out
+!CANCOULD rattle off all
+!CANCOULD snowball into
+!CANCOULD sometimes
+!CANCOULD stay ready
+!CANCOULD step in
+!CANCOULD SUCH !DETERMINER
+!CANCOULD support
+!CANCOULD thrive
+!CANCOULD use !POSSESSIVEPRONOUN
+!CANCOULD well
+!CANCOULD well be
+!CAST to !DETERMINER winds
+!COME by chance
+!COME out of !DETERMINER blue
+!COME out of left field
+!COME out of nowhere
+!COME rain or shine
+!DETERMINER accident
+!DETERMINER better than even chance of
+!DETERMINER breaks
+!DETERMINER catch !AUX
+!DETERMINER chance
+!DETERMINER chance of
+!DETERMINER chances
+!DETERMINER chances are
+!DETERMINER chances of
+!DETERMINER checkerwork
+!DETERMINER condition
+!DETERMINER condition being
+!DETERMINER condition being such
+!DETERMINER condition of
+!DETERMINER conditions
+!DETERMINER conditions being
+!DETERMINER conditions being such
+!DETERMINER conditions of
+!DETERMINER dark horse
+!DETERMINER distinct possibility
+!DETERMINER domain of !DETERMINER impossible
+!DETERMINER domain of !DETERMINER possible
+!DETERMINER domains of !DETERMINER impossible
+!DETERMINER domains of !DETERMINER possible
+!DETERMINER feasibly
+!DETERMINER fighting chance
+!DETERMINER fluke
+!DETERMINER gods permitting
+!DETERMINER good chance
+!DETERMINER good chance of
+!DETERMINER hundred to one
+!DETERMINER incident
+!DETERMINER less than even chance
+!DETERMINER long shot
+!DETERMINER odds
+!DETERMINER odds are
+!DETERMINER only way if
+!DETERMINER only way it will happen
+!DETERMINER plaything of fortune
+!DETERMINER playthings of fortune
+!DETERMINER poor chance of
+!DETERMINER possibilities
+!DETERMINER possibilities of
+!DETERMINER possibility
+!DETERMINER possibility exists for
+!DETERMINER possibility of
+!DETERMINER possibility that
+!DETERMINER possible
+!DETERMINER possible-ness
+!DETERMINER possibleness
+!DETERMINER possibly
+!DETERMINER potential
+!DETERMINER potential of
+!DETERMINER potential of more
+!DETERMINER probability
+!DETERMINER probable
+!DETERMINER real break
+!DETERMINER realm of possibility
+!DETERMINER realms of possibility
+!DETERMINER reasonable chance of
+!DETERMINER second chance
+!DETERMINER slight chance
+!DETERMINER small chance
+!DETERMINER sporting chance
+!DETERMINER string to it
+!DETERMINER toss-up
+!DETERMINER toy of fortune
+!DETERMINER toys of fortune
+!DETERMINER various turns of chance
+!DETERMINER way !DETERMINER ball bounces
+!DETERMINER way !DETERMINER cards fall
+!DETERMINER way !DETERMINER cookie crumbles
+!DETERMINER way !DETERMINER wind blows
+!DETERMINER way if
+!DETERMINER way things fall
+!DETERMINER way things go
+!DRAW straws
+!FALL among
+!FALL incidentally
+!FALL of !DETERMINER cards
+!FALL of !DETERMINER dice
+!FALL onto
+!FALL to
+!FALL to !POSSESSIVEPRONOUN lot
+!FALL to !POSSESSIVEPRONOUN share
+!FALL to my lot
+!FALL to my share
+!FALL to one
+!FALL to our lot
+!FALL to our share
+!FALL upon
+!FALL upon her
+!FALL upon him
+!FALL upon me
+!FALL upon them
+!FALL upon us
+!FLIP !DETERMINER coin
+!FLIP of !DETERMINER coin
+!GET !DETERMINER bad break
+!GET by hook or by crook
+!HAVE !DETERMINER better than even chance of
+!HAVE !DETERMINER chance
+!HAVE !DETERMINER chance at
+!HAVE !DETERMINER chance of
+!HAVE !DETERMINER chance to
+!HAVE !DETERMINER chances against
+!HAVE !DETERMINER chances against !PRONOUNOBJECTIVE
+!HAVE !DETERMINER chances against !YOU
+!HAVE !DETERMINER chances against one
+!HAVE !DETERMINER close shot
+!HAVE !DETERMINER close shot at
+!HAVE !DETERMINER good chance
+!HAVE !DETERMINER good chance of
+!HAVE !DETERMINER odds against !PRONOUNOBJECTIVE
+!HAVE !DETERMINER odds against !YOU
+!HAVE !DETERMINER option
+!HAVE !DETERMINER poor chance of
+!HAVE !DETERMINER real chance
+!HAVE !DETERMINER reasonable chance of
+!HAVE !DETERMINER shot
+!HAVE !DETERMINER shot at
+!HAVE !DETERMINER slight chance
+!HAVE !DETERMINER small chance
+!HAVE discovered possible
+!HAVE found possible
+!HAVE little authority
+!HAVE little control
+!HAVE little decision-making power
+!HAVE little power
+!HAVE little voice
+!HAVE no ability
+!HAVE no authority over
+!HAVE no capability
+!HAVE no control
+!HAVE no control over
+!HAVE no power
+!HAVE no responsiblity over
+!HAVE no say
+!HAVE no say-so
+!HAVE seen possible
+!HINGE ON
+!HOLD me like a puppet
+!HOLD us like puppets
+!LEAVE it open
+!LEAVE it open whether
+!LEAVE much to chance
+!LEAVE to chance
+!LEAVE to luck
+!LOSE control
+!MAKE more likely
+!MAKE no difference
+!MAKE possible
+!MAKE probable
+!MAKE provision for
+!MODAL
+!MODAL allow
+!MODAL also
+!MODAL also allow
+!MODAL also be
+!MODAL also indicate
+!MODAL also point to
+!MODAL also prove
+!MODAL also reveal
+!MODAL also suggest
+!MODAL appear
+!MODAL arise
+!MODAL as !DETERMINER result be
+!MODAL AT LEAST
+!MODAL AT LEAST INCLUDE
+!MODAL avoid
+!MODAL bar
+!MODAL be
+!MODAL be !DETERMINER
+!MODAL be around
+!MODAL be divided into
+!MODAL be divided into another
+!MODAL be guessed
+!MODAL be led to
+!MODAL be pulled off
+!MODAL be something of
+!MODAL be useful
+!MODAL bear !DETERMINER cost
+!MODAL bear !DETERMINER costs
+!MODAL become
+!MODAL characterize
+!MODAL come
+!MODAL come up
+!MODAL conceivably
+!MODAL conceivably be
+!MODAL conceivably prove
+!MODAL count on
+!MODAL decide
+!MODAL do
+!MODAL fix
+!MODAL FURTHER
+!MODAL go on
+!MODAL happen
+!MODAL have
+!MODAL have done differently
+!MODAL have something to do with
+!MODAL have to
+!MODAL IN ADDITION
+!MODAL indicate
+!MODAL involve
+!MODAL judge
+!MODAL LET
+!MODAL make
+!MODAL occur
+!MODAL only become
+!MODAL or !MODAL not
+!MODAL or !MODAL not suggest
+!MODAL or may not suggest
+!MODAL peg on
+!MODAL perhaps
+!MODAL point to
+!MODAL possibly
+!MODAL possibly be
+!MODAL possibly be !DETERMINER
+!MODAL possibly prove
+!MODAL realistically
+!MODAL reveal
+!MODAL spare !DETERMINER price
+!MODAL subsequently be
+!MODAL suggest
+!MODAL system
+!MODAL take !DETERMINER weight
+!MODAL take charge
+!MODAL vary
+!MODAL vary with
+!NEG control
+!PRONOUNNOMINAL !CANCOULD
+!PRONOUNNOMINAL !CANCOULD be
+!PRONOUNNOMINAL !CANCOULD have
+!PRONOUNNOMINAL !CANCOULD substantially
+!PRONOUNNOMINAL !CANCOULD substantionally
+!PRONOUNNOMINAL !CANCOULD substantively
+!PRONOUNNOMINAL would have been
+!QUESTION much leeway
+!QUESTION often it happens
+!QUESTION well
+!RAISE the ante
+!RAISE the chance
+!RAISE the chances
+!RIDE on whether
+!ROYALWE !CANCOULD
+!ROYALWE !CANCOULD be
+!ROYALWE !CANCOULD have
+!ROYALWE !CANCOULD have but for
+!ROYALWE !CANCOULD never
+!RUN !DETERMINER chance
+!RUN !DETERMINER good chance
+!RUN for !YOU money
+!RUN of !DETERMINER cards
+!SET conditions
+!TAKE !DETERMINER chance
+!TAKE !DETERMINER CHANCE ON
+!TAKE !DETERMINER gamble
+!TAKE !DETERMINER gamble on
+!TAKE !DETERMINER leap in !DETERMINER dark
+!TAKE !DETERMINER risk
+!TAKE !DETERMINER RISK ON
+!TAKE !POSSESSIVEPRONOUN chance
+!TAKE !POSSESSIVEPRONOUN chances
+!TAKE chances
+!TAKE chances on
+!TAKE my chance
+!TAKE my chances
+!TAKE no responsibility
+!TAKE our chance
+!TAKE our chances
+!TAKE risks
+!TAKE the chance
+!TAKE the chances of
+!TRY !DETERMINER chance
+!TRY !POSSESSIVEPRONOUN fortune
+!TRY !POSSESSIVEPRONOUN hand
+!TRY !POSSESSIVEPRONOUN HAND AT
+!TRY !POSSESSIVEPRONOUN luck
+!TRY !POSSESSIVEPRONOUN strength at
+!TRY my fortune
+!TRY my hand
+!TRY my hand at
+!TRY my luck
+!TRY my strength at
+!TRY our fortune
+!TRY our hand
+!TRY our hand at
+!TRY our luck
+!TURN of chance
+!TURN on its being
+!TURN on the fact
+!TURN on the situation
+!TURN out that
+!TURN out to be
+!TURN out to have
+!VENTURE IN
+!VENTURE INTO
+!WORK against !POSSESSIVEPRONOUN chances
+!YOU !CANCOULD have
+, !DETERMINER lark,
+, be it !DETERMINER
+, if any
+, whether
+, whether !ROYALWE !CANCOULD decide
+, whether !ROYALWE !CANCOULD determine
+, whether !YOU !CANCOULD decide
+, whether !YOU !CANCOULD determine
+, whether amounting to
+, whether consisting of
+. had !DETERMINER
+. had !PRONOUNNOMINAL
+. had !PRONOUNNOMINAL known
+. had !PRONOUNNOMINAL so
+. had !ROYALWE
+. had !ROYALWE known
+. had !ROYALWE so
+. had !YOU known
+. had !YOU so
+. had I actually
+. had I in fact
+. had I indeed
+. had I indeed have
+. had I known
+. had I so
+. in !DETERMINER event of
+. in !DETERMINER event of !DETERMINER
+. in case of
+. in case of !DETERMINER
+. should !PRONOUNNOMINAL ever
+. should it ever
+. should it happen
+. should it happen that !DETERMINER
+. That happens
+. That happens to be
+. That occurs
+. This happens
+. This happens to be
+. This occurs
+. this would
+. with !DETERMINER
+. without
+. without !DETERMINER
+. without !POSSESSIVEPRONOUN
+. without even
+. without such !DETERMINER
+. without that
+. without this
+; had !DETERMINER
+about !DETERMINER possibility of
+about as likely
+accident
+accidental
+accidentally
+accidentalness
+accidentals
+accidents
+according to season
+according to weight
+advenience
+adventitious
+adventitiously
+adventitiousness
+against !DETERMINER odds
+aleatory
+alight on !DETERMINER
+alighted on !DETERMINER
+alighting on !DETERMINER
+alights on !DETERMINER
+all depend
+all depends
+all that has happened
+an even chance
+an outside chance
+and circumstance
+and whether
+any !PRONOUNNOMINAL
+any answers
+any answers or solutions
+any book
+any books
+any charge
+any charges
+any clear pattern
+any clear patterns
+any color
+any day
+any given
+any hope
+any hope that
+any leeway
+any likelihood
+any of !DETERMINER various
+any of various
+any of various units
+any old way
+any one
+any one of
+any one of the
+any place
+any plan
+any possibility
+any road
+any solutions
+any time
+any time now
+any time or place
+any time, any place
+any Tom
+any way
+any which way
+anybody
+anyday
+anyone
+anyone's
+anyone knew
+anyone know
+anyone knowing
+anyone knows
+anyplace
+anyplace in the world
+anything !CANCOULD happen
+anything !CANCOULD still happen
+anything further
+anytime
+anywhere
+anywhere at anytime
+anywheres
+are not necesssarily
+are possible
+as !DETERMINER case warrants
+as !DETERMINER circumstances warrant
+as !DETERMINER condition
+as !DETERMINER condition of
+as !DETERMINER lark
+as !DETERMINER matter warrants
+as !DETERMINER situation warrants
+as !PRONOUNNOMINAL !CANCOULD
+as !PRONOUNNOMINAL would
+as !PRONOUNNOMINAL would like to be
+as !PRONOUNNOMINAL would like to be treated
+as !YOU would
+as cases warrant
+as circumstances warrant
+as destiny
+as destiny wills
+as fate
+as fate wills
+as he !CANCOULD
+as I !CANCOULD
+as I would
+as it !AUX possible to
+AS IT FELL OUT
+AS IT FELL OUT WITH !PRONOUNOBJECTIVE ABOUT !DETERMINER
+AS IT FELL OUT WITH !PRONOUNOBJECTIVE OVER !DETERMINER
+as it happens
+AS IT HAS FALLEN OUT
+as it turned out
+as it turns out
+as likely
+as long as it
+as long as it !AUX
+as luck
+as luck has it
+as luck wills
+as luck would have it
+as she !CANCOULD
+as situations warrant
+as they !CANCOULD
+as things are
+as things go
+as things worked out
+as we !CANCOULD
+as you !CANCOULD
+at !DETERMINER conjuncture
+at !DETERMINER conjunctures
+at !DETERMINER option
+at !DETERMINER options
+at !DETERMINER outside
+at !DETERMINER venture
+at !DETERMINER very outside
+at !POSSESSIVEPRONOUN leisure
+at any possible time
+at anyplace
+at anytime
+at straws
+available means
+barring !DETERMINER
+barring any
+be !DETERMINER dark horse
+be it !DETERMINER
+bechance
+bechanced
+bechances
+bechancing
+belike
+best-case
+best bet
+best bets
+best case
+best cases
+best chance
+best chances
+better than even
+beyond !DETERMINER control
+beyond !POSSESSIVEPRONOUN control
+beyond anyone's control
+beyond everyone's control
+beyond my control
+beyond our control
+beyond your control
+bid fair
+bid fair to
+bidding fair
+bidding fair to
+bids fair
+bids fair to
+blind Chance
+blood fluke
+bode fair
+bode fair to
+bodes fair
+bodes fair to
+boding fair
+boding fair to
+Break for !YOU
+Break for her
+Break for him
+Break for me
+Break for them
+Break for us
+by !DETERMINER seat of !POSSESSIVEPRONOUN pants
+by !DETERMINER seat of !YOU pants
+by !DETERMINER seat of my pants
+by !DETERMINER seat of our pants
+by accident
+by chance
+by fortune
+by hook or crook
+by lot
+by lots
+by what's happened
+calculated risk
+came out of the blue
+can't anticipate all
+can't control all
+can't control events
+can't control every
+can't control fate
+can't control the future
+can't control them
+can't possibly anticipate all
+can't possibly control all
+can't possibly control every
+can-be
+cannot control events
+cannot control fate
+cannot control the future
+cannot control them
+cannot stop events
+cannot stop them
+caprice
+caprices
+capricious
+capriciously
+capriciousness
+cast lots
+cast of !DETERMINER dice
+casting lots
+casts lot
+catch-as-catch-can
+cede control
+ceded control
+cedes control
+ceding control
+certain restrictions apply
+chain of circumstances
+chance
+chance-dropped
+chance-hit
+chance-hurt
+chance-medley
+chance-met
+chance-poised
+chance-shot
+chance-sown
+chance-taken
+chance-won
+chance !AUX good
+chance and whim
+chance and whims
+chance arrival
+chance at odds
+chance bairn
+chance child
+chance decision
+chance decisions
+chance discovery
+chance event
+chance hit
+chance it
+chance meeting
+chance of
+chance on
+chance or whim
+chance or whims
+chance to start
+chance upon
+chanced
+chanced it
+chanced on
+chanced upon
+chanceful
+chances
+chances are
+chances are good
+chances it
+chances of
+chances of !POSSESSIVEPRONOUN
+chances of her
+chances on
+chances to start
+chances upon
+chancier
+chanciest
+chanciness
+chancing
+chancing it
+chancing on
+chancing to start
+chancing upon
+changing circumstances
+checkerwork
+checkerwork of
+checkerworks
+checkerworks of
+circumstance
+circumstanced
+circumstances
+circumstances beyond !POSSESSIVEPRONOUN control
+circumstantial
+circumstantial evidence
+circumstantiality
+circumstantially
+circumstantiate
+circumstantiated
+circumstantiates
+circumstantiating
+circumstantiation
+close shot at
+cobble-together
+cobble together
+cobbled-together
+cobbled together
+cobbles-together
+cobbles together
+cobbling-together
+cobbling together
+coincidence
+coincidences
+coincidental
+coincidentally
+come-by-chance
+conditio sine qua non
+condition !DETERMINER
+condition !POSSESSIVEPRONOUN
+condition !PRONOUNOBJECTIVE
+condition of things
+conditional convergence
+conditional on
+conditional probability
+conditional sale
+conditionally
+conditioned
+conditioned !DETERMINER
+conditioned !POSSESSIVEPRONOUN
+conditioned !PRONOUNOBJECTIVE
+conditioned by
+conditioned reflex
+conditioned response
+conditioned stimulus
+conditioning !DETERMINER
+conditioning !POSSESSIVEPRONOUN
+conditioning !PRONOUNOBJECTIVE
+conditions !DETERMINER
+conditions !POSSESSIVEPRONOUN
+conditions !PRONOUNOBJECTIVE
+conjuncture
+conjunctures
+contingence
+contingencies
+contingency
+contingent
+contingent on
+contingent upon
+contingently
+could-be
+could come
+could come out
+could come out of
+could come out of nowhere
+could gain
+could have happened
+could have such
+could lead
+could lead to
+could lead to a
+couldn't be
+couldn't be shoehorned
+couldn't come about
+couldn't come about with
+couldn't come about without
+couldn't countenance
+couldn't have
+couldn't have done it without
+couldn't have had if
+couldn't have had were it not
+couldn't have happened
+couldn't have happened with
+couldn't have happened without
+couldn't have were it not
+couldn't think of !DETERMINER better way
+crop up
+crop up in
+crop up with
+cropped up
+cropped up in
+cropped up with
+cropping up
+cropping up in
+cropping up with
+crops up
+crops up in
+crops up with
+de bene esse
+decrease !DETERMINER chance
+decrease !DETERMINER chances
+decrease !DETERMINER odds
+decreased !DETERMINER chance
+decreased !DETERMINER chances
+decreases !DETERMINER chance
+decreases !DETERMINER chances
+decreases !DETERMINER odds
+decreasing !DETERMINER chance
+decreasing !DETERMINER chances
+decreasing !DETERMINER odds
+depend
+depend on
+depend on !QUESTION
+depend on circumstances
+depend upon
+depended
+depended on
+depended on !QUESTION
+depended upon
+dependent on having
+dependent on its
+dependent upon
+depending
+depending on
+depending on !QUESTION
+depending on circumstances
+depending upon
+depending upon !DETERMINER
+depends
+depends on
+depends on !QUESTION
+depends on circumstances
+depends upon
+desultorily
+desultoriness
+desultory
+devolve on
+devolve upon
+devolved on
+devolved upon
+devolves on
+devolves upon
+devolving on
+devolving upon
+dice roll
+dice rolls
+dice throws
+discretion
+discretional
+discretionarily
+discretionary
+discretions
+doesn't have control over
+double-or-nothing
+double contingency
+double or nothing
+double or quits
+eeny meeny miney moe
+either-or
+either or
+either stop in or stop by
+either way
+either win !DETERMINER saddle or lose !DETERMINER horse
+else
+else !DETERMINER
+equivalent odd
+equivalent odds
+even-chance
+even-money
+even-odds
+even break
+even chance
+even chances
+even lot
+even lots
+even money
+even odds
+eventualities
+eventuality
+ever !CANCOULD
+every chance
+every conceivable
+every possible
+every possible chance
+everything being equal
+exercise !POSSESSIVEPRONOUN option
+exercise !POSSESSIVEPRONOUN options
+exercise !YOU option
+exercise !YOU options
+exercise my option
+exercise my options
+exercise our option
+exercise our options
+exercised !POSSESSIVEPRONOUN option
+exercised !POSSESSIVEPRONOUN options
+exercised !YOU option
+exercised !YOU options
+exercised my option
+exercised my options
+exercised our option
+exercised our options
+exercises !POSSESSIVEPRONOUN option
+exercises !POSSESSIVEPRONOUN options
+exercises !YOU option
+exercises !YOU options
+exercises my option
+exercises my options
+exercises our option
+exercises our options
+exercising !POSSESSIVEPRONOUN option
+exercising !POSSESSIVEPRONOUN options
+exercising !YOU option
+exercising !YOU options
+exercising my option
+exercising my options
+exercising our option
+exercising our options
+extend !DETERMINER possibility
+extended !DETERMINER possibility
+extending !DETERMINER possibility
+extends !DETERMINER possibility
+extenuating circumstance
+extenuating circumstances
+faint likelihood
+fair-odds
+fair game
+fair odds
+fallen upon
+feasibly
+feast-or-famine
+fickle-fancied
+fickle-headed
+fickle-minded
+fickle-mindedly
+fickle-mindedness
+fickle Chance
+fickle chances
+fickle finger
+fickle finger of fate
+fickle fingers
+fickle fingers of fate
+fifty-fifty
+fifty-fifty chance
+fifty-fifty chances
+fighting chance
+fighting chances
+finger of fate
+fingers of fate
+five-to-one odds
+five-to-one shot
+fluke
+flukes
+flukier
+flukiest
+flukiness
+fluky
+flux of times
+for any plan
+for anyone
+for anyone anywhere
+for change
+for emergencies
+for if
+for refunds
+for refunds and change
+fortuities
+fortuitism
+fortuitist
+fortuitists
+fortuitously
+fortuitousness
+fortuity
+fortune's fool
+freak accident
+freak accidents
+freak of nature
+freaks of natures
+from time to time will happen
+gamble !DETERMINER
+GAMBLE ON
+gamble that
+GAMBLED ON
+gambled that
+gambles
+gambles !DETERMINER
+GAMBLES ON
+gambles that
+gambling
+gambling chance
+gambling chances
+gambling odds
+GAMBLING ON
+gambling that
+god's will
+god permitting
+good chance
+good chances
+good possibilities
+good possibility
+grasp at !DETERMINER straw
+grasped at !DETERMINER straw
+grasping at !DETERMINER straw
+grasps at !DETERMINER straw
+great odds
+guess-work
+guess work
+hab-nab
+hab nab
+had !DETERMINER chance
+had !DETERMINER chance to
+had !DETERMINER comparable thing have happened
+had !DETERMINER option
+had !DETERMINER real chance
+had !DETERMINER same event befallen
+had !DETERMINER same event have happened to
+had !DETERMINER same thing have happened
+had !DETERMINER shot
+had !DETERMINER shot at
+had !PRONOUNNOMINAL
+had !PRONOUNNOMINAL been able to
+had !PRONOUNNOMINAL had
+had !PRONOUNNOMINAL left
+had !PRONOUNNOMINAL not been
+had !PRONOUNNOMINAL remained
+had !PRONOUNNOMINAL stayed
+had !ROYALWE
+had !ROYALWE had
+had !ROYALWE not been
+had !YOU had
+had !YOU not been
+Had definitive action been taken
+had I
+had I had
+had I not been
+had it happened
+had it happened to
+had my brother not
+had my family not
+had my father not
+had my mother not
+had my sister not
+had such !DETERMINER thing happened
+had such !DETERMINER thing have
+had such an occurrence have happened
+had such have happened to
+had this come
+had this come from
+had to take !DETERMINER chance
+half !DETERMINER chance
+happen
+happen by chance
+HAPPEN ON !DETERMINER occasion
+happen only !QUESTION
+happen right about
+happen to be
+happen to be !DETERMINER
+happen to CONFIDE IN
+happen to depend
+happen to have
+happen to run across
+happen together
+happened
+happened by chance
+happened on !DETERMINER occasion
+happened only !QUESTION
+happened right about
+happened to be
+happened to be !DETERMINER
+happened to confide in
+happened to depend
+happened to run across
+happened upon coming
+happened upon seeing
+happening
+happening by chance
+happening on !DETERMINER occasion
+happening only !QUESTION
+happening right about
+happening to be
+happening to be !DETERMINER
+happening to confide in
+happening to depend
+happening to have
+happening to run across
+happening together
+happenings
+happens
+happens by chance
+happens if
+happens on
+happens on !DETERMINER occasion
+happens only !QUESTION
+happens only if
+happens right about
+happens to be
+happens to be !DETERMINER
+happens to confide
+happens to depend
+happens to have
+happens to run across
+happens together
+happenstance
+happenstances
+has fallen upon
+have !DETERMINER chance
+have !DETERMINER chance to
+have !DETERMINER option
+have !DETERMINER real chance
+have !DETERMINER shot
+have no control whatever
+have no personal control
+have no personal control whatever
+hazard !DETERMINER
+hazarded !DETERMINER
+hazarding !DETERMINER
+he'd have
+he'd have preferred
+he'd have rather
+he actually thought he !CANCOULD do it
+he can't really
+heads or tails
+hinge on
+hinge upon
+hinged on
+hinged upon
+hinges on
+hinges upon
+hinging on
+hinging upon
+hit-and-miss
+hit-and-miss window
+hit-or-miss
+hit-or-missness
+hit and miss
+hit or miss
+hitty-missy
+hot or cold
+how !PRONOUNNOMINAL would feel if
+how anyone would feel if
+how I would feel if
+how you would feel if
+hundred-to-one shot
+hypothetic
+hypothetical
+hypothetically
+I !CANCOULD have
+I can't control
+I can't really
+I can't take responsibility
+I cannot control
+I cannot take responsibility
+if
+if !DETERMINER
+if !DETERMINER circumstances warrant
+if !DETERMINER matter warrants
+if !DETERMINER only way
+if !DETERMINER situation warrants
+if !DETERMINER way
+if !INDEFINITEADDRESSEE
+if !INDEFINITEADDRESSEE !CANCOULD even
+if !INDEFINITEADDRESSEE !TALK
+if !INDEFINITEADDRESSEE say
+if !INDEFINITEADDRESSEE says
+if !INDEFINITEADDRESSEE should
+if !PRONOUNNOMINAL
+if !PRONOUNNOMINAL !AUX
+if !PRONOUNNOMINAL !AUX to
+if !PRONOUNNOMINAL !CANCOULD
+if !PRONOUNNOMINAL !CANCOULD be
+if !PRONOUNNOMINAL !CANCOULD be of
+if !PRONOUNNOMINAL !CANCOULD be of any further
+if !PRONOUNNOMINAL !CANCOULD have
+if !PRONOUNNOMINAL !CANCOULD just stop it
+if !PRONOUNNOMINAL !CANCOULD raise
+if !PRONOUNNOMINAL catch wind
+if !PRONOUNNOMINAL catches wind
+if !PRONOUNNOMINAL ever
+if !PRONOUNNOMINAL had
+if !PRONOUNNOMINAL had only
+if !PRONOUNNOMINAL only would have
+if !PRONOUNNOMINAL please
+if !PRONOUNNOMINAL pleases
+if !PRONOUNNOMINAL should
+if !PRONOUNNOMINAL was in !POSSESSIVEPRONOUN place
+if !PRONOUNNOMINAL was in !POSSESSIVEPRONOUN shoes
+if !PRONOUNNOMINAL were
+if !PRONOUNNOMINAL were in !POSSESSIVEPRONOUN place
+if !PRONOUNNOMINAL were in !POSSESSIVEPRONOUN shoes
+if !PRONOUNNOMINAL were to be
+if !ROYALWE !CANCOULD
+if !ROYALWE !CANCOULD be of any further
+if !ROYALWE !CANCOULD just stop it
+if !ROYALWE am to
+if !ROYALWE are
+if !ROYALWE are going
+if !ROYALWE are going to
+if !ROYALWE are going to have
+if !ROYALWE please
+if !ROYALWE were
+if !ROYALWE were to
+if !ROYALWE were to be
+if !ROYALWE were to take
+if !ROYALWE were to try to
+if !YOU were
+if !YOU were to be
+if all else
+if all else fails
+if all else should fail
+if and !QUESTION
+if and only if
+if and when
+if and when it comes about
+if and when it happens
+if and when it occurs
+if any
+if anything
+if anything happens
+if anything should happen
+if asked
+if at all
+if at all humanly possible
+if believed
+if but for that
+if but not
+if but not for that
+if coated
+if ever
+if for just one !TIMEFRAME
+if given the opportunity
+if he !CANCOULD just stop it
+if humanly possible
+if I !CANCOULD be of any further
+if I am going to
+if I please
+If I should be
+if I was in their place
+if I was in their shoes
+if I were
+If I were fair
+if I were in their place
+if I were in their shoes
+if I were to
+if I were to be
+if I were to take
+if I were to try to
+if in this context
+if in this situation
+if it
+if it be so
+if it be true that
+if it happens
+if it pleases
+if it should be
+if it should happen
+if it should happen that
+if it should transpire that
+if it so happens
+if it turns out
+if it was
+if it were
+if it were !DETERMINER credible threat
+if it were !DETERMINER real threat
+if it were not for
+if it were to be
+if it would
+if known
+if marked
+if memory serves
+if mixed
+if necessary
+if need be
+if not
+if not for
+if not then
+if nothing else
+if only
+if only !PRONOUNNOMINAL !CANCOULD
+if only !YOU !CANCOULD
+if perhaps
+if permitted
+if possible
+if she !CANCOULD just stop it
+if shown
+if someone were
+if something
+if something does happen
+if something happens
+if that
+if that's what !PRONOUNNOMINAL
+if that's what !PRONOUNNOMINAL decides
+if that !AUX
+if that would happen
+if there
+if there's
+if there !AUX
+if there !AUX !DETERMINER problem
+if there !AUX leeway
+if there are
+if there are any
+if there are any unanticipated
+if there are problems
+if there be
+if there be any truth
+if there was !DETERMINER chance
+if there were
+if there were !DETERMINER chance
+if there were to be
+if this !AUX !DETERMINER case
+if this would happen
+if thought
+if treated
+if true
+if we're
+if we're going
+if we're going to
+if we're going to have
+if we !AUX to
+if we !CANCOULD just stop it
+if we hadn't allowed
+if we hadn't let
+if we hadn't permitted
+if wind of this
+if worst comes to worst
+if you !AUX to
+if you !CANCOULD call it that
+if you !CANCOULD just stop it
+iffy
+ifs
+in !DETERMINER absence
+in !DETERMINER absence of
+in !DETERMINER circumstance
+in !DETERMINER circumstances
+IN !DETERMINER CIRCUMSTANCES OF
+in !DETERMINER contingency
+in !DETERMINER contingency that
+in !DETERMINER event of
+in !DETERMINER event that
+in !DETERMINER event that !DETERMINER
+in !DETERMINER eventuality
+in !DETERMINER eventuality of
+in !DETERMINER unlikely event of
+in !DETERMINER unlikely event that
+in an emergency
+in any city
+in case
+in case anything happens
+in case of
+in case of !DETERMINER
+in case something happens
+in case something should happen
+in case that
+in God's hands
+in one or another way
+in one way
+in one way or another
+in part on
+in part upon
+in posse
+in some cases
+in some way
+in that case
+in that event
+in the hands of the almighty
+in various parts
+in various places
+inasmuch as I !CANCOULD
+inasmuch as we !CANCOULD
+inasmuch as you !CANCOULD
+incident
+incidental
+incidentally fall
+incidentally falling
+incidentally falls
+incidentally fell
+incidents
+increase !DETERMINER chance
+increase !DETERMINER chances
+increase !DETERMINER odds
+increased !DETERMINER chance
+increased !DETERMINER chances
+increases !DETERMINER chance
+increases !DETERMINER chances
+increases !DETERMINER odds
+increasing !DETERMINER chance
+increasing !DETERMINER chances
+increasing !DETERMINER odds
+indeliberate
+indeterminacy
+indeterminate
+indeterminately
+indeterminateness
+indetermination
+indeterminations
+insofar as !PRONOUNNOMINAL !CANCOULD
+insofar as I !CANCOULD
+insofar as we !CANCOULD
+insofar as you !CANCOULD
+it's actually possible
+it's possible
+it's quite possible
+it !AUX depending on
+it !AUX nothing that !CANCOULD have
+it !AUX possible
+it !AUX possible that
+it !AUX possible to
+it !AUX probable
+it !AUX quite possible
+it !AUX unlikely that
+it !CANCOULD
+it !CANCOULD also
+it !CANCOULD also be
+it !CANCOULD as well
+it !CANCOULD as well happen
+it !CANCOULD be
+it !CANCOULD happen
+IT !CANCOULD HAPPEN THAT
+it !CANCOULD have
+it !CANCOULD have been otherwise
+it !CANCOULD make !PRONOUNOBJECTIVE feel
+it !CANCOULD probably
+it !MODAL be
+it !MODAL happen
+it !MODAL happen again
+it !MODAL not be true
+it all depends
+it all depends on
+it all depends upon
+it be
+it depended on
+it depends
+it depends on
+IT DEPENDS ON !DETERMINER AMOUNT OF
+It depends on how much
+It depends on who
+It depends whether
+It depends!
+It depends.
+it depends.on
+it does not happen unless
+it doesn't happen unless
+IT FELL OUT THAT
+it happened that
+it happened to depend
+it happens to conceal
+it has come down to
+it has come down to this
+it has come to
+it has come to this
+It just came out of the blue
+it may
+it may probably
+it may well happen
+it never happens !QUESTION
+it rarely happens
+it seems highly likely
+it seems highly likely that
+it seems highly probable
+it seems highly probable that
+it seldom happens !QUESTION
+it something should happen
+it will not happen if
+it will not happen unless
+it will only happen if
+it won't
+it won't be as bad
+it won't happen unless
+it would
+it would be
+it would be suicide to
+it would have
+it would not
+it would probably
+it would then have
+it would then have to
+it wouldn't
+juncture of events
+just !DETERMINER fluke
+just bump into
+just bumped into
+just bumping into
+just bumps into
+just fate
+just happened to
+just in case
+just in case something happens
+just ran into
+just run into
+just running into
+just runs into
+justified !QUESTION
+justified !QUESTION it comes
+justified if
+justified only if
+justifies only if
+justify only if
+justifying only if
+keep it open whether
+keeping it open whether
+keeps it open whether
+kept it open whether
+lack control of
+lack control over
+lacked control of
+lacked control over
+lacking control of
+lacking control over
+lacks control of
+lacks control over
+large chance
+large chances
+leave to chance
+leave to whim
+leaves to chance
+leaves to whim
+leaving to chance
+leaving to whim
+leeway
+left to chance
+left to the will of god
+left to whim
+lest !DETERMINER
+lest !PRONOUNNOMINAL
+lest it
+lest something
+like a puppet
+like puppet on string
+like puppets
+like puppets on a string
+like puppets on strings
+likelihood
+likelihood of
+likeliness
+likely as not
+likely lad
+likely lads
+likely stories
+likely story
+limiting factor
+limiting factors
+little chance
+little chance of
+little chances
+little chances of
+little expectation
+little expectation of
+little expectations
+little expectations of
+long-shots
+long odd
+long odds
+long shot
+long shots
+loss of control
+loss of control over my life
+loss of control over our lives
+lotteries
+lottery
+lotto
+lower the chance
+lower the chances
+lowered !DETERMINER chance
+lowered !DETERMINER chances
+lowers the chance
+lowers the chances
+luck into
+luck of !DETERMINER draw
+lucked into
+lucking into
+lucks into
+made decide on
+main chance
+main chances
+many and various
+many contingencies
+many factors
+many variables
+MANY WOULD
+mathematical probabilities
+mathematical probability
+mathematical probable
+mathematical probables
+mathematically probable
+mathematically probables
+matter of chance
+matters of chance
+may've
+may break out
+may involve
+may probably
+may well
+maybe
+maybe !DETERMINER
+maybe even as far as
+maybe if just once
+maybe it's
+maybe it's !DETERMINER
+maybe it's !POSSESSIVEPRONOUN
+maybe just once
+maybe one of these days
+mayhap
+mayn't
+medley
+medleys
+mere chance
+might-be
+might become part
+might try
+mightn't
+mind if
+minded if
+minding if
+minds if
+mitigating circumstance
+mitigating circumstances
+nilly-willy
+nisi
+no authority over
+no control
+no control over
+no longer would
+no longer would !PRONOUNNOMINAL
+no more would
+no more would !PRONOUNNOMINAL
+no one to blame
+no plan of
+no responsibility over
+no rhyme nor reason
+no rhyme or reason
+no way of defending
+nolens volens
+NONE WOULD
+normal wear-and-tear
+normal wear and tear
+not able to do anything about it
+not her fault
+not his fault
+not in charge of
+not my fault
+not our fault
+not planned
+not responsible
+not the boss
+not the boss of
+not their fault
+not your fault
+occasion !DETERMINER
+occasion !POSSESSIVEPRONOUN
+occasion !PRONOUNOBJECTIVE
+occasional cause
+occasional causes
+occasional license
+occasional licenses
+occasioned by !DETERMINER
+occasioning
+occasioning !DETERMINER
+occasioning !POSSESSIVEPRONOUN
+occasioning !PRONOUNOBJECTIVE
+occasions !DETERMINER
+occasions !POSSESSIVEPRONOUN
+occasions !PRONOUNOBJECTIVE
+odd-on favorite
+odds
+odds-on
+odds-on chance
+odds-on favorites
+odds-on underdog
+odds-on underdogs
+odds are
+odds off
+odds on
+odds on chance
+odds on chances
+of !DETERMINER impossible
+of !DETERMINER possible
+of !QUESTION !CANCOULD be
+of chance
+of chances
+of fortune
+of of anyone's hands
+off-chance
+off-chances
+off chance
+off chances
+on !DETERMINER bare possibility
+on !DETERMINER chance
+on !DETERMINER condition
+on !DETERMINER condition of
+on !DETERMINER condition that
+on !DETERMINER contingency
+on !DETERMINER contingency of
+on !DETERMINER contingency that
+on !DETERMINER off-chance
+on !DETERMINER off chance
+on !DETERMINER off chances
+on !DETERMINER possibility
+on !DETERMINER possibility of
+on !DETERMINER whim
+on !POSSESSIVEPRONOUN steam
+on an average of
+on any plan
+on condition
+on condition of
+on condition that
+on whether
+once-in-!DETERMINER-lifetime chance
+once !DETERMINER man's
+once !DETERMINER man !AUX
+once !DETERMINER woman's
+once !DETERMINER woman !AUX
+once !INDEFINITEADDRESSEE
+one in !DETERMINER hundred
+one in !DETERMINER million
+one in !DETERMINER thousand
+one way or !DETERMINER other
+One would
+only !DETERMINER slim chance
+only !DETERMINER slimmest chance
+only choice
+only if !YOU wish to
+only would have
+open-ended
+open-endedness
+option
+option on
+option out
+optional
+optionally
+optioned out
+optioning
+optioning out
+options
+options on
+options out
+or !DETERMINER instrument evidencing
+or else
+or whether
+other things being equal
+OTHERWISE
+otherwise,
+otherwise, !DETERMINER
+ought to be if
+out of !DETERMINER blue
+out of !DETERMINER habit of
+out of !DETERMINER hands of
+out of !DETERMINER lark
+out of !POSSESSIVEPRONOUN bearings
+out of !POSSESSIVEPRONOUN control
+out of !POSSESSIVEPRONOUN hands
+out of !POSSESSIVEPRONOUN power
+out of !POSSESSIVEPRONOUN reckoning
+out of !POSSESSIVEPRONOUN system
+out of character
+out of contact
+out of her control
+out of her hands
+out of his control
+out of his hands
+out of mind
+out of my bearings
+out of my control
+out of my element
+out of my hands
+out of my head
+out of my league
+out of my power
+out of my reckoning
+out of my senses
+out of my skull
+out of my system
+out of my teens
+out of my wits
+out of nowhere
+out of our bearings
+out of our control
+out of our element
+out of our hands
+out of our league
+out of our power
+out of our reckoning
+out of the blue
+out of their control
+out of their hands
+out of thin air
+outside-hope
+outside-hopes
+outside !POSSESSIVEPRONOUN control
+outside anyone's control
+outside chance
+outside hope
+outside hopes
+outside my control
+outside your control
+patch-together
+patch together
+patched-together
+patched together
+patches-together
+patches together
+patching-together
+patching together
+pend on
+pended on
+pending !DETERMINER
+pending on
+pends on
+per accidence
+per accidens
+peradventure with
+perchance
+perhaps likely
+possibilities
+possibilities of
+possibility
+possibility of
+possibility upon !DETERMINER possibility
+possible
+possible chance
+possible choice
+possible choices
+possible link
+possible links
+possible that
+possible tie
+possible ties
+possible variation
+possible variations
+possibly came
+possibly come
+possibly comes
+possibly coming
+possibly so
+possibly true
+poste
+pot-luck
+pot-pourri
+presumably so
+probabilistic
+probabilistically
+probabilities
+probability
+probable
+probable cause
+probable causes
+probable consequence
+probable consequences
+probables
+probably
+probably likely
+probably true
+provided !PRONOUNNOMINAL have
+provided !PRONOUNNOMINAL will
+provided !ROYALWE have
+provided always that in !DETERMINER event of
+provided I have
+provided that
+provided that !PRONOUNNOMINAL
+provided that !ROYALWE
+provided that I
+providing that !DETERMINER
+provision
+provisional
+provisional government
+provisional governments
+provisionally
+provisionally accept
+provisionally accepted
+provisionally accepting
+provisionally accepts
+provisionally admit
+provisionally admits
+provisionally admitted
+provisionally admitting
+provisionary
+provisioned
+provisioning
+provisions
+proviso
+provisories
+provisory
+raffle
+raffle off
+raffled
+raffled off
+raffles
+raffles off
+raffling
+raffling off
+rain or shine
+raised !DETERMINER chance
+raised !DETERMINER chances
+ran !DETERMINER venture
+random
+random act
+random acts
+randomization
+randomizations
+randomize
+randomized
+randomizer
+randomizers
+randomizes
+randomizing
+randomly
+randomness
+real break
+real breaks
+real chance
+real chances
+realm of possibility
+realms of possibilities
+rebus sic stantibus
+regardless of !DETERMINER circumstances
+regardless of !DETERMINER consequences
+regardless of whether
+regardless of whether it
+regardless of whether or not
+remote chance
+remote possibilities
+remote possibility
+rhyme or reason
+ride on whether
+rides on whether
+riding on whether
+risk-factor
+risk-factors
+risk !POSSESSIVEPRONOUN life
+risk !POSSESSIVEPRONOUN lives
+risk !YOU life
+risk factor
+risk my life
+risk our lives
+risk stating
+risked !POSSESSIVEPRONOUN life
+risked !POSSESSIVEPRONOUN lives
+risked !YOU life
+risked my life
+risked our lives
+risking !POSSESSIVEPRONOUN life
+risking !POSSESSIVEPRONOUN lives
+risking !YOU life
+risking my life
+risking our lives
+risks !POSSESSIVEPRONOUN life
+risks !POSSESSIVEPRONOUN lives
+risks !YOU life
+risks my life
+risks our lives
+rode on whether
+roll of !DETERMINER dice
+run !DETERMINER ventures
+running !DETERMINER venture
+runs !DETERMINER venture
+scratch together
+scratched together
+scratches together
+scratching together
+sea risk
+sea risks
+second chance
+second chances
+see !QUESTION !DETERMINER cookie crumbles
+see !QUESTION !DETERMINER land lies
+see if
+Selon le marche
+Selon poid
+serendipitous
+serendipitously
+serendipity
+several contingencies
+several factors
+several variables
+she'd have
+she'd have preferred
+she'dh have rather
+she can't really
+sheer chance
+sheer luck
+short odds
+should !DETERMINER case warrant
+should !DETERMINER circumstances warrant
+should !DETERMINER matter warrant
+should !DETERMINER situation warrant
+should !INDEFINITEADDRESSEE
+should !INDEFINITEADDRESSEE !TALK
+should !INDEFINITEADDRESSEE say
+should !INDEFINITEADDRESSEE says
+should !PRONOUNNOMINAL
+should !PRONOUNNOMINAL happen
+should be if
+should happen
+should happen to
+should it come to pass
+should it happen
+should it occur
+should such !DETERMINER
+should that occur
+should there be
+should there be any
+should there by any unanticipated
+should there ever
+should there ever be
+should this occur
+sink or swim
+sink or swim with
+so long as !PRONOUNNOMINAL
+so long as !ROYALWE
+so long as !YOU
+so long as I
+so long as it
+so long as it's
+so long as it's red
+so long as it !AUX
+so small a chance
+some chance
+some plan
+SOME WOULD
+Sometimes
+sortition
+sortitions
+sporting chance
+sporting chances
+stag !DETERMINER market
+stagged !DETERMINER market
+stagging !DETERMINER market
+stags !DETERMINER market
+stand !DETERMINER chance
+stand !DETERMINER hazard
+stand !DETERMINER hazard of !DETERMINER die
+stand fair to
+STANDING !DETERMINER CHANCE
+standing !DETERMINER hazard
+standing !DETERMINER hazard of !DETERMINER die
+standing fair to
+stands !DETERMINER chance
+stands !DETERMINER hazard
+stands !DETERMINER hazard of !DETERMINER die
+stands fair to
+statistically-probable
+statistically probable
+stochastic
+stochastically
+STOOD !DETERMINER CHANCE
+stood !DETERMINER hazard
+stood !DETERMINER hazard of !DETERMINER die
+stood fair to
+strings attached
+strings to it
+stumble across !DETERMINER opportunity
+stumble into
+stumble onto
+stumble over
+stumble upon
+stumble upon !DETERMINER
+stumbled into
+stumbled onto
+stumbled over
+stumbled upon !DETERMINER
+stumbles across !DETERMINER opportunity
+stumbles into
+stumbles onto
+stumbles over
+stumbles upon
+stumbles upon !DETERMINER
+stumbling across !DETERMINER opportunity
+stumbling into
+stumbling onto
+stumbling over
+stumbling upon
+stumbling upon !DETERMINER
+sub modo
+subject to
+subject to !DETERMINER
+subject to !DETERMINER duty
+subject to !DETERMINER fee
+subject to !DETERMINER tax
+subject to call
+subject to restrictions
+suppose if
+supposed if
+supposes if
+supposing if
+suppositional
+suppositionally
+surrender control
+surrendered control
+surrendering control
+surrenders control
+survive or perish
+take !DETERMINER option
+take !YOU chances
+take my chances
+takes !DETERMINER option
+taking !DETERMINER option
+ten-to-one odds
+ten-to-one shot
+tend on
+tend to
+tend to !DETERMINER point
+tend to go
+tend to show
+tend, to !DETERMINER point
+tended on
+tended to
+tended to go
+tended to show
+tending on
+tending to
+tending to go
+tending to show
+tends on
+tends to
+tends to go
+tends to show
+that's !DETERMINER way !DETERMINER cookie crumbles
+that's how !DETERMINER cookie crumbles
+that's probably
+that !AUX not necessarily
+that !AUX probably
+that !CANCOULD
+THAT !CANCOULD BE
+that !CANCOULD have
+that !CANCOULD otherwise
+that are not necessarily
+that depends on
+that depends upon
+that depends.
+that happens
+that it be
+that may well
+that may well be
+that may well happen
+that occurs
+that or !DETERMINER other
+that or nothing
+that with !DETERMINER
+that would've
+that would have
+that would have had
+the lack of control
+the number makes no difference
+the number makes no matter
+then !DETERMINER way
+there'd be
+there's !DETERMINER string attached
+THERE !AUX !DETERMINER CHANCE THAT
+THERE !AUX !DETERMINER DEFINITE
+THERE !AUX !DETERMINER LIMITED possibility
+there !AUX !DETERMINER possibility
+there !AUX !DETERMINER possibility that
+there !AUX !DETERMINER remote possibility
+there !AUX !DETERMINER slight chance
+there !CANCOULD
+there !CANCOULD be
+there !CANCOULD be !DETERMINER
+there !CANCOULD have
+there happens to be
+there would be
+there would be !DETERMINER
+there would be !DETERMINER chance
+there would be !POSSESSIVEPRONOUN
+there would be chances
+there would be our
+there would be room
+there would be that
+there would be this
+these !CANCOULD
+these !CANCOULD substantially
+these !CANCOULD substantively
+they'd be kidding
+they'd be teasing
+they'd have
+they'd have preferred
+they'd have rather
+they can't really
+think improbable
+think it improbable
+think it likely
+think it probable
+think it unlikely
+think likely
+think probable
+think unlikely
+thinking improbable
+thinking it improbable
+thinking it likely
+thinking it probable
+thinking it unlikely
+thinking likely
+thinking probable
+thinking unlikely
+thinks improbable
+thinks it improbable
+thinks it likely
+thinks it probable
+thinks it unlikely
+thinks likely
+thinks probable
+thinks unlikely
+this !AUX possible
+this !AUX probably
+this !CANCOULD
+this !CANCOULD have been avoided
+this !CANCOULD only lead to
+this could have
+this could have such
+this happens
+this incident
+this occurs
+this would
+this would be
+this would not
+this wouldn't
+those are !DETERMINER breaks
+thought improbable
+thought it improbable
+thought it probable
+thought it unlikely
+thought probable
+thought unlikely
+threw together
+throw of !DETERMINER dice
+throw together
+throwing together
+thrown in
+thrown in together
+thrown together
+thrown together by fate
+throws of !DETERMINER dice
+throws together
+thrust on
+thrust upon
+thrusted on
+thrusted upon
+thrusting on
+thrusting upon
+thrusts on
+thrusts upon
+to chance
+to do otherwise
+to do otherwise !CANCOULD
+to know if anything !AUX certain
+to know if anything !AUX certain about
+to know if anything !AUX certain in
+to know if anything !AUX certain it was
+to know if anything !AUX clear
+to know if anything !AUX clear about
+to know if anything !AUX clear in
+to know if anything !AUX clear it was
+to know if anything !AUX sure
+to know if anything !AUX sure about
+to know if anything !AUX sure in
+to know if anything !AUX sure it was
+to luck
+to take !DETERMINER chance
+to think otherwise
+to think there are people who !CANCOULD do
+to whim
+took !DETERMINER option
+toss-up
+toss-ups
+toy of fortune
+toys of fortune
+traffic-condition
+traffic-conditions
+traffic condition
+traffic conditions
+trail packages
+treatment option
+treatment options
+trial-and-error
+trial and error
+trial engagement
+trial engagements
+trial marriage
+trial marriages
+trial package
+trial piece
+trial pieces
+trial print
+trial prints
+trial proof
+trial proofs
+trial run
+trial runs
+trial sample
+trial samples
+tried !DETERMINER chance
+tried !POSSESSIVEPRONOUN fortune
+tried !POSSESSIVEPRONOUN hand
+tried !POSSESSIVEPRONOUN hand at
+tried !POSSESSIVEPRONOUN luck
+tried !YOU fortune
+tried !YOU hand
+tried !YOU hand at
+tried !YOU luck
+tried my fortune
+tried my hand
+tried my hand at
+tried my luck
+tried our fortune
+tried our hand
+tried our hand at
+tried our luck
+tries !DETERMINER chance
+tries !POSSESSIVEPRONOUN fortune
+tries !POSSESSIVEPRONOUN hand
+tries !POSSESSIVEPRONOUN luck
+tries my fortune
+tries my hand
+tries my luck
+tries our fortune
+tries our hand
+tries our luck
+true anomalies
+true anomaly
+two-to-one shot
+under !DETERMINER circumstance
+under !DETERMINER circumstances
+under !DETERMINER condition
+under !DETERMINER condition that
+under !DETERMINER conditions
+under !DETERMINER contingency
+under !DETERMINER eventuality
+under !DETERMINER future EVENTUALITY
+under !DETERMINER pressure of
+under !POSSESSIVEPRONOUN own steam
+under certain circumstances
+under certain conditions
+under normal circumstances
+under these circumstances
+under these conditions
+under those conditions
+unless
+unless that
+unless there !AUX !DETERMINER
+unless there should be
+unless there should be !DETERMINER
+unlikelier
+unlikeliest
+unlikelihood
+unlikely
+unlikely to
+unplanned
+unpremediated
+unpremeditated
+unpremeditatedly
+unselectively
+up for grabs
+up to the will of god
+upon !DETERMINER upcast
+upon condition
+upon condition that
+upon oath
+upon pain of
+upon presentation
+upon sight of
+vagaries
+vagarious
+vagary
+variability
+variable
+variableness
+variables
+variably
+variance
+variances
+variant
+variants
+variation on
+variation on !DETERMINER
+variations on
+variations on !DETERMINER
+varied and
+varied with
+variedly
+varingly
+various
+various !TURN
+various contingencies
+various factors
+various of !DETERMINER
+various turn of chance
+various turns of chance
+various variables
+variously
+vary with
+varying with
+varyingly
+venture
+venture !DETERMINER
+venture !POSSESSIVEPRONOUN
+venture !PRONOUNOBJECTIVE
+venture into
+venture my
+venture on
+venture our
+venture to !DETERMINER
+venture to say
+venture upon
+ventured
+ventured !DETERMINER
+ventured !POSSESSIVEPRONOUN
+ventured !PRONOUNOBJECTIVE
+ventured into
+ventured my
+ventured on
+ventured our
+ventured upon
+ventures
+ventures !DETERMINER
+ventures !POSSESSIVEPRONOUN
+ventures !PRONOUNOBJECTIVE
+ventures into
+ventures my
+ventures on
+ventures our
+ventures upon
+venturesome
+venturesomely
+venturing
+venturing !DETERMINER
+venturing !POSSESSIVEPRONOUN
+venturing !PRONOUNOBJECTIVE
+venturing into
+venturing my
+venturing on
+venturing our
+venturing upon
+venturous
+very well !CANCOULD
+very well !CANCOULD have
+very well may
+very well may have
+vicissitude
+vicissitude of fortune
+vicissitudes
+vicissitudes of fortune
+war-risk
+war-risks
+war risk
+war risks
+we'd have
+we'd have preferred
+we'd have rather
+we can't really
+weather permitting
+were !PRONOUNNOMINAL
+WERE !PRONOUNNOMINAL ABLE TO
+were !PRONOUNNOMINAL to
+were !ROYALWE
+were !ROYALWE to
+were !ROYALWE to take
+were !ROYALWE to try
+were !YOU to
+were I
+were I to
+were I to take
+were I to try
+were it
+were it going to be
+were it going to be realized
+were it going to happen
+were it going to occur
+were it not
+were it not for
+were it not for !DETERMINER fact
+were it not for !DETERMINER fact that
+were it not that
+were it to
+were it to be
+were it to have
+were somebody
+were someone
+what's !DETERMINER odds
+what's coming or when
+what's happened
+what-if
+what awaits
+what is awaiting
+whatever !DETERMINER case
+whatever be !DETERMINER case
+whatever comes
+whatever happened
+whatever happened to be
+whatever happens
+whatever should happen
+wheel of chance
+wheel of fortune
+wheels of chance
+wheels of fortune
+when-issued
+when !DETERMINER chips are down
+when !DETERMINER condition warrants
+when !DETERMINER mood strikes
+when !DETERMINER option
+when !DETERMINER options
+when !DETERMINER spirit moves
+when !POSSESSIVEPRONOUN ship comes in
+when !PRONOUNNOMINAL !CANCOULD
+when !PRONOUNNOMINAL !CANCOULD help
+when !PRONOUNNOMINAL get !DETERMINER moment to spare
+when !PRONOUNNOMINAL get around to it
+when !PRONOUNNOMINAL gets !DETERMINER moment to spare
+when !PRONOUNNOMINAL gets around to it
+when !PRONOUNNOMINAL has
+when !PRONOUNNOMINAL has !DETERMINER minute to spare
+when !PRONOUNNOMINAL has !DETERMINER moment to spare
+when !PRONOUNNOMINAL has !DETERMINER time
+when !PRONOUNNOMINAL hasn't
+when !PRONOUNNOMINAL have
+when !PRONOUNNOMINAL have !DETERMINER minute to spare
+when !PRONOUNNOMINAL have !DETERMINER moment to spare
+when !PRONOUNNOMINAL have !DETERMINER time
+when !PRONOUNNOMINAL haven't
+when !ROYALWE !CANCOULD
+when !ROYALWE !CANCOULD help
+when !ROYALWE get !DETERMINER moment to spare
+when !ROYALWE get around to it
+when !ROYALWE have !DETERMINER minute to spare
+when !ROYALWE have !DETERMINER moment to spare
+when !ROYALWE have !DETERMINER time
+when !ROYALWE have options
+when !ROYALWE have so many options
+when !ROYALWE haven't
+when !ROYALWE think of
+when !YOU !CANCOULD
+when !YOU !CANCOULD help
+when !YOU get !DETERMINER moment to spare
+when !YOU get around to it
+when !YOU have !DETERMINER minute to spare
+when !YOU have !DETERMINER moment to spare
+when !YOU have !DETERMINER time
+when !YOU haven't
+when !YOU ship comes in
+when allowable
+when and where
+when applicable
+when baked
+when cold
+when conditions warrant
+when cooled
+when fresh
+when frozen
+when gas
+when heated
+when hot
+when I get !DETERMINER moment to spare
+when I get around to it
+when I have !DETERMINER minute to spare
+when I have !DETERMINER moment to spare
+when I have !DETERMINER time
+when issued
+when it !AUX handy
+when it !CANCOULD
+when it !CANCOULD happen
+when it !CANCOULD help
+when it happens
+when it has
+when it hasn't
+when legal
+when liquid
+when melted
+when my ship comes in
+when necessary
+when needed
+when one thinks about it
+when our ship comes in
+when people are around
+when permissible
+when possible
+when pressure !AUX applied
+when required
+when solid
+when subjected to
+when the contingencies
+when the contingency
+when things
+when things do
+when things do happen
+when things happen
+when under
+when under !DETERMINER authority
+when under !DETERMINER influence
+when under pressure
+when where or how
+when, where, or how
+whence !CANCOULD
+whenever !INDEFINITEADDRESSEE think of
+whenever !INDEFINITEADDRESSEE thinks of
+whenever !ROYALWE think of
+whenever !YOU think of
+whenever allowable
+whenever an option
+whenever legal
+whenever necessary
+whenever needed
+whenever optional
+whenever permissible
+whenever possible
+whenever required
+where it has
+where when or how
+where, when or how
+wherever
+whether
+whether !PRONOUNNOMINAL will or not
+whether !ROYALWE will or not
+whether !YOU will or not
+WHETHER AND WHAT KIND OF
+whether any
+whether by hook or by crook
+whether by hook or crook
+whether for
+whether I will or not
+whether it's
+whether it's good or bad
+whether it's right or wrong
+whether it !CANCOULD be
+whether it makes sense or not
+whether it ought to be
+whether it should be
+whether or no
+whether or not
+whether to
+whether to go out and
+whether we're
+which !CANCOULD
+which may well be
+which side !AUX right?
+which very well !CANCOULD be
+which very well may be
+which way !DETERMINER wind blows
+which would've
+which would have
+whichever
+whichever way
+whichever way !DETERMINER wind blows
+whichever ways
+whichsoever
+who this may
+who this may affect
+who this might
+who this might affect
+who this would
+who this would affect
+wildcard
+wildcarding
+wildcards
+willy-nilly
+willy nilly
+win by !DETERMINER fluke
+wind and weather permitting
+winning by !DETERMINER fluke
+wins by !DETERMINER fluke
+with !DETERMINER catch
+with !DETERMINER catch to it
+with !DETERMINER course of events
+with !DETERMINER hinges on
+with !DETERMINER kicker
+with !DETERMINER kicker to it
+with !DETERMINER stipulation
+with !DETERMINER stipulation that
+with !DETERMINER stipulations
+with !DETERMINER stipulations that
+with !DETERMINER string attached
+with !DETERMINER string to it
+with !POSSESSIVEPRONOUN consent
+with !POSSESSIVEPRONOUN permission
+with it not working
+with it working
+with no strings attached
+with permission
+with strings attached
+with this proviso
+WITH WHAT !CANCOULD
+WITH WHAT !CANCOULD HAVE
+within !DETERMINER bounds of possibility
+within !DETERMINER course of events
+within !DETERMINER domain of possibility
+within !DETERMINER range of possibility
+within !DETERMINER realm of possibility
+within an ace of
+within an inch of !YOU
+within an inch of her
+within an inch of his
+within an inch of my
+within an inch of our
+within an inch of their
+within limits
+within tolerances
+without
+without !DETERMINER
+without !DETERMINER assistance
+without !DETERMINER better
+without !DETERMINER better understanding
+without !DETERMINER break
+without !DETERMINER change
+without !DETERMINER change of menu
+without !DETERMINER change of pace
+without !DETERMINER change of scenery
+without !DETERMINER clue
+without !DETERMINER dissent
+without !DETERMINER dissenting voice
+without !DETERMINER express consent
+without !DETERMINER good alternative
+without !DETERMINER good way
+without !DETERMINER help
+without !DETERMINER name
+without !DETERMINER need
+without !DETERMINER nerve in !YOU body
+without !DETERMINER shadow of turning
+without !DETERMINER stitch
+without !DETERMINER stitch on
+without !DETERMINER stitch to !YOU back
+without !DETERMINER stitch to !YOU name
+without !DETERMINER stitch to one's name
+without !DETERMINER superior
+without !DETERMINER superior alternative
+without !DETERMINER superior way
+without !DETERMINER tremor
+without !DETERMINER way
+without !DETERMINER will of !YOU own
+without !POSSESSIVEPRONOUN
+without !POSSESSIVEPRONOUN consent
+without !POSSESSIVEPRONOUN permission
+without !POSSESSIVEPRONOUN support
+without !PRONOUNOBJECTIVE
+without an alternative
+without any
+without any strings attached
+without assistance
+without being
+without benefit of clergy
+without body
+without book
+without bottom
+without bound
+without break
+without ceremony
+without charge
+without choice
+without coercion
+without compulsion
+without connection
+without content
+without contradiction
+without date
+without design
+without difference
+without difficulty
+without distraction
+without ever
+without forgetting to
+without hassle
+without having to
+without help
+without inquiry
+without intermission
+without intimidation
+without issue
+without it not
+without measure
+without names
+without needing to
+without nerves
+without number
+without omission
+without prejudice
+without premeditation
+without pressure
+without price
+without reaching !DETERMINER verdict
+without recourse
+without reference
+without regard
+without regard to
+without regard to persons
+without regret
+without reluctance
+without reserve
+without restrictions
+without stint
+without stopping
+without striking !DETERMINER blow
+without strings
+without success
+without suspicion
+without term
+without turning !DETERMINER hair
+without unspotted
+without vital functions
+without wasting words
+without willing
+won by !DETERMINER fluke
+would've had to
+would-be
+would-be gentleman
+would-have-been
+would !DECIDE on
+would !DECIDE on !POSSESSIVEPRONOUN
+would !YOU do
+would actually
+would afterward
+would allow
+would allow for
+would also be
+would apply to
+would at some point
+would at some time
+would base
+would be
+would be !DETERMINER
+would be !DETERMINER chance
+would be also
+would be better off if
+would be chances
+would be hard-pressed
+would be hard pressed
+would be hard pressed not to
+would be led to perform
+would be likely
+would be over
+would be so
+would be soon
+would be such
+would be to
+would begin
+would begin to
+would chart !DETERMINER course
+would chase !DETERMINER
+would come to an end
+would come to be
+would concern
+would count on
+would darken
+would desire !DETERMINER
+would end
+would end up in
+would eventually
+would eventuate in
+would ever
+would ever again
+would ever have
+would explain
+would explain up to
+would finally
+would finish
+would further
+would go after !DETERMINER
+would gradually
+would happen
+would happen if
+would have
+would have !YOU
+would have !YOU die
+would have !YOU do
+would have had if
+would have had to
+would have had to be
+would have had were it not
+would have her
+would have her die
+would have her do
+would have him
+would have him die
+would have him do
+would have known
+would have me
+would have me die
+would have me do
+would have them
+would have them die
+would have them do
+would have to
+would have to answer
+would have to answer to
+would have to be
+would have to have
+would have us
+would have us die
+would have us do
+would in !DETERMINER future
+would in all likelihood
+would in all probability
+would in short order
+would involve
+would it be if
+would it take
+would just for once
+would make
+would need only
+would never do such !DETERMINER thing
+would not
+would only need
+would pertain
+would pertain to
+would presumably
+would probably
+would probably be
+would project !DETERMINER
+would prove
+would prove to be
+would provide !DETERMINER
+would rather
+would RATHER BE !DETERMINER
+would reach !DETERMINER end
+would relate to
+would shortly
+would someday
+would sometime
+would soon be
+would sooner
+would subsequently
+would take !NUMS1TO100 !TIMEFRAME
+would take about
+would take approximately
+would take some
+would then
+would then be
+would then be able
+would then be fit
+would then be set
+would ultimately
+wouldn't have had if
+wouldn't have had were it not
+wouldn't have if
+wouldn't have were it not
+wouldn't speak of
+you'd
+you'd be kidding
+you'd be teasing
+you'd have
+you'd have preferred
+you'd have rather

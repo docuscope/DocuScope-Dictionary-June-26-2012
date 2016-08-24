@@ -1,0 +1,1287 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!DETERMINER huge thing
+!QUESTION Do You Mean By That?
+!QUESTION Do You Think?
+!QUESTION The F***?
+!QUESTION the hell?
+!QUESTION then now?
+!QUESTION You Get Is !QUESTION You Pay For
+!YOU hear
+"phew"
+(:
+**** Off And Google
+, right,
+, well
+, you know.
+. begone
+. Go Ahead
+. good-bye
+. indeed.
+. like
+. moving Right Along
+. rise and shine
+. see ya soon
+. stop thief
+. well
+. well I never
+. well,
+. why?
+...you know
+:)
+; moving right along
+; well
+? I have !DETERMINER question
+??
+???
+????
+[$X$]
+\M/
+<chuckle>
+<eg>
+<frown>
+<g>
+<grin>
+<smile>
+<smirk>
+<wink>
+2MI
+2U2
+4COL
+A-OLs
+A rivederci
+A toute a l'heure
+AAMOF
+abracadabra
+ADN
+AFAIC
+AFAIK
+AFAIR
+AFJ
+AFK
+After While, Crocodile
+ah
+ah,
+aha
+ahem
+Ahh
+ahh,
+Ahhh
+ahoy
+ahoy there
+AISI
+all hands on deck
+ANFAWFOS
+ANFSCD
+Anyone for KFC?
+Are We Going To Have To Go Through This Again?
+Are We Having Fun Yet?
+Are you ready to say goodbye?"
+Are you there?
+arrivederci
+ASAP
+ASAYGT
+ASL
+ATSL
+au revoir
+avast
+avaunt
+aw
+AWC
+AWGTHTGTTA
+AWHFY
+AWTTW
+ay
+aye
+ayes
+AYOR
+B4N
+BAC
+Back At Keyboard
+Back On Topic
+Bad A**ed Chick
+BAK
+banco
+bancos
+BBFN
+BBIAB
+BBIAF
+BBL
+BBR
+BC
+BCNU
+Be Back In A Bit
+Be Back In A Few
+Be Back Later
+Be Right Back
+Be seein you
+Be There Or Be Dead
+Beats The Hell Outta Me
+beddy-bye
+Before I Forget
+BEG Big Evil Grin
+Begorra
+begorrah
+begorras
+Believe-it-or-not
+Bend Over, Here It Comes Again
+bene vale
+BF
+BFD
+BFN
+bhani ghani
+BIF
+Big Frickin Deal
+bigtime!
+bigtime.
+BION
+blankety-blank
+blankety blank
+BOHICA
+bottoms up
+bottoms up!
+BRB
+brewskis
+brewsky
+Bring Your Own Bottle
+Bring Your Own Mac
+bro
+BRS
+BTA
+BTAIM
+BTHOM
+BTOBD
+BTW
+bub
+buenas noches
+buenos dias
+buon giorno
+buona notte
+buona sera
+Burnt Beyond Repair
+but hey
+But Then Again. . .
+But You Knew That
+butt-fucked
+Buzz Word Quotient
+BWL
+BWQ
+by cracky
+by jingo
+bye
+bye-bye
+bye-byes
+Bye Bye For Now
+Bye For Now
+BYE!
+bye.
+BYE?
+BYKT
+BYOB
+BYOM
+c ya
+C&G
+C.a.d.e.t.
+Can't Add, Doesn't Even Try
+Can't Remember Sh**
+Chat With You Later
+cheerio
+cheese it
+cheese it,
+chiao
+chop-chop
+chop chop
+Chuckle and Grin
+Chuckle, Snicker, Grin
+ciao
+CID
+CMIIW
+cor blimey
+corblimey
+Correct Me If I?m Wrong
+CPP
+CRS
+Crying In Disgrace
+CSG
+CU
+CU2
+CUL
+CUL8R
+CULA
+CWYL
+CYA
+CYAL8R
+da
+Damned If I Know.
+dang
+danged
+danging
+dangs
+deo volente
+DIIK
+DIKU?
+DILLIGAD
+DIY
+DK
+DLTBBB
+Do !QUESTION I Mean, Correctly
+Do !QUESTION I Mean, Not What I Say
+Do I Know You?
+do I look like
+Do I Look Like I Give A Darnn?
+Do It Yourself
+do svidanye
+Do What I Mean, Correctly
+Do What I Mean, Not What I Say
+doggone
+Don't Let The Bed Bugs Bite.
+Don?t Know
+dotgov
+DTRT
+duh?
+DWIMC
+DWIMNWIS
+Eat Sh** And Die
+EG
+egad
+egads
+eh
+eh?
+EOL
+ESAD
+ETLA
+Evil Grin
+ex-prez
+excellent!
+excuse-me
+excuse-me if
+F*** off and die
+F.i.s.h.
+F.u.d.
+F2F
+Faster Than A Speeding Bullet
+Faster Than Light
+FCFS
+Fear, Uncertainty and Doubt
+Fell Off My Chair
+First Come, First Served
+First In, Still Here
+FITB
+FOAD
+FOAF
+FOAG
+FOMC
+For-Your-Information
+For Crying Out Loud!
+for land sakes
+for land?s sake
+For What It's Worth
+For What It?s Worth
+For Your Amusement
+forsooth
+Fouled Up Beyond All Repair
+Fouled Up Beyond Belief
+Friend Of A Friend
+FS
+FTASB
+FTF
+FTL
+FUBAR
+FUBB
+Full Up Ready To Burst
+FURTB
+FWIW
+FYA
+FYI
+G1
+G2G
+GA
+gad so
+gadso
+gadzooks
+GD&R
+GD&RF
+GD&WVF
+GDW
+gee
+gee-haw
+gee-haws
+gee ho
+Gee I Don't Know
+gee up
+gee whillikins
+gee whoa
+gee,
+Gee, I Wish I?d Said That
+geed
+geeing
+gees
+geez
+Get-a-life
+GF
+GFN
+GFR
+GG
+GIDK
+Girl Friend.
+GIWIST
+GLGH
+gluckliche Reise
+GMTA
+golly
+golly gee
+Gone For Now.
+good-by
+good-night
+good afternoon
+good arvo
+good day
+good evening
+Good Game
+good gracious
+good heavens
+good land!
+Good Luck and Good Hunting
+good morning
+good morrow
+good night
+Good One!
+goodness gracious
+gorblimey
+gosh
+Got to Go
+GOWI
+GR&D
+gramercy
+Great Minds Think Alike
+Grim File Reaper
+Grin or Giggle
+Grin, Duck and Weave
+Grinning, Ducking and Running
+Grinning, Ducking and Running Fast
+Grinning, Ducking, and Walking Very Fast
+Grinning, Running and Ducking
+GTG
+GTSY Great To See You
+gute nacht
+guten Abend
+guten Morgen
+guten Tag
+guv
+h'm
+H&K
+H4U
+ha
+ha-ha
+Ha Ha Only Joking
+Ha Ha Only Kidding
+Ha Ha Only Serious
+hah
+HAK
+hallo
+halloa
+halloas
+halloed
+halloing
+halloo
+hallooed
+hallooing
+halloos
+hallos
+Hanging Head In Shame.
+Happy Holidays to You and Yours
+Happy New Year
+harrumph
+harrumphed
+harrumphing
+harrumphs
+hasta la vista
+hasta luego
+hasta manana
+HBASTD
+he-he!
+hecuva
+hecuva guy
+hee-hee
+heh
+hehe
+heigh-ho
+heigh ho
+hell,
+hell, I Don't Know
+hell, I Just Want To Say
+Hello again or In Regard To
+hello there
+help!
+here's A Word To The Wise
+hey
+hey-ho
+heya
+HHIS
+HHOJ
+HHOK
+HHOS
+HHTYAY
+hi
+hi !YOU
+Hi again
+Hi There
+hi ya
+hidey
+Hitting Bottom And Starting To Dig
+hiya
+hmm
+hmmm
+hmmmm
+hmmmmm
+HNY
+ho
+ho-ho
+ho ho
+ho ho ho
+ho, hum
+holly golly
+holy moley
+holy moley!
+hoo-ha
+hoo-hah
+Hope That Helps!
+Hot For You
+how-d'ye-do
+how-de-do
+how-do-ye
+how-do-ye-do
+how-do-you-do
+How Should I Know if
+howdy-do
+howgozit
+HOYEW
+HSIK
+HT
+HTH
+huge thing
+Hugs And Kisses
+huh
+huh?
+hushaby
+I'll be danged
+I'll be darn
+I'm So Sure!
+I'm telling !YOU
+I'm telling ya
+I'm telling you
+I Am Not A Lawyer (but )
+I have !DETERMINER comment
+I Just Want To Know
+I Know Whatya Mean
+I Know You Are But What Am I?
+I Might Add
+I See !QUESTION You Mean
+I See What You Mean
+I See.
+I tell you !QUESTION
+I tell you what
+I was Just Wondering
+I was like
+I Will Always Love You
+IAC
+IAE
+IANAL
+IAW
+IBK
+IBTD
+IC
+Idiot Behind Keyboard
+IDK
+If-The-Shoe-Fits
+If I Remember Correctly
+If It Ain't Broke, Don't Fix It
+If It Were Me
+If You Say So
+If You See !QUESTION I Mean
+If You See What I Mean
+IIABDFI
+IIRC
+IIWM
+IJWTK
+IJWTS
+IKWUM
+IKYABWAI
+IMA
+IMAO
+IMCO
+IME
+IMHO
+IMNSHO
+IMO
+IMPOV
+In-My-Considered-Opinion
+In-Other-Words
+in banco
+In My Arrogant Opinion
+In My Experience
+In My modest Opinion
+In My most Humble Opinion
+In My Not So Humble Opinion
+In My Point Of View
+In No Particular Order
+In Real Life
+indeedy
+INPO
+Insert Your Favorite Ethnic Group
+IOW
+IRL
+ISS
+ISSYGTI
+ISWYM
+It Would Be Nice If
+ITFA
+ITSFWI
+IWALU
+IWBNI
+IYFEG
+IYSS
+IYSWIM
+J4F
+ja
+JAS
+JC
+jeeper-creepers
+jeepers creepers
+jeez
+jeezy
+jeezy-peezy
+jeezy peezy
+JFI
+JIC
+JK
+JMO
+JTLYK
+Just-In-Case
+Just !DETERMINER freaking minute
+Just A Minute
+Just A Second
+Just Chilling
+Just For Fun
+Just For Information
+Just Kidding
+Just Kidding!
+Just My Opinion
+Just To Let You Know
+JWK
+K.i.s.s.
+Keep-In-Touch
+Keep It Simple, Stupid
+KHYF
+KIBO
+kiss me
+Kiss my
+Kiss My Italian Ass
+Kisses and hugs
+KMA
+KMIA
+Know !QUESTION I Mean?
+Know How You Feel
+Know What I Mean?
+Knowledge In, Bullshit Out
+KWIM
+KYFC
+l'chaim
+L8R
+LAB&TYD
+LABATYD
+land's sake
+land's sakes
+land ho
+land ho!
+land sakes
+Laugh.
+Laughing Head Off
+Laughing My Ass Off
+Laughing Myself to death
+Laughing Out Loud
+Laughing So Hard My Belly Aches
+Laughing So Hard My Belly Hurts
+Laughing to Self
+Laughing Too Hard To Type
+law sakes
+lechayim
+let's wait !DETERMINER second
+let me tell !YOU something
+let me tell ya something
+Let?s Just Be Friends
+Life's A Bitch And Then You Die
+like when
+like wow
+LJBF
+LLTA
+LMAO
+LMHO
+LOL
+LOLV
+Long Time No See
+Long Time, No Type
+Lot's Of LoVe
+Lots and Lots of Thunderous Applause
+Lots Of Luck
+loudy-da
+Love You
+Love You Like A Brother
+Love You Like A Sister
+Love You With All My Heart
+LSHMBA
+LSHMBH
+LTHTT
+LTM
+LTNS
+LTNT
+LTS
+LUWAMH
+LY
+LYLAB
+LYLAS
+M.o.s.s.
+mais oui
+Man it's
+man overboard!
+Man, he's
+Man, I'm
+Man, she's
+Man, they
+may I make !DETERMINER toast
+May The Force Be With You
+MEGO
+men overboard!
+Message of the day
+Mind-Ya-Own-Business
+mind ya
+MLA
+mmmm
+MOF
+MOTAS
+MOTD
+MOTOS
+MOTSS
+moving right along
+MRA
+MTFBWY
+my-
+My Ass
+my boys
+My Eyes Glaze Over
+my goodness
+my land!
+my lands!
+my stars
+my two cents
+my word
+MYOB
+N-P
+na zdorov'e
+nah
+nay
+nays
+NBD
+NE14KFC?
+Never Again Voluneer Yourself
+never heard of her
+Never Heard Of Him
+never heard of them
+Never Mind
+NFW
+NHOH
+NIH
+NIMBY
+NINO
+NITL
+NM
+no-no
+No Big Deal!
+No Friggin' Way!
+No Input
+no joke!
+no ma'am
+no ma'm
+no maam
+No Output
+No Problemo
+No Questions Asked
+No Response Necessary
+no sir
+no sirree
+No spam!!
+no,
+None-Of-Your-Business
+Not In My Back Yard
+Not In This Lifetime
+Not Invented Here
+Not That It Matters
+Not That It Matters Much
+Nothing In
+Nothing Out
+Now That You Mention It
+now wait !DETERMINER second
+now wait just !DETERMINER second
+now, moving right along
+NOYB
+NQA
+NRN
+NTIM
+NTIMM
+NTW
+NTYMI
+o k
+O Over
+OATUS
+OAUS
+OB
+Obligatory On-Topic Comment
+OBO
+OBTW
+ochone
+oh
+oh !QUESTION
+oh boy
+oh come on
+oh man
+oh my gosh
+oh no
+Oh No, Not Again
+Oh No, Not This Again
+oh poppet
+oh really
+oh sonny
+oh very well
+oh ye
+oh yeah
+Oh yeah.
+oh yes
+oh,
+oh, !QUESTION
+Oh, By The Way
+Oh, I See
+oh, very well
+ohh
+ohhh
+oho
+OIC
+ok
+okay
+okay but
+okay, but
+okey-doke
+okey dokey
+okie dokie
+okle-dokle
+oks
+ole
+OMG
+On A Totally Unrelated Subject
+On An Unrelated Subject
+On Second Thoughts
+On the Floor (laughing)
+On the Floor Laughing
+On The Other Other Hand
+On The Third Hand
+one SEC
+ONNA
+ONNTA
+OO
+ooh
+oomph
+oopsy
+OOTC
+Or-Words-To-That-Effect
+OST
+OTF
+OTFL
+OTL
+OTOH
+OTOOH
+OTT
+OTTH
+OTTOMH
+oui
+out-to-lunch
+Over and Out
+OWTTE
+oyes
+oyez
+p.i.t.a.
+PABG
+Packing !DETERMINER Big Gun
+parbleu
+Pardon Me For Butting In
+Pardon Me For Jumping In
+Pardon My Butting In
+Pardon My French or Pure Freaking Magic.
+Pardon My Jumping In
+Parent Over Shoulder
+PCMCIA
+PD
+PDS
+PEBCAK
+Peeing My Pants
+peek-a-boo
+peek-bo
+peep-bo
+People Can't Memorize Computer Industry Acronyms
+Piece of S**t
+pip-pip
+plain Out To Lunch
+Please Don't Shout
+please keep in touch, !YOU hear
+please keep in touch, ya hear
+Please Tell Me More
+Please, No Cursing Allowed Here
+PLOKTA
+PMBI
+PMF
+PMFBI
+PMFJI
+PMIGBOM
+PMJI
+PMP
+PNCAH
+poof
+port engine ahead
+POS
+POSSLQ
+POTUS
+PPL
+Press Lots Of Keys To Abort
+prez
+Problem Exists Between Chair And Keyboard
+prosit
+PTMM
+Put Mind In Gear, Before Opening Mouth
+QT
+quotha
+R U THERE?
+RAEBNC
+Rank Has Its Privileges
+Read And Enjoyed, But No Comment
+Read The Bloody Manual
+Read The F------ Manual
+Read The Freaking FAQ
+Read The Frequently Asked Questions
+Read The Manual
+Read The Silly Manual
+Read The Whole Friggin' Question
+Read The Whole Thing
+Read Your Friendly Manual
+Read Your Screen
+Real Life Conference
+Real Soon Now
+really?
+REHI
+Response to BYE?
+Return on Investment
+Return Receipt Request
+RHIP
+right-ho
+right-oh
+right Off The Top Of My Head
+right?
+RL
+RLCO
+ROFL
+ROFLAS
+ROFLMAO
+roger
+roger-dodger
+roger and out
+roger dodger
+ROI
+Roll On Floor Laughing My Ass Off
+Rolling On Floor Laughing
+Rolling On Floor Laughing And Screaming
+Rolling On The Floor Laughing
+Rolling On The Floor Laughing My Ass Off Till I Die
+Rolling On The Floor Laughing Out Loud
+Rolling On The Floor Laughing Out Loud And Peeing My Pants
+Rolling On The Floor Laughing Till I Cry
+ROTF Rolling On The Floor
+ROTFL
+ROTFLMAOTID
+ROTFLOL
+ROTFLOLAPMP
+ROTFLTIC
+RRQ
+RSN
+RTBM
+RTFAQ
+RTFF
+RTFM
+RTM
+RTSM
+RTWFQ
+RTWT
+RYFM
+RYS
+s.o.w.
+s.w.i.m.
+sail ho
+sakes alive
+sakes land
+sakes law
+salaam aleikum
+Same Old Stuff
+SAPFU
+say uncle!
+sayin
+sayonara
+SCNR
+Screaming With Laughter
+Screwing Up Face In Disgust
+see-ho
+see-hos
+See-ya
+See-ya later
+See-ya Soon
+See !QUESTION I Mean?
+See !YOU or Cover Your Ass.
+See Last Mail
+See What I Mean?
+See ya
+See ya later
+See Ya or Cover Your Ass.
+See Ya Soon
+See You All Later
+See You Later, Alligator
+See You, Too
+see yous
+See Yous Later
+see yous soon
+seein
+seeya
+seeya later
+seeya soon
+SETE
+sexiest man alive
+sexiest woman alive
+SFLA
+sh-sh
+SH** Out Of Luck
+shalom
+shalom aleichem
+shalom alekhem
+shh
+shhh
+shhh!
+ship ahoy
+shush
+SICS
+sirree
+sis
+Sitting In Chair Snickering
+Situation Normal: All Fouled Up
+SLM
+Small Matter of Programming
+Smile.
+Smiling Ear To Ear
+SMOP
+snockered
+Snooze You Loose
+so-ho
+So Sure You Get The Idea
+so swell
+SOL
+sonnies
+sonsofbitch
+sonsofbitches
+Sorry, Could Not Resist
+SOS
+Speak up!
+Speaking Of Which
+stop thief
+Stressd Out Bigtime
+Stressed-out bigtime
+strewth
+struth
+Stupid Four Letter Acronym
+SUFID
+SUL
+Surpassing All Previous Foul Ups
+SWL
+SYS
+T.i.c.
+T.o.y.
+ta-ta
+ta ta
+Ta Ta For Now
+TAF
+TAFN
+TAKS
+Talk To You A While From Now
+Talk To You Later
+Talk To You Tomorrow
+TANJ
+TANSTAAFL
+tare an' ouns
+tare an ouns
+tare anouns
+TARFU
+TBD
+TBYB
+TCO
+TDM
+te-heeing
+Tears Running Down My Cheeks
+tee-hee
+tee-heed
+TFS
+TFTHAOT
+TFTT
+TGAL
+That's !DETERMINER knee slapper
+That's All For Now
+That's All, Folks!
+that's To Be Decided
+That Is Not !QUESTION I Said
+That Is Not What I Said
+the land knows
+the one writing the message is smiling
+the one writing the message is smirking
+the one writing the message is winking
+the speaker is grinning
+them some
+There's No Such Thing As A Free Lunch
+There Ain't No Justice
+There Ain't No Such Thing As A Free Lunch
+There Oughta Be A Law
+Things Are Really Fouled Up
+Think Globally, Act Locally
+Thinking Of Ya
+This Oughta Be Good
+Three Finger Salute
+THX
+TIA
+TINWIS
+TNSTAAFL
+TNTL
+TNX
+TNXE6
+To-Tell-The-Truth
+To You Too
+to your good health
+TOBAL
+TOBG
+Too Darn Many
+toodle-oo
+toodle-ood
+toodle-ooing
+toodle-oos
+Totally Stinks
+Totally Stupid Rules.
+TPTB
+TRDMC
+trick or treat
+Try Before You Buy
+Trying Not To Laugh
+Trying To Keep !DETERMINER Straight Face
+TS
+TSR
+TTBOMK
+TTFN
+TTKSF
+TTTT
+TTUL
+TTYAWFN
+TTYL
+TTYT
+Turn Your CAPS LOCK Off
+tut
+TYCLO
+TYVM
+ugly-bugly		1
+uh
+uh-huh
+uh-oh			1
+uh huh
+uh um
+uhh
+um
+um-
+um-hum
+um-yum
+um um
+ummm
+un-hunh
+unh-unh
+UOK
+very well,
+view-halloa
+view-halloo
+view halloa
+view halloo
+vum
+vums
+W.a.g.
+W.t.
+WAEF
+Wait-a-second
+wait a second here
+Want To Go Private?
+Wash My Mouth Out With Soap
+Way To Go!
+WB
+WDALYIC
+WDYMBT
+WDYT
+Welcome Back
+well why
+well,
+Well, I'll Be A Monkey's Uncle
+well, I'll be darn
+whassup?
+What Do You Mean By That?
+What Do You Think?
+What The F***?
+What the hell?
+What then now?
+What You Get Is What You Pay For
+Whatever.
+When All Else Fails
+Where No One Has Gone Before
+whew
+whew-whew
+whews
+whillikens
+Who died and left you in charge?
+Who then now?
+whoa
+whoops!
+whoops,
+whoops.
+whoops;
+why-not
+why-to
+wi-wi
+WIBAMU
+WIBNI
+Wild Assed Guess
+with a hey nonny-nonny
+Without Thinking Too Much.
+WMMOWS
+WNOHGB
+WOA
+wonderful!
+WOTAM
+Wouldn't It Be Nice If
+wow!
+WRT
+WTB
+WTF
+WTG
+WTGP
+WTH
+WTN
+WTTM
+WYGISWYPF
+XOXOXO
+y' hear
+y'll
+ya
+ya-bet
+ya-know
+ya-see
+ya bet
+ya bet your
+ya hear
+ya know
+Ya know what I mean
+ya see
+YABA
+yabet
+yackety-yack
+yackety-yak
+yackety-yakked
+yackety-yakking
+yah
+yak-yak
+yakety-yak
+yakety-yakked
+yakety-yakking
+yakity-yak
+yaknow
+yanno
+YAOTM
+yasee
+yaself
+YAUN
+yaw-haw
+YBYSA
+ye
+yea
+yea,
+yeah
+yeah-yeah
+yeah you know like
+yeahs
+yeas
+yep
+yes I did
+yes indeedy
+yes ma'm
+yes maam
+yes sir
+yes siree
+yes sirree
+yes,
+yes, I did
+Yes, I Understand
+Yes, I Will Go Private
+yessir
+Yet Another Bloody Acronym
+Yet Another Off-Topic Message
+Yet Another Unix Nerd
+YGLT
+YGTBK
+YGTI
+YGWYPF
+yins
+yinz
+yipe
+yipes
+YIU
+YIWGP
+YKWIM
+YKYARW
+YMMV
+yo
+yo-heave-ho
+yo-ho
+yo-ho-ho
+yo heave ho
+yoicks
+yoo-hoo
+yoo-hooed
+yoo-hooing
+yoo-hoos
+yoohoo
+You're Gonna Love This
+You've Got To Be Kidding
+You Bet Your Sweet A**
+you did?
+you didn't hear that from
+you don't say no to
+You Get !QUESTION You Pay For
+You Get The Idea?
+You Get What You Pay For
+you guys
+You Know You're A Redneck When
+you know...
+Your Mileage May Vary
+Your two cents
+yous
+youse
+yow
+yuk
+yuks
+yuns
+zart
+zounds
+zounds-

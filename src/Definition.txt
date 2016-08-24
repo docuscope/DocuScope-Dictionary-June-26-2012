@@ -1,0 +1,194 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX defined as
+!AUX defined to be
+!AUX the definition
+!AUX the definition of
+!AUX the official definition
+, which we define as
+a definition is
+according to some definitions
+according to the OED
+according to Webster's
+Another definition
+as meaning
+be defined as
+both meanings of the term
+by definition
+by most definitions
+by one definition
+by some definitions
+can't put down
+can be defined as
+can be defined by
+coin from
+coined from the term
+coined the term
+coined the terms
+coining from
+connotation
+connotations
+connotative meaning
+connotative meanings
+connote
+connoted
+connoted !DETERMINER
+connotes
+connoting
+definable
+definably
+define broadly
+define broadly as
+define it as
+define synonymously
+define this as
+defined as
+defined as follows:
+defined as the
+defined broadly
+defined broadly as
+defined by !DETERMINER
+defined in
+defined it as
+defined it to !PRONOUNOBJECTIVE as
+defined it to us as
+defined stipulatively
+defined synonymously
+defined this as
+defined to be
+defined to be a
+defines it as
+defines this as
+defining it as
+defining this as
+definition
+definition of
+definitions
+definitions of
+denotation
+denotations
+denote
+denoted
+denotes
+denoting
+derive from the word for
+derived from the word for
+derives from the word for
+deriving from the word for
+from some definitions
+given to or characterized by
+given to or marked by
+I'm defining
+I am defining
+I define
+in both meanings of the term
+is used to define
+is used to denote
+is used to describe
+is used to reference
+it's defined as
+let's begin by defining
+let's define
+let's start by defining
+let me define
+let us define
+let us start with a definition of
+may be defined as
+may be defined by
+mean the following:
+meaning "
+meaning of the term
+meaning the following:
+meanings of the term
+means "
+means that:
+means the following:
+means,
+means, "
+means:
+means: "
+might be defined as
+might be defined by
+must be defined as
+must be defined by
+on one definition
+on some definitions
+refer to this as
+referred to this as
+referring to this as
+refers to this as
+said about a
+said of a
+should be defined as
+should be defined by
+something used for
+symbolise
+symbolise a
+symbolise the
+symbolised
+symbolised a
+symbolised the
+symbolises
+symbolises a
+symbolises the
+symbolising
+symbolising a
+symbolising the
+symbolism for
+symbolize
+symbolize !DETERMINER
+symbolize a
+symbolize the
+symbolized
+symbolized !DETERMINER
+symbolized a
+symbolized by
+symbolized the
+symbolizes
+symbolizes !DETERMINER
+symbolizes a
+symbolizes the
+symbolizing
+symbolizing !DETERMINER
+symbolizing a
+symbolizing the
+synonym of
+synonym of the
+synonymous with
+synonymous with the
+synonyms of
+synonyms of the
+synonymy with
+termed
+termed as
+termed the
+termed to be
+the definition
+the definition !AUX
+The definition of
+The next definition
+these definitions
+this definition
+used to define a
+used to define the
+used to denote
+used to denote a
+used to denote the
+used to describe a
+used to describe the
+used to refer to a
+used to refer to the
+used to reference a
+used to reference the
+we're defining
+we !MODAL define
+we are defining
+we define
+WE HAVE DEFINED
+we need to define
+what is meant by
+which is defined as
+with this definition
+within this definition

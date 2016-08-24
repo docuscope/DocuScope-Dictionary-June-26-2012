@@ -1,0 +1,5465 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER GOAL
+!AUX !DETERMINER GOOD MATCH FOR
+!AUX !DETERMINER MATCH FOR
+!AUX !DETERMINER omen
+!AUX !DETERMINER staircase to
+!AUX about to
+!AUX aimed towards
+!AUX ambitious to
+!AUX apt to
+!AUX BENT ON
+!AUX BENT TO
+!AUX coming ahead
+!AUX coming in
+!AUX coming on
+!AUX CONSIDERING TO
+!AUX counting on
+!AUX DECIDING TO
+!AUX DESIGNED TO BE
+!AUX DESIRING TO
+!AUX directed toward
+!AUX directed towards
+!AUX driven to
+!AUX due for
+!AUX due in
+!AUX due on
+!AUX due within
+!AUX ENGAGED TO BE MARRIED
+!AUX expected in
+!AUX expected within
+!AUX EXPECTING TO
+!AUX FATHOMING TO
+!AUX FOR
+!AUX FOR !DETERMINER
+!AUX going for
+!AUX going to
+!AUX going to be
+!AUX going to be !DETERMINER
+!AUX going to get
+!AUX HASHING OVER whether TO
+!AUX heading !POSSESSIVEPRONOUN way
+!AUX here to
+!AUX IMPENDING
+!AUX IN !DETERMINER POSITION TO
+!AUX in for !DETERMINER
+!AUX in for a good time
+!AUX in for a nice time
+!AUX inclined to
+!AUX omens
+!AUX on !DETERMINER lookout for
+!AUX on !DETERMINER way to !DETERMINER future
+!AUX on !POSSESSIVEPRONOUN way
+!AUX on deck
+!AUX on the way
+!AUX ready
+!AUX ready for
+!AUX READY TO
+!AUX SEEING TO IT TO
+!AUX set to
+!AUX soon
+!AUX soon approaching
+!AUX soon to
+!AUX STILL TO COME
+!AUX sure to come
+!AUX there to
+!AUX to
+!AUX TO !READERFOCUS
+!AUX TO BE CAREFUL ABOUT
+!AUX TO BE ESTABLISHED
+!AUX TO PROVE
+!AUX TO REST ON
+!AUX UNDERSTOOD TO want
+!AUX upon us
+!AUX what !PRONOUNNOMINAL has to look forward to
+!AUX what I have to look forward to
+!AUX what we have to look forward to
+!AUX what you have to look forward to
+!BREAK GROUND FOR
+!BRING !DETERMINER forecast
+!BRING !DETERMINER forecast of
+!CALL in order to
+!CALL just to
+!CALL on !PRONOUNOBJECTIVE for
+!CALL to !DETERMINER colors
+!CALL to account
+!CALL to active duty
+!CALL to arms
+!CALL to find out
+!CALL to learn
+!CALL to order
+!CALL to quarters
+!CALL upon !PRONOUNOBJECTIVE  for
+!CALL upon !PRONOUNOBJECTIVE  to
+!CANCOULD kill for
+!CHOOSE to
+!CLEAR !DETERMINER decks for
+!CLEAR !DETERMINER path for
+!CLEAR !DETERMINER road for
+!CLEAR !DETERMINER way for
+!COME down !DETERMINER pike
+!COME STRAIGHT BACK
+!CUT OUT TO BE
+!DETERMINER !TIMEFRAME or two
+!DETERMINER ADVOCATE FOR
+!DETERMINER aim of
+!DETERMINER ambition
+!DETERMINER ambition to
+!DETERMINER ambitions
+!DETERMINER anticipated
+!DETERMINER approaching
+!DETERMINER call for
+!DETERMINER coming
+!DETERMINER coming !TIMEFRAME
+!DETERMINER coming of
+!DETERMINER commitment
+!DETERMINER commitment to
+!DETERMINER craving for
+!DETERMINER craving to
+!DETERMINER cue to
+!DETERMINER date for
+!DETERMINER date for !DETERMINER interview
+!DETERMINER date for lunch
+!DETERMINER destinies
+!DETERMINER destiny
+!DETERMINER die !AUX  cast
+!DETERMINER door to opportunity
+!DETERMINER doors to opportunity
+!DETERMINER drive to advance
+!DETERMINER eager
+!DETERMINER effort to
+!DETERMINER end of !DETERMINER rainbow
+!DETERMINER ends of !DETERMINER rainbow
+!DETERMINER entire future
+!DETERMINER entire future of
+!DETERMINER eventual
+!DETERMINER expectation that
+!DETERMINER expected
+!DETERMINER eye to
+!DETERMINER future
+!DETERMINER future about
+!DETERMINER future EVENTUALITY
+!DETERMINER future of
+!DETERMINER future with
+!DETERMINER goad for
+!DETERMINER goad to
+!DETERMINER goal
+!DETERMINER goal of
+!DETERMINER goals
+!DETERMINER goals of
+!DETERMINER HARBINGER OF THINGS TO COME
+!DETERMINER hopeful
+!DETERMINER hoping
+!DETERMINER IMPENDING
+!DETERMINER instinct to
+!DETERMINER INTENT OF
+!DETERMINER INTEREST to
+!DETERMINER ITCH FOR
+!DETERMINER ITCH TO
+!DETERMINER key to !DETERMINER future
+!DETERMINER key to opportunity
+!DETERMINER likely
+!DETERMINER lives that could be
+!DETERMINER lives that could be saved
+!DETERMINER LOW-DOWN ABOUT
+!DETERMINER matted had ended
+!DETERMINER matter was ended
+!DETERMINER MINDS to
+!DETERMINER mission of
+!DETERMINER mission to
+!DETERMINER morrow
+!DETERMINER morrow's
+!DETERMINER morrows
+!DETERMINER NOSE FOR
+!DETERMINER objective
+!DETERMINER objective !AUX to
+!DETERMINER objective of
+!DETERMINER objectives
+!DETERMINER objectives !AUX to
+!DETERMINER objectives of
+!DETERMINER omen
+!DETERMINER omen of things to come
+!DETERMINER omen of what's to come
+!DETERMINER pick for
+!DETERMINER pick to
+!DETERMINER PORTENT OF
+!DETERMINER PORTENT OF THINGS TO COME
+!DETERMINER PORTENT TO
+!DETERMINER potential for
+!DETERMINER premonition
+!DETERMINER preparation for
+!DETERMINER prime time for
+!DETERMINER projected
+!DETERMINER PROJECTIONS !AUX
+!DETERMINER PROJECTIONS LOOK
+!DETERMINER proposal
+!DETERMINER proposals
+!DETERMINER proposed
+!DETERMINER proposed division
+!DETERMINER prospect
+!DETERMINER PROSPECT OF
+!DETERMINER prospects
+!DETERMINER prospects of
+!DETERMINER REAL STICKLER FOR
+!DETERMINER REAL SUCKER FOR
+!DETERMINER search for
+!DETERMINER shape of things
+!DETERMINER shape of things ahead
+!DETERMINER shape of things to
+!DETERMINER shape of things to come
+!DETERMINER sign for
+!DETERMINER sign of
+!DETERMINER signal for
+!DETERMINER signal of
+!DETERMINER signal to
+!DETERMINER STICKLER FOR
+!DETERMINER stretch to go
+!DETERMINER STRONG ADVOCATE FOR
+!DETERMINER SUCKER FOR
+!DETERMINER SURE MARK OF
+!DETERMINER SURE SIGN OF
+!DETERMINER sweet by-and-by
+!DETERMINER tactical aim
+!DETERMINER thing for
+!DETERMINER time to
+!DETERMINER timetable for
+!DETERMINER try
+!DETERMINER TRY AT
+!DETERMINER VESTED INTEREST in
+!DETERMINER VISION OF
+!DETERMINER want for
+!DETERMINER whole future
+!DETERMINER whole future of
+!DETERMINER wished-for
+!DETERMINER WONDER ABOUT
+!DETERMINER yearning for
+!DETERMINER yearning to
+!DO !DETERMINER JOB FOR
+!DO IT FOR
+!DO IT FOR !DETERMINER
+!DO IT FOR !POSSESSIVEPRONOUN
+!DO JUST THAT FOR
+!DO THAT FOR
+!DO WIND UP
+!DO WIND UP IN
+!DROP out in order to
+!DROP out to
+!EXPECTANT to
+!FALL IN FOR
+!FALL under !PRONOUNOBJECTIVE TO
+!FEEL !DETERMINER NEED TO
+!FEEL !PRONOUNOBJECTIVE OUT TO
+!FEEL IT IN !PRONOUNOBJECTIVE BONES TO
+!FEEL LIKE HAVING TO
+!FIT !PRONOUNOBJECTIVE for
+!FIT to
+!FIX to
+!GET !DETERMINER FEEL FOR
+!GET !DETERMINER FIX ON to
+!GET !DETERMINER GRASP ABOUT
+!GET !DETERMINER HANDLE ON to
+!GET !DETERMINER REPUTATION FOR
+!GET !DETERMINER ROUGH IDEA TO
+!GET AROUND TO
+!GET IT SEWED UP TO
+!GET IT WRAPPED UP TO
+!GET ready
+!GET ready for
+!GET READY TO
+!GET set for
+!GET set for some
+!GET TO
+!GET TO TRY
+!GET up !DETERMINER steam to
+!GIVE !DETERMINER alert
+!GIVE !DETERMINER cue for
+!GIVE !DETERMINER heads-up
+!GIVE !DETERMINER heads up
+!GIVE !DETERMINER idea to
+!GIVE advanced notice
+!GIVE advanced warning
+!GIVE as good as was sent
+!GIVE ground for expecting
+!GIVE IT UP FOR
+!GIVE notice in advance
+!GIVE prospect of
+!GIVE prospects
+!GIVE protection to
+!GO for
+!GO for !DETERMINER burton
+!GO for !DETERMINER deck
+!GO forward
+!GO IN FOR
+!GO in pursuit of
+!GO in search of
+!GO TO BE
+!GO to be realized
+!GO to do
+!GO to find out
+!GO to get
+!GO to happen
+!GO TO HAVE
+!GO to occur
+!GO to show
+!GO to smash
+!GO TO WANT
+!GO to war for
+!HAVE !DETERMINER !IDEA of
+!HAVE !DETERMINER FEELING TO
+!HAVE !DETERMINER future
+!HAVE !DETERMINER future ahead
+!HAVe !DETERMINER future in
+!HAVE !DETERMINER intention
+!HAVE !DETERMINER intention of
+!HAVE !DETERMINER LOOK FOR
+!HAVE !DETERMINER MIND to
+!HAVE !DETERMINER presentiment
+!HAVE !DETERMINER real shot
+!HAVE !DETERMINER see
+!HAVE !DETERMINER URGE to
+!HAVE !POSSESSIVEPRONOUN sights on
+!HAVE !PRONOUNOBJECTIVE sights on
+!HAVE !YOU sights on
+!HAVE a forecast
+!HAVE a forecast of
+!HAVE a future
+!HAVE BEEN MUSING to
+!HAVE designs
+!HAVE DESIGNS ON
+!HAVE good prospects
+!HAVE in prospect
+!HAVE in store
+!HAVE intentions
+!HAVE intentions of
+!HAVE IT SEWED UP TO
+!HAVE IT WRAPPED UP TO
+!HAVE my sights on
+!HAVE our sights on
+!HAVE sights on
+!HAVE to see about it
+!HAVE undertaken
+!HAVE UNDERTAKEN TO
+!HEADDET coming
+!HEADDET coming !DAY
+!HEADDET coming !MODAL
+!HEADDET coming april
+!HEADDET coming august
+!HEADDET coming december
+!HEADDET coming february
+!HEADDET coming january
+!HEADDET coming july
+!HEADDET coming june
+!HEADDET coming march
+!HEADDET coming november
+!HEADDET coming october
+!HEADDET friday
+!HEADDET monday
+!HEADDET saturday
+!HEADDET sunday
+!HEADDET thursday
+!HEADDET tuesday
+!HEADDET wednesday
+!HOLD !REFLEXIVEPRONOUN in readiness
+!HOLD IT UP FOR
+!HOLD ON FOR !DETERMINER better
+!HOLD ourselves in readiness
+!HOLD out !DETERMINER expectation
+!HOLD out for !DETERMINER promise
+!HOLD out hope for
+!HOLD out hope that
+!HOLD out promise
+!INDEFINITEADDRESSEE !AUX going to be
+!INQUIREVERBING about the future
+!INQUIREVERBING about what to
+!INQUIREVERBING for the purpose
+!INQUIREVERBING HOW to
+!INQUIREVERBING on what to
+!INQUIREVERBING THAT to
+!INQUIREVERBING toward
+!KEEP something for !DETERMINER rainy day
+!LAY !DETERMINER course for
+!LAY !DETERMINER course for action
+!LAY !DETERMINER course of action
+!LEAD !DETERMINER WAY to
+!LEAD AHEAD to
+!LEARN !DETERMINER ROPES TO
+!LEARN IT BY HEART TO
+!LEARN IT BY ROTE TO
+!LIE ahead
+!LIVE in hopes
+!LOOK ahead
+!LOOK ahead to
+!LOOK ahead to be
+!LOOK FOR !DETERMINER future
+!LOOK for opportunities
+!LOOK forward
+!LOOK in !DETERMINER crystal ball
+!LOOK in !DETERMINER special light
+!LOOK in !POSSESSIVEPRONOUN crystal ball
+!LOOK in !YOU crystal ball
+!LOOK in my crystal ball
+!LOOK in our crystal ball
+!LOOK into !DETERMINER crystal ball
+!LOOK into !DETERMINER future
+!LOOK into !DETERMINER possibility
+!LOOK into !POSSESSIVEPRONOUN crystal ball
+!LOOK into !YOU crystal ball
+!LOOK into my crystal ball
+!LOOK into our crystal ball
+!LOOK SET UP TO
+!LOOK to
+!LOOK to !DETERMINER future
+!LOOK VERY LIKELY
+!MAKE !DETERMINER appointment to
+!MAKE !DETERMINER big deal to
+!MAKE !DETERMINER DELIVERY FOR
+!MAKE !DETERMINER effort to
+!MAKE !DETERMINER PICKUP FOR
+!MAKE !DETERMINER PITCH FOR
+!MAKE !DETERMINER PRACTICE TO
+!MAKE !DETERMINER prediction
+!MAKE !PRONOUNOBJECTIVE MIND UP TO
+!MAKE it !DETERMINER big deal to
+!MAKE IT !DETERMINER PRACTICE TO
+!MAKE no effort to
+!MAKE overtures to
+!MAKE preparations
+!MAKE time to
+!MAKE UP !POSSESSIVEPRONOUN MIND TO
+!MEAN FOR !PRONOUNOBJECTIVE TO
+!MEAN TO
+!MODAL ever
+!MODAL ever be
+!MODAL kill for
+!MODAL snowball into
+!MODAL soon
+!MODAL soon be
+!MOVE UP in order TO
+!MOVE up so as to
+!NUMS1TO100 !TIMEFRAME away
+!NUMS1TO100 !TIMEFRAME from
+!NUMS1TO100 !TIMEFRAME from now
+!NUMS1TO100 !TIMEFRAME hence
+!NUMS1TO100 days away
+!NUMS1TO100 days from
+!NUMS1TO100 days from now
+!NUMS1TO100 days hence
+!OPEN !DETERMINER possibility
+!OPEN !DETERMINER WAY TO
+!OPEN !POSSESSIVEPRONOUN EYES TO !DETERMINER reality
+!OPEN up !DETERMINER possibility of
+!PICK !POSSESSIVEPRONOUN brain to
+!PICK !POSSESSIVEPRONOUN brains to
+!PLAN to
+!PLAN to be
+!PLANNING to
+!PLAY for !DETERMINER anticipated
+!PLAY for !DETERMINER hoped for
+!POINT !DETERMINER way
+!POINT toward a future
+!POSSESSIVEPRONOUN COGNIZANCE ABOUT
+!POSSESSIVEPRONOUN course
+!POSSESSIVEPRONOUN crystal ball
+!POSSESSIVEPRONOUN crystal balls
+!POSSESSIVEPRONOUN goals
+!POSSESSIVEPRONOUN hope that
+!POSSESSIVEPRONOUN inclination
+!POSSESSIVEPRONOUN inclinations
+!POSSESSIVEPRONOUN intention
+!POSSESSIVEPRONOUN intentions
+!POSSESSIVEPRONOUN pick for
+!POSSESSIVEPRONOUN pick to
+!POSSESSIVEPRONOUN purpose is
+!POSSESSIVEPRONOUN purposes !AUX to
+!PRONOUNRE !PLANNING to
+!PRONOUNRE about to
+!PRONOUNRE getting ready to
+!PRONOUNRE going to
+!PROVIDE advanced notice
+!PROVIDE advanced warning
+!PROVIDE notice in advance
+!PULL fo
+!PULL strings to
+!PUT a feeler out
+!PUT aside for
+!PUT feelers on
+!PUT out !DETERMINER feeler
+!PUT out feelers
+!QUESTION choose to
+!QUESTION sought
+!QUESTION want to
+!QUESTION will decide
+!QUESTION will it happen
+!QUESTION will stand up for
+!QUESTION wish to
+!RAISE expectation
+!RAISE expectations
+!RAISE hope for
+!RAISE hope to
+!RAISE hopes for
+!RAISE hopes to
+!RAISE my hope for
+!RAISE my hope to
+!RAISE my hopes for
+!RAISE my hopes to
+!RAISE our hope for
+!RAISE our hope to
+!RAISE our hopes for
+!RAISE our hopes to
+!RAISE POSSESSIVEPRONOUN hope for
+!RAISE POSSESSIVEPRONOUN hope to
+!RAISE POSSESSIVEPRONOUN hopes for
+!RAISE POSSESSIVEPRONOUN hopes to
+!ROYALWE would just as soon not
+!ROYALWE would rather
+!ROYALWE would sooner
+!RUN for
+!RUN for election
+!RUN for office
+!RUN for reelection
+!RUN until
+!SEE !DETERMINER future
+!SEE !DETERMINER LIGHT to
+!SEE !POSSESSIVEPRONOUN WAY CLEAR to
+!SEE a run for
+!SEE ABOUT IT
+!SEE ahead
+!SEE FIT TO
+!SEE for
+!SEE in !DETERMINER crystal ball
+!SEE in !POSSESSIVEPRONOUN crystal ball
+!SEE in !YOU crystal ball
+!SEE in my crystal ball
+!SEE in our crystal ball
+!SEE into !DETERMINER crystal ball
+!SEE into !DETERMINER special light
+!SEE into !POSSESSIVEPRONOUN crystal ball
+!SEE into !YOU crystal ball
+!SEE into my crystal ball
+!SEE into our crystal ball
+!SEE it coming
+!SEE NO OBJECTION to
+!SEE out for
+!SEE the prospect
+!SEE THROUGH !PRONOUNOBJECTIVE to
+!SEE to
+!SEE TO IT
+!SEE what !YOU can do
+!SEE what can be done
+!SEE what could be done
+!SEE what he can do
+!SEE what I can do
+!SEE what she can do
+!SEE what they can do
+!SEE what we can do
+!SEE WHETHER to
+!SEND away for
+!SEND down for
+!SEND for
+!SEND FOR !DETERMINER
+!SEND on !DETERMINER mission
+!SEND out a few feelers
+!SEND out feelers
+!SEND out some feelers
+!SEND up !DETERMINER trial balloon
+!SET !DETERMINER date for
+!SET !DETERMINER date to meet to be
+!SET !DETERMINER place
+!SET !DETERMINER scene for
+!SET !DETERMINER time of meeting to be
+!SET !DETERMINER trial date
+!SET !DETERMINER trial date for
+!SET !DETERMINER upcoming date at
+!SET !POSSESSIVEPRONOUN cap at
+!SET !POSSESSIVEPRONOUN cap for
+!SET !POSSESSIVEPRONOUN compass for
+!SET !POSSESSIVEPRONOUN course for
+!SET !POSSESSIVEPRONOUN FUTURE SIGHTS ON
+!SET !POSSESSIVEPRONOUN sights
+!SET !POSSESSIVEPRONOUN sights on
+!SET !PRONOUNOBJECTIVE down for
+!SET !PRONOUNOBJECTIVE up to
+!SET !YOU down for
+!SET !YOU sights
+!SET !YOU sights on
+!SET down for
+!SET down for hearing
+!SET for
+!SET forth to
+!SET forward to
+!SET in place for
+!SET IT UP for
+!SET me down for
+!SET my sights on a future
+!SET our cap at
+!SET our cap for
+!SET our compass for
+!SET our course for
+!SET our sights
+!SET our sights on
+!SET OUT TO
+!SET out to reach
+!SET out with !DETERMINER intention
+!SET out with !DETERMINER intention to
+!SET purpose
+!SET purposes
+!SET sights on
+!SET to be
+!SET to come
+!SET to do
+!SET to have
+!SET up !DETERMINER program
+!SET UP TO
+!SET us down for
+!SETTLE !DETERMINER date
+!SETTLE !DETERMINER date at
+!SETTLE !DETERMINER date for
+!TAKE !DETERMINER INITIATIVE TO
+!TAKE !DETERMINER shot at
+!TAKE !DETERMINER TROUBLE TO
+!TAKE !PRONOUNOBJECTIVE for
+!TAKE aim
+!TAKE aim at
+!TAKE for !DETERMINER future
+!TAKE for future
+!TAKE STEPS TO
+!TAKE STEPS TO PREVENT
+!TIMEFRAME away
+!TRY !DETERMINER
+!TRY !POSSESSIVEPRONOUN
+!TRY !POSSESSIVEPRONOUN LUCK AT
+!TRY for
+!TRY for !DETERMINER miracle
+!TRY for point
+!TRY in
+!TRY it
+!TRY it for
+!TRY it for size
+!TRY it on for
+!TRY my
+!TRY our
+!TRY OUT FOR
+!TRY to
+!TRY to link
+!TRY to link !HEADDET to
+!TRY to raise
+!WAIT FOR !DETERMINER
+!WAIT for !DETERMINER !TIMEFRAME
+!WANT TO RETURN TO
+!WORK hard in order to
+!WORK hard to
+!WORK toward
+!WORK towards
+!YOU !ROUTINEACT would try to
+!YOU inclination
+!YOU inclinations
+!YOU intention
+!YOU intentions
+, for !DETERMINER experience,
+, for !DETERMINER purpose of
+, in order to
+, in time
+, to heighten
+, with time
+, would chart !DETERMINER course
+. by !DAY
+. by !HEADDET date
+. for !DETERMINER approaching
+. for !DETERMINER coming
+. given !DETERMINER challenge
+. given !DETERMINER challenge to
+. given !DETERMINER chance
+. given !DETERMINER chance to
+. given !DETERMINER opportunity
+. given !DETERMINER opportunity to
+. in !DETERMINER future
+. in time,
+. to !HEADDET end
+. what may turn out to be
+a lot ahead
+about to
+about to be
+about to commence
+about to happen
+ACQUIRE !DETERMINER TASTE FOR
+ACQUIRED !DETERMINER TASTE FOR
+ACQUIRES !DETERMINER TASTE FOR
+ACQUIRING !DETERMINER TASTE FOR
+ACQURING !DETERMINER TASTE FOR
+adumbrate
+adumbrated
+adumbrates
+adumbrating
+adumbration
+adumbrations
+adumbrative
+adumbratively
+aeromancy
+aforethought
+aftertime
+aftertimes
+ahead
+ahead to !DETERMINER time
+ahead to !DETERMINER time that
+ahead to !DETERMINER time when
+aim
+aim !DETERMINER
+aim at
+aim for
+aim on
+aim to
+aim toward
+aim towards
+aimed
+aimed !DETERMINER
+aimed at
+aimed for
+aimed on
+aimed to
+aimed toward
+aimed towards
+aiming
+aiming !DETERMINER
+aiming at
+aiming for
+aiming on
+aiming to
+aiming toward
+aiming towards
+aims
+aims !DETERMINER
+aims at
+aims for
+aims on
+aims to
+AIMS TO PROVIDE !DETERMINER
+aims toward
+aims towards
+airing !DAY
+airing next !DAY
+airing on !DAY
+airing soon
+airy hope
+airy hopes
+alarum of
+alarums of
+all hope
+all hopes
+all set
+all set for
+all set to
+all set to be
+all set to come
+all set to do
+all set to have
+all set up
+all set up to
+ALL WOULD
+also hope he
+also hope it
+also hope she
+also hope that
+also hope they
+ALSO UNDERTAKEN TO
+am here to
+am inclined
+am inclined toward
+am inclined towards
+AM READY FOR
+ambition
+ambitioning
+ambitions
+ambitious
+ambitious to
+ambitiously
+ambitiousness
+and one day
+angle to
+angled to
+angles to
+angling to
+annunciate
+annunciated
+annunciates
+annunciating
+anon
+another crack
+another go
+another shot
+another try
+antepast
+antepasts
+anticipant
+anticipants
+anticipatable
+ANTICIPATE
+ANTICIPATE !DETERMINER
+ANTICIPATE !POSSESSIVEPRONOUN
+anticipated
+ANTICIPATED !DETERMINER
+ANTICIPATED !POSSESSIVEPRONOUN
+ANTICIPATES
+ANTICIPATES !DETERMINER
+ANTICIPATES !POSSESSIVEPRONOUN
+ANTICIPATING
+ANTICIPATING !DETERMINER
+ANTICIPATING !POSSESSIVEPRONOUN
+anticipation
+anticipations
+anticipative
+anticipatively
+anticipator
+anticipatorily
+anticipators
+anticipatory
+anxious to know
+any !TIMEFRAME
+apocalypse
+apocalypses
+apocalyptic
+apocalyptical
+apocalyptically
+appeal for
+appeal for !DETERMINER
+appeal to !DETERMINER
+appeal to !DETERMINER country
+appeal to !DETERMINER higher court
+appeal to !DETERMINER law
+appeal to !DETERMINER sword
+appeal to arms
+appealed for
+appealed for !DETERMINER
+appealed to !DETERMINER
+appealed to !DETERMINER country
+appealed to !DETERMINER higher court
+appealed to !DETERMINER law
+appealed to !DETERMINER sword
+appealed to arms
+appealing for
+appealing for !DETERMINER
+appealing to !DETERMINER
+appealing to !DETERMINER country
+appealing to !DETERMINER higher court
+appealing to !DETERMINER law
+appealing to !DETERMINER sword
+appealing to arms
+appeals for
+appeals to !DETERMINER
+appeals to !DETERMINER country
+appeals to !DETERMINER higher court
+appeals to !DETERMINER law
+appeals to !DETERMINER sword
+appeals to arms
+APPEARS VERY LIKELY
+appeasl for !DETERMINER
+application for
+application for college
+application for retrial
+applied for
+applies for
+apply for
+applying for
+APPRECIATED THAT TO
+APPREHEND THAT TO
+APPREHENDED THAT TO
+APPREHENDING THAT TO
+APPREHENDS THAT TO
+approaching
+approaching retirement
+approaching retirements
+apt to
+arm !PRONOUNOBJECTIVE for
+armed !PRONOUNOBJECTIVE for
+arming !PRONOUNOBJECTIVE for
+arms !PRONOUNOBJECTIVE for
+aroused to
+arrange !DETERMINER time
+arrange for
+arrange for !DAY
+ARRANGE TO
+arranged !DETERMINER time
+arranged for
+arranged for !DAY
+ARRANGED TO
+arranges !DETERMINER time
+arranges for
+arranges for !DAY
+ARRANGES TO
+arranging !DETERMINER time
+ARRANGING FOR
+arranging for !DAY
+ARRANGING TO
+as !DETERMINER likely
+AS !DETERMINER MEANS TO
+as !DETERMINER means to !DETERMINER
+as !DETERMINER mode to
+as !DETERMINER possible
+as !DETERMINER way to
+AS !DETERMINER WAY TO !DETERMINER coming
+AS INCENTIVE FOR
+as preparation for
+as preparatory
+as preparatory for
+ASCERTAIN TO
+ASCERTAINED TO
+ASCERTAINING TO
+ASCERTAINS TO
+aspirant
+aspirants
+aspiration
+aspiration for
+aspirations
+aspirations for
+aspire
+aspire after
+ASPIRE TO
+aspired
+aspired after
+ASPIRED TO
+aspires
+aspires after
+ASPIRES TO
+aspiring
+aspiring after
+ASPIRING TO
+assay to
+assayed to
+assaying to
+assays to
+at !DETERMINER appropriate time
+at !DETERMINER convenient time
+at !DETERMINER end of !DETERMINER rainbow
+at !DETERMINER ends of !DETERMINER rainbow
+at !DETERMINER future venture
+at !DETERMINER mutually convenient time
+at !DETERMINER proper time
+at !DETERMINER suitable time
+at !DETERMINER time of !DETERMINER next
+at !DETERMINER time of mutual convenience
+AT !DETERMINER TIME TO BE ANNOUNCED
+at !POSSESSIVEPRONOUN earliest convenience
+at any future date
+at any future time
+at any moment
+at any time in the future
+at my earliest convenience
+at our earliest convenience
+at our mutual convenience
+at some other time
+attempt
+attempt to
+attemptable
+attempted
+attempted !DETERMINER
+attempted to
+attempter
+attempters
+attempting
+attempting to
+attempts
+attempts to
+audition
+audition for
+auditioned
+auditioned for
+auditioning
+auditioning for
+auditions
+auditions for
+AUGUR
+augural
+augured
+auguries
+auguring
+AUGURS
+augury
+auspicate
+auspicated
+auspicates
+auspicating
+await
+await ahead
+awaited
+awaited ahead
+awaiting
+awaiting ahead
+awaits
+awaits ahead
+AWARENESS OF !QUESTION TO
+AWARENESS THAT TO
+bad omens
+bank on
+banked on
+banking on
+banks on
+bargain for
+bargained for
+bargaining for
+bargains for
+based on !DETERMINER objective
+based on !DETERMINER objective to
+be !DETERMINER omen
+BE ABLE TO DO
+BE ABLE TO GET
+BE ABLE TO HAVE
+BE ABLE TO MAKE
+BE ABLE TO PLAN
+BE ABLE TO SEE
+be about to
+BE COGNIZANT TO
+be inclined to
+be looking to
+BE PROACTIVE
+be ready
+be ready for
+BE READY TO
+be sure that we
+be sure that we !CONTINGENTMODAL
+be sure that we !MODAL
+beacon !DETERMINER
+beaconed
+beaconing
+beacons !DETERMINER
+BECOME KEY TO
+begin soon
+beginning soon
+begins soon
+BEING UNDERSTOOD TO
+BELIEVE THAT TO
+bellwether
+bellwethers
+bent on
+BENT ON DOING
+BENT ON GOING
+BENT ON GOING TO
+bent to
+BENT TO BE
+BENT TO DO
+BENT TO GO
+bents to
+bet on spec
+bet on speculation
+bet that
+bet upon
+bets on spec
+bets on speculation
+bets upon
+betted
+betted that
+betting on spec
+betting on speculation
+betting upon
+bid to
+bidding to
+bids to
+bill as
+billed as
+billing as
+bills as
+bird augury
+BODE
+BODE ILL FOR
+BODE WELL FOR
+BODED
+BODES
+BODING
+bodings
+bone up for
+BONE UP TO
+boned up for
+BONED UP TO
+bones up for
+BONES UP TO
+BONING UP TO
+born for
+BOUND FOR
+bound soon
+BOUND soon TO COME
+bound soon to happen
+bound soon to occur
+brace !PRONOUNOBJECTIVE for
+braced !PRONOUNOBJECTIVE for
+braces !PRONOUNOBJECTIVE for
+bracing !PRONOUNOBJECTIVE for
+bride-to-be
+bring !HEADDET back up
+bring back up
+bring in to show
+bring it back up
+BRING IT HOME TO !PRONOUNOBJECTIVE TO
+bring that back up
+BRING TO LIGHT TO
+bringing !HEADDET back up
+bringing back up
+bringing in order to
+bringing it back up
+BRINGING IT HOME TO
+bringing that back up
+BRINGING TO LIGHT TO
+brings !HEADDET back up
+brings back up
+brings in order to
+brings it back up
+BRINGS IT HOME THAT TO
+brings that back up
+BRINGS TO LIGHT TO
+brought in in order to
+BROUGHT IT HOME TO !PRONOUNOBJECTIVE TO
+BROUGHT TO LIGHT TO
+brush up on
+brushes up on
+brushing up on
+BUOYED SPIRITS TO
+by-and-by
+by !HEADDET date
+by !HEADDET time next
+by !HEADDET time next !TIMEFRAME
+by that date
+calculated to
+campaign promises
+can't wait to
+care to
+cared to
+cares to
+caring to
+catbird seat
+catbird seats
+changes to be made in time for
+chart !DETERMINER course
+charted !DETERMINER course
+charting !DETERMINER course
+charts !DETERMINER course
+chase down opportunities
+chased down opportunities
+chases down opportunities
+chasing down opporunities
+CHOOSE TO
+CHOOSES TO
+CHOOSING TO
+chorale prelude
+CHOSE TO
+chosen to
+clear !DETERMINER way for
+cleared !DETERMINER way for
+clearing !DETERMINER way for
+clears !DETERMINER way for
+come DOWN !DETERMINER PIKE
+comes down !DETERMINER PIKE
+comes in !MODAL
+comes in april
+comes in august
+comes in december
+comes in february
+comes in january
+comes in july
+comes in june
+comes in march
+comes in november
+comes in october
+comes in september
+comes on friday
+comes on monday
+comes on saturday
+comes on sunday
+comes on thursday
+comes on tuesday
+comes on wednesday
+comes right BACK
+comes straight back
+comes TO STAND FOR
+comes UP WITH !DETERMINER IDEA TO
+comes wednesday
+coming-forth
+coming-on
+coming !DAY
+coming !MODAL
+coming !MONTH
+coming !MONTH !RANKNUMBER
+coming april
+coming august
+coming december
+coming DOWN !DETERMINER PIKE
+coming february
+coming friday
+coming in !MODAL
+coming in !MONTH
+coming in april
+coming in august
+coming in december
+coming in february
+coming in january
+coming in july
+coming in june
+coming in march
+coming in november
+coming in october
+coming in september
+coming january
+coming july
+coming june
+coming march
+coming monday
+coming next !DAY
+coming next !MONTH
+coming november
+coming october
+coming on !DETERMINER next
+coming on friday
+coming on monday
+coming on saturday
+coming on sunday
+coming on thursday
+coming on tuesday
+coming on wednesday
+coming saturday
+coming september
+coming STRAIGHT BACK
+coming sunday
+coming thursday
+coming time
+coming times
+coming tuesday
+coming UP WITH !DETERMINER IDEA TO
+coming wednesday
+commit !PRONOUNOBJECTIVE to a future
+commit !REFLEXIVEPRONOUN
+commit !REFLEXIVEPRONOUN to
+commit yourself
+commit yourself to
+commits !PRONOUNOBJECTIVE to
+commits !PRONOUNOBJECTIVE to a future
+commits !REFLEXIVEPRONOUN to
+commits to
+committed !PRONOUNOBJECTIVE to
+committed !PRONOUNOBJECTIVE to a future
+committed !REFLEXIVEPRONOUN
+committed !REFLEXIVEPRONOUN to
+committed to
+committing !PRONOUNOBJECTIVE to
+committing !PRONOUNOBJECTIVE to a future
+committing !REFLEXIVEPRONOUN
+committing !REFLEXIVEPRONOUN to
+committing to
+contemplates !DETERMINER future
+contemplates !POSSESSIVEPRONOUN future
+contemplating !DETERMINER future
+contemplating !POSSESSIVEPRONOUN future
+contributions for
+contributions toward
+contrive !DETERMINER
+contrive to
+contrived to
+contrives to
+contriving !DETERMINER
+contriving to
+count down to
+counted down to
+counted on
+counting down to
+counting on
+counts down to
+course ahead
+course aheads
+course of things to come
+course of time to come
+crave for
+craved for
+craves for
+craving for
+create !DETERMINER place
+created !DETERMINER place
+creates !DETERMINER place
+creating !DETERMINER place
+cross !YOU heart
+cross !YOU heart and hope to die
+crossed fingers
+crossroads
+crusade for
+crusaded for !DETERMINER
+crusades for
+crusading for
+cue to
+cued to
+cueing to
+cues to
+curtain call
+curtain calls
+date to
+dates to
+DAWN ON to
+DAWNED ON to
+DAWNING ON to
+DAWNS ON to
+DAY AFTER TOMMORROW
+death-divining
+DECIDE ON to
+DECIDe THAT TO
+DECIDE to
+DECIDED ON to
+DECIDED THAT to
+DECIDED to
+DECIDES that to
+DECIDES to
+DECIDING ON to
+DECIDING THAT to
+DECIDING to
+DEEM IT NECESSARY to
+DEEM IT TO BE NECESSARY to
+DEEM IT TO BE to
+DEEM THAT to
+DEEM to
+DEEMED IT NECESSARY to
+DEEMED IT TO BE NECESSARY to
+DEEMED IT TO BE to
+DEEMED THAT to
+DEEMED to
+DEEMING IT NECESSARY to
+DEEMING IT TO BE NECESSARY to
+DEEMING IT TO BE to
+DEEMING THAT to
+DEEMING to
+DEEMS IT NECESSARY to
+DEEMS IT TO BE NECESSARY to
+DEEMS IT TO BE to
+DEEMS THAT to
+DEEMS to
+deep future
+defer to !DETERMINER  subsequent
+defer to !DETERMINER next
+defer to later
+defer to next
+defer to subsequent
+deferment
+deferments
+deferrable
+deferral
+deferrals
+deferred to !DETERMINER  subsequent
+deferred to !DETERMINER next
+deferred to later
+deferred to next
+deferred to subsequent
+deferring to !DETERMINER  subsequent
+deferring to !DETERMINER next
+deferring to later
+deferring to next
+deferring to subsequent
+defers to !DETERMINER  subsequent
+defers to !DETERMINER next
+defers to later
+defers to next
+defers to subsequent
+deliberant
+deliberants
+DELIBERATE
+DELIBERATED
+DELIBERATELY
+deliberateness
+DELIBERATES
+DELIBERATING
+deliberation
+deliberations
+deliberative
+deliberativeness
+delve for
+delved for
+delves for
+delving for
+demand for
+demands for
+DEPEND FOR !POSSESSIVEPRONOUN
+DEPENDS FOR !POSSESSIVEPRONOUN
+DESCRIED to
+DESCRIES to
+DESCRY to
+DESCRYING to
+DESERVE TO BE to
+DESERVED TO BE to
+DESERVES TO BE to
+DESERVING TO BE to
+desiderative of
+desiderative toward
+desideratives of
+design to
+designate to
+designated to
+designates to
+designating to
+designed to
+designed to hold
+designedly
+designing
+designing to
+designingly
+designs to
+DESIRE THAT to
+DESIRED THAT to
+DESIRED to
+DESIRED TO KNOW to
+DESIRES THAT to
+destination
+destinations
+destine
+destined
+DESTINED TO
+DESTINED to !DETERMINER
+destines
+destinies
+destining
+destiny
+DETECT THAT to
+DETECTED THAT to
+DETECTING THAT to
+DETECTING to
+DETECTS THAT to
+DETECTS to
+DEVELOPMENT TOWARD !DETERMINER
+dies funestis
+diplomatic mission
+diplomatic missions
+DISCERN to
+DISCERNS to
+discussed as !DETERMINER likely
+discussed as !DETERMINER possible
+distant future
+distant prospect
+divination of future
+divinations of future
+divinatory
+divine future
+divine that
+divined
+divined future
+divined that
+diviner
+diviners
+divines
+divines future
+divines that
+divining
+divining future
+divining that
+do not wish to
+docket
+docketed
+docketing
+dockets
+docking plan
+docking plans
+does not wish to
+down-!DETERMINER-line
+down-to-dated
+dream about !DETERMINER time
+dreaming about !DETERMINER time
+dreams about !DETERMINER time
+dreams and hopes
+dreamt about !DETERMINER time
+driven to dream about
+driven to find !DETERMINER
+driven to search for
+driven to seek
+drumbeat for
+drumbeating for
+drumbeats for
+due course
+due date
+due dates
+due for
+during !DETERMINER coming !TIMEFRAME
+eagerly-anticipated
+eagerly expected
+earliest convenience
+earnests
+effort to
+efforted to
+efforting to
+efforts to
+end in sight
+end in view
+end soon
+endeavor
+endeavor to
+endeavored
+endeavored to
+endeavoring
+endeavoring to
+endeavors
+endeavors to
+ending soon
+ends soon
+ensure that to
+ensured that to
+ensures that to
+ensuring that to
+ENTER !POSSESSIVEPRONOUN MIND to
+ENTER !POSSESSIVEPRONOUN MINDS to
+ENTERED !POSSESSIVEPRONOUN MIND to
+ENTERED !POSSESSIVEPRONOUN MINDS to
+ENTERING !POSSESSIVEPRONOUN MIND to
+ENTERING !POSSESSIVEPRONOUN MINDS to
+enterprise to
+enterprised to
+enterprises to
+enterprising to
+ENTERS !POSSESSIVEPRONOUN MIND to
+ENTERS !POSSESSIVEPRONOUN MINDS to
+ENTERTAIN !DETERMINER IDEA to
+ENTERTAINED !DETERMINER IDEA to
+ENTERTAINING !DETERMINER IDEA to
+ENTERTAINS !DETERMINER IDEA to
+envisage
+envisaged
+envisagement
+envisages
+envisaging
+envision
+envisioned
+envisioning
+envisionments
+envisions
+equip to
+equipped to
+equipping to
+equips to
+ERE !DETERMINER
+ere long
+erelong
+escalator plan
+escalator plans
+ESPIES to
+ESPY to
+ESPYING to
+essay to
+essayed
+essayed to
+essaying
+essaying to
+essays to
+essential for
+essentials for
+ESTIMATE THAT to
+ESTIMATE to
+ESTIMATED THAT to
+ESTIMATES THAT to
+ESTIMATES to
+ESTIMATING THAT to
+ESTIMATING to
+EVALUATE WHETHER to
+EVALUATES WHETHER to
+EVALUATING WHETHER to
+EVENTUALITY THAT
+EXAMINE !DETERMINER to
+EXAMINE HOW to
+EXAMINE to
+EXAMINED !DETERMINER to
+EXAMINER to
+EXAMINERS to
+EXAMINES !DETERMINER to
+EXAMINES to
+exegi monumentum aere perennius
+expect
+expect !DETERMINER baby
+expect !DETERMINER child
+EXPECT !DETERMINER TIME WHEN
+expect it of
+expect of
+EXPECT THAT
+expect that sooner or later
+EXPECT THAT to
+EXPECT TO
+expectable
+expectably
+expectance
+expectancies
+expectancy
+expectant
+expectant treatment
+expectant treatments
+expectant waiting
+expectant waitings
+expectantly
+expectants
+EXPECTATION
+expectation neuroses
+expectation neurosis
+expectation of life
+EXPECTATION THAT
+EXPECTATION THAT to
+EXPECTATION TO
+EXPECTATIONS
+expectations of life
+EXPECTATIONS THAT
+EXPECTATIONS THAT to
+EXPECTATIONS TO
+expectative
+EXPECTED
+expected !DETERMINER baby
+expected !DETERMINER child
+expected !DETERMINER time when
+expected it of
+expected nothing
+expected of
+EXPECTED THAT SOONER OR LATER
+EXPECTED TO
+expected value
+expected values
+EXPECTING
+EXPECTING !DETERMINER BABY
+EXPECTING !DETERMINER CHILD
+expecting !DETERMINER time when
+expecting it of
+expecting of
+EXPECTING THAT
+expecting that sooner or later
+EXPECTING THAT to
+EXPECTING TO
+EXPECTS
+expects !DETERMINER baby
+expects !DETERMINER child
+expects !DETERMINER time when
+expects it of
+expects of
+EXPECTS THAT
+expects that sooner or later
+EXPECTS THAT to
+EXPECTS to
+exploratory examination
+exploratory examinations
+exploratory operation
+exploratory operations
+EXPRESSED CURIOSITY ABOUT to
+extended forecast
+extended future
+eye to
+fain to
+fair expectation
+fair expectations
+fair prospect
+FALLEN IN FOR
+FALLEN in with !PRONOUNOBJECTIVE for
+FALLEN under !PRONOUNOBJECTIVE TO
+FANCIFUL to
+FANTASY !AUX to
+FANTASY to
+far-horizoned
+far-looking
+far-looming
+far-projecting
+far-seen
+far-sought
+far horizons
+far in !DETERMINER future
+far into !DETERMINER future
+far seer
+far seers
+fate-bowed
+fate-denouncing
+fate-dogged
+fate-environed
+fate-foretelling
+fate-furrowed
+fate-menaced
+fate-scorning
+fate-stricken
+fate line
+fate worse than death
+fateful future
+Father-to-be
+Fathers-to-be
+FATHOM HOW to
+FATHOM THAT to
+FATHOM to
+FATHOMED HOW to
+FATHOMED THAT to
+FATHOMED to
+FATHOMING HOW to
+FATHOMING THAT to
+FATHOMING to
+FATHOMS HOW to
+FATHOMS THAT to
+FATHOMS to
+fatidic
+fatidical
+FAVORITE to
+FAVORITE to !DETERMINER
+feeler
+feelers
+FERRET OUT OF !PRONOUNOBJECTIVE to
+FERRET OUT to
+FERRETED OUT OF !PRONOUNOBJECTIVE to
+FERRETING OUT OF !PRONOUNOBJECTIVE to
+FERRETING OUT to
+FERRETS OUT OF !PRONOUNOBJECTIVE to
+FERRETS OUT to
+FIGURE !PRONOUNOBJECTIVE OUT to
+FIGURE ON to
+figure out !DETERMINER way
+FIGURE OUT HOW to
+FIGURE OUT to
+FIGURE to
+figured out !DETERMINER way
+FIGURED OUT to
+FIGURED to
+FIGURES !PRONOUNOBJECTIVE OUT to
+FIGURES ON to
+figures out !DETERMINER way
+FIGURES OUT HOW to
+FIGURES OUT to
+FIGURES to
+FIGURING !PRONOUNOBJECTIVE OUT to
+FIGURING IN to
+FIGURING ON to
+figuring out !DETERMINER way
+FIGURING OUT HOW to
+FIGURING OUT to
+FIGURING to
+FILL !PRONOUNOBJECTIVE IN to
+FILLING !PRONOUNOBJECTIVE IN to
+FILLS !PRONOUNOBJECTIVE IN to
+FINDING !PRONOUNOBJECTIVE to
+FINDING IT OUT to
+FINDS !PRONOUNOBJECTIVE to
+FINDS IT OUT to
+first step toward
+first step towards
+first steps toward
+first steps towards
+fish for
+fish for !DETERMINER
+fish to fry
+fished for
+fished for !DETERMINER
+fishes for
+fishes for !DETERMINER
+fishing for
+fishing for !DETERMINER
+five-year plan
+five-year plans
+FIXED ON to
+FIXED to
+FIXING TO
+flight plan
+flight plans
+FLIGHTS OF !DETERMINER IMAGINATION to
+FLIGHTS OF FANCY to
+FLIRT WITH !DETERMINER IDEA to
+FLIRTED WITH !DETERMINER IDEA to
+FLIRTING WITH !DETERMINER IDEA to
+FLIRTS WITH !DETERMINER IDEA to
+floor plan
+floor plans
+FLUMMOXED HOW to
+for-to
+for !DAY
+for !DETERMINER agreement
+for !DETERMINER answer
+for !DETERMINER appointment
+for !DETERMINER approaching
+for !DETERMINER coming
+for !DETERMINER coming !TIMEFRAME
+for !DETERMINER compact
+for !DETERMINER contract
+for !DETERMINER day ahead
+for !DETERMINER days ahead
+for !DETERMINER dissemination
+for !DETERMINER effect of
+for !DETERMINER express purpose
+for !DETERMINER express purposes
+for !DETERMINER foreseeable
+for !DETERMINER foreseeable future
+for !DETERMINER future
+for !DETERMINER interest
+for !DETERMINER list of
+FOR !DETERMINER LIVING
+for !DETERMINER long run
+for !DETERMINER miracle
+for !DETERMINER next
+for !DETERMINER next !TIMEFRAME
+for !DETERMINER next round
+FOR !DETERMINER PRESENT and beyond
+FOR !DETERMINER PURPOSE OF
+FOR !DETERMINER PURPOSES
+FOR !DETERMINER PURPOSES OF
+FOR !DETERMINER PURPOSES OF !HEADDET
+FOR !DETERMINER PURPOSES OF !HEADDET STUDY
+for !DETERMINER rainy day
+for !DETERMINER resolution
+for !DETERMINER rest of !POSSESSIVEPRONOUN life
+for !DETERMINER rest of !POSSESSIVEPRONOUN lives
+for !DETERMINER rest of my life
+for !DETERMINER rest of our lives
+for !DETERMINER settlement
+for !DETERMINER solution
+for !DETERMINER support
+for !DETERMINER treaty
+for !DETERMINER understanding
+FOR !DETERMINER WHILE LONGER
+for !POSSESSIVEPRONOUN coming birthday
+for !POSSESSIVEPRONOUN future
+for !POSSESSIVEPRONOUN futures
+for !POSSESSIVEPRONOUN gain
+for !POSSESSIVEPRONOUN or !POSSESSIVEPRONOUN gain
+for !POSSESSIVEPRONOUN or !POSSESSIVEPRONOUN personal gain
+FOR !POSSESSIVEPRONOUN OWN PART
+for !POSSESSIVEPRONOUN personal gain
+for a long time to come
+for advice
+for all !DETERMINER promise
+for all !POSSESSIVEPRONOUN promise
+for all !YOU promise
+for all its promise
+for all my promise
+for all our promise
+for another !TIMEFRAME
+for any end
+for attention
+for breakfast
+for brunch
+for comfort
+for coming
+for days to come
+for decades to come
+for dinner
+for emphasis
+for expecting
+for food
+for friday's
+for further
+for further discussion
+for further discussions
+for future
+for gain
+for graduate school
+for graduate study
+for lists of
+for lodging
+for lunch
+for many days to come
+for many months to come
+for many weeks to come
+for many years to come
+for miracles
+for monday's
+for money
+for months to come
+for my future
+for my futures
+for NEXT !TIMEFRAME
+for NEXT AUTUMN
+for NEXT FALL
+for NEXT SPRING
+for NEXT SUMMER
+for NEXT WINTER
+for NEXT YEAR
+for opportunities
+for opportunity
+for our future
+for our futures
+for personal development
+for personal growth
+for promotion
+For quite some time
+for rest
+for retirement
+for saturday's
+for snacking
+for snacks
+for success
+for sunday's
+for supper
+for those who want to
+for those who will
+for thursday's
+for to
+for tommorrow
+for tuesday's
+for undergraduate school
+for undergraduate study
+for vacation
+for wednesday's
+for weeks to come
+FOR WHOSE BENEFIT
+for years to come
+forearm herself
+forearm himself
+forearm themselves
+forearmed
+forearming
+forebode
+foreboded
+forebodes
+forecast
+FORECAST !DETERMINER FUTURE
+forecasted
+forecasted !DETERMINER
+FORECASTED !DETERMINER FUTURE
+FORECASTED AHEAD
+forecasted change
+forecasted changes
+FORECASTED THAT
+forecaster
+forecasters
+FORECASTING
+FORECASTING !DETERMINER
+FORECASTING !DETERMINER FUTURE
+FORECASTING AHEAD
+forecasts
+FORECASTS !DETERMINER
+FORECASTS !DETERMINER FUTURE
+FORECASTS AHEAD
+foreglimpse
+foreglimpsed
+foreglimpsing
+forelglimpes
+forepleasure
+forepleasures
+foresaw
+foresee
+foreseeable
+foreseeable future
+foreseeing
+foreseen
+foreseer
+foreseers
+foresees
+foreshadow
+FORESHADOWED
+foreshadower
+foreshadowers
+FORESHADOWING
+foreshadowing in
+foreshadowings in
+foreshadows
+foreshock
+foreshocks
+foreshow
+foreshowed
+foreshowing
+foreshows
+foresights
+forestall
+forestalled
+forestaller
+forestallers
+forestalling
+forestallment
+forestalls
+foretaste
+foretaste of
+foretasted
+foretastes
+foretastes of
+foretasting
+foretell
+foreteller
+foretellers
+foretelling
+foretells
+forethought
+forethoughtful
+forethoughts
+foretoken
+foretokened
+foretokening
+foretokens
+foretold
+forewarn
+forewarned
+forewarned !DETERMINER
+forewarning
+forewarning symptom
+forewarning symptoms
+forewarnings
+forewarns
+foreword
+forewords
+forge ahead
+forged ahead
+forges ahead
+forging ahead
+FORM !DETERMINER OPINION to
+FORMED !DETERMINER OPINION to
+FORMING !DETERMINER OPINION to
+FORMS !DETERMINER OPINION to
+forseeing
+forthcoming
+fortune
+fortune-telling
+fortuned
+fortunes
+fortuneteller
+fortunetellers
+fortunetelling
+forward-looking
+forward look into
+forward look toward
+forward looking
+FOUND !PRONOUNOBJECTIVE to
+FOUND IT OUT to
+from !HEADDET !TIMEFRAME onward
+from !HEADDET !TIMEFRAME onwards
+from !HEADDET day forward
+from !HEADDET day on
+from !HEADDET moment on
+from !HEADDET period on
+FROM !HEADDET POINT FORWARD
+from !HEADDET point on
+from !HEADDET time forward
+from !HEADDET time into the foreseeable future
+from !HEADDET time into the future
+from !HEADDET time on
+from now
+from now on
+from that !TIMEFRAME onward
+from that !TIMEFRAME onwards
+from then on
+FULLY ABSORBED IN THOUGHT to
+fun-seeking
+fun seeking
+further action
+further actions
+further into !DETERMINER future
+future
+future-minded
+future age
+future ages
+future business
+future date
+future dates
+future decade
+future decades
+future event
+future events
+future generation
+future generations
+future grain
+future grains
+future life
+future lives
+future of
+future option
+future options
+future price
+future prices
+future prospect
+future prospects
+future state
+future states
+future time
+future times
+future venture
+future ventures
+futures
+futures contract
+futures contracts
+futures of
+futurism
+futurist
+futuristic
+futuristically
+futurists
+futurities
+futurity
+futurologist
+futurologists
+futurology
+gad-flies
+gad-fly
+gad flies
+gad fly
+gale warning
+gale warnings
+gambit
+gambits
+game plan
+game plans
+gate to
+gates to
+gateway to
+gateways to
+GATHERED !DETERMINER CASE FOR
+GATHERING !DETERMINER CASE FOR
+gear !PRONOUNOBJECTIVE to
+GEAR !PRONOUNOBJECTIVE UP FOR
+gear !REFLEXIVEPRONOUN
+gear to
+gear toward
+gear towards
+gear up
+gear up for
+gear up to
+geared !PRONOUNOBJECTIVE to
+GEARED !PRONOUNOBJECTIVE UP FOR
+geared !REFLEXIVEPRONOUN
+GEARED FOR
+geared to
+geared toward
+geared towards
+geared up
+GEARED UP FOR
+geared up to
+gearing !PRONOUNOBJECTIVE to
+GEARING !PRONOUNOBJECTIVE UP FOR
+gearing !REFLEXIVEPRONOUN
+gearing to
+gearing toward
+gearing towards
+gearing up
+gearing up for
+gearing up to
+gears !PRONOUNOBJECTIVE to
+GEARS !PRONOUNOBJECTIVE UP FOR
+gears !REFLEXIVEPRONOUN
+gears to
+gears toward
+gears towards
+gears up
+gears up for
+gears up to
+GETTING !DETERMINER FIX ON to
+GETTING !DETERMINER GRASP ABOUT
+GETTING !DETERMINER HANDLE ON to
+getting ready to
+getting set for
+GIVE !DETERMINER IDEA TIME TO SINK IN to
+GIVE !DETERMINER THOUGHT TIME TO SINK IN to
+given !DETERMINER challenge
+given !DETERMINER challenge to
+given !DETERMINER chance
+given !DETERMINER chance to
+given !DETERMINER future
+given !DETERMINER future of
+given !DETERMINER future with
+given !DETERMINER opportunity
+given !DETERMINER opportunity to
+glimmering goal
+glimmering goals
+glimpse !DETERMINER end
+glimpsed !DETERMINER end
+glimpses !DETERMINER end
+glimpsing !DETERMINER end
+go to war for
+goad !PRONOUNOBJECTIVE to
+goad for
+goaded !PRONOUNOBJECTIVE to
+goading !PRONOUNOBJECTIVE to
+goads !PRONOUNOBJECTIVE to
+goads for
+goads to
+goal
+goal-directed
+goal-oriented
+goal directed
+goal for !DETERMINER
+goal oriented
+goal to
+goals
+goals for !DETERMINER
+goals to
+goes to war for
+going to be put behind
+GONNA
+GONNA BE
+GONNA HAVE
+GONNA WANT
+good omen
+good omens
+good prognoses
+good prognosis
+good prospect
+good prospects
+got set for
+GOT TO DO
+GOT TO MAKE
+GOTTA
+GOTTA DO
+GOTTA GO
+GOTTA MAKE
+GRASPS !DETERMINER CONCEPT to
+GRASPS !DETERMINER IDEA to
+groom !PRONOUNOBJECTIVE for
+groom for
+groomed !PRONOUNOBJECTIVE for
+groomed for
+GROOMED TO
+GROOMED to !DETERMINER
+grooming !PRONOUNOBJECTIVE for
+grooming for
+grooms !PRONOUNOBJECTIVE for
+grooms for
+ground-plan
+ground-plans
+ground plan
+ground plans
+GUESS THAT to
+GUESS to
+GUESSED THAT to
+GUESSED to
+GUESSES THAT to
+GUESSES to
+GUESSING THAT to
+GUESSING to
+gunnery mission
+gunnery missions
+HAD !DETERMINER FEELING to
+had !DETERMINER see
+had !DETERMINER try at
+HAD !DETERMINER URGE to
+had !POSSESSIVEPRONOUN sights on
+had !YOU sights on
+had my sights on
+had our sights on
+had sights on
+half-expectant
+half-expectantly
+half-inclined
+half-inclined to
+harbinger
+harbinger-of-spring
+harbinger of
+harbingered
+harbingered for
+harbingering
+harbingering for
+harbingers
+harbingers-of-spring
+harbingers for
+harbingers of
+harbor-due
+harbor due
+harginger
+harginger for
+has !DETERMINER drive to
+HAS !DETERMINER FEELING to
+has !DETERMINER future ahead
+has !DETERMINER real shot
+has !DETERMINER see
+has !POSSESSIVEPRONOUN sights on
+has !YOU sights on
+has my sights on
+has our sights on
+has sights on
+has to see about it
+HASHED IT OVER to
+hatch !DETERMINER plot to
+hatched !DETERMINER plot to
+hatches !DETERMINER plot to
+hatching !DETERMINER plot to
+having !DETERMINER see
+having !POSSESSIVEPRONOUN sights on
+having !YOU sights on
+having my sights on
+having our sights on
+having sights on
+having to see about it
+HE'D BE
+he'd like
+he'd prefer
+he'd then be
+he'll
+he'll be
+he'll see
+HE'LL WIND UP
+HE'LL WIND UP IN
+he's just as soon
+HE PROJECTS !DETERMINER
+he sought
+he would be !DETERMINER
+he would rather
+he would sooner
+head !POSSESSIVEPRONOUN way
+headed !POSSESSIVEPRONOUN way
+heading !POSSESSIVEPRONOUN way
+heads-up
+heads !POSSESSIVEPRONOUN way
+HEED to
+HEEDED to
+heedful
+heedful of
+heedfully
+heedfulness
+HEEDING to
+HEEDS to
+henceforth
+henceforward
+herald of
+heralds of
+here-after
+hereafter
+high-aimed
+high-aiming
+high-aspiring
+high-fated
+high fated
+HIT ON !DETERMINER IDEA to
+HITS ON !DETERMINER IDEA to
+HITTING ON !DETERMINER IDEA to
+hope deferred
+HOPE FOR
+hope for !DETERMINER best
+hope for !DETERMINER future
+hope he
+hope in
+hope it
+hope of
+hope one day
+hope she
+hope that
+hope that !DETERMINER
+hope that !POSSESSIVEPRONOUN
+hope they
+hope to
+hope to make !POSSESSIVEPRONOUN mark
+hope to make our mark
+hoped-that
+HOPED FOR
+hoped one day
+hoped that
+hoped that !POSSESSIVEPRONOUN
+hoped to
+hoped to make !POSSESSIVEPRONOUN mark
+hoped to make our mark
+hoper
+hopers
+hopes and dreams
+HOPES FOR
+hopes for !DETERMINER future
+hopes of
+hopes one day
+hopes that
+hopes that !POSSESSIVEPRONOUN
+hopes to
+hopes to make !POSSESSIVEPRONOUN mark
+hopes to make our mark
+hopes, dreams, and aspirations
+HOPING FOR
+hoping one day
+hoping that
+hoping that !POSSESSIVEPRONOUN
+hoping to
+hoping to make !POSSESSIVEPRONOUN mark
+hoping to make our mark
+house plan
+house plans
+hunger for !DETERMINER future
+hungered for !DETERMINER future
+hungering for !DETERMINER future
+hungers for !DETERMINER future
+I'D BE willing
+I'd be willing to
+I'd have to
+I'd like
+I'd like !DETERMINER
+I'd like it
+I'd like that
+I'd then be
+I'll be
+I'll be able to
+I'll be willing
+I'LL DO
+I'LL GO
+I'LL HAVE
+I'll see
+I'm going to
+IMAGINE to
+IMAGINED !DETERMINER TIME WHEN
+IMAGINED THAT to
+IMAGINED to
+IMAGINES THAT to
+IMAGINES to
+IMAGINING THAT to
+IMAGINING to
+immediate future
+immediate futures
+immediate prospect
+immediate prospects
+immediate purpose
+immediate purposes
+impulse to
+in !DETERMINER !TIMEFRAME ahead
+in !DETERMINER !TIMEFRAME or two
+in !DETERMINER approaching
+in !DETERMINER attempt to save
+in !DETERMINER bit
+in !DETERMINER bit.
+in !DETERMINER by-and-by
+in !DETERMINER coming
+in !DETERMINER coming !TIMEFRAME
+IN !DETERMINER COURSE OF TIME
+in !DETERMINER crystal ball
+in !DETERMINER distant future
+in !DETERMINER drive to
+in !DETERMINER effort to
+in !DETERMINER effort to save
+in !DETERMINER face of !DETERMINER anticipated
+in !DETERMINER face of !DETERMINER coming
+in !DETERMINER face of !DETERMINER impending
+in !DETERMINER face of dawn
+in !DETERMINER face of day
+in !DETERMINER face of death
+in !DETERMINER face of heaven
+in !DETERMINER face of hell
+in !DETERMINER far future
+in !DETERMINER few more !TIMEFRAME
+in !DETERMINER future
+in !DETERMINER future time
+in !DETERMINER hope of
+in !DETERMINER hopes
+in !DETERMINER hopes of
+in !DETERMINER hopper
+in !DETERMINER hunt
+in !DETERMINER hunt for
+IN !DETERMINER LITTLE BIT
+in !DETERMINER little while
+IN !DETERMINER LONG RUN
+in !DETERMINER long term
+in !DETERMINER longer term
+IN !DETERMINER MARKET FOR
+IN !DETERMINER MINDS ABOUT
+IN !DETERMINER MINDS to
+in !DETERMINER moment,
+IN !DETERMINER MOMENT.
+IN !DETERMINER MOOD FOR
+in !DETERMINER mood to
+in !DETERMINER near future
+in !DETERMINER new year
+in !DETERMINER next !NUMS1TO100
+in !DETERMINER next !TIMEFRAME
+IN !DETERMINER NEXT CENTURY
+in !DETERMINER next day
+IN !DETERMINER NEXT DECADE
+in !DETERMINER next few
+IN !DETERMINER NEXT FEW YEARS
+IN !DETERMINER NEXT MILLENIUM
+in !DETERMINER next month
+in !DETERMINER next week
+IN !DETERMINER NEXT YEAR
+IN !DETERMINER OFFING
+in !DETERMINER pipeline
+in !DETERMINER pipelines
+in !DETERMINER place to
+in !DETERMINER position to
+in !DETERMINER push to
+in !DETERMINER push to save
+IN !DETERMINER REVERIE to
+IN !DETERMINER SHORT RUN
+in !DETERMINER short term
+in !DETERMINER short time
+in !DETERMINER short while
+in !DETERMINER shorter term
+IN !DETERMINER SPLIT SECOND
+in !DETERMINER spot to
+in !DETERMINER sweet by-and-by
+IN ADVANCE OF !POSSESSIVEPRONOUN
+in aftertime
+in another !NUMS1TO100 !TIMEFRAME
+in anticipation
+in anticipation for
+IN ANTICIPATION OF
+IN ANTICIPATION OF !POSSESSIVEPRONOUN
+in due
+in due course
+in due season
+in due time
+in efforts to
+in for !DETERMINER
+in future
+in futuro
+IN GOING ABOUT TO GET
+IN GOING OUT AND GETTING
+IN GOING OUT TO
+IN GOING OUT TO GET
+IN GOOD TIME
+in hope
+in hope of
+in hopes
+in hopes of
+in hopes that
+IN JUST !DETERMINER FEW DAYS
+IN JUST !DETERMINER FEW MONTHS
+IN JUST !DETERMINER FEW YEARS
+IN JUST !DETERMINER MINUTE
+IN JUST !DETERMINER SECOND
+IN LESS THAN NO TIME,
+in line for
+in lure
+in lure of
+in my own sweet time
+in my quest
+IN NOTHING FLAT
+IN ONE BREADTH
+IN ONE MOMENT
+in order that
+in order to
+in our own sweet time
+in our quest
+in position to
+in preparation for
+IN PREPARATION OF
+in preparations for
+in preparations of
+IN PROGRESS STILL
+in proper course
+in proper season
+in proper time
+in prospect
+in pursuance of
+in pursuit
+IN PURSUIT OF
+in quest of
+in readiness
+in ready state
+IN RETURN FOR !DETERMINER promise
+in reward for
+IN SEARCH OF
+IN SHORT ORDER
+in short order would
+in some future
+in some future time
+in some time to come
+in store
+in store for
+in suspense for
+in the course of time
+in the days ahead
+in the days and months to come
+in the days to come
+in the months ahead
+in the months to come
+in the weeks ahead
+in the years ahead
+in the years to come
+in time
+in time for
+in time to come
+in time, !DETERMINER
+in times to come
+in training
+in training for
+IN TRYING TO GET
+in various efforts to
+in want
+in want of
+INCENTIVE FOR
+incentive to
+INCENTIVES FOR
+inclination to
+inclinations of
+inclinations to
+incline to
+INCLINE TOWARD
+inclined to
+inclined to believe
+inclined to forget
+inclined to snoop
+INCLINED TOWARD
+inclines to
+INCLINES TOWARD
+inclining to
+INCLINING TOWARD
+INCUMBENT UPON !POSSESSIVEPRONOUN TO
+indebted to
+indebtedness to
+INDICATION AS TO
+infanticipate
+infanticipated
+infanticipates
+infanticipating
+INFER THAT to
+INFER to
+INFERRED THAT to
+INFERRED to
+INFERRING to
+INFERS THAT to
+INFERS to
+INKLING to
+inner mission
+inner missions
+instinct to
+instruction to
+insurance against
+insure against
+insured against
+insures against
+insuring against
+intend
+INTEND THAT to
+INTEND to
+intend to rendezvous
+intended
+INTENDED THAT to
+INTENDED to
+intending
+INTENDING THAT to
+INTENDING to
+intends
+INTENDS THAT to
+INTENDS to
+intent on
+INTENT THAT to
+INTENT to
+INTENT UPON to
+INTENTION THAT to
+INTENTION to
+intentions of
+INTERPRET to
+INTERPRETING to
+INTERPRETS to
+into !DETERMINER crystal ball
+into !DETERMINER future
+into !DETERMINER future of
+into !DETERMINER futures of
+into the foreseeable future
+it'd be
+it'll
+it'll be
+it's !DETERMINER matter of time before
+it's !DETERMINER matter of time when
+it's going to
+it's left to be
+it's only !DETERMINER matter of time
+it's only !DETERMINER matter of time before
+it's only !DETERMINER matter of time when
+it's to
+it's to be
+it's to happen
+it's up to
+it !AUX  going to
+it !AUX  to be
+it remains to be seen
+it shall
+it shall be
+it shall be presumed
+it shall pass
+it shapes up to be
+it would be !DETERMINER
+it would be desirable
+it would be desirable to
+it would be nice
+it would be nice to
+it would be nice to be
+it would have to
+it would have to be
+it would someday
+it would sometime
+it would soon
+it would take
+it would take !DETERMINER
+itching-for
+itching-to
+its fortunes
+its object !AUX  to
+its purpose !AUX
+its purpose !AUX  to
+jockey for
+jockeyed for
+jockeying for
+jockeys for
+JOG !POSSESSIVEPRONOUN MEMORIES to
+JOG !POSSESSIVEPRONOUN MEMORY to
+JOGGED !POSSESSIVEPRONOUN MEMORIES to
+JOGGED !POSSESSIVEPRONOUN MEMORY to
+JOGGING !POSSESSIVEPRONOUN MEMORIES to
+JOGGING !POSSESSIVEPRONOUN MEMORY to
+JOGS !POSSESSIVEPRONOUN MEMORIES to
+JOGS !POSSESSIVEPRONOUN MEMORY to
+JUDGE THAT to
+JUDGE to
+JUDGED THAT to
+JUDGES THAT to
+JUDGES to
+JUDGES WHETHER to
+JUDGING THAT to
+JUDGING to
+JUDGING WHETHER to
+JUDGMENT to
+JUDGMENTS to
+KEEP !PRONOUNOBJECTIVE IN MIND to
+KEEPING !PRONOUNOBJECTIVE IN MIND to
+KEEPS !PRONOUNOBJECTIVE IN MIND to
+KEPT !PRONOUNOBJECTIVE IN MIND to
+KICK !DETERMINER IDEA AROUND to
+KICK IT AROUND to
+KICKED !DETERMINER IDEA AROUND to
+KICKED IT AROUND to
+KICKING !DETERMINER IDEA AROUND to
+KICKING IT AROUND to
+KICKS !DETERMINER IDEA AROUND to
+KICKS IT AROUND to
+kill for
+killed for
+killing for
+kills for
+kingdom-come
+kingdom come
+knell !DETERMINER
+knelled !DETERMINER
+knelling !DETERMINER
+knells !DETERMINER
+KNEW BETTER THAN to
+KNOW BETTER THAN to
+KNOWING BETTER THAN to
+KNOWS BETTER THAN to
+land-planning
+land-prospect
+land planning
+land prospect
+land prospects
+later !PRONOUNNOMINAL would
+lay ahead
+lay ahead for
+laying ahead
+lays ahead
+LEARN THAT to
+LEARNED THAT to
+LEARNING THAT to
+LEARNS THAT to
+leave to !DETERMINER future
+LED TO !DETERMINER !IDEA to
+liable to become putrid
+liable to decay
+liable to spoil
+licence to
+lie in store
+lies ahead
+lies ahead for
+lies in store
+life expectancies
+life expectancy
+life to come
+lifting plan
+lifting plans
+line plan
+line up for !DETERMINER
+lined up for !DETERMINER
+lines plan
+lines up for !DETERMINER
+lining up for !DETERMINER
+lives to come
+lobbied for
+lobbies for
+lobby for
+lobbying for
+long-for
+long-range forecast
+long-range forecasting
+long-range forecastings
+long-range forecasts
+long-range plan
+long-range planning
+long-range plannings
+long-range plans
+long-reaching
+long-resounding
+long-sighted
+long-sightedness
+long-term plans
+long for
+long range
+long to
+longed-for
+longed for
+longed to
+longing-for
+longing for
+longing to
+longs-for
+longs for
+longs to
+look in !DETERMINER crystal ball
+look in !POSSESSIVEPRONOUN crystal ball
+look in !YOU crystal ball
+look in my crystal ball
+look in our crystal ball
+LOOKED AHEAD TO
+looked ahead to be
+looked in !DETERMINER crystal ball
+looked in !POSSESSIVEPRONOUN crystal ball
+looked in !YOU crystal ball
+looked in my crystal ball
+looked in our crystal ball
+looked into !DETERMINER crystal ball
+looked to
+looking in !DETERMINER crystal ball
+looking in !POSSESSIVEPRONOUN crystal ball
+looking in !YOU crystal ball
+looking in my crystal ball
+looking in our crystal ball
+looks in !DETERMINER crystal ball
+looks in !POSSESSIVEPRONOUN crystal ball
+looks in !YOU crystal ball
+looks in my crystal ball
+looks in our crystal ball
+loom ahead
+loom around !DETERMINER corner
+loom in !DETERMINER future
+loom in front
+loom into !DETERMINER future
+loom large
+loom next
+loomed ahead
+loomed around !DETERMINER corner
+loomed in !DETERMINER future
+loomed in front
+loomed into !DETERMINER future
+loomed large
+loomed next
+looming ahead
+looming around !DETERMINER corner
+looming in !DETERMINER future
+looming in front
+looming into !DETERMINER future
+looming large
+looming next
+looms ahead
+looms around !DETERMINER corner
+looms in !DETERMINER future
+looms in front
+looms into !DETERMINER future
+looms large
+looms next
+lot to do
+lots ahead
+lots to do
+manana
+machinate
+machinated
+machinates
+machinating
+made token nods to
+main objective
+main objectives
+main target
+main targets
+make sure that we
+MAKE TOKEN NODS TO
+MAKES SURE to
+makes token nods to
+MAKING !POSSESSIVEPRONOUN MIND UP to
+MAKING SURE to
+making token nods to
+manana
+mandate to
+maneuver in order to
+maneuver to
+maneuvered in order to
+maneuvered to
+maneuvering in order to
+maneuvering to
+maneuvers in order to
+maneuvers to
+many should be
+mark out
+mark out !DETERMINER course
+mark out for
+marked out
+marked out !DETERMINER course
+marked out for
+marking out
+marking out !DETERMINER course
+marking out for
+marks out
+marks out !DETERMINER course
+marks out for
+may turn out to be
+MEAN to
+MEANING to
+MEANS to
+MEANT to
+medical prognoses
+medical prognosis
+MENTAL to
+mindful that in order to
+MINDFUL THAT to
+mission
+mission's
+missions
+missions'
+momentarily
+money-bound
+money for
+morrow
+morrow's
+morrows
+mortgage !DETERMINER future
+mortgaged !DETERMINER future
+mortgages !DETERMINER future
+mortgaging !DETERMINER future
+MOST FIND !PRONOUNOBJECTIVE to
+Mother-to-be
+Mothers-to-be
+motivate to
+motivated to
+motivates to
+motivating to
+motivation to
+motive to
+motives to
+much-anticipated
+MULL OVER to
+MULL to
+MULLED OVER to
+MULLING OVER to
+MULLING to
+MULLS OVER to
+MULLS to
+MUSE ABOUT to
+MUSE OVER to
+MUSE to
+MUSED to
+musing on !DETERMINER future
+musings on !DETERMINER future
+MUST BE PROACTIVE
+MUST QUICKLY
+my ambition
+my ambitions
+my crystal ball
+my hope that
+my intention
+my intentions
+my pick for
+my pick to
+near go
+near term
+nectar-seeking
+never again did
+never again did !PRONOUNNOMINAL
+never expected
+nisus
+not expected
+NOTE THAT to
+NOTED THAT to
+NOTES THAT to
+nothing expected
+NOTICE to
+NOTICED THAT to
+NOTICED to
+NOTICES THAT to
+NOTICES to
+NOTICING THAT to
+NOTICING to
+NOTING THAT to
+NOTING to
+now to be
+oath-making
+objective
+objective for !DETERMINER
+objective of
+objectives
+objectives for !DETERMINER
+objectives of
+odd-come-shortly
+of a mind to
+of aspiration
+of aspirations
+offer !DETERMINER expectation
+offer to
+offer to !DETERMINER public
+offer to buy
+offered !DETERMINER expectation
+offered to
+offered to !DETERMINER public
+offered to buy
+offering !DETERMINER expectation
+offering to
+offering to !DETERMINER public
+offering to buy
+offers !DETERMINER expectation
+offers to
+offers to !DETERMINER public
+offers to buy
+office-seeking
+office seeker
+office seekers
+omen
+omens
+on !DETERMINER calendar for
+on !DETERMINER course of
+on !DETERMINER docket
+on !DETERMINER docket for
+on !DETERMINER far horizon
+on !DETERMINER far horizons
+on !DETERMINER future
+on !DETERMINER horizon
+on !DETERMINER lookout
+on !DETERMINER lookout for
+ON !DETERMINER MIND ABOUT
+ON !DETERMINER MIND to
+on !DETERMINER mission
+on !DETERMINER mission for
+on !DETERMINER mission of
+on !DETERMINER point of
+ON !DETERMINER QUEST FOR
+on !DETERMINER schedule for the coming
+on !DETERMINER schedule for the following
+on !DETERMINER schedule for the next
+on !DETERMINER search for
+on !DETERMINER verge
+on !DETERMINER verge of
+on !DETERMINER verge of !DETERMINER
+on deck for
+on future
+on missions for
+on missions of
+on schedule for
+on tap for
+on to bigger and better
+open !DETERMINER space for
+opened !DETERMINER space for
+opening !DETERMINER space for
+opening for
+openings for
+opens !DETERMINER space for
+operational purpose
+operational purposes
+OPINION to
+opt
+opt for
+opt to
+opted for
+opted to
+opting
+opting for
+opting to
+option for
+options for
+options for !DETERMINER
+options for designing
+options for implementing
+opts
+opts for
+opts to
+oracle
+oracles
+oracular
+our ambition
+our ambitions
+our course
+our crystal balls
+our hope that
+our inclination
+our inclinations
+our intention
+our intentions
+our pick for
+our pick to
+out for
+out for !DETERMINER
+over some time
+over the course of time
+over time
+pant after
+pant for
+panted after
+panted for
+panting after
+panting for
+pants after
+pants for
+parlay
+parlayed
+parlaying
+parlays
+parley !DETERMINER
+parley for
+parleyed for
+parleying !DETERMINER
+parleying for
+parleys !DETERMINER
+parleys for
+path into !DETERMINER future
+paths into !DETERMINER future
+pause for
+pause to
+paused for another
+paused to
+pauses for
+pauses to
+pausing for
+pausing to
+pave !DETERMINER way
+pave !DETERMINER way for
+paved !DETERMINER way
+paved !DETERMINER way for
+paves !DETERMINER way
+paves !DETERMINER way for
+paving !DETERMINER way
+paving !DETERMINER way for
+peace-feeler
+peace-feelers
+peace feelers
+peek into !DETERMINER future
+peeked into !DETERMINER future
+peeking into !DETERMINER future
+peeks into !DETERMINER future
+peep into !DETERMINER future
+peeped into !DETERMINER future
+peeping into !DETERMINER future
+peg !PRONOUNOBJECTIVE to
+peg on
+pegged !PRONOUNOBJECTIVE to
+pegged on
+pegging !PRONOUNOBJECTIVE to
+pegging on
+pegs !PRONOUNOBJECTIVE to
+pegs on
+PERCEIVE THAT to
+PERCEIVE to
+PERCEIVED THAT to
+PERCEIVED to
+PERCEIVES THAT to
+PERCEIVES to
+PERCEIVING THAT to
+PERCEIVING to
+personal aim
+personal aims
+personal ambition
+personal ambitions
+pilot plan
+pilot plans
+pin !POSSESSIVEPRONOUN hope
+pin !POSSESSIVEPRONOUN hope upon
+pin !POSSESSIVEPRONOUN hopes
+pin !POSSESSIVEPRONOUN hopes on
+pin !POSSESSIVEPRONOUN hopes upon
+pin !YOU hope upon
+pin !YOU hopes
+pin !YOU hopes upon
+pin my hope upon
+pin my hopes
+pin our hope upon
+pin our hopes
+pin our hopes upon
+pining !POSSESSIVEPRONOUN hopes
+pinned !POSSESSIVEPRONOUN hope
+pinned !POSSESSIVEPRONOUN hope upon
+pinned !POSSESSIVEPRONOUN hopes
+pinned !POSSESSIVEPRONOUN hopes on
+pinned !POSSESSIVEPRONOUN hopes upon
+pinned !YOU hope upon
+pinned !YOU hopes
+pinned !YOU hopes upon
+pinned my hope upon
+pinned my hopes
+pinned our hope upon
+pinned our hopes
+pinned our hopes upon
+pinning !POSSESSIVEPRONOUN hope
+pinning !POSSESSIVEPRONOUN hope upon
+pinning !POSSESSIVEPRONOUN hopes
+pinning !POSSESSIVEPRONOUN hopes on
+pinning !POSSESSIVEPRONOUN hopes upon
+pinning !YOU ears back
+pinning !YOU faith to
+pinning !YOU hope upon
+pinning !YOU hopes
+pinning !YOU hopes upon
+pinning my hope upon
+pinning my hopes
+pinning our hope upon
+pinning our hopes
+pinning our hopes upon
+pins !POSSESSIVEPRONOUN hope
+pins !POSSESSIVEPRONOUN hope upon
+pins !POSSESSIVEPRONOUN hopes
+pins !POSSESSIVEPRONOUN hopes on
+pins !POSSESSIVEPRONOUN hopes upon
+pins !YOU hope upon
+pins !YOU hopes
+pins !YOU hopes upon
+pins my hope upon
+pins my hopes
+pins our hope upon
+pins our hopes
+pins our hopes upon
+place-seeking
+place-to-live
+place seeker
+place seekers
+place to live
+places-to-live
+places to live
+plan
+plan-
+PLAN !DETERMINER
+plan !DETERMINER rendezvous
+plan ahead
+plan expenditures
+plan for
+plan for !DETERMINER
+plan of
+plan of action
+plan on
+plan out
+plan positions
+PLAN TO
+plan to close down
+planned
+planned-ahead
+planned-on
+planned-out
+PLANNED !DETERMINER
+planned ahead
+planned expenditures
+planned of
+planned on
+planned out
+planned positions
+PLANNED to
+planned to close down
+planning !DETERMINER
+PLANNING !POSSESSIVEPRONOUN VACATION
+planning about
+planning ahead
+planning ahead for
+planning expenditures
+planning for
+planning of
+planning of action
+planning on
+planning out
+planning position
+planning to
+planning to be
+planning to close down
+plans
+PLANS !DETERMINER
+plans ahead
+plans expenditures
+plans for
+plans for !DETERMINER
+plans of
+plans of action
+plans on
+plans out
+plans positions
+PLANS to
+plans to close down
+platform for
+platforms for
+played for !DETERMINER
+plea for
+plea to
+pleaing for
+pleas for
+pledge of support
+pledges of support
+plenty to
+plenty to do
+plot !DETERMINER course
+plot !DETERMINER course of action
+plot out
+plots !DETERMINER course
+plots !DETERMINER course of action
+plots out
+plotted !DETERMINER course
+plotted !DETERMINER course of action
+plotted out
+plotting !DETERMINER course
+plotting !DETERMINER course of action
+plotting out
+POINT OF VIEW to
+pointer to
+pointers to
+POINTS OF VIEW to
+poise for
+poised for !DETERMINER
+poises for
+poising for !DETERMINER
+political ambition
+political ambitions
+political hopeful
+political hopefuls
+PONDER to
+PONDERED to
+PONDERING to
+PONDERS to
+portend
+PORTEND TO
+PORTEND to !DETERMINER
+portended
+portending
+PORTENDING TO
+PORTENDING to !DETERMINER
+portends
+PORTENDS to
+PORTENDS to !DETERMINER
+portent
+PORTENT OF
+PORTENT TO
+portentous
+portentously
+portentousness
+portents
+portents of
+POSSESSIVEPRONOUN objectives
+POSSESSIVEPRONOUN objectives of
+posture for
+postured for
+postured to
+postures for
+posturing for
+potential
+potential for
+potentialities
+potentiality
+potentially
+potentials
+precautionary
+precautionary tale
+precautionary tales
+preconcerted plan
+preconcerted plans
+predict
+predictable
+PREDICTED to
+PREDICTED to !DETERMINER
+predicting
+prediction
+predictions
+predictive
+predictor
+predictors
+predicts
+premonish
+premonished
+premonishes
+premonishing
+premonition
+premonitions
+premonitory
+premonitory chill
+premonitory chills
+premonitory plague
+premonitory plagues
+premonitory shiver
+premonitory shivers
+premonitory sign
+premonitory signs
+premonitory symptom
+premonitory symptoms
+preparation
+preparation for
+preparation of
+preparation to
+preparations
+preparations for
+preparations to
+preparative
+preparatory
+preparatory for
+preparatory instruction
+preparatory instructions
+preparatory measure
+preparatory measures
+prepare
+prepare !DETERMINER ground
+prepare !DETERMINER way
+prepare !PRONOUNOBJECTIVE for
+prepare !PRONOUNOBJECTIVE to
+prepare !REFLEXIVEPRONOUN
+prepare for
+prepare for !DETERMINER evil day
+prepare for both courses
+prepare for burial
+prepare for either course
+prepare myself
+prepare ourselves
+prepared !DETERMINER ground
+prepared !DETERMINER way
+prepared !PRONOUNOBJECTIVE for
+prepared !PRONOUNOBJECTIVE to
+prepared !REFLEXIVEPRONOUN
+prepared for
+prepared for !DETERMINER evil day
+prepared for both courses
+prepared for burial
+prepared for either course
+prepared myself
+prepared ourselves
+PREPARED TO
+preparedly
+preparedness
+preparedness for
+preparedness to
+prepares
+prepares !DETERMINER ground
+prepares !DETERMINER way
+prepares !PRONOUNOBJECTIVE for
+prepares !PRONOUNOBJECTIVE to
+prepares !REFLEXIVEPRONOUN
+prepares for
+prepares for !DETERMINER evil day
+prepares for both courses
+prepares for burial
+prepares for either course
+prepares myself
+prepares ourselves
+PREPARES TO
+preparing
+preparing !DETERMINER ground
+preparing !DETERMINER way
+preparing !PRONOUNOBJECTIVE for
+preparing !PRONOUNOBJECTIVE to
+preparing !REFLEXIVEPRONOUN
+preparing for
+preparing for !DETERMINER evil day
+preparing for both courses
+preparing for burial
+preparing for either course
+preparing myself
+preparing ourselves
+PREPARING TO
+presage
+presaged
+presages
+presaging
+presently to be
+preserve
+preserved for !DETERMINER express purpose
+preserved in order to
+preserved to
+preserves
+preserving
+press for !DETERMINER new
+press forward to
+press forward toward
+pressed for !DETERMINER new
+pressed forward to
+pressed forward toward
+presses for !DETERMINER new
+presses forward to
+presses forward toward
+pressing for !DETERMINER new
+pressing forward to
+pressing forward toward
+preventible
+preventively
+preventives
+prey seeker
+prey seekers
+pried into !DETERMINER future
+pries into !DETERMINER future
+primary intention
+primary intentions
+prime !DETERMINER
+prime target
+prime targets
+prime to
+primed
+primed !DETERMINER
+primed for
+primed to
+primes !DETERMINER
+primes to
+priming
+priming !DETERMINER
+priming to
+prison-bound
+PROACTIVE
+PROACTIVELY
+PROBE to
+PROBES to
+proceeding ahead on !DETERMINER !IDEA
+proceeds go toward
+proceeds goes toward
+prodromal
+prodrome
+prodromes
+prodromic
+profile plan
+profile plans
+profit-seeking
+progenies
+progeny
+prognasticated
+prognasticating
+Prognoses
+prognosis
+prognostic
+prognostically
+prognosticate
+prognosticated
+prognosticates
+prognosticating
+prognostication
+prognostications
+prognosticator
+prognosticators
+prognostics
+project !DETERMINER
+project !POSSESSIVEPRONOUN
+project !PRONOUNOBJECTIVE
+project ahead
+PROJECT INTO !DETERMINER FUTURE
+project into !DETERMINER next
+project out all !DETERMINER way to
+project out to
+project out toward
+projected
+projected !DETERMINER
+projected !POSSESSIVEPRONOUN
+projected !PRONOUNOBJECTIVE
+PROJECTED AHEAD
+PROJECTED INTO !DETERMINER FUTURE
+projected into !DETERMINER next
+projected out all !DETERMINER way to
+projected out to
+projected out toward
+PROJECTED THAT
+PROJECTED to
+PROJECTING !DETERMINER
+projecting !POSSESSIVEPRONOUN
+projecting !PRONOUNOBJECTIVE
+PROJECTING AHEAD
+PROJECTING INTO !DETERMINER FUTURE
+projecting into !DETERMINER next
+projecting out all !DETERMINER way to
+projecting out to
+projecting out toward
+projection that
+projections
+projections that
+projects !DETERMINER
+projects !POSSESSIVEPRONOUN
+projects !PRONOUNOBJECTIVE
+PROJECTS AHEAD
+PROJECTS INTO !DETERMINER FUTURE
+projects into !DETERMINER next
+projects out all !DETERMINER way to
+projects out to
+projects out toward
+prolepsis
+promise !DETERMINER
+promise !DETERMINER full investigation
+promise !DETERMINER reduction
+promise growth
+promised !DETERMINER full investigation
+promised !DETERMINER reduction
+promised by
+promised by !DETERMINER
+promised growth
+promises
+promises !DETERMINER
+promises !DETERMINER full investigation
+promises !DETERMINER reduction
+promises growth
+promising !DETERMINER
+promising !DETERMINER full investigation
+promising !DETERMINER reduction
+promising growth
+promissory note
+promissory notes
+promo
+promos
+promotional
+promotionally
+promotionals
+promotions
+prompt !DETERMINER
+prompt !POSSESSIVEPRONOUN
+prompt !PRONOUNOBJECTIVE
+prompted
+prompting
+prompting !DETERMINER
+prompting !POSSESSIVEPRONOUN
+prompting !PRONOUNOBJECTIVE
+prompts
+prompts !DETERMINER
+prompts !POSSESSIVEPRONOUN
+prompts !PRONOUNOBJECTIVE
+prophecies
+prophecy
+prophesied
+prophesier
+prophesiers
+prophesies
+prophesize
+prophesized
+prophesizes
+prophesizing
+prophesy
+prophesying
+prophet
+prophetess
+prophetesses
+prophetic
+prophetical
+prophetically
+prophets
+prophylactic
+prophylactically
+prophylactics
+prophylax for
+prophylaxed for
+prophylaxes for
+prophylaxing for
+prophylaxis
+proposal for
+proposal to
+proposals
+proposals for
+proposals to
+propose
+proposed
+proposed agreement
+proposed agreements
+proposes
+proposing
+proposition !DETERMINER
+proposition !POSSESSIVEPRONOUN
+proposition !PRONOUNOBJECTIVE
+propositioned
+propositioned !DETERMINER
+propositioned !POSSESSIVEPRONOUN
+propositioned !PRONOUNOBJECTIVE
+propositioning
+propositioning !DETERMINER
+propositioning !POSSESSIVEPRONOUN
+propositioning !PRONOUNOBJECTIVE
+propositions !DETERMINER
+propositions !POSSESSIVEPRONOUN
+propositions !PRONOUNOBJECTIVE
+prospect
+prospect for
+prospect of
+prospected for
+prospecti
+prospecting
+prospecting for
+prospective
+prospectively
+prospects
+prospects for
+prospects of
+prospectus
+prospectuses
+PROVE !PRONOUNOBJECTIVE to
+proximo
+pry into !DETERMINER future
+prying into !DETERMINER future
+pumping plan
+pumping plans
+purporting
+purports
+purpose
+purpose in
+purpose of
+purpose toward
+purpose towards
+purposed
+purposeful
+purposefully
+purposefulness
+purposely
+purposes
+purposes in
+purposes of
+purposing
+purposive
+purposively
+pursue
+pursue !DETERMINER
+pursue !POSSESSIVEPRONOUN
+pursue !PRONOUNOBJECTIVE
+pursues
+pursues !DETERMINER
+pursues !POSSESSIVEPRONOUN
+pursues !PRONOUNOBJECTIVE
+pursuing
+pursuing !DETERMINER
+pursuing !POSSESSIVEPRONOUN
+pursuing !PRONOUNOBJECTIVE
+pursuit
+pursuit of
+pursuits
+PUSH IT OUT OF !POSSESSIVEPRONOUN HEAD to
+PUSH IT OUT OF !POSSESSIVEPRONOUN MIND to
+quest
+QUEST ABOUT
+quest after
+quest for
+QUEST to
+quested
+quested after
+quested for
+QUESTED to
+questing
+questing after
+QUESTING AFTER to
+questing for
+QUESTING to
+quests
+quests after
+quests for
+QUESTS to
+RACK !POSSESSIVEPRONOUN BRAIN to
+RACKING !POSSESSIVEPRONOUN BRAIN to
+RACKS !POSSESSIVEPRONOUN BRAIN to
+RAISE !POSSESSIVEPRONOUN SIGHTS to
+RAISES !POSSESSIVEPRONOUN SIGHTS to
+RAISING !POSSESSIVEPRONOUN SIGHTS to
+RATHER BE !DETERMINER to
+REACH FOR !DETERMINER ANSWER to
+REACHED FOR !DETERMINER ANSWER to
+REACHES FOR !DETERMINER ANSWER to
+REACHING FOR !DETERMINER ANSWER to
+read-for
+read !DETERMINER future
+read !DETERMINER tea leaves
+read for
+read tea leaves
+readied
+readied !REFLEXIVEPRONOUN
+readied !REFLEXIVEPRONOUN to
+readied for
+readied for anything
+readied for bed
+readied myself
+readied ourselves
+readied to
+readied to believe
+readied to burst
+readied to burst forth
+readied to cry
+readied to drop
+readied up
+readier to
+readies
+readies !REFLEXIVEPRONOUN
+readies !REFLEXIVEPRONOUN to
+readies for
+readies for anything
+readies for bed
+readies myself
+readies ourselves
+readies to
+readies to believe
+readies to burst
+readies to burst forth
+readies to cry
+readies to drop
+readies up
+readiness
+readiness for
+readiness of
+readiness of feeling
+readiness of speech
+readiness to
+reading !DETERMINER future
+reading !DETERMINER tea leaves
+READING !POSSESSIVEPRONOUN MIND to
+reading for
+reading tea leaves
+reads !DETERMINER future
+reads !DETERMINER tea leaves
+READS !POSSESSIVEPRONOUN MIND to
+reads for
+reads tea leaves
+ready
+ready !REFLEXIVEPRONOUN
+ready !REFLEXIVEPRONOUN to
+ready and waiting
+READY FOR
+ready for anything
+ready for bed
+ready myself
+ready ourselves
+ready to
+ready to believe
+ready to burst
+ready to burst forth
+ready to cry
+ready to drop
+ready up
+readying
+readying !REFLEXIVEPRONOUN
+readying !REFLEXIVEPRONOUN to
+readying for
+readying for anything
+readying for bed
+readying myself
+readying ourselves
+readying to
+readying to believe
+readying to burst
+readying to burst forth
+readying to cry
+readying to drop
+readying up
+REALIZATION HAVING TO DO WITH to
+REALIZATION THAT to
+REALIZATIONS HAVING TO DO WITH to
+REALIZATIONS THAT to
+REALIZE THAT to
+REALIZE to
+REALIZED in order to
+REALIZED THAT to
+REALIZES THAT to
+REALIZES to
+REALIZING THAT to
+REALIZING to
+REASON THAT to
+REASONING THAT to
+REASONS THAT to
+RECOGNITION THAT TO
+RECOGNIZE !PRONOUNOBJECTIVE FOR WHAT !PRONOUNNOMINAL !AUX to
+RECOGNIZE THAT to
+RECOGNIZE to
+RECOGNIZED THAT to
+RECOGNIZES !PRONOUNOBJECTIVE FOR WHAT !PRONOUNNOMINAL !AUX to
+RECOGNIZES THAT to
+RECOGNIZES to
+RECOGNIZING !PRONOUNOBJECTIVE FOR WHAT !PRONOUNNOMINAL !AUX to
+RECOGNIZING THAT to
+RECOGNIZING to
+record-seeking
+REEXAMINE THAT to
+REEXAMINE to
+REEXAMINED THAT to
+REEXAMINED to
+REEXAMINES THAT to
+REEXAMINES to
+REEXAMINING THAT to
+REEXAMINING to
+REFLECT ON to
+REFLECTED ON to
+reflected plan
+reflected plans
+REFLECTED to
+REFLECTING ON to
+REFLECTING to
+REFLECTION to
+REFLECTS ON to
+REFLECTS to
+rehearsal
+rehearsal for
+rehearsals
+rehearsals for
+rehearse for
+rehearsed for
+rehearses for
+rehearsing for
+remain to be seen
+remained to be seen
+remaining to be seen
+remains to be seen
+reminder for
+reminders for
+remote future
+remote futures
+repetition for
+repetition for effect
+repetition for emphasis
+repetitions for
+request to
+requested to
+requesting to
+requests to
+resistance plan
+resistance plans
+responsibility of
+responsibility to
+rest-seeking
+rest up for
+rested up for
+resting up for
+rests up for
+RESULT IN !DETERMINER !CONCLUSION
+REVERIE to
+rigging plan
+rigging plans
+RINGING !DETERMINER BELL FOR !PRONOUNOBJECTIVE to
+RINGS !DETERMINER BELL FOR !PRONOUNOBJECTIVE to
+ripe for
+roadmap to
+roadmaps to
+rocket project
+rocket projects
+root-bound
+root around for
+rooted around for
+rooting around for
+roots around for
+roused to
+RUED to
+RUES to
+RUN CIRCLES AROUND to
+RUN RINGS AROUND to
+RUN TO ABOUT to
+RUN TO ALMOST to
+RUNNING CIRCLES AROUND to
+RUNNING RINGS AROUND to
+RUNNING TO ABOUT to
+RUNNING TO ALMOST to
+RUNS CIRCLES AROUND to
+RUNS RINGS AROUND to
+RUNS TO ABOUT to
+RUNS TO ALMOST to
+saith
+salt away
+salt it away
+salt something away
+salted away
+salted it away
+salting away
+salting it away
+salts away
+salts it away
+save for !DETERMINER rainy day
+save to fall back on
+save to fall back upon
+save up
+save up for
+saved for !DETERMINER rainy day
+saved to fall back on
+saved to fall back upon
+saved up
+saved up for
+saves for !DETERMINER rainy day
+saves to fall back on
+saves to fall back upon
+saves up
+saves up for
+saving for !DETERMINER rainy day
+saving to fall back on
+saving to fall back upon
+saving up
+saving up for
+saw !DETERMINER future
+saw ahead
+saw for
+saw in !DETERMINER crystal ball
+saw in !POSSESSIVEPRONOUN crystal ball
+saw in !YOU crystal ball
+saw in my crystal ball
+saw in our crystal ball
+saw it coming
+saw out for
+SAW to
+saw what can be done
+saw what could be done
+saw what he can do
+saw what she can do
+saw what they can do
+saw what we can do
+SAW WHETHER to
+scale plan
+scale plans
+scheduled for
+scheduled for !DAY
+scheduled for !DETERMINER !TIMEOFDAY
+scheduled for !DETERMINER beginning of
+scheduled for !DETERMINER beginning of !DETERMINER !TIMEFRAME
+scheduled for !DETERMINER beginning of !MONTH
+scheduled for !DETERMINER end of
+scheduled for !DETERMINER end of !DETERMINER !MONTH
+scheduled for !DETERMINER end of !DETERMINER !TIMEFRAME
+scheduled for !DETERMINER middle of
+scheduled for !DETERMINER middle of !DETERMINER !TIMEFRAME
+scheduled for !DETERMINER middle of !MONTH
+scheduled for !MONTH
+scheduled to arrive
+scheduled to arrive at
+schedules
+scheme out
+scheme to
+schemed out
+schemed to
+schemes out
+SCHEMES TO
+scheming out
+scheming to
+scout out for
+scouted out for
+scouting out for
+scouts out for
+scramble for
+scrambled for
+scrambles for
+scrambling for
+SCRATCH !DETERMINER SURFACE to
+SCRATCHES !DETERMINER SURFACE to
+SCRATCHING !DETERMINER SURFACE to
+search for
+searched for
+searches for
+searching for
+second-sighted
+second-sightedness
+see !DETERMINER future
+SEE !DETERMINER LIGHT to
+SEE !POSSESSIVEPRONOUN WAY CLEAR to
+see ahead
+see for
+see in !DETERMINER crystal ball
+see in !POSSESSIVEPRONOUN crystal ball
+see in !YOU crystal ball
+see in my crystal ball
+see in our crystal ball
+see it coming
+SEE NO OBJECTION to
+see out for
+SEE THROUGH !PRONOUNOBJECTIVE to
+SEE to
+see what !YOU can do
+see what can be done
+see what could be done
+see what he can do
+see what I can do
+see what she can do
+see what they can do
+see what we can do
+SEE WHETHER to
+seek
+seek !DETERMINER
+seek !DETERMINER company
+seek !DETERMINER company of
+seek !DETERMINER way
+seek after
+seek asylum
+seek compensation
+seek for
+seek help
+seek immunity
+seek justice
+seek opportunities
+seek out
+seek peace
+seek publicity
+seek refuge
+seek someone who
+SEEK to
+SEEK TO CREATE to
+seeking
+seeking !DETERMINER
+seeking !DETERMINER company
+seeking !DETERMINER company of
+seeking !DETERMINER way
+seeking after
+seeking asylum
+seeking compensation
+seeking for
+seeking help
+seeking immunity
+seeking justice
+seeking opportunities
+seeking out
+seeking peace
+seeking publicity
+seeking refuge
+seeking someone who
+SEEKING to
+SEEKING TO CREATE
+SEEKING TO CREATE to
+seeks
+SEEKS !DETERMINER
+seeks !DETERMINER company
+seeks !DETERMINER company of
+seeks !DETERMINER way
+seeks after
+seeks asylum
+seeks compensation
+seeks for
+seeks help
+seeks immunity
+seeks justice
+seeks opportunities
+seeks out
+seeks peace
+seeks publicity
+seeks refuge
+seeks someone who
+seeks to
+SEEKS TO CREATE
+SEEKS TO CREATE to
+seem likely
+seemed likely
+seeming likely
+seems likely
+sees !DETERMINER future
+SEES !DETERMINER LIGHT to
+SEES !POSSESSIVEPRONOUN WAY CLEAR TO
+sees ahead
+sees for
+sees in !DETERMINER crystal ball
+sees in !POSSESSIVEPRONOUN crystal ball
+sees in !YOU crystal ball
+sees in my crystal ball
+sees in our crystal ball
+sees it coming
+SEES NO OBJECTION TO
+sees out for
+SEES THROUGH !PRONOUNOBJECTIVE to
+SEES to
+sees what !YOU can do
+sees what can be done
+sees what could be done
+sees what he can do
+sees what I can do
+sees what she can do
+sees what they can do
+sees what we can do
+SEES WHETHER to
+serve to
+served to
+serves to
+serving to
+SETTED OUT TO
+setting-to
+shade-seeking
+shall
+shall be
+SHALL be BASED ON
+shall come in for
+shall comply
+shall comply fully
+shall issue
+shall not
+shall not be
+shall not do
+shall not exceed
+shall not go
+SHALL NOT RESPOND
+shape !DETERMINER course
+shape out
+shape out !DETERMINER course
+shaped !DETERMINER course
+shapes !DETERMINER course
+shapes out
+shapes out !DETERMINER course
+shapes up to be
+shapes up to be !DETERMINER
+shaping !DETERMINER course
+shaping out
+shaping out !DETERMINER course
+SHE'D BE
+she'd have to
+she'd like
+she'd prefer
+she'd then be
+she'll
+she'll be
+she'll see
+SHE'LL WIND UP
+SHE'LL WIND UP IN
+she's just as soon
+SHE PROJECTS !DETERMINER
+she sought
+she would be
+she would rather
+she would sooner
+shoot for
+shooting for
+shoots for
+shortly from now
+shortly would
+shortly.
+shot for
+should provide information
+SHOULD RESOLVE ITSELF IN !DETERMINER NEXT !TIMEFRAME
+SHOULD RESOLVE ITSELF IN !DETERMINER NEXT FEW !TIMEFRAME
+SHOULD SHAKE OUT IN !DETERMINER NEXT !TIMEFRAME
+should soon
+should soon be
+show promise for
+showed promise for
+showing promise for
+shows promise for
+signal for !PRONOUNOBJECTIVE to
+signal for !YOU to
+signal for me to
+signal for us to
+signaled for !PRONOUNOBJECTIVE to
+signaled for !YOU to
+signaled for me to
+signaled for us to
+signaling for !PRONOUNOBJECTIVE to
+signaling for !YOU to
+signaling for me to
+signaling for us to
+signals for !PRONOUNOBJECTIVE to
+signals for !YOU to
+signals for me to
+signals for us to
+simple vow
+simple vows
+single purpose
+single purposes
+SIZE !POSSESSIVEPRONOUN UP to
+SIZE UP !POSSESSIVEPRONOUN to
+SIZES !POSSESSIVEPRONOUN to
+SIZES UP !POSSESSIVEPRONOUN to
+SIZING !POSSESSIVEPRONOUN to
+SIZING UP !POSSESSIVEPRONOUN to
+sketch plan
+sketch plans
+skull-hunting
+sky-aspiring
+SLATED FOR
+slated to
+slotted for
+slotted to
+slow ahead
+sneak-peek
+sneak peek
+sneak preview
+sneak previews
+so good as to
+so I'm going to
+so we're going to
+so, I'm going to
+so, we're going to
+sole purpose
+sole purposes
+solve for
+solved for
+solves for
+solving for
+some day next week
+some fine day
+some fine morning
+some month next year
+some of these days
+Some shall be
+some such way
+some week next month
+SOMETHING IN MIND TO
+soon
+soon-believing
+soon-choked
+soon-clad
+soon-consoled
+soon-contented
+soon-descending
+soon-done
+soon-drying
+soon-ended
+soon-fading
+soon-known
+soon-mended
+soon-monied
+soon-parted
+soon-quenched
+soon-repeated
+soon-repenting
+soon-rotting
+soon-said
+soon-sated
+soon-speeding
+soon-tired
+soon-to-be
+soon-to-be-ex
+soon-to-be-pulled-down
+soon-wearied
+soon approaching
+soon loomed
+soon looms
+SOON TO
+soon to be
+sooner or later
+soothsaid
+soothsay
+soothsaying
+soothsays
+SORT IT OUT to
+sortes
+sortes Biblicae
+sortes Homericae
+sortes Praenestinae
+sortes Vergilianae
+SORTING IT OUT to
+SORTS IT OUT to
+sought !DETERMINER company
+sought !DETERMINER company of
+sought after
+sought compensation
+sought for
+sought immunity
+sought justice
+sought opportunity
+sought out
+sought peace
+sought refuge
+sought to
+south-seeking
+spae
+spaed
+spaeing
+spaes
+special preparation for
+special preparations for
+SPECULATE about what to
+SPECULATE on what to
+SPECULATE THAT to
+SPECULATE to
+SPECULATED ABOUT to
+SPECULATED THAT to
+SPECULATES about what to
+SPECULATES on what to
+SPECULATES THAT to
+SPECULATES to
+SPECULATION AS TO
+SPECULATIVE to
+spring-board for
+spring-board to
+spring-boards for
+spring-boards to
+spring board for
+spring board to
+spring boards for
+spring boards to
+springboard for
+springboard to
+springboard toward
+springboards for
+springboards to
+springboards toward
+spur for
+spur to
+square away for
+squared away for
+squares away for
+squaring away for
+stand-to
+stand ready
+stand ready to
+stand to
+standing ready
+standing ready to
+standing to
+stands ready
+stands ready to
+stands to
+Star-aspiring
+state of expectancy
+states of expectancy
+stay up for
+stayed up for
+staying up for
+stays up for
+steer for
+steered for
+steering for
+steers for
+step-stone
+step-stones
+stepping-stone
+stepping-stones
+steppingstone
+steppingstones
+still !LOOK forward
+still ahead
+still ahead on
+still to
+still to come
+stock up for
+stocked up for
+stocking up for
+stocks up for
+stood ready
+stood ready to
+stood to
+stop off for
+stop off to
+stop over to
+STOP SHORT ABOUT
+stop to
+stopped off for
+stopped off to
+stopped over to
+stopped to
+stopping off for
+stopping off to
+stopping over to
+STOPPING SHORT ABOUT
+stopping to
+stops off for
+stops off to
+stops over to
+STOPS SHORT ABOUT
+stops to
+store up for
+stored up for
+stores up for
+storing up for
+storm-boding
+storm-bodings
+storm-bound
+storm-bringer
+storm-bringers
+storm-portending
+storm-presaging
+STRAIGHT BACK
+strategic plan
+strategic plans
+strategize
+strategized
+strategizes
+strategizing
+STRIKE !PRONOUNOBJECTIVE AS to
+strikebound
+STRIKES !PRONOUNOBJECTIVE AS to
+STRIKING !PRONOUNOBJECTIVE AS to
+strive
+strive about
+strive for
+strive to
+strive with
+strived
+strived about
+STRIVED TO
+strived with
+striven
+striven to
+striver
+strivers
+strives
+strives about
+strives for
+STRIVES to
+strives with
+striving
+striving about
+striving for
+STRIVING to
+striving with
+strivings
+strove about
+strove for
+strove to
+strove with
+studied for
+studied to
+studied to be
+studied up for
+studied up to
+studies for
+studies to
+studies to be
+studies up for
+studies up to
+study for
+study to
+study to be
+study up for
+study up to
+studying for
+studying to
+studying to be
+studying up for
+studying up to
+suggestion to
+sure to come
+SURMISE to
+SURMISED to
+SURMISES to
+SURMISING to
+suspense
+tab for
+tabbed for
+tabbing for
+tabs for
+tactical plan
+tactical planning
+tactically planned
+TAKE IT SERIOUSLY to
+TAKES !DETERMINER WHILE TO SINK IN to
+TAKES IT SERIOUSLY to
+TAKING IT SERIOUSLY to
+talked of as
+talked of as !DETERMINER likely
+talked of as !DETERMINER possible
+tally plan
+tally plans
+target
+target-date
+target-dates
+target dates
+target for !DETERMINER
+target goal
+target goals
+target image
+targets
+targets for !DETERMINER
+tax-anticipation
+tax anticipation
+tell !DETERMINER future
+tell !POSSESSIVEPRONOUN fortune
+tell !POSSESSIVEPRONOUN future
+tell !YOU fortune
+tell !YOU future
+tell my fortune
+tell my future
+tell our fortune
+tell our future
+telling !DETERMINER future
+telling !POSSESSIVEPRONOUN fortune
+telling !POSSESSIVEPRONOUN future
+telling !YOU fortune
+telling !YOU future
+telling my fortune
+telling my future
+telling our fortune
+telling our future
+tells !DETERMINER future
+tells !POSSESSIVEPRONOUN fortune
+tells !POSSESSIVEPRONOUN future
+tells !YOU fortune
+tells !YOU future
+tells my fortune
+tells my future
+tells our fortune
+tells our future
+tempted to
+tempting to
+tempts to
+tense readiness
+terminating plan
+terminating plans
+that'd
+that'd be
+that'd go
+that'll
+THAT'LL BE
+that'll be !DETERMINER
+THAT'LL BE !DETERMINER !TIMEFRAME
+that'll be !POSSESSIVEPRONOUN
+that'll just be
+that !AUX to be
+that !PRONOUNNOMINAL do not wish to
+that !PRONOUNNOMINAL does not wish to
+that in order to
+that ought to be
+THAT to
+that we treat with
+that we treat with respect
+that would
+that would be
+that would be !DETERMINER
+that would have !PRONOUNOBJECTIVE
+that would have !PRONOUNOBJECTIVE die
+that would have !YOU
+that would have !YOU die
+that would have me
+that would have me die
+that would have us
+that would have us die
+that would just be
+that would just be !DETERMINER
+the Holidays are approaching
+thence
+thenceforth
+thenceforward
+thenceforwards
+thencefoward
+there'll
+there'll be
+there's going to be
+there's nothing to be
+there !AUX going to be
+thereafter
+these goals
+these goals of
+THEY'D BE
+THEY'D GET TO !DETERMINER POINT
+they'd have to
+they'd like
+they'd like to
+they'd prefer
+they'd rather
+they'd then be
+they'll
+they'll be
+they'll see
+THEY'LL WIND UP
+THEY'LL WIND UP IN
+THEY PROJECT !DETERMINER
+they sought
+they would be
+they would rather
+they would sooner
+THINK AHEAD
+THINK AHEAD TO
+THINK BETTER ABOUT
+THINK THAT to
+THINK to
+THINK TWICE BEFORE to
+THINKING AHEAD
+THINKING AHEAD TO
+THINKING BETTER ABOUT
+THINKING THAT to
+THINKING to
+THINKING TWICE BEFORE to
+THINKS AHEAD
+THINKS AHEAD TO
+THINKS BETTER ABOUT
+THINKS THAT to
+THINKS to
+this'll
+those !QUESTION choose to
+those !QUESTION want to
+those !QUESTION wish to
+those goals
+those goals of
+THOUGHT AHEAD
+THOUGHT AHEAD TO
+THOUGHT BETTER ABOUT
+THOUGHT INSIDE !DETERMINER BOX to
+THOUGHT IT OUT to
+THOUGHT IT OVER to
+THOUGHT IT UP to
+THOUGHT OUT LOUD to
+THOUGHT OUTSIDE !DETERMINER BOX to
+THOUGHT THAT to
+THOUGHT to
+threw it to
+throw it to
+throwing it to
+throws it to
+tide-predicting
+till death
+till death do us part
+till doomsday
+time ahead
+time just ahead
+TIME TO begin
+time to come
+time to start
+time will tell
+times ahead
+times just ahead
+times to come
+timetable for
+to-draw
+to-drive
+to-fall
+to-morn
+to-morrow
+to-side
+to !DETERMINER effect of
+to !DETERMINER enhancement
+to !DETERMINER eventual
+to !DETERMINER exploration
+to !DETERMINER exploration of
+to !DETERMINER far horizon
+TO !DETERMINER FUTURE
+to !DETERMINER manner born
+to !DETERMINER purpose
+to !DETERMINER purpose of
+to !DETERMINER support
+to accelerate !DETERMINER flow
+to accept
+to accept !DETERMINER terms of
+to access
+to accomplish
+to accurately
+to adhere to
+to allow
+to allow for
+to answer
+to any end
+to apprise
+to assess
+to assist
+to assume
+to assume command
+to attempt
+to augment responsibility
+to augment skills
+to avoid having to
+to be able to
+to be able to modify
+to be adhered to
+to be allowed to
+to be available
+to be counted on !POSSESSIVEPRONOUN fingers
+to be counted on my fingers
+to be counted on one's fingers
+to be counted on our fingers
+to be crucial for
+to be direct
+to be directly accessible
+to be evacuated
+to be expected
+to be expected to
+to be further
+to be in
+to be in !DETERMINER
+to be modular
+to be more available
+to be perfectly clear
+to be presently
+to be provided
+to be readily available
+to be soon
+to be unfolding
+to beat !DETERMINER dutch
+to become more
+to catch up to
+to catch up with
+to clarify
+to clear
+to close down
+to come about
+to come next
+to come.
+to come;
+to conceal
+to confirm
+to conserve
+to convenience for
+to correct
+to designate
+to diagnose
+to die
+to disclose
+to disguise
+to do !DETERMINER
+to do !DETERMINER just thing
+to do !DETERMINER right thing
+to do in less time
+to do so
+to do what
+to do works
+to easily
+to easily and immediately
+to effectively support
+to end up
+to end up in !DETERMINER better
+to engage
+to engage in
+to enhance
+to ensure that
+to extend
+to facilitate accessible
+to facilitate meaningful
+to ferm
+to find !DETERMINER highly principled
+to find !DETERMINER job
+to find !DETERMINER way to
+to find work
+to for
+to forecast
+to foresee
+to forewarn
+to founding assumptions
+to fulfill
+to further
+to further !DETERMINER
+to further streamline
+to gain quality
+to get
+to get !DETERMINER attention of
+to get !DETERMINER ear of
+to get !DETERMINER fix on
+to get immediate
+to get information out to
+to get jobs
+to gild refined gold
+to go ahead
+to go along with
+to go home
+to guarantee
+to happen
+to hide
+to hold out
+to hold out hope for
+to hold out promise for
+to immediately and effortlessly
+to improve
+to improve !DETERMINER effectiveness
+to improve !DETERMINER efficiency
+to improve !DETERMINER quality
+to improve employee satisfaction
+to improve satisfaction
+to increase
+to increase job satisfaction
+to individualize
+to keep it simple
+to learn of
+to lease
+to leave for home
+to let
+to let loose
+to lighten
+to live in
+to look ahead
+to look for !DETERMINER way to
+to make good use of
+to make happen
+to make sustainable
+to meet !DETERMINER !DAY
+to meet !DETERMINER !DAY goal
+to meet !DETERMINER !MONTH
+to meet !DETERMINER !MONTH goal
+to meet !DETERMINER deadline
+to meet !DETERMINER deadlines
+to meet !DETERMINER goals
+to meet !DETERMINER requirements
+to minimize
+to minimize !DETERMINER banking work
+to minimize !DETERMINER work
+to minimize bottlenecks
+to minimize conflict
+to minimize conflicts
+to more easily and immediately
+to my executors and assigns
+to my heirs
+to my heirs and assigns
+to offer exceptional service
+to offer service
+to only need
+to organize !DETERMINER
+to our executors and assigns
+to our heirs
+to our heirs and assigns
+to overrun
+to pass time
+to pay for
+to permit
+to plan
+to post
+to post on
+to preserve
+to press for
+to process accuracy
+to propose
+to protect
+to provide !DETERMINER complete and up-to-date
+to provide !DETERMINER discount for
+to provide more responsive
+to put !DETERMINER end to
+to put !DETERMINER stop to
+to receive confirmation
+to reduce
+to reduce !DETERMINER amount of
+to reduce !DETERMINER need for
+to reduce !DETERMINER workload
+to reduce cost
+to reduce costs
+to reduce exposure to
+to reduce paper processing
+to reduce processing
+to relieve herself
+to relieve himself
+to relieve ourselves
+to relieve themselves
+to reserve
+to restrict
+to restrict to
+to resume
+to retain savings
+to return to
+to reward
+to run
+to safeguard
+to say directly
+to secure
+to see
+to see and be seen
+to see and sense
+to see if
+to see if he
+to see if he could
+to see if I
+to see if I could
+to see if she
+to see if she could
+to see if they
+to see if they could
+to see if we
+to see if we could
+to see if you
+to see if you could
+to seek
+to seek !DETERMINER way to
+to service improvements
+to set it up
+to significant changes
+to significantly improve
+to simplify
+to simplify exception handling
+to spare
+to stand for
+to state
+to stay at
+to stem into
+to streamline
+to suit
+to supply
+to support
+to surprise
+to take !DETERMINER necessary step
+to take another step
+to take part in
+to test
+to track
+to try
+to try and
+to try to
+to underrun
+to unfold over
+to uphold !DETERMINER same
+to use existing resources
+to volunteer
+to want !DETERMINER convenience of
+to want to be able
+to want to be able to
+to want to take opportunity to
+to widen
+to win !PRONOUNOBJECTIVE back
+to wind up
+to wind up in !DETERMINER better
+told !DETERMINER future
+told !POSSESSIVEPRONOUN fortune
+told !POSSESSIVEPRONOUN future
+told !YOU fortune
+told !YOU future
+told my fortune
+told my future
+told our fortune
+told our future
+tommorrow
+tommorrow's
+tomorrow
+tomorrow's
+tomorrows
+tonight
+TOOK IT SERIOUSLY to
+tool up for
+tool up to
+tooled up for
+tooled up to
+tooling up for
+tooling up to
+tools up for
+tools up to
+tout !DETERMINER l'heure
+toward !DETERMINER future
+toward !DETERMINER goal
+toward !DETERMINER goals
+toward !DETERMINER objective of
+toward !DETERMINER purchase
+toward !DETERMINER purchase of
+toward !DETERMINER realization
+toward !DETERMINER realizations
+toward goals
+towards !DETERMINER future
+towards !DETERMINER goal
+towards !DETERMINER goals
+towards goals
+town-planning
+town plan
+town planning
+trade-seeking
+trade mission
+trade missions
+train for
+train to be
+trained for
+trained to be !DETERMINER
+training for
+training mission
+training missions
+training to be
+trains for
+trains to be
+Travel-planning
+treasure-seeking
+treasure quest
+treasure quests
+treasure seeker
+treasure seekers
+trial-balloon
+trial-balloons
+trial balloon
+trial balloons
+tried !DETERMINER
+tried !POSSESSIVEPRONOUN
+tried for
+tried for  miracle
+tried for point
+tried in
+tried it
+tried it for
+tried it for size
+tried it on for
+tried my
+tried our
+TRIED OUT FOR
+tried to
+trouble !PRONOUNOBJECTIVE for
+trouble !YOU for
+trouble me for
+trouble us for
+troubled !PRONOUNOBJECTIVE for
+troubled !YOU for
+troubled me for
+troubled us for
+troubles !PRONOUNOBJECTIVE for
+troubles !YOU for
+troubles me for
+troubles us for
+troubling !PRONOUNOBJECTIVE for
+troubling !YOU for
+troubling me for
+troubling us for
+truce-seeking
+try
+try !DETERMINER
+try !POSSESSIVEPRONOUN
+TRY !POSSESSIVEPRONOUN LUCK AT
+try !PRONOUNOBJECTIVE
+TRY AND FIND
+TRY AND GET
+TRY AND TAKE
+try for
+try for !DETERMINER miracle
+try for point
+try in
+try it
+try it for
+try it for size
+try it on for
+try my
+try our
+TRY OUT FOR
+try to
+try to link
+try to link !HEADDET to
+tryout
+tryout for
+tryouts
+tryouts for
+TRYS !POSSESSIVEPRONOUN LUCK AT
+UNDER !DETERMINER BELIEF to
+under !DETERMINER deadline of
+UNDER !DETERMINER EVENTUALITY of !DETERMINER
+UNDERSTAND !DETERMINER NUTS AND BOLTS to
+UNDERSTAND !QUESTION to
+UNDERSTAND ABOUT
+UNDERSTAND THAT to
+UNDERSTAND to
+UNDERSTANDING !DETERMINER NUTS AND BOLTS to
+UNDERSTANDING !QUESTION to
+UNDERSTANDING ABOUT
+UNDERSTANDING TO
+UNDERSTANDS !DETERMINER NUTS AND BOLTS to
+UNDERSTANDS !QUESTION to
+UNDERSTANDS ABOUT
+UNDERSTANDS THAT to
+UNDERSTANDS to
+UNDERSTOOD !DETERMINER NUTS AND BOLTS to
+UNDERSTOOD THAT to
+UNDERSTOOD to want
+understood to want to
+undertake
+undertake !DETERMINER
+UNDERTAKE TO
+undertaken
+undertakes
+undertakes !DETERMINER
+UNDERTAKES TO
+undertaking
+undertaking !DETERMINER
+UNDERTAKING TO
+undertakings
+undertook
+UNDERTOOK TO
+unmet goal
+unmet goals
+UNRAVEL !DETERMINER !PROBLEM to
+UNRAVELING !DETERMINER !PROBLEM to
+UNRAVELS !DETERMINER !PROBLEM to
+up-and-coming
+up-and-comingness
+up and coming
+up and start
+up for
+up for anything
+up for discussion
+up for election
+up for hearing
+up for investigation
+up for sale
+up next
+up next on
+up till
+UPCOMING
+upcoming date
+upcoming dates
+upcoming time
+upcoming times
+UPPERMOST AND CENTRAL to
+vatic
+vaticinal
+vaticinals
+vaticinate
+vaticinated
+vaticinates
+vaticinating
+venga lo que
+venture !DETERMINER guess
+venture to
+ventured !DETERMINER guess
+ventured to
+ventures !DETERMINER guess
+ventures to
+venturing !DETERMINER guess
+venturing to
+verge of
+VIEW !PRONOUNOBJECTIVE to
+VIEW IT to
+VIEWING !PRONOUNOBJECTIVE to
+VIEWING IT to
+VIEWS !PRONOUNOBJECTIVE to
+VIEWS IT to
+vision of !DETERMINER future
+visioning
+visions of !DETERMINER future
+volunteer for
+volunteer to
+volunteered for
+volunteered to
+volunteering for
+volunteering to
+volunteers for
+volunteers to
+vouchsafe to
+vouchsafed to
+vouchsafes to
+vouchsafing to
+vow-pledged
+wait
+wait-and-see
+wait and see
+wait for
+wait to be
+wait to hear
+wait to hear about
+wait to hear from
+waited
+waited for
+waited to be
+waited to hear
+waited to hear about
+WAITED TO HEAR FROM
+waiting
+waiting for
+waiting to be
+waiting to hear
+waiting to hear about
+WAITING TO HEAR FROM
+waits
+waits for
+waits to be
+waits to hear
+waits to hear about
+WAITS TO HEAR FROM
+WANNA
+WANNA DO
+WANNA GO
+WANNA MAKE
+want
+WANT EM
+want for
+WANT IT
+WANT to
+want to be able
+want to be able to
+WANT TO DO
+WANT TO GO
+want to know
+WANT TO MAKE
+wanted for
+wanted to
+wanted to know
+wanteth
+wanting for
+wanting to
+wanting to know
+wants for
+WANTS TO
+wants to know
+war-plan
+war-plans
+war for
+war plan
+war plans
+wardmote quest
+wardmote quests
+warm-up in anticipation
+warm-ups for
+warmup for
+warmups for
+warning to
+warred for
+warring for
+wars for
+was about to
+WAS MINDFUL THAT to
+water diviner
+water diviners
+WAYS TO
+we'd be
+we'd like
+we'd like to
+we'd prefer
+we'd prefer to
+we'd rather
+we'd rather instead
+we'd then be
+we'd very much like
+we'd very much like to
+we'll
+we'll all be
+we'll be
+we'll be able to
+we'll do everything we can
+we'll have !DETERMINER
+we'll have all
+we'll have all !DETERMINER
+we'll have all !DETERMINER facts
+we'll have all !DETERMINER information
+we'll have all !DETERMINER latest
+we'll have all !DETERMINER news
+we'll have all !DETERMINER sports
+we'll have all !DETERMINER weather
+we'll see
+WE'LL WIND UP
+WE'LL WIND UP IN
+we're just as soon
+we would rather
+we would sooner
+weapon for
+weapons for
+weather forecast
+weather forecasts
+weather prophet
+weather prophets
+well to pass
+went to war for
+what'll
+what's ahead
+what's coming up next
+what's in store
+what's in store for
+what's to come
+what's waiting around the corner
+what !AUX destined
+what !AUX fated
+what !AUX meant to
+what !AUX to be
+what !AUX to come
+WHAT !PRONOUNNOMINAL !AUX EXPECTING
+WHAT !PRONOUNNOMINAL !AUX EXPECTING to
+what !PRONOUNNOMINAL are capable of
+WHAT !PRONOUNNOMINAL EXPECT to
+WHAT !PRONOUNNOMINAL EXPECTED to
+WHAT !PRONOUNNOMINAL EXPECTS to
+what !PRONOUNNOMINAL has to look forward to
+what !PRONOUNNOMINAL is capable of
+what bodes
+what he !AUX in for
+what I am capable of
+what I am in for
+what I have to look forward to
+what looms
+what may turn out to be
+what she !AUX in for
+what they !AUX  in for
+what was coming next
+what was going to come next
+what we !AUX  in for
+what we are capable of
+what we have to look forward to
+what would be coming next
+what you are capable of
+what you have to look forward to
+when'll
+when !POSSESSIVEPRONOUN time comes
+when it comes time
+when it comes time to
+when it reaches maturity
+when my time comes
+when our time comes
+when time comes
+when time comes to
+whet !DETERMINER appetite for
+whets !DETERMINER appetite for
+whetted !DETERMINER appetite for
+whetting !DETERMINER appetite for
+whither shall
+whither thou
+whither will
+who'll
+willed and bequeathed
+willed to
+willing and bequeathing
+WILLING AT !HEADDET POINT
+willing to
+WILLING TO FIELD !DETERMINER QUESTIONS
+wills and bequeaths
+wills to
+winds of change
+wish-for
+wish-to
+wish-upon
+wish for
+wish to
+wish upon
+wished
+wished-to
+wished-upon
+wished for
+wished to
+wished upon
+wishes-for
+wishes-to
+wishes-upon
+wishes for
+wishes to
+wishes upon
+wishing-for
+wishing-to
+wishing-upon
+wishing for
+wishing to
+wishing upon
+with !DETERMINER call for
+with !DETERMINER call to
+with !DETERMINER calling for
+with !DETERMINER calling to
+with !DETERMINER eye on
+WITH !DETERMINER EYE to
+with !DETERMINER eye toward
+with !DETERMINER eye towards
+WITH !DETERMINER GOAL OF
+WITH !DETERMINER HOPE OF
+with !DETERMINER hope to
+with !DETERMINER instinct to
+with !DETERMINER intent that
+with !DETERMINER intention
+with !DETERMINER intention of
+with !DETERMINER intention to
+with !DETERMINER objective of
+WITH !DETERMINER PURPOSE
+WITH !DETERMINER PURPOSE for
+WITH !DETERMINER PURPOSE to
+WITH !DETERMINER ULTIMATE GOAL OF
+WITH !DETERMINER ULTIMATE HOPE OF
+WITH !DETERMINER VIEW to
+with !DETERMINER will
+WITH !HEADDET IN MIND to
+WITH !PRONOUNOBJECTIVE IN MIN to
+with all its promise
+WITH ANOTHER !TIMEFRAME EXTENSION
+with breathless expectation
+with deliberation
+with expectation
+with expectation for
+with expectations
+with expectations for
+with eyes on
+with foresight
+with forethought
+with full intent
+with hope for
+with intent
+with intentions
+with intentions of
+with plenty to do
+with premeditation
+WITH THAT IN MIND to
+with time,
+with views to
+won't be !DETERMINER wiser
+won't be !DETERMINER wiser for
+won't be around
+won't believe it
+won't buy it
+won't have
+won't hold water
+won't just sit back and
+won't keep
+won't see !DETERMINER light of day
+won't simply
+won't sit back and
+wonder-promising
+wonder-seeking
+wonder-waiting
+wonder promising
+wonder seeking
+wonder waiting
+work-seeking
+work to pay for
+work toward
+work towards
+work up an appetite
+work up for
+work up on
+work up toward
+worked to pay for
+worked toward
+worked towards
+worked up an appetite
+worked up for
+worked up on
+worked up toward
+working plan
+working pland
+working to pay for
+working toward
+working towards
+working up an appetite
+working up for
+working up on
+working up toward
+works to pay for
+works toward
+works up an appetite
+works up for
+works up on
+works up toward
+world-anticipated
+world to come
+worlds anticipated
+would cool off
+would later
+would like
+would like to
+would like to be
+would like to be !DETERMINER
+would like to have
+would likely
+would look ahead
+would look forward
+would make !DETERMINER
+would make !DETERMINER perfect
+would not be
+would not be pinned down
+would not do any good
+would not do it without first
+would not likely
+would not set fire
+would not set precedent
+would not speak
+would pack up
+would peg on
+would prefer
+wouldst
+yearn for
+yearned for
+yearning for
+yearning to
+yearnings to
+yearns for
+you'd then be
+you'll
+young hopeful
+young hopefuls
+youth-seeking

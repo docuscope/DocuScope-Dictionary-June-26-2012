@@ -1,0 +1,245 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!BEAR !POSSESSIVEPRONOUN out
+!BEAR !POSSESSIVEPRONOUN story out
+!BEAR me out
+!BEAR OUR STORY OUT
+!BEAR us out
+!BEAR you out
+!BEAR your story out
+!DETERMINER correct
+!HAVE a point
+!HAVE a point about
+!HAVE a point there
+!HAVE a point when it comes to
+!HAVE it right
+!MAKE !DETERMINER correct
+!MAKE a good point
+!MAKE good points
+!PRONOUNNOMINAL !HAVE a point
+!ROYALWE !MUSTSHOULD endorse
+!ROYALWE !MUSTSHOULD second
+!ROYALWE !OUGHTNEED endorse
+!ROYALWE !OUGHTNEED second
+!ROYALWE granted that
+!ROYALWE strongly affirm
+!ROYALWE strongly argue
+!ROYALWE strongly assert
+!ROYALWE strongly attest
+!ROYALWE strongly aver
+!ROYALWE strongly avow
+!ROYALWE strongly claim
+!ROYALWE strongly contend
+!ROYALWE strongly declaim
+!ROYALWE strongly declare
+!ROYALWE strongly defend
+!ROYALWE strongly observe
+!ROYALWE strongly preach
+!ROYALWE strongly proclaim
+!ROYALWE strongly profess
+!ROYALWE strongly pronounce
+!ROYALWE strongly say
+!ROYALWE strongly state
+!ROYALWE strongly suggest
+!ROYALWE strongly support
+. it is true
+advocate
+advocate !DETERMINER
+advocate !POSSESSIVEPRONOUN
+advocate !PRONOUNOBJECTIVE
+advocated
+advocated !DETERMINER
+advocated !POSSESSIVEPRONOUN
+advocated !PRONOUNOBJECTIVE
+advocates
+advocates !DETERMINER
+advocates !POSSESSIVEPRONOUN
+advocates !PRONOUNOBJECTIVE
+advocating
+advocating !DETERMINER
+advocating !POSSESSIVEPRONOUN
+advocating !PRONOUNOBJECTIVE
+affirmable
+affirmably
+affirmation
+affirmations
+affirmative
+affirmative attitude
+affirmative expression
+affirmative voice
+affirmative vote
+affirmatively
+affirmativeness
+affirmatives
+affirmatories
+affirmatory
+agree with !PRONOUNOBJECTIVE
+agreed with !PRONOUNOBJECTIVE
+agreeing with !PRONOUNOBJECTIVE
+agrees with !PRONOUNOBJECTIVE
+also think so
+also thinking so
+also thinks so
+also thought so
+am in accord with
+am in concordance with
+are in agreement with
+arguments are well-taken
+concurring opinion
+concurring opinions
+condonable
+condone
+condoned
+condoner
+condoners
+condones
+condoning
+considered points
+corroborate
+corroborate !POSSESSIVEPRONOUN
+corroborate my
+corroborate our
+corroborate your
+corroborated
+corroborated !POSSESSIVEPRONOUN
+corroborated my
+corroborated our
+corroborated your
+corroborates
+corroborates !POSSESSIVEPRONOUN
+corroborates my
+corroborates our
+corroborates your
+corroborating
+corroborating !POSSESSIVEPRONOUN
+corroborating evidence
+corroborating information
+corroborating my
+corroborating our
+corroborating testimony
+corroborating witness
+corroborating your
+corroboration
+corroborative
+corroboratively
+corroborator
+corroborators
+corroboratory
+corroboratory evidence
+endorse
+endorse the idea
+endorsed
+endorsed the idea
+endorses
+endorses the idea
+endorsing
+endorsing the idea
+expressly so
+has got a point
+has got a point there
+he is right
+he is right about
+I agree
+I agree that
+I agree with
+I agree with !PRONOUNOBJECTIVE
+I am a follower of
+I am in accord with
+I am in agreement with
+I am on the same page with
+I believe in
+I can't find any difference between myself and
+I concur
+I concur with
+I concur with !DETERMINER
+I do too
+I embrace the ideas of
+I endorse
+I find myself agreeing with
+I follow the ideas
+I generally agree with
+I lend my support to
+I like the idea of
+I second
+I second that
+I support the
+I support the opinion
+ideas are well-taken
+in accord with
+in complete accord with
+in complete agreement with
+in concordance with
+in full accord with
+in full agreement with
+is in agreement with
+it's affirmable
+it's definitely true
+it's definitely true that
+it's true
+it's true that
+it is affirmable that
+it is affirmably true
+it is affirmably true that
+it is true
+it is very much true
+neither do I
+neither do we
+points are well-taken
+prove !PRONOUNOBJECTIVE right
+prove me right
+prove us right
+prove you right
+proved !PRONOUNOBJECTIVE right
+proved me right
+proved us right
+proved you right
+proves !PRONOUNOBJECTIVE right
+proves me right
+proves us right
+proves you right
+proving !PRONOUNOBJECTIVE right
+proving me right
+proving us right
+proving you right
+saw eye to eye
+saw eye to eye with
+see eye to eye
+see eye to eye with
+seeing eye to eye
+seeing eye to eye with
+sees eye to eye
+sees eye to eye with
+several good points
+she is right
+she is right about
+something to be said for
+sure,
+that is affirmable
+that is affirmably true
+they are right
+they are right about
+think alike about
+think so as well
+think so too
+thinking alike about
+thinking so as well
+thinking so too
+thinks alike about
+thinks so as well
+thinks so too
+this is affirmable
+this is affirmably true
+this is true
+this is true enough
+thought alike about
+thought so as well
+thought so too
+true enough
+we agree
+we concur
+we do too
+yah yah
+yes we do
+yes, yes

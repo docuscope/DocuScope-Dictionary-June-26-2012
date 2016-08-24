@@ -1,0 +1,3104 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX above me
+!AUX in my book
+!BEAR MY SIDE OUT
+!BEAR MY STORY OUT
+!BEAR MY VERSION OUT
+!CALL it to my attention
+!CARRY my faith
+!CAST it from my mind
+!CAST it from my thoughts
+!CAST it from our minds
+!CAST it from our thoughts
+!CATCH my drift
+!CHANGE my mind
+!COME home to me
+!COME out of my reverie
+!COME out of my trance
+!COME out of our reverie
+!COME out of our trance
+!COME to my attention
+!CROSS my mind
+!DO all right by myself
+!DO in my own way
+!DO it in my own way
+!DO MY BIDDING
+!DO my heart good
+!DO MY THING
+!DO on my own
+!DO on my own hook
+!DO on my own initiative
+!DO on my own say-so
+!DRAW in my claws
+!DRAW in my horns
+!DROP my goal
+!DROP my goals
+!DROP my guard
+!EAT my fill
+!EAT out of my hand
+!ENTER into my views
+!ENTER my mind
+!ENTER our minds
+!FALL all over myself
+!FALL at my feet
+!FALL under my notice
+!FEEL in my bones
+!FEEL in my breast
+!FEEL in my guts
+!FEEL in my viscera
+!FEEL my ground
+!FEEL my oats
+!FEEL my way
+!FEEL myself
+!FEEL myself again
+!FILL my head
+!FILL my heart
+!FILL my mind
+!FILL my soul
+!FILL our heads
+!FIND my
+!FIND my account in
+!FIND my advantage in
+!FIND my position
+!FIND my tongue
+!FIND my way into
+!FIND myself
+!FIND myself at
+!FIX my attention
+!FIX my gaze
+!FIX my mind on
+!FIX my mind upon
+!FIX my position
+!FIX my thoughts
+!FIX my thoughts on
+!FIX my thoughts upon
+!FIX our attention
+!FIX our gaze
+!FIX our mind on
+!FIX our mind upon
+!FIX our position
+!FIX our thoughts
+!FIX our thoughts on
+!FIX our thoughts upon
+!FOLLOW my nose
+!GATHER my thoughts
+!GATHER our thoughts
+!GATHER that for myself
+!GATHER that for ourselves
+!GATHER to myself
+!GATHER to ourselves
+!GET back on my feet
+!GET butterflies in my stomach
+!GET down from my high horse
+!GET for my pains
+!GET into my grasp
+!GET into my head
+!GET into our grasp
+!GET into our head
+!GET it into my head
+!GET it into our head
+!GET it off my chest
+!GET it off my mind
+!GET it off our mind
+!GET it off our minds
+!GET it out of my mind
+!GET it out of my system
+!GET it out of our mind
+!GET it out of our minds
+!GET it out of our system
+!GET it out of our systems
+!GET it through my head
+!GET it through our head
+!GET it through our heads
+!GET me to think
+!GET my ass in gear
+!GET my bearings
+!GET my desserts
+!GET my drift
+!GET my fingers on
+!GET my hands on
+!GET my mind off
+!GET my minds off
+!GET my monkey up
+!GET my way
+!GET myself
+!GET myself a deal
+!GET myself off
+!GET myself off on
+!GET myself to
+!GET off my back
+!GET off on myself
+!GET out of my mind
+!GET through my head
+!GET through our head
+!GET through our heads
+!GIVE !DETERMINER bit of my mind
+!GIVE !PRONOUNOBJECTIVE my deserts
+!GIVE me !DETERMINER bang
+!GIVE me !DETERMINER bellyful
+!GIVE me !DETERMINER blank check
+!GIVE me !DETERMINER charge
+!GIVE me !DETERMINER kick
+!GIVE me !DETERMINER lift
+!GIVE me !DETERMINER revelation
+!GIVE me !DETERMINER send-off
+!GIVE me a line
+!GIVE me another chance
+!GIVE me carte blanche
+!GIVE me enough rope
+!GIVE me goose pimples
+!GIVE me goosebumps
+!GIVE me gooseflesh
+!GIVE me heartbreak
+!GIVE me her hand
+!GIVE me his gruel
+!GIVE me his hand
+!GIVE me my deserts
+!GIVE me my due
+!GIVE me the eye
+!GIVE me what is coming
+!GIVE my mind to
+!GIVE myself airs
+!GIVE myself for
+!GIVE myself over to
+!GIVE myself over to pleasure
+!GIVE myself up
+!GIVE myself up to
+!GIVE myself up to reverie
+!GIVE us my deserts
+!GO about my business
+!GO my own way
+!GO my rounds
+!GO my separate ways
+!GO my way
+!GO over my head
+!GO through my head
+!GO through my paces
+!GO through my part
+!GO through our head
+!GO to my head
+!GO to my heart
+!GO to my last home
+!GO to my long account
+!GO to my rest
+!GO to my reward
+!GO to our heart
+!HANG on my every word
+!HAVE !DETERMINER excuse I needed
+!HAVE !DETERMINER excuse I sought
+!HAVE a card up my sleeve
+!HAVE a card up my sleeves
+!HAVE a lot on my shoulders
+!HAVE a mind of my own
+!HAVE a tongue in my head
+!HAVE a will of my own
+!HAVE all to myself
+!HAVE butterflies in my stomach
+!HAVE eating out of my hands
+!HAVE in my head
+!HAVE in my mind
+!HAVE in our head
+!HAVE in our mind
+!HAVE it all my own way
+!HAVE it all my way
+!HAVE my ear
+!HAVE my eye on
+!HAVE my fill
+!HAVE my fingers in
+!HAVE my fingers in the pie
+!HAVE my fling
+!HAVE my head screwed on right
+!HAVE my heart
+!HAVE my heart bleed for
+!HAVE my heart in your mouth
+!HAVE my HEART ON my SLEEVE
+!HAVE my heart set against
+!HAVE my heart set on
+!HAVE my innings
+!HAVE my measure
+!HAVE my monkey up
+!HAVE my name in lights
+!HAVE my nerve
+!HAVE my number
+!HAVE my own way
+!HAVE my period
+!HAVE my place in !DETERMINER sun
+!HAVE my revenge
+!HAVE my say
+!HAVE my time
+!HAVE my way
+!HAVE my will
+!HAVE my wits about me
+!HAVE myself
+!HAVE on my hands
+!HAVE on my mind
+!HAVE on my plate
+!HAVE on my shoulders
+!HAVE on our minds
+!HAVE on the edge of my memory
+!HAVE on the tip of my tongue
+!HAVE our heart
+!HAVE our heart bleed for
+!HAVE our heart in your mouth
+!HAVE our HEART ON our SLEEVE
+!HAVE our heart set against
+!HAVE our heart set on
+!HAVE our hearts SET ON
+!HAVE sown my wild oats
+!HAVE the game in my hands
+!HAVE the game in my own hands
+!HAVE up my sleeve
+!HAVE up my sleeves
+!HIT home to me
+!HOLD at my beck and call
+!HOLD my breath
+!HOLD my course
+!HOLD my end up
+!HOLD my eye
+!HOLD my gaze
+!HOLD my ground
+!HOLD my hand
+!HOLD my head above water
+!HOLD my head high
+!HOLD my horses
+!HOLD my jaw
+!HOLD my lip
+!HOLD my nose in the air
+!HOLD my own
+!HOLD my path
+!HOLD my peace
+!HOLD my sides
+!HOLD my tongue
+!HOLD my way
+!HOLD myself aloof
+!HOLD myself apart
+!HOLD myself erect
+!HOLD myself in readiness
+!HOLD myself stiff
+!HOLD myself straight
+!HOLD up my hand
+!KEEP my chin up
+!KEEP my cool
+!KEEP my countenance
+!KEEP my course
+!KEEP my distance
+!KEEP my ear to the ground
+!KEEP my ears open
+!KEEP my esthetic distance
+!KEEP my eye on the ball
+!KEEP my eye peeled
+!KEEP my eyes on
+!KEEP my eyes on the stars
+!KEEP my eyes open
+!KEEP my eyes peeled
+!KEEP my eyes skinned
+!KEEP my fingers crossed
+!KEEP my footing
+!KEEP my freedom
+!KEEP my guessing
+!KEEP my hand in
+!KEEP my hands out of
+!KEEP my head
+!KEEP my head above water
+!KEEP my mouth shut
+!KEEP my nose out of
+!KEEP my nose out of this
+!KEEP my nose to the grindstone
+!KEEP my on edge
+!KEEP my on pins and needles
+!KEEP my on tenterhooks
+!KEEP my own counsel
+!KEEP my pecker up
+!KEEP my place
+!KEEP my posted
+!KEEP my powder dry
+!KEEP my promise
+!KEEP my shirt on
+!KEEP my spirits up
+!KEEP my sword in its sheath
+!KEEP my temper
+!KEEP my trap shut
+!KEEP my weather eye open
+!KEEP my yap shut
+!LAY my cards on the table
+!LAY my course for
+!LAY my finger on
+!LAY my fingers on
+!LAY my hands on
+!LAY my money down
+!LAY our cards on the table
+!LEAD me to
+!LEAD me to expect
+!LEAD me to gather
+!LEAVE to my own devices
+!LEAVE to myself
+!LET !PRONOUNOBJECTIVE have my own way
+!LET me go at will
+!LET me have his head
+!LET me have my own way
+!LET me in on
+!LET me off this time
+!LET my angry passions rise
+!LET my attention wander
+!LET my breath out
+!LET my hair down
+!LET my imagination riot
+!LET my imagination run riot
+!LET my imagination run wild
+!LET my light shine
+!LET my mind wander
+!LET my thoughts wander
+!LET my voice be heard
+!LET my wits go bird's nesting
+!LET myself go
+!LET myself in for
+!LET us in on
+!LIE back on my record
+!LIE upon my oars
+!LIVE by my wits
+!LOOK after my fences
+!LOOK after my own interests
+!LOOK to my laurels
+!LOOK with my own eyes
+!LOSE myself
+!LOSE myself in
+!MAKE a big difference to me
+!MAKE a difference to me
+!MAKE IT MY
+!MAKE ME
+!MAKE me come off
+!MAKE me feel
+!MAKE me jump out of his skin
+!MAKE me out to be
+!MAKE me say 'uncle'
+!MAKE me see
+!MAKE me see double
+!MAKE me shit in my pants
+!MAKE me shiver
+!MAKE me sing small
+!MAKE me sit up and take notice
+!MAKE me stare
+!MAKE me tiddly
+!MAKE me tired
+!MAKE me tremble
+!MAKE MY
+!MAKE my bed
+!MAKE my bed and lie on it
+!MAKE my blood run
+!MAKE my bow
+!MAKE my business
+!MAKE my case
+!MAKE my cause my own
+!MAKE my choice
+!MAKE my compliments to
+!MAKE my debut
+!MAKE my field
+!MAKE my fortune
+!MAKE my head reel
+!MAKE my head revolve
+!MAKE my head spin
+!MAKE my head swim
+!MAKE my head whirl
+!MAKE my home
+!MAKE my keep
+!MAKE my mouth water
+!MAKE my move
+!MAKE my nerves tingle
+!MAKE my oath
+!MAKE my own
+!MAKE my own way
+!MAKE my peace
+!MAKE my pile
+!MAKE my point
+!MAKE my rounds
+!MAKE my salutations
+!MAKE my voice heard
+!MAKE my way through
+!MAKE MYSELF
+!MAKE myself acquainted with
+!MAKE myself conspicuous
+!MAKE myself felt
+!MAKE myself heard
+!MAKE myself master of
+!MAKE myself out to be
+!MAKE myself part of
+!MAKE myself scarce
+!MAKE myself understood
+!MOTIONPREP me
+!MOTIONPREP my
+!MUSTSHOULD be out of my mind
+!MUSTSHOULD I let her know
+!MUSTSHOULD I let him know
+!MUSTSHOULD I tell her
+!MUSTSHOULD I tell him
+!OPEN up to me
+!OPEN up to us
+!PLAN to find my heart
+!PULL in my horns
+!PULL my leg
+!PULL my legs
+!PULL my punches
+!PULL my rank
+!PULL my wits together
+!PUT !DETERMINER bug in my ear
+!PUT !DETERMINER flea in my ear
+!PUT !DETERMINER spoke in my wheel
+!PUT !DETERMINER spoke in my wheels
+!PUT !DETERMINER tuck in my tail
+!PUT a bridle on my tongue
+!PUT a flea in my ear
+!PUT all my eggs in one basket
+!PUT into my head
+!PUT it out of my mind
+!PUT it out of my system
+!PUT it out of my thoughts
+!PUT it out of our mind
+!PUT it out of our minds
+!PUT it out of our thoughts
+!PUT my best face forward
+!PUT my best foot forward
+!PUT my cards on the table
+!PUT my priorities in order
+!PUT myself between disputants
+!PUT myself down
+!PUT myself down for
+!PUT myself forward
+!PUT myself in !DETERMINER spot
+!PUT myself in a spot
+!PUT myself in another's shoes
+!PUT myself in the hands of
+!PUT myself out
+!PUT myself out of court
+!PUT myself out of the way
+!PUT myself outside of
+!PUT myself upon the
+!PUT our cards on the table
+!PUT our heart into
+!PUT our whole soul in
+!PUT out of my head
+!PUT out of my mind
+!PUT out of my misery
+!PUT out of my thoughts
+!PUT out of our head
+!PUT out of our mind
+!PUT out of our thoughts
+!QUESTION AM I
+!QUESTION I am
+!QUESTION I had to do
+!QUESTION I never told
+!QUESTION I stand for
+!QUESTION is curious
+!QUESTION makes me
+!QUESTION puzzles me
+!ROYALWE FIND !PRONOUNOBJECTIVE
+!ROYALWE FOUND !PRONOUNOBJECTIVE
+!RUN in my head
+!RUN in my mind
+!RUN in our head
+!RUN in our mind
+!RUN in through my head
+!RUN in through our heads
+!RUN through my head
+!RUN through my mind
+!RUN through our head
+!RUN through our mind
+!SAY my say
+!SAY to myself
+!SEE in my mind
+!SEE in my mind's eye
+!SEE in our mind
+!SEE in our mind's eye
+!SEE it my way
+!SEE it our way
+!SEE it with my own eyes
+!SEE it with our own eyes
+!SEE through my
+!SEE through our
+!SET in my ways
+!SET my cap at
+!SET my cap for
+!SET my compass for
+!SET my course for
+!SET my mind upon
+!SET my sights
+!SET my sights on
+!SET my thoughts on
+!SET my wits to work
+!SET our mind upon
+!SET our thoughts on
+!SHOW me !DETERMINER LIGHT
+!SPEAK our mind
+!SPEAK our peace
+!STRIKE me as
+!STRIKE my mind
+!STRIKE our mind
+!STRIKE out for myself
+!STRIKE out on my own
+!STRIKE some of us as
+!STRIKE us as
+!TAKE it into my head
+!TAKE it upon myself
+!TAKE the bit in my teeth
+!TAKE up my thoughts
+!TAKE up our thoughts
+!TELL me apart
+!TELL me nicely
+!THROW myself
+!THROW myself into
+!THROW myself into my work
+!TURN her around my little finger
+!TURN him around my little finger
+!TURN me on
+!TURN my attention from
+!TURN my hand to
+!TURN my head
+!TURN my mind to
+!TURN my thoughts to
+!TURN our mind to
+!TURN our minds to
+!TURN our thoughts to
+!TURN over in my mind
+!TURN them around my little finger
+. to me
+. to me,
+. to my way of thinking
+a card up my sleeve
+absorbed in my
+according to my !OPINION
+across my mind
+across our minds
+admit to myself
+admits to myself
+admitted to myself
+admitting to myself
+all I know how
+all I know how to do
+all in my family
+all joking aside I
+all kidding aside I
+all my life
+all my own
+all my steam on
+all of my life
+all the world to me
+am admitting
+am aware
+am aware of
+am being candid
+am being frank
+am being sincere
+am being up-front
+am being up front
+am blunt about
+am candid
+am candid about
+am candidly
+am curious
+am frank
+am frank about
+am frankly
+am in
+am in earnest
+am in life
+am interested
+am interested in
+am open about
+am sincere
+am sincerely
+am trying to be up-front
+am trying to be up front
+am wistful
+am wistful about
+and flesh of my flesh
+are mine
+are my ears read
+as a personal favor
+as a personal favor,
+as a token of my
+as far as I'm concerned
+as far as I am concerned
+as far as regards me
+as for my being
+as I
+as I see it
+as my way
+as my way of
+at least to my mind
+at least to my way of thinking
+at my discretion
+at my feet
+at my fingertips
+at my mercy
+at the pit of my gut
+at the pit of my stomach
+attract my attention
+attract my interest
+attracted my attention
+attracted my interest
+attracting my attention
+attracting my interest
+attracts my attention
+attracts my interest
+back of my mind
+back of our minds
+before my feet
+being myself
+being myself something of
+bend my ear
+bend my mind
+bend my mind to
+bend my mind upon
+bend my thoughts to
+bended my ear
+bending my ear
+bending my mind
+bending my mind to
+bending my mind upon
+bending my thoughts to
+bends my mind
+bends my mind to
+bends my mind upon
+bends my thoughts to
+bent my ear
+bent my mind
+bent my mind to
+bent my mind upon
+bent my thoughts to
+beyond my abilities
+beyond my ability
+beyond my wildest expectations
+bit my tongue
+bit of my mind
+bite my tongue
+bites my tongue
+biting my tongue
+bluntly let me
+bone of my bones
+bottom of my heart
+bouncing in my mind
+bring myself
+bring myself to
+bringing myself
+bringing myself to
+brings myself
+brings myself to
+brought me heartbreak
+brought myself
+brought myself to
+busied myself
+busied myself with
+busies myself
+busies myself with
+busy myself
+busy myself with
+busying myself
+busying myself with
+by my lights
+by my own account
+by my reckoning
+BY MYSELF
+call in my chips
+called in my chips
+calling in my chips
+calls in my chips
+came home to me
+CAME MY WAY
+can't keep my hands off
+Can't pull me away
+can't pull myself away
+can speak for myself
+candidly I
+checking my temper
+chew my cud
+chew my cud over
+chew our cud
+chew our cud over
+chewed my cud
+chewed my cud over
+chewed our cud
+chewed our cud over
+chewing my cud
+chewing my cud over
+chewing our cud
+chewing our cud over
+chews my cud
+chews my cud over
+chews our cud
+chews our cud over
+choose my steps
+choose my way
+chooses my steps
+chooses my way
+choosing my steps
+choosing my way
+chose my steps
+chose my way
+clap my eyes on
+clapped my eyes on
+clapping my eyes on
+claps my eyes on
+claw my toes
+claw my way
+clawed my toes
+clawed my way
+clawing my toes
+clawing my way
+claws my toes
+claws my way
+COMES MY WAY
+consider myself
+consider ourselves
+considered myself
+considered ourselves
+considering myself
+considering ourselves
+considers myself
+considers ourselves
+core of my being
+core of our being
+could get it out of my mind
+couldn't get her out of my mind
+couldn't get him out of my mind
+COULDN'T GET me out OF !POSSESSIVEPRONOUN MIND
+couldn't get out of my mind
+couldn't get them out of my mind
+COULDN'T GET us out OF !POSSESSIVEPRONOUN MIND
+couldn't get us out of my mind
+couldn't get you out of my mind
+Cross my heart
+curiously
+curiously at variance with
+dawned on me
+dear to me
+deep down in my
+deep down in my heart
+deep down in our
+deep down in our hearts
+deep inside me
+deep inside my
+defend my turf
+defended my turf
+defending my turf
+defends my turf
+deny myself not at all
+deny myself nothing
+depth of my being
+depths of my being
+depths of my heart
+depths of our being
+DID MY BIDDING
+did my heart good
+didn't have all my marbles
+direct with me
+direct with us
+dirtied my hands
+dirties my hands
+dirty my hands
+dirtying my hands
+disburden me
+disburden me of
+disburden my conscience
+disburden my heart
+disburden my mind
+disburden myself
+disburden our conscience
+disburden our heart
+disburden our mind
+disburden ourselves
+disburden us of
+disburdened me
+disburdened me of
+disburdened my conscience
+disburdened my heart
+disburdened my mind
+disburdened myself
+disburdened our conscience
+disburdened our heart
+disburdened our mind
+disburdened ourselves
+disburdened us of
+disburdening me
+disburdening me of
+disburdening my conscience
+disburdening my heart
+disburdening my mind
+disburdening myself
+disburdening ourselves
+disburdening us of
+disburdens me
+disburdens me of
+disburdens my conscience
+disburdens my heart
+disburdens my mind
+disburdens myself
+disburdens our conscience
+disburdens our heart
+disburdens our mind
+disburdens ourselves
+disburdens us of
+discover myself
+discovered myself
+discovering myself
+discovers myself
+dismiss from my mind
+dismiss from my thoughts
+dismiss from our mind
+dismiss from our thoughts
+dismissed from my mind
+dismissed from my thoughts
+dismissed from our mind
+dismissed from our thoughts
+dismisses from my mind
+dismisses from my thoughts
+dismisses from our mind
+dismisses from our thoughts
+dismissing from my mind
+dismissing from my thoughts
+dismissing from our mind
+dismissing from our thoughts
+distanced myself
+divert my attention
+divert our attention
+diverted my attention
+diverted our attention
+diverting my attention
+diverting our attention
+diverts my attention
+diverts our attention
+divine my
+divine our
+divined my
+divined our
+divines my
+divines our
+divining my
+divining our
+drive from my thoughts
+drive from our thoughts
+drives from my thoughts
+drives from our thoughts
+driving from my thoughts
+driving from our thoughts
+drove from my thoughts
+drove from our thoughts
+enter my mind
+enter my thinking
+entered my mind
+entered my thinking
+entering my mind
+enters my mind
+enters my thinking
+erase from my memory
+erase from our memory
+erased from my memory
+erased from our memory
+erases from my memory
+erases from our memory
+erasing from my memory
+erasing from our memory
+excuse my bluntness
+expected by me
+expose my secret
+expose myself
+expose our secret
+expose ourselves
+exposed my secret
+exposed myself
+exposed our secret
+exposed ourselves
+exposes my secret
+exposes myself
+exposes our secret
+exposes ourselves
+exposing my secret
+exposing myself
+exposing our secret
+exposing ourselves
+express myself
+expressed myself
+expresses myself
+expressing myself
+far be it from me to
+far be it from me to tell you
+far be it from me to try
+figure in my mind
+figure in our mind
+figure to myself
+figure to ourselves
+figured in my mind
+figured in our mind
+figured to myself
+figured to ourselves
+figures in my mind
+figures in our mind
+figures to myself
+figures to ourselves
+figuring in my mind
+figuring in our mind
+figuring to myself
+figuring to ourselves
+finagle my way
+finagled my way
+finagles my way
+finagling my way
+flash across my mind
+flash across our minds
+flashed across my mind
+flashed across our minds
+flashes across my mind
+flashes across our minds
+flashing across my mind
+flashing across our minds
+flitting through my mind
+focus my mind
+focus my thoughts
+focus our minds
+focus our thoughts
+focused my mind
+focused my thoughts
+focused our minds
+focused our thoughts
+focuses my mind
+focuses my thoughts
+focuses our minds
+focuses our thoughts
+focusing my mind
+focusing my thoughts
+focusing our minds
+focusing our thoughts
+for all I
+for all I care
+for all me
+for all my
+for all my life
+For better or worse I
+For kicks I
+for me
+for my life
+for my money
+for my own
+For my own part
+For my own sake
+for my part
+for my taste
+for my very own
+For the heck of it I
+For what it's worth I
+For whatever it's worth I
+force my thoughts from
+force our thoughts from
+forced my thoughts from
+forced our thoughts from
+forces my thoughts from
+forces our thoughts from
+forcing my thoughts from
+forcing our thoughts from
+forgave myself
+forgive myself
+forgives myself
+forgiving myself
+frankly I
+from a personal perspective I
+from a personal point of view I
+from a purely personal
+from me
+from my
+from my heart
+from my mind
+from my thinking
+from our heart
+from our hearts
+from the bottom of my heart
+from the bottom of our hearts
+from the depths of my heart
+gone out of my recollection
+gone out of my recollections
+gone out of our recollection
+gone out of our recollections
+had had about all I could
+had had all I could
+had my fill
+had my way
+had to restrain myself
+has at my command
+has at my disposal
+has at my disposition
+has at my elbow
+has at my fingers' ends
+has at my fingers' tips
+has at my pleasure
+has had all I could
+has to restrain myself
+have at my command
+have at my disposal
+have at my disposition
+have at my elbow
+have at my fingers' ends
+have at my fingers' tips
+have at my pleasure
+have to restrain myself
+having to restrain myself
+help me
+hit me deep
+hits me deep
+hitting me deep
+how I
+I'd !PLAN
+I'd as soon
+I'd be
+I'd be !DETERMINER
+I'd be kidding
+I'd be lying
+I'd be teasing
+I'd be the first person
+I'd just as soon
+I'd just like to
+I'd like just !DETERMINER minute with that monster
+I'd like to
+I'd rather
+I'd say
+I'll acknowledge
+I'll admit
+I'll be blunt
+I'll be honest
+I'll be honest with you
+I'll be open about
+I'll be the first to admit
+I'll be the first to confess
+I'll be up-front with you
+I'll confess
+I'll do everything I can
+I'll drink to that
+I'll drum up
+I'll eat my hat
+I'll just throw it out there
+I'll openly
+I'm a
+I'm a babe when it comes to
+I'm a little nervous
+I'm an
+I'm awful at
+I'm awful at names
+I'm completely on the level
+I'm concerned about
+I'm concerned about !DETERMINER
+I'm concerned that
+I'm damned if I do and damned if I don't
+I'm distressed
+I'm embarrassed
+I'm embarrassed to say
+I'm excited
+I'm in earnest
+I'm keyed up
+I'm new to
+I'm on the level
+I'm only
+I'm psyched
+I'm saying it straight
+I'm very excited
+I !MEAN
+I !MEAN by that
+I !MEAN that
+I !MEAN TO
+I !MEAN to say
+I !MODAL feel
+I !PLAN
+I !PLAN to
+I !PLAN to admit
+I !PLAN to be
+I !PLAN to confess
+I !PLAN to divulge
+I !PLAN to speak out
+I absolutely realize
+I acted gruffly
+I allow
+I allow !DETERMINER
+I allow !PRONOUNOBJECTIVE
+I almost gagged
+I always believed
+I always felt
+I always forget to
+I always have and will
+I always really
+I am
+I am !DETERMINER
+I am a
+I am absolutely earnest
+I am affirming
+I am agreeing
+I am anticipating
+I am applying for
+I am apprehending that
+I am apprehending that !DETERMINER
+I am arguing
+I am arriving at the conclusion
+I am arriving at the conclusion that
+I am ASKING YOU TO
+I am asserting
+I am assured that
+I am attesting
+I am averring
+I am avowing
+I am aware of
+I am aware of !DETERMINER
+I am bearing !PRONOUNOBJECTIVE in mind
+I am being earnest
+I am believing that
+I am believing that !DETERMINER
+I am biased toward
+I am certain that
+I am checking my temper
+I am claiming
+I am comfortable in the belief that
+I am comfortable that
+I am comfortable that the
+I am coming to the conclusion
+I am coming to the conclusion that
+I am committed
+I am completely on the level
+I am comprehending that
+I am conceiving
+I am conceiving that
+I am conceiving that !DETERMINER
+I am concentrating
+I am concentrating on
+I am confident about the fact that
+I am confident that
+I am confident when I say
+I am conscious of
+I am considering
+I am considering that
+I am considering that !DETERMINER
+I am contending
+I am dazed
+I am dazed about
+I am deciding
+I am deciding that
+I am deciding that !DETERMINER
+I am deciding to
+I am declaiming
+I am declaring
+I am defending
+I am desiring
+I am desiring !DETERMINER
+I am determined
+I am distressed that
+I am earnest
+I am earnest about
+I am earnestly
+I am embarrassed
+I am embarrassed to say
+I am estimating
+I am estimating that
+I am examining
+I am examining how to
+I am examining the
+I am excited
+I am expected to
+I am expecting that
+I am expecting that !DETERMINER
+I am expecting to
+I am familiar with
+I am fathoming
+I am fathoming how
+I am fathoming how to
+I am fathoming that
+I am fighting for
+I am fighting for the !IDEA
+I am firm in the belief that
+I am firm that
+I am flummoxed
+I am flummoxed about
+I am for
+I am forgetting that
+I am guessing that
+I am happy to make your acquaintance
+I am hashing over
+I am hashing over !DETERMINER
+I am holding my temper
+I am holding still about
+I am hoping that
+I am hoping to
+I am imagining that
+I am impatient
+I am impressed by
+I am in earnest
+I am in favor of
+I am inclined to
+I am inclined toward
+I am intending that
+I am intending to
+I am interested
+I am interested in
+I am invested in
+I am judging that
+I am keeping !PRONOUNOBJECTIVE in mind
+I am keeping !PRONOUNOBJECTIVE quiet
+I am keeping !PRONOUNOBJECTIVE still
+I am keeping it quiet
+I am keeping it still
+I am keeping it to !PRONOUNOBJECTIVE
+I am keeping it under my hat
+I am keeping it under wraps
+I am keeping my ear to the ground
+I am keeping my eyes open
+I am keeping my eyes peeled
+I am keeping my eyes peeled for
+I am keeping my feet on the ground
+I am keeping my nose out of !POSSESSIVEPRONOUN business
+I am keeping my nose out of other people's business
+I am keeping my nose to the ground
+I am keeping my own counsel
+I am keeping my own counsel with
+I am keeping my temper
+I am keeping our own counsel
+I am keeping our own counsel with
+I am keeping pace with
+I am keeping quiet about
+I am keeping still about
+I am keyed up
+I am leaning toward
+I am learning to open up with
+I am less than pleased
+I am living
+I am looking for
+I am losing out on
+I am losing sleep over
+I am not kidding
+I am observing
+I am obsessed with
+I am of
+I am of the
+I am of the belief
+I am of the conviction
+I am of the opinion
+I am on the level
+I am one of
+I am onto
+I am onto !DETERMINER
+I am onto !PRONOUNOBJECTIVE
+I am onto it
+I am open about
+I am open to
+I am opening up about
+I am opening up on
+I am particularly impressed by
+I am preaching
+I am privy to
+I am proclaiming
+I am professing
+I am prone toward
+I am pronouncing
+I am psyched up
+I am quite certain that
+I am repudiating
+I am saying
+I am seeing to it that
+I am seeing to it that !DETERMINER
+I am seen
+I am seen as
+I am speaking earnestly
+I am stating
+I am substantively
+I am suggesting
+I am supporting
+I am surprised
+I am taking pride in
+I am taking pride in !DETERMINER
+I am thankful
+I am the
+I am the first to admit
+I am the first to confess
+I am thinking it through
+I am thinking it through with
+I am thrashing out
+I am thrashing out !DETERMINER
+I AM TOO
+I am trespassing
+I am trying to
+I am very excited
+I am very familiar with
+I am wanting
+I am wary
+I am wistful
+I appeal
+I appeal to
+I appear to have
+I appear to have a
+I appreciated that
+I apprehend that
+I apprehended
+I apprehends that
+I arrived at the conclusion
+I became
+I became aware
+I became aware that
+I believe
+I believe it's
+I believe it is
+I believe that
+I believe that !PRONOUNOBJECTIVE
+I believe that I
+I believe that it's
+I believe that it is
+I believe this
+I believe this !AUX
+I believe this is going to be
+I believed
+I believed that
+I blamed
+I blew it
+I blew my cool
+I bluntly
+I bore !PRONOUNOBJECTIVE in mind
+I buoyed spirits
+I came to fault
+I came to notice
+I came to the awareness
+I came to the conclusion
+I can't believe !QUESTION
+I can't deny
+I can't imagine
+I can't say as
+I can't wait for
+I can even imagine
+I can even imagine that
+I can open up with
+I can see myself
+I candidly
+I cannot imagine
+I changed my mind
+I checked my temper
+I come to notice
+I come to the awareness that
+I comprehend that
+I comprehended
+I comprehended that
+I comprehending that
+I comprehends that
+I conceive that
+I conceived
+I conceived !DETERMINER
+I conceived how
+I conceived that
+I concentrate on
+I concentrated
+I concentrated on
+I concentration on
+I conconception that
+I confess
+I confess that
+I conjectured
+I conjectured that
+I considered
+I considered that
+I considers that
+I contemplated
+I contemplated on
+I contemplation that
+I could care less
+I could comprehend that
+I could kick myself
+I could kick myself for
+I could not help
+I could tell
+I couldn't get it out of my mind
+I couldn't get out of my mind
+I crave
+I dare not say
+I dare to say
+I daresay
+I dearly
+I decide that
+I decided
+I decided on
+I decided that
+I decided to
+I deciding that
+I deciding to
+I decision that
+I declare openly
+I defer to
+I deserve
+I desire
+I desired
+I desired that
+I desired to
+I desired to know
+I desires that
+I detect that
+I detected
+I detected that
+I detects that
+I did it for
+I did it for kicks
+I did it For the hell of it
+I directly
+I discern
+I discern that
+I discover that
+I discovered
+I discovered that
+I divulge
+I do get it
+I do my best
+I do my best to
+I don't !PLAN to catch !PRONOUNOBJECTIVE
+I don't guess
+I don't know as
+I doubt there is
+I elected to
+I envy
+I envy you
+I estimate that
+I estimated
+I examine how to
+I examined
+I examined the
+I expect that
+I expect to
+I expected
+I expected that
+I expected to
+I extend !DETERMINER !PLAN
+I fantasize
+I fathom
+I fathom that
+I fathomed
+I fathomed how
+I fathomed that
+I fathoming that
+I fathoms that
+I fault
+I faulted
+I feel
+I feel it
+I feel it's
+I feel it is
+I feel that !PRONOUNOBJECTIVE
+I feel that I
+I feel that it's
+I feel that it is
+I feel this
+I feel this !AUX
+I feel this is going to be
+I felt
+I felt myself
+I fight for
+I fight for the !IDEA
+I find fault with
+I find it curious
+I find it curious that
+I find it distressing
+I find that
+I find this upsetting
+I forget that
+I forgetting that
+I forgetting to
+I forgot
+I forgot to
+I forthrightly
+I FOUND !PRONOUNOBJECTIVE
+I found fault with
+I found good humor in
+I found it curious that
+I frankly
+I freely
+I freely admit
+I gagged
+I get it
+I get to
+I guess that
+I guessed
+I guesses that
+I guessing that
+I had !DETERMINER cow
+I had !DETERMINER fit
+I had a confrontation
+I had as soon
+I had bent over backwards to
+I had better come clean
+I had better explain
+I had better let you know
+I had better tell
+I had comprehended
+I had concentrated
+I had contemplated
+I had detected
+I had guessed
+I had inferred
+I had just as soon
+I had just as soon b
+I had just as soon have
+I had misgivings
+I had observed
+I had perceived
+I had rather
+I had rather be
+I had realized
+I had reasoned
+I had sooner
+I had sooner be
+I has been aware of
+I hashed it over
+I hashed over
+I have
+I have !DETERMINER right
+I have !DETERMINER right to
+I have !PLAN
+I have a bone to pick with
+I have a bone with
+I have a confession
+I have a grudge
+I have a keen interest in
+I have a liking for
+I have a loathing
+I have a penchant for
+I have a proclivity for
+I have a quarrel with
+I have a secret
+I have a stake in
+I have a thing about
+I have an
+I have expectations that
+I have had confrontations
+I have had it
+I have had second thoughts
+I have held a grudge
+I have hoped
+I have let things slide
+I have lost out on
+I have lost sleep over
+I have lost touch with
+I have lost track of
+I have mused
+I have no words
+I have personal stakes
+I have second thoughts
+I have suffered ill-treatment
+I have the expectation that
+I have the feeling
+I have to confess
+I have to divulge
+I held my temper
+I held still about
+I hold a grudge
+I hold expectations to
+I hoped
+I hoped that
+I hoped to
+I hopes to
+I hoping that
+I hoping to
+I imagined that
+I imagines that
+I imagining that
+I infer
+I inferred
+I intend that
+I intend to
+I intended
+I intended that
+I intended to
+I intended to find
+I intended to go on
+I intended to see
+I intending that
+I intending to
+I intends that
+I intends to
+I judge that
+I judged
+I judged that
+I judging that
+I just
+I just !PLAN
+I just !PLAN to
+I just !PLAN to say
+I just can't
+I just can't believe !QUESTION
+I just don't
+I just don't have
+I just don't have the time
+I just have
+I just have no
+I just have not
+I just have this feeling
+I just have to
+I just haven't
+I kept !PRONOUNOBJECTIVE in mind
+I kept !PRONOUNOBJECTIVE quiet
+I kept !PRONOUNOBJECTIVE still
+I kept it !PRONOUNOBJECTIVE quiet
+I kept it quiet
+I kept it quiet about
+I kept it still
+I kept it to !PRONOUNOBJECTIVE
+I kept it under my hat
+I kept it under wraps
+I kept my distance from
+I kept my ear to the ground
+I kept my eyes open
+I kept my eyes peeled
+I kept my eyes peeled for
+I kept my feet on the ground
+I kept my nose out of !POSSESSIVEPRONOUN business
+I kept my nose to the ground
+I kept my own counsel
+I kept my temper
+I kept our own counsel
+I kept pace with
+I kept quiet about
+I kept still about
+I knew
+I knew how
+I knew that
+I knew to
+I knew when
+I knew who
+I knew why
+I know how
+I know to
+I know when I am not wanted
+I know where
+I know whether
+I learn that
+I learn to
+I learned
+I learned that
+I learned to
+I learning that
+I learning to
+I learns that
+I learns to
+I let
+I let !DETERMINER
+I let !PRONOUNOBJECTIVE
+I let it pass
+I let it ride
+I let it slide
+I let it slide by
+I let it slip
+I let it slip out
+I let on that
+I let on that !DETERMINER
+I let slip
+I let the cat out of the bag
+I let the chance slip by
+I like
+I like !DETERMINER
+I like that
+I like the fact that
+I like to
+I like to think
+I liked
+I live
+I loathe
+I locked horns with
+I lost face
+I lost ground
+I lost my cool
+I lost my grip
+I lost my head
+I lost my heart
+I lost my hold over
+I lost my marbles
+I lost my mind
+I lost my reason
+I lost my shirt
+I lost my temper
+I lost my train of thought
+I lost out to
+I lost sleep over
+I lost touch with
+I lost track of
+I loused it up
+I make no bones about
+I make no bones about it
+I mean business
+I meant business
+I mull over
+I mulling over
+I mulls over
+I muse
+I muse about
+I needed to keep my distance from
+I never !MAY
+I never before told
+I never really
+I never told before
+I never would've
+I never would have
+I note that
+I noted that
+I notes that
+I notice that
+I noticed
+I noticed that
+I notices that
+I noticing that
+I noting that
+I observe that
+I observed
+I observed that
+I observes that
+I observing that
+I often find myself thinking about
+I often have the feeling
+I often muse over
+I only have eyes for
+I open up about
+I open up on
+I opened up about
+I opened up on
+I openly
+I openly admit
+I openly declare
+I openly say
+I opposed
+I owe
+I own up to
+I perceive that
+I perceived
+I perceived that
+I perceives that
+I perceiving that
+I permit
+I permit !DETERMINER
+I permit !PRONOUNOBJECTIVE
+I personally
+I pray that
+I prefer to
+I proceeded
+I realize
+I realize that
+I realized
+I realized how much
+I realized that
+I realized that by
+I realized that to
+I realizing how
+I realizing that
+I really
+I really !MUSTSHOULD
+I really always
+I really never
+I reason that
+I reasoned
+I reasoned that
+I reasoning that
+I recognized
+I recognized that
+I recognizing that
+I reexamine that
+I reexamined
+I reexamined that
+I reexamining that
+I remembered that
+I remembered to
+I respectfully
+I sadly
+I saw red
+I saw to it
+I saw to it that
+I say openly
+I see I had
+I see I have
+I seem
+I seem to have
+I seemed
+I share
+I sincerely
+I sometimes have the feeling
+I speculate that
+I speculated
+I speculated about
+I speculated how
+I speculated that
+I speculates that
+I speculating that
+I stand for
+I still carry a grudge
+I suppose that
+I supposed
+I supposed that
+I sure wish
+I surmised
+I surmized
+I take a personal
+I take a personal interest
+I think
+I think about
+I think it's
+I think it is
+I think of
+I think that
+I think that I
+I think that it's
+I think that it is
+I think this
+I think this !AUX
+I think this is going to be
+I thinking that
+I thinks that
+I thought
+I thought about
+I thought I'd die
+I thought I !MUSTSHOULD
+I thought it out
+I thought it over
+I thought that
+I thrased it out
+I too
+I trespassing
+I tried to
+I understand that
+I understood
+I understood that
+I upset
+I very much
+I very personally
+I wanted
+I wanted to
+I was bursting at !DETERMINER seams
+I was concerned with
+I was good humored about
+I was impressed by
+I was less than pleased
+I was particularly impressed by
+I was uneasy
+I were informed that
+I were notified that
+I will acknowledge
+I will admit
+I will bluntly
+I will candidly
+I will confess
+I will discuss freely
+I will frankly
+I will freely
+I will make !DETERMINER point of
+I will never forget
+I will openly
+I wistfully
+I with the intention that
+I with the intention to
+I WOULD
+I WOULD !PLAN
+I would appreciate it
+I would as soon
+I would as soon not
+I would consider it
+I would deem it
+I WOULD HAVE
+I would judge it
+I would just as soon
+I would like the
+I would regard it
+I wouldn't !PLAN to deny
+I wouldn't know about
+if I can be blunt
+if I may be blunt
+if I may speak bluntly
+if you allow me to be blunt
+immune to my
+impinge on my consciousness
+impinge on our consciousness
+impinged on my consciousness
+impinged on our consciousness
+impinges on my consciousness
+impinges on our consciousness
+impinging on my consciousness
+impinging on our consciousness
+in a world of my own
+in all my life
+in all our born days
+in all seriousness let me
+in conjunction with this
+in hindsight I
+in hindsight I !MUSTSHOULD have
+in hindsight I SHOULD've
+in light of this
+in my !OPINION
+in my best interests
+in my head
+in my heart
+in my humble opinion
+in my judgment
+in my life
+in my memories
+in my memory
+in my mind
+in my mind's eye
+in my opinion
+in my own mind
+in my own thinking
+in my power
+in my prayers
+in my recent memory
+in my right mind
+in my spare time
+in my thinking
+in my thoughts
+in my view
+in our heart of hearts
+in our hearts
+in our memories
+in our memory
+in our mind
+in our opinion
+in our own mind
+in our own minds
+in our prayers
+in our thoughts
+in over my head
+in retrospect my
+in retrospect, I !MODAL have
+in seriousness let me
+in the back of my mind
+in the recesses of my mind
+in truth I was
+in truth, I was
+indulge my appetite
+indulge my appetites
+indulge myself
+indulges my appetite
+indulges my appetites
+indulges myself
+indulging my appetite
+indulging my appetites
+indulging myself
+inhibit my desire
+inhibit my desires
+inscribe myself
+inscribe ourselves
+inscribed myself
+inscribed ourselves
+inscribes myself
+inscribes ourselves
+inscribing myself
+inscribing ourselves
+inside my head
+into my memories
+into my memory
+into our memories
+into our memory
+is all I ask
+is all we ask
+is mine
+is my personal
+is my personal business
+is personal to me
+is very personal to me
+it's a secret I
+it's curious that
+it appears I
+it behooves me to
+it crossed my mind
+it is apparent that I
+it is curious that
+it is my !OPINION
+it seems I have
+jog my memories
+jog my memory
+jog our memories
+jog our memory
+jogged my memories
+jogged my memory
+jogged our memories
+jogged our memory
+jogging my memories
+jogging my memory
+jogging our memories
+jogging our memory
+jogs my memories
+jogs my memory
+jogs our memories
+jogs our memory
+joking aside I
+Kidding aside I
+lay my cards on the table
+leash my appetite
+leash my desire
+leashed my appetite
+leashed my desire
+leashes my appetite
+leashes my desire
+leashing my appetite
+leashing my desire
+let's be blunt
+let's be honest
+let's open up with
+let's openly discuss
+let me be blunt
+let me be frank
+let me be perfectly frank
+let me be up-front
+let me be up-front with you
+let me be up front
+let me be up front with you
+let me bluntly
+let me divulge
+let me go off the record to say
+let me just throw it out
+let me lay it all on the line
+let me lay it on the line
+let me lay my cards on the table
+let me make no bones about it
+let me put it all out on the line
+let me put it on the line
+let me say it straight
+let me say on the qt
+let me shoot from the hip
+let me speak bluntly
+let me speak my mind
+let me speak off the record,
+let me tell it straight
+let me tell you !QUESTION I think
+let me tell you on the QT
+let me throw it out there
+level with us
+leveled with me
+leveled with us
+leveling with me
+leveling with us
+levels with me
+levels with us
+limit myself
+limited myself
+limiting myself
+limits myself
+line my pockets
+lined my pockets
+lines my pockets
+lining my pockets
+load my mind
+load my mind with
+load our mind
+load our mind with
+load our minds
+load our minds with
+lodge in my mind
+lodge in our mind
+lodged in my mind
+lodged in our mind
+lodges in my mind
+lodges in our mind
+lodging in my mind
+lodging in our mind
+losing my mind
+MAKES ME
+MAKES MY
+MAKES MYSELF
+MAKING ME
+MAKING MY
+MAKING MYSELF
+marshal my thought
+marshal my thoughts
+marshal our thought
+marshal our thoughts
+marshaled my thought
+marshaled my thoughts
+marshaled our thought
+marshaled our thoughts
+marshaling my thought
+marshaling my thoughts
+marshaling our thought
+marshaling our thoughts
+marshals my thought
+marshals my thoughts
+marshals our thought
+marshals our thoughts
+master my feelings
+master our feelings
+mastered my feelings
+mastered our feelings
+mastering my feelings
+mastering our feelings
+masters my feelings
+masters our feelings
+matters to me
+may I be blunt
+may way of
+meaningful to me
+meseemed
+meseems
+methinks
+mind of my own
+mind of our own
+minded my own
+minded our own
+mindful as I am
+minding of my own
+minding of our own
+minds of my own
+minds of our own
+mine alone
+mine eye
+mine eyes
+mine host
+mine hosts
+my account
+my account of
+my account of myself
+my admission of
+my admissions of
+my attention
+my candid
+my CHANGE of mind
+my closing back up
+my concern is
+My condition !AUX
+my course
+my courses
+my cue
+my curiosity
+my curiosity !AUX
+my curiosity !AUX aroused
+my dark secret
+my dark secrets
+my darkest secrets
+my desire
+my desires
+my emotion
+my emotions
+my expectation
+my expectations
+my fantasies
+my fantasy is
+my focus on
+my guts tell me
+my guts tell me that
+my heart
+my heart-to-heart
+my heart is in my mouth
+my heart is in the right place
+my heart is set on
+my heart skips a beat
+my heart stands still
+my heartfelt
+my hidden desire
+my hidden desires
+my hobbyhorse
+my humble opinion
+my identity
+my idolatry
+my impression
+my impressions
+my inclination
+my inclinations
+my innermost
+my insights
+my interest
+my interests
+my interests with
+my job
+my jobs
+my kind of
+my mind
+my most heartfelt
+my only !PLAN
+my only !PLAN of
+my opening back up
+my opinion
+my own
+my own mind
+my own sweet way
+my own way
+my own way of
+my own ways of
+my passion
+my passions
+my perception
+my perception is
+my personal
+my personal stake
+my personal stake in
+my pick
+my piece
+my preference
+my preferences
+my primary interest
+my real reason
+my reckoning
+my rough edge
+my routine
+my secret
+my sincere
+my sincere wish
+my sincere wish that
+my sincere wishes
+my sincere wishes that
+my sincerest
+my soul
+my spiel about
+my thoughts
+my vantage
+my very own
+my way
+my way of life
+my way of saying
+my way of thinking
+my ways of life
+my ways of thinking
+my whole soul
+my will for
+nor am I
+not having all my marbles
+occupied my attention
+occupied my mind
+occupied my mind with
+occupied my thoughts
+occupied my thoughts with
+occupies my attention
+occupies my mind
+occupies my mind with
+occupies my thoughts
+occupies my thoughts with
+occupy my attention
+occupy my mind
+occupy my mind with
+occupy my thoughts
+occupy my thoughts with
+occupying my attention
+occupying my mind
+occupying my mind with
+occupying my thoughts
+occupying my thoughts with
+occur to me
+occur to our minds
+occur to us
+occurred to me
+occurred to our minds
+occurred to us
+occurring to me
+occurring to our minds
+occurring to us
+occurs to me
+occurs to our minds
+occurs to us
+of my mind
+of my own
+of my own accord
+of my own choice
+of my own free will
+of my own volition
+of my very own
+off my chest
+off our chest
+offhandedly I
+on a personal note let me
+on my
+on my back
+on my beam-ends
+on my belly
+on my bended knees
+on my coattails
+on my deathbed
+on my dime
+on my feet
+on my head
+on my high horse
+on my hind legs
+on my hunkers
+on my knees
+on my legs
+on my mark
+on my marrowbones
+on my mettle
+on my mind
+on my nose
+on my own
+on my part
+on second thought I
+onto me
+onto us
+open myself up
+opened myself up
+opening myself up
+opens myself up
+our admission of
+our admissions of
+our focus
+our hidden desire
+our hidden desires
+our memories
+our memory
+our minds
+our own secret
+our personal secret
+our private secret
+our reckoning
+our secret
+our sincere wish
+our sincere wish that
+our sincere wishes
+our sincere wishes that
+our souls
+our whole soul
+out in my reckoning
+out in our reckoning
+out of my mind
+pass in my checks
+pass over my head
+pass over our heads
+pass through my head
+pass through my mind
+pass through our heads
+pass through our minds
+passed in my checks
+passed over my head
+passed over our heads
+passed through my head
+passed through my mind
+passed through our heads
+passed through our minds
+passes in my checks
+passes over my head
+passes over our heads
+passes through my head
+passes through my mind
+passes through our heads
+passes through our minds
+passing in my checks
+passing over my head
+passing over our heads
+passing through my head
+passing through my mind
+passing through our heads
+passing through our minds
+pent-up in my memories
+pent-up in my memory
+pent-up in our memories
+pent-up in our memory
+personally I
+personally I feel
+picture in my mind
+picture in our mind
+picture in our minds
+picture to myself
+picture to ourselves
+pictured in my mind
+pictured in our mind
+pictured in our minds
+pictured to myself
+pictured to ourselves
+pictures in my mind
+pictures in our mind
+pictures in our minds
+pictures to myself
+pictures to ourselves
+picturing in my mind
+picturing in our mind
+picturing in our minds
+picturing to myself
+picturing to ourselves
+place me on notice
+placed me on notice
+places me on notice
+placing me on notice
+pledge my support
+pledged my support
+pledges my support
+pledging my support
+pop into my head
+pop into our heads
+popped into my head
+popped into our heads
+popping into my head
+popping into our heads
+pops into my head
+pops into our heads
+possess my soul
+possess our souls
+possessed my soul
+possessed our souls
+possessed ourselves
+possesses my soul
+possesses our souls
+possesses ourselves
+possessing my soul
+possessing myself
+possessing our souls
+possessing ourselves
+pour our feelings
+pour our feelings out
+pour our heart
+pour our heart  out
+pour out my
+pour out my feelings
+pour out my heart
+pour out of my
+pour out of my feelings
+pour out of my heart
+pour out our
+pour out our feelings
+pour out our heart
+poured our feelings
+poured our feelings out
+poured our heart
+poured our heart out
+poured out our
+poured out our feelings
+poured out our heart
+pouring our feelings
+pouring our feelings out
+pouring our heart
+pouring our heart out
+pouring out my
+pouring out my feelings
+pouring out my heart
+pouring out of my
+pouring out of my feelings
+pouring out of my heart
+pouring out our
+pouring out our feelings
+pouring out our heart
+pours our feelings
+pours our feelings out
+pours our heart
+pours our heart out
+pours out my
+pours out my feelings
+pours out my heart
+pours out of my
+pours out of my feelings
+pours out of my heart
+pours out our
+pours out our feelings
+pours out our heart
+push from my thoughts
+push from our thoughts
+pushed from my thoughts
+pushed from our thoughts
+pushes from my thoughts
+pushes from our thoughts
+pushing from my thoughts
+pushing from our thoughts
+put me on notice
+puts me on notice
+putting me on notice
+race through my mind
+race through our mind
+raced through my mind
+raced through our mind
+races through my mind
+races through our mind
+racing through my mind
+racking my brain
+rathe me
+rathed me
+rathes me
+rathing me
+reach my decision
+reached my decision
+reaches my decision
+reaching my decision
+recesses of my mind
+recesses of our minds
+reconcile me
+reconcile me to
+reconciled me
+reconciled me to
+reconciles me
+reconciles me to
+reconciling me
+reconciling me to
+refresh my memory
+refresh our memories
+refreshes my memory
+refreshes our memories
+refreshing my memory
+refreshing our memories
+represent myself
+represent myself to be
+represented myself
+represented myself to be
+representing myself
+representing myself to be
+represents myself
+represents myself to be
+respectfully I
+restrain myself
+restrained myself
+restraining myself
+restrains myself
+restrict myself
+restricted myself
+restricting myself
+restricts myself
+retreat into my mind
+retreat into my thoughts
+retreat into our mind
+retreat into our thoughts
+retreated into my mind
+retreated into my thoughts
+retreated into our mind
+retreated into our thoughts
+retreating into my mind
+retreating into my thoughts
+retreating into our mind
+retreating into our thoughts
+retreats into my mind
+retreats into my thoughts
+retreats into our mind
+retreats into our thoughts
+reveal my secret
+reveal myself
+reveal our secret
+reveal ourselves
+revealed my secret
+revealed myself
+revealed our secret
+revealed ourselves
+revealing my secret
+revealing myself
+revealing our secret
+revealing ourselves
+reveals my secret
+reveals myself
+reveals our secret
+reveals ourselves
+reverse myself
+reversed myself
+reverses myself
+reversing myself
+revise my thoughts
+revise our thoughts
+revised my thoughts
+revised our thoughts
+revises my thoughts
+revises our thoughts
+revising my thoughts
+revising our thoughts
+said our mind
+said our peace
+sank into my head
+sank into my mind
+sank into our head
+sank into our heads
+sank into our mind
+sank into our minds
+saw of me
+say our mind
+say our peace
+saying our mind
+saying our peace
+says our mind
+says our peace
+scratch my head over
+scratched my head over
+scratching my head
+seal my lips
+seal our lips
+sealed my lips
+sealed our lips
+sealing my lips
+sealing our lips
+seals my lips
+seals our lips
+search my motives
+search our motives
+search our souls
+searched my motives
+searched our motives
+searched our souls
+searches my motives
+searches our motives
+searches our souls
+searching my motives
+searching our motives
+searching our souls
+see of me
+seeing of me
+sees of me
+seize my mind
+seizes my mind
+self-admitted
+self-confessed
+set me straight
+sets me straight
+setting me straight
+shape my imagination
+shaped my imagination
+shapes my imagination
+shaping my imagination
+show my cards
+show my colors
+show my hand
+show my mind
+show my true colors
+show our cards
+show our colors
+show our true colors
+showed my cards
+showed my colors
+showed my hand
+showed my mind
+showed my true colors
+showed our cards
+showed our colors
+showed our true colors
+showing my cards
+showing my colors
+showing my hand
+showing my mind
+showing my true colors
+showing our cards
+showing our colors
+showing our true colors
+shows my cards
+shows my colors
+shows my hand
+shows my mind
+shows my true colors
+shows our cards
+shows our colors
+shows our true colors
+sincerely I
+sink into my head
+sink into my mind
+sink into our head
+sink into our heads
+sink into our mind
+sink into our minds
+sinking into my head
+sinking into my mind
+sinking into our head
+sinking into our heads
+sinking into our mind
+sinking into our minds
+sinks into my head
+sinks into my mind
+sinks into our head
+sinks into our heads
+sinks into our mind
+sinks into our minds
+sow my wild oats
+sowed my wild oats
+sowing my wild oats
+sows my wild oats
+speak my mind
+speak our mind
+speak our peace
+speaking bluntly I
+speaking bluntly let me
+speaking bluntly, let me
+speaking off the record I
+speaking offhandedly, I
+speaks our mind
+speaks our peace
+spill my guts
+spill my secret
+spill our guts
+spill our secret
+spilled my guts
+spilled my secret
+spilled our guts
+spilled our secret
+spilling my guts
+spilling my secret
+spilling our guts
+spilling our secret
+spills my guts
+spills my secret
+spills our guts
+spills our secret
+spoke our mind
+spoke our peace
+stamp in my memories
+stamp in my memory
+stamp in our memories
+stamp in our memory
+stamp on my memory
+stamp on our memories
+stamped in my memories
+stamped in my memory
+stamped in our memories
+stamped in our memory
+stamped on my memory
+stamped on our memories
+stamping in my memories
+stamping in my memory
+stamping in our memories
+stamping in our memory
+stamping on my memory
+stamping on our memories
+stamps in my memories
+stamps in my memory
+stamps in our memories
+stamps in our memory
+stamps on my memory
+stamps on our memories
+Stay with me !DETERMINER most
+Stay with us !DETERMINER most
+Stayed with us !DETERMINER most
+Staying with me !DETERMINER most
+Staying with us !DETERMINER most
+Stays with me !DETERMINER most
+Stays with us !DETERMINER most
+Stick in my mind
+Stick in our minds
+Sticking in my mind
+Sticking in our minds
+Sticks in my mind
+Sticks in our minds
+store in my mind
+store it in my mind
+stored it in my mind
+stores it in my mind
+storing it in my mind
+straight from my hip
+straight from my shoulder
+strictly between us
+strictly between you and me
+strike deep into my
+strike out on my own
+strikes deep into my
+strikes out on my own
+striking deep into my
+striking out on my own
+struck deep into my
+struck out on my own
+stuff my mind
+stuff my mind with
+stuff our minds
+stuff our minds with
+stuffed my mind
+stuffed my mind with
+stuffed our minds
+stuffed our minds with
+stuffing my mind
+stuffing my mind with
+stuffing our minds
+stuffing our minds with
+stuffs my mind
+stuffs my mind with
+stuffs our minds
+stuffs our minds with
+submerge my feelings
+submerge our feelings
+submerged my feelings
+submerged our feelings
+submerges my feelings
+submerges our feelings
+submerging my feelings
+submerging our feelings
+submerse my feelings
+submerse our feelings
+submersed my feelings
+submersed our feelings
+submerses my feelings
+submerses our feelings
+submersing my feelings
+submersing our feelings
+sum me up
+summed me up
+summing me up
+sums me up
+take it from me
+Take this from me
+talk me into
+talk me out
+talk me out of
+talk me out of it
+talk me out of trying
+talk to me in private
+talk with us in private
+talked me out
+talked me out of
+talked me out of it
+talked me out of trying
+talked to me in private
+talked with us in private
+talking to me in private
+talking with us in private
+talks me out
+talks me out of
+talks me out of it
+talks me out of trying
+talks to me in private
+talks with us in private
+tell me !DETERMINER secret
+tell me apart
+tell us !DETERMINER secret
+telling me !DETERMINER secret
+telling me apart
+telling us !DETERMINER secret
+tells me !DETERMINER secret
+tells me apart
+tells us !DETERMINER secret
+tend to keep to myself
+tended to keep to myself
+tending to keep to myself
+tends to keep to myself
+that's curious to me
+that is curious to me
+the man for me
+the real reason I
+the secret reason I
+the untold reason I
+the way I live
+the way that I
+the woman for me
+think my way through
+think only of myself
+thinking my way through
+thinking only of myself
+thinking to myself
+thinks my way through
+thinks only of myself
+thought my way through
+thought only of myself
+threw me over
+threw myself at the feet of
+threw myself at the head of
+threw myself into
+threw myself into the arms of
+threw myself on
+threw myself on your knees
+threw off my guard
+threw out my chest
+through my
+through my eyes
+through my mind
+through our mind
+through our mind's eye
+through our minds
+throw me over
+throw myself at the feet of
+throw myself at the head of
+throw myself into
+throw myself into the arms of
+throw myself on
+throw off my guard
+throw out my chest
+throwing me over
+throwing myself at the feet of
+throwing myself at the head of
+throwing myself into
+throwing myself into the arms of
+throwing myself on
+throwing myself on your knees
+throwing off my guard
+throwing out my chest
+throws me over
+throws myself at the feet of
+throws myself at the head of
+throws myself into
+throws myself into the arms of
+throws myself on
+throws myself on your knees
+throws off my guard
+throws out my chest
+tip me off
+tip my hand
+tip our hand
+tipped me off
+tipped my hand
+tipped our hand
+tipping me off
+tipping my hand
+tipping our hand
+tips me off
+tips my hand
+tips our hand
+to be blunt,
+to be candid I
+to be honest I
+to be honest with ya I
+to be honest with you I
+to be perfectly blunt
+to be perfectly blunt let me
+to be perfectly candid I
+to be perfectly honest I
+to go off the record, let me
+to me
+to me point-blank
+to me,
+to my
+to my fancy
+to my knowledge
+to my mind
+to my mind at least
+to my own mind
+to my way of thinking
+to my way of thinking at least
+to myself
+to relieve myself
+to sink in my head
+to sink in our heads
+to speak bluntly
+to speak truthfully,
+to tell the honest truth I
+to us point-blank
+told me !DETERMINER secret
+told us !DETERMINER secret
+toot my own horn
+tooted my own horn
+tooting my own horn
+toots my own horn
+tried my best
+tries my best
+true to my colors
+truth be told I was
+truth be told, I was
+try my best
+trying my best
+tumble through my mind
+tumbled through my mind
+tumbles through my mind
+tumbling through my mind
+unbosom myself
+unbosomed myself
+unbosoming myself
+unbosoms myself
+unburden my conscience
+unburden my heart
+unburden my mind
+unburden myself
+unburden our conscience
+unburden our heart
+unburden our mind
+unburden our minds
+unburden ourself
+unburden ourselves
+unburdened my conscience
+unburdened my heart
+unburdened my mind
+unburdened myself
+unburdened our conscience
+unburdened our heart
+unburdened our mind
+unburdened ourself
+unburdened ourselves
+unburdening my conscience
+unburdening my heart
+unburdening my mind
+unburdening myself
+unburdening our conscience
+unburdening our heart
+unburdening our mind
+unburdening ourself
+unburdening ourselves
+unburdens my conscience
+unburdens my heart
+unburdens my mind
+unburdens myself
+unburdens our conscience
+unburdens our heart
+unburdens our mind
+unburdens ourself
+unburdens ourselves
+unleash my appetite
+unleash my desire
+unleashed my appetite
+unleashed my desire
+unleashes my appetite
+unleashes my desire
+unleashing my appetite
+unleashing my desire
+up to me to
+very dear to me
+very meaningful to me
+viewed as such
+viewed in light of
+viewed this way
+viewed thusly
+voice my opinion
+voice my opinions
+voiced my opinion
+voiced my opinions
+voices my opinion
+voices my opinions
+voicing my opinion
+voicing my opinions
+was I
+we'd be kidding
+we'd be lying
+we'd be teasing
+we are obsessed with
+we can see ourselves
+WE COULD OPEN UP WITH ONE ANOTHER
+we daresay
+we thought we'd die
+weaned my thoughts from
+weaned our thoughts from
+weaning my thoughts from
+weaning our thoughts from
+weans my thoughts from
+weans our thoughts from
+wear my heart on my sleeve
+wear my heart upon my sleeve
+wear our heart on our sleeve
+wear our heart upon our sleeve
+wearing my heart on my sleeve
+wearing my heart upon my sleeve
+wearing our heart on our sleeve
+wearing our heart upon our sleeve
+wears my heart on my sleeve
+wears my heart upon my sleeve
+wears our heart on our sleeve
+wears our heart upon our sleeve
+went over my head
+what I like in a man
+what I like in a woman
+why I could possibly
+why I would possibly
+will of my own
+wish on me
+wish on my
+wish on myself
+wish on our
+wish on ourselves
+wished on me
+wished on my
+wished on myself
+wished on our
+wished on ourselves
+wishes on me
+wishes on my
+wishes on myself
+wishes on our
+wishes on ourselves
+wishing on me
+wishing on my
+wishing on myself
+wishing on our
+wishing on ourselves
+wistfully I
+with all I have at my disposal
+with my family
+with my own
+with my own ears
+with my own eyes
+with my own fingers
+with my own hands
+with my own mouth
+with my own nose
+with my own senses
+within me
+wore my heart on my sleeve
+wore my heart upon my sleeve
+wore our heart on our sleeve
+wore our heart upon our sleeve
+worn my heart on my sleeve
+worn my heart upon my sleeve
+worn our heart on our sleeve
+worn our heart upon our sleeve
+worship the ground I walk on
+worshipped the ground I walk on
+worshipping the ground I walk on
+worships the ground I walk on
+wrapped up in myself
+yield myself to passion
+yield to my passion
+yielded myself to passion
+yielded to my passion
+yielding myself to passion
+yielding to my passion
+yields myself to passion
+yields to my passions

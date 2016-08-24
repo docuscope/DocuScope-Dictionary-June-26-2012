@@ -1,0 +1,1620 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!ACT COLLECTIVELY
+!AUX OURS
+!CALL it to our attention
+!COME together with
+!COME together with the rest
+!COME together with the rest of
+!COME together with the rest of the world
+!COME united
+!DETERMINER collaboration
+!DETERMINER collaboration between
+!DETERMINER collaboration of
+!DETERMINER collective
+!DETERMINER COUPLE OF US
+!DETERMINER fellow citizen
+!DETERMINER fellow worker
+!DETERMINER nation
+!DETERMINER number of us
+!DO us
+!FALL in line with
+!FALL in together
+!FALL in together with
+!FIND us
+!GET us
+!GO after our
+!GO after our main objective
+!GO after our objective
+!GO in partners
+!GO in partnership
+!GO into partnership with
+!GO partners
+!HAVE !DETERMINER HAND IN
+!HAVE our ear
+!HAVE our eye on
+!HAVE our innings
+!HAVE our measure
+!HAVE our name in lights
+!HAVE our number
+!HAVE our period
+!HAVE our place in !DETERMINER sun
+!HAVE our revenge
+!HAVE our time
+!HAVE us
+!JOIN battle
+!JOIN battle with
+!JOIN effort
+!JOIN forces
+!JOIN forces with
+!JOIN forces with us
+!JOIN fortunes with
+!JOIN hands with
+!JOIN herself to
+!JOIN himself to
+!JOIN in
+!JOIN in !DETERMINER conversation
+!JOIN in fellowship
+!JOIN in holy wedlock
+!JOIN in marriage
+!JOIN in the chorus
+!JOIN in with
+!JOIN issue
+!JOIN issue upon
+!JOIN my
+!JOIN myself to
+!JOIN of forces
+!JOIN our
+!JOIN our effort
+!JOIN ourselves to
+!JOIN the angels
+!JOIN the choir invisible
+!JOIN the club
+!JOIN the great majority
+!JOIN the majority
+!JOIN the opposition
+!JOIN the parade
+!JOIN themselves to
+!JOIN together
+!JOIN together for
+!JOIN up
+!JOIN up for
+!JOIN up with
+!JOIN us
+!JOIN us with
+!JOIN with
+!JOIN your
+!JOIN your ancestors
+!JOIN your fortunes with
+!JOIN yourself to
+!JOIN yourself with
+!KEEP our chin up
+!KEEP our cool
+!KEEP our countenance
+!KEEP our course
+!KEEP our distance
+!KEEP our ear to the ground
+!KEEP our ears open
+!KEEP our esthetic distance
+!KEEP our eye on the ball
+!KEEP our eye peeled
+!KEEP our eyes on
+!KEEP our eyes on the stars
+!KEEP our eyes open
+!KEEP our eyes peeled
+!KEEP our eyes skinned
+!KEEP our fingers crossed
+!KEEP our footing
+!KEEP our freedom
+!KEEP our hand in
+!KEEP our head
+!KEEP our head above water
+!KEEP our mouth shut
+!KEEP our nose out of this
+!KEEP our nose to the grindstone
+!KEEP our pecker up
+!KEEP our place
+!KEEP our powder dry
+!KEEP our promise
+!KEEP our shirt on
+!KEEP our spirits up
+!KEEP our sword in its sheath
+!KEEP our temper
+!KEEP our trap shut
+!KEEP our weather eye open
+!KEEP our yap shut
+!KEEP us on our toes
+!LAY our course for
+!LAY our finger on
+!LAY our fingers on
+!LAY our hands on
+!LAY our money down
+!LAY our shoulder to the wheel
+!LAY ourselves out
+!LEAD us to
+!LEAD us to expect
+!LEAD us to gather
+!LIVE together
+!MAKE herself part of
+!MAKE himself part of
+!MAKE myself !DETERMINER part of
+!MAKE myself !DETERMINER regular part of
+!MAKE myself an important part of
+!MAKE myself part of !DETERMINER
+!MAKE our bed
+!MAKE our bed and lie on it
+!MAKE our blood run
+!MAKE our bow
+!MAKE our business
+!MAKE our case
+!MAKE our cause our own
+!MAKE our choice
+!MAKE our compliments to
+!MAKE our debut
+!MAKE our field
+!MAKE our fortune
+!MAKE our head reel
+!MAKE our head revolve
+!MAKE our head spin
+!MAKE our head swim
+!MAKE our head whirl
+!MAKE our home
+!MAKE our keep
+!MAKE our mouth water
+!MAKE our move
+!MAKE our nerves tingle
+!MAKE our oath
+!MAKE our own
+!MAKE our own way
+!MAKE our peace
+!MAKE our pile
+!MAKE our point
+!MAKE our rounds
+!MAKE our salutations
+!MAKE our voice heard
+!MAKE our way through
+!MAKE ourselves
+!MAKE ourselves acquainted with
+!MAKE ourselves conspicuous
+!MAKE ourselves felt
+!MAKE ourselves heard
+!MAKE ourselves master of
+!MAKE ourselves part of
+!MAKE ourselves scarce
+!MAKE ourselves understood
+!MAKE themselves part of
+!MAKE us
+!MAKE us aware of
+!MAKE yourself part of
+!MOTIONPREP our
+!NUMS1TO100 OF US
+!POSSESSIVEPRONOUN fellow
+!PULL together
+!SPEND our boyhood's together
+!SPEND our boyhood together
+!SPEND our boyhoods' together
+!SPEND our boyhoods together
+!SPEND our childhood's together
+!SPEND our childhood together
+!SPEND our childhoods' together
+!SPEND our childhoods together
+!SPEND our girlhood's together
+!SPEND our girlhood together
+!SPEND our girlhoods' together
+!SPEND our girlhoods together
+!TAKE COLLECTIVE ACTION
+!TAKE in the aggregate
+!TAKE part
+!TAKE part in
+!TAKE part with
+!TAKE the aggregate
+!TAKE the whole
+!TEAM UP WITH
+!TEAM UP WITH !DETERMINER
+!WORK as !DETERMINER team
+!WORK together
+according to our view
+act together
+act with
+acted together
+acted with
+acting together
+acting with
+acts together
+acts with
+affiliate
+affiliate to
+affiliate with
+affiliated
+affiliated stations
+affiliated to
+affiliated with
+affiliates
+affiliates to
+affiliates with
+affiliating
+affiliating to
+affiliating with
+affiliation order
+affiliation proceedings
+aggregately
+aggregative
+align our
+aligned our
+aligning our
+aligns our
+alike
+all for one
+all of our
+all of us
+all of us, including
+all our
+all together
+all.
+allied
+along with me
+along with us
+along with you
+among our
+among the living
+among us
+amongst our
+an ensemble
+are of one mind
+are we ready
+are we ready to begin
+are we ready to go
+around us
+as !DETERMINER couple
+as !DETERMINER group
+as !DETERMINER nation
+as !DETERMINER nation and !DETERMINER people
+as !DETERMINER pair
+as !DETERMINER people
+as !DETERMINER single voice we
+as !DETERMINER single voice, we
+as Americans
+as couples
+as for our being
+as one nation
+as one people
+as one sovereign
+as one unified
+as one.
+as pairs
+as we proceed
+as we wish
+as with me, you
+asks us to
+at one.
+at our joint
+at our mutual
+at our mutual disposal
+ate off the same trencher
+be of one mind
+bear with us
+beckoning us
+before us
+being with
+belong to both of us
+between our
+between us
+betwisted our
+betwixted our
+bilateral support
+bilateral talks
+bilateralism
+bilaterally
+bilateralness
+bled with
+bleed with
+bleeding with
+bleeds with
+both of us
+bring !PRONOUNOBJECTIVE around
+bring me around
+bring them around
+bring us around
+bring us together
+bring you around
+brought us together
+bu all of us
+by us all
+cahoot
+calling us
+came together as !DETERMINER pair
+came together as one
+challenges us to
+challenging us
+club together
+clubbed together
+clubbing together
+clubs together
+co-owner
+co-ownership
+co-patriot
+co-presence
+co-radicate
+co-regent
+co-relation
+co-religionist
+co-respondent
+co-rival
+co-sentient
+co-signatory
+co-signer
+co-sovereign
+co-star
+co-starred
+co-starring
+co-subordinate
+co-supreme
+co-sureties
+co-surety
+co-tenant
+co-tenants
+co-tidal
+co-trustee
+co-une
+co-unite
+co-use
+co-versed
+co-walker
+co-widow
+co-wife
+co-winner
+co-work
+co-worker
+co-workers
+co-working
+co-worship
+cobelligerent
+cobelligerents
+cogignatories
+cohort
+cohort of
+cohorts
+cohorts of
+cohorts with
+COLLABORATE WITH
+COLLABORATED WITH !DETERMINER
+COLLABORATES WITH
+collaboration
+collaboration between
+collaboration of
+COLLABORATION WITH
+collaborations
+COLLABORATIONS WITH
+collaborative
+collaboratively
+collectively
+collectively we
+combined effort
+combined efforts
+commiserate
+commiserates
+commiserating
+commiseratingly
+commiseration
+commiserative
+commiseratively
+common accord
+common alum
+common ancestry
+common assent
+common belief
+common beliefs
+common bond
+common cause
+common causes
+common chord
+common concern
+common concerns
+common creeds
+common descent
+common effort
+common endeavor
+common enterprise
+common enterprises
+common gender
+common goal
+common goals
+common ideology
+common interest
+common need
+common needs
+common outlook
+common ownership
+common prayer
+common problem
+common problems
+common property
+common soul
+common souls
+common standards
+common understanding
+common understandings
+common values
+common vulnerability
+commonable
+commonly fighting for
+communal
+communal effort
+communal enterprise
+communal marriage
+communality
+communally
+communals
+commune
+communed
+communes
+communing
+communities
+community
+community at large
+community chest
+community effort
+community efforts
+community of interest
+community of interests
+community property
+community sentiment
+community sing
+community singing
+community supervision
+community trust
+commutual
+concerted action
+concerted actions
+concerted goal
+confronting us
+consociate
+consociated
+consociates
+consociating
+corroborated on
+corroborated with
+cosignatory
+cotemporaries
+cotemporary
+cotenant
+cotentants
+count !PRONOUNOBJECTIVE among
+count !PRONOUNOBJECTIVE in
+count me in
+count me in as one
+count on me as one who
+counted !PRONOUNOBJECTIVE among
+counted !PRONOUNOBJECTIVE in
+counted me in
+counting !PRONOUNOBJECTIVE among
+counting !PRONOUNOBJECTIVE in
+counting me in
+counts !PRONOUNOBJECTIVE among
+counts !PRONOUNOBJECTIVE in
+counts me in
+coworker
+coworkers
+critical for us
+decisive for us
+did give us
+draw our attention
+draw us together
+drawing our attention to
+drawing us together
+draws our attention to
+draws us together
+drew our attention to
+drew us together
+each child
+each man
+each of us
+each person
+each woman
+eat off the same trencher
+eating off the same trencher
+eats off the same trencher
+en bloc
+en masse
+ensemble cast
+ensemble cast members
+ensemble casts
+every child
+every man
+every person
+every woman
+face together
+faced together
+faces together
+facing together
+fellow-commoner
+fellow-commoners
+fellow-creature
+fellow-creatures
+fellow-feel
+fellow-feeling
+fellow-feelings
+fellow-heir
+fellow-heirs
+fellow-man
+fellow-men
+fellow-smoker
+fellow-smokers
+fellow-soldier
+fellow-soldiers
+fellow-woman
+fellow-women
+fellow actor
+fellow actors
+fellow American
+fellow Americans
+fellow apprentice
+fellow apprentices
+fellow being
+fellow beings
+fellow boarder
+fellow boarders
+fellow captive
+fellow captives
+fellow caucasian
+fellow caucasians
+fellow christian
+fellow christians
+fellow citizen
+fellow citizens
+fellow collegian
+fellow collegians
+fellow commoner
+fellow commoners
+fellow communicant
+fellow communicants
+fellow companion
+fellow companions
+fellow conspirator
+fellow conspirators
+fellow convict
+fellow convicts
+fellow countryman
+fellow countrymans
+fellow countrymen
+fellow craftsman
+fellow craftsmans
+fellow creature
+fellow creatures
+fellow criminal
+fellow criminals
+fellow delegate
+fellow delegates
+fellow democrat
+fellow democrats
+fellow disciple
+fellow disciples
+fellow emigrant
+fellow emigrants
+fellow employee
+fellow employees
+fellow exile
+fellow exiles
+fellow explorer
+fellow explorers
+fellow feeling
+fellow feeling in suffering
+fellow feelings
+fellow feelings in suffering
+fellow guest
+fellow guests
+fellow heir
+fellow heirs
+fellow helper
+fellow helpers
+fellow idler
+fellow idlers
+fellow immigrant
+fellow immigrants
+fellow laborer
+fellow laborers
+fellow listener
+fellow listeners
+fellow lodger
+fellow lodgers
+fellow man
+fellow member
+fellow members
+fellow men
+fellow mortal
+fellow mortals
+fellow passenger
+fellow passengers
+fellow patriot
+fellow patriots
+fellow pedestrian
+fellow pedestrians
+fellow plotter
+fellow plotters
+fellow prisoner
+fellow prisoners
+fellow pupil
+fellow pupils
+fellow republican
+fellow republicans
+fellow servant
+fellow servants
+fellow sinner
+fellow sinners
+fellow smoker
+fellow smokers
+fellow soldier
+fellow soldiers
+fellow student
+fellow students
+fellow sufferer
+fellow sufferers
+fellow townsman
+fellow townsmans
+fellow traveler
+fellow travelers
+fellow traveller
+fellow travellers
+fellow tribesman
+fellow tribesmans
+fellow victim
+fellow victims
+fellow villager
+fellow villagers
+fellow worker
+fellow workers
+fellow workman
+fellow workmen
+fellow worshiper
+fellow worshipers
+fighting together for
+fit together
+fits together
+fitting together
+follow along
+followed along
+following along
+follows along
+for all of us
+for all we
+for being with
+for our
+for our country
+for our nation
+for our own
+for our very own
+for the common interest
+for the interests of all
+for the united good
+for the use of all
+for the use of everyone
+FOR THOSE OF US
+for us
+for us all
+for we all
+for which we stand
+from us all
+gang-cask
+gang along
+gang alongs
+gang around
+gang arounds
+gang cask
+gang casks
+gang together
+gang up
+gang up with
+ganged up
+ganged up with
+ganging up
+ganging up with
+gangs together
+gangs up
+gangs up with
+god is on our side
+hang in with
+hang together
+hang with
+hanged in with
+hanged together
+hanged with
+hanging in with
+hanging together
+hanging with
+hangs in with
+hangs together
+hangs with
+has at our command
+has at our disposal
+has at our disposition
+has at our elbow
+has at our fingers' ends
+has at our fingers' tips
+has at our pleasure
+has long occupied
+has occupied us
+have at our command
+have at our disposal
+have at our disposition
+have at our elbow
+have at our fingers' ends
+have at our fingers' tips
+have at our pleasure
+he all
+here we are
+holiday with
+holidayed with
+holidaying with
+holidays with
+hung together
+I am sure that like me you
+I am sure you will be
+I both
+I know that collectively
+if we all
+if we all come together
+if we together
+important for us
+in !DETERMINER chorus
+in !DETERMINER chorus of
+in !DETERMINER single voice
+in !DETERMINER unified voice
+in association
+in association with
+in chorus
+in collaboration
+in collaboration with
+in common
+in common with
+in groups
+in league
+in league together
+in league with
+in one voice
+in our
+in our armor
+in our attempts
+in our bad books
+in our behalf
+in our best bib and tucker
+in our birthday suit
+in our black books
+in our book
+in our books
+in our charge
+in our chest
+in our clutches
+in our collective grip
+in our common grip
+in our common interest
+in our control
+in our country
+in our cups
+in our effort
+in our efforts
+in our element
+in our employ
+in our estimation
+in our eye
+in our favor
+in our good
+in our good books
+in our good graces
+in our grasp
+in our heart
+in our inmost thoughts
+in our interest
+in our interest to
+in our nation
+in our own hand
+in our own interest
+in our own person
+in our own right
+in our own sweet way
+in our own way
+in our pay
+in our place
+in our pocket
+in our possession
+in our power
+in our prime
+in our right mind
+in our second childhood
+in our shell
+in our shirt-sleeves
+in our shirt sleeves
+in our shoes
+in our sleeve
+in our sober senses
+in our stocking feet
+in our teens
+in our thinking
+in our tracks
+in our view
+in the association
+in the association of
+in the boat together
+in the company
+in the organization
+in the organization of
+in the same boat together
+IN THE WAY OF OUR
+in total agreement
+in unison
+in unison with
+in unison, we
+in which we believe
+inspires us to
+interfaith
+international
+internationalism
+internationalist
+internationalists
+internationality
+internationalization
+internationalizations
+internationalize
+internationalized
+internationalizes
+internationalizing
+internationally
+internationals
+interracial
+interracially
+interregional
+into partnership
+into partnership with
+invites us to
+Involved in the workshop
+Involved in the workshops
+is of one mind
+is on our side
+is staring us
+it was unanimous
+joint-discussion
+joint-discussions
+joint-effort
+joint-efforts
+joint-operation
+joint-operations
+joint-ownership
+joint-ownerships
+joint account
+joint accounts
+joint agreement
+joint agreements
+joint assets
+joint counsels
+joint discussion
+joint discussions
+joint effort
+joint efforts
+joint executors
+joint operation
+joint operations
+joint ownership
+joint ownerships
+joint right
+joint rights
+joint rules
+joint session
+joint sessions
+joint statement
+joint statements
+jointly
+jointly fighting for
+jointly we
+jointly, we
+laid aside our differences
+law partnership
+law partnerships
+lay aside our differences
+laying aside our differences
+lays aside our differences
+le tout ensemble
+league together
+league with
+leagued with
+leaguing with
+let's team up for
+let's team up to
+let ourselves
+let us agree
+let us be
+let us both
+let us commonly
+let us decide
+let us find !DETERMINER way
+let us jointly
+let us mutually
+like me, you
+like us, you
+like we all
+live as one family
+live as one nation
+lived as one family
+lived as one nation
+lives as one family
+lives as one nation
+living as one family
+living as one nation
+lose our lives
+lose the lives of our
+loses our lives
+loses the lives of our
+losing our lives
+losing the lives of our
+lost our lives
+lost the lives of our
+lot's of us
+many of us
+may we both
+members of an ensemble
+members of our community
+members of the ensemble
+menacing us
+most of us
+most of us are
+motivates us to
+muck in together
+muck together
+mucked in together
+mucked together
+mucking in together
+mucking together
+mucks in together
+mucks together
+must stand united
+must unite
+mutual
+mutual-assistance
+mutual-defense
+mutual approach
+mutual approaches
+mutual assistance
+mutual attraction
+mutual attractions
+mutual company
+mutual defense
+mutualism
+mutuality
+mutually
+mutually-approaching
+mutually approaching
+my fellow
+MY FELLOW'S
+MY FELLOWS
+nem con
+nem. con.
+nemine contradicente
+nemine dissentiente
+nos
+nostra
+numbers of us
+occupied us
+of common
+of common ancestry
+of common descent
+of common occurrence
+of common source
+of common stock
+of fellow
+of like mind
+of like minds
+of one accord
+of one background
+of one mind
+of one piece
+of our
+of our own making
+of our youth
+of the same hue
+of the same kidney
+of the same mind
+of the same stripe
+of us
+on our
+on our own soil
+on the same wavelength
+on the same wavelengths
+one and all
+one and indivisible
+one for all
+one in mind
+one in mind and spirit
+one mind about
+one nation
+one of us
+one people
+one sovereign
+one unified
+one united
+our
+our !GEOREGION
+our ability
+our account of
+our account of ourselves
+our advocate
+our advocates
+our attention
+our being
+our bilateral
+our boyhood
+our boyhood's
+our boyhood's together
+our boyhood together
+our boyhoods
+our boyhoods'
+our boyhoods' together
+our boyhoods together
+our capability
+our capacity
+our childhood
+our childhood's
+our childhood's together
+our childhood together
+our childhoods
+our childhoods'
+our childhoods' together
+our childhoods together
+our choice
+our choices
+our churches
+our class
+our closing back up
+our common
+our common ground
+our common lot
+our common souls
+our community
+our companies
+our concern is
+our corporations
+our country
+our country's
+our current
+our current approach
+our customer
+our customer's
+our customers
+our customers'
+our decision
+our decision is based
+our decision is based on
+our decisions
+our destiny
+our difference
+our differences
+our dreams
+our entire
+our father
+our fathers
+our fears
+our feelings
+our fellow
+our fellow man
+our fellow woman
+our flexibility
+our forecast
+our forecast looks
+our friendship
+our future
+our future looks
+our future together
+our gender
+our girlhood
+our girlhood's
+our girlhood's together
+our girlhood together
+our girlhoods
+our girlhoods'
+our girlhoods' together
+our girlhoods together
+OUR GOOD HOME
+our governments
+our group
+our heartache
+our high
+our highs
+our homes
+our hopes
+our idolatry
+our imagination
+our imaginations
+our imagining
+our imaginings
+our interest
+our interests
+our interests with
+our job
+our jobs
+our joint
+our joint rule
+our lot
+our lot in life
+our low
+our lows
+our maker
+our marriage
+our members
+our mission
+our mortage
+our mutual
+our nation
+our nation's
+our nations
+our need
+our needs
+our opening back up
+our own
+our own !GEOREGION
+our own kind
+our own kinds
+our past together
+our people
+our perception
+our perceptions
+our pick
+our preferred
+our preferred choice
+our presence
+our present
+our race
+our recognition of
+our relationship
+our rent
+our rough edge
+our rough edges
+our school
+our schools
+our sex
+our side
+our spiel about
+our staff
+our stores
+our stuff
+our support staff
+our task
+our tasks
+our thoughts
+our time
+our time together
+our times
+our united
+our universities
+our upkeep
+our vantage
+our very
+our very way
+our very way of
+our very way of life
+our views
+our way
+our ways
+our will for
+our workers
+our youth
+our youth together
+ours
+ourselves
+partaker
+partakers
+participant
+participant observer
+participant observers
+participants
+participate
+participate in
+Participated
+participated in
+participates
+participates in
+Participating
+participating in
+Participation of
+participator
+participators
+partied with
+parties with
+partner in
+PARTNER WITH
+partnered with
+partnering with
+partners in
+PARTNERS WITH
+partnership in
+partnerships in
+party with
+partying with
+peer of
+peers of
+plan with
+planned with
+planning with
+plans with
+please bear with us
+pushes us to
+reckon we
+right under our noses
+same wavelength
+set aside our differences for the common good
+sets aside our differences for the common good
+setting aside our differences for the common good
+several of our
+several of us
+shaired pair
+shaired pairs
+shape our imagination
+shaped our imagination
+shapes our imagination
+shaping our imagination
+share !DETERMINER passion
+share head
+share heads
+share in
+share our
+share something
+share something in common
+shared !DETERMINER passion
+shared beliefs
+shared concern
+shared creeds
+shared goal
+shared goals
+shared heads
+shared ideology
+shared in
+shared need
+shared our
+shared outlook
+shared problem
+shared problems
+shared something
+shared something in common
+shared standards
+shared understanding
+shared understandings
+shared values
+shared vulnerability
+shared with
+sharer
+sharer in
+sharer of
+sharers
+sharers in
+sharers of
+shares !DETERMINER passion
+shares in
+shares our
+shares something
+shares something in common
+sharing !DETERMINER passion
+sharing heads
+sharing in
+sharing our
+sharing something
+sharing something in common
+she all
+shouldn't we both
+similar minds
+similar minds about
+solidary
+some of us
+speak as one
+speak in !DETERMINER single voice
+speak in !DETERMINER unified voice
+speaking as one
+speaking in !DETERMINER single voice
+speaking in !DETERMINER unified voice
+speaks as one
+speaks in !DETERMINER single voice
+speaks in !DETERMINER unified voice
+spoke as one
+spoke in !DETERMINER single voice
+spoke in !DETERMINER unified voice
+stand together
+stand together on
+stand up together with
+standing together
+standing together on
+standing up together with
+stands together
+stands together on
+stands up together with
+stares us
+stood together
+stood together on
+stood up together with
+submerge our differences
+submerged our differences
+submerges our differences
+submerging our differences
+suffer with
+suffered with
+suffering with
+suffers with
+talk !PRONOUNOBJECTIVE round
+talk me round
+talk them round
+talk us round
+talk you round
+taught with
+tea circle
+tea circles
+teach with
+teaches with
+teaching with
+team
+team-up
+team-up with
+team up
+team up for
+team up together
+team with
+teamed-up
+teamed-up with
+teamed up
+teamed up together
+teamed with
+teaming-up
+teaming-up with
+teaming up
+teaming up together
+teaming with
+teams
+teams-up
+teams-up with
+teams up
+teams up together
+teams with
+that together he
+that together she
+that together they
+that we
+that we currently have
+that we have
+the common
+the consensus among us
+the ensemble
+the ensembles
+the options before us
+The participation of
+the union
+the union's
+the unions'
+the united good
+the way we
+they all
+think we
+those of us
+threw in together
+threw in with
+throw in together
+throw in with
+throwing in together
+throwing in with
+throws in together
+throws in with
+to be like us
+to both of us
+to each person
+to every man
+to every person
+to every woman
+to our
+to together
+to us
+to us all
+together
+together he
+together let us
+together she
+together they
+together to
+together we
+together we'd be
+together with
+together with me
+together with us
+together with you
+together, let us
+together, we
+togetherness
+total agreement
+toward us
+towards us
+tried to defeat us
+una voce
+under our noses
+under the common cause
+under the common cause of
+unified in
+unified on
+unified voice
+unified voices
+union of
+unions of
+unison
+unisonous
+unisons
+unite
+unite efforts
+unite in
+unite in holy wedlock
+unite in marriage
+unite in sexual intercourse
+unite our effort
+unite together
+unite together with
+unite us
+united
+united action
+united actions
+united front
+united fronts
+united in
+united in holy wedlock
+united in marriage
+united in our
+united in our resolve
+united in sexual intercourse
+united our effort
+united struggle
+united together
+united together with
+united us
+united we
+united we stand
+unites
+unites in
+unites in holy wedlock
+unites in marriage
+unites in sexual intercourse
+unites our effort
+unites together
+unites together with
+unities
+unities of interest
+unities of interests
+uniting
+uniting in
+uniting in holy wedlock
+uniting in marriage
+uniting in sexual intercourse
+uniting our effort
+uniting together
+uniting together with
+unity of interest
+unity of interests
+unless we act now
+upkeep of our
+urges us to
+us
+us all
+us all together
+us together
+vacation with
+vacationed with
+vacationing with
+vacations with
+view together
+viewed together
+viewing together
+views together
+voice our opinion
+voice our opinions
+voiced our opinion
+voiced our opinions
+voices our opinion
+voices our opinions
+voicing our opinion
+voicing our opinions
+we'd
+we'd be !DETERMINER
+we'll all
+we're all in the same boat
+we're all in the same boat together
+we're all the
+we're in the same boat
+we're in the same boat together
+we're in this together
+we've all
+we-all
+we-group
+we-ship
+we-uns
+we !MODAL all
+we all
+we all agreed that
+we Americans
+we and our
+we are all
+we are all human beings
+we are all in this together
+we are all the
+we are both
+we are in this together
+we are living
+we are seen
+we are seen as
+we are sharing
+we as
+we as !DETERMINER common
+we as !DETERMINER group
+we as !DETERMINER nation
+we as humans
+we being
+we both
+we both have to
+we both need
+we call all
+we call all to
+we call upon all
+we call upon all to
+we came together
+we can pull together
+we can pull together as a nation
+we come together
+we could all
+we could come together
+we could reconcile
+we had been sharing
+we had shared
+We have
+we have all
+we have been sharing
+we have shared
+we inclusively
+we live
+we share
+we so
+we so !TAKE for granted
+we so often ignore
+we stand for
+we together
+we uns
+we were all
+we were sharing
+we will be victorious
+we will conquer
+we will drive to victory
+we will prevail
+we will triumph
+we will win
+we work on
+we work together
+what we ought to do
+what we stand for
+when we together
+which is in us and all around us
+which we
+why not we both
+with all of us
+with common
+with cousins
+with fellow
+with friends
+with one consent
+with one mind
+with one voice
+with others
+with our
+with people
+with relatives
+With these our
+with us
+with us all
+work together
+work together for
+work with
+worked together
+worked with
+working together
+working with
+works together
+works with
+ya reckon we
+ya think we
+your fellow

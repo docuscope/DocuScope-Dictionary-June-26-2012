@@ -1,0 +1,1602 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX dated !HEADDET
+!AUX EXTINCT
+!AUX FINISHED
+!AUX moving from  !HEADDET TIME
+!AUX NOT CONTINUING
+!AUX NOT STILL DOING
+!AUX OLD-FASHIONED
+!AUX OUT-OF-DATE
+!AUX QUAINT
+!AUX RESUMED
+!AUX RESUMING
+!AUX SOON FORGOTTEN
+!CARRY it over to !HEADDET next !TIMEFRAME
+!CHANGE AT !HEADDET RAPID RATE
+!CHANGE OF !HEADDET GUARD
+!CHANGE of !TIMEFRAME
+!CHANGE OF DATE
+!CHANGE of season
+!CHANGE of seasons
+!CHANGE OF TIME
+!COME BACK TO
+!COME to !DETERMINER halt
+!COME to !DETERMINER screeching halt
+!COME TO !DETERMINER STOPPING POINT
+!COME to !HEADDET crossroads
+!COME to !HEADDET fork in !DETERMINER road
+!DETERMINER date !QUESTION
+!DETERMINER date of
+!DETERMINER date on
+!DETERMINER day after
+!DETERMINER day after tomorrow
+!DETERMINER day before
+!DETERMINER day before yesterday
+!DETERMINER DESCENDANT
+!DETERMINER DESCENDANT OF
+!DETERMINER DESCENDANTS
+!DETERMINER DESCENDANTS OF
+!DETERMINER DEVELOPMENT OF
+!DETERMINER earlier time
+!DETERMINER early time
+!DETERMINER emergence of
+!DETERMINER EMERGING
+!DETERMINER end of !DETERMINER era
+!DETERMINER end of !DETERMINER shift
+!DETERMINER ending of
+!DETERMINER ENSUING
+!DETERMINER ENSUING !TIMEFRAME
+!DETERMINER FASTER
+!DETERMINER FEW MINUTES LATER
+!DETERMINER FORMATION OF
+!DETERMINER halt
+!DETERMINER halt of
+!DETERMINER halting of
+!DETERMINER HISTORICAL
+!DETERMINER KICKOFF
+!DETERMINER LAST TIME !HEADDET happened
+!DETERMINER late
+!DETERMINER later time
+!DETERMINER LONG TIME FROM
+!DETERMINER LONG WHILE FROM
+!DETERMINER LONG WHILE SINCE
+!DETERMINER MILESTONE IN
+!DETERMINER MINUTE IT
+!DETERMINER MINUTE IT HAPPENS
+!DETERMINER minute it stops
+!DETERMINER MINUTE LATER
+!DETERMINER moment
+!DETERMINER NEW MILESTONE
+!DETERMINER next !TIMEFRAME,
+!DETERMINER next day,
+!DETERMINER next moment
+!DETERMINER NEXT THING HE KNEW
+!DETERMINER NEXT THING SHE KNEW
+!DETERMINER NEXT THING THEY KNEW
+!DETERMINER NEXT THING TO HAPPEN
+!DETERMINER next week,
+!DETERMINER next year,
+!DETERMINER other !TIMEFRAME
+!DETERMINER OUTMODED
+!DETERMINER passage of
+!DETERMINER passing
+!DETERMINER passing of
+!DETERMINER passing of !DETERMINER era
+!DETERMINER passing of !DETERMINER shift
+!DETERMINER past time
+!DETERMINER past times
+!DETERMINER previous time
+!DETERMINER previous times
+!DETERMINER RESUMING OF
+!DETERMINER RESUMPTION OF
+!DETERMINER RESURGENCE OF
+!DETERMINER short time after
+!DETERMINER short time before
+!DETERMINER SHORT TIME FROM
+!DETERMINER SHORT WHILE FROM
+!DETERMINER SIGN OF THINGS TO COME
+!DETERMINER TASTE OF THINGS TO COME
+!DETERMINER time
+!DETERMINER time !QUESTION
+!DETERMINER time at
+!DETERMINER time at which
+!DETERMINER time for
+!DETERMINER time for !POSSESSIVEPRONOUN
+!DETERMINER time for her to be
+!DETERMINER time for her to be over
+!DETERMINER time for him
+!DETERMINER time for him to be
+!DETERMINER time for him to be over
+!DETERMINER time for it
+!DETERMINER time for it to be
+!DETERMINER time for it to be over
+!DETERMINER time for me
+!DETERMINER time for me to be
+!DETERMINER time for me to be over
+!DETERMINER time for them
+!DETERMINER time for them to be
+!DETERMINER time for them to be over
+!DETERMINER time for us
+!DETERMINER time for us to be
+!DETERMINER time for us to be over
+!DETERMINER time for you
+!DETERMINER time for you to be
+!DETERMINER time for you to be over
+!DETERMINER time has come to
+!DETERMINER TIME NEARS
+!DETERMINER time of
+!DETERMINER time of !DETERMINER singing of birds
+!DETERMINER time that
+!DETERMINER times !QUESTION
+!DETERMINER times at
+!DETERMINER times at which
+!DETERMINER times of !DETERMINER singing of birds
+!DETERMINER times that
+!DETERMINER TRADITION !AUX
+!DETERMINER TURN OF
+!DETERMINER TURN OF EVENTS
+!DETERMINER very next !TIMEFRAME
+!GET back to !DETERMINER !MONTH
+!GET back to !DETERMINER !TIMEFRAME
+!GET back to !DETERMINER !TIMEOFDAY
+!GET BACK TO !DETERMINER time
+!GET finished !QUESTION
+!GET finished by
+!GET ON BOARD !DETERMINER
+!GO back in time
+!GO BACK TO !DETERMINER earlier time
+!HAVE run its course
+!HAVE run out
+!HEADDET !MONTH
+!HEADDET autumn
+!HEADDET date
+!HEADDET one !TIMEFRAME
+!HEADDET past autumn
+!HEADDET past spring
+!HEADDET past summer
+!HEADDET past winter
+!HEADDET spring
+!HEADDET summer
+!HEADDET winter
+!KNOCK off work at
+!LEAD UP TO
+!LEAD UP TO !DETERMINER time
+!LEAD UP TO !DETERMINER time !QUESTION
+!MOVE back in time
+!OPEN !DETERMINER !TIMEFRAME
+!OPEN at
+!OPEN at !DETERMINER time of
+!OPEN by one !DETERMINER.m.
+!OPEN in !DETERMINER !TIMEOFDAY
+!OPEN in !MONTH
+!OPEN in !TIMEFRAME
+!OPEN in one !TIMEFRAME
+!OPEN ON
+!RANKNUMBER !TIMEFRAME ahead
+!RANKNUMBER !TIMEFRAME back
+!RUN its course
+!TAKE !DETERMINER CHANGE OF PACE
+!TURN !DETERMINER PAGE ON
+!TURN TO !DETERMINER NEW
+. and so when
+. and then
+. and when !PRONOUNNOMINAL
+. and when !PRONOUNNOMINAL !AUX
+. and when !PRONOUNNOMINAL has
+. and when !PRONOUNNOMINAL have
+. and when !PRONOUNNOMINAL was
+. another time
+. another time,
+. but then
+. for once,
+. from !DETERMINER time
+. from !HEADDET time
+. IN THAT DAY
+. IN THOSE DAYS
+. IN TIMES PAST
+. next day
+. next moment
+. next month
+. next night
+. next week
+. next year
+. other times
+. so when !DETERMINER
+. the next day
+. the next moment
+. the next month
+. the next night
+. the next week
+. the next year
+. when autumn comes
+. when fall comes
+. when it came to pass
+. when spring comes
+. when summer comes
+. when winter comes
+; and so when
+; another time
+; so when
+about !DETERMINER time
+afore
+all of !DETERMINER sudden
+ANCESTORS OF
+ancestry of
+AND !DETERMINER NEXT MOMENT
+AND FINALLY
+and then it was
+AND THEN SUDDENLY
+and ultimately
+another !TIMEFRAME
+another time
+ANTIQUES THAT
+ANTIQUES WHICH
+around !DETERMINER time
+as !DETERMINER !TIMEFRAME progresses
+AS !DETERMINER CLOCK WOUND DOWN
+as !DETERMINER narrative progresses
+as !DETERMINER plot progresses
+AS !DETERMINER PRESENT
+AS !DETERMINER PRESENT DAY
+AS !DETERMINER PRESENT TIME
+AS !DETERMINER SITUATION HAS FALLEN OUT
+as !DETERMINER story progresses
+AS !DETERMINER TIME NEARS TO
+AS !PRONOUNNOMINAL USED TO
+AS AT LAST
+as of !DAY
+as of !DETERMINER !TIMEFRAME
+as of !DETERMINER !TIMEFRAME of
+as of !DETERMINER afternoon
+as of !DETERMINER afternoon of
+as of !DETERMINER day
+as of !DETERMINER day of
+as of !DETERMINER evening
+as of !DETERMINER evening of
+as of !DETERMINER morning
+as of !DETERMINER morning of
+as of !DETERMINER night
+as of !DETERMINER night of
+as of !DETERMINER year
+as of !DETERMINER year of
+as of !MONTH
+as of !MONTH !NUMS1TO100
+AS SOON AS
+AS THINGS FELL OUT
+AS THINGS HAVE FALLEN OUT
+as time advances
+AS TIME MARCHED ON
+as time progresses
+AS TIME WENT ON
+as when
+AT !DETERMINER !MONTH !NUMS1TO100 MEETING
+AT !DETERMINER !MONTH !RANKNUMBER MEETING
+at !DETERMINER !TIMEFRAME
+AT !DETERMINER APPOINTED TIME
+AT !DETERMINER BOTTOM OF !DETERMINER !TIMEFRAME
+AT !DETERMINER BREAK OF !TIMEFRAME
+AT !DETERMINER BREAK OF DAWN
+AT !DETERMINER CERTAIN POINT
+AT !DETERMINER CLOSE OF
+AT !DETERMINER CONCLUSION OF
+at !DETERMINER crack of dawn
+AT !DETERMINER EARLIER TIME
+AT !DETERMINER EARLIEST OPPORTUNITY
+AT !DETERMINER EARLY DATE
+AT !DETERMINER EARLY TIME
+AT !DETERMINER END OF !DETERMINER !TIMEFRAME
+AT !DETERMINER END OF !DETERMINER FIRST PHASE
+at !DETERMINER first
+AT !DETERMINER FIRST OPPORTUNITY
+AT !DETERMINER FIRST SIGHT OF
+AT !DETERMINER FIRST SIGHTING OF
+at !DETERMINER instant when
+at !DETERMINER later date
+at !DETERMINER later time
+AT !DETERMINER NEXT MOMENT
+AT !DETERMINER NEXT OPPORTUNITY
+at !DETERMINER office by
+at !DETERMINER pitch of
+AT !DETERMINER POINT IN TIME when
+at !DETERMINER same !TIMEFRAME
+at !DETERMINER stated time of
+at !DETERMINER stop of
+at !DETERMINER stroke of
+at !DETERMINER stroke of dawn
+at !DETERMINER stroke of midnight
+at !DETERMINER subsequent time
+AT !DETERMINER TIME
+at !DETERMINER time to go
+at !DETERMINER time to leave
+at !DETERMINER time to stop
+at !DETERMINER time when
+AT !DETERMINER TOP OF !DETERMINER !TIMEFRAME
+at !HEADDET junction of !DETERMINER !TIMEFRAME
+at !HEADDET juncture of !DETERMINER !TIMEFRAME
+at about !DETERMINER time
+at age
+at another point
+at another point in time
+at another time
+at bedtime
+at definite intervals
+at first light
+at nightfall
+at nighttime
+at noon
+at noonday
+at noontime
+at one point
+at other times
+at right about
+at right around
+at stop-time
+at stop-times
+at such time
+at that !TIMEFRAME
+AT THAT DAY
+at that instant
+AT THAT JUNCTURE
+at that moment
+at that point
+AT THAT RATE
+AT THAT TIME
+at that very !TIMEFRAME
+at time intervals
+at times of
+at times when
+at which instant
+at which moment
+at which time
+back to !DETERMINER FAMILY TREE
+before !DETERMINER date
+before !DETERMINER date of
+before !DETERMINER game
+before !HEADDET date
+before !HEADDET date of
+before !POSSESSIVEPRONOUN !NUMS1TO100 birthday
+BEFORE BEING
+BEFORE HAVING BEEN
+before one of !DETERMINER many times
+before that date
+before that date of
+began at
+begin at
+beginning at
+between other actions
+betweentime whiles
+BRIGHT AND EARLY
+BRING DOWN !DETERMINER CURTAIN
+brought !DETERMINER curtain down
+BUILD UP TO
+BUILDING UP TO
+BUILDS UP TO
+but  !HEADDET time
+BUT  when it came to pass
+but one !TIMEFRAME
+but one !TIMEFRAME !PRONOUNNOMINAL
+BUT SOON
+but then
+by !DETERMINER day's end
+by !DETERMINER end
+by !DETERMINER end of
+by !DETERMINER end of !DETERMINER !TIMEFRAME
+by !DETERMINER end of !DETERMINER century
+BY !DETERMINER END OF !DETERMINER DAY
+BY !DETERMINER END OF !DETERMINER YEAR
+by !DETERMINER middle of !DETERMINER !TIMEFRAME
+by !DETERMINER middle of !DETERMINER century
+by !DETERMINER month's end
+by !DETERMINER start of !DETERMINER !TIMEFRAME
+by !DETERMINER time
+by !DETERMINER time it was over
+by !DETERMINER time of
+by !DETERMINER time of !DETERMINER
+by !DETERMINER time of !POSSESSIVEPRONOUN
+by !DETERMINER time of !POSSESSIVEPRONOUN next
+by !DETERMINER times of
+by !DETERMINER week's end
+by !DETERMINER year's end
+BY !HEADDET TIME
+by 1840
+by 1841
+by 1842
+by 1843
+by 1844
+by 1845
+by 1846
+by 1847
+by 1848
+by 1849
+by 1850
+by 1851
+by 1852
+by 1853
+by 1854
+by 1855
+by 1856
+by 1857
+by 1858
+by 1859
+by 1860
+by 1861
+by 1862
+by 1863
+by 1864
+by 1865
+by 1866
+by 1867
+by 1868
+by 1869
+by 1870
+by 1871
+by 1872
+by 1873
+by 1874
+by 1875
+by 1876
+by 1877
+by 1878
+by 1879
+by 1880
+by 1881
+by 1882
+by 1883
+by 1884
+by 1885
+by 1886
+by 1887
+by 1888
+by 1889
+by 1890
+by 1891
+by 1892
+by 1893
+by 1894
+by 1895
+by 1896
+by 1897
+by 1898
+by 1899
+by 1900
+by 1901
+by 1902
+by 1903
+by 1904
+by 1905
+by 1906
+by 1907
+by 1908
+by 1909
+by 1910
+by 1911
+by 1912
+by 1913
+by 1914
+by 1915
+by 1916
+by 1917
+by 1918
+by 1919
+by 1920
+by 1921
+by 1922
+by 1923
+by 1924
+by 1925
+by 1926
+by 1927
+by 1928
+by 1929
+by 1930
+by 1931
+by 1932
+by 1933
+by 1934
+by 1935
+by 1936
+by 1937
+by 1938
+by 1939
+by 1940
+by 1941
+by 1942
+by 1943
+by 1944
+by 1945
+by 1946
+by 1947
+by 1948
+by 1949
+by 1950
+by 1951
+by 1952
+by 1953
+by 1954
+by 1955
+by 1956
+by 1957
+by 1958
+by 1959
+by 1960
+by 1961
+by 1962
+by 1963
+by 1964
+by 1965
+by 1966
+by 1967
+by 1968
+by 1969
+by 1970
+by 1971
+by 1972
+by 1973
+by 1974
+by 1975
+by 1976
+by 1977
+by 1978
+by 1979
+by 1980
+by 1981
+by 1982
+by 1983
+by 1984
+by 1985
+by 1986
+by 1987
+by 1988
+by 1989
+by 1990
+by 1991
+by 1992
+by 1993
+by 1994
+by 1995
+by 1996
+by 1997
+by 1998
+by 1999
+by 2000
+by 2001
+by 2002
+by 2003
+by 2004
+by 2005
+by 2006
+by and by
+by early !MONTH
+by late !MONTH
+by mid-century
+by next
+by nightfall
+by that !TIMEFRAME
+BY THAT TIME
+by the 1600s
+by the 1700s
+by the 1800s
+by the 1900s
+by then
+By today's standards
+by which time
+came !DAY
+came in !MONTH
+CAME IN TURN
+CAME TO !DETERMINER HALT
+CAN NOT KEEP ON
+CARRIED IT OVER
+close at
+close by !NUMS1TO100 !DETERMINER.m.
+close in !TIMEFRAME
+CLOSE OF
+close out !DETERMINER !TIMEFRAME
+CLOSE TO !DETERMINER TIME when
+closed at
+closed out !DETERMINER !TIMEFRAME
+closes at
+closes by !NUMS1TO100 !DETERMINER.m.
+closes out !DETERMINER !TIMEFRAME
+closing at
+CLOSING OF
+closing out !DETERMINER !TIMEFRAME
+closings
+COMING TO !DETERMINER HALT
+COMING TO !DETERMINER STOPPING POINT
+COMMEMORATION OF
+dates when
+DAYS LATER
+descendant
+DESCENDANT OF
+descendants
+DESCENDED FROM GENERATIONS OF
+descendent
+descendents
+DESCENDS FROM GENERATIONS OF
+DESCREASES IN
+DESENDING FROM GENERATIONS OF
+die away
+die off
+die out
+died away
+died off
+died out
+dies away
+dies off
+dies out
+DREAM OF !DETERMINER TIME
+DREAMING OF !DETERMINER TIME
+DREAMS OF !DETERMINER TIME
+DREAMT OF !DETERMINER TIME
+during bedtime
+DUST SETTLED
+DUST SETTLING
+dying away
+dying off
+dying out
+earlier
+earlier in !DETERMINER !TIMEFRAME
+earlier in !DETERMINER day today
+earlier in !DETERMINER day tomorrow
+earlier in !DETERMINER day yesterday
+EARLIER INHABITANTS
+earlier that !SEASON
+earlier that !TIMEFRAME
+early !DAY
+EARLY ANCESTORS
+EARLY ON
+elapse
+elapse of time
+elapsed
+elapses
+elapsing
+elapsing of time
+END !DETERMINER
+END !MOTIONPREP
+end at
+END DATE
+END OF
+END UP !MOTIONPREP
+ended at
+ENDING !DETERMINER
+ending at
+ENDING UP
+ENDING UP !MOTIONPREP
+ends at
+ENDS UP
+ENDS UP !MOTIONPREP
+enter into !DETERMINER era
+entered into !DETERMINER era
+entering into !DETERMINER ear
+enters into !DETERMINER era
+EPOCHAL CHANGE
+eventual
+EVENTUAL DEVELOPMENT
+eventually
+eventually became
+eventually outgrew
+eventually OUTGROW
+eventually OUTGROWING
+eventually OUTGROWS
+eventually tapered off
+EVENTUALLY WOUND UP
+EVENTUALLY WOUND UP IN
+EVOLUTION TOWARD
+EVOLVING TOWARD
+exact date of
+exact dates of
+expiration
+expirations
+expiratory
+expire
+expired
+expires
+expiries
+expiring
+expiry
+fade
+FADED MEMORY
+fades
+FADING MEMORIES
+FELL OUT OF TOUCH WITH
+FELL OUT WITH !PRONOUNOBJECTIVE ABOUT !DETERMINER
+FELL OUT WITH !PRONOUNOBJECTIVE OVER !DETERMINER
+finally !GET THROUGH
+finally passed
+folds up in !NUMS1TO100 !TIMEFRAME
+FOLLOWING !NUMS1TO100 !TIMEFRAME
+FOLLOWING !NUMS1TO100 DAYS
+FOLLOWING THAT
+for !DAY !TIMEOFDAY
+FOR !DETERMINER !MONTH !NUMS1TO100 MEETING
+FOR !DETERMINER !MONTH !RANKNUMBER MEETING
+for !DETERMINER day,
+for !DETERMINER day.
+for !DETERMINER day;
+for !DETERMINER last few !TIMEFRAME
+for !DETERMINER last several !TIMEFRAME
+FOR !DETERMINER MEETING ON
+for once
+for once !DETERMINER
+for once !PRONOUNNOMINAL
+for when
+FORESAW !DETERMINER
+FORESEE !DETERMINER
+FORGET !DETERMINER TIME when
+FORGETS !DETERMINER TIME when
+FORGETS when it
+FORGOT when it
+FORGOTTEN THAT
+FORGOTTEN when
+FORMER INSTANCES
+FORMERLY !DETERMINER
+from !DETERMINER era of
+from !DETERMINER PREHISTORIC
+from !DETERMINER PRIMEVAL
+from !DETERMINER time of
+from !DETERMINER TIME when
+from !HEADDET !TIMEFRAME
+from !HEADDET !TIMEFRAME after
+from !HEADDET !TIMEFRAME before
+from hindsight
+from that !TIMEFRAME
+from that !TIMEFRAME forward
+from that day
+from that day forward
+from that time
+from that time forward
+from today's standards
+FROM WAY BACK
+GENERATIONAL CHANGE
+GRADUAL
+happen when
+happened when
+happening when
+happens when
+has faded from memory
+has run out
+HE NO LONGER
+HISTORICAL ROOTS
+HISTORICAL ROOTS IN
+HISTORICAL ROOTS WITH
+IN !DETERMINER TIME WARP
+in 1840
+in 1841
+in 1842
+in 1843
+in 1844
+in 1845
+in 1846
+in 1847
+in 1848
+in 1849
+in 1850
+in 1851
+in 1852
+in 1853
+in 1854
+in 1855
+in 1856
+in 1857
+in 1858
+in 1859
+in 1860
+in 1861
+in 1862
+in 1863
+in 1864
+in 1865
+in 1866
+in 1867
+in 1868
+in 1869
+in 1870
+in 1871
+in 1872
+in 1873
+in 1874
+in 1875
+in 1876
+in 1877
+in 1878
+in 1879
+in 1880
+in 1881
+in 1882
+in 1883
+in 1884
+in 1885
+in 1886
+in 1887
+in 1888
+in 1889
+in 1890
+in 1891
+in 1892
+in 1893
+in 1894
+in 1895
+in 1896
+in 1897
+in 1898
+in 1899
+in 1900
+in 1901
+in 1902
+in 1903
+in 1904
+in 1905
+in 1906
+in 1907
+in 1908
+in 1909
+in 1910
+in 1911
+in 1912
+in 1913
+in 1914
+in 1915
+in 1916
+in 1917
+in 1918
+in 1919
+in 1920
+in 1921
+in 1922
+in 1923
+in 1924
+in 1925
+in 1926
+in 1927
+in 1928
+in 1929
+in 1930
+in 1931
+in 1932
+in 1933
+in 1934
+in 1935
+in 1936
+in 1937
+in 1938
+in 1939
+in 1940
+in 1941
+in 1942
+in 1943
+in 1944
+in 1945
+in 1946
+in 1947
+in 1948
+in 1949
+in 1950
+in 1951
+in 1952
+in 1953
+in 1954
+in 1955
+in 1956
+in 1957
+in 1958
+in 1959
+in 1960
+in 1961
+in 1962
+in 1963
+in 1964
+in 1965
+in 1966
+in 1967
+in 1968
+in 1969
+in 1970
+in 1971
+in 1972
+in 1973
+in 1974
+in 1975
+in 1976
+in 1977
+in 1978
+in 1979
+in 1980
+in 1981
+in 1982
+in 1983
+in 1984
+in 1985
+in 1986
+in 1987
+in 1988
+in 1989
+in 1990
+in 1991
+in 1992
+in 1993
+in 1994
+in 1995
+in 1996
+in 1997
+in 1998
+in 1999
+in 2000
+in 2001
+in 2002
+in 2003
+in 2004
+in 2005
+in 2006
+in 2007
+in 2008
+in 2009
+in 2010
+in 2011
+in 2012
+in articulo mortis
+IN GRADATIONS
+IN JUST ABOUT !NUMS1TO100 !TIMEFRAME
+IN LITTLE LESS THAN !NUMS1TO100 !TIMEFRAME
+IN LITTLE MORE THAN !NUMS1TO100 !TIMEFRAME
+IN TIME, when
+IN TIMES when
+INCREASINGLY BECOME
+INEXORABLE MOMENTUM TOWARD
+INEXORABLE MOVEMENT TOWARD
+INITIATE INTO
+INITIATED INTO
+INITIATES INTO
+INITIATING INTO
+INITIATING WITH
+intermit
+intermits
+intermitter
+intermitters
+intermitting
+intermittingly
+into !DETERMINER era
+into !DETERMINER new era
+INTO !DETERMINER TIME when
+it's 1840
+it's 1841
+it's 1842
+it's 1843
+it's 1844
+it's 1845
+it's 1846
+it's 1847
+it's 1848
+it's 1849
+it's 1850
+it's 1851
+it's 1852
+it's 1853
+it's 1854
+it's 1855
+it's 1856
+it's 1857
+it's 1858
+it's 1859
+it's 1860
+it's 1861
+it's 1862
+it's 1863
+it's 1864
+it's 1865
+it's 1866
+it's 1867
+it's 1868
+it's 1869
+it's 1870
+it's 1871
+it's 1872
+it's 1873
+it's 1874
+it's 1875
+it's 1876
+it's 1877
+it's 1878
+it's 1879
+it's 1880
+it's 1881
+it's 1882
+it's 1883
+it's 1884
+it's 1885
+it's 1886
+it's 1887
+it's 1888
+it's 1889
+it's 1890
+it's 1891
+it's 1892
+it's 1893
+it's 1894
+it's 1895
+it's 1896
+it's 1897
+it's 1898
+it's 1899
+it's 1900
+it's 1901
+it's 1902
+it's 1903
+it's 1904
+it's 1905
+it's 1906
+it's 1907
+it's 1908
+it's 1909
+it's 1910
+it's 1911
+it's 1912
+it's 1913
+it's 1914
+it's 1915
+it's 1916
+it's 1917
+it's 1918
+it's 1919
+it's 1920
+it's 1921
+it's 1922
+it's 1923
+it's 1924
+it's 1925
+it's 1926
+it's 1927
+it's 1928
+it's 1929
+it's 1930
+it's 1931
+it's 1932
+it's 1933
+it's 1934
+it's 1935
+it's 1936
+it's 1937
+it's 1938
+it's 1939
+it's 1940
+it's 1941
+it's 1942
+it's 1943
+it's 1944
+it's 1945
+it's 1946
+it's 1947
+it's 1948
+it's 1949
+it's 1950
+it's 1951
+it's 1952
+it's 1953
+it's 1954
+it's 1955
+it's 1956
+it's 1957
+it's 1958
+it's 1959
+it's 1960
+it's 1961
+it's 1962
+it's 1963
+it's 1964
+it's 1965
+it's 1966
+it's 1967
+it's 1968
+it's 1969
+it's 1970
+it's 1971
+it's 1972
+it's 1973
+it's 1974
+it's 1975
+it's 1976
+it's 1977
+it's 1978
+it's 1979
+it's 1980
+it's 1981
+it's 1982
+it's 1983
+it's 1984
+it's 1985
+it's 1986
+it's 1987
+it's 1988
+it's 1989
+it's 1990
+it's 1991
+it's 1992
+it's 1993
+it's 1994
+it's 1995
+it's 1996
+it's 1997
+it's 1998
+it's 1999
+it's 2000
+it's 2001
+it's 2002
+it's 2003
+it's 2004
+it's 2005
+it's 2006
+it's 2007
+it's 2008
+it's 2009
+it's 2010
+it's 2011
+it's 2012
+it begins at
+lag between
+lagged between
+lagging between
+lags between
+last !DAY
+last !DAY !TIMEOFDAY
+LAST BUMPED INTO !PRONOUNOBJECTIVE
+LAST SAW
+LAST SAW !PRONOUNOBJECTIVE
+LAST SAW HER
+LAST SAW HIM
+LAST TALKED TO !PRONOUNOBJECTIVE
+later
+LATER !DETERMINER
+later in !DETERMINER !TIMEFRAME
+later in !DETERMINER day today
+later in !DETERMINER day tomorrow
+later in !DETERMINER day yesterday
+LATER ON
+later that !SEASON
+later that !TIMEFRAME
+less than !DETERMINER !TIMEFRAME later
+LIKE !PRONOUNNOMINAL USED TO
+like at !DETERMINER time
+like at !DETERMINER times
+many !TIMEFRAME after
+many !TIMEFRAME before
+MINUTES LATER
+MINUTES PASS
+MOMENTS LATER
+MOMENTUM TOWARD
+more than !DETERMINER !TIMEFRAME later
+movement of time
+MOVEMENT TOWARD
+moving to !DETERMINER time of
+moving to !DETERMINER times of
+NEAR !DETERMINER END OF !DETERMINER DAY
+NEAR !DETERMINER TIME when
+next life
+next new moon
+NEXT SPRING
+NEXT SUMMER
+NOT CONTINUING
+NOT CONTINUING ON
+NOT KEEPING
+NOT KEEPING ON
+NOT LIKE !DETERMINER TIME when
+NOT LIKE THEN
+NOT LIKE when
+NOT LONG AFTER
+NOT LONG BEFORE
+NOT REFRAIN
+NOT REFRAIN FROM
+NOT REFRAINING
+NOT REFRAINING FROM
+NOT SINCE BREAKFAST
+NOT STILL DOING
+OCCASIONALLY USED TO
+occur right about
+occur when
+occur when !DETERMINER
+occuring right about
+occurred right about
+occurred when
+occurred when !DETERMINER
+occurring when
+occurring when !DETERMINER
+occurs right about
+occurs when
+occurs when !DETERMINER
+of letting up
+of when it
+OFF !DETERMINER BAT
+off work at
+ON !POSSESSIVEPRONOUN RETURN
+on good friday
+on occasion,
+on occasions when
+On other occasions
+on that !TIMEFRAME
+on that occasion
+on those occasions when
+On today's standards
+on what occasion
+on which occasion
+once
+ONCE !DETERMINER
+ONCE BEEN
+ONCE ON
+ONCE THAT
+one !DAY
+one !MONTH
+one !TIMEFRAME !PRONOUNNOMINAL
+one !TIMEFRAME next month
+one !TIMEFRAME next year
+one afternoon
+one CUSTOMER AFTER ANOTHER
+one day
+one day next !TIMEFRAME
+one day,
+one fine day
+one fine morning
+one GRADATION AFTER ANOTHER
+one moment,
+one month,
+one night
+one THING AFTER ANOTHER
+one THING LED TO ANOTHER AND
+one time
+one time,
+one week,
+one year,
+onetime
+opened !DETERMINER !TIMEFRAME
+opened at
+ORIGINAL CREATION
+ORIGINALLY ESTABLISHED
+other times
+OVER AND DONE WITH
+PASS BEFORE
+PASS when
+PASSED BEFORE
+PASSED when
+PASSES BEFORE
+PASSES when
+PASSING BEFORE
+PASSING OF !DETERMINER TORCH
+PASSING when
+postpone
+postponed
+postponement
+postponements
+postpones
+postponing
+PREDICT !DETERMINER
+PREHISTORIC TIMES
+PREIMEVAL TIMES
+presently
+PRESENTLY !DETERMINER
+prorogate
+prorogates
+prorogating
+prorogation
+prorogations
+prorogue
+prorogued
+prorogues
+proroguing
+RAN IN TURN
+rang !DETERMINER curtain down
+RAPID DEVELOPMENT
+REACH !DETERMINER ENDING
+REACHED !DETERMINER END
+REACHES !DETERMINER END
+REACHING !DETERMINER END
+resume
+RESUME !DETERMINER
+RESUME !MOTIONPREP
+resume in
+resumed
+RESUMED !DETERMINER
+RESUMED !PRONOUNOBJECTIVE
+resumed in
+resumes
+RESUMES !DETERMINER
+resumes in
+RESUMING
+RESUMING !DETERMINER
+resuming in
+RESUMING OF
+RESUMING ON
+RESUMING WITH
+resumption
+RESUMPTION OF
+resumptions
+RESURGENCE OF
+return in !MONTH
+return on !DAY
+returned in !MONTH
+returned on !DAY
+returning in !MONTH
+returning on !DAY
+returns in !MONTH
+returns on !DAY
+REVERT TO
+right around !NUMS1TO100
+RIGHT UP TO !DETERMINER !TIMEOFDAY
+ROOTS DATING BACK
+ROOTS DATING BACK TO
+SEASONAL CHANGE
+SECONDS LATER
+SEE BEFOREHAND
+segue
+segued
+segueing
+segues
+SEGUES INTO
+several !TIMEFRAME after
+several !TIMEFRAME before
+SHE NO LONGER
+shifting to !DETERMINER time of
+shifting to !DETERMINER times of
+shortly after
+shortly after that
+SHORTLY BEFORE
+SINCE !DETERMINER BEGINNING OF TIME
+since !PRONOUNNOMINAL
+SINCE BREAKFAST
+since that !TIMEFRAME
+since that came about
+since that day
+since that happened
+since that moment
+since that month
+since that occurred
+since that time when
+since that year
+since then when
+SINCE TIME IMMEMORIAL
+SINCE YOU WERE KNEE HIGH TO !DETERMINER GRASSHOPPER
+SLOW DEVELOPMENT
+SLOWER AND SLOWER
+some !TIMEFRAME AFTER
+some !TIMEFRAME BEFORE
+SOME OF !DETERMINER TIME
+SOME TIME AFTER
+SOME TIME BEFORE
+SOME TIME ERE
+some time has past
+SOMETIMES USED TO
+SOON AFTER
+SOON AFTERWARD
+SOON,
+speak up when
+speak up whenever
+speaking up when
+speaking up whenever
+speaks up when
+speaks up whenever
+spoke up when
+spoke up whenever
+start right at
+started right at
+starting right at
+starts right at
+stop work at
+stopped doing
+stopped work at
+stopping work at
+stops work at
+surcease
+surceased
+surceases
+surceasing
+switchover
+switchovers
+THAT'S WHAT HAPPENS when
+THAT'S when
+THAT !AUX when
+THAT !TIMEFRAME
+that afternoon
+that calamitous time
+that date
+that day
+THAT EMERGES
+that evening
+that evening's
+that following afternoon
+that following day
+that following evening
+that following morning
+that following night
+THAT MINUTE
+THAT MOMENT
+that month
+that morning
+that morning's
+that night
+THAT ONCE
+that some time has past
+that time
+that was !DETERMINER !TIMEFRAME
+that was !DETERMINER !TIMEOFDAY
+that when
+that year
+the other afternoon
+the other day
+the other evening
+the other morning
+the other night
+then can
+then it was !POSSESSIVEPRONOUN turn
+then on !DAY
+then to
+then,
+then.
+then?
+These were !DETERMINER days
+THEY NO LONGER
+THOSE !TIMEFRAME
+THOSE DAYS
+THOSE MINUTES
+THOSE MOMENTS
+THOSE WEEKS
+Those were !DETERMINER days
+THOSE WERE !DETERMINER DAYS FOR
+THROUGH !DETERMINER COMPLETION OF
+till !PRONOUNNOMINAL
+TILL HE
+TILL I
+TILL SHE
+till that moment
+till then
+TILL THEY
+TILL WE
+time had run out
+time has run out
+TIME NEARS
+TIME RUSHES
+TIME RUSHING BY
+TIME WAS when
+time when
+times when
+to !DETERMINER !TIMEFRAME BEFORE
+to !DETERMINER !TIMEFRAME LATER
+to !DETERMINER era of
+to !DETERMINER OTHER DAY
+to !DETERMINER PREHISTORIC
+TO !DETERMINER PRESENT
+to !DETERMINER PRIMEVAL
+to !DETERMINER time of
+to !DETERMINER time that
+to !DETERMINER time when
+TO !HEADDET !TIMEFRAME
+TO !MONTH
+TO !MONTH !NUMS1TO100
+TO !MONTH !RANKNUMBER
+TO ANTIQUITY
+to do so at !DETERMINER time
+to do so upon
+to do so when
+to do so whenever
+TO HAVE UNDERGONE
+TO HELP USHER IN
+to late !DAY
+to late !TIMEFRAME
+to late !TIMEOFDAY
+to the early !TIMEFRAME
+to the early !TIMEOFDAY
+to the late !TIMEFRAME
+to the late !TIMEOFDAY
+to when
+TOMMORROW !DETERMINER
+tomorrow when
+toward !DETERMINER end of !DAY
+TOWARD !DETERMINER END of !DETERMINER !TIMEOFDAY
+TOWARD !DETERMINER END OF !DETERMINER DAY
+toward !DETERMINER end of !MONTH
+TRADITION HAS IT
+traditions !AUX
+TRAJECTORY TOWARD
+tried !POSSESSIVEPRONOUN luck at
+UNLIKE !DETERMINER TIME when
+UNLIKE when
+UP TO !DETERMINER !TIMEOFDAY
+UP TO !HEADDET MINUTE
+UP UNTIL !HEADDET DAY
+when !DETERMINER dust finally settled
+when !DETERMINER DUST SETTLED
+when !DETERMINER eventual
+when !DETERMINER ISSUE TURNED TO
+when !DETERMINER MATTER CAME TO
+when !DETERMINER MATTER OF
+when !DETERMINER ONLY THING STANDING
+when !DETERMINER TIME !AUX RIPE
+when !DETERMINER time comes
+when !HEADDET happened
+when !HEADDET occurred
+when !PRONOUNNOMINAL
+when !PRONOUNNOMINAL !AUX GOOD AND READY
+when !PRONOUNNOMINAL became
+when all !DETERMINER sudden
+when all of !DETERMINER sudden
+when autumn comes
+when due
+when fall comes
+when he doesn't always
+when HE HAPPENED TO
+when HE RETURNED
+when I don't always
+when interrupted
+when it's
+when it's !DETERMINER time
+when it's due
+when it's time
+when it !AUX !DETERMINER time
+when it !AUX due
+when it !AUX over
+when it !AUX time
+when it !AUX time to
+when it appeared in
+when it came to pass
+when it happened
+when MATTERS TURN TO
+when SEEKING
+when she doesn't always
+when SHE HAPPENED TO
+when SHE RETURNED
+when something
+when spring comes
+when such
+when suddenly
+when summer comes
+when that happened
+when that occurred
+when there
+when there !AUX
+when these things happened
+when these things occurred
+when they
+when they don't always
+when THEY HAPPENED TO
+when THEY RETURNED
+when those
+when WE HAPPENED TO
+when we won't always
+when winter comes
+when WITH
+when you're sure
+WHICH EMERGES
+WIND-UP
+winded up
+winded up with
+winded up with !DETERMINER
+WINDING-UP
+WINDS-UP
+with !DETERMINER advent of
+with !DETERMINER appearance of
+with !DETERMINER birth of
+with !DETERMINER changing
+with !DETERMINER changing of
+with !DETERMINER coming of
+with !DETERMINER defeat of
+with !DETERMINER emergence of
+with !DETERMINER passage
+with !DETERMINER passage of
+with !DETERMINER passing
+with !DETERMINER passing of
+WITH !DETERMINER QUAINT
+with !DETERMINER victory of
+with hindsight
+WITH TIME ELAPSING
+WITH TIME RUNNING OUT
+WITH WHAT HAD ONCE BEEN
+WITHOUT FURTHER ADO
+WOUND UP EVENTUALLY
+WOUND UP EVENTUALLY IN
+WOUND UP FINALLY
+WOUND UP FINALLY IN
+wound up with !DETERMINER
+wrap it up for now
+wrapped it up for now
+wrapping it up for now
+wraps it up for now
+yesterday when
+yet then

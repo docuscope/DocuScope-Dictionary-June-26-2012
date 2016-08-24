@@ -1,0 +1,171 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!FALL to !YOU
+!QUESTION !YOU !AUX responsible for
+!YOU !AUX a sinner
+!YOU !AUX accepting of full responsibility
+!YOU !AUX accepting of responsibility
+!YOU !AUX accountable
+!YOU !AUX answerable
+!YOU !AUX at fault
+!YOU !AUX beholden
+!YOU !AUX bound
+!YOU !AUX burden
+!YOU !AUX culpable
+!YOU !AUX duty-bound
+!YOU !AUX fully accountable
+!YOU !AUX fully answerable
+!YOU !AUX fully at fault
+!YOU !AUX fully beholden
+!YOU !AUX fully bound
+!YOU !AUX fully burdened
+!YOU !AUX fully culpable
+!YOU !AUX fully duty-bound
+!YOU !AUX fully in charge
+!YOU !AUX fully obliged
+!YOU !AUX fully responsible
+!YOU !AUX fully to blame
+!YOU !AUX fully under the onus
+!YOU !AUX guilty
+!YOU !AUX in charge
+!YOU !AUX liable
+!YOU !AUX obliged
+!YOU !AUX responsible
+!YOU !AUX responsible to
+!YOU !AUX to blame
+!YOU !AUX under the burden
+!YOU !AUX under the onus
+!YOU !HAVE acted badly
+!YOU !HAVE acted poorly
+!YOU !HAVE acted treacherously
+!YOU !HAVE blasphemed
+!YOU !HAVE deceived
+!YOU !HAVE let everyone down
+!YOU !HAVE let people down
+!YOU !HAVE practiced deceit
+!YOU !HAVE practiced deception
+!YOU !HAVE trespassed
+!YOU !MUSTSHOULD accept full reponsibility
+!YOU !MUSTSHOULD accept reponsibility
+!YOU !MUSTSHOULD accept some reponsibility
+!YOU !MUSTSHOULD atone for
+!YOU !MUSTSHOULD seek forgiveness
+!YOU !MUSTSHOULD take responsibility
+!YOU !OUGHTNEED to accept full responsibility
+!YOU !OUGHTNEED to accept responsibility
+!YOU !OUGHTNEED to accept some responsibility
+!YOU !OUGHTNEED to atone for
+!YOU !OUGHTNEED to seek forgiveness
+!YOU !OUGHTNEED to take responsibility
+!YOU accept full responsibility
+!YOU accept responsibility
+!YOU accepted full responsibility
+!YOU accepted responsibility
+!YOU have committed sin
+!YOU have sinned
+!YOU have wronged
+accountability is on !YOU
+accountability is yours
+accountablty belongs to !YOU
+all on you
+all on you to
+answerability belongs to !YOU
+answerability is on !YOU
+answerability is yours
+blame belongs to !YOU
+blame is on !YOU
+blame is yours
+burden is on !YOU
+charge is on !YOU
+completely up to you
+completely up to yourself
+completely up to yourselves
+culpability is on !YOU
+culpability is yours
+duty is on !YOU
+duty is yours
+entirely up to you
+entirely up to yourself
+entirely up to yourselves
+fall on you to
+fall to you to
+falling on you to
+falling to you to
+falls on you to
+falls to you to
+fault is on !YOU
+fault is yours
+fault lies with !YOU
+fell on you to
+fell to  you to
+fully incumbent on !YOU
+incumbent on !YOU
+it's up to you
+it's up to yourself
+it's up to yourselves
+liability is on !YOU
+obligation is on !YOU
+on the watch of your
+on your watch
+on yourself
+on yourselves
+onus is on !YOU
+onus on you
+responsibility is on !YOU
+what !YOU !AUX doing for
+what !YOU !AUX doing to
+what !YOU did for
+what !YOU did to
+you'll have to pay
+YOU're accountable
+YOU're answerable
+YOU're at fault
+YOU're beholden
+you're bound
+you're culpable
+you're duty-bound
+you're fully accountable
+you're fully burdened
+you're fully culpable
+you're fully duty-bound
+you're fully in charge
+you're fully obliged
+you're fully responsible
+you're fully under the onus
+you're guilty
+you're in charge
+you're liable
+you're obliged
+you're responsible
+you're sinful
+you're to blame
+you're under the burden
+you're under the onus
+you've wronged
+your accountability
+your answerability
+your being accountable
+your being answerable
+your being at fault
+your being beholden
+your being blamable
+your being culpable
+your being duty-bound
+your being in charge
+your being liable
+your being obliged
+your being responsible
+your being under the burden
+your being under the onus
+your blame
+your burden
+your charge
+your culpability
+your duty
+your fault
+your liability
+your obligation
+your onus
+your responsibility

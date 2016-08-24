@@ -1,0 +1,57 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+?	***Dave Suggestion*** We need to develop a rubric in order to assess students' reflections as well as how good a job the tool is doing in helping students reflect on their writing.
+?	101 CGA:
+?	101 Contribution:
+?	101 Proposal:
+?	270 Cover Letter:
+?	270 Proposal:
+?	Again, this is the "Authorized / Precedent" LAT
+?	Also Narr/Immediacy of Now (?) -> I.e. "this," "these," "currently"
+?	Also Narr/Time Shifts ("once the...," "X days before,") -> not quite as prevalent, but still might be important for articulating goals of a project.
+?	Cover Letter Assignment: this will yield some really interesting comparisons! It seems that some of the variables that we're tracking could also be aided by extra visualizations that show students where they are occurring (e.g. interactive language coming at the beginning and end of texts, future-oriented language coming at the end).
+?	E.g. "Pennebaker explores the idea that..." falls under "Inquiry"
+?	For all 101 Assignments ? What about "Information States"? What about ?Information/Change?? Something that could cue students to notice how each others' claims are presented differently.
+?	In CGA dictionary ? still feel like a category like ?Character Cognitive States? might be able to tell/show us more interesting things than Personal Pronouns or Proper Names. Or at least, students might be able to make some more interesting reflections upon this category.
+?	In Contribution & Proposal dictionary: "Swales Introductions" -> does it come up often enough to be a significant point of comparison?
+?	It doesn't completely seem like the "Citation" category is picking up all of the ways that students are using sources.
+?	May need to clear out a few false positives under the "Narr/Generic" LAT category (all of the above fall under this category).
+?	Narr/Duration seems to be a really key category, here.
+?	Occasionally, I was getting an extra file generated in the reports folder (and possibly even the text folder) called "thumbs.db." I'm not sure why this was being generated... still testing to figure out what causes this.
+?	Others in "Authorized / Precedent" LAT category?
+?	Re-naming / re-organizing this dictionary category so that it captures more of the moments in which students are articulating the ?significance? of their issue, or establishing a stronger focus?
+?	Seems to appear much more in student papers in which they are talking about policy/government.
+?	The Shiny tool may have difficulty generating visualizations if the file names are too long? I got an error message saying "Error: dim(x) must have a positive length," and when I manually changed the file names to just Andrew IDs, that fixed it.
+?	This ends up being a major false-positive in a lot of proposals, but the overall LAT category (Inq/Curiosity/General) is still useful.
+76-101
+76-270
+Docuscope Dictionary: Possible False Positives
+General
+o	"Competitions" -> Strategic
+o	"Conversation(s)" -> Citation
+o	"Could not" -> Interactive
+o	"Device" -> Strategic
+o	"Dissemination" -> Narrative
+o	"Evaluation" -> Narrative
+o	"Feedback" -> Narrative
+o	"Historical" -> Citation
+o	"Inquiry" dimension picks up individual brackets (]), which docuscope adds when a text uses footnotes.
+o	"Learning" -> Inquiry (e.g. "learning a second language" - might be relative to course topics)
+o	"Learning" (I.e. "learning technologies," "machine learning") -> Inquiry
+o	"Partly" and "Only" -> Public/Municipal government LAT???
+o	"Physical Therapy" -> Narrative
+o	"Public" categories may be more context sensitive than we think. (see esp. "language of authority" LAT).
+o	"Surgeries on" -> Narrative
+o	"Tend to" -> Citation
+o	"Tradition" / "Traditional" -> Citation
+o	"Your earliest convenience," "your consideration," etc. -> Strategic
+o	270 Proposal:
+o	Or, could this be combined with a larger "metadiscourse" category? It seems like the Swales moves are serving a somewhat similar function.
+o	Pare down narrative dictionaries (see above).
+o	Strategic: Goals seems to be an important dimension.
+o	Swales Introduction & Swales Gap seems not to come up very often...
+o	This approach seems to align more naturally with what we are already doing/teaching in class (i.e. we talk specifically about establishing exigence for a project by talking about its significance, as well as using metadiscourse in an argumentative context).
+o	Try "FP/Metadiscourse," "FP/Disclosive," & "FP/Affirming" LATs under "First Person" dimension/cluster?
+Overall Notes on the Tools

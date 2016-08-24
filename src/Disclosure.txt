@@ -1,0 +1,2515 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+!AUX BLUNT ABOUT
+!AUX CANDID ABOUT
+!AUX CANDIDLY
+!AUX direct with
+!AUX frank
+!AUX FRANK ABOUT
+!AUX FRANKLY
+!AUX in the open
+!AUX ON THE LEVEL
+!AUX ONTO
+!AUX ONTO !DETERMINER
+!AUX onto it
+!AUX OPEN ABOUT
+!AUX opening up to
+!AUX out of the closet
+!AUX outed
+!AUX personal
+!AUX privy to
+!AUX seriously
+!AUX SINCERELY
+!AUX straight with
+!AUX straight with !PRONOUNOBJECTIVE
+!AUX VERY PERSONAL
+!AUX WISTFUL
+!AUX WISTFUL ABOUT
+!BREAK down and confess
+!BRING me closer
+!BRING us closer
+!CALL !DETERMINER spade !DETERMINER spade
+!COME clean
+!COME clean about
+!COME clean with
+!COME OUT OF THE CLOSET
+!COME with the disclosure
+!COME with the disclosure of
+!DETERMINER !RANKNUMBER soul
+!DETERMINER !RANKNUMBER souls
+!DETERMINER !TELL all
+!DETERMINER CANDID
+!DETERMINER confessed
+!DETERMINER LITTLE NERVOUS
+!DETERMINER personal matter
+!DETERMINER PERSONAL STAKE
+!DETERMINER PERSONAL STAKE IN
+!DETERMINER pronounced confession
+!DETERMINER pronounced disclosure
+!DETERMINER pronounced stake
+!DETERMINER secret
+!DETERMINER self-confessed
+!DETERMINER semisecret
+!DETERMINER surfacing of
+!DETERMINER tell-all
+!FIND !POSSESSIVEPRONOUN heart
+!FIND qualities in each other
+!FOLLOW !POSSESSIVEPRONOUN HEART
+!GET IT OFF !POSSESSIVEPRONOUN CHEST
+!GET IT OFF !POSSESSIVEPRONOUN CHEST TO
+!GET it off !POSSESSIVEPRONOUN mind
+!GET it off !POSSESSIVEPRONOUN minds
+!GET it off your chest
+!GET it off your mind
+!GET it on the table
+!GET it out in the open
+!GET IT OUT OF !POSSESSIVEPRONOUN HEAD TO
+!GET IT OUT OF !POSSESSIVEPRONOUN MIND
+!GET IT OUT OF !POSSESSIVEPRONOUN MIND TO
+!GET it out of !POSSESSIVEPRONOUN minds
+!GET it out of !POSSESSIVEPRONOUN system
+!GET it out of !POSSESSIVEPRONOUN systems
+!GET it out of your mind
+!GET it out of your system
+!GET it out on the table
+!GET OUT OF !POSSESSIVEPRONOUN MIND
+!GET the dirt on
+!GET the inside view
+!GET THE LOW-DOWN ABOUT
+!GET the low down
+!GET the lowdown on
+!GET the lowdowns
+!GET the scoop
+!GET the scoop on
+!GET the scoops
+!GET the scoops on
+!GET WIND ABOUT
+!GET WIND TO
+!GET WISE TO
+!GIVE it point-blank
+!GIVE it pointblank
+!GIVE the wire
+!GIVE vent to
+!GO to !POSSESSIVEPRONOUN heart
+!GO to your heart
+!HAVE !DETERMINER change of heart
+!HAVE !DETERMINER CONFESSION
+!HAVE !DETERMINER fantasy
+!HAVE !DETERMINER heart-to-heart talk
+!HAVE !DETERMINER SECRET
+!HAVE !DETERMINER THING ABOUT
+!HAVE !DETERMINER willing heart
+!HAVE !POSSESSIVEPRONOUN heart
+!HAVE !POSSESSIVEPRONOUN heart bleed for
+!HAVE !POSSESSIVEPRONOUN heart in your mouth
+!HAVE !POSSESSIVEPRONOUN HEART ON !POSSESSIVEPRONOUN SLEEVE
+!HAVE !POSSESSIVEPRONOUN HEART ON his SLEEVE
+!HAVE !POSSESSIVEPRONOUN heart set against
+!HAVE !POSSESSIVEPRONOUN HEART SET ON
+!HAVE admitted to
+!HAVE ALWAYS BELIEVED IN
+!HAVE ALWAYS CARRIED AS !DETERMINER ROLE MODEL
+!HAVE ALWAYS HAD !DETERMINER THING ABOUT
+!HAVE ALWAYS HAD AS !DETERMINER ROLE MODEL
+!HAVE ALWAYS HELD AS !DETERMINER ROLE MODEL
+!HAVE ALWAYS HOPED
+!HAVE ALWAYS LOOKED UP TO
+!HAVE ALWAYS PRIDED
+!HAVE ALWAYS SAID
+!HAVE ALWAYS TRIED
+!HAVE ALWAYS TRIED THE BEST
+!HAVE AN ADMISSION
+!HAVE at heart
+!HAVE been outed
+!HAVE BUTTERFLIES IN THE STOMACH
+!HAVE deep feelings
+!HAVE DISCLOSED
+!HAVE HAD SECOND THOUGHTS
+!HAVE his HEART ON his SLEEVE
+!HAVE his HEART SET ON
+!HAVE honestly
+!HAVE honestly NEVER
+!HAVE IT OFF !POSSESSIVEPRONOUN CHEST TO
+!HAVE IT ON !POSSESSIVEPRONOUN MIND TO
+!HAVE IT OUT OF !POSSESSIVEPRONOUN HEAD TO
+!HAVE IT OUT OF !POSSESSIVEPRONOUN MIND TO
+!HAVE LOST OUT ON
+!HAVE LOST SLEEP OVER
+!HAVE LOST TOUCH WITH
+!HAVE LOST TRACK OF
+!HAVE MUSED
+!HAVE NEVER BEEN AFRAID TO
+!HAVE NEVER BEEN DISCLOSED
+!HAVE NEVER DISCLOSED
+!HAVE NEVER DISCLOSED THIS BEFORE
+!HAVE NEVER HAD
+!HAVE NEVER REVEALED
+!HAVE NEVER REVEALED THIS BEFORE
+!HAVE NEVER SAID
+!HAVE NEVER SAID THIS PUBLICLY
+!HAVE REVEALED
+!HAVE their HEARTs ON their SLEEVEs
+!HAVE their HEARTs SET ON
+!HAVE TO CONFESS
+!HAVE to level
+!HAVE to level with
+!HAVE to level with !PRONOUNOBJECTIVE
+!HAVE your heart
+!HAVE your HEART ON your SLEEVE
+!HAVE your HEART SET ON
+!HOLD secrets
+!KEEP !POSSESSIVEPRONOUN nose out of !POSSESSIVEPRONOUN business
+!KEEP !PRONOUNOBJECTIVE quiet about
+!KEEP !PRONOUNOBJECTIVE quiet over
+!KEEP !PRONOUNOBJECTIVE still about
+!KEEP !PRONOUNOBJECTIVE still over
+!KEEP it !DETERMINER dark secret
+!KEEP it !DETERMINER deep
+!KEEP it !DETERMINER deep secret
+!KEEP it !DETERMINER secret
+!KEEP it still
+!KEEP it to !PRONOUNOBJECTIVE
+!KEEP it to !REFLEXIVEPRONOUN
+!KEEP it under !POSSESSIVEPRONOUN hat
+!KEEP it under wraps
+!KEEP quiet about
+!KEEP secret
+!KEEP still about
+!KEEP the secret
+!KEEP the secrets
+!KEEP TO !REFLEXIVEPRONOUN
+!KEEP TO HIS
+!KEEP TO THEIR
+!LAY !POSSESSIVEPRONOUN cards on the table
+!LAY bare
+!LAY it on the line
+!LAY it straight on the line
+!LAY on the line
+!LET !PRONOUNOBJECTIVE in on
+!LET in on
+!LET in on the know
+!LET in on the secret
+!LET into the circle
+!LET it out that
+!LET IT RIDE
+!LET IT SLIP
+!LET IT SLIP OUT
+!LET it slip out that
+!LET it slip that
+!LET it spill
+!LET know
+!LET ON THAT
+!LET ON THAT !DETERMINER
+!LET out word
+!LET slip
+!LET THE CAT OUT OF THE BAG
+!LET them in on
+!LET wind
+!LET wind of
+!LET word out
+!LET you in on
+!LOSE !POSSESSIVEPRONOUN heart to
+!MAKE !DETERMINER clean breast
+!MAKE !DETERMINER clean breast of
+!MAKE no bones about
+!MAKE NO MISTAKE ABOUT IT
+!MAKE no secret of
+!MODAL CONFESS
+!NEG breathe !DETERMINER word
+!NEG breathe !DETERMINER word about
+!NEG breathe !DETERMINER word of it
+!NEG enter !POSSESSIVEPRONOUN mind
+!NEG enter !POSSESSIVEPRONOUN minds
+!NEG entered !POSSESSIVEPRONOUN mind
+!NEG entered !POSSESSIVEPRONOUN minds
+!NEG entering !POSSESSIVEPRONOUN mind
+!NEG entering !POSSESSIVEPRONOUN minds
+!NEG enters !POSSESSIVEPRONOUN mind
+!NEG enters !POSSESSIVEPRONOUN minds
+!OPEN !REFLEXIVEPRONOUN up
+!OPEN ABOUT
+!OPEN and unbridled
+!OPEN ourselves up
+!OPEN up about
+!OPEN up and !TELL
+!OPEN up on
+!OPEN up to
+!OPEN up to !POSSESSIVEPRONOUN
+!OPEN up to !PRONOUNOBJECTIVE
+!OPEN up to them
+!OPEN up to you
+!OPEN up with
+!OPEN yourself up
+!POSSESSIVEPRONOUN admission of
+!POSSESSIVEPRONOUN admissions of
+!POSSESSIVEPRONOUN darkest secrets
+!POSSESSIVEPRONOUN deepest beliefs
+!POSSESSIVEPRONOUN heart bared
+!POSSESSIVEPRONOUN heart stripped bare
+!POSSESSIVEPRONOUN hidden
+!POSSESSIVEPRONOUN hidden desire
+!POSSESSIVEPRONOUN hidden desires
+!POSSESSIVEPRONOUN opening up to
+!POSSESSIVEPRONOUN SECRET
+!POSSESSIVEPRONOUN soul bared
+!POSSESSIVEPRONOUN soul stripped bare
+!PULL at the heartstrings
+!PUT !POSSESSIVEPRONOUN cards on the table
+!PUT !POSSESSIVEPRONOUN whole soul in
+!PUT it all out on the line
+!PUT it on the line
+!RANKNUMBER soul
+!RANKNUMBER souls
+!SPEAK !POSSESSIVEPRONOUN mind
+!SPEAK !POSSESSIVEPRONOUN piece
+!SPEAK BLUNTLY
+!SPEAK candidly
+!SPEAK EARNESTLY
+!SPEAK frankly
+!SPEAK in privacy
+!SPEAK in private
+!SPEAK OFF THE RECORD
+!SPEAK one's mind
+!SPEAK one's peace
+!SPEAK openly
+!SPEAK openly and candidly
+!SPEAK out
+!SPEAK out about
+!SPEAK out on
+!SPEAK privately
+!SPEAK seriously
+!SPEAK straight and direct
+!SPEAK your mind
+!SPEAK your peace
+!TAKE !DETERMINER PERSONAL
+!TAKE !DETERMINER PERSONAL INTEREST
+!TAKE an inside look
+!TAKE it deeply
+!TAKE it deeply to heart
+!TAKE it to heart
+!TAKE out from under wraps
+!TAKE THIS WITH !DETERMINER GRAIN OF SALT
+!TAKE to heart
+!TALK openly
+!TALK turkey
+!TELL !DETERMINER secret
+!TELL !PRONOUNOBJECTIVE !DETERMINER secret
+!TELL !PRONOUNOBJECTIVE outright
+!TELL !PRONOUNOBJECTIVE point-blank
+!TELL !PRONOUNOBJECTIVE straight-up
+!TELL !PRONOUNOBJECTIVE straight up
+!TELL a lot about
+!TELL all
+!TELL it like it is
+!TELL it point-blank
+!TELL it straight
+!TELL it straight and direct
+!TELL me straight-up
+!TELL me straight up
+!TELL secrets
+!TELL straight-up
+!TELL straight up
+!TELL tales out of school
+!TELL us straight-up
+!TELL us straight up
+!TELL you !DETERMINER secret
+!TURN inward
+!TURN inwardly
+, at heart,
+. !DETERMINER secret
+. the secret
+a SURPRISE TO
+ABSOLUTELY EARNEST
+accept and love each other
+accept each other
+accepted each other
+accepting each other
+accepts each other
+according to insiders
+acknowledge openly
+acknowledged openly
+acknowledges openly
+acknowledging openly
+admission of
+admissions of
+admit everything
+admit exceptions
+admit of
+admit openly
+admit that
+ADMIT TO
+admits !DETERMINER possibility
+admits everything
+admits exceptions
+ADMITS FREELY
+admits of
+admits openly
+admitted
+admitted everything
+admitted exceptions
+admitted fact
+admitted facts
+admitted of
+admitted openly
+admitted that
+admitting everything
+admitting exceptions
+admitting no denial
+admitting no dispute
+admitting no doubt
+admitting no exception
+admitting no question
+admitting of
+admitting openly
+ADMITTING THAT
+adult material
+adult materials
+affair of the heart
+after !POSSESSIVEPRONOUN fancy
+after !POSSESSIVEPRONOUN heart
+after your fancy
+after your heart
+air out !POSSESSIVEPRONOUN feelings
+aired out !POSSESSIVEPRONOUN feelings
+airing out !POSSESSIVEPRONOUN feelings
+airs out !POSSESSIVEPRONOUN feelings
+ALL !POSSESSIVEPRONOUN LIFE
+ALL IN THE FAMILY
+all the heart can desire
+allowedly
+ALWAYS ADMIRED
+ALWAYS DREAMED
+ALWAYS FELT
+ALWAYS HAVE AND WILL
+always wanted to
+always wanted to have
+ALWAYS WANTED to learn
+ALWAYS YEARNED
+am ONTO IT
+ambivalence
+ambivalent
+ambivalently
+an admitted
+an admitted fact
+an outlet for !POSSESSIVEPRONOUN feelings
+an unpublished
+an unspoken
+an unsung
+apologia
+apologias
+apologies
+apologize
+apologized
+apologizes
+apologizing
+are onto it
+arouse !POSSESSIVEPRONOUN enthusiasm
+arouse !POSSESSIVEPRONOUN passion
+arouse notice
+arouse the memory
+arouse your enthusiasm
+arouse your passion
+aroused !POSSESSIVEPRONOUN enthusiasm
+aroused !POSSESSIVEPRONOUN passion
+aroused notice
+aroused the memory
+aroused your enthusiasm
+aroused your passion
+arouses !POSSESSIVEPRONOUN enthusiasm
+arouses !POSSESSIVEPRONOUN passion
+arouses notice
+arouses the memory
+arouses your enthusiasm
+arouses your passion arouse notice
+arousing !POSSESSIVEPRONOUN enthusiasm
+arousing !POSSESSIVEPRONOUN passion
+arousing the memory
+arousing your enthusiasm
+arousing your passion
+arriere-pensee
+arriere-pensees
+arrow aimed at your heart
+at heart
+autobiographic
+autobiographical
+autobiographically
+away from public view
+back of !POSSESSIVEPRONOUN mind
+back of !POSSESSIVEPRONOUN minds
+baldly
+baldly stated
+bare !DETERMINER
+bare !MOTIONPREP
+bare !POSSESSIVEPRONOUN
+bare !POSSESSIVEPRONOUN heart
+bare !POSSESSIVEPRONOUN soul
+bared !DETERMINER
+bared !MOTIONPREP
+bared !POSSESSIVEPRONOUN
+bared !POSSESSIVEPRONOUN heart
+bared !POSSESSIVEPRONOUN soul
+bares
+bares !DETERMINER
+bares !MOTIONPREP
+bares !POSSESSIVEPRONOUN
+bares !POSSESSIVEPRONOUN heart
+bares !POSSESSIVEPRONOUN soul
+baring
+baring !DETERMINER
+baring !MOTIONPREP
+baring !POSSESSIVEPRONOUN
+baring !POSSESSIVEPRONOUN heart
+baring !POSSESSIVEPRONOUN soul
+be all heart
+be blunt
+BE FRANK
+BE HONEST
+BE HONEST WITH
+BE OPEN ABOUT
+BE UP-FRONT
+BE UP-FRONT WITH
+BE UP FRONT
+been onto it
+been through a lot together
+behind-closed-doors
+behind-the-scenes
+behind-the-scenes influence
+behind-the-scenes operator
+behind-the-scenes pressure
+behind !POSSESSIVEPRONOUN exterior
+behind appearances
+behind closed doors
+behind the appearance
+behind the appearances
+behind the exterior
+behind the mask
+behind the scenes
+behind the surface
+behind the veil
+behind the veil of secrecy
+BEING CANDID
+BEING EARNEST
+BEING FRANK
+BEING SINCERE
+BEING UP-FRONT
+BEING UP FRONT
+believe firmly
+believes firmly
+beyond painful
+beyond words
+blab
+blab out
+blabbed
+blabbed out
+blabber
+blabbered
+blabbering
+blabbermouth
+blabbermouthed
+blabbermouthing
+blabbermouths
+blabbers
+blabbing
+blabbing out
+blabby
+blabs
+blabs out
+blew the whistle
+blew the whistle on
+blow the whistle
+blow the whistle on
+blowing the whistle
+blowing the whistle on
+blows the whistle
+blows the whistle on
+bluff manner
+bluffness
+blunt-spoken
+blunt-witted
+blunt appraisal
+blunt appraisals
+BLUNTLLY SPEAK
+bluntly
+BLUNTLY !SPEAK
+BLUNTLY SPEAKS
+BLUNTLY SPOKE
+bluntness
+blurt out
+blurted out
+blurting out
+blurts out
+BOUNCING IN !POSSESSIVEPRONOUN MIND
+brutal honesty
+brutally blunt
+brutally candid
+brutally honest
+buried secret
+buried secrets
+buried truth
+buried truths
+BUTTERFLIES IN THE STOMACH
+CAN'T HELP BUT BELIEVE
+can't help but feel
+can't help but suspect
+can't help but think
+CAN'T HELP BUT THINK THAT
+CAN OPEN UP WITH
+candid and frank
+CANDIDLY
+candidness
+cares about her
+cares about him
+caught on tape
+clean-minded
+clean-saying
+clean-seeming
+clean-souled
+clean-speaking
+clean-thinking
+close friend !TELL
+close friends !TELL
+close friends acknowledge
+close friends say
+closely-guarded secret
+closely-guarded secrets
+closely-held secret
+closely-held secrets
+closely guarded secret
+closely guarded secrets
+closely held secret
+closely held secrets
+closer than ever
+collude in secrets
+colluded in secrets
+colludes in secrets
+colluding in secrets
+committed to !POSSESSIVEPRONOUN marriage
+committed to the marriage
+COMPLETELY ON THE LEVEL
+CONFESS
+CONFESS THAT
+confessed
+CONFESSED of !DETERMINER
+confessed offhandedly
+confessedly
+CONFESSES
+CONFESSING
+confession
+confessional
+confessionals
+confessionaries
+confessionary
+confessions
+confide
+confide in
+confide to
+confided
+confided a
+confided in
+confided to
+confidences
+confidential
+confidential communication
+confidential information
+confidentiality
+confidentially
+confidentialness
+confider
+confiders
+confides
+confides in
+confides to
+confiding
+confiding in
+confiding to
+confidingly
+confidingness
+conscience-proof
+conscience-smitten
+conscience-stricken
+conscience-striken
+could !TELL
+could open up with
+could really open up with
+COULDN'T GET !PRONOUNOBJECTIVE OUT OF !POSSESSIVEPRONOUN MIND
+COULDN'T GET it OUT OF !POSSESSIVEPRONOUN MIND
+COULDN'T GET OUT OF !POSSESSIVEPRONOUN MIND
+COULDN'T GET them out OF !POSSESSIVEPRONOUN MIND
+crisis has brought them closer together
+DARE NOT SAY
+DARE TO SAY
+dark secret
+dark secrets
+darkest secret
+darkest secrets
+dead giveaway
+dead giveways
+DEAR TO
+DECLARE OPENLY
+DECLARED OPENLY
+DECLARES OPENLY
+DECLARING OPENING
+deep-down in !POSSESSIVEPRONOUN
+deep contemplation
+deep conviction
+deep convictions
+deep dark secret
+deep dark secrets
+deep desire
+deep desires
+deep down
+deep down in !POSSESSIVEPRONOUN
+deep down in !POSSESSIVEPRONOUN heart
+deep down inside
+deep feeling for
+deep feelings
+deep feelings for
+deep inside
+deep into
+deep secret
+deep secrets
+deep sense
+deep sensibility
+deepest belief
+deepest beliefs
+deeply to heart
+depth of !POSSESSIVEPRONOUN heart
+depth of !POSSESSIVEPRONOUN soul
+depths of !POSSESSIVEPRONOUN being
+depths of !POSSESSIVEPRONOUN heart
+depths of !POSSESSIVEPRONOUN soul
+depths of the heart
+depths of your being
+devote !POSSESSIVEPRONOUN mind to
+devote !POSSESSIVEPRONOUN thoughts to
+devote the mind to
+devote the thoughts to
+devoted !POSSESSIVEPRONOUN mind to
+devoted !POSSESSIVEPRONOUN thoughts to
+devoted the mind to
+devoted the thoughts to
+devotes !POSSESSIVEPRONOUN mind to
+devotes !POSSESSIVEPRONOUN thoughts to
+devotes the mind to
+devotes the thoughts to
+devoting !POSSESSIVEPRONOUN mind to
+devoting !POSSESSIVEPRONOUN thoughts to
+devoting the mind to
+devoting the thoughts to
+DID !POSSESSIVEPRONOUN HEART
+DID !POSSESSIVEPRONOUN HEARTS
+did not want you to know
+didn't want you to know
+dimly aware
+dimly aware that
+direct with
+direct with !POSSESSIVEPRONOUN
+direct with !PRONOUNOBJECTIVE
+direct with them
+direct with you
+disburden
+disburden !DETERMINER
+disburden !POSSESSIVEPRONOUN
+disburden !POSSESSIVEPRONOUN conscience
+disburden !POSSESSIVEPRONOUN heart
+disburden !POSSESSIVEPRONOUN mind
+disburden herself
+disburden himself
+disburden themselves
+disburden you of
+disburden your conscience
+disburden your heart
+disburden your mind
+disburden yourself
+disburdened
+disburdened !DETERMINER
+disburdened !POSSESSIVEPRONOUN
+disburdened !POSSESSIVEPRONOUN conscience
+disburdened !POSSESSIVEPRONOUN heart
+disburdened !POSSESSIVEPRONOUN mind
+disburdened !PRONOUNOBJECTIVE
+disburdened herself
+disburdened himself
+disburdened themselves
+disburdened you of
+disburdened your conscience
+disburdened your heart
+disburdened your mind
+disburdened yourself
+disburdening
+disburdening !DETERMINER
+disburdening !POSSESSIVEPRONOUN
+disburdening !PRONOUNOBJECTIVE
+disburdening herself
+disburdening himself
+disburdening themselves
+disburdening you of
+disburdening your conscience
+disburdening your heart
+disburdening yourself
+disburdenment
+disburdens
+disburdens !DETERMINER
+disburdens !POSSESSIVEPRONOUN
+disburdens !POSSESSIVEPRONOUN conscience
+disburdens !POSSESSIVEPRONOUN heart
+disburdens !POSSESSIVEPRONOUN mind
+disburdens !PRONOUNOBJECTIVE
+disburdens herself
+disburdens himself
+disburdens themselves
+disburdens you of
+disburdens your conscience
+disburdens your heart
+disburdens your mind
+disburdens yourself
+disclose
+disclose !DETERMINER
+disclose !DETERMINER secret
+disclose !POSSESSIVEPRONOUN
+disclose !POSSESSIVEPRONOUN true
+disclose !PRONOUNOBJECTIVE
+disclose an unpronounced
+disclose that
+disclose the innermost recess
+disclose the innermost recesses
+disclosed !DETERMINER secret
+disclosed an unpronounced
+disclosed SSESSIVEPRONOUN authentic
+disclosed that
+disclosed the innermost recess
+disclosed the innermost recesses
+discloser
+disclosers
+discloses
+discloses !DETERMINER
+discloses !DETERMINER secret
+discloses !POSSESSIVEPRONOUN
+discloses !POSSESSIVEPRONOUN real
+discloses !PRONOUNOBJECTIVE
+discloses an unpronounced
+discloses that
+discloses the innermost recess
+discloses the innermost recesses
+disclosing
+disclosing !DETERMINER
+disclosing !DETERMINER secret
+disclosing !POSSESSIVEPRONOUN
+disclosing !POSSESSIVEPRONOUN genuine
+disclosing !PRONOUNOBJECTIVE
+disclosing an unpronounced
+disclosing that
+disclosing the innermost recess
+disclosing the innermost recesses
+disclosure
+disclosure of
+disclosure that
+disclosures
+disclosures of
+DISCUSSES FREELY
+DISCUSSES OPENLY
+divulge
+divulged
+divulgement
+divulgements
+divulgence
+divulgences
+divulger
+divulgers
+divulges
+divulging
+DO !POSSESSIVEPRONOUN HEART
+DO !POSSESSIVEPRONOUN HEARTS
+dob !PRONOUNOBJECTIVE in
+dob in
+dobbed !PRONOUNOBJECTIVE in
+dobbed in
+dobbing !PRONOUNOBJECTIVE in
+dobbing in
+dobs !PRONOUNOBJECTIVE in
+dobs in
+DOES !POSSESSIVEPRONOUN HEART
+DOES !POSSESSIVEPRONOUN HEARTS
+doesn't want you to know
+DOING !POSSESSIVEPRONOUN HEART
+DOING !POSSESSIVEPRONOUN HEARTS
+DON'T !TELL ANYONE
+Don't let it get out of this room
+DON'T LET IT OUT OF THIS ROOM
+DON'T LET THIS GO FURTHER
+DON'T SPREAD THIS
+don't want you to know
+down-deep
+down deep
+dreamy-minded
+dreamy-souled
+during pillow talk
+each other's best
+each other's best counsel
+each other's best friend
+each other's deepest love
+each other's pal
+each other's secret
+each other's secrets
+EARNESTLY
+earnestly believe
+earnestly believes
+earnestly feel
+earnestly feels
+embarassing admission
+embarassing admissions
+embarassing confession
+embarassing confessions
+embarassing disclosure
+embarassing disclosures
+embarassing revelation
+embarassing revelations
+en plein
+en plein air
+en plein jour
+ensoul deep within
+ensoul within
+ensouled deep within
+ensouled within
+ensouling deep within
+ensouling within
+ensouls deep within
+ensouls within
+entre nous
+expose
+expose !POSSESSIVEPRONOUN secret
+expose !REFLEXIVEPRONOUN
+expose as
+expose by
+expose your secret
+exposed
+exposed !POSSESSIVEPRONOUN secret
+exposed !REFLEXIVEPRONOUN
+exposed as
+exposed by
+exposed your secret
+exposes
+exposes !POSSESSIVEPRONOUN secret
+exposes !REFLEXIVEPRONOUN
+exposes as
+exposes by
+exposes your secret
+exposing
+exposing !POSSESSIVEPRONOUN secret
+exposing !REFLEXIVEPRONOUN
+exposing as
+exposing by
+exposing your secret
+extremely personal
+FANTASIZE !DETERMINER private
+father to daughter talk
+father to son talk
+feel firmly
+feels firmly
+fess up
+fessed up
+fesses up
+fessing up
+FLITTING THROUGH !POSSESSIVEPRONOUN MIND
+FOR !POSSESSIVEPRONOUN OWN SAKE
+FOR ALL !PRONOUNNOMINAl CARE
+FOR ALL !PRONOUNNOMINAl CAREs
+FOR ALL HE CARES
+FOR ALL IT'S WORTH
+FOR ALL SHE CARES
+for no other ears
+for no other eyes
+FOR WHAT IT'S really WORTH
+FOR WHATEVER IT'S WORTH
+for your ears only
+for your eyes only
+forgave !REFLEXIVEPRONOUN
+forgave ourselves
+forgive !REFLEXIVEPRONOUN
+forgive ourselves
+forgives !REFLEXIVEPRONOUN
+forgives ourselves
+forgiving !REFLEXIVEPRONOUN
+forgiving ourselves
+frank-spoken
+frank and candid
+FRANK and honest
+frank and open
+franker
+frankest
+frankly
+frankly-spoken
+frankly concerned
+frankly wary
+frankness
+free spoken
+FREELY
+FREELY ADMIT
+FREELY ADMITS
+FREELY ADMITTED
+FREELY ADMITTING
+freely declared
+freespoken
+friend !TELL
+friends !TELL
+friends have warned !PRONOUNOBJECTIVE
+friends say
+friends warned !PRONOUNOBJECTIVE
+FROM !DETERMINER PERSONAL
+FROM !DETERMINER PERSONAL PERSPECTIVE
+from !POSSESSIVEPRONOUN heart
+from !POSSESSIVEPRONOUN hearts
+FROM THE BOTTOM OF !POSSESSIVEPRONOUN HEART
+from the bottom of !POSSESSIVEPRONOUN hearts
+from the bottom of your heart
+FROM THE HEART
+from the vantage of hindsight
+frosted heart
+frosted hearts
+general confession
+general confessions
+GO OFF THE RECORD TO SAY
+guarded-secret
+guarded-secrets
+guarded secret
+guarded secrets
+gut feeling
+gut feelings
+gut reaction
+gut reactions
+GUTS
+HAD AS SOON
+HAD JUST AS SOON
+HAD RATHER
+HAD SOONER
+hard of heart
+hard of hearts
+he's almost the exact opposite
+he's got a tough core
+he's got a very tough, tough core
+he's opening up to
+he's the exact opposite
+he !AUX opening up to
+he !OPEN up to
+he could !TELL
+he is deeply
+he is intensely
+he knows his wife
+he never let it show
+he never let on
+he opens up to
+he thought he'd die
+heart-felt appeal
+heart-felt appeals
+heart-hardened
+heart-hardening
+heart-string
+heart-strings
+heart-to-heart
+heart-to-heart talk
+heart-to-heart talks
+HEART !AUX IN THE RIGHT PLACE
+HEART !AUX SET ON
+heart go out to
+heart goes out to
+heart in right place
+HEART SKIPS !DETERMINER BEAT
+HEART STANDS STILL
+heart string
+heart strings
+heart weighted
+hearted
+heartedly
+heartedness
+HEARTFELT
+heartfelt sympathies
+heartfelt sympathy
+hearting
+HEARTs !AUX IN THE RIGHT PLACE
+HEARTs !AUX SET ON
+heartstring
+heartstrings
+her love for him
+hidden camera
+hidden cameras
+hidden recess
+hidden recesses
+hidden secret
+hidden secrets
+hidden truth
+hidden truths
+his love for her
+holding !POSSESSIVEPRONOUN temper
+holding still about
+honest-to-God
+honest injun
+honest to god
+honest truth
+humble apologies
+humble apology
+hurt that she feels
+husband's admissions
+I can't explain it
+I can't talk about it
+IF IT'S ALL THE SAME
+implied by !DETERMINER
+implied through
+implies by
+implies through
+imply by
+imply through
+implying by
+implying through
+in !DETERMINER clandestine
+IN !DETERMINER PINCH
+in !DETERMINER secret
+in !DETERMINER secret of
+in !DETERMINER secrets
+in !DETERMINER secrets of
+in !DETERMINER strictly private
+in !DETERMINER thinly disguised
+in !POSSESSIVEPRONOUN heart
+in !POSSESSIVEPRONOUN heart of hearts
+in !POSSESSIVEPRONOUN hearts
+in !POSSESSIVEPRONOUN inmost thoughts
+IN !POSSESSIVEPRONOUN LIFE
+IN !POSSESSIVEPRONOUN LIVES
+in !POSSESSIVEPRONOUN mind
+in !POSSESSIVEPRONOUN mind's eye
+in !POSSESSIVEPRONOUN minds
+in !POSSESSIVEPRONOUN opinion
+IN !POSSESSIVEPRONOUN secret PRAYERS
+in !POSSESSIVEPRONOUN thinking
+in all !POSSESSIVEPRONOUN born days
+IN ALL !POSSESSIVEPRONOUN LIFE
+IN ALL !POSSESSIVEPRONOUN LIVES
+IN ALL CANDOR
+in all conscience
+in all conscience,
+in all earnestness
+IN ALL FRANKNESS
+in all good conscience
+in all good conscience,
+IN ALL SERIOUSNESS
+IN ALL SINCERITY
+in all soberness
+IN ALL THE LIFE
+in all your born days
+in an unbridled
+in an unguarded moment
+in complete confidence
+in complete earnestness
+in confidence
+IN EARNEST
+IN GOOD CONSCIENCE
+in good truth
+in her personal life
+in his personal life
+IN OVER !POSSESSIVEPRONOUN HEAD
+in pillow talk
+in privacy
+in private
+in private life
+in privities
+in privity
+in privy
+in secret
+in secrets
+IN SERIOUSNESS
+in sincere
+in strict confidence
+in the back of !POSSESSIVEPRONOUN mind
+IN THE BEST INTERESTS
+IN THE HEAD
+in the open
+in the privacy of
+in the privateness of
+IN THE RIGHT MIND
+IN THE SPARE TIME
+in unbridled
+in your heart of hearts
+in your prayers
+inclination of the heart
+inclinations of the heart
+indrawn
+information brought to light
+information surfaced
+information surfaces
+information surfacing
+inmost-heart
+inmost heart
+inmost hearts
+inmost mind
+inmost minds
+inmost recess
+inmost recesses
+inmost recesses of memory
+inmost recesses of the memory
+inmost soul
+inmost thought
+inmost thoughts
+inner-heart
+inner-hearts
+inner-self
+inner-selfs
+inner-soul
+inner-souls
+inner heart
+inner hearts
+inner life
+inner lives
+inner man
+inner men
+inner mind
+inner minds
+inner nature
+inner natures
+inner realities
+inner reality
+inner recess
+inner recess of
+inner recess of the heart
+inner recess of the mind
+inner recesses
+inner recesses of
+inner recesses of the heart
+inner recesses of the mind
+inner self
+inner selves
+inner soul
+inner souls
+innermost
+innermost being
+innermost beings
+innermost part of the heart
+innermost part of the mind
+innermost part of the soul
+innermost parts of the heart
+innermost parts of the mind
+innermost parts of the soul
+innermost recess
+innermost recess of the heart
+innermost recesses
+innermost recesses of the heart
+innermost self
+innermost thought
+innermost thoughts
+innerness
+innocence
+innocence within
+innocencies
+innocency
+innocent
+innocent as !DETERMINER lamb
+innocent as lambs
+innocent of
+inscribe !REFLEXIVEPRONOUN
+inside dirt
+inside dope
+inside information
+inside look
+inside looks
+inside scoop
+inside source
+inside sources
+inside view on
+inside views into
+insider's look
+insider !TELL
+insiders !TELL
+intensely private
+intensely private person
+intimacies
+intimacies with
+intimate behavior
+intimate behaviors
+intimate detail
+intimate details
+intimate encounter
+intimate encounters
+Intimate that
+Intimate this
+Intimated that
+Intimated this
+intimates
+Intimates that
+Intimates this
+intimating
+Intimating that
+Intimating this
+intimation
+intimations
+intimations of
+iron-hearted
+iron-heartedly
+iron-heartedness
+iron-mooded
+iron-souled
+iron-willed
+IT'S !DETERMINER SECRET
+it's amazing how
+it's astonishing how
+it's curious how
+it's funny how
+it's interesting how
+it's ironic how
+it's neat how
+it's personal
+it's strange how
+IT BEHOOVES
+kiss and !TELL
+know everything there is to know about each other
+laid it on the line
+leak !DETERMINER
+leak confidential
+leak information
+leak intelligence
+leak it to
+leakage to
+leakages to
+leaked !DETERMINER information
+leaked confidential
+leaked information
+leaked intelligence
+leaked it to
+leaking !DETERMINER
+leaking confidential
+leaking information
+leaking intelligence
+leaking it
+leaking it to
+leaks !DETERMINER
+leaks confidential
+leaks information
+leaks intelligence
+leaks it to
+lean-minded
+lean-souled
+LEARNING TO OPEN UP WITH
+leave unsaid
+leaves unsaid
+leaving unsaid
+left unsaid
+level with !POSSESSIVEPRONOUN
+level with !PRONOUNOBJECTIVE
+level with them
+level with you
+leveled with !POSSESSIVEPRONOUN
+leveled with !PRONOUNOBJECTIVE
+leveled with them
+leveled with you
+leveling with !POSSESSIVEPRONOUN
+leveling with !PRONOUNOBJECTIVE
+leveling with them
+leveling with you
+levels with !POSSESSIVEPRONOUN
+levels with !PRONOUNOBJECTIVE
+levels with them
+levels with you
+lift !DETERMINER veil of
+lift the veil
+lifted !DETERMINER veil of
+lifted the veil
+lifting !DETERMINER veil of
+lifting the veil
+lifts !DETERMINER veil of
+lifts the veil
+light-hearted
+light-heartedly
+light-heartedness
+love one another
+loved one another
+loves her husband and daughter very much
+loves her husband very much
+loves his wife very much
+loves one another
+loving one another
+lowdown
+lowdown on
+lowdowns
+lowdowns on
+macabre detail
+macabre details
+man-to-man-ness
+man-to-man discussion
+man-to-man talk
+man-to-mannish
+mangaged to clear the air
+matter to
+mattered
+mattered to
+mattering
+mattering to
+matters of the heart
+matters to
+MAY BE BLUNT
+MAY SPEAK BLUNTLY
+MEANINGFUL TO
+meek soul
+meek souls
+mention confidentially
+mention privately
+mentioned confidentially
+mentioned privately
+mentioning confidentially
+mentioning privately
+mentions confidentially
+mentions privately
+MOST HEARTFELT
+mother to daughter talk
+mother to son talk
+movingly
+movingness
+MUST ADMIT
+MUST CONFESS
+MUST FESS UP TO
+NEED TO CONFESS
+NEVER !MAY
+NEVER !TELL BEFORE
+NEVER BEFORE !TELL
+never before disclosed
+never before published
+never let it show
+never let on
+never let on he
+never let on she
+never let on that
+never needed !PRONOUNOBJECTIVE more
+NEVER WOULD'VE
+NEVER WOULD HAVE
+NO KIDDING
+not for children
+not for public
+not for public consumption
+not for public dissemination
+not for public distribution
+not for the faint of heart
+not privy to
+not to mince words
+now !TELL
+OF THE MIND's secrets
+of the opinion that
+of the soul
+of the souls
+off-mike
+OFF !POSSESSIVEPRONOUN CHEST
+OFF THE CHEST
+off your chest
+offhanded acknowledgment
+offhanded acknowledgments
+offhandedly admitted
+offhandedly confessed
+offhandedly revealed
+ofhandedly acknowledged
+OFTEN MUSE OVER
+OFTEN MUSED OVER
+OFTEN MUSES OVER
+OFTEN MUSING OVER
+ON !DETERMINER PERSONAL LEVEL
+ON !DETERMINER PERSONAL NOTE
+ON SECOND THOUGHT
+on the heartstrings
+on the QT
+one another's secret
+only honest to
+only honest to say
+ONLY THEN CAN IT COME OUT
+ONLY THEN COULD IT COME OUT
+onto !POSSESSIVEPRONOUN secet
+onto !POSSESSIVEPRONOUN secets
+ONTO !PRONOUNOBJECTIVE and !POSSESSIVEPRONOUN hidden
+onto !PRONOUNOBJECTIVE and !POSSESSIVEPRONOUN secrets
+onto them
+openly
+openly acknowledge
+openly acknowledged
+openly acknowledges
+openly acknowledging
+OPENLY ADMIT
+openly admits
+openly admitted
+openly admitting
+OPENLY DECLARE
+openly declared
+OPENLY DISCUSS
+OPENLY DISCUSSED
+OPENLY DISCUSSES
+OPENLY DISCUSSING
+openly express
+openly expressed
+openly expresses
+openly expressing
+openly frank
+OPENLY SAYS
+openness about
+openness regarding
+openness toward
+openness towards
+out-of-the-closet
+out in the open
+OUT OF !POSSESSIVEPRONOUN MIND from
+OUT OF !POSSESSIVEPRONOUN MIND with
+OUT OF !POSSESSIVEPRONOUN MIND with envy
+OUT OF !POSSESSIVEPRONOUN MIND with jealously
+out of public view
+out of the closet
+out of the public eye
+outed
+outside the public eye
+outspokenly
+outspokenness
+OWN MIND
+own up
+own up to
+owned up
+owned up to
+owning up
+owning up to
+owns up
+owns up to
+painful detail
+painful details
+painfully private
+PERFECTLY CANDID
+PERFECTLY FRANK
+PERFECTLY HONEST
+personal matter
+personal matters
+PERSONAL SECRET
+PERSONAL STAKES
+PERSONALLY
+PERSONALLY FELT
+personally involved
+personals
+phone sex
+pillow-talk
+possess !POSSESSIVEPRONOUN soul
+possess !REFLEXIVEPRONOUN
+possess his soul
+possess myself
+possess ourselves
+possess sexually
+possess their souls
+possess yourself
+possessed !POSSESSIVEPRONOUN soul
+possessed !REFLEXIVEPRONOUN
+possessed by !DETERMINER
+possessed from
+possessed his soul
+possessed myself
+possessed of !DETERMINER
+possessed sexually
+possessed their souls
+possessed with
+possessed yourself
+possesses !POSSESSIVEPRONOUN soul
+possesses !REFLEXIVEPRONOUN
+possesses his soul
+possesses myself
+possesses sexually
+possesses their souls
+possesses yourself
+possessing !POSSESSIVEPRONOUN soul
+possessing !REFLEXIVEPRONOUN
+possessing his soul
+possessing sexually
+possessing their souls
+possessing yourself
+possessively
+pour !POSSESSIVEPRONOUN feelings
+pour !POSSESSIVEPRONOUN feelings out
+pour !POSSESSIVEPRONOUN heart
+pour !POSSESSIVEPRONOUN heart  out
+pour out !POSSESSIVEPRONOUN
+pour out !POSSESSIVEPRONOUN feelings
+pour out !POSSESSIVEPRONOUN heart
+pour out your
+pour out your feelings
+pour out your heart
+pour your feelings
+pour your feelings out
+pour your heart
+pour your heart  out
+poured !POSSESSIVEPRONOUN feelings
+poured !POSSESSIVEPRONOUN feelings out
+poured !POSSESSIVEPRONOUN heart
+poured !POSSESSIVEPRONOUN heart  out
+poured out !POSSESSIVEPRONOUN
+poured out !POSSESSIVEPRONOUN feelings
+poured out !POSSESSIVEPRONOUN heart
+poured out your
+poured out your feelings
+poured out your heart
+poured your feelings
+poured your feelings out
+poured your heart
+poured your heart  out
+pouring !POSSESSIVEPRONOUN feelings
+pouring !POSSESSIVEPRONOUN feelings out
+pouring !POSSESSIVEPRONOUN heart
+pouring !POSSESSIVEPRONOUN heart  out
+pouring out !POSSESSIVEPRONOUN
+pouring out !POSSESSIVEPRONOUN feelings
+pouring out !POSSESSIVEPRONOUN heart
+pouring out your
+pouring out your feelings
+pouring out your heart
+pouring your feelings
+pouring your feelings out
+pouring your heart
+pouring your heart out
+pours  your heart
+pours  your heart  out
+pours !POSSESSIVEPRONOUN feelings
+pours !POSSESSIVEPRONOUN feelings out
+pours !POSSESSIVEPRONOUN heart
+pours !POSSESSIVEPRONOUN heart  out
+pours out !POSSESSIVEPRONOUN
+pours out !POSSESSIVEPRONOUN feelings
+pours out !POSSESSIVEPRONOUN heart
+pours out your
+pours out your feelings
+pours out your heart
+pours your feelings
+pours your feelings out
+power behind the throne
+powers behind the throne
+pricking of conscience
+pricking of heart
+private agony
+private behavior
+private desire
+private desires
+private fantasies
+private life
+private lives
+private pain
+PRIVATE SECRET
+private struggle
+private struggles
+private talk
+private talk over
+private talks
+private talks over
+private torment
+private way
+private ways
+privately
+privately with
+privates
+privies
+privily
+privities of
+privy
+privy parts
+privy to
+probably doesn't know whether
+profess belief
+profess faith
+professed belief
+professed faith
+professes belief
+professes faith
+professing belief
+professing faith
+profession of belief
+profession of faith
+professions of belief
+professions of faith
+profound secret
+profound secrets
+proud-hearted
+put baldly
+put bluntly
+put frankly
+quasi-heartily
+quasi-honest
+quasi-honestly
+QUITE CANDID
+quite frank
+quite honestly
+quite personal
+raw description
+raw descriptions
+real-hearted
+realistically
+realistically !SPEAK
+REALLY CAME HOME
+REALLY HIT HOME
+recesses of !POSSESSIVEPRONOUN mind
+recesses of !POSSESSIVEPRONOUN minds
+reflect deeply
+reflected deeply
+reflecting deeply
+reflects deeply
+relied on each other
+relied on one another
+relies on each other
+relies on one another
+rely on each other
+rely on one another
+relying on each other
+relying on one another
+remove the veil
+removed the veil
+removes the veil
+removing the veil
+RESPECTFULLY
+reveal
+reveal !DETERMINER secret
+reveal !POSSESSIVEPRONOUN secret
+reveal !POSSESSIVEPRONOUN true
+reveal !REFLEXIVEPRONOUN
+reveal a source
+reveal an insider
+reveal the identity
+reveal the innermost recess
+reveal the innermost recesses
+reveal your secret
+reveal yourself
+revealed
+revealed !DETERMINER secret
+revealed !POSSESSIVEPRONOUN authentic
+revealed !POSSESSIVEPRONOUN secret
+revealed !REFLEXIVEPRONOUN
+revealed a source
+revealed an insider
+revealed insiders
+revealed the identity
+revealed the innermost recess
+revealed the innermost recesses
+revealed your secret
+revealed yourself
+revealer
+revealers
+revealing
+revealing !DETERMINER secret
+revealing !POSSESSIVEPRONOUN genuine
+revealing !POSSESSIVEPRONOUN secret
+revealing !REFLEXIVEPRONOUN
+revealing a source
+revealing an insider
+revealing the identity
+revealing the innermost recess
+revealing the innermost recesses
+revealing your secret
+revealing yourself
+revealingly
+reveals
+reveals !DETERMINER secret
+reveals !POSSESSIVEPRONOUN real
+reveals !POSSESSIVEPRONOUN secret
+reveals !REFLEXIVEPRONOUN
+reveals a source
+reveals an insider
+reveals insiders
+reveals the identity
+reveals the innermost recess
+reveals the innermost recesses
+reveals your secret
+reveals yourself
+revelation
+revelation of
+revelations
+revelations of
+revelator
+revelators
+revelatory
+right to the heart
+rip out that
+ripped out that
+ripping out that
+rips out that
+role out that
+roles out that
+rolled out that
+rolling out that
+rout out !POSSESSIVEPRONOUN true
+routed out !POSSESSIVEPRONOUN authentic
+routing out !POSSESSIVEPRONOUN genuine
+routs out !POSSESSIVEPRONOUN real
+said !POSSESSIVEPRONOUN mind
+said !POSSESSIVEPRONOUN peace
+SAID IT STRAIGHT
+said one's mind
+said one's peace
+said your mind
+said your peace
+say !POSSESSIVEPRONOUN mind
+say !POSSESSIVEPRONOUN peace
+say anonymous
+say anonymous sources
+say insiders
+SAY IT STRAIGHT
+say one's mind
+say one's peace
+SAY OPENLY
+say private sources
+say sources close to the scene
+say your mind
+say your peace
+saying !POSSESSIVEPRONOUN mind
+saying !POSSESSIVEPRONOUN peace
+SAYING IT STRAIGHT
+saying one's mind
+saying one's peace
+saying your mind
+saying your peace
+says !POSSESSIVEPRONOUN mind
+says !POSSESSIVEPRONOUN peace
+SAYS IT STRAIGHT
+says one's mind
+says one's peace
+says your mind
+says your peace
+SCRATCH !POSSESSIVEPRONOUN HEAD OVER
+SCRATCHED !POSSESSIVEPRONOUN HEAD OVER
+SCRATCHES !POSSESSIVEPRONOUN HEAD OVER
+SCRATCHING !POSSESSIVEPRONOUN HEAD OVER
+seal !POSSESSIVEPRONOUN lips
+seal your lips
+sealed !POSSESSIVEPRONOUN lips
+sealed your lips
+sealing !POSSESSIVEPRONOUN lips
+sealing your lips
+seals !POSSESSIVEPRONOUN lips
+seals your lips
+search !POSSESSIVEPRONOUN conscience
+search !POSSESSIVEPRONOUN motives
+search !POSSESSIVEPRONOUN soul
+search !POSSESSIVEPRONOUN souls
+search your motives
+search your soul
+searched !POSSESSIVEPRONOUN conscience
+searched !POSSESSIVEPRONOUN motives
+searched !POSSESSIVEPRONOUN soul
+searched !POSSESSIVEPRONOUN souls
+searched your motives
+searched your soul
+searches !POSSESSIVEPRONOUN conscience
+searches !POSSESSIVEPRONOUN motives
+searches !POSSESSIVEPRONOUN soul
+searches !POSSESSIVEPRONOUN souls
+searches your motives
+searches your soul
+searching !POSSESSIVEPRONOUN conscience
+searching !POSSESSIVEPRONOUN motives
+searching !POSSESSIVEPRONOUN soul
+searching !POSSESSIVEPRONOUN souls
+searching your motives
+searching your soul
+secret-false
+secret-order
+secret-orders
+secret-place
+secret-places
+secret away
+secret block
+secret blocks
+secret camera
+secret cameras
+secret caucus
+secret caucuses
+secret exit
+secret exits
+secret fantasies
+secret fantasies !AUX
+secret fantasy
+secret FANTASY !AUX
+secret from
+secret from the
+secret grip
+secret grips
+secret heart
+secret hearts
+secret ink
+secret inks
+secret language
+secret languages
+secret nailing
+secret nailings
+secret name
+secret names
+secret order
+secret orders
+secret partner
+secret partners
+secret passage
+secret passages
+secret place
+secret places
+secret recess
+secret recess of memory
+secret recesses
+secret recesses of memory
+secret recesses of the heart
+secret societies
+secret society
+secret spill out
+secret spilled out
+secret spilling out
+secret spills out
+secret staircase
+secret staircases
+secret thoughts
+secret writing
+secret writings
+secreted away
+secreting away
+secretively
+secretly
+secretly caught
+secretly in the act
+secrets
+secrets away
+semi-secret
+sexual affair
+sexual affairs
+sexual detail
+sexual details
+sexual encounter
+sexual encounters
+she's almost the exact opposite
+she's got a tough core
+she's the exact opposite
+she !AUX opening up to
+she could !TELL
+she has a marriage to protect
+she helped her husband prepare first to admit to adultery
+she is deeply
+she is intensely
+she knows her husband
+she never let it show
+she never let on
+she opened up to
+she opens up to
+she thought she'd die
+SHOOT FROM THE HIP
+SHOOTING FROM THE HIP
+SHOOTS FROM THE HIP
+SHOT FROM THE HIP
+SHOULD CONFESS
+Shouldn't let it get out of t!POSSESSIVEPRONOUN room
+show !POSSESSIVEPRONOUN cards
+show !POSSESSIVEPRONOUN colors
+show !POSSESSIVEPRONOUN hand
+show !POSSESSIVEPRONOUN true colors
+show its colors
+show its true colors
+show one's cards
+show your cards
+show your colors
+show your hand
+show your true colors
+showed !POSSESSIVEPRONOUN cards
+showed !POSSESSIVEPRONOUN colors
+showed !POSSESSIVEPRONOUN hand
+showed !POSSESSIVEPRONOUN true colors
+showed its colors
+showed its true colors
+showed one's cards
+showed your cards
+showed your colors
+showed your hand
+showed your true colors
+showing !POSSESSIVEPRONOUN cards
+showing !POSSESSIVEPRONOUN colors
+showing !POSSESSIVEPRONOUN hand
+showing !POSSESSIVEPRONOUN true colors
+showing its colors
+showing its true colors
+showing one's cards
+showing your cards
+showing your colors
+showing your hand
+showing your true colors
+shows !POSSESSIVEPRONOUN cards
+shows !POSSESSIVEPRONOUN colors
+shows !POSSESSIVEPRONOUN hand
+shows !POSSESSIVEPRONOUN true colors
+shows its colors
+shows its true colors
+shows one's cards
+shows your cards
+shows your colors
+shows your hand
+shows your true colors
+simple-hearted
+simple soul
+simple souls
+SINCERELY
+sincerer
+SINCEREST
+sincerities
+smiling for the camera
+so deep inside
+soft-hearted
+soft-heartedly
+soft-heartedness
+softhearted
+softheartedly
+softheartedness
+something secret
+something secretive
+sordid detail
+sordid details
+soul
+soul-search
+soul-searched
+soul-searches
+soul-searching
+soul search
+soul searched
+soul searches
+soul searching
+soulful
+soulfully
+soulfulness
+souls
+source now !TELL
+sources !TELL about
+sources !TELL of
+sources now !TELL
+spat it out
+speak !POSSESSIVEPRONOUN mind
+speak !POSSESSIVEPRONOUN piece
+SPEAK BLUNTLY
+speak in privacy
+speak in private
+speak one's mind
+speak one's peace
+speak open and candidly
+speak out
+speak out about
+speak out on
+speak privately
+speak straight and direct
+speak your mind
+speak your peace
+speaks !POSSESSIVEPRONOUN mind
+speaks !POSSESSIVEPRONOUN piece
+speaks in privacy
+speaks in private
+speaks one's mind
+speaks one's peace
+speaks open and candidly
+speaks out
+speaks out about
+speaks out on
+speaks privately
+speaks straight and direct
+speaks their mind
+speaks their peace
+speaks your mind
+speaks your peace
+spill !POSSESSIVEPRONOUN guts
+spill !POSSESSIVEPRONOUN secret
+spill the beans
+spill your guts
+spill your secret
+spilled !POSSESSIVEPRONOUN guts
+spilled !POSSESSIVEPRONOUN secret
+spilled the beans
+spilled your guts
+spilled your secret
+spilling !POSSESSIVEPRONOUN guts
+spilling !POSSESSIVEPRONOUN secret
+spilling the beans
+spilling your guts
+spilling your secret
+spills !POSSESSIVEPRONOUN guts
+spills !POSSESSIVEPRONOUN secret
+spills the beans
+spills your guts
+spills your secret
+spit it out
+spits it out
+spitting it out
+spoke !POSSESSIVEPRONOUN mind
+spoke !POSSESSIVEPRONOUN piece
+spoke in privacy
+spoke in private
+spoke one's mind
+spoke one's peace
+spoke out
+spoke out about
+spoke out on
+spoke privately
+spoke straight and direct
+spoke your mind
+spoke your piece
+SPOKEN OUT
+squeak about
+squeaked about
+squeaking about
+squeaks about
+squeal about
+squeal on
+squealed about
+squealed on
+squealer
+squealers
+squealing about
+squealing on
+squeals about
+squeals on
+stand exposed
+stand naked
+stand revealed
+standing exposed
+standing naked
+standing revealed
+stands exposed
+stands naked
+stands revealed
+stealthily
+stonyhearted
+stood exposed
+stood naked
+stood revealed
+straight-from-the-hip
+straight-from-the-shoulder
+straight-shooting bluntness
+straight-shooting confession
+straight-shooting confessions
+straight and direct
+straight answer
+straight answers
+straight from the heart
+straight from the hip
+STRAIGHT FROM THE SHOULDER
+straight truth
+straight truths
+straightforwardly
+straightforwardness
+straightshooter
+strict confidence
+strictest confidence
+sub-rosa
+sub rosa
+suddenly blurt out
+suddenly blurted out
+suddenly blurting out
+suddenly let slip
+supposed secret
+supposed secrets
+supposedly !DETERMINER secret
+supposedly secret
+suppressed desire
+suppressed desires
+SURPRISING TO
+TAKES !DETERMINER PERSONAL
+TAKING !DETERMINER PERSONAL
+talk turkey
+talk with !POSSESSIVEPRONOUN in private
+talk with !PRONOUNOBJECTIVE in private
+talk with them in private
+talk with you in private
+talked turkey
+talked with !POSSESSIVEPRONOUN in private
+talked with !PRONOUNOBJECTIVE in private
+talked with them in private
+talked with you in private
+talking turkey
+talking with !POSSESSIVEPRONOUN in private
+talking with !PRONOUNOBJECTIVE in private
+talking with them in private
+talking with you in private
+talks turkey
+talks with !POSSESSIVEPRONOUN in private
+talks with !PRONOUNOBJECTIVE in private
+talks with them in private
+talks with you in private
+tear off the mask
+tearing off the mask
+tears off the mask
+tell-truth
+tellingly
+telltales
+the confessed
+the confessional
+the confessionals
+the confessionaries
+the confessionary
+the confidential
+the feeling
+the feelings
+the full low-down
+the hidden truth
+the hidden truth of the matter
+the honest-to-god
+the honest-to-god truth
+the honest-to-god truths
+the inside view into
+the inside view on
+the logic of the heart
+the mind's secrets
+the naked truth
+the naked truths
+the only one privy to
+the real details
+THE REAL REASON
+the real truth
+the real truth !AUX
+the real truth of the matter !AUX
+the secret
+the secret !AUX
+THE SECRET REASON
+the secret truth
+the secrets !AUX
+the semisecret
+the semisecrets
+the straight of it
+the straight of it !AUX
+the straight truth
+the straight wire
+the unspoken
+the unstated
+the unsung
+THE UNTOLD REASON
+the unveiling
+they are deeply
+they are intensely
+they could !TELL
+thought-concealing
+threw off all disguise
+THROW IT OUT THERE
+throw off all disguise
+throwing off all disguise
+throws off all disguise
+tip !POSSESSIVEPRONOUN hand
+tip off
+tip our hands
+tip your hand
+tipped-off
+tipped !POSSESSIVEPRONOUN hand
+tipped off
+tipped our hands
+tipped your hand
+tipping-off
+tipping !POSSESSIVEPRONOUN hand
+tipping off
+tipping our hands
+tipping your hand
+tips-off
+tips !POSSESSIVEPRONOUN hand
+tips off
+tips our hands
+tips your hand
+to !POSSESSIVEPRONOUN point-blank
+to !TELL the honest truth
+TO !TELL THE TRUTH
+to !TELL the truth,
+to be blunt
+TO BE CANDID
+TO BE HONEST
+TO BE HONEST WITH
+TO BE PERFECTLY CANDID
+TO BE PERFECTLY HONEST
+TO BE PERFECTLY HONEST WITH
+to be serious for !DETERMINER moment
+to be truthfully honest
+to be with her
+to be with him
+to be with them
+to be with us
+to be with you
+to get serious for !DETERMINER moment
+TO GO OFF THE RECORD
+to put it baldly
+TO SPEAK OFF THE RECORD,
+to the heart of
+to them point-blank
+to you point-blank
+too personal
+too personal to
+TOOK !DETERMINER PERSONAL
+top-secret
+top secret
+top secrets
+tore off the mask
+totally on the level
+true confession
+true confessions
+TRUTH BE !TELL
+TRUTH BE !TELL,
+truthfully blunt
+truthfully honest
+truthfully,
+TRYING TO BE UP-FRONT
+TRYING TO BE UP FRONT
+tug at the heart
+tug at the heartstrings
+tugged at the heart
+tugged at the heartstrings
+tugging at the heart
+tugging at the heartstrings
+tugs at the heart
+tugs at the heartstrings
+unacknowledged
+unadvertised
+unaired
+unappreciable
+unappreciably
+unarticulated
+unasserted
+unattested
+unbilled
+unbosom
+unbosom !REFLEXIVEPRONOUN
+unbosom ourselves
+unbosom yourself
+unbosomed
+unbosomed !REFLEXIVEPRONOUN
+unbosomed ourselves
+unbosomed yourself
+unbosoming
+unbosoming !REFLEXIVEPRONOUN
+unbosoming ourselves
+unbosoming yourself
+unbosoms
+unbosoms !REFLEXIVEPRONOUN
+unbosoms ourselves
+unbosoms yourself
+unbridled discussion
+unbridled fashion
+unbridled meeting
+unbridled talks
+unburden
+unburden !POSSESSIVEPRONOUN conscience
+unburden !POSSESSIVEPRONOUN consciences
+unburden !POSSESSIVEPRONOUN heart
+unburden !POSSESSIVEPRONOUN hearts
+unburden !POSSESSIVEPRONOUN mind
+unburden !POSSESSIVEPRONOUN minds
+unburden !REFLEXIVEPRONOUN
+unburdened
+unburdened !POSSESSIVEPRONOUN conscience
+unburdened !POSSESSIVEPRONOUN heart
+unburdened !POSSESSIVEPRONOUN mind
+unburdened !REFLEXIVEPRONOUN
+unburdening
+unburdening !POSSESSIVEPRONOUN conscience
+unburdening !POSSESSIVEPRONOUN heart
+unburdening !POSSESSIVEPRONOUN mind
+unburdening !REFLEXIVEPRONOUN
+unburdening theirselves
+unburdens
+unburdens !POSSESSIVEPRONOUN conscience
+unburdens !POSSESSIVEPRONOUN heart
+unburdens !POSSESSIVEPRONOUN mind
+unburdens !REFLEXIVEPRONOUN
+unburdens themselves
+unburied forgotten
+unburied memories
+unburies forgotten
+unburies memories
+unbury forgotten
+unbury memories
+unburying forgotten
+unburying memories
+uncloak
+uncloaked
+uncloaking
+uncloaks
+unconceal
+unconcealed
+unconcealing
+unconceals
+unconditional love for her husband
+unconditonal love for his wife
+uncover !DETERMINER
+uncover !POSSESSIVEPRONOUN true
+uncover !REFLEXIVEPRONOUN as
+uncover ourselves
+Uncovered !DETERMINER
+uncovered !POSSESSIVEPRONOUN authentic
+uncovered !REFLEXIVEPRONOUN as
+uncovered ourselves
+uncovering
+uncovering !POSSESSIVEPRONOUN genuine
+uncovering !REFLEXIVEPRONOUN as
+uncovering ourselves
+uncovers
+uncovers !POSSESSIVEPRONOUN real
+uncovers !REFLEXIVEPRONOUN as
+uncovers ourselves
+undeclared
+under strict confidence
+undisclosed
+unearth
+unearthed
+unearthing
+unearths
+unexpressed
+unmask
+unmasked
+unmasking
+unmasks
+unprofessed
+unpublicized
+unrevealed
+unrip that
+unripped that
+unripping out
+unrips that
+unroll that
+unrolled that
+unrolling that
+unrolls that
+unsaid
+unstated
+unsually outspoken
+untellable
+untold
+unutterable
+unutterableness
+unutterably
+unuttered
+unveil
+unveiled
+unveiled in
+unveiled on
+unveiled with
+unveiling
+unveilings
+unveils
+unwritten
+UP FRONT WITH
+vent to
+vented to
+venting to
+vents to
+VERY DEAR
+very frank
+VERY MEANINGFUL
+very personal
+VERY PERSONALLY
+voice !POSSESSIVEPRONOUN opinion
+voice !POSSESSIVEPRONOUN opinions
+voiced !POSSESSIVEPRONOUN opinion
+voiced !POSSESSIVEPRONOUN opinions
+voices !POSSESSIVEPRONOUN opinion
+voices !POSSESSIVEPRONOUN opinions
+voicing !POSSESSIVEPRONOUN opinion
+voicing !POSSESSIVEPRONOUN opinions
+WANT TO ADMIT
+WANT TO CONFESS
+WANTED TO ADMIT
+WANTING TO ADMIT
+WANTING TO CONFESS
+WANTS TO ADMIT
+WANTS TO CONFESS
+way deep down in !POSSESSIVEPRONOUN
+wear !POSSESSIVEPRONOUN heart on !POSSESSIVEPRONOUN sleeve
+wear !POSSESSIVEPRONOUN heart upon !POSSESSIVEPRONOUN sleeve
+wear his heart on his sleeve
+wear his heart upon his sleeve
+wear their heart on their sleeve
+wear their heart upon their sleeve
+wear your heart on your sleeve
+wear your heart upon your sleeve
+wearing !POSSESSIVEPRONOUN heart on !POSSESSIVEPRONOUN sleeve
+wearing !POSSESSIVEPRONOUN heart upon !POSSESSIVEPRONOUN sleeve
+wearing his heart on his sleeve
+wearing his heart upon his sleeve
+wearing their heart on their sleeve
+wearing their heart upon their sleeve
+wearing your heart on your sleeve
+wearing your heart upon your sleeve
+wears !POSSESSIVEPRONOUN heart on !POSSESSIVEPRONOUN sleeve
+wears !POSSESSIVEPRONOUN heart upon !POSSESSIVEPRONOUN sleeve
+wears his heart on his sleeve
+wears his heart upon his sleeve
+wears their heart on their sleeve
+wears their heart upon their sleeve
+wears your heart on your sleeve
+wears your heart upon your sleeve
+weighted heart
+well deep within
+well within
+welled deep within
+welled within
+welling deep within
+welling within
+wells deep within
+wells within
+were onto it
+WHAT !PRONOUNNOMINAL  NEVER REVEALED
+What happens in vegas stays in vegas
+what he likes in a man
+what he likes in a woman
+WHAT HE NEVER REVEALED
+what she likes in a man
+what she likes in a woman
+WHAT SHE NEVER REVEALED
+WHAT WAS NEVER
+WHAT WAS NEVER TOLD
+WHAT WAS NOT TOLD
+Whole sole
+Whole soles
+wife's admissions
+will be straight with
+WILL BLUNTLY
+WILL CANDIDLY
+WILL FRANKLY
+WILL FREELY
+WILL OPENLY
+will take to the grave
+WISTFUL
+wistful-eye
+wistful-eyed
+wistful-eyes
+wistful eye
+wistful eyes
+WISTFULLY
+wistfulness
+with heart beating high
+with heart going pitapat
+with heart going pitter-patter
+with heart in mouth
+with hindsight, !PRONOUNNOMINAL
+with hindsight, it appears
+with leaping heart
+with pillow talk
+with sincere
+with the advantage of hindsight
+with the vantage of hindsight
+witting disclosure
+woman-to-woman
+won't mince words
+words can't describe
+words can't do justice
+words don't begin to
+WORDS STICK IN !POSSESSIVEPRONOUN THROAT
+words went deep
+words went deeper
+words went no deeper
+wore !POSSESSIVEPRONOUN heart on !POSSESSIVEPRONOUN sleeve
+wore !POSSESSIVEPRONOUN heart upon !POSSESSIVEPRONOUN sleeve
+wore his heart on his sleeve
+wore his heart upon his sleeve
+wore their heart on their sleeve
+wore their heart upon their sleeve
+wore your heart on your sleeve
+wore your heart upon your sleeve
+worn !POSSESSIVEPRONOUN heart on !POSSESSIVEPRONOUN sleeve
+worn !POSSESSIVEPRONOUN heart upon !POSSESSIVEPRONOUN sleeve
+worn his heart on his sleeve
+worn his heart upon his sleeve
+worn their heart on their sleeve
+worn their heart upon their sleeve
+worn your heart on your sleeve
+worn your heart upon your sleeve
+WOULD AS SOON
+WOULD JUST AS SOON
+x-rated
+yield up
+yielded up
+yielding up
+yields up
+you thought you'd die
+your desire
+your desires
+your hidden desire
+your hidden desires

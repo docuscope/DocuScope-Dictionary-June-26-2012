@@ -1,0 +1,7 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!VERBED !DETERMINER
+!VERBED !POSSESSIVEPRONOUN
+!VERBED !PRONOUNOBJECTIVE

@@ -1,0 +1,1217 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+'threats' we now live with
+!AUX beyond my control
+!AUX beyond our control
+!CANCOULD !LOSE !POSSESSIVEPRONOUN my safety
+!CANCOULD !LOSE !POSSESSIVEPRONOUN my security
+!CANCOULD !LOSE !POSSESSIVEPRONOUN our safety
+!CANCOULD !LOSE !POSSESSIVEPRONOUN our security
+!CANCOULD !LOSE my safety
+!CANCOULD !LOSE my security
+!CANCOULD !LOSE our safety
+!CANCOULD !LOSE our security
+!CANCOULD destroy me at will
+!CANCOULD destroy us at will
+!CANCOULD disrupt me at will
+!CANCOULD disrupt us at will
+!CANCOULD happen to me at any time anyplace
+!CANCOULD happen to me at any time, anyplace
+!CHANGE !DETERMINER secure feeling that !ROYALWE had
+!DETERMINER ability to damage me
+!DETERMINER ability to damage us
+!DETERMINER ability to destroy me
+!DETERMINER ability to destroy us
+!DETERMINER ability to harm me
+!DETERMINER ability to harm us
+!DETERMINER ability to injure me
+!DETERMINER ability to injure us
+!DETERMINER capability to damage me
+!DETERMINER capability to damage us
+!DETERMINER capability to destroy me
+!DETERMINER capability to destroy us
+!DETERMINER capability to harm me
+!DETERMINER capability to harm us
+!DETERMINER capability to injure me
+!DETERMINER capability to injure us
+!DETERMINER capacity to damage me
+!DETERMINER capacity to damage us
+!DETERMINER capacity to destroy me
+!DETERMINER capacity to destroy us
+!DETERMINER capacity to harm me
+!DETERMINER capacity to harm us
+!DETERMINER capacity to injure me
+!DETERMINER capacity to injure us
+!DETERMINER chill down my back
+!DETERMINER chill down my spine
+!DETERMINER chill down our backs
+!DETERMINER chill down our spines
+!DETERMINER end of my world
+!DETERMINER end of my world as I know it
+!DETERMINER end of our world
+!DETERMINER end of our world as we know it
+!DETERMINER freedoms we can lose
+!DETERMINER freedoms we could lose
+!DETERMINER loss of my feeling of safety
+!DETERMINER loss of our feeling of safety
+!DETERMINER potential to damage me
+!DETERMINER potential to damage us
+!DETERMINER potential to destroy me
+!DETERMINER potential to destroy us
+!DETERMINER potential to harm me
+!DETERMINER potential to harm us
+!DETERMINER potential to injure me
+!DETERMINER potential to injure us
+!DETERMINER threats I now live with
+!DETERMINER threats we now live with
+!DETERMINER trap-door opening in !DETERMINER pit of my belly
+!DETERMINER trap-door opening in !DETERMINER pit of our bellies
+!DETERMINER trap door opening in !DETERMINER pit of my belly
+!DETERMINER trap door opening in !DETERMINER pit of our bellies
+!DETERMINER uncertainty of !DETERMINER future worries me
+!DETERMINER uncertainty of !DETERMINER future worries us
+!DETERMINER war will shift to our country
+!DETERMINER war will shit to my country
+!FEEL !DETERMINER knot in my throat
+!FEEL !DETERMINER knot in our throats
+!GET me busted
+!GET me fucked
+!GET me killed
+!GET me over  a  barrel
+!GET me over a barrel
+!GET me ripped off
+!GET me scared
+!GET me screwed
+!GET me swindled
+!GET me taken apart
+!GET us killed
+!GIVE me !DETERMINER creeps
+!GIVE me !DETERMINER jitters
+!GIVE me !DETERMINER willies
+!GIVE us !DETERMINER creeps
+!GIVE us !DETERMINER jitters
+!GIVE us !DETERMINER willies
+!HAVE me on my guard
+!HAVE to struggle to maintain my security
+!HAVE to struggle to maintain our security
+!HAVE us on our guard
+!KEEP me on tenterhooks
+!KEEP my family safe
+!KEEP our families safe
+!LEAVE me vulnerable
+!LEAVE us vulnerable
+!LOSE my safety
+!LOSE my secure feeling
+!LOSE my security
+!LOSE my sense of protection
+!LOSE my sense of safety
+!LOSE my sense of security
+!LOSE my sense of security and safety
+!LOSE my sense of well-being
+!LOSE our safety
+!LOSE our secure feeling
+!LOSE our security
+!LOSE our sense of protection
+!LOSE our sense of safety
+!LOSE our sense of security
+!LOSE our sense of security and safety
+!LOSE our sense of well-being
+!MAKE  me !DETERMINER most scared
+!MAKE  me scared
+!MAKE me !DETERMINER most anxious
+!MAKE me !DETERMINER most nervous
+!MAKE me !DETERMINER most scared
+!MAKE me afraid
+!MAKE me anxious
+!MAKE me feel anxiety
+!MAKE me feel anxious
+!MAKE me frightened
+!MAKE me jittery
+!MAKE me most afraid
+!MAKE me most anxious
+!MAKE me most frightened
+!MAKE me most jittery
+!MAKE me most nervous
+!MAKE me most scared
+!MAKE me nervous
+!MAKE me scared
+!MAKE me uneasy
+!MAKE my blood run cold
+!MAKE my flesh creep
+!MAKE my hair stand on end
+!MAKE my skin crawl
+!MAKE one's blood run cold
+!MAKE one's flesh creep
+!MAKE one's hair stand on end
+!MAKE one's teeth chatter
+!MAKE one shudder
+!MAKE one tremble
+!MAKE our blood run cold
+!MAKE our flesh creep
+!MAKE our hair stand on end
+!MAKE our skin crawl
+!MAKE our teeth chatter
+!MAKE us afraid
+!MAKE us anxious
+!MAKE us frightened
+!MAKE us jittery
+!MAKE us most afraid
+!MAKE us most anxious
+!MAKE us most frightened
+!MAKE us most jittery
+!MAKE us most nervous
+!MAKE us most scared
+!MAKE us nervous
+!MAKE us scared
+!MODAL !LOSE !POSSESSIVEPRONOUN my safety
+!MODAL !LOSE !POSSESSIVEPRONOUN my security
+!MODAL !LOSE !POSSESSIVEPRONOUN our safety
+!MODAL !LOSE !POSSESSIVEPRONOUN our security
+!MODAL !LOSE my safety
+!MODAL !LOSE my security
+!MODAL !LOSE our safety
+!MODAL !LOSE our security
+!PUT me in jeopardy
+!PUT me on !DETERMINER spot
+!PUT me on edge
+!PUT me on guard
+!PUT my good name in jeopardy
+!PUT my head in !DETERMINER lion's mouth
+!PUT our good name in jeopardy
+!PUT our head in !DETERMINER lion's mouth
+!PUT us in jeopardy
+!ROYALWE !CANCOULD have been one of them
+!ROYALWE !MUSTSHOULD be alert for
+!ROYALWE !MUSTSHOULD be on guard for
+!ROYALWE !OUGHTNEED to be alert for
+!ROYALWE !OUGHTNEED to be on guard for
+!ROYALWE all have to be alert
+!ROYALWE are all potentially victims
+!ROYALWE can't do a thing about it
+!ROYALWE can't see or can't control
+!ROYALWE can't see or control
+!ROYALWE can be so vulnerable
+!ROYALWE can not do a thing about it
+!ROYALWE cannot ever feel completely safe
+!ROYALWE cannot ever feel completely safe from
+!ROYALWE cannot see or cannot control
+!ROYALWE cannot see or control
+!ROYALWE did not feel as safe
+!ROYALWE didn't feel as safe
+!ROYALWE didn't feel safe
+!ROYALWE do not feel as safe
+!ROYALWE do not feel safe
+!ROYALWE do not know how to handle it
+!ROYALWE do not know what !ROYALWE will do
+!ROYALWE do not know what is going to happen to
+!ROYALWE do not know what is going to happen to OBJECTWE!
+!ROYALWE do not know who or what to fear
+!ROYALWE do not know who these people are
+!ROYALWE don't feel as safe
+!ROYALWE don't feel safe
+!ROYALWE don't know what !ROYALWE will do
+!ROYALWE don't know what is going to happen to
+!ROYALWE don't know what is going to happen to OBJECTWE!
+!ROYALWE don't know who or what to fear
+!ROYALWE don't know who these people are
+!ROYALWE feel no protection
+!ROYALWE feel no safety
+!ROYALWE feel that we cannot ever feel completely safe
+!ROYALWE feel that we cannot ever feel completely safe from
+!ROYALWE feel vulnerable
+!ROYALWE feel we are not as safe
+!ROYALWE feel we are not safe
+!ROYALWE get fearful
+!ROYALWE got fearful
+!ROYALWE grew fearful
+!ROYALWE grow fearful
+!ROYALWE have no confidence that !ROYALWE can control the situation
+!ROYALWE have no control of any event that might
+!ROYALWE have no control over any events that might
+!ROYALWE have no escape
+!ROYALWE have no means of escape
+!ROYALWE have no way out
+!ROYALWE have not seen the last of attacks
+!ROYALWE haven't seen the last of attacks
+!ROYALWE never know from what direction an attack may come
+!ROYALWE simply do not know who !DETERMINER enemy is
+!ROYALWE simply do not know who DETERMINER! enemy is
+!ROYALWE simply do not know who our enemy is
+!ROYALWE will be wide open again
+!ROYALWE will never feel safe
+!ROYALWE will not feel safe
+!ROYALWE won't be there to help them
+!ROYALWE would not be there to protect them
+!SEND !DETERMINER chill up my spine
+!SEND a chill down my spine
+!SEND a chill down our spines
+!SEND chills down my spine
+!SEND chills down our spines
+!SEND shivers up my spine
+!TAKE away my security
+!TAKE away our security
+"Fear I have, though, !AUX germ warfare"
+"Whatever it is, I fear"
+afraid we can
+afraid we could
+afraid we may
+afraid we might
+afraid we would
+am concerned that
+an enemy that we can not define
+an enemy that we cannot define
+an enemy that we could not define
+and we all die
+anxious that I !CONTINGENTMODAL lose freedoms
+anxious that I may lose freedoms
+anxious that we !CONTINGENTMODAL lose freedoms
+anxious that we may lose freedoms
+anyone can harm us
+Are !ROYALWE truly safe
+are we being told !DETERMINER whole story
+as little as I was assured
+as little as we were assured
+attack that awaits me
+attack that awaits us
+attacks against our
+bad that awaits me
+bad that awaits us
+butterflies in my stomach
+butterflies in our stomach
+can't afford to let my guard down
+can't afford to our guard down
+can't let my guard down
+can't let our guard down
+can't protect me
+can't protect us
+can anyone protect us
+can get me killed
+can get us killed
+can get worse for me
+can get worse for us
+can kill me
+can kill us
+can our government protect us
+can take advantage of my generosity
+can take advantage of my good will
+can take advantage of my kindness
+can take advantage of my trust
+cannot protect me
+cannot protect us
+change to our free society
+changes to our free society
+concern about my future
+concern about our future
+concern over our future
+concerns about my future
+concerns about our future
+concerns over our future
+could feel !DETERMINER knot in my throat
+could feel !DETERMINER knot in our throats
+could get me killed
+could get us killed
+could take advantage of my generosity
+could take advantage of my good will
+could take advantage of my kindness
+could take advantage of my trust
+creep me out
+creep us out
+creeped me out
+creeped us out
+creeping me out
+creeping us out
+creeps me out
+creeps us out
+do not know how to bring ourselves to closure
+end my life
+end my live
+end our lifes
+end our lives
+endanger us all
+endangered us all
+endangering us all
+endangers us all
+enemy has infiltrated my
+enemy has infiltrated our
+events are beyond my control
+evil people !AUX living near us
+evil people could be living near us
+evil people live near us
+fear about mine and my family safety
+fear coursing through my veins
+fear coursing through our veins
+fear I have
+fear I have in spades
+fear I have																				!PUT me on guard
+Fear I have, though, !AUX germ warfare
+fear made my skin crawl
+fear made our skin crawl
+fear we have
+fear we have in spades
+frighten me
+frighten us
+frightending us
+frightened me
+frightened us
+frightening me
+frightens me
+frightens us
+frozen in fear
+get me anxious
+get worse for me
+get worse for us
+gets me anxious
+gets me anxious																			getting me anxious								got me anxious
+getting me anxious
+give up some of my civil liberties
+give up some of our civil liberties
+gives up some of my civil liberties
+gives up some of our civil liberties
+giving up some of my civil liberties
+giving up some of our civil liberties
+got me anxious
+haunt me
+haunt us
+haunted me
+haunted us
+haunting me
+haunting us
+haunts me
+haunts us
+he can attack me
+he can attack us
+hit closer to my home
+how can I protect myself
+how can we protect ourselves
+how fearful I
+how fearful we
+I'm afraid !PRONOUNNOMINAL
+I'm afraid !PRONOUNNOMINAL will
+I'm afraid about
+I'm afraid for !POSSESSIVEPRONOUN future
+I'm afraid for his future
+I'm afraid for my future
+I'm afraid for our future
+I'm afraid for their future
+I'm afraid for your future
+I'm afraid of
+I'm afraid that !PRONOUNNOMINAL
+I'm afraid that !PRONOUNNOMINAL will
+I'm afraid that someone is going to
+I'm afraid will
+I'm fearful
+I'm just fearful
+I'm kind of afraid
+I'm most afraid
+I'm most afraid for
+I'm most concerned
+I'm most fearful
+I'm most frightened
+I'm nervous
+I'm only fearful
+I'm quite fearful
+I'm scared
+I'm scared to death
+I'm very fearful
+I'm vulnerable
+I'm worried
+I'm worried about
+I'm worried over
+I've been threatened
+I am absolutely petrified
+I am afraid
+I am afraid !PRONOUNNOMINAL
+I am afraid !PRONOUNNOMINAL will
+I am afraid about
+I am afraid for
+I am afraid he can
+I am afraid he could
+I am afraid he may
+I am afraid he might
+I am afraid he would
+I am afraid it !CONTINGENTMODAL
+I am afraid it can
+I am afraid it could
+I am afraid it may
+I am afraid it might
+I am afraid it would
+I am afraid of
+I am afraid she can
+I am afraid she could
+I am afraid she may
+I am afraid she might
+I am afraid she would
+I am afraid that
+I am afraid that !DETERMINER terrorism
+I am afraid that !PRONOUNNOMINAL
+I am afraid that !PRONOUNNOMINAL will
+I am afraid that I may
+I am afraid that I might
+I am afraid that it will
+I am afraid that something will
+I am afraid that terrorism
+I am afraid they can
+I am afraid they could
+I am afraid they may
+I am afraid they might
+I am afraid they would
+I am afraid to
+I am afraid to find out what will happen
+I am afraid to open
+I am afraid we can
+I am afraid we could
+I am afraid we may
+I am afraid we might
+I am afraid we would
+I am afraid will
+I am afraid you can
+I am afraid you could
+I am afraid you may
+I am afraid you might
+I am afraid you would
+I am also anxious
+I am anxious
+I am anxious for
+I am coming unglued
+I am completely petrifried
+I am concerned
+I am concerned about !DETERMINER safety
+I am concerned for !DETERMINER safety
+I am fearful
+I am feeling so vulnerable
+I am feeling vulnerable
+I am just fearful
+I am kind of afraid
+I am most afraid
+I am most concerned
+I am most fearful
+I am most frightened
+I am most worried
+I am nervous
+I am not able to do anything about it
+I am only fearful
+I am petrified
+I am petrified of
+I am petrified that
+I am quite fearful
+I am scared
+I am scared that
+I am scared to death
+I am totally petrified
+I am under threat
+I am uptight
+I am very fearful
+I am very vulnerable
+I am vulnerable
+I am worried
+I am worried about
+I am worried over
+I an afraid
+I can't yet relax
+I can lose someone close
+I could lose someone close
+I do not feel safe
+I do not know what I'll do
+I do not know what I will do
+I do not know what we'll do
+I do not know what we will do
+I do not think our enemies have finished yet
+I don't feel safe
+I don't know how I will handle any threat
+I don't know what I'll do
+I don't know what I will do
+I don't know what is going to happen to me
+I don't know what we'll do
+I don't know what we will do
+I don't know what will happen
+I don't know what will happen to me
+I don't think !DETERMINER attacks are over
+I don't think our enemies have finished yet
+I don't think the terrorists are through doing damage
+I doubt we will be able to punish those responsible
+I doubt we will ever
+I doubt we will ever find peace
+I fear
+I fear for
+I fear for all of us
+I fear for me
+I fear for my
+I fear for our
+I fear that
+I feel afraid
+I feel edgy
+I feel like I'm very vulnerable
+I feel like I'm vulnerable
+I feel really fearful
+I feel threatened
+I feel unglued
+I feel unsafe
+I feel very anxious
+I feel very vulnerable
+I feel vulnerable
+I feel we haven't seen !DETERMINER last of attacks
+I felt like my life was not as safe
+I felt like my life was not safe
+I felt my life was not safe
+I felt really fearful
+I felt scared
+I felt very scared
+I find it worrisome
+I find myself having to watch my back
+I find myself looking over my shoulders
+I find myself watching my back
+I get anxious
+I have !DETERMINER heebie-jeebies
+I have no confidence
+I have to look over my shoulder
+I have to watch my back
+I just don't know what will happen
+I may lose someone close
+I might lose someone close
+I need protection
+I now find it dangerous
+I require protection
+I shuddered
+I still feel vulnerable
+I wanted my kids to grow up in !DETERMINER nicer world
+I was scared
+I was scared that
+I will be forced to live
+I will be haunted
+I will go bankrupt
+I will go broke
+I will never feel safe
+I will panic
+I won't be able to do anything
+I won't be able to help
+I won't be able to stop it
+I worried about
+I worry about
+I worry about her
+I worry about him
+I worry about myself
+I worry about them
+I worry about us
+I worry about you
+I worry he will get away
+I worry she will get away
+I worry they will get away
+icy chill down my spine
+icy chill down our spines
+If I would get hurt
+if something bad !AUX allowed to happen to me
+if something bad !AUX allowed to happen to us
+If we would get hurt
+in fear of my life
+in fear of our lives
+infiltrate my
+infiltrate our
+infiltrated my
+infiltrated our
+infiltrates my
+infiltrates our
+infiltrating my
+infiltrating our
+It frightens me
+it made me fear
+it made me fearful
+it made me uneasy
+it made us fear
+it made us fearful
+it made us fearing
+it makes me uneasy
+it put me in fear
+it put us in fear
+knot constrict my throat
+knot constrict our throats
+knot constricted my throat
+knot constricted our throats
+knot constricts my throat
+knot constricts our throats
+know you might die
+knowing that our lives are not as secure
+leave me open to another surprise
+leave me open to danger
+leave me vulnerable
+leave us open for another surprise
+leave us vulnerable
+leaves me vulnerable
+leaves us vulnerable
+leaving me vulnerable
+leaving us vulnerable
+left me vulnerable
+left us vulnerable
+limit our rights to privacy
+limited our rights to privacy
+limiting our rights to privacy
+limits our rights to privacy
+loss of my feeling of safety
+loss of my security
+loss of our feeling of safety
+loss of our security
+may take advantage of my generosity
+may take advantage of my good will
+may take advantage of my kindness
+may take advantage of my trust
+me becoming !DETERMINER victim
+might take advantage of my generosity
+might take advantage of my good will
+might take advantage of my kindness
+might take advantage of my trust
+misery that awaits me
+misery that awaits us
+monsters are right amongst us and we don't even know it
+More enemies in this country than we realize
+more limits to our openness
+my angst
+my anxieties
+my anxiety
+my becoming !DETERMINER victim
+my big fear
+my biggest fear
+my blood ran cold
+my brain and willpower will fade
+my child being hurt
+my child getting hurt
+my concern is that
+my concerns are that
+my daughter being hurt
+my daughter getting hurt
+my dread
+my falling prey
+my family being hurt
+my family can be harmed
+my family could be harmed
+my family getting hurt
+my family may be harmed
+my family might be harmed
+my fear
+my fear that this country !AUX getting carried away
+my foreboding
+my great fear
+my greatest fear
+My greatest fear !AUX losing my family
+My greatest fear !AUX that
+My greatest fear !AUX that of losing my family
+my heart stood still
+my heart stood still with fear
+my husband being hurt
+my husband getting hurt
+my insecurity
+my lack of security
+my son being hurt
+my son getting hurt
+my state's plant !AUX in !DETERMINER line of fire
+my uneasiness about what could
+my uneasiness about what may
+my uneasiness about what might
+my uneasiness toward !DETERMINER future
+my uneasiness toward what could
+my uneasiness toward what may
+my uneasiness toward what might
+my wife being hurt
+my wife getting hurt
+no way for me to fight back
+no way for us to fight back
+no way to defend myself
+no way to defend ourselves
+now I don't know what bad can happen
+now I don't know what bad can or will happen
+now I don't know what bad will happen
+on our guard
+on our guard against
+our anxieties
+our anxiety
+our becoming !DETERMINER victim
+our big fear
+our biggest fear
+our blood ran cold
+our carefree way of life is tainted by fears
+our concern is that
+our concerns are that
+our deteriorating
+our deterioration
+our dread
+our enemy has infiltrated
+our falling prey
+our families being killed
+our fear
+our freedom !AUX under attack
+our freedoms may be shelved
+our future will unravel
+our great fear
+our greatest fear
+our husbands being killed
+our insecurity
+our lack of security
+our lives are not as secure
+our loss of safety
+our open way of life !AUX being threatened
+our safety !AUX being compromised
+our safety !AUX being threatened
+our safety !AUX threatened
+Our security has been shattered
+our uneasiness
+our very way of life !AUX under attack
+our way of life !AUX being threatened
+our way of life !AUX under attack
+out of my mind with fear
+out of our mind with fear
+pain that awaits me
+pain that awaits us
+place me in jeopardy
+placed me in jeopardy
+places me in jeopardy
+placing me in jeopardy
+pray to god that !ROYALWE will never
+pray to god that !ROYALWE will not
+pray to god that !ROYALWE won't have to
+prickling sensation up my spine
+prickling sensation up our spines
+prickling sensations up my spine
+prickling sensations up our spines
+prickling up my spine
+prickling up our spines
+questioning the stranger next to me
+questioning the stranger next to us
+scare me
+scare me out of my mind
+scare me out of my wits
+scare us
+scare us out of our wits
+scared me
+scared me out of my mind
+scared me out of my wits
+scared us
+scared us out of our wits
+scares me
+scares me out of my mind
+scares me out of my wits
+scares us
+scares us out of our wits
+scaring me
+scaring me out of my mind
+scaring me out of my wits
+scaring us
+scaring us out of our wits
+scary to me
+scary to us
+shake !DETERMINER foundations of my
+shake !DETERMINER foundations of our
+shake us to !DETERMINER core
+shakes !DETERMINER foundations of my
+shakes !DETERMINER foundations of our
+shaking !DETERMINER foundations of my
+shaking !DETERMINER foundations of our
+shaking us to !DETERMINER core
+she can attack me
+she can attack us
+shook !DETERMINER foundations of my
+shook !DETERMINER foundations of our
+shook us to !DETERMINER core
+should something bad happen to me
+small hairs at !DETERMINER back of my neck stir
+small hairs at !DETERMINER back of my neck stirred
+small hairs at !DETERMINER back of my neck stirring
+small hairs at !DETERMINER back of our neck stir
+small hairs at !DETERMINER back of our neck stirred
+small hairs at !DETERMINER back of our neck stirring
+someone in my family can be harmed
+someone in my family could be harmed
+someone in my family may be harmed
+someone in my family might be harmed
+something bad !AUX allowed to happen to me
+something bad !AUX allowed to happen to us
+something bad happens to me
+something bad happens to us
+struggle that awaits me
+struggle that awaits us
+struggle to maintain my security
+struggle to maintain our security
+struggled to maintain my security
+struggled to maintain our security
+struggles to maintain my security
+struggles to maintain our security
+struggling to maintain my security
+struggling to maintain our security
+supposed to be protecting me
+supposed to be protecting us
+suspicious of my neighbors
+suspicious of our neighbors
+swallow !DETERMINER lump in my throat
+swallow !DETERMINER lump in our throats
+swallowed !DETERMINER lump in my throat
+swallowed !DETERMINER lump in our throats
+swallowing !DETERMINER lump in my throat
+swallowing !DETERMINER lump in our throats
+swallows !DETERMINER lump in my throat
+swallows !DETERMINER lump in our throats
+terrified me
+terrified us
+terrifies me
+terrifies us
+terrify me
+terrify us
+terrifying me
+terrifying us
+terror that awaits me
+terror that awaits us
+Terrorist attack occurred in our country
+that anyone can harm us
+THE MOST ANXIOUS
+they can attack me
+they can attack us
+threat to me
+threat to us
+threaten me
+threaten us
+threatened me
+threatened us
+threatening me
+threatening us
+threatens me
+threatens us
+threats to me
+threats to us
+threats we now live with
+toil that awaits me
+toil that awaits us
+trouble that awaits me
+trouble that awaits us
+try to shake !DETERMINER foundations of our
+unable to insulate me from
+unable to insulate us from
+undercut my secure
+undercut my security
+undercut our secure
+undercut our security
+undercuts my secure
+undercuts my security
+undercuts our secure
+undercuts our security
+undercutting my secure
+undercutting my security
+undercutting our secure
+undercutting our security
+undermine !DETERMINER secure feeling that !ROYALWE had
+undermine my secure
+undermine my security
+undermine our secure
+undermine our security
+undermined !DETERMINER secure feeling that !ROYALWE had
+undermined my secure
+undermined my security
+undermined our secure
+undermined our security
+undermines !DETERMINER secure feeling that !ROYALWE had
+undermines my secure
+undermines my security
+undermines our secure
+undermines our security
+undermining !DETERMINER secure feeling that !ROYALWE had
+undermining my secure
+undermining my security
+undermining our secure
+undermining our security
+want to kill all of us
+want to kill me
+want to kill us
+wanted to kill all of us
+wanted to kill me
+wanted to kill us
+wanting to kill all of us
+wanting to kill me
+wanting to kill us
+wants to kill all of us
+wants to kill me
+wants to kill us
+way to keep my family safe
+way to keep our families safe
+ways to keep my family safe
+ways to keep our families safe
+we're afraid !PRONOUNNOMINAL
+we're afraid !PRONOUNNOMINAL will
+we're afraid about
+we're afraid of
+we're afraid that !PRONOUNNOMINAL
+we're afraid that !PRONOUNNOMINAL will
+we're afraid that someone
+we're kind of afraid
+we're most afraid
+we're most afraid for
+we're nervous
+we're vulnerable
+we !AUX also anxious
+we !AUX anxious
+we !AUX suspicious of our
+we !AUX suspicious of our neighbors
+we !AUX under threat
+we are absolutely petrified
+we are afraid !PRONOUNNOMINAL
+we are afraid !PRONOUNNOMINAL will
+we are afraid about
+we are afraid of
+we are afraid that !PRONOUNNOMINAL
+we are afraid that !PRONOUNNOMINAL will
+we are afraid that it will
+we are afraid that something will
+we are afraid that we may
+we are afraid that we might
+we are completely petrifried
+we are feeling so vulnerable
+we are feeling vulnerable
+we are kind of afraid
+we are living in dangerous times
+we are most afraid
+we are most worried
+we are nervous
+we are petrified
+we are petrified of
+we are petrified that
+we are scared
+we are scared that
+we are totally petrified
+we are vulnerable
+we can't yet relax
+we can lose someone close
+We can no longer be free
+we come to work for !DETERMINER  future and people who !AUX stupid destroy it
+we come to work for !DETERMINER future and people who !AUX stupid destroy it
+we could lose someone close
+we don't know what will happen to us
+we feel unsafe
+we find ourselves having to watch our backs
+we find ourselves watching our backs
+we have to look over our shoulders
+we have to watch our backs
+we let all these foreigners come into our country without checking their background
+we may lose someone close
+we might lose someone close
+we must now face
+we must now live with
+we need protection
+We no longer enjoy !DETERMINER free movement that we always enjoyed
+we now live with threats
+we now must endure
+we now must face
+we now must live with
+we require protection
+we should be fearful
+we should fear
+we shuddered
+we still feel vulnerable
+we were scared
+we were scared that
+we will all be helpless
+we will always be afraid
+we will be destroyed
+We will be forced
+We will be forced to live
+we will be haunted
+we will go bankrupt
+We will no longer be free
+we worried about
+were to hit my
+were to hit my city
+What do I do if my nightmare
+what is next
+what is next for me
+what is next for us
+what makes me fearful
+what makes me feel fearful
+what makes me feel frightened
+what makes me feel most fearful
+what makes me feel most frightened
+what makes me feel most scared
+what makes me feel scared
+what makes me frightened
+what makes me most fearful
+what makes me most frightened
+what makes me most scared
+What makes me nervous
+what makes me scared
+what makes us fearful
+what makes us frightened
+what makes us most fearful
+what makes us most frightened
+what makes us most scared
+what makes us scared
+What scares me
+what will happen to me
+What will happen to me if
+what will happen to us
+What will happen to us if
+What will I do if
+what will we do if
+Whatever it is, I fear
+when and where these people will strike again
+when another one will occur
+will anyone be watching my back
+will anyone be watching our back
+will be !DETERMINER end of me
+will be !DETERMINER end of us
+will be !DETERMINER long way from what we
+will be at !DETERMINER end of my rope
+will be at my expense
+will be at our expense
+will be caught with my pants down
+will be caught with our pants down
+will be left to fend for myself
+will be left to fend for ourselves
+will be taken from me
+will be taken from us
+will break my
+will break our
+will catch me red-handed
+will catch us red-handed
+will come around where I live and hurt
+will come into my own backyard
+will come into our own backyard
+will compromise my
+will dash my hopes
+will dash our hopes
+will decimate my
+will decimate our
+Will destroy me
+will destroy my
+will destroy our
+Will destroy us
+will fall on my shoulders
+will fall on our shoulders
+will force me
+will force us
+will get me killed
+will get us killed
+will have to steel myself for
+will have to steel ourselves for
+will hit closer next time
+will hit me
+will hit us
+will hurt me
+will hurt us
+will I be able to
+will I be able to avoid
+will I be able to escape
+will I be able to make it
+will I be able to make it out
+Will I make it out if anything happens
+will isolate me
+will isolate us
+Will it happen to me or my family?
+will jerk me
+will jerk us
+will kick me out
+will kick us out
+Will lie in wait for me
+Will lie in wait for us
+will mar my
+will mar our
+Will not give up until they have destroyed our
+Will not give up until they have destroyed us
+will not protect me
+will not protect us
+will only tick me off
+will only tick us off
+will ram down my throat
+will ram down our throats
+will saddle me
+will saddle me with
+will saddle us with
+will set me back
+will set us back
+will shaft me
+will shaft us
+will shake me
+will shake me to !DETERMINER core
+will shake us
+will shake us to !DETERMINER core
+will slight me
+will slight us
+will strain my
+will strain our
+will stress my
+will stress our
+will strike me
+will strike us
+will string us along
+will stub our toe
+will suck me dry
+will suck us dry
+will sue me
+will sue us
+will take !DETERMINER wind out of our
+will tax me
+will tax my
+will tax our
+will test me
+will test us
+will throw me off
+will throw us off
+will tick me off
+will tick us off
+will tie my hands
+will tie our hands
+will toss me out
+will toss us out
+will trip over my own
+will trip over our own
+will try my patience
+will try our patience
+will turn on me
+will turn on us
+will we be able to
+will we be able to avoid
+will we be able to escape
+will we be able to make it
+will we be able to make it out
+will wear myself ragged
+will wear ourselves ragged
+will weigh heavily on me
+will weigh heavily on us
+will write me off
+will write us off
+won't protect me
+won't protect us
+worried about my future
+worried about my security
+worried about our future
+worried about our security
+worried for my safety
+worried for our safety
+worries about my future
+worries about my security
+worries about our future
+worries about our security
+worries for my safety
+worries for our safety
+worries me
+worries us
+worry about my future
+worry about my security
+worry about our future
+worry about our security
+worry for my safety
+worry for our safety
+worrying about my future
+worrying about my security
+worrying about our future
+worrying about our security
+worrying for my safety
+worrying for our safety
+would like to kill my children
+would like to kill our children
+wring my hands in fear
+wring our hands in fear
+wringing my hands in fear
+wringing our hands in fear
+wrings my hands in fear
+wrings our hands in fear
+wrung my hands in fear
+wrung our hands in fear
+you're loved ones un-assisted
+you do not know what's happening
+you don't know what's happening
+You never know the people around you
+you never know what they have up POSSESSIVEPRONOUN! sleeves

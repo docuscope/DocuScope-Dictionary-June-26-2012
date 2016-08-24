@@ -1,0 +1,1950 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER following:
+!AUX !DETERMINER MAIN ARGUMENT
+!AUX my argument
+!AUX my main argument
+!AUX our main argument
+!AUX THIS:
+!DETERMINER !GENRE !PROBLEMTOOLS
+!DETERMINER !GENRE will
+!DETERMINER !GENRE will !PROBLEMTOOLS
+!DETERMINER !RANKNUMBER !GENRE !PROBLEMTOOLS
+!DETERMINER !RANKNUMBER !GENRE of this !GENRE
+!DETERMINER !RANKNUMBER !GENRE will
+!DETERMINER !RANKNUMBER POINT
+!DETERMINER !RANKNUMBER point !ROYALWE !PROBLEMTOOLS
+!DETERMINER !RANKNUMBER point addressed
+!DETERMINER !RANKNUMBER theme !ROYALWE !PROBLEMTOOLS
+!DETERMINER !RANKNUMBER theme addressed
+!DETERMINER !RANKNUMBER topic !ROYALWE !PROBLEMTOOLS
+!DETERMINER !RANKNUMBER topic addressed
+!DETERMINER above !PROBLEMTOOLS
+!DETERMINER above addresses
+!DETERMINER above date
+!DETERMINER above discussion
+!DETERMINER aforementioned
+!DETERMINER aim of this !GENRE
+!DETERMINER ARGUMENT !AUX
+!DETERMINER ARGUMENTs !AUX
+!DETERMINER ball !AUX in !POSSESSIVEPRONOUN court
+!DETERMINER BASIC ARGUMENT !AUX
+!DETERMINER BASIC ARGUMENTs !AUX
+!DETERMINER body of this !GENRE
+!DETERMINER body of this !GENRE !AUX divided
+!DETERMINER body of this !GENRE will be divided
+!DETERMINER BURDEN OF PROOF !ROYALWE WILL
+!DETERMINER BURDENs OF PROOF !ROYALWE WILL
+!DETERMINER case for
+!DETERMINER CENTRAL ARGUMENT !AUX
+!DETERMINER CENTRAL ARGUMENTs !AUX
+!DETERMINER CHIEF ARGUMENT !AUX
+!DETERMINER CHIEF ARGUMENTs !AUX
+!DETERMINER conclusion of this !GENRE
+!DETERMINER conclusion of this !GENRE !AUX divided
+!DETERMINER conclusion of this !GENRE will be divided
+!DETERMINER conclusions are in !GENRE
+!DETERMINER contention !AUX
+!DETERMINER contention that
+!DETERMINER contentions !AUX
+!DETERMINER CONVERSE !AUX that
+!DETERMINER crux of !DETERMINER argument
+!DETERMINER crux of !DETERMINER argument !AUX
+!DETERMINER crux of !DETERMINER issue !AUX
+!DETERMINER crux of !DETERMINER matter
+!DETERMINER crux of !POSSESSIVEPRONOUN argument
+!DETERMINER crux of my argument
+!DETERMINER crux of their argument
+!DETERMINER CURRENT !GENRE
+!DETERMINER date listed above
+!DETERMINER date listed below
+!DETERMINER entire !GENRE
+!DETERMINER entire !GENRE !AUX
+!DETERMINER entire !GENRE !AUX about
+!DETERMINER essential point
+!DETERMINER essential ponts
+!DETERMINER FINAL CONSIDERATION
+!DETERMINER FINAL POINT
+!DETERMINER flip side !AUX
+!DETERMINER flip side of
+!DETERMINER flip sides of
+!DETERMINER focus !AUX on
+!DETERMINER general drift
+!DETERMINER general drift !AUX
+!DETERMINER GIST OF IT
+!DETERMINER GIST OF IT !AUX
+!DETERMINER GIST OF IT BEING
+!DETERMINER gist of my
+!DETERMINER GOAL !AUX
+!DETERMINER goal of this !GENRE !AUX to
+!DETERMINER goals !AUX
+!DETERMINER heart of !DETERMINER argument
+!DETERMINER important  issues !AUX
+!DETERMINER important issue
+!DETERMINER important issue !AUX
+!DETERMINER important part of !DETERMINER problem consists
+!DETERMINER inevitable conclusion that
+!DETERMINER inference
+!DETERMINER inference that
+!DETERMINER intentions of this !GENRE
+!DETERMINER introduction of this !GENRE
+!DETERMINER introduction of this !GENRE will be divided
+!DETERMINER INVERSE OF THIS
+!DETERMINER issue !AUX discussed
+!DETERMINER key idea
+!DETERMINER key issue !AUX
+!DETERMINER key issues !AUX
+!DETERMINER key point
+!DETERMINER key points
+!DETERMINER key thing
+!DETERMINER key to
+!DETERMINER key to !DETERMINER argument
+!DETERMINER key to that
+!DETERMINER key to this
+!DETERMINER keypoint !AUX
+!DETERMINER keypoints !AUX
+!DETERMINER LAST POINT
+!DETERMINER long and !DETERMINER short of
+!DETERMINER long and !DETERMINER short of it
+!DETERMINER long and short of
+!DETERMINER long and short of it
+!DETERMINER MAIN ARGUMENT
+!DETERMINER MAIN ARGUMENT !AUX
+!DETERMINER MAIN ARGUMENT OF
+!DETERMINER main arguments !AUX
+!DETERMINER main bone of contention !AUX
+!DETERMINER main idea behind
+!DETERMINER main idea of
+!DETERMINER MAIN POINT OF
+!DETERMINER main thing !AUX
+!DETERMINER main thing to remember !AUX
+!DETERMINER main things to remember !AUX
+!DETERMINER major contention
+!DETERMINER major contentions
+!DETERMINER meat of !DETERMINER argument
+!DETERMINER next matter to consider
+!DETERMINER next question to consider
+!DETERMINER note of explanation
+!DETERMINER nub
+!DETERMINER nub of
+!DETERMINER nub of !DETERMINER !IDEA
+!DETERMINER nub of !DETERMINER matter
+!DETERMINER object of !DETERMINER !GENRE
+!DETERMINER object of my
+!DETERMINER object of this
+!DETERMINER object of this !GENRE
+!DETERMINER objective of !DETERMINER !GENRE
+!DETERMINER objective of my
+!DETERMINER objective of this
+!DETERMINER objective of this !GENRE
+!DETERMINER only word to describe
+!DETERMINER other side of !DETERMINER argument
+!DETERMINER other side of !DETERMINER coin
+!DETERMINER other side of !DETERMINER issue
+!DETERMINER other side of !DETERMINER picture
+!DETERMINER plain reason !AUX that
+!DETERMINER POINT !AUX
+!DETERMINER points !AUX
+!DETERMINER premise behind their thinking
+!DETERMINER PRESENT !GENRE
+!DETERMINER PRESENT FOCUS
+!DETERMINER PRESENT PRIORITY
+!DETERMINER present work
+!DETERMINER PRIMARY ARGUMENT !AUX
+!DETERMINER primary arguments !AUX
+!DETERMINER principle
+!DETERMINER principle argument
+!DETERMINER principle arguments
+!DETERMINER problem consists of
+!DETERMINER propos
+!DETERMINER propos of
+!DETERMINER proposition that
+!DETERMINER PURPOSE OF
+!DETERMINER PURPOSE OF THIS
+!DETERMINER purpose of this !GENRE !AUX to
+!DETERMINER purposes of this !GENRE
+!DETERMINER READER SHALL !PROBLEMTOOLS
+!DETERMINER rest !AUX history
+!DETERMINER rest !AUX silence
+!DETERMINER result will be
+!DETERMINER results !AUX
+!DETERMINER some,
+!DETERMINER STORY !ROYALWE WILL ARGUE
+!DETERMINER STORY !ROYALWE WILL CLAIM
+!DETERMINER SUBJECT OF !DETERMINER NEXT
+!DETERMINER SUBJECT OF MY NEXT
+!DETERMINER subsidiary consideration !AUX
+!DETERMINER theses !AUX
+!DETERMINER THESIS !AUX
+!DETERMINER topic not worth mentioning
+!DETERMINER topic of
+!DETERMINER ULTIMATE GOAL !AUX
+!DETERMINER ultimate goals !AUX
+!GENRE COVERS
+!GENRE GETS INTO
+!GENRE GOES INTO
+!GENRE GOES OVER
+!GENRE HEREIN
+!GENRE TALKS ABOUT
+!GET to !DETERMINER topic
+!GET to !DETERMINER topic of
+!GO FURTHER IN SPECIFYING
+!GO FURTHER TO SPECIFY
+!HEADDET !GENRE
+!HEADDET !GENRE !AUX CONCERNED WITH
+!HEADDET !GENRE !AUX DIVIDED INTO
+!HEADDET !GENRE !AUX FOCUSED ON
+!HEADDET !GENRE !AUX ORGANIZED
+!HEADDET !GENRE !AUX SECTIONED
+!HEADDET !GENRE !PROBLEMTOOLS
+!HEADDET !GENRE !PROBLEMTOOLS !PROBLEM
+!HEADDET !GENRE ADDRESSES
+!HEADDET !GENRE CLARIFIES
+!HEADDET !GENRE CLEARS UP
+!HEADDET !GENRE CONSIDERS
+!HEADDET !GENRE COVERS
+!HEADDET !GENRE DISCUSSES
+!HEADDET !GENRE EXAMINES
+!HEADDET !GENRE EXPLAINS
+!HEADDET !GENRE EXPLORES
+!HEADDET !GENRE GETS INTO
+!HEADDET !GENRE GOES INTO
+!HEADDET !GENRE GOES OVER
+!HEADDET !GENRE INVESTIGATES
+!HEADDET !GENRE OUTLINES
+!HEADDET !GENRE PERTAINS TO
+!HEADDET !GENRE PROVIDES
+!HEADDET !GENRE PROVIDES AN ASSESSMENT OF
+!HEADDET !GENRE REPORTS
+!HEADDET !GENRE REPORTS ON
+!HEADDET !GENRE RESOLVES
+!HEADDET !GENRE SUGGESTS
+!HEADDET !GENRE TALKS ABOUT
+!HEADDET !GENRE try TO !PROBLEMTOOLS
+!HEADDET !GENRE try TO !PROBLEMTOOLS !PROBLEM
+!HEADDET !GENRE will !PROBLEMTOOLS
+!HEADDET !GENRE will !PROBLEMTOOLS !PROBLEM
+!HEADDET !GENRE will try
+!HEADDET !GENRE will try TO !PROBLEMTOOLS
+!HEADDET AIM OF !HEADDET PRESENT !GENRE
+!HEADDET BASIC POINT !AUX
+!HEADDET BASIC POINTS !AUX
+!HEADDET COMMITTEE CHARGE !AUX
+!HEADDET CONCEPT !AUX
+!HEADDET CONCEPT BEING
+!HEADDET CONCEPTION !AUX
+!HEADDET CONCEPTION BEING
+!HEADDET FINAL POINT
+!HEADDET FINAL POINT !AUX THAT
+!HEADDET ORGANIZATION OF !HEADDET !GENRE
+!HEADDET ORGANIZATION OF THIS !GENRE
+!HEADDET PRESENT !GENRE
+!HEADDET PRESENT WORK
+!HEADDET PURPOSE !AUX
+!HEADDET PURPOSE OF !HEADDET !GENRE
+!HEADDET PURPOSE OF MY
+!HEADDET PURPOSES OF !HEADDET PRESENT !GENRE
+!HEADDET REASON FOR !HEADDET !GENRE
+!HEADDET REMAINDER OF !HEADDET !GENRE
+!HEADDET REMAINDER OF THIS !GENRE
+!HEADDET STORY !ROYALWE !PLAN
+!HEADDET STORY !ROYALWE !PROBLEMTOOLS
+!HEADDET STORY !ROYALWE CONSIDER
+!HEADDET STORY !ROYALWE COVER
+!HEADDET STORY !ROYALWE DISCOVERED
+!HEADDET STORY !ROYALWE DUG UP
+!HEADDET STORY !ROYALWE FOUND OUT
+!HEADDET STORY !ROYALWE GO OVER
+!HEADDET STORY !ROYALWE INVESTIGATE
+!HEADDET STORY !ROYALWE LEARNED
+!HEADDET STORY !ROYALWE REPORT
+!HEADDET STORY !ROYALWE REPORT ON
+!HEADDET STORY !ROYALWE SUGGEST
+!HEADDET STORY THAT WILL BE CLEAR
+!HEADDET STORY THAT WILL BE EXAMINED
+!HEADDET STORY THAT WILL BE REVEALED
+!HEADDET STORY THAT WILL BE UNDERSTOOD
+!HEADDET STORY THAT WILL BECOME APPARENT
+!HEADDET STORY THAT WILL BECOME CLEAR
+!HEADDET TIME HAS COME
+!HEADDET TIME HAS COME FOR
+!HEADDET will try TO !PROBLEMTOOLS
+!HEADDET will try TO !PROBLEMTOOLS !PROBLEM
+!HIT !DETERMINER high points
+!MAKE !DETERMINER long story short
+!MAKE my point clear
+!MAKE my position clear
+!MAKE some clarifications
+!MEAN BY THAT
+!MEAN TO IMPLY
+!MEAN TO SAY
+!MODAL !ROYALWE add
+!MODAL !ROYALWE also add
+!MODAL !ROYALWE also ask
+!MODAL !ROYALWE also point out
+!MODAL !ROYALWE also say
+!MODAL !ROYALWE ask
+!MODAL !ROYALWE point out
+!MODAL !ROYALWE say
+!MODAL BE DESCRIBED AS FOLLOWS
+!MODAL BETTER BE UNDERSTOOD BY
+!MODAL better understand !QUESTION !ROYALWE !MODAL
+!MODAL better understand !QUESTION you !MODAL
+!MODAL one add
+!MODAL one also add
+!MODAL one also ask
+!MODAL one also point out
+!MODAL one also say
+!MODAL one ask
+!MODAL one point out
+!MODAL one say
+!MUSTSHOULD !MAKE CLEAR HOW
+!MUSTSHOULD BE RECALLED THAT
+!MUSTSHOULD BY NOW BE
+!PLAN TO GET ACROSS
+!POSSESSIVEPRONOUN argument
+!POSSESSIVEPRONOUN reasoning
+!POSSESSIVEPRONOUN reasoning !AUX
+!QUESTION I'm going with that !AUX
+!QUESTION I'm going with this !AUX
+!QUESTION I'm headed with that !AUX
+!QUESTION I'm headed with this !AUX
+!ROYALWE !AUX ASKING
+!ROYALWE !AUX ASKING THAT
+!ROYALWE !MAKE !DETERMINER point
+!ROYALWE !MEAN BY THIS THAT
+!ROYALWE !MODAL APPRECIATE THAT
+!ROYALWE !MODAL DESIGNATE
+!ROYALWE !MODAL EASILY DETERMINE
+!ROYALWE !MODAL GENERALLY
+!ROYALWE !MODAL learn about
+!ROYALWE !MODAL look at
+!ROYALWE !MODAL look into
+!ROYALWE !MODAL MEASURE
+!ROYALWE !MODAL now
+!ROYALWE !MODAL now begin
+!ROYALWE !MODAL now start
+!ROYALWE !MODAL proceed to
+!ROYALWE !MODAL see later on that
+!ROYALWE !MODAL see that
+!ROYALWE !MODAL STATE THAT
+!ROYALWE !MODAL THINK OF
+!ROYALWE !MODAL VIEW
+!ROYALWE !MUSTSHOULD be alert to
+!ROYALWE !MUSTSHOULD be aware
+!ROYALWE !MUSTSHOULD be aware that
+!ROYALWE !MUSTSHOULD MENTION
+!ROYALWE !MUSTSHOULD NOT BE SURPRISED TO
+!ROYALWE !MUSTSHOULD NOTE that
+!ROYALWE !MUSTSHOULD notice
+!ROYALWE !MUSTSHOULD notice that
+!ROYALWE !MUSTSHOULD now consider
+!ROYALWE !MUSTSHOULD see that
+!ROYALWE !PLAN to !PROBLEMTOOLS
+!ROYALWE !PLAN to argue
+!ROYALWE !PLAN, IN !DETERMINER SERIES OF !GENRE
+!ROYALWE !PROBLEMTOOLS
+!ROYALWE !PROBLEMTOOLS !DETERMINER
+!ROYALWE !PROBLEMTOOLS !PROBLEM
+!ROYALWE !RANKNUMBER ought to
+!ROYALWE actually affirm
+!ROYALWE actually agree
+!ROYALWE actually argue
+!ROYALWE actually assert
+!ROYALWE actually attest
+!ROYALWE actually aver
+!ROYALWE actually avow
+!ROYALWE actually believe
+!ROYALWE actually claim
+!ROYALWE actually contend
+!ROYALWE actually declaim
+!ROYALWE actually declare
+!ROYALWE actually defend
+!ROYALWE actually maintain
+!ROYALWE actually observe
+!ROYALWE actually preach
+!ROYALWE actually proclaim
+!ROYALWE actually profess
+!ROYALWE actually pronounce
+!ROYALWE actually say
+!ROYALWE actually state
+!ROYALWE actually suggest
+!ROYALWE actually support
+!ROYALWE actually think
+!ROYALWE ADVISE
+!ROYALWE advocate
+!ROYALWE affirm
+!ROYALWE affirm that
+!ROYALWE affirm that !QUESTION
+!ROYALWE ALREADY DISCUSSED
+!ROYALWE ALREADY MENTIONED
+!ROYALWE also agree
+!ROYALWE also trust he
+!ROYALWE also trust it
+!ROYALWE also trust she
+!ROYALWE also trust that
+!ROYALWE also trust they
+!ROYALWE AM arguing against
+!ROYALWE AM INTERESTED IN EXPLORING
+!ROYALWE AM INTERESTED IN PRESENTING
+!ROYALWE AM INTERESTED IN SHOWING
+!ROYALWE AM MAKING !DETERMINER POINT THAT
+!ROYALWE am not talking about
+!ROYALWE am pleased to inform you
+!ROYALWE am reminding you of
+!ROYALWE AM saying THAT
+!ROYALWE AM WRITING
+!ROYALWE am writing !DETERMINER !GENRE
+!ROYALWE am writing !DETERMINER !GENRE about
+!ROYALWE AM WRITING ABOUT
+!ROYALWE am writing on
+!ROYALWE am writing on !DETERMINER topic of
+!ROYALWE AM WRITING PERTAINING TO
+!ROYALWE analyze
+!ROYALWE are going to !CITEVERB you all about
+!ROYALWE are now featuring
+!ROYALWE ARE now GOING TO
+!ROYALWE are now going to !PROBLEMTOOLS
+!ROYALWE ARE now GOING TO FOLLOW
+!ROYALWE are now led to !DETERMINER
+!ROYALWE are now ready
+!ROYALWE are ready to consider
+!ROYALWE are ready to discuss
+!ROYALWE are ready to turn to
+!ROYALWE are reminding you of
+!ROYALWE are writing !DETERMINER !GENRE
+!ROYALWE are writing !DETERMINER !GENRE about
+!ROYALWE ARGUE
+!ROYALWE ARGUE THAT
+!ROYALWE ask
+!ROYALWE assert
+!ROYALWE ATTEMPT TO PROVE
+!ROYALWE BEGIN AS
+!ROYALWE BEGIN BY
+!ROYALWE BEGIN WITH
+!ROYALWE CANNOT THINK OF
+!ROYALWE carry out
+!ROYALWE chose !DETERMINER topic
+!ROYALWE chose to !INQUIREVERBSTEM
+!ROYALWE chose to !INQUIREVERBSTEM !DETERMINER topic
+!ROYALWE claim
+!ROYALWE come
+!ROYALWE come again
+!ROYALWE conclude !DETERMINER
+!ROYALWE conjecture
+!ROYALWE CONSIDER
+!ROYALWE CONSIDER !DETERMINER
+!ROYALWE contemplate
+!ROYALWE contend
+!ROYALWE CONTEND THAT
+!ROYALWE could go on
+!ROYALWE deal with
+!ROYALWE delve
+!ROYALWE DEMONSTRATE THAT
+!ROYALWE describe
+!ROYALWE describe in detail
+!ROYALWE develop !DETERMINER
+!ROYALWE diagnose
+!ROYALWE discuss
+!ROYALWE DO !HEADDET HEREIN
+!ROYALWE enter !DETERMINER argument
+!ROYALWE exit
+!ROYALWE expect an opponent to say
+!ROYALWE explain
+!ROYALWE explore
+!ROYALWE feature
+!ROYALWE find
+!ROYALWE FIND THAT !ROYALWE WILL ENCOUNTER
+!ROYALWE focus
+!ROYALWE FOCUS ON
+!ROYALWE formulate
+!ROYALWE further mention
+!ROYALWE generalize
+!ROYALWE HAVE ALREADY ENCOUNTERED !DETERMINER
+!ROYALWE HAVE ARGUED THAT
+!ROYALWE have chosen !DETERMINER topic of
+!ROYALWE HAVE CHOSEN FOR MY TOPIC
+!ROYALWE HAVE CHOSEN HERE
+!ROYALWE HAVE CHOSEN TO
+!ROYALWE HAVE CONTENDED THAT
+!ROYALWE HAVE DISCUSSED !MOTIONPREP
+!ROYALWE have enclosed
+!ROYALWE HAVE HERE CHOSEN
+!ROYALWE have included
+!ROYALWE HAVE NOW COMPLETED !DETERMINER DISCUSSION OF
+!ROYALWE HAVE PROPOSED THAT
+!ROYALWE HAVE SAID THAT
+!ROYALWE HAVE STATED THAT
+!ROYALWE HAVE SUGGESTED THAT
+!ROYALWE have to analyze
+!ROYALWE HEREIN
+!ROYALWE hypothesize
+!ROYALWE inquire
+!ROYALWE INTEND TO COVER
+!ROYALWE INTEND TO SHOW
+!ROYALWE investigate
+!ROYALWE invite
+!ROYALWE just want further to say
+!ROYALWE made !DETERMINER point
+!ROYALWE MENTIONED !MOTIONPREP
+!ROYALWE MUST ASK READERS
+!ROYALWE must assume
+!ROYALWE MUST CONTEND WITH
+!ROYALWE need to consider
+!ROYALWE need to look at
+!ROYALWE need to look into
+!ROYALWE need to understand
+!ROYALWE now !PLAN to !CITEVERB
+!ROYALWE now deal with
+!ROYALWE now intend
+!ROYALWE now INTEND TO
+!ROYALWE NOW INTRODUCE
+!ROYALWE NOW MOVE TO
+!ROYALWE now plan
+!ROYALWE now present
+!ROYALWE now report
+!ROYALWE now shall
+!ROYALWE now turn attention
+!ROYALWE now turn attention to
+!ROYALWE NOW TURN TO
+!ROYALWE now want
+!ROYALWE OFFER HERE
+!ROYALWE OFTEN REFER TO
+!ROYALWE OFTEN SAY THAT
+!ROYALWE ought to understand
+!ROYALWE plan to !MAKE !DETERMINER case
+!ROYALWE plan to !PROBLEMTOOLS
+!ROYALWE plan TO argue
+!ROYALWE plan to raise
+!ROYALWE PLAN TO show that
+!ROYALWE present
+!ROYALWE present !DETERMINER
+!ROYALWE present !DETERMINER results
+!ROYALWE PRESENT now
+!ROYALWE probe
+!ROYALWE PROVE
+!ROYALWE provide !DETERMINER
+!ROYALWE pursue
+!ROYALWE put forth
+!ROYALWE reenter
+!ROYALWE reference below
+!ROYALWE REFERENCE later
+!ROYALWE reflect on
+!ROYALWE report
+!ROYALWE report  on here
+!ROYALWE report here
+!ROYALWE report here on
+!ROYALWE report on
+!ROYALWE report on here
+!ROYALWE review
+!ROYALWE ruminate
+!ROYALWE scrutinize
+!ROYALWE see THAT
+!ROYALWE shall
+!ROYALWE shall !PROBLEMTOOLS
+!ROYALWE shall analyze
+!ROYALWE shall briefly review
+!ROYALWE SHALL CONCLUDE THAT
+!ROYALWE shall conjecture
+!ROYALWE shall consider
+!ROYALWE shall contemplate
+!ROYALWE shall delve
+!ROYALWE shall diagnose
+!ROYALWE shall discuss
+!ROYALWE SHALL EMBARK ON
+!ROYALWE shall explain
+!ROYALWE shall explore
+!ROYALWE shall focus
+!ROYALWE shall focus on
+!ROYALWE shall generalize
+!ROYALWE shall hypothesize
+!ROYALWE shall in particular
+!ROYALWE shall inquire
+!ROYALWE shall investigate
+!ROYALWE shall probe
+!ROYALWE shall pursue
+!ROYALWE shall reflect on
+!ROYALWE shall report
+!ROYALWE shall review
+!ROYALWE shall ruminate
+!ROYALWE shall scrutinize
+!ROYALWE shall shortly see that
+!ROYALWE shall soon see that
+!ROYALWE shall speculate
+!ROYALWE SHALL START
+!ROYALWE shall take as our starting point
+!ROYALWE shall test
+!ROYALWE SHALL TRY
+!ROYALWE SHOW
+!ROYALWE show here
+!ROYALWE SHOW THAT
+!ROYALWE suggest
+!ROYALWE summarize
+!ROYALWE test
+!ROYALWE THOUGHT IT WAS !HEADDET APPROPRIATE TIME
+!ROYALWE try TO !PROBLEMTOOLS
+!ROYALWE try TO !PROBLEMTOOLS !PROBLEM
+!ROYALWE TRY TO SHOW
+!ROYALWE TYPICALLY
+!ROYALWE USUALLY SAY THAT
+!ROYALWE venture that !DETERMINER
+!ROYALWE want further
+!ROYALWE want further to say
+!ROYALWE want to !MAKE !DETERMINER additional point
+!ROYALWE want to !MAKE !DETERMINER further observation
+!ROYALWE want to !MAKE !DETERMINER further point
+!ROYALWE want to begin with
+!ROYALWE WANT TO MENTION THAT
+!ROYALWE WANT TO NOTE
+!ROYALWE WANT TO NOTE THAT
+!ROYALWE want to say
+!ROYALWE will !PRESFACTIVES
+!ROYALWE will !PROBLEMTOOLS
+!ROYALWE will !PROBLEMTOOLS !PROBLEM
+!ROYALWE WILL ADOPT
+!ROYALWE will also
+!ROYALWE will analyze
+!ROYALWE will argue
+!ROYALWE will assert
+!ROYALWE will attempt
+!ROYALWE will attempt to demonstrate
+!ROYALWE will attempt to show
+!ROYALWE WILL BE READY TO
+!ROYALWE WILL BRIEFLY TOUCH UPON
+!ROYALWE will claim
+!ROYALWE WILL COME STRAIGHT TO !DETERMINER POINT
+!ROYALWE WILL COME TO !DETERMINER POINT
+!ROYALWE will come to that in just !DETERMINER !TIMEFRAME
+!ROYALWE will conjecture
+!ROYALWE WILL CONSIDER
+!ROYALWE will contemplate
+!ROYALWE will contend
+!ROYALWE will delve
+!ROYALWE WILL DESCRIBE
+!ROYALWE will diagnose
+!ROYALWE will discuss
+!ROYALWE WILL DO
+!ROYALWE will endeavor
+!ROYALWE will endeavor to demonstrate
+!ROYALWE will endeavor to show
+!ROYALWE will explain
+!ROYALWE will explore
+!ROYALWE will focus
+!ROYALWE will focus on
+!ROYALWE will generalize
+!ROYALWE will get into it further
+!ROYALWE WILL GET STRAIGHT TO !DETERMINER POINT
+!ROYALWE WILL GET TO !DETERMINER POINT
+!ROYALWE will get to that in just !DETERMINER !TIMEFRAME
+!ROYALWE WILL GO
+!ROYALWE WILL HAVE
+!ROYALWE will have more on that
+!ROYALWE will have more on this
+!ROYALWE will hypothesize
+!ROYALWE will inquire
+!ROYALWE will investigate
+!ROYALWE WILL LEARN MORE OF
+!ROYALWE WILL LOOK AT
+!ROYALWE will now !PROBLEMTOOLS
+!ROYALWE will now analyze
+!ROYALWE will now conjecture
+!ROYALWE will now consider
+!ROYALWE will now contemplate
+!ROYALWE will now delve
+!ROYALWE will now DESCRIBE
+!ROYALWE will now diagnose
+!ROYALWE will now discuss
+!ROYALWE will now explain
+!ROYALWE will now explore
+!ROYALWE will now focus
+!ROYALWE will now focus on
+!ROYALWE will now generalize
+!ROYALWE will now hypothesize
+!ROYALWE will now inquire
+!ROYALWE will now investigate
+!ROYALWE will now need to
+!ROYALWE will now probe
+!ROYALWE will now pursue
+!ROYALWE will now reflect on
+!ROYALWE will now report
+!ROYALWE will now review
+!ROYALWE will now ruminate
+!ROYALWE will now scrutinize
+!ROYALWE will now shift
+!ROYALWE WIll now SHOW
+!ROYALWE will now speculate
+!ROYALWE will now test !DETERMINER !IDEA
+!ROYALWE WIll now TRY to consider
+!ROYALWE will now turn to
+!ROYALWE WILL plan
+!ROYALWE will probe
+!ROYALWE will pursue
+!ROYALWE will put forth
+!ROYALWE will reflect on
+!ROYALWE will report
+!ROYALWE will review
+!ROYALWE will ruminate
+!ROYALWE will scrutinize
+!ROYALWE will shift
+!ROYALWE will SHOW
+!ROYALWE will speculate
+!ROYALWE WILL STUDY
+!ROYALWE will suggest
+!ROYALWE will tell you about
+!ROYALWE will test
+!ROYALWE WILL TOUCH UPON
+!ROYALWE will try
+!ROYALWE will try TO
+!ROYALWE will try TO !PRESFACTIVES
+!ROYALWE will try TO !PROBLEMTOOLS
+!ROYALWE WILL TRY to consider
+!ROYALWE will try to demonstrate
+!ROYALWE will try to show
+!ROYALWE WILL turn to
+!ROYALWE WILL turn to !DETERMINER topic
+!ROYALWE WILL WANT TO look further into
+!ROYALWE wish to raise
+!ROYALWE would argue
+!ROYALWE would further add
+!ROYALWE would further mention
+!ROYALWE WOULD LIKE TO !CITEVERB
+!ROYALWE would like to show
+!ROYALWE WOULD now LIKE to !CITEVERB
+!ROYALWE would say
+!ROYALWE WRITE PERTAINING TO
+!SEE !DETERMINER figure above
+!SEE !DETERMINER figure below
+!SEE !DETERMINER table above
+!SEE !DETERMINER table below
+!SEE Fig.
+!SEE Figure
+!TAKE it that
+, !ROYALWE expect,
+, !ROYALWE find,
+, !ROYALWE knew,
+, AFTER ALL
+, AFTER ALL,
+, also
+, for that matter
+, for that matter,
+, I believe,
+, if you will,
+, moreover
+, one finds,
+, SIMPLY,
+, so to speak
+, THEN,
+, thus described,
+, thus outlined
+, you find,
+. !MOTIONPREP !AUX
+. alas
+. alas,
+. another idea
+. below !AUX
+. besides
+. besides,
+. following are
+. for here's !QUESTION
+. for more information
+. here's !QUESTION
+. in !DETERMINER !RANKNUMBER part, !ROYALWE
+. in !DETERMINER !RANKNUMBER parts, !ROYALWE
+. in !DETERMINER !RANKNUMBER section, !ROYALWE
+. in !DETERMINER !RANKNUMBER sections, !ROYALWE
+. in this !GENRE, !ROYALWE
+. in this !GENRE, !ROYALWE will
+. in this argument, !ROYALWE
+. in this article, !ROYALWE
+. in this brief, !ROYALWE
+. in this chain of reasoning, !ROYALWE
+. in this chain of reasons, !ROYALWE
+. in this chain of thinking, !ROYALWE
+. in this chain of thought, !ROYALWE
+. in this discussion, !ROYALWE
+. in this essay, !ROYALWE
+. in this feature, !ROYALWE
+. in this line of reasoning, !ROYALWE
+. in this line of reasons, !ROYALWE
+. in this line of thinking, !ROYALWE
+. in this line of thought, !ROYALWE
+. in this paper, !ROYALWE
+. in this paragraph, !ROYALWE
+. in this part, !ROYALWE
+. in this passage, !ROYALWE
+. in this piece, !ROYALWE
+. in this plan, !ROYALWE
+. in this proposal, !ROYALWE
+. in this report, !ROYALWE
+. in this section, !ROYALWE
+. in this story, !ROYALWE
+. it is my opinion that
+. it is our opinion that
+. nor
+. NOR !DETERMINER
+. once again,
+. one final point
+. one last point
+above-cited
+above-found
+above-given
+above-mentioned
+above-named
+above-quote
+above-written
+above discussion
+above figure
+above MENTIONED
+above REFERENCED
+above table
+above,
+abovecited
+abovementioned
+abovenamed
+ABSTRACTLY SPEAKING
+addedly
+additional details
+ADDITIONALLY
+afore-
+afore-cited
+afore-mentioned
+afore-quoted
+afore-stated
+afore-told
+aforecited
+aforementioned
+aforenamed
+aforesaid
+aforestated
+AFTER ALL,
+all !ROYALWE ask
+all of !DETERMINER above
+all things considered
+all which !ROYALWE !MODAL learn
+ALREADY REFERENCED
+ALREADY REFERRED TO
+and !DETERMINER following
+AND SO TO REITERATE
+AND SO TO REPEAT
+AND SO TO RESTATE
+and that was that.
+AND THAT WAY
+another kettle of fish
+another thing
+ARE !DETERMINER FOLLOWING:
+Are another
+Are one thing
+as !AUX often !DETERMINER case
+AS !DETERMINER FACT
+as !DETERMINER final note
+AS !DETERMINER MATTER OF FACT
+as !DETERMINER matter of form
+AS !DETERMINER NAME IMPLIES
+AS !DETERMINER POINT OF
+AS !DETERMINER POINT TO
+AS !DETERMINER PRELIMINARY POINT,
+AS !DETERMINER PRELIMINARY,
+as !DETERMINER pretext
+AS !DETERMINER READER !MODAL see
+AS !PASTCLAIMING
+AS !ROYALWE !MODAL see
+as !ROYALWE !MODAL tend to think
+AS !ROYALWE ALREADY DISCUSSED
+as !ROYALWE already indicated
+as !ROYALWE already mentioned
+as !ROYALWE already remarked
+as !ROYALWE argue
+as !ROYALWE consider
+as !ROYALWE discuss below
+as !ROYALWE discussed above
+as !ROYALWE have !ROUTINEACT maintained
+as !ROYALWE have already mentioned
+as !ROYALWE have argued
+as !ROYALWE have asserted
+as !ROYALWE have claimed
+as !ROYALWE have consistently maintained
+AS !ROYALWE HAVE DISCUSSED above
+as !ROYALWE have mentioned
+as !ROYALWE have mentioned above
+as !ROYALWE have mentioned earlier
+as !ROYALWE have posited
+as !ROYALWE have proposed
+AS !ROYALWE HAVE SEEN
+as !ROYALWE have suggested
+as !ROYALWE indicated
+as !ROYALWE look at
+as !ROYALWE mentioned
+AS !ROYALWE MENTIONED above
+as !ROYALWE pray
+as !ROYALWE remarked
+as !ROYALWE said above
+as !ROYALWE said earlier
+as !ROYALWE think
+as !ROYALWE try to
+AS !ROYALWE WILL DISCUSS
+AS !ROYALWE WILL DISCUSS SHORTLY
+AS above HINTED
+as addenda to
+AS ALREADY !PASTCLAIMING
+AS ALREADY DISCUSSED
+as an addenda to
+as an addendum to
+as an alternative
+as an alternative to
+AS BEFORE HINTED
+AS CONSTRASTED TO
+AS CONSTRASTED WITH
+AS DISCUSSED above
+AS DISCUSSED BELOW
+AS DISCUSSED EARLIER
+AS DISCUSSED LATER
+AS DISCUSSED PRESENTLY
+AS DISCUSSED SHORTLY
+AS EARLIER DISCUSSED
+AS EXPLAINED above
+AS EXPLAINED BELOW
+AS FOLLOWS:
+as has been discussed
+as has been mentioned
+as has been referenced
+as has been said
+as here defined
+as here interpreted
+as if this
+AS INDICATED
+AS IT !MODAL SEEM
+AS IT !MODAL SEEM OBVIOUS
+as it were
+AS MENTIONED
+AS MENTIONED above
+AS MENTIONED BELOW
+AS MENTIONED LATER
+as much as !ROYALWE
+AS NOTED
+AS PREVIOUSLY !PASTCLAIMING
+AS REFERENCED above
+AS REFERENCED BELOW
+AS REFERENCED LATER
+AS STATED
+as this !GENRE demonstrates
+as this !GENRE will demonstrate
+as this paper demonstrates
+as this paper has demonstrated
+as this section has demonstrated
+as we shall learn
+as we shall see
+as we shall soon learn
+as we shall soon see
+as well as
+as well as !DETERMINER
+as you will note
+aside,
+at !DETERMINER core of !DETERMINER !IDEA
+at !DETERMINER core of this !IDEA
+AT !DETERMINER RISK OF MONOTONY
+AT !DETERMINER RISK OF REPEATING
+AT !DETERMINER RISK OF REPETITION
+AT !DETERMINER SAME TIME, IT!AUX
+at !DETERMINER very least
+AT THESE WORDS
+back to you
+back to you folks
+back to you guys
+basically
+before-cited
+before-going
+before-mentioned
+before-named
+before-noticed
+before-recited
+before-said
+BEFORE !ROYALWE !MODAL STUDY
+being what they are
+below !AUX !DETERMINER text
+books !ROYALWE highly recommend !AUX
+books !ROYALWE highly recommend !DETERMINER class to read !AUX
+books !ROYALWE highly recommend !DETERMINER whole class to read !AUX
+books !ROYALWE recommend !AUX
+books !ROYALWE recommend !DETERMINER class to read !AUX
+books !ROYALWE recommend !DETERMINER whole class to read !AUX
+BOTH !DETERMINER
+bottom line
+BRIEFLY PUT
+BRIEFLY STATED
+BROKEN DOWN IN !NUMS1TO100 STEPS
+BUT !AUX ALSO
+but also
+but also for
+but also for its
+but also with
+BUT BEING THAT
+BUT INASMUCH
+BUT THERE !AUX
+BUT WHAT WITH
+BUT WITH
+by !DETERMINER same token
+BY CONTRAST to
+by contrast with
+by contrast,
+by implication
+BY NOW IT !MUSTSHOULD BE
+by parity of reasoning
+BY THESE STATEMENTS
+by way of background
+by way of conjecture
+by way of hypothesis
+BY WAY OF PRELIMINARIES,
+by way of supposition
+can better understand !QUESTION one !MODAL
+cardinal point
+cardinal points
+central idea
+central ideas
+certain options
+cetera desunt
+ceteris paribus
+chain of argument
+chain of inference
+chain of inferences
+chain of reasoning
+chap.
+chs.
+CITED EARLIER
+COMPARATIVELY SPEAKING
+considering !DETERMINER circumstances
+CONSTRASTIVELY
+CONTRASTIVELY
+controversial point
+CONVERSELY
+correspondingly
+could go on forever about
+cum multis aliis
+CURIOUSLY ENOUGH
+curiously,
+dialog above
+dialog below
+discussion above
+discussion below
+displayed below
+displayed here
+DITTO !DETERMINER PROCEEDING
+DITTO THAT
+DIVIDED INTO !NUMS1TO100 STEPS
+DON'T FORGET TO INCLUDE
+don't need to get into it further
+down to !DETERMINER last detail
+down to !DETERMINER last details
+EARLIER !ROYALWE DEFINED
+EARLIER CITED
+either
+either happening
+either way,
+en effet
+en plus
+essential point
+essential points
+EXACTLY WHAT THIS MEANS
+figuratively speaking
+figure above
+following list,
+following list:
+FOLLOWS:
+for !DETERMINER aformentioned
+for !DETERMINER most part
+for !DETERMINER reader's convenience
+for !DETERMINER said
+for !DETERMINER sake of arguing
+for !DETERMINER sake of argument
+FOR !DETERMINER SAKE OF EXPOSITION
+for !DETERMINER variety of reasons
+for aforementioned
+for ease of exposition
+for here's !QUESTION
+for more information consult
+for more information contact
+for more information,
+for more on this story
+for my purpose
+for my purposes
+for on !DETERMINER whole
+for one thing
+FOR OPENERS
+for our purpose
+for our purposes
+FOR PURPOSES OF EXPOSITION
+FOR SIMPLICITY
+for starters,
+FOR THAT MATTER
+for this purpose
+for this purpose,
+forenamed
+FROM !DETERMINER above
+FROM !DETERMINER above DISCUSSION
+from !DETERMINER foregoing
+FROM !HEADDET POINT
+from !QUESTION !ROYALWE have heard
+from !QUESTION we have heard
+from what !MODAL be gathered
+from what !MODAL be gathered,
+from what !ROYALWE !MODAL gather
+FROM WHAT !ROYALWE HAVE SEEN, ON !DETERMINER WHOLE
+from what he !MODAL gather
+from what she !MODAL gather
+from what they !MODAL gather
+from what we have heard
+from what we have seen
+from what we have seen and heard
+furnish an example
+furnish an illustration
+furnish examples
+furnish illustrations
+FURTHER,
+FUTHERMORE,
+fwd.
+general drift
+general drifts
+GENERALLY SPEAKING
+GENERALLY,
+gl.
+has !DETERMINER story from
+has been noted
+HAVE ORGANIZED !DETERMINER REST OF THIS !GENRE
+HAVE ORGANIZED !HEADDET REST OF !HEADDET !GENRE
+HAVE STRUCTURED !HEADDET !GENRE
+HENCEFORTH !ROYALWE
+here's !QUESTION
+here's something else
+here-unto
+here !AUX yet another
+HERE IN !HEADDET !GENRE
+HEREAFTER !ROYALWE
+herein
+HEREIN !ROYALWE
+hereinafter
+hereinbefore
+hereto
+heretofore in
+hereunder
+hereunto
+hereupon
+herewith
+I'd argue
+I'd like further
+I'd like to raise
+I'd like to raise !DETERMINER number of points
+I'd like to raise several points
+I'LL COME STRAIGHT TO !DETERMINER POINT
+I'LL COME TO !DETERMINER POINT
+I'LL GET STRAIGHT TO !DETERMINER POINT
+I'LL GET TO !DETERMINER POINT
+I'll suggest
+I'm going to !PROBLEMTOOLS
+I'm going to share with
+I'm not talking about
+I'M TRYING TO SAY
+identify alternative options
+if so
+if so then
+II.
+II:
+III.
+III:
+impels us to !DETERMINER !CLAIM
+important point
+important points
+importantly,
+in !DETERMINER !RANKNUMBER !GENRE
+in !DETERMINER !RANKNUMBER couple of !GENRE
+in !DETERMINER balance
+In !DETERMINER following discussion
+In !DETERMINER following section
+in !DETERMINER following, however, I'll
+in !DETERMINER following, however, we'll
+in !DETERMINER following, I'll
+in !DETERMINER following, we?ll
+in !DETERMINER last couple of !GENRE
+in !DETERMINER list of steps that follow,  !ROYALWE
+in !DETERMINER main
+in !DETERMINER next !GENRE
+in !DETERMINER present paper
+In !DETERMINER present work
+in !DETERMINER previous !GENRE
+In !DETERMINER previous discussion
+in !DETERMINER same sense
+in !DETERMINER same vein
+in !DETERMINER steps that follow, !ROYALWE
+IN !HEADDET !RANKNUMBER PLACE
+IN !HEADDET NEXT CHAPTERS
+IN !HEADDET NEXT FEW PARAGRAPHS
+IN !HEADDET NEXT SECTION
+IN CLOSING,
+IN CONCLUSION
+IN CONCLUSION,
+In Sec.
+In section
+in short
+in short,
+in some way shape or form
+IN SUBSEQUENT CHAPTERS
+IN SUBSEQUENT PARAGRAPHS
+IN SUBSEQUENT SECTIONS
+in substance
+in substance,
+in such wise
+IN TECHNICAL TERMS
+in that !GENRE
+in this article, !ROYALWE !PLAN
+in this chain of reasoning
+in this chain of reasons
+in this chain of thinking
+in this chain of thought
+in this paper, !ROYALWE !PLAN
+in this research, !ROYALWE !PLAN
+in this vein
+in this way
+In this work !ROYALWE
+In this work !ROYALWE am
+In this work !ROYALWE are
+in those pages
+IN WHAT !MODAL BE
+IN WHAT !MODAL BE !DETERMINER
+IN WHAT !MODAL ONLY BE DESCRIBED AS
+IN WHAT !MODAL WELL BE
+in what follows
+involve !DETERMINER following
+involve !DETERMINER following process
+involved !DETERMINER following
+involved !DETERMINER following process
+involves !DETERMINER following
+involves !DETERMINER following process
+involving !DETERMINER following
+involving !DETERMINER following process
+Is another
+Is one thing
+it's an understatement
+it's apparent that !ROYALWE have
+it's appropriate that
+it's useful to consider
+it's useful to note
+it's useful to point out
+it's vital that
+it's vitally important that
+it's worth noting that
+It !AUX !DETERMINER purpose of this !GENRE
+IT !AUX AGAIN TIME FOR US TO
+it !AUX appropriate that
+it !AUX certainly !DETERMINER case that
+it !AUX clear that
+it !AUX coming down to
+it !AUX compelling
+it !AUX conjectured
+IT !AUX DIFFICULT TO GET !DETERMINER
+IT !AUX EASILY VERIFIABLE
+IT !AUX EASY TO GET !DETERMINER
+it !AUX imporant to note
+it !AUX imporant to point out
+IT !AUX IMPORTANT TO RECOGNIZE
+IT !AUX IMPORTANT TO see
+IT !AUX IMPORTANT TO see THAT
+it !AUX increasingly occurring to us
+it !AUX my purpose here
+it !AUX noted that
+it !AUX noticed that
+it !AUX pertinent to note
+it !AUX pertinent to point out
+it !AUX relevant to note
+it !AUX relevant to point out
+it !AUX useful to note
+it !AUX useful to point out
+it !AUX worth noting that
+it !AUX worthwhile to note
+it !AUX worthwhile to point out
+it !MODAL be appropriate at this juncture to
+it !MODAL be appropriate at this juncture to !PROBLEMTOOLS
+it !MODAL be appropriate at this point to
+it !MODAL be appropriate at this point to !PROBLEMTOOLS
+it !MODAL be appropriate to
+it !MODAL be appropriate to !PROBLEMTOOLS
+it !MODAL be fitting at this juncture to
+it !MODAL be fitting at this juncture to !PROBLEMTOOLS
+it !MODAL be fitting at this point to
+it !MODAL be fitting at this point to !PROBLEMTOOLS
+it !MODAL be fitting to
+it !MODAL be fitting to !PROBLEMTOOLS
+it !MODAL be important at this juncture to
+it !MODAL be important at this juncture to !PROBLEMTOOLS
+it !MODAL be important at this point to
+it !MODAL be important at this point to !PROBLEMTOOLS
+it !MODAL be important to
+it !MODAL be important to !PROBLEMTOOLS
+it !MODAL be useful at this juncture to
+it !MODAL be useful at this juncture to !PROBLEMTOOLS
+it !MODAL be useful at this point to
+it !MODAL be useful at this point to !PROBLEMTOOLS
+it !MODAL be useful to
+it !MODAL be useful to !PROBLEMTOOLS
+it !MODAL be well at this juncture to
+it !MODAL be well at this juncture to !PROBLEMTOOLS
+it !MODAL be well at this point to
+it !MODAL be well at this point to !PROBLEMTOOLS
+it !MODAL be well to
+it !MODAL be well to !PROBLEMTOOLS
+it !MUSTSHOULD be clear
+it !MUSTSHOULD be clear !QUESTION
+it !MUSTSHOULD be clear now
+it !MUSTSHOULD be clear now !QUESTION
+IT !MUSTSHOULD BE CONSIDERED THAT
+IT !MUSTSHOULD BE NOTED THAT
+IT !MUSTSHOULD BE RECOGNIZED
+IT !MUSTSHOULD BE RECOGNIZED THAT
+it !MUSTSHOULD now be clear
+it !MUSTSHOULD now be clear !QUESTION
+it also
+it becomes clear that
+it has been noted
+it has been noted that
+it has been noticed that
+it is my opinion that
+it is our opinion thatg
+IT MUST BE STRESSED
+IT SEEMS !HEADDET APPROPRIATE TIME TO WRITE
+it will also argue
+it will also demonstrate
+it will also prove
+it will also show
+it will also suggest
+IT WILL BE WORTHWHILE TO THINK OF
+IT WILL THEREFORE BE OF USE TO BEGIN
+IT WILL THEREFORE BE USEFUL TO BEGIN
+it would be an understatement
+just so !DETERMINER
+just so that
+JUST TO SUMMARIZE
+key point
+key points
+key thing to remember
+largely
+largely with
+last-cited
+last-mentioned
+last cited
+last mentioned
+LAST OF ALL
+LAST POINT
+later examples
+lead us to conclude
+Lead us to see
+leading us to conclude
+Leading us to see
+leads us to conclude
+Leads us to see
+leastways
+leastwise
+led us to conclude
+Led us to see
+LEST !ROYALWE SOUND LIKE !DETERMINER BROKEN RECORD
+let's look at !DETERMINER details
+let's look at !DETERMINER facts
+let's take !DETERMINER look at
+let me come to !DETERMINER point
+let me get to !DETERMINER point
+LET US TURN TO
+like !ROYALWE said above
+like !ROYALWE said earlier
+line of argument
+line of inference
+line of inferences
+line of reasoning
+listed above
+listed below
+literally
+literally speaking
+little to speak of
+long story short
+looking again at !DETERMINER
+LOOSELY TRANSLATED
+main section
+main sections
+mainly !DETERMINER
+mainly concern !DETERMINER
+mainly concerned !DETERMINER
+mainly concerning !DETERMINER
+mainly concerns
+mainly concerns !DETERMINER
+mainly involve
+mainly involve !DETERMINER
+mainly involved
+mainly involved !DETERMINER
+mainly involves
+mainly involves !DETERMINER
+mainly involving
+mainly involving !DETERMINER
+mainly that
+meanwhile,
+more often than not
+more to !DETERMINER point
+MORE TO !DETERMINER POINT,
+MOREOVER
+MOREOVER,
+most especially
+moving right along,
+moving to !DETERMINER topic
+moving to !DETERMINER topic of
+must be ventured that
+MY AIM
+My analyses show
+My analysis shows
+my argument
+MY ARGUMENT !AUX THAT
+MY ARGUMENTs !AUX THAT
+MY BASIC POINT !AUX
+MY BASIC POINTs !AUX
+MY BOTTOM LINE !AUX
+MY BOTTOM LINEs !AUX
+MY BURDEN OF PROOF !AUX
+MY BURDENs OF PROOF !AUX
+MY BURDENs OF PROOF WILL BE
+MY CHARGE !AUX
+MY FOCI !AUX
+MY FOCUS !AUX
+MY GENERAL AIM
+MY GOAL
+my goals
+MY INTENT
+my intentions in this !GENRE
+my main focus
+MY MAIN GENERALIZATIONS
+my main point
+my main points
+my major focus
+my major point
+my major points
+my point
+MY POINT !AUX
+MY POINT BEING THAT
+my points !AUX
+MY POINTS OF FOCUS ARE
+MY PURPOSE
+MY PURPOSE !AUX
+my PURPOSE !AUX TO
+my purpose for
+MY PURPOSE IN !HEADDET PAPER!AUX
+MY PURPOSES !AUX
+my purposes for
+my reasoning
+my reasoning !AUX
+MY SPECIFIC AIM
+MY TASK !AUX TO
+MY TASK WILL BE TO
+MY THESIS !AUX
+my topic
+my ultimate goal !AUX
+my ultimate goals !AUX
+MY WRITING PERTAINS TO
+need to underscore that
+no need to get into it further
+NOT ONLY
+not only for
+not only for its
+not to mince !DETERMINER matter
+not to suggest
+not worth talking about
+note that this !GENRE
+note this this !GENRE
+note well that
+noted above
+noted below
+noted earlier
+NOW !QUESTION WAS !ROYALWE
+now back to !DETERMINER
+now let
+NOW LET US TURN OUR
+NOW LET US TURN TO
+now that !ROYALWE
+NOW THAT !ROYALWE HAVE AN
+NOW THAT !ROYALWE HAVE SEEN
+NOW TO CLOSE
+NOW TO CONCLUDE
+NUTSHELLED
+NUTSHELLED, !DETERMINER
+of !DETERMINER above
+of !DETERMINER below
+OF MOMENT HERE !AUX
+of note here
+OF NOTE HERE !AUX
+OF RELEVANCE !AUX
+OF RELEVANCE HERE !AUX
+OF SIGNIFICANCE !AUX
+OF SIGNIFICANCE HERE !AUX
+OF SOME IMPORT HERE !AUX
+OF SOME IMPORTANCE !AUX
+OF SOME MOMENT !AUX
+OF SOME RELEVANCE HERE !AUX
+OF SOME SIGNIFICANCE !AUX
+OF SOME SIGNIFICANCE HERE !AUX
+of this matter
+offer an example
+offer an illustration
+on !DETERMINER one hand
+on !DETERMINER other hand
+on !DETERMINER page below
+on balance
+ON CLOSER EXAMINATION
+ON CLOSER INSPECTION
+on other things
+on page !NUMS1TO100 below
+On that basis
+on this account
+On this basis
+On top of everything,
+On top of that,
+On top of this,
+one !MODAL
+ONE !MODAL see THAT
+one book !ROYALWE highly recommend !AUX
+one book !ROYALWE highly recommend !DETERMINER class to read !AUX
+one book !ROYALWE highly recommend !DETERMINER whole class to read !AUX
+one book !ROYALWE recommend !AUX
+one book !ROYALWE recommend !DETERMINER class to read !AUX
+one book !ROYALWE recommend !DETERMINER whole class to read !AUX
+one could
+one final point
+one last point
+one must conclude that
+ONE PURPOSE OF THIS
+ONE WAY !AUX TO
+ONE WAY OF
+ONE WAY TO DO THIS !AUX TO
+ONLY QUESTION !ROYALWE ASK
+or at least
+OR WORDS TO THAT EFFECT
+Our analyses show
+Our analysis shows
+OUR CHARGE !AUX
+our charges !AUX
+OUR PRESENT FOCUS
+OUR PRESENT PRIORITY
+OUR PRIMARY CONCERN
+OUR THESIS !AUX
+OUTLINED above
+OUTLINED BELOW
+over and above !DETERMINER need to
+over and above !POSSESSIVEPRONOUN need to
+PERMIT ME TO ADD THAT
+please note that this !GENRE
+principal focus
+principal idea
+principal ideas
+proceeding to !DETERMINER topic
+proceeding to !DETERMINER topic of
+provide an example
+PROVIDE AN OVERVIEW OF
+provide examples
+provide illustrations
+qualifiedly
+QUITE LOGICALLY
+REASONABLY,
+recapitulating what !ROYALWE
+recapping
+recapping what !ROYALWE
+referenced above
+referenced below
+referenced earlier
+referenced later
+referencing !DETERMINER !GENRE above
+REMEMBER TO INCLUDE
+respective
+respectively
+see Table
+sequentially
+show by way of !DETERMINER
+show by way of example
+show by way of illustration
+shown above
+shown below
+shown here
+sic
+SIGNALS THAT
+significantly,
+SIMILARLY,
+simple logic indicates that
+SIMPLY PUT
+SIMPLY PUT,
+SIMPLY STATED
+so-forth
+so far as
+SO FAR AS IT GOES
+so far as that's concerned
+so far as that !AUX concerned
+so far as this !AUX concerned
+so forth
+SO GETTING BACK TO !DETERMINER MAIN POINT
+SO GETTING BACK TO MY POINT
+so here
+SO IT GOES
+SO KEEP GOING
+so much for that
+SO RETURNING BACK TO !DETERMINER MAIN POINT
+SO RETURNING TO MY MAIN POINT
+so that's
+so that's what
+so that's what's
+so there you
+so to say
+so to speak
+some way shape or form
+SPEAKING GENERALLY
+SPEAKING OF !DETERMINER
+SPEAKING OF !PRONOUNOBJECTIVE
+SPECIFICALLY !ROYALWE WANT TO
+start !DETERMINER ball rolling
+strictly speaking
+subsidiary to that
+subsidiary to this last
+such an extent
+supply an example
+supply an illustration
+supply examples
+supply illustration of
+supply illustrations
+supra
+table above
+TECHNICALLY SPEAKING
+TELL US THAT
+TELLS US HOW
+TELLS US THAT
+TELLS US WHAT
+that's straight ahead
+that !AUX !DETERMINER only way to describe
+that !AUX !DETERMINER only word to describe
+that !AUX why !ROYALWE argue
+that is what
+that story when !ROYALWE come back
+the long and short of it
+the purpose of my paper
+there's something else
+there !AUX !DETERMINER matter of
+there !AUX !DETERMINER subject of
+there !AUX !DETERMINER topic of
+there !ROYALWE !MODAL see
+there !ROYALWE see
+there anyone !MODAL see
+there everyone !MODAL see
+these !AUX about
+these !GENRE !CITEVERB
+these are:
+THESE QUESTIONS CALL FOR
+THESIS !AUX
+this !AUX !DETERMINER story of
+this !AUX about
+this !GENRE !CITEVERBS
+this !GENRE argues
+THIS !GENRE PROPOSES
+this !GENRE will also !PROBLEMTOOLS
+THIS !GENRE WILL ARGUE
+THIS !GENRE WILL CLAIM
+THIS !GENRE WILL PERSUADE YOU
+this came to !DETERMINER tune of
+this essay offers
+this essay reports
+this essay will
+This is what
+this is what it's all about
+This issue !AUX discussed
+this leaves
+this notice
+this paper offers
+this paper reports
+this paper will
+this research
+this study will show
+this study will soon show
+THIS:
+those are:
+those that are:
+thus described
+THUS IT MEANS THAT
+thus outlined
+thus you !MODAL see
+TO !DETERMINER EFFECT THAT
+to !DETERMINER fore
+to !DETERMINER heart of !DETERMINER matter
+TO !MAKE !DETERMINER LONG STORY SHORT
+to !MAKE this more concrete
+TO ADD TO THAT
+to amplify further
+to background this for you
+to be brief,
+to be exact,
+to be fair,
+TO BE MORE ABSTRACT
+TO BE MORE CONCRETE
+to be more exact
+TO BE MORE GENERAL
+TO BE MORE PRECISE
+TO BE MORE SPECIFIC
+TO BE MORE TECHNICAL
+to be precise,
+to be specific,
+TO BEGIN !ROYALWE
+TO BEGIN WITH,
+TO BEGIN,
+TO BRING TO AN END
+to bring to light through examples
+TO BUILD FROM THAT
+TO CAST IT DIFFERENTLY
+to cite !DETERMINER reference
+TO CLARIFY THAT
+to clarify with
+TO CLARIFY,
+TO CLOSE !HEADDET
+to come to !DETERMINER point
+TO CONCLUDE !HEADDET
+TO CONCLUDE,
+to crown all
+to crown it all
+to crown it all off
+to cut !DETERMINER matter short
+TO EMPHASIZE THAT
+to exemplify
+to explain by example
+to explore !QUESTION
+TO FINISH
+TO FORESHADOW
+TO FRAME IT DIFFERENTLY
+to further amplify
+TO GET !DETERMINER BETTER UNDERSTANDING OF
+to get back to !DETERMINER subject
+to get more abstract,
+to get more concrete,
+TO GET TO !DETERMINER POINT,
+to investigate !QUESTION
+TO LAY OUT WHAT !AUX TO COME
+to offer an example
+TO OUTLINE
+TO OVERVIEW
+TO PARAPHRASE
+to paraphrase,
+TO PREVIEW
+TO PUT IT DIFFERENTLY
+to put it into perspective
+TO PUT IT MORE ABSTRACTLY
+TO PUT IT MORE CONCRETELY
+TO PUT IT MORE GENERALLY
+TO PUT IT MORE SPECIFICALLY
+TO PUT IT SLIGHTLY DIFFERENTLY
+to recap,
+TO RECAPITULATE
+to recapitulate,
+TO REFRAME
+TO REITERATE
+to rely on examples
+TO REPEAT
+TO REPHRASE
+TO RESTATE
+TO REVIEW
+to run down
+TO SAY !DETERMINER LEAST
+TO SAY NOTHING OF
+to seriously understand this, !ROYALWE
+TO SOME DEGREE
+TO SOME EXTENT
+to speak of
+to speak plainly
+TO START,
+to study !QUESTION
+to such an extent
+TO SUM IT UP
+TO SUM UP
+TO SUMMARIZE
+TO SUMMARIZE !DETERMINER POINT
+TO THESE STATEMENTS
+TO THIS POINT !ROYALWE
+TO THOSE OF US
+to top if all off
+to top it all off
+to top it off
+TO TOP THAT OFF
+to understate
+to use examples
+to wit
+to wrap up,
+too,
+too.
+too;
+topic of !DETERMINER day
+topics of !DETERMINER day
+turning again to !DETERMINER
+TURNING NOW TO
+turning to !DETERMINER other side of !DETERMINER tracks
+ultimo
+und so weiter
+under this head
+under this heading
+understand !QUESTION !ROYALWE !MODAL
+understand !QUESTION one !MODAL
+understand !QUESTION you !MODAL
+UNTIL NOW !ROYALWE HAVE CONSIDERED
+UNTIL NOW !ROYALWE HAVE ONLY CONSIDERED
+UP TO NOW !ROYALWE
+UP TO THIS POINT !ROYALWE
+vice-versa
+vice versa
+vide
+vide-ante
+vide-infra
+vide-post
+vide-supra
+vide-ut-supra
+vide ante
+vide infra
+vide post
+vide supra
+vide ut supra
+videlicet
+WANT TO !MAKE !DETERMINER point that
+WANT TO get !DETERMINER point across
+WANT TO POINT OUT THAT
+WANT TO UNDERSCORE THAT
+we'd argue
+we'd like further
+we'd like to raise
+we'd like to raise !DETERMINER number of points
+we'd like to raise several points
+WE'LL !PROBLEMTOOLS
+WE'll come to that in just !DETERMINER !TIMEFRAME
+WE'll get to that in just !DETERMINER !TIMEFRAME
+WE'll have more on that
+WE'll have more on this
+WE'll tell you about
+WE're going to !PROBLEMTOOLS
+WE're going to share with
+WE're ready to
+We can see
+we must conclude that
+We see that
+WHAT'S CURIOUS !AUX THAT
+WHAT'S IMPORTANT !AUX THAT
+WHAT'S INTERESTING !AUX THAT
+WHAT'S MORE !AUX
+WHAT'S MORE !AUX THAT
+WHAT'S MORE,
+WHAT'S NOTEWORTHY !AUX THAT
+WHAT'S REMARKABLE !AUX THAT
+WHAT !AUX MORE
+WHAT !AUX MORE,
+WHAT !MUSTSHOULD BE REMEMBERED !AUX
+what !ROYALWE !MEAN by that
+what !ROYALWE !MEAN to say
+WHAT !ROYALWE !MUSTSHOULD KNOW !AUX
+WHAT !ROYALWE !PLAN !AUX
+WHAT !ROYALWE !PROBLEMTOOLS
+what !ROYALWE call
+what !ROYALWE call !DETERMINER
+WHAT !ROYALWE CONSIDER
+WHAT !ROYALWE COVER
+WHAT !ROYALWE DISCOVERED !AUX
+WHAT !ROYALWE DUG UP !AUX
+WHAT !ROYALWE FOUND OUT !AUX
+WHAT !ROYALWE GO OVER
+WHAT !ROYALWE INVESTIGATE
+WHAT !ROYALWE LEARNED !AUX
+what !ROYALWE mean is that
+WHAT !ROYALWE MEAN TO SAY
+WHAT !ROYALWE NEED TO KNOW !AUX
+WHAT !ROYALWE NEED TO SAY !AUX
+WHAT !ROYALWE NOW WANT TO DO IN !HEADDET !GENRE
+WHAT !ROYALWE plan TO GET THROUGH TO YOU !AUX
+WHAT !ROYALWE REPORT
+WHAT !ROYALWE REPORT ON
+WHAT !ROYALWE SHALL ARGUE !AUX
+WHAT !ROYALWE SHOW !AUX THAT
+WHAT !ROYALWE SUGGEST
+WHAT !ROYALWE THINK !AUX
+WHAT !ROYALWE WANT TO KNOW !AUX
+WHAT !ROYALWE WILL ARGUE !AUX
+WHAT !ROYALWE WILL CLAIM !AUX
+WHAT I'M
+WHAT I'M DOING
+WHAT I'M FASCINATED TO KNOW
+WHAT I'M GOING
+what I'm saying !AUX
+What I?d like to know !AUX
+WHAT MUST BE UNDERSTOOD !AUX
+WHAT THIS MEANS
+WHAT we'd LIKE TO KNOW !AUX
+WHAT WILL BE CLEAR
+WHAT WILL BE REVEALED
+WHAT WILL BE UNDERSTOOD
+WHAT WILL BECOME APPARENT
+WHAT WILL BECOME CLEAR
+WHAT WOULD BE BENEFICIAL WOULD BE
+what, after all,
+when !ROYALWE ourselves
+when !ROYALWE ourselves then step
+whenas
+whereas
+whereas if
+whereas it !AUX
+which !ROYALWE knew
+Which !ROYALWE now report
+which brings me to
+which brings us to
+WHILE !ROYALWE !MODAL USE
+while !ROYALWE are on !DETERMINER subject
+while !ROYALWE are on !DETERMINER topic
+while I am on !DETERMINER subject
+while I am on !DETERMINER topic
+while on !DETERMINER subject
+while there are
+WILL !PROBLEMTOOLS
+WILL !RANKNUMBER !PROBLEMTOOLS
+WILL !RANKNUMBER PRESENT
+WILL ALLOW US TO
+WILL BE RECALLED THAT
+WILL FINALLY !PROBLEMTOOLS
+will give an example
+will help us better understand !QUESTION !ROYALWE !MODAL
+will help us better understand !QUESTION one !MODAL
+will help us better understand !QUESTION you !MODAL
+WILL HENCEFORTH
+WILL HEREAFTER
+will illustrate
+will note later
+WILL OFFER RECOMMENDATIONS
+WILL OFFER SOME RECOMMENDATIONS
+WILL PRESENT
+WILL PRESENT SOME RECOMMENDATIONS
+will rely on examples
+will show by way of illustration
+will specifically show
+WILL TOUCH UPON
+will use examples
+WISH TO !MAKE !DETERMINER POINT THAT
+with !DETERMINER aforementioned
+WITH !DETERMINER CONTEXT OF
+WITH !DETERMINER TOPIC OF
+with aforementioned
+with respect to !DETERMINER aforementioned
+WITH RESPECT TO !DETERMINER ISSUE
+WITH RESPECT TO !DETERMINER MATTER
+WITH RESPECT TO !DETERMINER SUBJECT
+WITH RESPECT TO !DETERMINER TOPIC
+with respect to said
+with respect to that
+with respect to this
+WITH SAID
+WITH THIS LINE OF
+with those
+withal
+WITHIN !DETERMINER CONTEXT OF
+WITHIN !DETERMINER FRAMEWORK OF
+WITHIN !DETERMINER TOPIC OF
+WITHIN THIS LINE OF
+WORDS ABOUT
+WORDS TO !DETERMINER EFFECT
+WORDS TO THAT EFFECT
+YET ANOTHER OF
+YET ANOTHER TYPE OF

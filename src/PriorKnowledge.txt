@@ -1,0 +1,445 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX accustomed to
+!AUX already acclimated to
+!AUX already known to you
+!AUX already someone you
+!AUX alredy acclimated to
+!AUX familiar
+!AUX familiar to
+!AUX known to you by
+!AUX known to you for
+!AUX no surprise
+!DETERMINER commonplace
+!DETERMINER conventional
+!DETERMINER familiar
+!DETERMINER familiar name
+!DETERMINER familiarities
+!DETERMINER familiarities of
+!DETERMINER familiarity
+!DETERMINER familiarity of
+!DETERMINER familiars
+!DETERMINER good ol
+!DETERMINER good ol days
+!DETERMINER good old
+!DETERMINER known entity
+!DETERMINER known quantity
+!DETERMINER lot has been said
+!DETERMINER lot has been said already
+!DETERMINER normal and familiar
+!DETERMINER normal and routine
+!DETERMINER normal course
+!DETERMINER normal course of events
+!DETERMINER normalized
+!DETERMINER normed
+!DETERMINER old enemies
+!DETERMINER old enemy
+!DETERMINER old familiar
+!DETERMINER old familiar way
+!DETERMINER old familiar ways
+!DETERMINER old heave-ho
+!DETERMINER old one-two
+!DETERMINER ordinary
+!DETERMINER previously known
+!DETERMINER priori
+!DETERMINER priories
+!DETERMINER proverb is
+!DETERMINER same old
+!DETERMINER saying is
+!DETERMINER tried and true
+!DETERMINER usual suspects
+!FOLLOW as !DETERMINER matter of course
+!GO without saying
+!KNOW beforehand
+!TAKE !POSSESSIVEPRONOUN normal course
+, of course
+, of course,
+, ya know,
+. as you know
+all too familiar
+all too well
+aller sans dire
+already familiar
+already familiar with
+already knew
+already know
+already knowing
+already known
+already knows
+already noted for
+already well-known
+an ordinary
+and of course
+and, of course
+and, of course,
+as !DETERMINER fellow says
+as !DETERMINER whole world knows by now
+as !DETERMINER world knows
+as an old proverb states
+as can be expected
+as everyone knows
+as everyone knows full well
+as everyone knows well
+as he knew it
+as he knows it
+as I'm believe you know
+as I'm sure you know
+as I am sure you have heard
+as I knew it
+as I know it
+as is well known
+as is well known to you
+as may be expected
+as might be expected
+as of course you
+as of course you know
+as often as not
+as one can expect
+as one can guess
+as one can imagine
+as one can infer
+as one might expect
+as one might guess
+as one might imagine
+as one might infer
+as one should expect
+as per usual
+as she knew it
+as she knows it
+as should be expected
+as they knew it
+as they know it
+as they often say
+as usual
+as we're aware
+as we're certainly aware
+as we're no doubt aware
+as we all know
+as we expected
+as we knew it
+as we know all too well
+as we know full well
+as we know it
+as we know well
+as we might expect
+as you're aware
+as you're certainly aware
+as you're no doubt aware
+as you !AUX accustomed to
+as you !AUX aware
+as you !AUX probably thinking
+as you already know
+as you can expect
+as you can guess
+as you can imagine
+as you can infer
+as you can realize
+as you can understand
+as you could expect
+as you could guess
+as you could imagine
+as you could infer
+as you could realize
+as you could recall
+as you could remember
+as you doubtless know
+as you have heard
+as you have no doubt heard
+as you have read
+as you knew it
+as you know
+as you know about already
+as you know already
+as you know by now
+as you know it
+as you know well
+as you know,
+as you may recall
+as you may remember
+as you might expect
+as you might guess
+as you might imagine
+as you might infer
+as you might realize
+as you might recall
+as you might remember
+as you no doubt already know
+as you no doubt know
+as you of course
+as you probably expect
+as you probably know
+as you recognize by now
+as you see
+as you should expect
+as you understand by now
+as you undoubtedly know
+as you well know
+as you would expect
+AS, OF COURSE,
+assumably
+be known by
+before-known
+before known
+best known to you
+bien entendu
+cela va sans dire
+charted territory
+comme d'habitude
+comme il faut
+common-variety
+common knowledge
+common phrase
+common rhythm
+common sort
+common speech
+common variety
+commonly known
+commonplace
+commonplace book
+commonplace expression
+commonplace of
+commonplaces
+commonplaces of
+consistency with
+consistent with
+conventionally associated with
+custumal
+everyone agrees that
+expectably,
+familiar
+familiar as
+familiar as !DETERMINER
+familiar as !POSSESSIVEPRONOUN
+familiar as !PRONOUNOBJECTIVE
+familiar as household words
+familiar face
+familiar faces
+familiar friend
+familiar friends
+familiar friendship
+familiar friendships
+familiar sort
+familiar spirit
+familiar spirits
+familiar stories
+familiar story
+familiar territory
+familiar to you
+familiar tune
+familiar tunes
+familiar with
+familiarities
+familiarity
+familiarity with
+familiarly
+familiars
+given !DETERMINER current
+given !DETERMINER current environment
+given !DETERMINER current state of
+given !DETERMINER present
+given !DETERMINER present environment
+given !DETERMINER present state of
+given !DETERMINER state of
+givens
+has been said already
+have all heard about
+have all heard of
+have all seen
+have already heard about
+have already heard of
+have already seen
+I'm sure you've been told
+I'm sure you already know
+I am sure you already know
+in !DETERMINER parlance of
+in !DETERMINER proverbial words of
+in !DETERMINER usual
+in !DETERMINER usual course
+it's hardly surprising
+it's not surprising
+it !AUX hardly !DETERMINER surprise
+it !AUX hardly !DETERMINER surprise that
+it !AUX hardly surprising
+it !AUX not surprising
+it !AUX perhaps no surprise
+it !AUX probably no surprise
+it !AUX widely agreed that
+it goes without saying
+it goes without saying that
+kenspeckle
+known already
+known by every schoolboy
+known by everyone
+known to you
+life as I know it
+life as we know it
+like you know
+more sol
+much-worn
+much worn
+needless to say
+not !DETERMINER new
+not !DETERMINER new situation
+not !DETERMINER new task
+not unexpectedly
+noted already for
+of course
+of course you
+of course you know
+old-familiar
+old-familiars
+old-hat
+old-stories
+old-story
+old bromide
+old bromides
+old companion
+old companions
+old enemies
+old enemy
+old face
+old faces
+old familiar
+old familiars
+old hat
+old opponent
+ordinary
+per usual
+previously known
+prior-known
+prior known
+probably best known to you
+same old story
+sang !DETERMINER familiar tune
+sang !DETERMINER same old song
+sang !DETERMINER same old tune
+second nature to all
+second nature to all of us
+second nature to us
+second nature to us all
+should be familiar to
+should come as no surprise
+sing !DETERMINER familiar tune
+sing !DETERMINER same old song
+sing !DETERMINER same old tune
+singing !DETERMINER familiar tune
+singing !DETERMINER same old song
+singing !DETERMINER same old tune
+sings !DETERMINER familiar tune
+sings !DETERMINER same old song
+sings !DETERMINER same old tune
+taken-for-granted
+taken for granted
+terra cognita
+that goes without saying
+the-same-old
+there's an old maxim
+there's an old motto
+there's an old proverb
+there's an old saying
+times we remember
+tried and true-blue
+typically associated
+typically associated with
+typically identified
+typically identified with
+typically of
+typically with
+usual pronunciation
+usual pronunciations
+usually associated
+usually associated with
+usually identified
+usually identified with
+usually of
+usually treated
+usually understood
+usually with
+we've all heard about
+we've all heard of
+we've all seen
+we !AUX familiar with
+we all agree that
+we all know
+we have all heard about
+we have all heard of
+we have all seen
+we know better than to
+well-knowing
+well-known
+well-known fact
+well-worn
+well known
+well known for
+well known to
+well worn
+what we all knew
+what we all know
+what we knew
+what we know
+what we remember
+what you've already learned
+what you already know
+who already know
+widely known
+will have !DETERMINER usual
+will provide !DETERMINER usual
+with !DETERMINER !ROUTINEACT
+with !DETERMINER expected
+with !DETERMINER routine
+with !DETERMINER usual
+with all !DETERMINER usual
+you'll recall that
+you'll remember that
+you've been aware that
+you've been briefed about
+you've been told about
+you've heard about
+you've known that
+you've read about
+you-know-what
+you !AUX aware that
+you !AUX familiar with
+you !AUX surely familiar with
+you !AUX well aware that
+you already have some familiarity with
+you already know
+you already know that
+you already know this
+you have already
+you have already been
+you have already been briefed on
+you have already been informed
+you have already been informed about
+you have been told about
+you have heard
+you have heard of
+you have heard of it
+you have heard of it as
+you have no doubt heard
+you have no doubt read
+you have probably read
+you know already
+you know BETTER THAN TO
+you know it as
+you know it as !DETERMINER common practice
+you may already have
+you may already know
+you may be thinking
+you may have already
+you may have already guessed
+you may have already heard
+you may have known
+you may recall
+you may remember
+you of course
+you probably !AUX aware
+you probably know
+you probably know that
+you should have some familiarity with
+you should recall
+you well know
+you will recall
+you will remember that

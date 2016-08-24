@@ -1,0 +1,823 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX appreciated
+!AUX greatly appreciated
+!AUX in touch with the best
+!AUX in touch with the great
+!AUX much appreciated
+!AUX thankful
+!DETERMINER great debt to
+!DETERMINER job well done
+!DO appreciate
+!DO not deny that
+!FEEL fortunate to have known
+!FEEL fortunate to have known !PRONOUNOBJECTIVE
+!GIVE !DETERMINER plug for
+!GIVE !POSSESSIVEPRONOUN thanks
+!GIVE acknowledgment
+!GIVE all credit to
+!GIVE credit
+!GIVE credit for
+!GIVE credit to
+!GIVE full credit to
+!GIVE great credit to
+!GIVE much credit to
+!GIVE my thanks
+!GIVE our thanks
+!GIVE plugs to
+!GIVE thanks
+!GIVE total credit
+!HAVE got to hand it to
+!HAVE gratitude to !YOU for
+!HAVE to hand it to
+!KEEP !YOU well
+!PRONOUNNOMINAL !AUX thankful
+!ROYALWE !AUX ACKNOWLEDGING
+!ROYALWE acknowledge
+!ROYALWE ACKNOWLEDGE the good
+!ROYALWE ACKNOWLEDGED
+!ROYALWE appreciate
+!ROYALWE had to acknowledge
+!ROYALWE had to be acknowledging
+!ROYALWE want to acknowledge
+!ROYALWE wish to acknowledge
+!ROYALWE would like to acknowledge
+!ROYALWE would like to acknowledge !YOU
+!ROYALWE would like to express my gratitude
+!ROYALWE would like to express our gratitude
+!ROYALWE would like to extend thanks
+!ROYALWE would like to recognize
+!ROYALWE would like to recognize !YOU
+!ROYALWE would like to thank
+!ROYALWE would like to thank !YOU
+!TAKE !POSSESSIVEPRONOUN hat off to
+!TAKE !YOU hat off to
+!TAKE my hat off to
+!TAKE our hat off to
+!YOU are !DETERMINER winner
+!YOU are given much of the credit
+!YOU are one who can help
+!YOU are the man
+!YOU are the one who can help
+!YOU are the woman
+!YOU can help
+!YOU contribution
+!YOU contribution is appreciated
+!YOU contribution is used
+!YOU deserve much of the credit
+!YOU did !DETERMINER job well done
+!YOU gift
+!YOU heart's desire
+!YOU never gain in
+!YOU never gave up
+!YOU never wavered
+!YOU stood !YOU ground
+!YOU thank-!YOU
+!YOU will be greatly missed
+. good for !PRONOUNOBJECTIVE
+. good for me
+. many thanks
+. please accept the flowers
+. please accept these flowers
+. please accept this gift
+. with !YOU help,
+accept my gratitude
+accept my thanks
+accept our gratitude
+accept our thanks
+acknowledge
+acknowledge !YOU
+acknowledge receipt
+acknowledge the receipt
+acknowledged !YOU
+acknowledged receipt
+acknowledged the receipt
+acknowledgement
+acknowledgements
+acknowledges
+acknowledges !YOU
+acknowledges receipt
+acknowledges the receipt
+acknowledging
+acknowledging !YOU
+acknowledging receipt
+acknowledging the receipt
+acknowledgment
+acknowledgments
+appreciate
+appreciated
+appreciates
+appreciating
+appreciation
+appreciations
+appreciative
+appreciative of
+appreciatively
+appreciativeness
+appreciatory
+are greatly welcomed
+are richer for her having lived
+are richer for his having lived
+are richer for their having lived
+are thanked for
+are welcomed
+as !DETERMINER token of appreciation
+as !DETERMINER token of her appreciation
+as !DETERMINER token of his appreciation
+as !DETERMINER token of my appreciation
+as !DETERMINER token of our appreciation
+as an acknowledge
+as an acknowledgement of
+as an acknowledgement of !YOU
+attorn
+attorned
+attorning
+attorns
+best of everything to !YOU
+compliments to !YOU
+congratulations to !YOU
+danke schon
+defer to !DETERMINER
+defer to !POSSESSIVEPRONOUN better
+defer to !POSSESSIVEPRONOUN duty
+defer to !POSSESSIVEPRONOUN greater
+defer to !POSSESSIVEPRONOUN greater experience
+defer to !POSSESSIVEPRONOUN greater knowledge
+defer to !POSSESSIVEPRONOUN greater wisdom
+defer to !POSSESSIVEPRONOUN judgment
+defer to !YOU
+defer to !YOU better
+defer to !YOU greater
+defer to !YOU greater experience
+defer to !YOU greater knowledge
+defer to !YOU greater wisdom
+defer to !YOU judgment
+defer to age
+deferent to
+deferential regard
+deferential regards
+deferential treatment
+deferred to !DETERMINER
+deferred to !POSSESSIVEPRONOUN better
+deferred to !POSSESSIVEPRONOUN duty
+deferred to !POSSESSIVEPRONOUN greater
+deferred to !POSSESSIVEPRONOUN greater experience
+deferred to !POSSESSIVEPRONOUN greater knowledge
+deferred to !POSSESSIVEPRONOUN greater wisdom
+deferred to !POSSESSIVEPRONOUN judgment
+deferred to !PRONOUNOBJECTIVE
+deferred to !YOU
+deferred to !YOU better
+deferred to !YOU greater
+deferred to !YOU greater experience
+deferred to !YOU greater knowledge
+deferred to !YOU greater wisdom
+deferred to !YOU judgment
+deferred to age
+deferring to !DETERMINER
+deferring to !POSSESSIVEPRONOUN better
+deferring to !POSSESSIVEPRONOUN duty
+deferring to !POSSESSIVEPRONOUN greater
+deferring to !POSSESSIVEPRONOUN greater experience
+deferring to !POSSESSIVEPRONOUN greater knowledge
+deferring to !POSSESSIVEPRONOUN greater wisdom
+deferring to !POSSESSIVEPRONOUN judgment
+deferring to !PRONOUNOBJECTIVE
+deferring to !YOU
+deferring to !YOU better
+deferring to !YOU greater
+deferring to !YOU greater experience
+deferring to !YOU greater knowledge
+deferring to !YOU greater wisdom
+deferring to !YOU judgment
+deferring to age
+defers to !DETERMINER
+defers to !POSSESSIVEPRONOUN better
+defers to !POSSESSIVEPRONOUN duty
+defers to !POSSESSIVEPRONOUN greater
+defers to !POSSESSIVEPRONOUN greater experience
+defers to !POSSESSIVEPRONOUN greater knowledge
+defers to !POSSESSIVEPRONOUN greater wisdom
+defers to !POSSESSIVEPRONOUN judgment
+defers to !PRONOUNOBJECTIVE
+defers to !YOU
+defers to !YOU better
+defers to !YOU greater
+defers to !YOU greater experience
+defers to !YOU greater knowledge
+defers to !YOU greater wisdom
+defers to !YOU judgment
+defers to age
+deserve mention
+deserve thanks
+deserves mention
+deserves thanks
+express gratitude to !YOU
+express her gratitude
+express his gratitude
+express my appreciation
+express my appreciation for
+express my gratitude
+express our appreciation
+express our appreciation for
+express our gratitude
+express sympathy
+express sympathy for
+express their gratitude
+expressed gratitude to !YOU
+expressed her gratitude
+expressed his gratitude
+expressed my appreciation
+expressed my appreciation for
+expressed my gratitude
+expressed our appreciation
+expressed our appreciation for
+expressed our gratitude
+expressed sympathy
+expressed sympathy for
+expressed their gratitude
+expresses gratitude to !YOU
+expresses her gratitude
+expresses his gratitude
+expresses my appreciation
+expresses my appreciation for
+expresses my gratitude
+expresses our appreciation
+expresses our appreciation for
+expresses our gratitude
+expresses sympathy
+expresses sympathy for
+expresses their gratitude
+expressing gratitude to !YOU
+expressing her gratitude
+expressing his gratitude
+expressing my appreciation
+expressing my appreciation for
+expressing my gratitude
+expressing our appreciation
+expressing our appreciation for
+expressing our gratitude
+expressing sympathy
+expressing sympathy for
+expressing their gratitude
+extend !POSSESSIVEPRONOUN deepest sympathies
+extend !POSSESSIVEPRONOUN deepest sympathy
+extend !POSSESSIVEPRONOUN heartfelt sympathies
+extend !POSSESSIVEPRONOUN heartfelt sympathy
+extend !POSSESSIVEPRONOUN sympathies
+extend !POSSESSIVEPRONOUN sympathy
+Extend sympathies
+Extend sympathy
+extend the credit
+extended !POSSESSIVEPRONOUN deepest sympathies
+extended !POSSESSIVEPRONOUN deepest sympathy
+extended !POSSESSIVEPRONOUN heartfelt sympathies
+extended !POSSESSIVEPRONOUN heartfelt sympathy
+extended !POSSESSIVEPRONOUN sympathies
+extended !POSSESSIVEPRONOUN sympathyh
+Extended sympathies
+Extended sympathy
+extended the credit
+extending !POSSESSIVEPRONOUN deepest sympathies
+extending !POSSESSIVEPRONOUN deepest sympathy
+extending !POSSESSIVEPRONOUN heartfelt sympathies
+extending !POSSESSIVEPRONOUN heartfelt sympathy
+extending !POSSESSIVEPRONOUN sympathies
+extending !POSSESSIVEPRONOUN sympathy
+Extending sympathies
+Extending sympathy
+extending the credit
+extends !POSSESSIVEPRONOUN deepest sympathies
+extends !POSSESSIVEPRONOUN deepest sympathy
+extends !POSSESSIVEPRONOUN heartfelt sympathies
+extends !POSSESSIVEPRONOUN heartfelt sympathy
+extends !POSSESSIVEPRONOUN sympathies
+extends !POSSESSIVEPRONOUN sympathy
+extends sympathy
+extends the credit
+felicitations to !YOU
+for !POSSESSIVEPRONOUN generosity
+for !YOU convenience
+for !YOU generosity
+for !YOU generous
+for !YOU generous gifts
+for !YOU gift
+for !YOU gifts
+for !YOU great talent
+for !YOU great talents
+for !YOU many talents
+for !YOU talent
+for !YOU talents
+for the generosity of
+gave !YOU !DETERMINER pat on the back
+give !YOU !DETERMINER pat on the back
+gives !YOU !DETERMINER pat on the back
+giving !YOU !DETERMINER pat on the back
+got to hand it to
+grateful to
+gratia dei
+greatly appreciate
+greatly appreciated
+greatly appreciated !DETERMINER
+greatly appreciated !POSSESSIVEPRONOUN
+greatly appreciated !PRONOUNOBJECTIVE
+greatly appreciates
+greatly appreciating
+grieved to hear of !YOU loss
+grieved when I think of !YOU loss
+grieved when we think of !YOU loss
+grieves to hear of !YOU loss
+grieving to hear of !YOU loss
+he's got to hand it to
+he has enhanced
+he is !DETERMINER winner
+he will be greatly missed
+help !YOU give
+her attitude lifted my spirits
+here's to !YOU
+his attitude lifted my spirits
+how can !PRONOUNNOMINAL ever repay
+how can I ever repay
+how can we ever repay
+how generous !YOU are
+how good !YOU are
+how kind of !YOU
+how much !YOU care
+how nice of !YOU
+how sweet of !YOU
+how wonderful !YOU are
+how wonderful of !YOU
+I'd appreciate it
+I'd appreciate it greatly
+I'd like to acknowledge
+I've got to hand it to
+I acknowledge my
+I acknowledge that I
+I am grateful to !YOU for
+I am grateful to have known
+I am grieved by !YOU loss
+I am grieved for !YOU loss
+I am grieving about !YOU loss
+I am indebted to
+I appreciate !YOU
+I appreciate !YOU consideration
+I appreciate that
+I appreciate the fact
+I appreciate the fact that
+I ask to share !YOU loss
+I ask to share in !YOU loss
+I deeply appreciate
+I defer to !YOU
+I grieve about !YOU loss
+I grieve for !YOU loss
+I grieve upon !YOU loss
+I just want to acknowledge
+I just want to thank !YOU
+I must thank
+I owe !YOU !DETERMINER thank-!YOU
+I owe !YOU !DETERMINER thank-!YOU for
+I owe debts to
+I owe many debts to
+I recognize
+I recognize !DETERMINER
+I recognize !POSSESSIVEPRONOUN
+I recognize !PRONOUNOBJECTIVE
+I recognize that
+I share !YOU loss
+I share in !YOU loss
+I thank !YOU
+I want to acknowledge
+I want to be the first to acknowledge
+I want to be the first to thank
+I want to cite
+I want to pay tribute to
+I want to praise
+I want to single out
+I want to thank !YOU
+I will always remember !PRONOUNOBJECTIVE
+I will always remember !PRONOUNOBJECTIVE for
+I wish to acknowledge
+I wish to thank
+If I can be of any help
+If I can help
+if we can be of any help
+If we can help
+in !YOU excellence
+in !YOU honor
+in !YOU show of love
+in appreciation of
+in appreciation of !YOU
+in her honor
+in his honor
+in my honor
+in order to acknowledge
+in our honor
+in partnership
+in partnership with
+in their honor
+is richer for her having lived
+is richer for his having lived
+is richer for their having lived
+it !AUX gracious of !YOU
+It !AUX kind of !YOU
+it !AUX nice of !YOU
+it !AUX thoughtful of !YOU
+it has enhanced
+it is !DETERMINER tribute to
+it is testimony to
+it was nice of !YOU
+just want to acknowledge
+just wish to acknowledge
+kew
+loved by all who knew her
+loved by all who knew him
+loved by all who knew them
+loved by all who know !YOU
+loved by all who knows her
+loved by all who knows him
+loved by all who knows them
+many thanks
+most appreciated
+much acknowledge
+much appreciated
+must be thanked for
+must express my gratitude
+must express my indebtedness
+must express my thanks
+my acknowledgment
+my acknowledgment of
+my gratitude for
+my prayers go out to
+my profound gratitude for
+my profound thanks for
+my profound thanks to
+my sincere thank-!YOU
+my sincere thank-yous
+my sincere thanks
+my sincere wish that !YOU
+my sincere wishes that !YOU
+my thank-!YOU
+nice of !YOU
+nice of !YOU to
+nice of !YOU to come
+no one deserved better
+no one deserved it more
+no one deserved more
+no one deserves better
+no one deserves it more
+no one deserves more
+no one does it better
+no one is more deserving
+of how much !YOU
+of how much !YOU efforts
+of how much !YOU mean to
+of how much !YOU mean to me
+offer my compliments
+offer my congratulations
+offer my felicitations
+offer myself
+offer thanks
+offered my compliments
+offered my congratulations
+offered my felicitations
+offered myself
+offered thanks
+offering my compliments
+offering my congratulations
+offering my felicitations
+offering myself
+offering thanks
+offers my compliments
+offers my congratulations
+offers my felicitations
+offers myself
+offers thanks
+our sincere thank-!YOU
+our sincere thanks
+our sincere wish that !YOU
+our sincere wishes that !YOU
+our sincerest thank-yous
+our thank-!YOU
+our thank-yous
+out of repect to him
+out of respect
+out of respect for
+out of respect to
+out of respect to her
+out of respect to them
+owe !DETERMINER debt to
+owe !DETERMINER great debt to
+pat !YOU on the back
+pat yourself on the back
+pats !YOU on the back
+patted !YOU on the back
+patting !YOU on the back
+pax tecum
+pax vobiscum
+peace be to !YOU
+peace be to this house
+peace be with !YOU
+peace be within thy walls
+play !YOU cards well
+played !YOU cards well
+played !YOU proper role
+playing !YOU cards well
+plays !YOU cards well
+plump for !YOU
+plumped for !YOU
+plumping for !YOU
+plumps for !YOU
+plunk for
+plunked for
+plunking for
+plunks for
+prayer of thanks
+prayers of thanks
+render thanks
+rendered thanks
+rendering thanks
+renders thanks
+return thanks
+returned thanks
+returning thanks
+returns thanks
+sang !YOU praises
+serve as testimony
+served as testimony
+serves as testimony
+serving as testimony
+she's got to hand it to
+she has enhanced
+she is !DETERMINER winner
+she will be greatly missed
+sincere thanks
+sincerely appreciate
+sincerely appreciated
+sincerely appreciates
+sincerely appreciating
+sing !YOU praises
+singing !YOU praises
+sings !YOU praises
+so thankful
+so very thankful
+special thanks
+special thanks are due
+support !YOU give
+sympathy on the untimely death of !YOU husband
+ta!
+tender compliments to !YOU
+tender congratulations to !YOU
+tender felicitations to !YOU
+tender my compliments
+tender my congratulations
+tender my felicitations
+tender thanks
+tender thanks to !YOU
+tendered compliments to !YOU
+tendered congratulations to !YOU
+tendered felicitations to !YOU
+tendered my compliments
+tendered my congratulations
+tendered thanks
+tendered thanks to !YOU
+tendering compliments to !YOU
+tendering congratulations to !YOU
+tendering felicitations to !YOU
+tendering my compliments
+tendering my congratulations
+tendering my felicitations
+tendering thanks
+tendering thanks to !YOU
+tenders compliments to !YOU
+tenders congratulations to !YOU
+tenders felicitations to !YOU
+tenders my compliments
+tenders my congratulations
+tenders my felicitations
+tenders thanks
+tenders thanks to !YOU
+testimonial for
+testimonial on behalf of
+testimonial to
+testimonials for
+testimonials on behalf of
+testimonials to
+thank
+thank-!YOU
+thank-!YOU-ma'am
+thank-!YOU-maam
+thank-offering
+thank !PRONOUNOBJECTIVE for
+thank !YOU
+thank !YOU for
+thank !YOU for !YOU cooperation
+thank !YOU for !YOU generous gift
+thank !YOU for !YOU gift
+thank !YOU for !YOU understanding
+thank !YOU for taking the time
+thank !YOU kindly
+thank !YOU stars
+thank God
+thank goodness
+thank me for
+thank offering
+thank us for
+Thank You Very Much
+thanked
+thanked !PRONOUNOBJECTIVE for
+thanked me for
+thanked us for
+thankful
+thankfully
+thankfulness
+thanking
+thanking !PRONOUNOBJECTIVE for
+thanking me for
+thanking us for
+thankless
+thanklessly
+thanklessness
+thanks
+Thanks-A-Million
+thanks !DETERMINER bunch
+thanks !DETERMINER lot
+thanks !PRONOUNOBJECTIVE for
+thanks a million!
+thanks be to God
+thanks for
+thanks for !YOU understanding
+thanks for taking the time
+Thanks For The Help Ahead Of Time
+Thanks For The Thought
+thanks for the wonderful
+thanks me for
+thanks to
+thanks to !DETERMINER
+thanks to !YOU
+thanks to her
+thanks to his
+thanks to the wonderful
+thanks to their
+thanks us for
+thanks, that was great
+thanksgiving
+thanksgivings
+thankworthy
+the help !YOU give
+the help that !YOU give
+the importance of !YOU
+the importance of !YOU giving
+the support !YOU give
+the support !YOU will provide
+the support that !YOU give
+the value of !YOU
+the value of !YOU giving
+they've got to hand it to
+they thankful
+they will be greatly missed
+think of !YOU
+thinking of !YOU
+thinks of !YOU
+this is to acknowledge
+thought of !YOU
+through !YOU support
+tip !DETERMINER hat to
+tip !POSsESSIVEPRONOUN cap to
+Tip !POSSESSIVEPRONOUN hat
+tip !POSSESSIVEPRONOUN hat to
+Tip my hat
+tip my hat to
+tip of !DETERMINER hat to
+tip of the cap
+tip of the cap to
+tip of the hat
+tip of the hat to
+tip our cap to
+Tip our hat
+tip our hat to
+Tip your hat
+tip your hat to
+tipped !DETERMINER hat to
+Tipped !POSSESSIVEPRONOUN hat
+tipped !POSSESSIVEPRoNOUN hat to
+Tipped my hat
+tipped my hat to
+Tipped our hat
+tipped our hat to
+Tipped your hat
+tipped your hat to
+tipping !DETERMINER hat to
+Tipping !POSSESSIVEPRONOUN hat
+tipping !POSSESSIVEPRoNOUN hat to
+Tipping my hat
+tipping my hat to
+Tipping our hat
+tipping our hat to
+Tipping your hat
+tipping your hat to
+tips !DETERMINER hat to
+Tips !POSSESSIVEPRONOUN hat
+tips !POSSESSIVEPRoNOUN hat to
+Tips my hat
+tips my hat to
+Tips our hat
+tips our hat to
+Tips your hat
+tips your hat to
+to acknowledge
+to your credit
+to your great credit
+want to acknowledge
+want to express our deep sympathies
+want to express our deep sympathies to !YOU
+want to express our deep sympathy to !YOU
+want to express our deepest sympathies
+want to express our deepest sympathies to !YOU
+want to express our deepest sympathy
+want to express our deepest sympathy to !YOU
+want to extend thanks
+want to give thanks
+want to recognize
+wanted to acknowledge
+wanting to acknowledge
+wants to acknowledge
+warm regards
+warm regards,
+warm thanks
+was loved by all
+was loved by anyone
+we'd appreciate it
+we'd appreciate it greatly
+we'll be the first to acknowledge
+we've got to hand it to
+we appreciate !YOU
+we appreciate !YOU being
+we do appreciate
+we do appreciate !YOU
+we will all remember !YOU for !YOU
+we will all remember her for her
+we will all remember him for his
+we will all remember them for their
+we will always remember !PRONOUNOBJECTIVE
+we will always remember !PRONOUNOBJECTIVE for
+what !DETERMINER fine daughter !YOU have
+what !DETERMINER fine son !YOU have
+when it's convenient for !YOU
+whenever !YOU like
+whenever !YOU wish
+will be missed by
+will be sorely missed
+wish !YOU well
+wish to acknowledge
+wish to express our deep sympathies
+wish to express our deep sympathies to !YOU
+wish to express our deep sympathy to !YOU
+wish to express our deepest sympathies
+wish to express our deepest sympathies to !YOU
+wish to express our deepest sympathy
+wish to express our deepest sympathy to !YOU
+wishes !YOU well
+wishing !YOU well
+with !YOU help
+with !YOU support
+with sincere thanks
+with special thanks
+with thanks
+with thanks from
+with thanks to
+without whom
+without whose
+without whose contributions
+without whose effort
+without whose efforts
+without whose energy
+without whose grace
+without whose help
+without whose intelligence
+without whose kindness
+without whose love
+without whose support
+without whose untiring
+worship the ground !YOU walk on
+worshipped the ground !YOU walk on
+worshipping the ground !YOU walk on
+worships the ground !YOU walk on
+worth !YOU salt
+you'll be giving us !DETERMINER great
+you'll be giving us !DETERMINER wonderful
+you're great
+you're great to
+you're just great
+you're just wonderful
+you're the man
+you're the woman
+you're wonderful
+you're wonderful to
+you've been !DETERMINER great
+you've been !DETERMINER wonderful
+you've been great
+you've been very helpful
+you've been wonderful
+you've got to hand it to

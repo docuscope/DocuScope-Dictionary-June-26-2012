@@ -1,0 +1,4586 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER earlier
+!AUX !DETERMINER later
+!AUX !DETERMINER next
+!AUX !RANKNUMBER
+!AUX in the can
+!AUX next
+!AUX now over.
+!AUX on !DETERMINER to !DETERMINER next !TIMEFRAME
+!AUX on !DETERMINER wane
+!AUX OVER
+!AUX waning
+!BREAK ground
+!BRING to !DETERMINER close
+!BRING to !DETERMINER finish
+!BRING to !DETERMINER head
+!CATCH !DETERMINER BEGINNING
+!CATCH !DETERMINER BEGINNING OF
+!CATCH !DETERMINER END OF
+!CHECK in
+!CLOSE !DETERMINER book on
+!CLOSE !DETERMINER books
+!CLOSE !DETERMINER books on
+!CLOSE !DETERMINER case
+!CLOSE !DETERMINER case on
+!CLOSE !DETERMINER circle
+!CLOSE IT DOWN
+!CLOSE on
+!CLOSE out
+!CLOSE sequence
+!CLOSE shop
+!CLOSE up
+!CLOSE up !DETERMINER
+!CLOSE up !POSSESSIVEPRONOUN
+!CLOSE upon
+!COME !RANKNUMBER
+!COME after
+!COME before
+!COME last
+!COME next
+!COME out !RANKNUMBER
+!COME out last
+!COME to !DETERMINER end
+!COME to !DETERMINER head
+!COME TO !DETERMINER start
+!COME to closure
+!COME up next
+!CUT !POSSESSIVEPRONOUN eyeteeth
+!CUT !POSSESSIVEPRONOUN eyeteeth on
+!CUT in after
+!CUT in before
+!DETERMINER !RANKNUMBER BEING
+!DETERMINER !RANKNUMBER FEW !TIMEFRAME
+!DETERMINER !RANKNUMBER of
+!DETERMINER !RANKNUMBER of !NUMS1TO100
+!DETERMINER !RANKNUMBER of painters
+!DETERMINER !RANKNUMBER philosophies
+!DETERMINER !RANKNUMBER philosophy
+!DETERMINER !RANKNUMBER place
+!DETERMINER !RANKNUMBER POINT !AUX
+!DETERMINER !RANKNUMBER STEP
+!DETERMINER !RANKNUMBER theologies
+!DETERMINER !RANKNUMBER theology
+!DETERMINER !RANKNUMBER THING TO DO
+!DETERMINER !RANKNUMBER THING TO DO IS
+!DETERMINER !RANKNUMBER time
+!DETERMINER advance on
+!DETERMINER alpha
+!DETERMINER alphas
+!DETERMINER back and forth
+!DETERMINER BEGINNING
+!DETERMINER BEGINNING OF
+!DETERMINER beginning of !DETERMINER
+!DETERMINER beginnings of !DETERMINER
+!DETERMINER BIRTH
+!DETERMINER BIRTH OF
+!DETERMINER capper
+!DETERMINER cappers
+!DETERMINER capstone
+!DETERMINER capstone experience
+!DETERMINER CLOSE
+!DETERMINER CLOSE OF
+!DETERMINER closing of
+!DETERMINER closings of
+!DETERMINER COMING PHASE
+!DETERMINER commenced
+!DETERMINER COMMENCEMENT
+!DETERMINER concluding !TIMEFRAME
+!DETERMINER concluding !TIMEFRAME of
+!DETERMINER conclusion
+!DETERMINER conclusion is that
+!DETERMINER copestone
+!DETERMINER CULMINATION OF
+!DETERMINER curtain lifter !AUX
+!DETERMINER curtain lifters
+!DETERMINER curtain raiser !AUX
+!DETERMINER curtain raisers
+!DETERMINER dawn of
+!DETERMINER end
+!DETERMINER end of
+!DETERMINER end of !DETERMINER earth
+!DETERMINER end of !DETERMINER journey
+!DETERMINER end of !DETERMINER line
+!DETERMINER end of !POSSESSIVEPRONOUN journey
+!DETERMINER end of my journey
+!DETERMINER end of our journey
+!DETERMINER end of your journey
+!DETERMINER ends
+!DETERMINER ends of
+!DETERMINER ends of !DETERMINER line
+!DETERMINER events following
+!DETERMINER events preceding
+!DETERMINER final
+!DETERMINER following !TIMEFRAME
+!DETERMINER FOLLOWING !TIMEOFDAY
+!DETERMINER forecoming
+!DETERMINER foregoing
+!DETERMINER forerunner
+!DETERMINER forerunner of
+!DETERMINER forerunners
+!DETERMINER forerunners of
+!DETERMINER forewent
+!DETERMINER forgoing
+!DETERMINER home stretch
+!DETERMINER home stretches
+!DETERMINER incarnation
+!DETERMINER incarnation of
+!DETERMINER incarnations
+!DETERMINER incarnations of
+!DETERMINER initial
+!DETERMINER journey's end
+!DETERMINER last !TIMEFRAME
+!DETERMINER last !TIMEFRAME of
+!DETERMINER last day
+!DETERMINER last days
+!DETERMINER last of !DETERMINER !TIMEFRAME
+!DETERMINER LAST PERSON TO
+!DETERMINER LAST PERSON TO ASK
+!DETERMINER last time
+!DETERMINER latter end
+!DETERMINER latter ends
+!DETERMINER LOGICAL NEXT STEP
+!DETERMINER main course
+!DETERMINER main courses
+!DETERMINER matter is ended
+!DETERMINER NEXT
+!DETERMINER next !TIMEFRAME
+!DETERMINER NEXT !TIMEOFDAY
+!DETERMINER NEXT PHASE
+!DETERMINER next step
+!DETERMINER next thing
+!DETERMINER next things
+!DETERMINER next time
+!DETERMINER omega
+!DETERMINER omegas
+!DETERMINER onset
+!DETERMINER onset of
+!DETERMINER opening
+!DETERMINER opening to a solution
+!DETERMINER opening to all
+!DETERMINER opening to criticism
+!DETERMINER opening to doubt
+!DETERMINER opening to error
+!DETERMINER opening to question
+!DETERMINER opening to reproach
+!DETERMINER opening to suspicion
+!DETERMINER openings
+!DETERMINER OUTSET
+!DETERMINER preparation
+!DETERMINER preparations
+!DETERMINER PROCESS
+!DETERMINER PROCESS OF
+!DETERMINER prologue
+!DETERMINER prologue to
+!DETERMINER response
+!DETERMINER response to
+!DETERMINER responses
+!DETERMINER responses to
+!DETERMINER rest of !DETERMINER
+!DETERMINER rise of
+!DETERMINER seed of
+!DETERMINER seeds of
+!DETERMINER sequenced
+!DETERMINER shape of things before
+!DETERMINER sine qua non for
+!DETERMINER sine qua non of
+!DETERMINER start of
+!DETERMINER start of !DETERMINER journey
+!DETERMINER start of !POSSESSIVEPRONOUN journey
+!DETERMINER start of my journey
+!DETERMINER start of our journey
+!DETERMINER start of your journey
+!DETERMINER starting of
+!DETERMINER starting point
+!DETERMINER starting points
+!DETERMINER succession of
+!DETERMINER tail end
+!DETERMINER tail end of
+!DETERMINER tail ends
+!DETERMINER tail ends of
+!DETERMINER TRAIL BEGAN
+!DETERMINER TRAIL BEGAN !QUESTION
+!DETERMINER TRAIL PICKED UP
+!DETERMINER TRAIL PICKED UP !QUESTION
+!DETERMINER very beginning
+!DETERMINER very next
+!DETERMINER way to !DETERMINER next
+!DETERMINER wide opening to
+!DRAW !DETERMINER curtain on
+!DRAW !DETERMINER curtains on
+!DRAW IT TO !DETERMINER CLOSE
+!DRAW to !DETERMINER close
+!DRAW to !DETERMINER end
+!DRAW to !DETERMINER finish
+!DRAW to !DETERMINER head
+!DRAW to !DETERMINER peak
+!DROP !DETERMINER initial
+!DROP initial
+!ENTER !DETERMINER field
+!ENTER !DETERMINER field of
+!ENTER !DETERMINER FRAY
+!ENTER !DETERMINER lists
+!ENTER !POSSESSIVEPRONOUN first
+!ENTER !PRONOUNOBJECTIVE in
+!ENTER at the start
+!ENTER from the start
+!ENTER IN
+!ENTER into
+!ENTER into !DETERMINER
+!ENTER into !POSSESSIVEPRONOUN
+!ENTER into !PRONOUNOBJECTIVE
+!ENTER into detail
+!ENTER judgment
+!ENTER judgment for
+!ENTER on
+!ENTER upon
+!FALL of !DETERMINER curtain
+!FALL of !DETERMINER leaf
+!FALL of !DETERMINER leaves
+!FALL of !DETERMINER year
+!FALL of day
+!FOLLOW !DETERMINER beam
+!FOLLOW !DETERMINER beaten path
+!FOLLOW !DETERMINER book
+!FOLLOW !DETERMINER career
+!FOLLOW !DETERMINER clew
+!FOLLOW !DETERMINER clue
+!FOLLOW !DETERMINER course
+!FOLLOW !DETERMINER crowd
+!FOLLOW !DETERMINER example of
+!FOLLOW !DETERMINER fashion
+!FOLLOW !DETERMINER hounds
+!FOLLOW !DETERMINER lead
+!FOLLOW !DETERMINER LEAD OF
+!FOLLOW !DETERMINER leader
+!FOLLOW !DETERMINER party line
+!FOLLOW !DETERMINER path
+!FOLLOW !DETERMINER pattern
+!FOLLOW !DETERMINER plan
+!FOLLOW !DETERMINER trade
+!FOLLOW !POSSESSIVEPRONOUN FOOTSTEPS
+!FOLLOW !POSSESSIVEPRONOUN LEAD
+!FOLLOW !POSSESSIVEPRONOUN TRACKS
+!FOLLOW advice
+!FOLLOW after
+!FOLLOW as !DETERMINER occupation
+!FOLLOW in !DETERMINER footprints of
+!FOLLOW in !DETERMINER footsteps of
+!FOLLOW in !DETERMINER series
+!FOLLOW in !DETERMINER steps of
+!FOLLOW in !DETERMINER trail of
+!FOLLOW in !DETERMINER wake of
+!FOLLOW in !POSSESSIVEPRONOUN footsteps
+!FOLLOW IN !POSSESSIVEPRONOUN HEART
+!FOLLOW IN !POSSESSIVEPRONOUN LEAD
+!FOLLOW IN !POSSESSIVEPRONOUN NOSE
+!FOLLOW in !POSSESSIVEPRONOUN steps
+!FOLLOW IN !POSSESSIVEPRONOUN TRACKS
+!FOLLOW in my footsteps
+!FOLLOW in our footsteps
+!FOLLOW on
+!FOLLOW on !DETERMINER heels of
+!FOLLOW ORDERS
+!FOLLOW out
+!FOLLOW out of !DETERMINER
+!FOLLOW out of !POSSESSIVEPRONOUN
+!FOLLOW out of !PRONOUNOBJECTIVE
+!FOLLOW peace with all men
+!FOLLOW rest
+!FOLLOW shot
+!FOLLOW strong drink
+!FOLLOW suit
+!FOLLOW through
+!FOLLOW up
+!FOLLOW up !DETERMINER attack
+!FOLLOW up !DETERMINER inquiry
+!GET !DETERMINER BALL ROLLING
+!GET !DETERMINER start
+!GET !DETERMINER start on
+!GET !POSSESSIVEPRONOUN  feet wet
+!GET !POSSESSIVEPRONOUN  feet wet on
+!GET !POSSESSIVEPRONOUN START
+!GET going
+!GET it off !DETERMINER ground
+!GET IT UNDER WAY
+!GET IT UNDERWAY
+!GET my feet wet
+!GET my feet wet on
+!GET my start
+!GET off !DETERMINER ground
+!GET off work
+!GET on to
+!GET our feet wet
+!GET our feet wet on
+!GET our start
+!GET started
+!GET UNDER WAY
+!GET underway
+!GET your feet wet
+!GET your feet wet on
+!GET your start
+!GIVE !DETERMINER start to
+!GIVE !RANKNUMBER attention
+!GIVE origin to
+!GO !DETERMINER step further
+!GO after
+!GO ahead of
+!GO before
+!GO behind
+!GO in !DETERMINER lead
+!GO in advance
+!GO IN TURN
+!GO on to !DETERMINER following
+!GO on to !DETERMINER new
+!GO on to !DETERMINER next
+!GO on with
+!GO on with !DETERMINER show
+!GO over step by step
+!GO step by step
+!GO through phases
+!HAVE !DETERMINER last word
+!HAVE !DETERMINER start
+!HAVE taken up
+!KICK off !DETERMINER
+!LAY !DETERMINER !RANKNUMBER stone
+!LAY it to rest
+!LAY TO REST
+!LEAD off
+!LEAD on
+!MAKE !DETERMINER beginning
+!MAKE !DETERMINER new beginning
+!MAKE !POSSESSIVEPRONOUN debut
+!MAKE !POSSESSIVEPRONOUN debuts
+!MOVE !DETERMINER step
+!MOVE !DETERMINER step forward
+!OPEN !DETERMINER account with
+!OPEN !DETERMINER door to
+!OPEN !DETERMINER draft
+!OPEN !DETERMINER eyes
+!OPEN !DETERMINER eyes to
+!OPEN !DETERMINER floodgates
+!OPEN !DETERMINER mind
+!OPEN !DETERMINER offensive
+!OPEN !DETERMINER possibility of
+!OPEN !DETERMINER purse
+!OPEN !DETERMINER show
+!OPEN !DETERMINER show cold
+!OPEN !DETERMINER sluices
+!OPEN !DETERMINER throttle
+!OPEN !DETERMINER way
+!OPEN !DETERMINER way for
+!OPEN !PRONOUNOBJECTIVE  up
+!OPEN with
+!PICK UP !DETERMINER TRAIL
+!PICK UP !POSSESSIVEPRONOUN TRAIL
+!POSSESSIVEPRONOUN next
+!PRONOUNNOMINAL start
+!PRONOUNNOMINAL starts
+!PUT it in action
+!PUT it into action
+!PUT it into motion
+!RAISE !DETERMINER curtain
+!RAISE !DETERMINER curtain on
+!RANKNUMBER
+!RANKNUMBER !GET
+!RANKNUMBER !GET off !DETERMINER ground
+!RANKNUMBER .
+!RANKNUMBER AND FOREMOST
+!RANKNUMBER and last
+!RANKNUMBER appearance
+!RANKNUMBER approach
+!RANKNUMBER arrival
+!RANKNUMBER attention
+!RANKNUMBER attention to
+!RANKNUMBER ballot
+!RANKNUMBER ballots
+!RANKNUMBER blush
+!RANKNUMBER blush of !DETERMINER morning
+!RANKNUMBER brightening
+!RANKNUMBER BY
+!RANKNUMBER category
+!RANKNUMBER coat
+!RANKNUMBER coats
+!RANKNUMBER comer
+!RANKNUMBER comers
+!RANKNUMBER crack
+!RANKNUMBER crack out of !DETERMINER box
+!RANKNUMBER cracks
+!RANKNUMBER dimenions
+!RANKNUMBER dimension
+!RANKNUMBER dimensions
+!RANKNUMBER draft
+!RANKNUMBER drafts
+!RANKNUMBER edition
+!RANKNUMBER editions
+!RANKNUMBER fruits
+!RANKNUMBER glance
+!RANKNUMBER growth
+!RANKNUMBER helping
+!RANKNUMBER helpings
+!RANKNUMBER inning
+!RANKNUMBER lap
+!RANKNUMBER laps
+!RANKNUMBER letter
+!RANKNUMBER letters
+!RANKNUMBER level
+!RANKNUMBER light
+!RANKNUMBER line of battle
+!RANKNUMBER main track
+!RANKNUMBER motion
+!RANKNUMBER move
+!RANKNUMBER named
+!RANKNUMBER night
+!RANKNUMBER OF
+!RANKNUMBER of all
+!RANKNUMBER of all,
+!RANKNUMBER off
+!RANKNUMBER off,
+!RANKNUMBER offender
+!RANKNUMBER offenders
+!RANKNUMBER option
+!RANKNUMBER or last
+!RANKNUMBER order of
+!RANKNUMBER order of business
+!RANKNUMBER part
+!RANKNUMBER part of
+!RANKNUMBER parts of
+!RANKNUMBER POINT
+!RANKNUMBER position
+!RANKNUMBER post
+!RANKNUMBER quarter
+!RANKNUMBER reader
+!RANKNUMBER reader's
+!RANKNUMBER readers
+!RANKNUMBER readers'
+!RANKNUMBER reading
+!RANKNUMBER refusal
+!RANKNUMBER round
+!RANKNUMBER segment
+!RANKNUMBER sight
+!RANKNUMBER speed
+!RANKNUMBER stab at
+!RANKNUMBER stabs at
+!RANKNUMBER stage
+!RANKNUMBER step
+!RANKNUMBER steps
+!RANKNUMBER stone
+!RANKNUMBER straight
+!RANKNUMBER strike
+!RANKNUMBER strike out on my own
+!RANKNUMBER strikes
+!RANKNUMBER strikes out on my own
+!RANKNUMBER striking out on my own
+!RANKNUMBER struck out on my own
+!RANKNUMBER takes
+!RANKNUMBER THING
+!RANKNUMBER THING IN !DETERMINER MORNING
+!RANKNUMBER things
+!RANKNUMBER tier
+!RANKNUMBER to that
+!RANKNUMBER water
+!RANKNUMBER wave
+!RANKNUMBER you
+!RANKNUMBER,
+!RANKNUMBER, you
+!RUN before
+!SET !DETERMINER BALL ROLLING
+!SET !DETERMINER brain to work
+!SET !DETERMINER stage
+!SET !DETERMINER STAGE FOR
+!SET about
+!SET before
+!SET forth on
+!SET in order
+!SET in place
+!SET in train
+!SET it off
+!SET off
+!SET off to
+!SET out
+!SET out !RANKNUMBER
+!SET to work
+!SET toward
+!SET up
+!SET up !DETERMINER
+!SET up for
+!SET up housekeeping
+!SET up in business
+!SET up shop
+!SET upon !DETERMINER
+!START in !DETERMINER middle of
+!START in !MONTH
+!START in early
+!START in late
+!STRIKE !DETERMINER !RANKNUMBER blow
+!STRIKE out on !POSSESSIVEPRONOUN own
+!STRIKE out on our own
+!STRIKE out on your own
+!STRIKE up
+!STRIKE up !DETERMINER
+!STRIKE up !DETERMINER acquaintance with
+!TAKE !DETERMINER crack
+!TAKE !DETERMINER crack at
+!TAKE !DETERMINER STAB AT
+!TAKE !DETERMINER step
+!TAKE !DETERMINER TRY AT
+!TAKE OFF ON !DETERMINER DISCUSSION
+!TAKE OFF ON !DETERMINER SUBJECT OF
+!TAKE root
+!TAKE steps
+!TAKE up
+!TAKE up !DETERMINER inquiry
+!TAKE up !DETERMINER side
+!TAKE up !POSSESSIVEPRONOUN option
+!TAKE up again
+!TAKE up and pay off
+!TAKE up arms
+!TAKE up membership
+!TAKE up my option
+!TAKE up our option
+!TAKE up with
+!TOUCH off !DETERMINER !RANKNUMBER
+!WAIT FOR !DETERMINER NEXT
+!WAIT FOR !DETERMINER NEXT OPPORTUNITY
+!WRAP IT UP
+, he then
+, I then
+, it then
+, she then
+, they then
+, we then
+, which reached its height
+, with !DETERMINER beginning of
+, with !DETERMINER end of
+, with !DETERMINER finish of
+, with !DETERMINER start of
+, you then
+. !DETERMINER !RANKNUMBER
+. !DETERMINER fifth
+. !DETERMINER final
+. !DETERMINER fourth
+. !RANKNUMBER
+. !RANKNUMBER :
+. !RANKNUMBER of all
+. !RANKNUMBER,
+. after !DETERMINER
+. after these
+. after this
+. and following
+. and following !DETERMINER
+. and following that
+. and following these
+. and following this
+. and following those
+. and later
+. another
+. as !DETERMINER introduction
+. before !DETERMINER
+. before these
+. before this
+. eighth
+. eighth,
+. fifth
+. fifth,
+. in !DETERMINER !RANKNUMBER place
+. next
+. one final
+. one last
+. seventh
+. seventh,
+. sixth
+. sixth,
+. then
+. to start with
+1)
+1.
+1:
+10)
+10.
+10:
+2)
+2.
+2:
+3)
+3.
+3:
+4)
+4.
+4:
+5)
+5.
+5:
+6)
+6.
+6:
+7)
+7.
+7:
+8)
+8.
+8:
+9)
+9.
+9:
+ab initio
+ab origine
+ab ovo
+accumulated over
+across all its phases
+addenda
+addendum
+addendums
+afresh
+after
+after-
+after-acquired
+after-born
+after-course
+after-described
+after-designed
+after-dinner
+after-game
+after-grass
+after-guard
+after-life
+after-mentioned
+after-named
+after-pain
+after-shave lotion
+after-specified
+after-stampable
+after-supper
+after-tax
+after-taxes
+after-theater
+after-theatre
+after-wit
+after-written
+after !DAY
+AFTER !DETERMINER
+after !DETERMINER !RANKNUMBER
+after !DETERMINER close on
+after !DETERMINER closing on
+after !DETERMINER creation
+after !DETERMINER fact
+after !DETERMINER Fall
+after !DETERMINER fashion
+AFTER !DETERMINER FEW DAYS
+after !DETERMINER few moments
+after !DETERMINER few seconds
+after !DETERMINER flood
+after !DETERMINER game
+after !DETERMINER glacial period
+AFTER !DETERMINER LONG TIME
+after !DETERMINER meal
+AFTER !DETERMINER MEETING
+after !DETERMINER moment
+AFTER !DETERMINER SHORT TIME
+after !DETERMINER time
+after !DETERMINER war
+after !DETERMINER while
+after !INDEFINITEADDRESSEE
+after !PRONOUNNOMINAL
+after !QUESTION
+AFTER !TWODIGITS !ONEDIGIT !TIMEFRAME
+after all
+after all is said and done
+after another
+after another try
+after another try or two
+after awhile
+AFTER BEING
+AFTER BREAKFAST
+after closes on
+after death
+AFTER DINNER
+AFTER FINISHING
+after Graduate school
+after having
+after he
+after I
+after injections
+after it
+after it happened
+after it happens
+after looking over
+AFTER LUNCH
+after one of !DETERMINER many times
+after operations
+after school
+after serving
+after she
+AFTER STARTING
+after that
+AFTER THAT !DETERMINER
+after that date
+after that time
+AFTER THAT YOU
+after they
+after this
+after this time
+after time
+after we pass
+after which
+after work
+afterlife
+afterlives
+aftermarket
+aftermarkets
+afterthought
+afterthoughts
+afterward
+afterwards
+AFTERWARDS, YOU
+agenda
+agendas
+agendum
+all its phases
+all over for
+all phases
+along !DETERMINER way
+alphabetical
+alphabetical order
+anaphase
+anaphases
+ancestral group before
+ancestral groups before
+and !DETERMINER rest of
+and following
+and following !DETERMINER
+and following that
+and following these
+and following this
+and following those
+and in turn
+and next
+AND NEXT !AUX
+and next we're going to
+and next we're gonna
+and next we are going to
+and start
+and started
+and starting
+and starts
+AND THEN
+AND THEN !AUX
+AND THEN IT HAPPENED
+AND THEN SOMETHING HAPPENED
+and then we're going to
+and then we're gonna
+and then we are going to
+anew
+anlage
+anlagen
+anlages
+another good point
+another good point !PRONOUNNOMINAL raised
+another good point about
+another point
+another point !PRONOUNNOMINAL raised
+another point about
+another step
+another tack
+ante
+ante meridiem
+ante mortem
+ante partum
+antecede
+anteceded
+antecedence
+antecedences
+antecedency
+antecedent
+antecedently
+antecedents
+antecedes
+anteceding
+antecessor
+antecessors
+antedate
+antedated
+antedates
+antedating
+antemundane
+antenatal
+antenatally
+antenuptial
+antenuptial contract
+antenuptial settlement
+antenuptials
+antepenult
+antepenultimate
+antepenultimates
+antepenults
+antetype
+antetypes
+anticlimactic
+anticlimactically
+anticlimax
+anticlimaxes
+aperture vignette
+aperture vignettes
+are !DETERMINER !RANKNUMBER step
+are !DETERMINER !RANKNUMBER steps
+are after
+are before
+as !DETERMINER introduction
+as !DETERMINER introduction to
+AT !DETERMINER BEGINNING
+AT !DETERMINER BEGINNING OF
+AT !DETERMINER BEGINNING OF !DETERMINER END
+at !DETERMINER creation of
+at !DETERMINER end
+at !DETERMINER end of
+at !DETERMINER end of !DETERMINER
+at !DETERMINER end of !DETERMINER day
+at !DETERMINER next
+at !DETERMINER outset
+at !DETERMINER point at which
+at !DETERMINER start
+at !DETERMINER start of
+at !DETERMINER tail end
+at !DETERMINER tail ends
+at !RANKNUMBER
+AT !RANKNUMBER BLUSH
+at !RANKNUMBER glance
+at next
+AT THIS POINT YOU
+AT THIS POINT, YOU
+atarts anew
+attack time
+back-to-back
+back to !DETERMINER drawing board
+back to back
+back to square one
+be after
+be after !DETERMINER
+be before
+BE DOING NEXT
+BE OVER.
+before
+before-created
+before-delivered
+before-tasted
+before-thought
+before-warned
+before !DAY
+before !DETERMINER !RANKNUMBER
+before !DETERMINER creation
+before !DETERMINER fact
+before !DETERMINER few moments
+before !DETERMINER few seconds
+before !DETERMINER meal
+before !DETERMINER moment
+before !INDEFINITEADDRESSEE
+before !INDEFINITEADDRESSEE can
+before !MONTH
+before all
+before everything
+BEFORE FINISHING
+before injections
+before it
+before it could
+before it could happen
+before it happened
+before it happens
+before long,
+before noon
+before one
+before operations
+before serving
+before she
+before she could
+BEFORE STARTING
+before that
+before they
+before they could
+before this
+beforehand,
+began
+began !DETERMINER campaign
+began !DETERMINER chain of events
+began !DETERMINER fund-raising
+began !DETERMINER number of
+began !DETERMINER sequence of events
+began !DETERMINER series of events
+began anew
+began as
+began as !DETERMINER
+BEGAN BY
+began in
+began in !DETERMINER
+began on
+began several
+began to
+BEGAN TO BE
+began to ebb
+BEGAN TO SEE !DETERMINER LIGHT
+BEGAN TO SEE !DETERMINER LIGHT AT !DETERMINER END OF !DETERMINER TUNNEL
+BEGAN TO SEE DAYLIGHT
+BEGAN TO SINK IN
+began various
+began with
+begin
+BEGIN !DETERMINER
+begin !DETERMINER campaign
+begin !DETERMINER chain of events
+begin !DETERMINER fund-raising
+begin !DETERMINER number of
+begin !DETERMINER sequence of events
+begin !DETERMINER series of events
+BEGIN !MOTIONPREP
+begin anew
+begin as
+begin as !DETERMINER
+begin by
+begin on
+begin several
+begin to
+BEGIN TO BE
+begin various
+begin with
+beginner
+beginner's
+beginners
+beginners'
+beginning
+beginning !DETERMINER campaign
+beginning !DETERMINER chain of events
+beginning !DETERMINER fund-raising
+beginning !DETERMINER number of
+beginning !DETERMINER sequence of events
+beginning !DETERMINER series of events
+BEGINNING !TIMEFRAME
+BEGINNING !TIMEFRAME of
+beginning and end
+beginning anew
+beginning as
+beginning as !DETERMINER
+BEGINNING IN
+BEGINNING IN !DETERMINER !TIMEOFDAY
+BEGINNING OF
+beginning of !DETERMINER journey
+beginning on
+beginning on !DETERMINER
+beginning several
+beginning to
+BEGINNING TO BE
+BEGINNING TODAY
+beginning various
+beginning with
+beginning, middle and end
+beginning, middle, and end
+beginning, middle, end
+beginnings
+beginnings on !DETERMINER
+begins
+begins !DETERMINER campaign
+begins !DETERMINER chain of events
+begins !DETERMINER fund-raising
+begins !DETERMINER number of
+begins !DETERMINER sequence of events
+begins !DETERMINER series of events
+begins anew
+begins as
+begins as !DETERMINER
+begins at
+begins on
+begins several
+BEGINS TO
+BEGINS TO BE
+begins various
+begins with
+being done
+being through with
+Bidding starts
+Bidding starts at
+birth of
+births of
+bit by bit
+Bit by bit,
+blastoff
+blastoffs
+boom-ended
+boom-ending
+born before !POSSESSIVEPRONOUN time
+born before your time
+breaking-in
+BRING !DETERMINER CURTAIN DOWN ON
+BRING DOWN !DETERMINER CURTAIN ON
+bring in motion
+BRING IT TO !DETERMINER CLOSE
+BRING TO !DETERMINER CLOSE
+BRINGING !DETERMINER CURTAIN DOWN ON
+BRINGING DOWN !DETERMINER CURTAIN
+BRINGING DOWN !DETERMINER CURTAIN ON
+bringing in motion
+BRINGING IT TO !DETERMINER CLOSE
+BRINGING TO !DETERMINER CLOSE
+BRINGS !DETERMINER CURTAIN DOWN ON
+BRINGS DOWN !DETERMINER CURTAIN
+BRINGS DOWN !DETERMINER CURTAIN ON
+brings in motion
+BRINGS IT TO !DETERMINER CLOSE
+BRINGS TO !DETERMINER CLOSE
+BROUGHT DOWN !DETERMINER CURTAIN
+brought in motion
+BROUGHT IT TO !DETERMINER CLOSE
+BROUGHT TO !DETERMINER CLOSE
+build-up
+build-up to
+buildup
+buildup to
+buildups to
+by turns
+cap !DETERMINER climax
+cap !DETERMINER evening
+cap it all off
+cap it all off with
+cap it off with
+cap off
+cap off !DETERMINER
+cap up
+capped !DETERMINER climax
+capped !DETERMINER evening
+CAPPED !DETERMINER LONG
+capped it all off
+capped it all off with
+capped it off with
+capped off
+capped up
+capping !DETERMINER climax
+CAPPING !DETERMINER DRAWN OUT
+capping !DETERMINER evening
+CAPPING !DETERMINER LONG
+CAPPING !DETERMINER PROTRACTED
+capping it all off
+capping it all off with
+capping it off with
+capping off
+capping off !DETERMINER
+capping up
+caps !DETERMINER climax
+caps !DETERMINER evening
+caps it all off
+caps it off with
+caps off
+caps off !DETERMINER
+caps up
+capstone
+capstone experience
+capstone experiences
+capstones
+case phrase
+catalyst
+catalysts
+cessation
+cessation of
+cessation of combat
+cessation of life
+checkout
+checkouts
+chronicle
+chronicles
+chrysalides
+chrysalis-stage
+chrysalis stage
+clean slate
+climactic ending
+climax
+climaxes
+climaxing
+close !DETERMINER bidding
+close !DETERMINER frontier
+close !DETERMINER passage
+close it up
+close to !DETERMINER end
+close up
+closed-book
+closed !DETERMINER bidding
+closed !DETERMINER frontier
+closed !DETERMINER passage
+closed book
+closed it up
+closed up
+closeout
+closeouts
+closes  it up
+closes !DETERMINER bidding
+closes !DETERMINER frontier
+closes !DETERMINER passage
+closes up
+closing
+closing-out
+closing !DETERMINER bidding
+closing !DETERMINER frontier
+closing !DETERMINER passage
+closing argument
+closing bell
+closing it up
+closing section
+closing sections
+closing statement
+closing time
+closing up
+closure
+closure on
+closure to
+closured
+closures
+closuring
+coda
+codas
+comes next
+COMMENCE
+commence at
+commence firing
+COMMENCE TO
+commenced at
+commenced firing
+COMMENCED TO
+commencement
+commencements
+commences
+commences at
+commences firing
+COMMENCES TO
+commencing
+commencing at
+commencing firing
+COMMENCING TO
+COMMENCING WITH
+complete
+COMPLETE !DETERMINER
+complete !POSSESSIVEPRONOUN
+completed finally
+completed finally !POSSESSIVEPRONOUN
+completed finally !PRONOUNOBJECTIVE
+completed to !DETERMINER end
+completes
+completes !POSSESSIVEPRONOUN
+completing
+COMPLETING !DETERMINER
+COMPLETING !POSSESSIVEPRONOUN
+completion
+completions
+completive
+conclude
+conclude with
+concluded
+concluded with
+concludes
+concludes with
+concluding
+concluding !TIMEFRAME
+concluding !TIMEFRAME of
+concluding line
+concluding with
+conclusion
+conclusions
+consecution
+consecutive
+consecutive interval
+consecutive intervals
+consecutively
+consecutiveness
+consummation
+consummations
+consummatory
+could tick-off all !DETERMINER
+countdown
+countdowns
+coup d'essai
+course of
+course toward
+culminate
+culminate in
+culminated from
+CULMINATED IN
+culminates
+culminates in
+culminating
+culminating in
+culmination
+culmination in
+cumulated over
+cumulates
+cumulating
+cumulative
+cumulatively
+curtain-fall
+curtain-falls
+curtain-raiser
+curtain-raisers
+curtain-raising
+curtain fall
+curtain falls
+da capo
+da capos
+dawn of
+dawned
+dawning
+dawning of
+day-by-day
+day to day
+de novo
+decide in advance
+decided in advance
+decides in advance
+deciding in advance
+deliberate stages
+denouement
+denouements
+design phase
+detonate
+detonates
+detonating
+diakinesis
+diakinetic
+diestrous
+diestrus
+different tack
+different tacks
+DOING NEXT
+done in
+done in steps
+done with
+double-phase
+down !DETERMINER line
+down to !DETERMINER last
+downtrend followed by
+downtrends followed by
+draft after draft
+dry-cycle
+dry-cycles
+dry cycle
+dry cycles
+each in its turn
+earlier occurrence
+earlier occurrences
+earlier stage
+earlier stages
+earlier version
+earlier versions
+early !RANKNUMBER
+early !TIMEFRAME
+early chapter
+early chapters
+early draft
+early drafts
+early in !DETERMINER
+early indication
+early indications
+early into
+early on in
+early stage
+early stages
+early symptom
+early time
+early times
+early warning
+ease in
+ease out
+eased in
+eased out
+eases in
+eases out
+easing in
+easing out
+eight straight
+eighth-time
+eighth off,
+eighth straight
+eighth you
+eighth,
+eighth, you
+eightly
+eleven straight
+embark in
+embark into
+embark on
+embark on !DETERMINER new
+embark upon
+embarkation
+embarkation of
+embarkations of
+embarked in
+embarked into
+embarked on
+embarked on !DETERMINER new
+embarked upon
+embarking in
+embarking into
+embarking on
+embarking on !DETERMINER new
+embarking upon
+embarks in
+embarks into
+embarks on
+embarks on !DETERMINER new
+embarks upon
+end
+end-of-day
+end-of-month
+end !DETERMINER life of
+end in !DETERMINER
+end of !DETERMINER earth
+end of !DETERMINER journey
+end of !DETERMINER line
+end of burning
+end of debate
+end of life
+end of steel
+end off
+end on
+end point
+end points
+end product
+end products
+end result
+end results
+end up
+end up at
+end up in smoke
+end use
+end with
+end your days
+end your life with
+ENDED BY
+ended in !DETERMINER
+ended off
+ended on
+ended up at
+ended with
+ended with !DETERMINER
+ENDGAME
+endgames
+ending
+ending !TIMEFRAME
+ending !TIMEFRAME of
+ending in !DETERMINER
+ending off
+ending on
+ending up at
+ending with
+ending with !DETERMINER
+endings
+endpoint
+endpoints
+ends
+ends in !DETERMINER
+ends off
+ends on
+ends up at
+ends with
+ends with !DETERMINER
+enroll in
+enrolled in
+enrolling in
+enrolls in
+ensue
+ensue from
+ensued from
+ensued from !DETERMINER
+ensued from !POSSESSIVEPRONOUN
+ensues
+ensues from
+ensuing
+ensuing from
+epilog
+epilogs
+epilogue
+epilogues
+et seq
+et seq.
+et seqq
+et sequens
+et sequentia
+et sic de similibus
+et sqq
+events following
+events happened
+events occurred
+events preceding
+exordia
+exordium
+exordiums
+far on
+FARTHER INTO !DETERMINER
+FARTHER INTO !DETERMINER PROCESS
+FIFTH
+fifth-column activities
+fifth-column activity
+fifth-dimension
+fifth-order
+fifth-time
+fifth column
+fifth columns
+fifth monarchies
+fifth monarchy
+fifth of all
+fifth of all,
+fifth off
+fifth off,
+FIFTH POINT
+fifth position
+fifth positions
+fifth straight
+fifth venereal disease
+fifth venereal diseases
+fifth you
+FIFTH,
+fifth, you
+fifth.
+FIFTHLY
+FIFTHLY,
+fifths
+fiftly
+fin.
+final
+final !TIMEFRAME
+final !TIMEFRAME of
+final coat
+final coats
+final draft
+final drafts
+final examination
+final examinations
+final letter
+final letters
+final lot
+final lots
+FINAL MOVE
+final notice
+final notices
+final offer
+final offers
+FINAL OUTCOME OF
+final phase
+final phases
+FINAL POINT
+final proposal
+final proposals
+final reason
+final report
+final result
+final results
+final round
+final rounds
+final solution
+final solutions
+final stage
+final stages
+final step
+final steps
+final stretch
+final stroke
+final strokes
+final summons
+final touch
+final touchs
+final twitch
+final twitchs
+final whistle
+final whistles
+finale
+finales
+FINALLY TO CLOSE
+FINALLY TO CONCLUDE
+FINALLY,
+finally, you
+finals
+finis
+finish
+FINISH !DETERMINER
+FINISH !MOTIONPREP
+finish college
+finish in front
+FINISH OFF
+finish off !DETERMINER
+finish school
+finish up
+FINISH UP WITH
+finished college
+finished from
+finished in front
+FINISHED OFF
+finished off !DETERMINER
+finished school
+finished up
+FINISHED UP WITH
+finished version
+finisher
+finishers
+finishes
+finishes in front
+finishes off
+finishes off !DETERMINER
+finishes school
+finishes up
+FINISHES UP WITH
+finishing
+finishing change
+finishing changes
+finishing college
+finishing in front
+FINISHING OFF
+finishing off !DETERMINER
+FINISHING ON
+finishing stroke
+finishing strokes
+finishing tap
+finishing taps
+finishing touch
+finishing touches
+finishing up
+FINISHING UP WITH
+finishing versions
+fire up
+fired up
+fires up
+firing up
+first-begot
+first-begotten
+first-born
+first-bred
+first-built
+first-chop
+first-conceived
+first-created
+first-cut
+first-cuts
+first-day
+first-day cover
+first-done
+first-endeavoring
+first-expressed
+first-famed
+first-foot
+first-footer
+first-formed
+first-found
+first-framed
+first-fruit
+first-gendered
+first-generation
+first-gotten
+first-grown
+first-growth
+first-in
+first-in first-out
+first-invented
+first-known
+first-line
+first-loved
+first-made
+first-mentioned
+first-mining
+first-mortgage
+first-night
+first-nighter
+first-order reaction
+first-out
+first-page
+first-past-the-post
+first-preferred
+first-quarter
+first-reading
+first-ripe
+first-run
+first-seen
+first-song
+first-strike
+first-subject
+first-time
+first-told
+first-written
+first as a
+firstborn
+firstling
+firstlings
+firstly
+five-act
+five-course
+five straight
+flow of time
+flow of words
+flying starts
+foll.
+follow-on
+follow-ons
+follow-up
+follow-up action
+follow-up actions
+follow-up course of action
+follow-up to
+follow-ups
+follow after
+follow right after
+follow something
+followed after
+followed by
+followed by !DETERMINER
+followed by lengthy
+followed right after
+followed something
+followed up on
+following !DETERMINER
+following !DETERMINER series
+following !DETERMINER series of
+following after
+following afterward
+following afterwards
+following in !DETERMINER footsteps of
+following right after
+following something
+FOLLOWING THAT !DETERMINER
+FOLLOWING THAT YOU
+following this
+following this !PAPER
+follows after
+follows right after
+follows something
+follows.
+FOR !DETERMINER !RANKNUMBER STEP
+FOR !DETERMINER !RANKNUMBER TIME IN !NUMS1TO100 TRIES
+for !DETERMINER appetizer
+for !DETERMINER appetizers
+for !DETERMINER dessert
+for !DETERMINER main course
+for !DETERMINER main courses
+for !DETERMINER sum total
+for another thing
+for appetizers
+for dessert
+for desserts
+for next
+for starters
+for sum totals
+fore
+fore-adapt
+fore-age
+fore-alleged
+fore-and-after
+fore-appoint
+fore-being
+fore-check
+fore-cited
+fore-court
+fore-dated
+fore-end
+fore-exercise
+fore-game
+fore-judge
+fore-lie
+fore-mean
+fore-mention
+fore-notice
+fore-oath
+fore-ordain
+fore-ordained
+fore-ordaining
+fore-ordains
+fore-part
+fore-piece
+fore-possess
+fore-purpose
+fore-quote
+fore-read
+fore-recited
+fore-say
+fore-vouched
+fore-wit
+fore end
+fore ends
+fore reading
+fore readings
+foredate
+foredated
+foredates
+foredating
+foreknew
+foreknow
+foreknowing
+foreknowledge
+foreknown
+foreknows
+foreordain
+foreordained
+foreordaining
+foreordainment
+foreordains
+foreordination
+foreordinations
+foreplay
+foreran
+forerun
+forerunner
+forerunner of
+forerunners
+forerunners of
+forerunning
+foreruns
+four-act
+four-course
+four straight
+fourth
+fourth-born
+fourth-class
+fourth-dimension
+fourth-dimensional
+fourth-form
+fourth-hand
+fourth-order
+fourth-quarter
+fourth-rate
+fourth-rateness
+fourth-rater
+fourth-time
+fourth class
+fourth dimension
+fourth of all
+fourth of all,
+fourth of july
+fourth off
+fourth off,
+fourth part
+fourth person
+FOURTH POINT
+fourth position
+fourth stomach
+fourth straight
+fourth you
+FOURTH,
+fourth, you
+fourth.
+fourthly
+FOURTHLY,
+fourths
+from !DETERMINER !RANKNUMBER
+from !DETERMINER beginning
+from !DETERMINER beginning to !DETERMINER end
+from !DETERMINER beginning to !DETERMINER end of
+from !DETERMINER early age
+from !DETERMINER get-go
+from !DETERMINER get go
+from !DETERMINER git-go
+from !DETERMINER ground up
+from !DETERMINER inception of
+from !DETERMINER onset of
+FROM !DETERMINER OUTSET
+from !DETERMINER start
+FROM !DETERMINER TO B
+from !DETERMINER to izzard
+from !DETERMINER to Z
+from !DETERMINER very !RANKNUMBER
+from !DETERMINER very beginning
+from !DETERMINER very start
+from !DETERMINER womb to !DETERMINER tomb
+from age to age
+from beginning
+from beginning to end
+from beginnings
+from Dan to Beersheba
+from day one
+from early in life
+from first to last
+from hand to hand
+from long
+from long ago
+from note  to note
+from one note to another
+FROM POINT !DETERMINER TO POINT B
+FROM POINT TO POINT
+FROM START TO FINISH
+from starts
+FROM THIS POINT YOU
+FROM THIS POINT, YOU
+from this time forth
+from this time onward
+from wire to wire
+full-finished
+further discussion
+further discussions
+FURTHER INTO !DETERMINER
+FURTHER INTO !DETERMINER PROCESS
+gain by gain
+gather to !DETERMINER head
+gathered to !DETERMINER head
+gathering to !DETERMINER head
+gathers to !DETERMINER head
+geneses
+genesis
+get-go
+get !DETERMINER foot in !DETERMINER door
+get !DETERMINER toe in !DETERMINER door
+get go
+get in motion
+get revved up
+gets !DETERMINER foot in !DETERMINER door
+gets !DETERMINER toe in !DETERMINER door
+gets in motion
+gets revved up
+getting !DETERMINER toe in !DETERMINER door
+getting in motion
+getting revved up
+git-go
+git go
+glide from tone to tone
+glided from tone to tone
+glides from tone to tone
+gliding from tone to tone
+gliding shift
+gliding shift between musical notes
+gliding shifts
+gliding shifts between musical notes
+going before
+got !DETERMINER foot in !DETERMINER door
+got !DETERMINER toe in !DETERMINER door
+got in motion
+got revved up
+GOT STARTED
+GOT UNDERWAY
+grand final
+grand finale
+grand finales
+grand finals
+grand opening
+grand openings
+grew to !DETERMINER head
+grow to !DETERMINER head
+growing to !DETERMINER head
+grows to !DETERMINER head
+half-begun
+half-finished
+half-undone
+handsel
+handseled
+handseling
+handsell
+handselled
+handselling
+handsells
+handsels
+hansel
+hanseled
+hanseling
+hansell
+hanselled
+hanselling
+hansells
+hansels
+happen after
+happen before
+happened after
+happened before
+happening after
+happening before
+happens after
+happens before
+has !DETERMINER try at
+have !DETERMINER try at
+having !DETERMINER try at
+he then
+held !PRONOUNOBJECTIVE back from looking
+held myself back from looking
+hereon
+hold !PRONOUNOBJECTIVE back from looking
+hold myself back from looking
+holding !PRONOUNOBJECTIVE back from looking
+holding myself back from looking
+holds !PRONOUNOBJECTIVE back from looking
+holds myself back from looking
+home stretch
+home stretches
+homestretch
+homestretches
+honor before
+housing start
+housing starts
+I then
+immediately after
+immediately before
+immediately follow
+immediately followed
+immediately followed by
+immediately following
+immediately follows
+imprimis
+IN !DETERMINER !RANKNUMBER PLACE
+in !DETERMINER !RANKNUMBER place,
+in !DETERMINER beginning
+in !DETERMINER can.
+in !DETERMINER course of business
+in !DETERMINER course of things
+in !DETERMINER final
+in !DETERMINER home stretch
+in !DETERMINER interim phase
+in !DETERMINER later year
+in !DETERMINER middle
+IN !DETERMINER MIDDLE OF
+in !DETERMINER order
+in !DETERMINER order of
+in !DETERMINER phase
+in !DETERMINER regular order
+in !DETERMINER row
+in !DETERMINER sequel
+in !DETERMINER sequels
+in !DETERMINER series
+IN !DETERMINER WAKE OF
+IN !HEADDET END
+in advance
+in advance of
+in all its phases
+in all phases
+in all phases of
+in its infancy
+in its phases
+in leading strings
+in lock-step
+in mid
+in mid-progress
+in motion
+in order of
+in phase
+in phases
+in progress
+in RANKNUMBER gear
+in sequence
+in series
+in steps
+in succession
+in train
+in turn
+in turns
+in which events occurred
+in which these events happened
+incept
+incepted from
+incepting
+inception
+inceptions
+inceptive
+inceptively
+inceptor
+inceptors
+incepts
+inchoate
+inchoately
+inchoateness
+inchoation
+inchoations
+inchoative
+incipience
+incipiency
+incipient
+incipiently
+incunabula
+incunabulum
+infinitum
+ingressive
+init.
+initial
+initial phase
+initial phases
+initial rhyme
+initial rhymes
+initial stabilities
+initial stability
+initialization
+initializations
+initialize
+initialized
+initializes
+initializing
+initially
+initiate
+INITIATED FOR !DETERMINER !RANKNUMBER TIME
+initiated from !DETERMINER
+initiates
+initiating
+initiation
+initiations
+initiatively
+initiator
+initiators
+initiatory
+intermediate studies
+intermediate study
+into relatively simple steps
+into simple steps
+into steps
+intro
+intro.
+introduce in
+introduce into
+introduce new blood
+introduced in
+introduced into
+introduced new blood
+introduces in
+introduces into
+introduces new blood
+introducing in
+introducing new blood
+introducng into
+introduction
+introduction to
+introductions
+introductorily
+introductory
+introductory phrase
+introductory phrases
+introductory studies
+introductory study
+intros
+is !DETERMINER !RANKNUMBER
+is !DETERMINER !RANKNUMBER step
+is after
+is before
+is set in motion
+isagoge
+isagoges
+isagogic
+isagogical
+isagogics
+it's !DETERMINER end
+it's !DETERMINER final
+it's !DETERMINER middle
+it's all over.
+it's beginning
+it's starting
+it !AUX !DETERMINER beginning of !DETERMINER
+it !AUX !DETERMINER conclusion of !DETERMINER
+it !AUX !DETERMINER end of !DETERMINER
+it !AUX !DETERMINER middle of !DETERMINER
+it !RANKNUMBER
+it all began
+it all ended
+it all started
+it all stopped
+it begins with
+it is !DETERMINER start of !DETERMINER
+it is beginning
+it is starting
+it started off
+it starts off
+it then
+its phases
+journey's end
+journey's start
+journey?s end
+judge beforehand
+judged beforehand
+judges beforehand
+judging beforehand
+jump-start
+jump-started
+jump-starting
+jump-starts
+jumpstart
+jumpstarted
+jumpstarting
+jumpstarts
+JUST BEFORE
+JUST PREVIOUS TO
+JUST PREVIOUS TO !DETERMINER
+JUST PRIOR TO
+JUST PRIOR TO !DETERMINER
+key-move
+key-moves
+key move
+key moves
+kick-in
+kick-off
+kick-on
+kick-over
+kick-start
+kick-started
+kick-starting
+kick-starts
+kick in
+kick off
+kick on
+kick start
+kick started
+kick starting
+kick starts
+kicked-in
+kicked-off
+kicked-on
+kicked-over
+kicked in
+kicked off
+kicked on
+kicking-in
+kicking-off
+kicking-on
+kicking-over
+kicking in
+kicking off
+kicking on
+kickoff
+kickoffs
+kicks-in
+kicks-off
+kicks-on
+kicks-over
+kicks in
+kicks off
+kicks on
+land with
+landed with
+landing with
+lands with
+LAST
+LAST BUT NOT LEAST
+last phase
+last phases
+last sale
+last sales
+last segment
+last segments
+last stand
+last stand of
+last stands
+last stands of
+last stretch
+last, you
+LASTLY
+lastly, you
+late !RANKNUMBER
+late !TIMEFRAME
+late arrival
+late arrivals
+late blight
+late blights
+late bloomer
+late bloomers
+late developer
+late developers
+late draft
+late drafts
+late in !DETERMINER
+late into
+later draft
+later drafts
+LATER IN
+LATER IN !DETERMINER PROCESS
+later occurrence
+later occurrences
+later on in
+later stage
+later stages
+later verions
+later version
+latest-born
+latest born
+latter-day
+launch forth
+launch into
+launch into action
+launch of
+launch upon
+launched forth
+launched into
+launched into action
+launched upon
+launches forth
+launches into
+launches into action
+launches of
+launches upon
+launching forth
+launching into
+launching into action
+launching upon
+le premier pas
+lead to
+leading to
+leadoff
+leadoffs
+leads to
+led to
+light off
+lighted off
+lighting off
+lights off
+little-by-little
+little by little
+lock-step
+lock-step fashion
+lock-steps
+logical sequence
+logical sequences
+lull before !DETERMINER storm
+made !DETERMINER acquaintance
+maiden speech
+maiden speeches
+maiden state
+maiden states
+maiden trip
+maiden trips
+maiden voyages
+main course
+main courses
+make !DETERMINER acquaintance
+makes !DETERMINER acquaintance
+making !DETERMINER acquaintance
+march-of-events
+march-of-time
+march of events
+march of time
+menarche
+menarches
+metaphase
+metaphases
+mid-
+mid-act
+mid-April
+mid-August
+mid-career
+mid-century
+mid-course
+mid-December
+mid-dish
+mid-estral
+mid-February
+mid-forty
+mid-hour
+mid-January
+mid-July
+mid-June
+mid-lent
+mid-life
+mid-link
+mid-March
+mid-May
+mid-November
+mid-October
+mid-oestral
+mid-period
+mid-periods
+mid-refrain
+mid-scene
+mid-season
+mid-September
+mid-term
+mid-time
+mid-way
+mid-way through
+mid-week
+mid point of
+mid point of !DETERMINER
+mid way
+mid ways
+midafternoon
+midafternoons
+midcourse
+midday
+middle !TIMEFRAME
+middle !TIMEFRAME of
+middle and end
+middle child
+middle life
+middle of
+middle of !DETERMINER way through
+middle order
+middle orders
+middle phase
+middle phases
+middle sibling
+middle siblings
+middle way
+middle way through
+midevening
+midevenings
+midlife
+midlives
+midmonth
+midmorning
+midmornings
+midnight
+midnights
+midsummer
+midsummer day
+midsummer days
+midterm
+midterms
+midway
+midway through
+midweek
+midweekly
+midwinter
+midyear
+midyears
+molded draft after draft
+moon-culminating
+morning after
+mornings after
+move after move
+move for move
+move to !DETERMINER next question
+move to !DETERMINER previous question
+moved to !DETERMINER next question
+moved to !DETERMINER previous question
+moves for moves
+moves to !DETERMINER next question
+moves to !DETERMINER previous question
+moving to !DETERMINER next question
+moving to !DETERMINER previous question
+my conclusion
+my conclusion is
+my conclusion is that
+My time is up
+nascence
+nascent
+nascent condition
+nascent conditions
+nascent state
+nascent states
+natural succession
+natural successions
+new moon
+new moons
+NEXT
+next-in-line
+next-life
+next !AUX
+next !AUX !DETERMINER
+NEXT ARE !DETERMINER
+next course of action
+next crack
+next cracks
+next friend
+next friends
+next in line
+NEXT IS !DETERMINER
+next way
+next ways
+NEXT,
+NEXT, !DETERMINER
+next.
+nigh-spent
+nine straight
+ninth-time
+ninth straight
+ninth you
+ninth,
+ninth, you
+ninth.
+ninthly
+not least
+NOW !COME !DETERMINER
+NOW BY
+NOW PROCEED TO
+NOW YOU'RE READY TO
+NOW YOU ARE READY FOR
+NOW YOU ARE READY TO
+NOW YOU WANT TO
+NOW, YOU'RE READY FOR
+NOW, YOU'RE READY TO
+NOW, YOU ARE READY FOR
+NOW, YOU ARE READY TO
+number off
+numbered off
+numbering off
+numbers off
+occur after
+occur before
+occurred after
+occurred before
+occurring after
+occurring before
+occurs after
+occurs before
+of !DETERMINER second
+oldest sibling
+oldest siblings
+ON !DETERMINER !RANKNUMBER
+on !DETERMINER !RANKNUMBER leg
+on !DETERMINER !RANKNUMBER leg of
+on !DETERMINER final
+on !DETERMINER hitting streak
+on !DETERMINER last leg
+on !DETERMINER last leg of
+on !DETERMINER neck of
+ON !DETERMINER NEXT
+on !DETERMINER streak
+on !RANKNUMBER blush
+on !RANKNUMBER glance
+ON !RANKNUMBER SEEING
+on infinitum
+on next
+ONCE YOU'VE
+ONCE YOU'VE DONE
+ONCE YOU'VE DONE THIS
+ONCE YOU HAVE
+ONCE YOU HAVE FINISHED
+one-act
+one-by-one
+one-course
+one after !DETERMINER other
+one after another
+one final
+one last
+one of !DETERMINER !RANKNUMBER
+one of !DETERMINER last
+one step further
+one thing leading to another
+one thing leads to another
+ONE THING LED TO ANOTHER
+one thing to another
+onset
+onset of
+onsets
+onsets of
+onward
+onwards
+open !DETERMINER bidding
+open !DETERMINER conversation
+open !DETERMINER dialogue
+open !DETERMINER frontier
+open for discussion
+open to
+opened !DETERMINER bidding
+opened !DETERMINER conversation
+opened !DETERMINER dialogue
+opened !DETERMINER frontier
+opened to
+opener
+openers
+opening
+opening !DETERMINER bidding
+opening !DETERMINER conversation
+opening !DETERMINER dialogue
+opening !DETERMINER frontier
+opening act
+opening address
+opening bit
+opening bits
+opening ceremony
+opening conversation
+opening dialogue
+opening die
+opening dies
+opening event
+opening gun
+opening guns
+OPENING MOVE
+opening moves
+opening price
+opening prices
+opening scene
+opening section
+opening sections
+opening sequence
+opening sequences
+opening speech
+opening time
+opening times
+opening to
+opening up after
+opening up before
+opening ups
+openings
+opens !DETERMINER bidding
+opens !DETERMINER conversation
+opens !DETERMINER dialogue
+opens !DETERMINER frontier
+opens to
+order of !DETERMINER day
+order of battle
+order of being
+order of business
+order of magnitude
+order of nature
+order of succession
+order of worship
+ordered alphabetically
+ordered by
+ordered by zip code
+ordered from !DETERMINER
+ordered from !RANKNUMBER
+ore process
+origin
+origin from multiple sources
+origin of
+original condition
+original conditions
+original issue
+original issue price
+original issue prices
+original issues
+original jurisdiction
+original jurisdictions
+original title
+original titles
+originate in
+originated in
+originates in
+originating in
+origins of
+outset of
+outsets of
+over !DETERMINER long-range
+over !DETERMINER long term
+OVER !DETERMINER PERIOD OF TIME
+over !DETERMINER sequential course of time
+over !DETERMINER short term
+OVER DECADES
+overture
+overture and beginners
+overtures
+part-done
+part-opened
+part-way
+part-way through
+part way
+part way through
+partly through
+partway
+penult
+penultimate
+penults
+period after
+period before
+periods after
+periods before
+peroration
+perorations
+phase
+phase in
+phase out
+phased
+phased in
+phased out
+phased withdrawal
+phased withdrawals
+phases
+phases in
+phases out
+phasing
+phasing in
+phasing out
+phasis
+pick up !DETERMINER acquaintance with
+pick up information
+pick up speed
+picked up !DETERMINER acquaintance with
+picked up information
+picked up speed
+picking up !DETERMINER acquaintance with
+picking up information
+picking up speed
+picks up !DETERMINER acquaintance with
+picks up information
+picks up speed
+piece by piece
+plant !DETERMINER seed of
+plant !DETERMINER seeds of
+planted !DETERMINER seeds of
+planting !DETERMINER seed of
+planting !DETERMINER seeds of
+plants !DETERMINER seed of
+plants !DETERMINER seeds of
+plutonic
+POINT !DETERMINER TO POINT B
+POINT BY POINT
+POINT TO POINT
+polyclimax
+polyclimaxes
+portamenti
+portamento
+post-
+post-Adamic
+post-Advent
+post-Alexandrine
+post-Aristotelian
+post-audit
+post-Augustan
+post-Augustinian
+post-Aztec
+post-Babylonian
+post-bellum
+post-Biblical
+post-Caesarean
+post-Cambrian
+post-Carboniferous
+post-Carolingian
+post-Cartesian
+post-Cesarean
+post-chaise
+post-Chaucerian
+post-Christian
+post-Christmas
+post-classical
+post-Columbian
+post-communion
+post-Confucian
+post-Constantinian
+post-Copernican
+post-Crusade
+post-cyclic
+post-Darwinian
+post-date
+post-Davidic
+post-Devonian
+post-diluvial
+post-diluvian
+post-Diocletian
+post-Easter
+post-Elizabethan
+post-Eocene
+post-factum
+post-fine
+post-free
+post-Galilean
+post-glacial
+post-Gothic
+post-graduate
+post-haste
+post-Hittite
+post-Homeric
+post-Ibsen
+post-impressionism
+post-Impressionist
+post-impressionistic
+post-Johnsonian
+post-Jurassic
+post-Justinian
+post-Jutland
+post-juvenal
+post-Kansan
+post-kantian
+post-Leibnitzian
+post-Leibnizian
+post-Lent
+post-Linnean
+post-Marxian
+post-Mendelian
+post-menopausal
+post-Mesozoic
+post-Miocene
+post-Mishnaic
+post-Mishnic
+post-Mishnical
+post-mortem
+post-mortem clot
+post-mortem examination
+post-Mosaic
+post-Mycenean
+post-Napoleonic
+post-Newtonian
+post-Nicene Fathers
+post-oak grape
+post-obit
+post-obit bond
+post-obituary
+post-Oligocene
+post-ordinar
+post-Ordovician
+post-Paleozoic
+post-partum
+post-Pauline
+post-Pentecostal
+post-Permian
+post-Petrine
+post-Phidian
+post-Platonic
+post-Pleistocene
+post-Pliocene
+post-Pythagorean
+post-Reformation
+post-remogeniture
+post-Renaissance
+post-Restoration
+post-Revolutionary
+post-Roman
+post-Romantic
+post-Shakespearean
+post-Shakespearian
+post-Silurian
+post-Socratic
+post-Talmudic
+post-Talmudical
+post-tension
+post-tertiary
+post-Transcendental
+post-Triassic
+post-Tridentine
+post-Vedic
+post-Victorian
+post-Volstead
+post-World
+post-World War
+post-World War I
+post-World War II
+post obit
+post obitum
+postdiluvial
+postdiluvian
+posteriors
+postexilian
+postexilic
+postglacial
+posthumous
+posthumously
+postlude
+postludes
+postmortem
+postmortems
+postnatal
+postnuptial
+postoperative
+postoperatively
+postprandial
+postprandially
+postscript
+postscripts
+postseason
+posttest
+posttests
+postwar
+pouncet
+pre-
+pre-Achaean
+pre-adamite
+pre-Alfredian
+pre-American
+pre-Ammonite
+pre-Ammonitish
+pre-amp
+pre-Armistice
+pre-Arthurian
+pre-Aryan
+pre-Assyrian
+pre-audit
+pre-Augustan
+pre-Augustine
+pre-axial
+pre-Babylonian
+pre-Baconian
+pre-British
+pre-Buddhist
+pre-Byzantine
+pre-Cambrian
+pre-Cambridge
+pre-Canaanite
+pre-Canaanitic
+pre-Carboniferous
+pre-Carolingian
+pre-Catholic
+pre-Celtic
+pre-Centennial
+pre-Chaucerian
+pre-chellean
+pre-chill
+pre-chilled
+pre-chilling
+pre-chills
+pre-Chinese
+pre-christian
+pre-Christianic
+pre-Christmas
+pre-clean
+pre-cleaned
+pre-cleaning
+pre-cleans
+pre-college
+pre-Columbian
+pre-Columbian art
+pre-Congregationalist
+pre-Congress
+pre-Conquest
+pre-conquestal
+pre-contract
+pre-Copernican
+pre-Copernicanism
+pre-Crusade
+pre-Dantean
+pre-Darwinian
+pre-Darwinianism
+pre-Dickensian
+pre-distortion
+pre-Dorian
+pre-Doric
+pre-Dravidian
+pre-Dravidic
+pre-Dutch
+pre-earthly
+pre-earthquake
+pre-Easter
+pre-eclampsia
+pre-eclamptic
+pre-economic
+pre-economical
+pre-edit
+pre-edition
+pre-editor
+pre-editorial
+pre-editorially
+pre-educate
+pre-education
+pre-educational
+pre-educationally
+pre-effect
+pre-effective
+pre-effectively
+pre-effectual
+pre-efficiency
+pre-efficient
+pre-efficiently
+pre-effort
+pre-elect
+pre-election
+pre-elective
+pre-electric
+pre-electrical
+pre-electrically
+pre-elemental
+pre-elementary
+pre-eligibility
+pre-eligible
+pre-eliminate
+pre-elimination
+pre-eliminator
+pre-Elizabethan
+pre-emancipation
+pre-embarrass
+pre-embarrassment
+pre-embodiment
+pre-embody
+pre-emergency
+pre-emotion
+pre-emotional
+pre-emperor
+pre-Empire
+pre-employ
+pre-employee
+pre-employer
+pre-employment
+pre-enable
+pre-enact
+pre-enaction
+pre-enclose
+pre-enclosure
+pre-encounter
+pre-encourage
+pre-encouragement
+pre-endeavor
+pre-endorse
+pre-endorsement
+pre-endorser
+pre-energetic
+pre-energy
+pre-enforce
+pre-enforcement
+pre-engage
+pre-engagement
+pre-engineering
+pre-English
+pre-enjoy
+pre-enjoyable
+pre-enjoyment
+pre-enlarge
+pre-enlargement
+pre-enlighten
+pre-enlightener
+pre-enlightening
+pre-enlightenment
+pre-enlist
+pre-enlistment
+pre-enroll
+pre-enrollment
+pre-entail
+pre-entailment
+pre-enter
+pre-entertain
+pre-entertainer
+pre-entertainment
+pre-enthusiasm
+pre-enthusiastic
+pre-entitle
+pre-entrance
+pre-entry
+pre-enumerate
+pre-enumeration
+pre-envelop
+pre-envelopment
+pre-environmental
+pre-epic
+pre-epidemic
+pre-epochal
+pre-equalization
+pre-equip
+pre-equipment
+pre-equity
+pre-erect
+pre-erection
+pre-erupt
+pre-eruption
+pre-eruptive
+pre-escape
+pre-escort
+pre-esophageal
+pre-essay
+pre-essential
+pre-establish
+pre-established
+pre-establisher
+pre-establishment
+pre-esteem
+pre-estimate
+pre-estimation
+pre-estival
+pre-eter
+pre-eternal
+pre-evade
+pre-evaporate
+pre-evaporation
+pre-evaporator
+pre-evasion
+pre-evidence
+pre-evident
+pre-evidently
+pre-evite
+pre-evolutional
+pre-evolutionary
+pre-evolutionist
+pre-exact
+pre-exaction
+pre-examination
+pre-examine
+pre-examiner
+pre-excel
+pre-excellence
+pre-excellency
+pre-excellent
+pre-except
+pre-exception
+pre-exceptional
+pre-exceptionally
+pre-exchange
+pre-excitation
+pre-excite
+pre-excitement
+pre-exclude
+pre-exclusion
+pre-exclusive
+pre-exclusively
+pre-excursion
+pre-excuse
+pre-execute
+pre-execution
+pre-executor
+pre-exempt
+pre-exemption
+pre-exhaust
+pre-exhaustion
+pre-exhibit
+pre-exhibition
+pre-exhibitor
+pre-exile
+pre-exilian
+pre-exilic
+pre-exist
+pre-existence
+pre-existent
+pre-existentiary
+pre-existentism
+pre-expand
+pre-expansion
+pre-expect
+pre-expectant
+pre-expectation
+pre-expedition
+pre-expeditionary
+pre-expend
+pre-expenditure
+pre-expense
+pre-experience
+pre-experiment
+pre-experimental
+pre-expiration
+pre-explain
+pre-explanation
+pre-explanatory
+pre-explode
+pre-explosion
+pre-expose
+pre-exposition
+pre-exposure
+pre-expound
+pre-expounder
+pre-express
+pre-expression
+pre-expressive
+pre-extend
+pre-extensive
+pre-extensively
+pre-extent
+pre-extinction
+pre-extinguish
+pre-extinguishment
+pre-extract
+pre-extraction
+pre-fabulous
+pre-free-trade
+pre-French
+pre-Georgian
+pre-German
+pre-Germanic
+pre-glacial
+pre-Gothic
+pre-Greek
+pre-Han
+pre-Hebrew
+pre-Hellenic
+pre-Hieronymian
+pre-Hinduized
+pre-Hispanic
+pre-Homeric
+pre-hospital
+pre-ignition
+pre-Inca
+pre-Incan
+pre-Incarial
+pre-Indian
+pre-Irish
+pre-Islam
+pre-Islamic
+pre-Islamite
+pre-Islamitic
+pre-Israelite
+pre-Israelitish
+pre-Jewish
+pre-Johannine
+pre-Johnsonian
+pre-judicial
+pre-judiciary
+pre-Justinian
+pre-Kantian
+pre-Koranic
+pre-lapsarian
+pre-Latin
+pre-Laurentian
+pre-Linnaean
+pre-Linnean
+pre-Luciferian
+pre-Lutheran
+pre-Malay
+pre-Malayan
+pre-Malaysian
+pre-man
+pre-Marxian
+pre-Mendelian
+pre-Messianic
+pre-Methodist
+pre-Mohammedian
+pre-Mongolian
+pre-Mosaic
+pre-Moslem
+pre-Muslim
+pre-Mycenaean
+pre-Napoleonic
+pre-Newtonian
+pre-Noachian
+pre-Norman
+pre-Norse
+pre-operculum
+pre-option
+pre-orbital
+pre-ordain
+pre-ordinate
+pre-Osmanli
+pre-Palaeozoic
+pre-Paleozoic
+pre-Patrician
+pre-Pauline
+pre-Permian
+pre-Persian
+pre-Petrine
+pre-Pharaonic
+pre-Phidian
+pre-Polish
+pre-practice
+pre-preference
+pre-programmed
+pre-Pueblo
+pre-Puebloan
+pre-raphael
+pre-Raphaelism
+pre-raphaelite
+pre-Raphaelitic
+pre-Raphaelitish
+pre-raphaelitism
+pre-Reconstruction
+pre-Reformation
+pre-Renaissance
+pre-Restoration
+pre-Revolution
+pre-Roman
+pre-Sargonic
+pre-Saxon
+pre-seasonal
+pre-Semitic
+pre-senile
+pre-seniles
+pre-Shakepeare
+pre-Shakespeare
+pre-Shakespearean
+pre-Shakespearian
+pre-shrunk
+pre-Silurian
+pre-socratic
+pre-Solomonic
+pre-Solonian
+pre-Spanish
+pre-sternum
+pre-stressed
+pre-Sumerian
+pre-Syriac
+pre-Syrian
+pre-teens
+pre-Tertiary
+pre-Thanksgiving
+pre-Tridentine
+pre-Tudor
+pre-Victorian
+pre-Virgilian
+pre-Volstead
+pre-wedding
+pre-writing
+preaddressed
+preadmission
+preadolescence
+preadolescent
+preadolescents
+preamble
+preambles
+preamplifier
+preamplifiers
+preannounce
+preapprehension
+preapprehensions
+prearrange
+prearranged
+prearrangement
+prearrangements
+prearranges
+prearranging
+preauthorize
+preauthorized
+preauthorizes
+preauthorizing
+precambrian
+precancel
+precanceled
+precanceling
+precancels
+precast
+precasted
+precasting
+precasts
+precaution
+precautions
+precautious
+precede
+precede something
+preceded
+preceded something
+precedence
+precedent
+precedents
+precedes
+precedes something
+preceding
+preceding !DETERMINER
+preceding something
+prechill
+prechilled
+prechilling
+prechills
+precipitating
+precognition
+precognitions
+precognitive
+precognizant
+preconceive
+preconceived
+preconceives
+preconceiving
+preconcert
+preconcerted
+precondemn
+precondemned
+precondemning
+precondemns
+precondition
+preconditioned
+preconditioning
+preconditions
+preconscious
+precontrived
+precook
+precooked
+precooking
+precooks
+precool
+precooled
+precooling
+precools
+precords
+precritical
+precursor
+precursor to
+precursors
+precursory
+precut
+precuts
+predate
+predated
+predates
+predating
+predecease
+predeceased
+predeceases
+predeceasing
+predefine
+predefined
+predefines
+predefining
+predesignate
+predesignates
+predesignating
+predestinate
+predestinated
+predestinates
+predestinating
+PREDESTINATING TO
+PREDESTINATING TO BE
+PREDESTINATION
+PREDESTINATION TO
+PREDESTINATION TO BE
+predestine
+PREDESTINED
+PREDESTINED TO
+PREDESTINED TO BE
+predestines
+PREDESTINES TO
+PREDESTINES TO BE
+predestining
+predetermination
+predeterminations
+predetermine
+predetermined
+predetermines
+predetermining
+predevelopment
+predevelopments
+predigest
+predigesting
+predigestion
+predigestions
+predigestive
+predigestives
+predigests
+predispose
+predisposed
+predisposed to
+predisposes
+predisposing
+predisposition
+predispositions
+predrill
+predrilled
+predrilling
+predrills
+preengage
+preengaged
+preengages
+preengaging
+preestablish
+preestablished
+preestablishes
+preestablishing
+preexist
+preexisted
+preexistence
+preexistent
+preexisting
+preexists
+prefabricate
+prefabricated !DETERMINER
+prefabricates
+prefabricating
+prefabrication
+prefabrications
+prefabricator
+prefabricators
+preface
+preface to
+preface with
+prefaced
+prefaced with
+prefacer
+prefacers
+prefaces
+prefaces with
+prefacing
+prefacing with
+prefatory
+prefiguration
+prefigurations
+prefigure
+prefigured
+prefigures
+prefiguring
+prefixed
+prefixes before
+prefixing
+preflight
+preform
+preformatted
+preformed
+preforming
+preforms
+preglacial
+preglacials
+preheat
+preheated
+preheater
+preheaters
+preheating
+preheats
+prehistoric anthropologies
+prehistoric anthropology
+prehistoric archaeologies
+prehistoric archaeology
+prehuman
+prehumans
+preindicate
+preindicated
+preindicates
+preindicating
+preinduction
+preinstruct
+preinstructed
+preinstructing
+preinstructs
+prelapsarian
+prelapsarian state
+prelapsarian states
+prelapsarians
+prelim
+prelim.
+preliminaries
+preliminaries to
+preliminarily
+preliminary
+preliminary act
+preliminary acts
+preliminary approach
+preliminary approaches
+preliminary convention
+preliminary conventions
+preliminary examination
+preliminary examinations
+preliminary measure
+preliminary measures
+preliminary sign
+preliminary signal
+preliminary signals
+preliminary signs
+preliminary step
+preliminary steps
+preliminary studies
+preliminary study
+preliminary to
+prelims
+prelisted
+preliterate
+preliterates
+preloaded
+preloads
+prelude
+prelude to
+preludes
+prelusion
+prelusions
+prelusive
+prelusives
+premarital
+premarital relations
+premarital sex
+premarital sexes
+premature acceptation
+premature acceptations
+premature beat
+premature beats
+premature contraction
+premature contractions
+premed
+premedical
+premeditate
+premeditated
+premeditatedly
+premeditates
+premeditating
+premeditation
+premeditative
+premeditator
+premeditators
+premenopausal
+premenstrual
+premier
+premier performance
+premiere
+premiere of
+premiered
+premieres
+premieres of
+premiering
+premiers
+premise
+premises
+premising
+premix
+premixed
+premixes
+premixing
+premundane
+premundanity
+prenatal
+prenatals
+preoperative
+preoperatively
+preorder
+preordered
+preordering
+preorders
+preordination
+preordinations
+prep
+prep for
+prepackage
+prepackaged
+prepackages
+prepackaging
+prepaid for
+prepaid from
+preparatory act
+preparatory acts
+preparatory step
+preparatory steps
+preparatory studies
+preparatory study
+prepay
+prepay for
+prepaying
+prepaying for
+prepayment
+prepayment for
+prepayments
+prepayments for
+prepays
+prepense
+prepensely
+preplan
+preplanned
+preplanning
+preplans
+prepossess
+prepossessed
+prepossesses
+prepossessing
+prepossession
+prepossessions
+prepped
+prepped for
+prepping
+prepping for
+prepractice
+preprandial
+preprandials
+preprint
+preprinted
+preprinting
+preprints
+preproccess
+preprocess
+preprocessed
+preprocesses
+preprocessing
+preps
+preps for
+prepublication
+prepublications
+prequel
+prercords
+prerecord
+prerecorded
+prerecording
+prerecords
+prerelease
+prereleased
+prereleases
+prereleasing
+prerequisite
+prerequisite for
+prerequisite to
+prerequisites
+prerequisites for
+prerequisites to
+presale
+presales
+prescheduled
+prescreen
+prescreened
+prescreening
+prescreens
+prescript
+prescripts
+preseaonsal
+preseason
+preseasonal
+presenile
+preseniles
+preset
+presets
+presetting
+preshrink
+preshrinking
+preshrinks
+presignified
+presignifies
+presignify
+presignifying
+presoaked
+presoaking
+presoaks
+presort
+presorted
+presorting
+presorts
+pressure stage
+pressure stages
+prestressed
+pretest
+pretesting
+pretests
+pretreated
+pretreating
+pretreatment
+pretreatments
+pretrial
+pretrial hearing
+pretrial hearings
+pretrial motion
+pretrial motions
+pretypified
+pretypifies
+pretypify
+pretypifying
+prevenient
+preview
+previewed
+previewing
+previews
+previous question
+previous questions
+previous time
+previous times
+previous to
+PREVIOUS TO !DETERMINER
+previously to
+previse
+prevised
+previses
+prevising
+prevision
+previsional
+previsions
+prevocalic
+prevocational
+prewar
+prewedding
+prewriting
+prexisted
+prexisting !DETERMINER
+primogenial
+primogenials
+primordial
+primordials
+primordium
+proceed
+proceed from
+proceed to
+proceed with
+proceeded to
+proceeded with
+proceeding
+proceeding from
+proceeding to
+proceeding with
+proceeds
+proceeds from
+proceeds to
+proceeds with
+proceeed
+procession of
+processions of
+proem
+proems
+PROGRESS TOWARD
+prolegomena
+prolegomenon
+prologs
+prologue
+prologue to
+prologues
+prologues to
+prolusion
+prolusions
+prolusory
+proof-stage
+proof-stages
+proofing-stage
+proofing-stages
+proofing stage
+proofing stages
+prophase
+prophases
+pump-priming
+pump priming
+pump primings
+push-cycle
+push-cycles
+push-start
+push-started
+push-starting
+push-starts
+push cycle
+push cycles
+push start
+push starts
+rang down !DETERMINER curtain
+rang down !DETERMINER curtain on
+rang in
+rang up !DETERMINER curtain
+reached its height
+regard before
+regarded before
+regarding before
+regards before
+reinitialize
+reinitialized
+reinitializes
+reinitializing
+reinitiate
+reinitiated
+reinitiates
+reinitiating
+REPEAT STEP !NUMS1TO100
+REPEAT STEP !NUMS1TO100 UNTIL
+REPEAT STEPS
+REPEAT STEPS !NUMS1TO100 THROUGH !NUMS1TO100
+REPEAT STEPS !NUMS1TO100 TO !NUMS1TO100
+REPEAT UNTIL
+report stage
+report stages
+response
+responses
+rest !POSSESSIVEPRONOUN case
+rest from !POSSESSIVEPRONOUN labors
+rest from my labors
+rest from our labors
+rest from your labors
+rest my case
+rest our case
+rest your case
+restart
+restarted
+restarting
+restarts
+rested !POSSESSIVEPRONOUN case
+rested from !POSSESSIVEPRONOUN labors
+rested from my labors
+rested from our labors
+rested from your labors
+rested my case
+rested our case
+rested your case
+resting !POSSESSIVEPRONOUN case
+resting from !POSSESSIVEPRONOUN labors
+resting from my labors
+resting from our labors
+resting from your labors
+resting my case
+resting our case
+resting your case
+rests !POSSESSIVEPRONOUN case
+rests from !POSSESSIVEPRONOUN labors
+rests from my labors
+rests from our labors
+rests from your labors
+rests my case
+rests our case
+rests your case
+resultant
+resultant force
+resultant forces
+resultant tone
+resultant tones
+resultants
+return to !DETERMINER starting point
+returned to !DETERMINER starting point
+returning to !DETERMINER starting point
+returns to !DETERMINER starting point
+rev up
+reverse-phase
+reverse-phases
+reverse order
+reverse phase
+reverse phases
+revs up
+revved up
+revving up
+right down to !DETERMINER wire
+ring !DETERMINER curtain down
+RING !DETERMINER CURTAIN DOWN ON
+ring down !DETERMINER curtain
+ring down !DETERMINER curtain on
+ring in
+ring in !DETERMINER
+ring in !DETERMINER changes
+ring up !DETERMINER curtain
+ringed in !DETERMINER
+ringed in !DETERMINER changes
+RINGING !DETERMINER CURTAIN DOWN ON
+ringing down !DETERMINER curtain
+ringing down !DETERMINER curtain on
+ringing in
+ringing in !DETERMINER
+ringing in !DETERMINER changes
+ringing up !DETERMINER curtain
+rings !DETERMINER curtain down
+RINGS !DETERMINER CURTAIN DOWN ON
+rings down !DETERMINER curtain
+RINGS DOWN !DETERMINER CURTAIN ON
+rings in
+rings in !DETERMINER
+rings in !DETERMINER changes
+rings up !DETERMINER curtain
+ringsdown !DETERMINER curtain on
+rinse-cycle
+rinse-cycles
+rinse cycle
+rinse cycles
+rising action
+rising actions
+rising of !DETERMINER curtain
+rite de passage
+rite of passage to
+rollout
+rollouts
+rudiment
+rudiments
+running start
+running starts
+runout of
+runouts of
+runup to
+runups
+runups to
+sailing launch
+sailing launches
+salad course
+salad courses
+saw !DETERMINER beginning
+saw !DETERMINER end
+scenario
+scenarios
+season-opener
+season-openers
+season-opening
+season opening
+second-
+second-born
+second-curtain
+second-largest
+second-page
+second-quarter
+second-round
+second-time
+second-to-last
+second-year
+second  born
+second empire
+second empires
+second estate
+second estates
+second hand
+second philosophies
+second philosophy
+second prize
+second prizes
+second rank
+second ranks
+second stomach
+second stomachs
+second string
+second team
+second teams
+secondarily
+secondary shock
+secondary shocks
+secondly
+see !DETERMINER beginning
+see !DETERMINER end
+seeing !DETERMINER beginning
+seeing !DETERMINER end
+sees !DETERMINER beginning
+sees !DETERMINER end
+self-ignite
+self-ignited
+self-ignites
+self-igniting
+semi-final
+semi-finals
+semi-finished
+semifinal
+semifinals
+semifinished
+send after
+send before
+sending after
+sending before
+sends after
+sends before
+sent after
+sent before
+seq
+seqeuence
+seqq
+sequel
+sequels
+sequence
+sequence of ideas
+sequence of phonemes
+sequence of tenses
+sequence of thought
+sequenced as
+sequenced in
+sequencer
+sequencers
+sequences
+sequences of ideas
+sequences of phonemes
+sequences of tenses
+sequences of thought
+sequens
+sequent
+sequential
+sequitur
+sequiturs
+serial
+serialism
+serially
+serials
+seriatim
+series
+series of steps
+set-in-motion
+sets-in-motion
+sets-up !DETERMINER
+setsup !DETERMINER
+setting-in-motion
+setting-out
+setting-out to
+setting-up !DETERMINER
+setup
+setups
+seven-act
+seven-course
+seven straight
+seventh-time
+seventh off,
+seventh straight
+seventh you
+seventh,
+seventh, you
+seventh.
+sevently
+shadow stop
+shadow stops
+she then
+short step
+short step from
+short step to
+short steps
+short steps from
+short steps to
+show end
+show ends
+shut up shop
+shuts up shop
+shutting up shop
+sign-in
+sign-ins
+sign-off
+sign-offs
+sign-on
+sign-ons
+sign-out
+sign-outs
+sign in
+sign off
+sign on
+sign on as
+sign out
+sign up
+sign up for
+signed in
+signed off
+signed on
+signed on as
+signed out
+signed up for
+signed up to
+signing in
+signing off
+signing on
+signing on as
+signing out
+signing up for
+signing up to
+signoff
+signs-off
+signs in
+signs off
+signs on
+signs on as
+signs out
+signs up
+signs up for
+simple steps
+sine-qua-non
+sine qua non
+single-phase
+six-act
+six-course
+six-phase
+six-time
+six straight
+sixly
+sixth of all
+sixth of all,
+sixth off,
+SIXTH POINT
+sixth straight
+sixth you
+sixth,
+sixth, you
+sixth.
+SIXTHLY
+smoke stop
+smoke stops
+south-following
+south-preceding
+spadework
+spadework for
+spin-cycle
+spin-cycles
+spin cycle
+spin cycles
+spring into action
+springing into action
+springs into action
+sprung into action
+square-one
+square one
+staged acceleration
+staged accelerations
+staged withdrawal
+staged withdrawals
+stages
+stand-!RANKNUMBER
+stand !RANKNUMBER
+standing !RANKNUMBER
+stands !RANKNUMBER
+start
+start-music
+start-of-month
+start-off
+start-up with
+START !DETERMINER
+start !DETERMINER career
+start !DETERMINER family
+start !DETERMINER home
+start !DETERMINER job
+start !DETERMINER music
+START !DETERMINER NEW
+START !MOTIONPREP
+start afresh
+start anew
+start as
+Start at
+start college
+START DATE
+start from
+START IMMEDIATELY
+start in !DETERMINER
+start in on
+Start it
+start music
+START OF
+start off
+start out
+start over
+start over !DETERMINER
+start point
+start school
+start to
+start to burn
+start to do
+START TO LEARN
+START UP WITH
+start what
+start with
+START WITH !DETERMINER
+start with !DETERMINER clean slate
+started-up
+started as
+started from
+Started it
+started out
+started out of
+STARTED TO
+started to burn
+started to do
+started to ebb
+STARTED UP WITH
+started what
+started with
+started with !DETERMINER
+started with !DETERMINER clean slate
+starter
+starter-off
+starters
+STARTING
+starting-friction
+starting-hole
+starting-holes
+starting-stalls
+starting-up
+starting !DETERMINER career
+starting !DETERMINER family
+starting !DETERMINER home
+starting !DETERMINER job
+STARTING !DETERMINER NEW
+starting afresh
+STARTING AND STOPPING
+starting anew
+starting as
+Starting at
+starting block
+starting blocks
+starting box
+starting boxes
+starting college
+STARTING DATE
+starting friction
+starting from
+starting gate
+starting gates
+starting grid
+starting grids
+starting handle
+starting handles
+starting hole
+starting holes
+starting in !DETERMINER
+STARTING IN !DETERMINER !TIMEOFDAY
+starting in on
+Starting it
+starting line
+starting lines
+starting note
+starting notes
+starting off
+STARTING ON
+starting out
+starting over
+starting over !DETERMINER
+starting over this
+starting place
+starting places
+starting point
+starting points
+starting post
+starting posts
+starting price
+starting prices
+starting punch
+starting punches
+starting school
+starting stalls
+starting step
+starting steps
+starting to
+starting to burn
+starting to do
+STARTING TODAY
+starting torque
+starting torques
+STARTING UP WITH
+starting what
+starting with
+starting with !DETERMINER
+starting with !DETERMINER clean slate
+starts
+starts-up
+STARTS !DETERMINER
+starts !DETERMINER career
+starts !DETERMINER family
+starts !DETERMINER home
+starts !DETERMINER job
+STARTS !DETERMINER NEW
+starts afresh
+starts as
+Starts at
+starts college
+starts from
+starts in !DETERMINER
+starts in on
+Starts it
+starts off
+starts out
+starts over
+starts over !DETERMINER
+starts over this
+starts school
+STARTS TO
+starts to burn
+starts to do
+STARTS UP WITH
+starts what
+starts with
+starts with !DETERMINER
+starts with !DETERMINER clean slate
+statu quo ante
+status quo ante
+steady stream
+steady streams
+step
+step-and-repeat
+step-back
+step-by-step
+step-forward
+STEP !NUMS1TO100
+STEP BY STEP
+steps
+stood !RANKNUMBER
+striker-up
+subapostolic
+subsequence
+subsequences
+SUBSEQUENT
+subsequent !TIMEFRAME
+subsequent decade?s
+subsequent months
+subsequent quarters
+SUBSEQUENT TO
+SUBSEQUENTLY
+succession
+succession duties
+succession duty
+succession of
+succession of ideas
+succession of thought
+succession of time
+successions
+successions of
+successions of ideas
+successions of thought
+successions of time
+successive set
+successive sets
+sum-up
+sum total
+sum up !POSSESSIVEPRONOUN case
+sum up my case
+sum up our case
+sum up your case
+summed-up
+summed up !POSSESSIVEPRONOUN case
+summed up my case
+summed up our case
+summed up your case
+summing-up
+summing up !POSSESSIVEPRONOUN case
+summing up my case
+summing up our case
+summing up your case
+sums-up
+sums up !POSSESSIVEPRONOUN case
+sums up my case
+sums up our case
+sums up your case
+supercede
+superceded
+supercedes
+superceding
+supersede
+superseded
+supersedes
+superseding
+swan-song
+swan-songs
+swan song
+swan songs
+swearer-in
+swearers-in
+tail-end
+tail end of
+tail ends of
+tailender
+tailenders
+take !DETERMINER !RANKNUMBER crack at
+take !DETERMINER next crack at
+take !DETERMINER stab
+take !DETERMINER stab at
+take up
+take up !DETERMINER acquaintance
+taken in steps
+taken on
+taken up with
+takes !DETERMINER !RANKNUMBER crack at
+takes !DETERMINER next crack at
+takes !DETERMINER stab
+takes !DETERMINER stab at
+takes up
+takes up !DETERMINER acquaintance
+taking !DETERMINER !RANKNUMBER crack at
+taking !DETERMINER next crack at
+taking !DETERMINER stab
+taking !DETERMINER stab at
+taking up
+taking up !DETERMINER acquaintance
+technical-knockout
+technical-knockouts
+technical knockout
+technical knockouts
+telophase
+telophases
+ten straight
+tenth-time
+tenth straight
+tenth you
+tenth, you
+tenth.
+tenthly
+TERMINATE !DETERMINER
+TERMINATE !MOTIONPREP
+TERMINATING
+termini
+terminus
+terminus !DETERMINER quo
+terminus ad quem
+terminuses
+that'll be all
+that'll do it
+that's !DETERMINER wrap
+that's all
+that's it for
+that's it for now
+that follow
+the-end
+the first thing
+The last thing
+THEN !AUX
+then !GO on to
+then !VERBED
+then !VERBING
+THEN !VERBSTEM
+THEN !VERBSTEMS
+THEN BY
+then he
+then I
+then she
+then they
+then we
+then you
+then, you
+these events happened
+they then
+THINGS GOT STARTED
+THINGS GOT UNDERWAY
+THINGS STARTED AND
+think of it after
+think of it before
+think of it later
+thinking of it after
+thinking of it before
+thinking of it later
+thinks of it after
+thinks of it before
+thinks of it later
+third
+third parts
+third position
+third positions
+thirdly
+THIRDLY,
+THIS !AUX !DETERMINER BEGINNING
+THIS !AUX IS !DETERMINER END
+THIS STEP IS !QUESTION YOU
+THIS STEP IS WHERE YOU
+thought of it after
+thought of it before
+thought of it later
+three-act
+three-course
+three-three
+three course
+three courses
+three straight
+through !DETERMINER series
+through !DETERMINER series of steps
+throw-off
+throw-offs
+THUS FAR INTO
+ticked off !DETERMINER
+ticked off !POSSESSIVEPRONOUN
+ticked off our
+tidy step
+tidy steps
+Time is up
+Time to shut up
+to !DETERMINER conclusion
+to !DETERMINER draw
+to !DETERMINER end
+to !DETERMINER end that
+to !DETERMINER finish
+to !DETERMINER home stretch
+to !DETERMINER stale-mate
+to !DETERMINER stalemate
+to !DETERMINER start
+to !DETERMINER stop
+to !DETERMINER tie
+to !RANKNUMBER
+to begin with
+to completion
+to stale-mate
+to stalemate
+to start !DETERMINER
+to start !POSSESSIVEPRONOUN
+to start our
+to start with,
+toe-in-!DETERMINER-door
+toe in !DETERMINER door
+tone to tone
+took !DETERMINER !RANKNUMBER crack at
+took !DETERMINER next crack at
+took !DETERMINER stab
+took !DETERMINER stab at
+took up
+took up !DETERMINER acquaintance
+top off !POSSESSIVEPRONOUN
+top off my
+top off our
+top off your
+top out !POSSESSIVEPRONOUN
+top out my
+top out our
+top out your
+topped off !POSSESSIVEPRONOUN
+topped off my
+topped off our
+topped off your
+topped out !POSSESSIVEPRONOUN
+topped out my
+topped out our
+topped out your
+topping-out course
+topping-out courses
+topping off !POSSESSIVEPRONOUN
+topping off my
+topping off our
+topping off your
+topping out !POSSESSIVEPRONOUN
+topping out my
+topping out our
+topping out your
+tops off !POSSESSIVEPRONOUN
+tops off my
+tops off our
+tops off your
+tops out !POSSESSIVEPRONOUN
+tops out my
+tops out our
+tops out your
+toss !POSSESSIVEPRONOUN hat into
+toss my hat into
+toss our hat into
+tossed !POSSESSIVEPRONOUN hat into
+tossed my hat into
+tossed our hat into
+tosses !POSSESSIVEPRONOUN hat into
+tosses my hat into
+tosses our hat into
+tossing !POSSESSIVEPRONOUN hat into
+tossing my hat into
+tossing our hat into
+toward !DETERMINER end
+toward !DETERMINER end of
+transitional phase
+transitional phases
+two-act
+two-course
+two straight
+ultimately
+under way
+undertake !DETERMINER !RANKNUMBER
+undertake !DETERMINER next
+undertake operations
+undertakes !DETERMINER !RANKNUMBER
+undertakes !DETERMINER next
+undertakes operations
+undertaking !DETERMINER !RANKNUMBER
+undertaking !DETERMINER next
+undertaking operations
+undertook !DETERMINER !RANKNUMBER
+undertook !DETERMINER next
+undertook operations
+UPON !RANKNUMBER
+upped and started
+upping and starting
+ups and starts
+uptrend
+uptrend followed by
+uptrends
+uptrends followed by
+usher-in
+usher in
+usher into !DETERMINER world
+usher it in
+usher it out
+usher out
+ushered-in
+ushered in
+ushered into !DETERMINER world
+ushered it in
+ushered it out
+ushered out
+ushering-in
+ushering in
+ushering into !DETERMINER world
+ushering it in
+ushering it out
+ushering out
+ushers-in
+ushers in
+ushers into !DETERMINER world
+ushers it in
+ushers it out
+ushers out
+vau consecutive
+vau consecutives
+very !RANKNUMBER
+very beginning
+view in all its phases
+viewed in all its phases
+viewing in all its phases
+views in all its phases
+warm-up
+warm-up exercise
+warm-up exercises
+warm-up for
+warm-ups
+warm up for
+warmed-up
+warmed-up for
+warmed up for
+warming-up
+warming-up for
+warming up for
+warms-up
+warms-up for
+warms up for
+warmup
+warmups
+wash-cycle
+wash-cycles
+wash cycle
+wash cycles
+way in which events occurred
+ways in which events occurred
+we then
+what comes next
+what happened next
+what next
+WHAT YOU'LL BE DOING NEXT
+where after
+whereafter
+wide opening to
+wind-down
+wind down
+winded-down
+winded down
+winding-down
+winding down
+winds-down
+winds down
+with !DETERMINER beginning of
+with !DETERMINER clean slate
+with !DETERMINER end of
+with !DETERMINER events following
+with !DETERMINER events preceding
+with !DETERMINER finish of
+with !DETERMINER next step
+with !DETERMINER rise
+with !DETERMINER rise of
+with !DETERMINER start of
+with clean slates
+without further adieu
+work in progress
+works in progress
+wound-down
+wound down
+wrap-up
+wrap-ups
+wrap !DETERMINER film
+wrap at !DETERMINER end of !DETERMINER !TIMEFRAME
+wrap up
+wrap up with
+wrapped !DETERMINER film
+wrapped at !DETERMINER end of  !TIMEFRAME
+WRAPPED UP !DETERMINER film
+wrapped up !DETERMINER meeting
+wrapped up with
+wrapping !DETERMINER film
+wrapping at !DETERMINER end of  !TIMEFRAME
+wrapping up
+wrapping up with
+wraps !DETERMINER film
+wraps at !DETERMINER end of !TIMEFRAME
+WRAPS UP
+wraps up with
+year-end
+yearend
+yet another
+you'll next be
+you'll next be doing
+YOU ARE NOW READY TO
+YOU ARE THEN READY TO
+you then
+YOU WILL BEGIN
+youngest child
+youngest sibling
+youngest siblings

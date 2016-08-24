@@ -1,0 +1,969 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !YOU complaining
+!AUX !YOU complaining about
+!AUX !YOU just going to
+!AUX !YOU just going to sit
+!AUX !YOU just going to sit there
+!AUX !YOU just going to stand
+!AUX !YOU just going to stand there
+!AUX it credible to believe that !YOU
+!AUX it credible to think that !YOU
+!AUX it not reasonable to think that !YOU
+!AUX there some reason !YOU
+!AUX there some reason that !YOU
+!AUX these all !YOU !MODAL
+!AUX this !DETERMINER best !YOU !MODAL
+!AUX this !DETERMINER best !YOU !MODAL do
+!AUX this !DETERMINER most !YOU !MODAL
+!AUX this !QUESTION !YOU
+!AUX this all !YOU
+!BRING some of it on yourself
+!BRING some of it on yourselves
+!CALL !PRONOUNOBJECTIVE down for
+!CALL !PRONOUNOBJECTIVE down for misbehavior
+!CALL !PRONOUNOBJECTIVE on !DETERMINER carpet
+!CALL !PRONOUNOBJECTIVE out for
+!CALL !PRONOUNOBJECTIVE out on
+!CALL !PRONOUNOBJECTIVE stupid
+!CALL !YOU bluff
+!CALL !YOU down for
+!CALL !YOU on !DETERMINER carpet
+!CALL me down for
+!CALL me on !DETERMINER carpet
+!CALL me out for
+!CALL me out on
+!CALL me stupid
+!CALL on !DETERMINER carpet
+!CALL us down for
+!CALL us on !DETERMINER carpet
+!CALL us out for
+!CALL us out on
+!CALL us stupid
+!CATCH !YOU with !YOU pants down
+!CATCH in !YOU own trap
+!COST !YOU
+!DO all right by yourself
+!EAT !YOU heart out
+!EAT !YOU words
+!GET !YOU nose out of my business
+!GET even with !YOU
+!GET into !YOU thick head
+!GET into !YOU thick heads
+!GET through !YOU head
+!GET through !YOU thick head
+!GET through !YOU thick heads
+!GET what's coming to !YOU
+!GO head to head against
+!GO toe-to-toe against
+!GO toe to toe against
+!HAVE to hammer into !YOU head
+!HIT !YOU where !YOU live
+!KEEP !PRONOUNOBJECTIVE quiet
+!KNOCK !YOU brains out
+!KNOCK !YOU eyes out
+!KNOCK !YOU head against
+!KNOCK !YOU off !YOU perch
+!LET !DETERMINER buyer beware
+!LET me level with !YOU
+!LET me pin !YOU down
+!LET me try to get through to !YOU
+!LET me try to pin !YOU down
+!LET up on !PRONOUNOBJECTIVE !
+!LET up on me!
+!NEG up to !YOU high standards
+!NEG up to !YOU standard
+!NEGQUESTION !YOU
+!NEGQUESTION !YOU glad
+!NEGQUESTION !YOU surprised
+!PUT !DETERMINER bridle on !YOU tongue
+!PUT !DETERMINER question directly to !YOU
+!PUT !DETERMINER question to !YOU
+!PUT !YOU on notice
+!QUESTION !AUX !DETERMINER matter with !YOU
+!QUESTION !AUX !DETERMINER reason !YOU
+!QUESTION !AUX !DETERMINER reason that !YOU
+!QUESTION !AUX !YOU
+!QUESTION !AUX !YOU caught up in
+!QUESTION !AUX !YOU complaining about
+!QUESTION !AUX !YOU doing
+!QUESTION !AUX !YOU doing here
+!QUESTION !AUX !YOU doing that
+!QUESTION !AUX !YOU doing this
+!QUESTION !AUX !YOU driving at
+!QUESTION !AUX !YOU getting at
+!QUESTION !AUX !YOU going to start
+!QUESTION !AUX !YOU insinuating
+!QUESTION !AUX !YOU involved in
+!QUESTION !AUX !YOU saying
+!QUESTION !AUX !YOU thinking
+!QUESTION !AUX !YOU trying to do
+!QUESTION !AUX he doing here
+!QUESTION !AUX she doing here
+!QUESTION !AUX they doing here
+!QUESTION !DETERMINER hell !AUX !YOU
+!QUESTION !DETERMINER hell do !YOU
+!QUESTION !MODAL !YOU
+!QUESTION !MODAL !YOU be so
+!QUESTION !MODAL !YOU budge
+!QUESTION !MODAL !YOU expect
+!QUESTION !MODAL I get through to !YOU
+!QUESTION !MODAL possibly be causing
+!QUESTION !YOU had not
+!QUESTION !YOU have not
+!QUESTION !YOU will not
+!QUESTION !YOU would not
+!QUESTION aren't !YOU
+!QUESTION can't !YOU
+!QUESTION cannot !YOU
+!QUESTION come !YOU
+!QUESTION come !YOU !AUX not
+!QUESTION come !YOU cannot not
+!QUESTION come !YOU had not
+!QUESTION come !YOU have not
+!QUESTION come !YOU ought not
+!QUESTION come !YOU refuse
+!QUESTION come !YOU should not
+!QUESTION come !YOU were not
+!QUESTION come !YOU will not
+!QUESTION come !YOU would not
+!QUESTION could !YOU
+!QUESTION could !YOU be so
+!QUESTION could !YOU be so cruel
+!QUESTION could !YOU be so insensitive
+!QUESTION could !YOU do such !DETERMINER thing
+!QUESTION could !YOU do that
+!QUESTION could !YOU do this
+!QUESTION could !YOU have
+!QUESTION could !YOU not
+!QUESTION could !YOU possibly think
+!QUESTION couldn't !YOU
+!QUESTION dare !YOU
+!QUESTION dare !YOU complain
+!QUESTION dare !YOU do
+!QUESTION dare !YOU go
+!QUESTION dare !YOU insinuate
+!QUESTION dare !YOU say
+!QUESTION dare !YOU think
+!QUESTION dare !YOU try
+!QUESTION did !YOU
+!QUESTION did !YOU come to that conclusion
+!QUESTION did !YOU do
+!QUESTION did !YOU do this to me
+!QUESTION did !YOU do to
+!QUESTION did !YOU do to !PRONOUNOBJECTIVE
+!QUESTION did !YOU do to it
+!QUESTION did !YOU do to these people
+!QUESTION did !YOU do to yourself
+!QUESTION did !YOU expect
+!QUESTION did !YOU figure that
+!QUESTION didn't !YOU
+!QUESTION do !YOU expect me
+!QUESTION do !YOU expect me to
+!QUESTION do !YOU expect me to do
+!QUESTION do !YOU expect to
+!QUESTION do !YOU get !DETERMINER nerve to
+!QUESTION do !YOU not budge
+!QUESTION do !YOU refuse
+!QUESTION do !YOU think !YOU !AUX
+!QUESTION do !YOU think !YOU !AUX doing
+!QUESTION do !YOU think !YOU !AUX to
+!QUESTION do !YOU think !YOU !MODAL get away with
+!QUESTION do !YOU think !YOU doing
+!QUESTION do !YOU think !YOU kidding
+!QUESTION do !YOU think !YOU talking to
+!QUESTION do !YOU want me to say
+!QUESTION do I bother with !YOU
+!QUESTION do I even try
+!QUESTION do I knock myself out
+!QUESTION do I try
+!QUESTION does it have to do with
+!QUESTION else !MODAL !YOU have done
+!QUESTION else !MODAL !YOU have expected
+!QUESTION else can !YOU expect to do it
+!QUESTION else can !YOU expect to get it done
+!QUESTION else could !YOU expect
+!QUESTION else do !YOU expect
+!QUESTION else might !YOU expect
+!QUESTION else would !YOU expect
+!QUESTION for?
+!QUESTION gave !YOU !DETERMINER license
+!QUESTION gave !YOU !DETERMINER right
+!QUESTION gave !YOU license
+!QUESTION gives !YOU !DETERMINER right
+!QUESTION gives !YOU the blinkin right
+!QUESTION hadn't !YOU
+!QUESTION have !YOU done
+!QUESTION have !YOU done to
+!QUESTION haven't !YOU
+!QUESTION in !DETERMINER hell
+!QUESTION in !DETERMINER hell am I supposed to
+!QUESTION in !DETERMINER world !AUX !YOU
+!QUESTION in !DETERMINER world am I supposed to
+!QUESTION in creation !AUX !YOU
+!QUESTION in heaven's name am I supposed to
+!QUESTION made !YOU think
+!QUESTION makes !YOU come off
+!QUESTION makes !YOU think
+!QUESTION not !YOU
+!QUESTION on earth !AUX !YOU
+!QUESTION on earth !MODAL !YOU
+!QUESTION on earth do !YOU
+!QUESTION ought !YOU not
+!QUESTION oughtn't !YOU
+!QUESTION should !YOU not
+!QUESTION should I know
+!QUESTION shouldn't !YOU
+!QUESTION was !DETERMINER reason !YOU
+!QUESTION was !DETERMINER reason that !YOU
+!QUESTION was !YOU reasoning
+!QUESTION was I supposed to
+!QUESTION were !YOU thinking
+!QUESTION weren't !YOU
+!QUESTION will it take before !YOU do something about it
+!QUESTION won't !YOU
+!QUESTION won't !YOU budge
+!QUESTION would !YOU like it
+!QUESTION would !YOU like it if
+!QUESTION wouldn't !YOU
+!TELL !DETERMINER truth
+!TELL !DETERMINER truth now
+!TELL !YOU to !YOU face
+!TELL me !DETERMINER truth
+!TELL me to my face
+!TELL us to our face
+!TURN !YOU back on
+!TURN !YOU back upon
+!YOU !AUX behind
+!YOU !AUX crossing !DETERMINER line
+!YOU !AUX disturbed
+!YOU !AUX done in
+!YOU !AUX forbidden
+!YOU !AUX mistaken
+!YOU !AUX not allowed
+!YOU !AUX not permitted
+!YOU !AUX off !YOU guard
+!YOU !AUX on !YOU own
+!YOU !AUX prohibited
+!YOU !AUX strictly prohibited
+!YOU !AUX wrong
+!YOU !MODAL ask no questions
+!YOU !MODAL be pinned down
+!YOU !MODAL do it
+!YOU !MODAL get away with
+!YOU !MODAL suit yourself
+!YOU !MODAL tell !DETERMINER truth
+!YOU all wet
+!YOU ass
+!YOU backs !AUX up against !DETERMINER wall
+!YOU been blinkered
+!YOU been cheated
+!YOU been diddled
+!YOU been fooled
+!YOU been had
+!YOU been robbed
+!YOU been screwed
+!YOU better shape up
+!YOU better watch yourself
+!YOU bitterness
+!YOU blew it
+!YOU cad
+!YOU can't
+!YOU can justify to yourself
+!YOU can justify to yourselves
+!YOU can kiss my ass
+!YOU can kiss my butt
+!YOU cannot
+!YOU cannot do it
+!YOU cotton-picking hands
+!YOU could have done something about it
+!YOU crossed !DETERMINER line
+!YOU degraded yourself
+!YOU demotion
+!YOU demotion to
+!YOU do not want to
+!YOU don't have to be snippy about
+!YOU don't have to be snotty about
+!YOU don't like me
+!YOU don't want to
+!YOU downfall
+!YOU ego
+!YOU embarrassed yourself
+!YOU failed
+!YOU finished
+!YOU firing from
+!YOU first have to get it through !YOU head
+!YOU fucked up
+!YOU goose !AUX cooked
+!YOU got !YOU wires crossed
+!YOU gotta
+!YOU had !DETERMINER nerve
+!YOU had best
+!YOU had best get
+!YOU had best get that
+!YOU had best take
+!YOU had best take !YOU
+!YOU had better get
+!YOU had better get that
+!YOU had better get yourself
+!YOU had better not trespass
+!YOU had better take
+!YOU had better take !YOU
+!YOU have !YOU wires crossed
+!YOU have crossed !DETERMINER line
+!YOU have just got to
+!YOU have some nerve
+!YOU have to use
+!YOU high horse
+!YOU hobby horse
+!YOU humiliated yourself
+!YOU ingrate
+!YOU just !MODAL
+!YOU just don't get it
+!YOU just don't like me
+!YOU just got to
+!YOU just gotta
+!YOU last legs
+!YOU left it all for me
+!YOU left it all in my hands
+!YOU left me
+!YOU left me hanging
+!YOU lost
+!YOU made !DETERMINER mess
+!YOU miserable
+!YOU must be 18
+!YOU must be eighteen
+!YOU must be made to accept
+!YOU must be made to appreciate
+!YOU must be made to believe
+!YOU must be made to recognize
+!YOU must desist
+!YOU must desist from
+!YOU must listen to reason
+!YOU must made to understand
+!YOU mustn't
+!YOU mustn't stand
+!YOU narrowness
+!YOU need to be clear about !DETERMINER facts
+!YOU need to be taken out
+!YOU need to fess up
+!YOU need to get !DETERMINER facts straight
+!YOU need to leave well enough alone
+!YOU need to pay out
+!YOU need to pay up
+!YOU need to tell !DETERMINER truth
+!YOU offend me
+!YOU out to lunch
+!YOU prickliness
+!YOU rage
+!YOU rage at
+!YOU rages
+!YOU rages at
+!YOU really need to shape up
+!YOU ruined
+!YOU sabotaged
+!YOU scared !DETERMINER crap out of me
+!YOU scared !DETERMINER devil out of me
+!YOU scared !DETERMINER dickens out of me
+!YOU scared !DETERMINER hell out of me
+!YOU scared !DETERMINER pants off me
+!YOU scared !DETERMINER pants off of me
+!YOU scared me out of my wits
+!YOU screwed up
+!YOU shoould never have
+!YOU should be ashamed
+!YOU should be ashamed of yourself
+!YOU should have done something
+!YOU should live !DETERMINER life of
+!YOU should never
+!YOU should remember that
+!YOU shouldn't
+!YOU simply !MODAL do it
+!YOU sophistry
+!YOU supposed to
+!YOU tears
+!YOU thick head
+!YOU thick heads
+!YOU think !YOU so
+!YOU think !YOU so smart
+!YOU toad
+!YOU toads
+!YOU turned !YOU back on
+!YOU undoing
+!YOU ungrateful
+!YOU used her
+!YOU used him
+!YOU used them
+!YOU vanity
+!YOU wagon fixed
+!YOU way off
+!YOU were caught off !YOU guard
+!YOU were off !YOU guard
+!YOU were supposed to have
+!YOU will be punished
+!YOU will lose
+!YOU worm
+!YOU worst
+, mind !YOU,
+. !MODAL  !YOU
+. !MODAL !YOU
+. !MUSTSHOULD !YOU
+. !NEGQUESTION !YOU
+. !QUESTION !AUX !YOU waiting for
+. !QUESTION !AUX !YOU waiting for?
+. !QUESTION have !YOU
+. act !YOU age
+. bridle !YOU tongue
+. cease and desist
+. desist from
+. do !YOU damnest to
+. don't !YOU
+. don't ask me
+. don't even
+. don't even think
+. don't even try
+. don't get
+. don't get me started on
+. examine !YOU conscience
+. face it
+. get !DETERMINER fact straight
+. get !DETERMINER hell out
+. get !DETERMINER lead out
+. get !DETERMINER lead out of !YOU ass
+. GET !DETERMINER Life
+. get !DETERMINER picture?
+. get !DETERMINER show on !DETERMINER road
+. get !YOU facts straight
+. get down from !YOU
+. get down from !YOU high horse
+. get it out of !DETERMINER way
+. get it through !YOU head
+. get it through !YOU thick head
+. get it through !YOU thick heads
+. get me !DETERMINER
+. get me !YOU
+. get me out
+. get me up to speed
+. get moving
+. get off
+. get off !POSSESSIVEPRONOUN back
+. GET off !POSSESSIVEPRONOUN case
+. get off !YOU
+. get off !YOU ass
+. get off !YOU back
+. get off !YOU butt
+. get off !YOU high horse
+. get off !YOU hobby horse
+. get off it
+. get on !DETERMINER ball
+. get on out
+. get on out of here
+. GET On With It
+. get out
+. get out !DETERMINER
+. get out of
+. get out of !DETERMINER way
+. get out of !DETERMINER way of
+. get out of my business
+. get out of my way
+. get out of other people's business
+. get with it
+. get yourself !DETERMINER life
+. give it !DETERMINER rest
+. give it up
+. how dare !YOU
+. KEEP !YOU hands out of
+. KEEP !YOU nose out of
+. keep !YOU shirt on!
+. let go of me!
+. let me in on
+. mind !YOU own
+. please shut up
+. shut !YOU mouth
+. shut up
+. smarten up
+. take !DETERMINER hike
+. wipe !DETERMINER smile off !YOU face
+; !NEGQUESTION !YOU
+; face it
+act !YOU part
+act beneath yourself
+acted beneath yourself
+acting beneath yourself
+acts beneath yourself
+admit to yourself
+admit to yourselves
+admits to yourself
+admits to yourselves
+admitted to yourself
+admitted to yourselves
+admitting to yourself
+admitting to yourselves
+am I being asked to
+am I being expected to
+am I expected to
+am I to believe
+am I to understand
+any attempt to flood
+any of !YOU business
+anyone !QUESTION !AUX caught
+anyone !QUESTION !AUX discovered to be
+anyone !QUESTION !AUX found to be
+anyone !QUESTION clogs
+anyone !QUESTION dares
+anyone !QUESTION dares to
+anyone !QUESTION deliberately
+anyone !QUESTION deliberately tries
+anyone !QUESTION ever
+anyone !QUESTION floods
+anyone !QUESTION knowingly
+anyone !QUESTION knowingly tries
+anyone !QUESTION plots
+anyone !QUESTION tries to sabotage
+anyone !QUESTION violates
+anyone !QUESTION willingly
+anyone !QUESTION willingly tries
+anyone caught
+anyone caught to be
+anyone discovered
+anyone discovered to be
+anyone found to be
+anyone stupid enough
+at !YOU own risk
+beneath !YOU dignity
+beneath !YOU station
+beyond !YOU abilities
+beyond !YOU ability
+beyond !YOU bloody control
+beyond !YOU capabilities
+beyond !YOU capability
+beyond !YOU capacity
+beyond !YOU comprehension
+beyond !YOU depth
+beyond !YOU fondest dreams
+beyond !YOU grip
+beyond !YOU means
+beyond !YOU power
+beyond !YOU reach
+but !YOU in turn think
+but !YOU think
+but conversely !YOU think
+but in turn !YOU think
+butch it out
+butched it out
+butches it out
+butching it out
+can't !YOU
+can't !YOU find it
+can't !YOU see
+can't !YOU see that
+can't !YOU understand
+can't control !YOU
+can't let !YOU
+can't let !YOU do this
+can't let !YOU think
+can't pin !YOU down
+chink in !YOU armor
+chinks in !YOU armor
+come on and fess up
+comeon and fess up
+cook !YOU goose
+cooked !YOU goose
+cooking !YOU goose
+cooks !YOU goose
+could it not be
+damage !YOU good name
+damaged !YOU good name
+damages !YOU good name
+damaging !YOU good name
+dash !YOU brains out
+dash !YOU hope
+dash !YOU hopes
+dash to !YOU hopes
+dashed !YOU brains out
+dashed !YOU hope
+dashed !YOU hopes
+dashed to !YOU hopes
+dashes !YOU brains out
+dashes !YOU hope
+dashes !YOU hopes
+dashes to !YOU hopes
+dashing !YOU brains out
+dashing !YOU hope
+dashing !YOU hopes
+dashing to !YOU hopes
+debase yourself
+debased yourself
+debases yourself
+debasing yourself
+deceive yourself
+deceived yourself
+deceives yourself
+deceiving yourself
+declare war against !YOU
+declared war against !YOU
+declares war against !YOU
+declaring war against !YOU
+did !YOU learn nothing from
+did !YOU not hear anything I said
+didn't !YOU
+do !YOU catch my drift
+Do !YOU get !DETERMINER picture
+do !YOU get my drift
+do !YOU want to make something of it
+do I make myself understood
+do not crowd !YOU luck
+do not fold, spindle, or mutilate
+do not tamper with
+do not touch
+don't !YOU dare
+don't !YOU dare lay !DETERMINER finger on
+don't !YOU dare set foot on
+don't be so cocksure
+don't crowd !YOU luck
+don't drive me to
+don't drive us to
+don't even think about
+don't even think it
+don't even try to
+don't force me to
+don't force us to
+don't go there
+don't lay !DETERMINER finger on
+don't leave me hanging
+don't make waves
+don't mince words
+don't push !YOU luck
+don't rock !DETERMINER boat
+end the relationship
+ended the relationship
+ending the relationship
+ends the relationship
+fish or cut bait
+go fuck yourself
+go shove it
+go soak !YOU head
+gone out of !YOU head
+good talking-to
+got what's coming to !YOU
+had !YOU acted like !DETERMINER decent
+had !YOU been !DETERMINER
+had !YOU been !DETERMINER different
+had !YOU been !DETERMINER nicer
+had !YOU been considerate enough
+had !YOU been decent
+had !YOU been kinder
+had !YOU been more considerate
+had !YOU been more sensitive
+had !YOU been nicer
+had !YOU consulted me first
+had !YOU done !DETERMINER better job
+had !YOU done it
+had !YOU done it sooner
+had !YOU let me know
+had !YOU managed
+had !YOU managed to
+had !YOU told me sooner
+had !YOU told me when !YOU should
+had !YOU treated !PRONOUNOBJECTIVE
+had !YOU treated !PRONOUNOBJECTIVE differently
+had !YOU treated me differently
+hammer into !YOU head
+have !YOU wagon fixed
+Have I gotten through to !YOU
+he's finished
+head-to-head
+head and front of !YOU offending
+head to head
+hear me out
+how can !YOU abandon
+how can !YOU close !YOU eyes
+how can !YOU dismiss
+how can !YOU ignore
+how can !YOU neglect
+how can !YOU shun
+how can !YOU stoop so low
+how can !YOU turn !YOU back on
+how could !YOU allow
+how could !YOU have
+how could !YOU let
+how could !YOU permit
+how dare !YOU
+I'll fix !YOU wagon
+I'll get even with !YOU
+I'll level with !YOU
+I'm gonna beat !YOU up
+I'm not one to mince words
+I challenge
+I challenge anyone
+I dare !YOU
+I do mind
+I have !DETERMINER bone to pick with !YOU
+I mind that !YOU
+I need to have !DETERMINER final word
+I need to have !DETERMINER floor
+I need to reprimand !YOU
+I need to scold !YOU
+I need to tell !YOU off
+I see why !YOU think that, but it's not right
+I see why !YOU think that, but it's wrong
+I take offense at !YOU
+I take umbrage at !YOU
+I tell !YOU, it's now or never
+I will beat !YOU up
+I won't mince words
+if !DETERMINER shoe fits
+if !DETERMINER shoe fits wear it
+if !YOU drive me to
+if !YOU drive us to
+if !YOU force me to
+if !YOU force us to
+in over !YOU head
+in over our head
+into !YOU thick head
+into !YOU thick heads
+it's beneath !YOU
+It's now or never for !YOU
+it's now up to !YOU
+it's now up to !YOU to
+it !AUX !YOU decision
+it !AUX !YOU headache
+it !AUX !YOU problem
+it !AUX !YOU responsibility
+it !AUX up to !YOU
+it !AUX up to !YOU to
+just !QUESTION do !YOU think
+just remember that
+just to make yourself feel important
+just whom do !YOU think
+kiss !YOU ass
+Kiss it goodbye!
+kiss my ass
+Knock it off!
+lack !DETERMINER courage of !YOU convictions
+lack !DETERMINER courage of !YOU own convictions
+lacked !DETERMINER courage of !YOU convictions
+lacked !DETERMINER courage of !YOU own convictions
+lacking !DETERMINER courage of !YOU convictions
+lacking !DETERMINER courage of !YOU own convictions
+lacks !DETERMINER courage of !YOU convictions
+lacks !DETERMINER courage of !YOU own convictions
+lay off me
+lay off us
+Let' get !DETERMINER show on !DETERMINER road
+Let's face it
+let's get it straight
+let's get something straight
+Level with me
+Level with me!
+like it or lump it
+listen to me
+look at me
+man, !YOU
+might it not be
+mind-your-own-business
+mind !YOU business
+mind !YOU manners
+mind !YOU own business
+must pluck !DETERMINER crow with !YOU
+nail !YOU down
+nailed !YOU down
+nailing !YOU down
+nails !YOU down
+need I remind !YOU
+need to confront !YOU
+need to have !DETERMINER word with !YOU
+need to pepper !YOU with
+need to pepper !YOU with tough questions
+no swimming allowed
+no trespassing
+not let !YOU live it down
+not let !YOU think !YOU can get away with this
+not up to !YOU high standards
+not up to !YOU standard
+now fess up
+on !YOU own to
+on !YOU own to foul up
+open !YOU mind
+open up !YOU mind
+or !YOU will be punished
+or else !YOU will be punished
+out of !YOU ass
+out of !YOU depth
+out of !YOU head
+out of !YOU league
+out of !YOU mind
+over my dead body !YOU
+pepper !YOU with
+pepper me with
+pepper us with
+peppered !YOU with
+peppered me with
+peppered us with
+peppering !YOU with
+peppering me with
+peppering us with
+peppers !YOU with
+peppers me with
+peppers us with
+permit parking only
+persons !QUESTION dare
+persons !QUESTION dare to
+persons !QUESTION even try
+pick up !DETERMINER gauntlet against !YOU
+picked up !DETERMINER gauntlet against !YOU
+picking up !DETERMINER gauntlet against !YOU
+picks up !DETERMINER gauntlet against !YOU
+play !YOU
+play !YOU for !DETERMINER sucker
+play !YOU off against
+play games with !YOU head
+play games with !YOU mind
+played !YOU
+played !YOU for !DETERMINER sucker
+played !YOU off against
+played games with !YOU head
+played games with !YOU mind
+playing !YOU
+playing !YOU for !DETERMINER sucker
+playing !YOU off against
+playing games with !YOU head
+playing games with !YOU mind
+plays !YOU
+plays !YOU for !DETERMINER sucker
+plays !YOU off against
+plays games with !YOU head
+plays games with !YOU mind
+please mind !YOU own business
+prepare yourself for
+prepare yourself for some tough questions
+remember this:
+remind yourself that
+reserved parking only
+right under !YOU nose
+rob !YOU of !YOU illusions
+robbed !YOU of !YOU illusions
+robbing !YOU of !YOU illusions
+robs !YOU of !YOU illusions
+save it!
+set !YOU straight
+sets !YOU straight
+setting !YOU straight
+Shake !DETERMINER lead out
+shame on
+shame on !YOU
+she's finished
+shut up!
+skirt !YOU responsibilities
+skirt !YOU responsibility
+skirted !YOU responsibilities
+skirted !YOU responsibility
+skirting !YOU responsibilities
+skirting !YOU responsibility
+skirts !YOU responsibilities
+skirts !YOU responsibility
+Smell the coffee
+so do not
+so don't
+so don't just
+so don't tell me
+so don't try to tell me
+so if !YOU
+so if anybody
+so if anyone
+so if anyone should
+so if anything
+so if anything happens
+sorry, but
+sorry, I !MODAL accept
+sorry, I won't accept
+stand up to !YOU
+standing up to !YOU
+stands up to !YOU
+stay out of my business
+stay out of other people's business
+stood up to !YOU
+stop !YOU from
+Stop killing time!
+stop talking
+stop talking so loud
+Stop wasting time!
+stopped !YOU from
+stopping !YOU from
+stops !YOU from
+suit yourself!
+take it back!
+take up !DETERMINER gauntlet against !YOU
+takes up !DETERMINER gauntlet against !YOU
+taking up !DETERMINER gauntlet against !YOU
+talking-to
+that's !QUESTION I've got to fault
+that's !YOU tough luck
+that's all for !YOU
+that's enough for !YOU
+that's what's wrong
+the nerve !YOU had
+they're finished
+think !YOU shit doesn't stink
+those !AUX fighting words
+to !YOU shame
+to !YOU shame be it spoken
+to keep !PRONOUNOBJECTIVE quiet
+told !YOU to !YOU face
+told us to our face
+toy with !YOU
+toyed with !YOU
+toying with !YOU
+toys with !YOU
+try and make me
+up to !YOU ears in debt
+up to !YOU elbows
+up to !YOU elbows in
+up to !YOU neck in
+up to !YOU to
+use !YOU head!
+use at !YOU own risk
+use some elbow grease
+Want to make something of it?
+was there some reason !YOU
+was there some reason that !YOU
+was this !DETERMINER best
+watch yourself
+way out of !YOU
+way out of !YOU depth
+way out of !YOU league
+way out of !YOU mind
+were !YOU in !YOU right mind
+what's !DETERMINER big idea
+what's !DETERMINER good of
+what's !DETERMINER matter with !YOU
+what's !DETERMINER point of
+what's keeping !YOU
+what's wrong with !YOU
+who do !YOU think !YOU !AUX
+why !AUX !YOU doing this
+will !YOU go on record
+will !YOU promise
+will !YOU swear
+will be denied access
+will get even with !YOU
+will result in !YOU being denied
+will result in expulsion
+will result in forfeiture
+will result in penalty
+will result in removal
+won't let !YOU think
+would !YOU lay down !YOU life
+wouldn't put it past !YOU
+you'll need to confront
+you'll need to face
+you're a bastard
+you're a dumbbell
+you're a dummy
+you're certifiable
+you're crazy
+you're demented
+you're deranged
+you're insane

@@ -1,0 +1,2601 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!ASSERT that !POSSESSIVEPRONOUN
+!ASSERT that on
+!AUX addressed to
+!AUX CITED IN
+!AUX described as
+!AUX directed to
+!AUX discussed in
+!AUX discussed in !GENRE
+!AUX explicit about
+!AUX quoted as
+!AUX quoted as !CITEVERBING
+!AUX referenced in
+!AUX reported
+!AUX taken from !DETERMINER !CITEDOBJECT
+!CITEVERB explicitly that
+!CITEVERB that
+!CITEVERBED explicitly that
+!CITEVERBED that
+!CITEVERBS that
+!DETERMINER !GENRE that
+!DETERMINER !RANKNUMBER chapter in
+!DETERMINER !RANKNUMBER section in
+!DETERMINER ad concluded
+!DETERMINER declaration that
+!DETERMINER final chapter in
+!DETERMINER foundation for !DETERMINER present
+!DETERMINER groundwork for !DETERMINER present
+!DETERMINER reporting of
+!DETERMINER reports of
+!DETERMINER source !CITEVERBS
+!DETERMINER source also !SAY
+!DETERMINER speaker concluded
+!DETERMINER statement concluded
+!DETERMINER statement of
+!DETERMINER statements of
+!DETERMINER text concluded
+!DETERMINER words of
+!FIND out that:
+!FIND that:
+!GO !DETERMINER step further by claiming
+!GO !DETERMINER step futher by asserting
+!GO further and claimed
+!GO further and claims
+!GO on record to !CITEVERB
+!GO on to !ASSERT
+!GO on to !ASSERT that
+!GO on to !CITEVERB
+!GO on to describe
+!GO on to detail
+!GO on to report
+!GO on to say
+!GO on to say that
+!HAVE !ASSERT
+!HAVE !ASSERT that
+!HAVE !SAY
+!HAVE !SAY that
+!HAVE argued for
+!HAVE argued on behalf of
+!HAVE asserted
+!HAVE been quoted
+!HAVE claimed
+!HAVE contended
+!HAVE excerpts from
+!HAVE explained that
+!HAVE found that
+!HAVE preached
+!HAVE proposed
+!HAVE shown !DETERMINER
+!HAVE shown that
+!HAVE told
+!HAVE written that
+!HEAR IT SAID THAT
+!HOLD !DETERMINER view that
+!HOLD forth about
+!HOLD forth on
+!HOLD that
+!INDEFINITEADDRESSEE have entertained !DETERMINER !IDEA
+!INDEFINITEADDRESSEE have POINTED OUT
+!MAKE !DETERMINER plea
+!MAKE !DETERMINER point
+!MAKE !DETERMINER point that
+!MAKE !DETERMINER precise of
+!MAKE allusion to
+!MAKE allusions to
+!MAKE reference
+!MAKE reference to
+!MAKE the argument
+!POINT it out
+!POINT out
+!POINT out !DETERMINER
+!POINT out !QUESTION
+!POINT out that
+!POINT out to
+!POINT to !DETERMINER article
+!POINT to !DETERMINER book
+!POINT to !DETERMINER document
+!POINT to !DETERMINER manuscript
+!POINT to !DETERMINER paper
+!POINT to !DETERMINER poem
+!POINT to !DETERMINER recent article
+!POINT to !DETERMINER recent book
+!POINT to !DETERMINER recent document
+!POINT to !DETERMINER recent manuscript
+!POINT to !DETERMINER recent paper
+!POINT to !DETERMINER recent poem
+!POINT to !DETERMINER text
+!POSSESSIVEPRONOUN !GENRE that
+!POSSESSIVEPRONOUN affirmation
+!POSSESSIVEPRONOUN argument that
+!POSSESSIVEPRONOUN assertion
+!POSSESSIVEPRONOUN assertion that
+!POSSESSIVEPRONOUN avowal
+!POSSESSIVEPRONOUN claim
+!POSSESSIVEPRONOUN comments
+!POSSESSIVEPRONOUN contention that
+!POSSESSIVEPRONOUN declamation
+!POSSESSIVEPRONOUN declaration
+!POSSESSIVEPRONOUN declaration of
+!POSSESSIVEPRONOUN declaration that
+!POSSESSIVEPRONOUN declarations of
+!POSSESSIVEPRONOUN emphasizing that
+!POSSESSIVEPRONOUN insistence about
+!POSSESSIVEPRONOUN insistence that
+!POSSESSIVEPRONOUN objection
+!POSSESSIVEPRONOUN observation
+!POSSESSIVEPRONOUN observation that
+!POSSESSIVEPRONOUN preaching
+!POSSESSIVEPRONOUN proclamation
+!POSSESSIVEPRONOUN profession
+!POSSESSIVEPRONOUN pronouncement
+!POSSESSIVEPRONOUN quote that
+!POSSESSIVEPRONOUN saying that
+!POSSESSIVEPRONOUN statement
+!POSSESSIVEPRONOUN testimony
+!POSSESSIVEPRONOUN words were addressed to
+!POSSESSIVEPRONOUN words were directed to
+!PRONOUNNOMINAL !ASSERT that
+!PRONOUNNOMINAL !AUX !ASSERT that
+!PRONOUNNOMINAL !AUX adducing
+!PRONOUNNOMINAL !AUX musing that
+!PRONOUNNOMINAL !AUX postulating
+!PRONOUNNOMINAL !AUX saying that
+!PRONOUNNOMINAL !AUX stressing
+!PRONOUNNOMINAL !CITEVERB that
+!PRONOUNNOMINAL !CITEVERB that:
+!PRONOUNNOMINAL !CITEVERBED
+!PRONOUNNOMINAL !CITEVERBED it
+!PRONOUNNOMINAL !CITEVERBED that
+!PRONOUNNOMINAL !CITEVERBED that:
+!PRONOUNNOMINAL !CITEVERBING it
+!PRONOUNNOMINAL !CITEVERBING that
+!PRONOUNNOMINAL !CITEVERBING that:
+!PRONOUNNOMINAL !CITEVERBS it
+!PRONOUNNOMINAL !CITEVERBS that
+!PRONOUNNOMINAL !CITEVERBS that:
+!PRONOUNNOMINAL !SAY
+!PRONOUNNOMINAL !SAY that
+!PRONOUNNOMINAL add that
+!PRONOUNNOMINAL added that
+!PRONOUNNOMINAL adds that
+!PRONOUNNOMINAL adduce
+!PRONOUNNOMINAL adduced
+!PRONOUNNOMINAL adduces
+!PRONOUNNOMINAL agrees with
+!PRONOUNNOMINAL are stressing
+!PRONOUNNOMINAL argues that
+!PRONOUNNOMINAL characterizes !DETERMINER
+!PRONOUNNOMINAL concluded that
+!PRONOUNNOMINAL confirmed that
+!PRONOUNNOMINAL confirms that
+!PRONOUNNOMINAL contends that
+!PRONOUNNOMINAL define
+!PRONOUNNOMINAL defines
+!PRONOUNNOMINAL dialect
+!PRONOUNNOMINAL dialects
+!PRONOUNNOMINAL discusses
+!PRONOUNNOMINAL express !DETERMINER
+!PRONOUNNOMINAL expressed !DETERMINER
+!PRONOUNNOMINAL expresses !DETERMINER
+!PRONOUNNOMINAL expressing !DETERMINER
+!PRONOUNNOMINAL indicate
+!PRONOUNNOMINAL indicates
+!PRONOUNNOMINAL inform us
+!PRONOUNNOMINAL informs us
+!PRONOUNNOMINAL insist that
+!PRONOUNNOMINAL insists that
+!PRONOUNNOMINAL muse that
+!PRONOUNNOMINAL muses that
+!PRONOUNNOMINAL observes that
+!PRONOUNNOMINAL offers that
+!PRONOUNNOMINAL postulated
+!PRONOUNNOMINAL postulates
+!PRONOUNNOMINAL presents
+!PRONOUNNOMINAL proposes
+!PRONOUNNOMINAL recalled that
+!PRONOUNNOMINAL recalls !DETERMINER
+!PRONOUNNOMINAL refers to !DETERMINER
+!PRONOUNNOMINAL related !question
+!PRONOUNNOMINAL relates !question
+!PRONOUNNOMINAL reports
+!PRONOUNNOMINAL reports that
+!PRONOUNNOMINAL say
+!PRONOUNNOMINAL saying that
+!PRONOUNNOMINAL see that
+!PRONOUNNOMINAL sees that
+!PRONOUNNOMINAL states
+!PRONOUNNOMINAL stress
+!PRONOUNNOMINAL stressed
+!PRONOUNNOMINAL stresses
+!PRONOUNNOMINAL suggest
+!PRONOUNNOMINAL suggests
+!PRONOUNNOMINAL suggests that
+!PRONOUNNOMINAL tells
+!PRONOUNNOMINAL tells that
+!PRONOUNNOMINAL termed
+!PRONOUNNOMINAL would argue
+!PRONOUNNOMINAL would assert
+!PRONOUNNOMINAL would claim
+!PRONOUNNOMINAL would state
+!PRONOUNNOMINAL writes
+!PRONOUNNOMINAL wrote that:
+!QUESTION !PRONOUNNOMINAL !SAY
+!QUESTION !PRONOUNNOMINAL are going to say
+!QUESTION !PRONOUNNOMINAL are gonna say is
+!QUESTION !PRONOUNNOMINAL described as
+!QUESTION !PRONOUNNOMINAL like to say
+!QUESTION !PRONOUNNOMINAL sees as !DETERMINER
+!QUESTION !PRONOUNNOMINAL sees to be
+!QUESTION !PRONOUNNOMINAL takes to be
+!QUESTION !PRONOUNNOMINAL tend to say
+!QUESTION !PRONOUNNOMINAL understands to be
+!QUESTION !ROYALWE !SAY
+!QUESTION we !SAY
+!ROUTINEACT !CITEVERB that
+!ROUTINEACT !CITEVERBED
+!ROUTINEACT !CITEVERBING
+!ROUTINEACT !CITEVERBS
+!ROYALWE cite
+!ROYALWE cite !DETERMINER
+!ROYALWE quote
+!SAY
+!SAY !DETERMINER
+!SAY :
+!SAY about that
+!SAY about this
+!SAY of
+!SAY that
+!SAY that and !ROYALWE quote
+!TELL !DETERMINER meaning
+!TELL !DETERMINER meaning of
+!TELL !DETERMINER story
+!TELL !DETERMINER story about
+!TELL !DETERMINER STORY OF
+!TELL !DETERMINER TALE ABOUT
+!TELL !DETERMINER TALE OF
+!TELL !DETERMINER yarn
+!TELL !POSSESSIVEPRONOUN side
+!TELL !POSSESSIVEPRONOUN story about
+!TELL !POSSESSIVEPRONOUN story of
+!TELL !PRONOUNOBJECTIVE that
+!TELL !PRONOUNOBJECTIVE to
+!TELL about !DETERMINER meaning
+!TELL about !DETERMINER meaning of
+!TELL me
+!TELL of !QUESTION
+!TELL STORIES ABOUT
+!TELL STORIES OF
+!TELL tales about
+!TELL tales of
+!TELL THAT
+!TELL THEM ABOUT
+!TELL them of
+!TELL us
+!TOUCH upon !DETERMINER
+!TOUCH upon !DETERMINER !IDEA
+!TOUCH upon !POSSESSIVEPRONOUN
+!TOUCH upon in passing
+!TOUCH upon lightly
+!WAS known to have !SAY
+!WAS known to have !SAY that
+!WAS QUOTED
+!WAS QUOTED AS
+!WAS QUOTED AS SAYING
+!WAS QUOTED to SAY
+(1800)
+(1801)
+(1802)
+(1803)
+(1804)
+(1805)
+(1806)
+(1807)
+(1808)
+(1809)
+(1810)
+(1811)
+(1812)
+(1813)
+(1814)
+(1815)
+(1816)
+(1817)
+(1818)
+(1819)
+(1820)
+(1821)
+(1822)
+(1823)
+(1824)
+(1825)
+(1826)
+(1827)
+(1828)
+(1829)
+(1830)
+(1831)
+(1832)
+(1833)
+(1834)
+(1835)
+(1836)
+(1837)
+(1838)
+(1839)
+(1840)
+(1841)
+(1842)
+(1843)
+(1844)
+(1845)
+(1846)
+(1847)
+(1848)
+(1849)
+(1850)
+(1851)
+(1852)
+(1853)
+(1854)
+(1855)
+(1856)
+(1857)
+(1858)
+(1859)
+(1860)
+(1861)
+(1862)
+(1863)
+(1864)
+(1865)
+(1866)
+(1867)
+(1868)
+(1869)
+(1870)
+(1871)
+(1872)
+(1873)
+(1874)
+(1875)
+(1876)
+(1877)
+(1878)
+(1879)
+(1880)
+(1881)
+(1882)
+(1883)
+(1884)
+(1885)
+(1886)
+(1887)
+(1888)
+(1889)
+(1890)
+(1891)
+(1892)
+(1893)
+(1894)
+(1895)
+(1896)
+(1897)
+(1898)
+(1899)
+(1900)
+(1901)
+(1902)
+(1903)
+(1904)
+(1905)
+(1906)
+(1907)
+(1908)
+(1909)
+(1910)
+(1911)
+(1912)
+(1913)
+(1914)
+(1915)
+(1916)
+(1917)
+(1918)
+(1919)
+(1920)
+(1921)
+(1922)
+(1923)
+(1924)
+(1925)
+(1926)
+(1927)
+(1928)
+(1929)
+(1930)
+(1931)
+(1932)
+(1933)
+(1934)
+(1935)
+(1936)
+(1937)
+(1938)
+(1939)
+(1940)
+(1941)
+(1942)
+(1943)
+(1944)
+(1945)
+(1946)
+(1947)
+(1948)
+(1949)
+(1950)
+(1951)
+(1952)
+(1953)
+(1954)
+(1955)
+(1956)
+(1957)
+(1958)
+(1959)
+(1960)
+(1961)
+(1962)
+(1963)
+(1964)
+(1965)
+(1966)
+(1967)
+(1968)
+(1969)
+(1970)
+(1971)
+(1972)
+(1973)
+(1974)
+(1975)
+(1976)
+(1977)
+(1978)
+(1979)
+(1980)
+(1981)
+(1982)
+(1983)
+(1984)
+(1985)
+(1986)
+(1987)
+(1988)
+(1989)
+(1990)
+(1991)
+(1992)
+(1993)
+(1994)
+(1995)
+(1996)
+(1997)
+(1998)
+(1999)
+(2000)
+(2001)
+(2002)
+(2003)
+(2004)
+,' !PRONOUNNOMINAL continued
+,' !PRONOUNNOMINAL went on
+, according to this view
+, in this view
+, on this view,
+," !PRONOUNNOMINAL continued
+," !PRONOUNNOMINAL went on
+. addressing
+. for !DETERMINER review of
+. For many
+. For others
+. For some
+. in !DETERMINER book
+. in !DETERMINER view of
+. in the !RANKNUMBER part
+. in the !RANKNUMBER parts
+. in the !RANKNUMBER section
+. in the !RANKNUMBER sections
+. in this argument
+. in this argument,
+. in this article
+. in this article,
+. in this brief
+. in this brief,
+. in this chain of reasoning
+. in this chain of reasons
+. in this chain of thinking
+. in this chain of thought
+. in this discussion
+. in this discussion,
+. in this feature
+. in this feature,
+. in this line of reasoning
+. in this line of reasons
+. in this line of thinking
+. in this line of thought
+. in this paper
+. in this paper,
+. in this paragraph
+. in this part
+. in this part,
+. in this passage
+. in this piece
+. in this piece,
+. in this plan
+. in this plan,
+. in this proposal
+. in this proposal,
+. in this report
+. in this report,
+. in this section
+. in this section,
+. in this story
+. in this story,
+. quote,
+. To many
+. To others
+. To some
+[1]
+[10]
+[11]
+[12]
+[13]
+[14]
+[15]
+[16]
+[17]
+[18]
+[19]
+[2]
+[20]
+[21]
+[22]
+[23]
+[24]
+[25]
+[26]
+[27]
+[28]
+[29]
+[3]
+[30]
+[31]
+[32]
+[33]
+[34]
+[35]
+[36]
+[37]
+[38]
+[39]
+[4]
+[40]
+[41]
+[42]
+[43]
+[44]
+[45]
+[46]
+[47]
+[48]
+[49]
+[5]
+[50]
+[6]
+[7]
+[8]
+[9]
+1990)
+1990a
+1990b
+1991)
+1991a
+1991b
+1992)
+1992a
+1992b
+1993)
+1993a
+1993b
+1994)
+1994a
+1994b
+1995)
+1995a
+1995b
+1996)
+1996a
+1996b
+1997)
+1997a
+1997b
+1998)
+1998a
+1998b
+1999)
+1999a
+1999b
+2000)
+2000a
+2000b
+2000c
+2001)
+2001a
+2001b
+2002)
+2002a
+2002b
+2003)
+2003a
+2003b
+2004)
+a close source
+a source close
+a source very close
+a source very close to
+according to
+according to !DETERMINER
+according to !DETERMINER !CITEDOBJECT
+according to !DETERMINER family spokesperson
+according to !DETERMINER source
+according to !DETERMINER sources
+according to !POSSESSIVEPRONOUN
+according to !POSSESSIVEPRONOUN own lights
+according to !PRONOUNOBJECTIVE
+according to all ACCOUNTS
+according to an unidentified source
+according to an unnamed source
+according to modern accounts
+according to my source
+according to my sources
+according to one's own lights
+according to recent accounts
+according to reliable sources
+according to sources
+according to that
+according to this
+according to this line of reasoning
+according to this line of thinking
+according to unidentified sources
+according to unnamed sources
+adages say
+add expressions of
+add that
+added expressions of
+added that
+added that:
+adding expressions of
+adding that
+adds expressions of
+adds that
+adduce that
+adduced that
+adduces that
+adducing that
+advert to
+adverted to
+adverting to
+adverts to
+affirm
+affirmed
+affirming
+affirms
+agree that
+agreed that
+agreeing that
+agrees that
+aliunde
+allude to
+alluded to
+alludes to
+alluding to
+allusion to
+allusions
+allusions to
+amplified on
+amplifies on
+amplify on
+amplifying on
+an adage !SAY
+an aphorism
+an insider source
+an intimation of
+an old adage say
+an old aphorism
+analyze !DETERMINER
+analyze that
+analyzed !DETERMINER
+analyzed that
+analyzes !DETERMINER
+analyzes that
+analyzing !DETERMINER
+analyzing that
+and !ROYALWE quote
+and to quote
+anonymous source
+anonymous sources
+answer that
+answered that
+answering that
+answers that
+answers:
+articulate on
+articulate:
+articulated on
+articulated:
+articulates on
+articulates:
+articulating on
+articulating:
+articulation
+articulations
+as !AUX !ROUTINEACT pointed out
+as !AUX !SAY
+as !AUX pointed out
+as !DETERMINER study indicates
+as !DETERMINER study shows
+as !DETERMINER study suggests
+as !POSSESSIVEPRONOUN study indicates
+as !POSSESSIVEPRONOUN study shows
+as !POSSESSIVEPRONOUN study suggests
+as !PRONOUNNOMINAL !AUX seeing it
+as !PRONOUNNOMINAL !CITEVERB
+as !PRONOUNNOMINAL !CITEVERBED
+as !PRONOUNNOMINAL !CITEVERBING
+as !PRONOUNNOMINAL !CITEVERBS
+as !PRONOUNNOMINAL adduce
+as !PRONOUNNOMINAL adduces
+as !PRONOUNNOMINAL argue
+as !PRONOUNNOMINAL argues
+as !PRONOUNNOMINAL explained
+as !PRONOUNNOMINAL put it
+as !PRONOUNNOMINAL recalled
+as !PRONOUNNOMINAL recalled,
+as !PRONOUNNOMINAL saw it
+as !PRONOUNNOMINAL see it
+as !PRONOUNNOMINAL sees it
+as !PRONOUNNOMINAL view it
+as !PRONOUNNOMINAL views it
+as !ROYALWE put it to
+as characterized
+as characterized by
+as depicted in
+as described in
+as detailed in
+as espoused by
+as espoused in
+as explained in
+as expressed in
+as he told
+as he witnessed
+as I told
+as I witnessed
+as it !AUX !SAY
+as it !AUX !SAY :
+as it !AUX pointed out
+as it !AUX written
+as it !AUX written:
+as it has been !SAY
+as it has been written
+as learned by
+as overhead by
+as referenced in
+as reported
+as reported by
+as reported in
+as revealed to
+as saying
+as seen by
+as seen on
+as seen with
+as she told
+as she witnessed
+as telling
+as they told
+as they witnessed
+as told
+as told by
+as told entirely through
+as told through
+as told to
+as was !SAY
+as was asserted
+as was mentioned
+as was quoted
+as was said
+as was stated
+as was told
+as we put it
+as we see it
+as we told
+as we witnessed
+as witnessed by
+ask not that
+ask point blank
+ask that
+Asked by
+Asked if
+asked not that
+asked point blank
+asked that
+asking not that
+asking point blank
+asking that
+asks not that
+asks point blank
+asks that
+assert
+assert !DETERMINER point that
+assert !DETERMINER proposition that
+assert on
+assert:
+asserted
+asserted on
+asserted:
+asserting on
+asserting:
+assertion that
+assertions that
+asserts
+asserts on
+asserts:
+asseveration
+asseverations
+associates say
+assume that to
+ASSUMED THAT TO
+assumes that to
+assuming that to
+attributed as saying
+attributed sayings
+aver
+averred
+averring
+avers
+avouch
+avouched
+avouches
+avouching
+avouchment
+avouchments
+avow
+avowal
+avowal of
+avowals
+avowals of
+avowed
+avowing
+avows
+base !POSSESSIVEPRONOUN opinion on
+base !POSSESSIVEPRONOUN thinking on
+based !POSSESSIVEPRONOUN opinion on
+based !POSSESSIVEPRONOUN thinking on
+bases !POSSESSIVEPRONOUN opinion on
+bases !POSSESSIVEPRONOUN thinking on
+basing !POSSESSIVEPRONOUN opinion on
+basing !POSSESSIVEPRONOUN thinking on
+been quoted
+been quoted to say
+began:
+begins:
+being quoted to say
+blunt remarks
+blunt words
+bluntest remarks
+bluntest words
+brag
+brag about
+brag yourself up
+bragged
+bragged about
+bragger
+braggers
+bragging
+bragging about
+brags
+brags about
+briefed !PRONOUNOBJECTIVE about
+briefed !PRONOUNOBJECTIVE on
+by asserting
+by asserting that
+BY THIS WAY OF THINKING
+call for !DETERMINER
+call it:
+called !PRONOUNOBJECTIVE !DETERMINER
+called for !DETERMINER
+called it:
+calling !PRONOUNOBJECTIVE !DETERMINER
+calling for !DETERMINER
+calling it:
+calls !PRONOUNOBJECTIVE !DETERMINER
+calls for !DETERMINER
+calls it:
+calls:
+came up with adages about
+CAN BE FOUND IN !DETERMINER !GENRE
+CAN BE FOUND IN !DETERMINER BOOK
+CAN BE FOUND IN !DETERMINER PASSAGE
+CAN BE LOCATED IN !DETERMINER !GENRE
+CAN BE LOCATED IN !DETERMINER BOOK
+CAN BE LOCATED IN !DETERMINER PASSAGE
+characterized it as
+characterized it by
+cite
+cite !DETERMINER
+cite !DETERMINER case in point
+cite !DETERMINER particular
+cite !DETERMINER variety of
+cite cases in point
+cite from
+cite on several counts
+cite particulars
+cited
+cited !DETERMINER
+cited !DETERMINER case in point
+cited !DETERMINER particular
+cited !DETERMINER variety of
+cited cases in point
+cited from
+cited in !DETERMINER passage
+cited particulars
+cites
+cites !DETERMINER
+cites !DETERMINER case in point
+cites !DETERMINER particular
+cites !DETERMINER variety of
+cites cases in point
+cites from
+cites on several counts
+cites particulars
+citing
+citing !DETERMINER
+citing !DETERMINER case in point
+citing !DETERMINER particular
+citing !DETERMINER variety of
+citing !DETERMINER work of
+citing cases in point
+citing from
+citing on several counts
+citing particulars
+claim
+come up with adages about
+comes up with adages about
+coming up with adages about
+comment
+comment about
+comment on
+comment that
+comment upon
+commented about
+commented on
+commented that
+commented upon
+commenting
+commenting about
+commenting on
+commenting that
+commenting upon
+comments
+comments about
+comments on
+comments that
+comments upon
+continued the source
+decide that
+decide:
+decided:
+decides:
+deciding:
+declaim
+declaim on
+declaimed
+declaimed on
+declaiming
+declaiming on
+declaims
+declaims on
+declamation
+declamations
+declamatories
+declamatory
+declaration
+declaration that
+declarations
+declarations that
+declare
+declare that
+declare:
+declared
+declared it
+declared it !POSSESSIVEPRONOUN
+declared that
+declared:
+declares
+declares that
+declares:
+declaring
+declaring that
+declaring:
+denotes !DETERMINER
+denoting !DETERMINER
+describe
+describe !DETERMINER
+describe !DETERMINER circle
+describe !POSSESSIVEPRONOUN
+describe !POSSESSIVEPRONOUN as
+describe !PRONOUNOBJECTIVE
+describe !QUESTION
+describe !REFLEXIVEPRONOUN
+describe him as
+describe it
+describe it as
+describe ourselves
+describe that
+describe them as
+describe yourself
+describe:
+described
+described !DETERMINER
+described !DETERMINER circle
+described !POSSESSIVEPRONOUN
+described !POSSESSIVEPRONOUN as
+described !POSSESSIVEPRONOUN work as
+described !PRONOUNOBJECTIVE
+described !QUESTION
+described !REFLEXIVEPRONOUN
+described as
+described by
+described him as
+described in !DETERMINER
+described it
+described it as
+described ourselves
+described that
+described them as
+described yourself
+described:
+describes
+describes !DETERMINER
+describes !DETERMINER circle
+describes !POSSESSIVEPRONOUN
+describes !POSSESSIVEPRONOUN as
+describes !PRONOUNOBJECTIVE
+describes !QUESTION
+describes !QUESTION !DETERMINER
+describes !REFLEXIVEPRONOUN
+describes him as
+describes it
+describes it as
+describes ourselves
+describes some of
+describes that
+describes them as
+describes yourself
+describes:
+describing
+describing !DETERMINER
+describing !DETERMINER circle
+describing !POSSESSIVEPRONOUN
+describing !POSSESSIVEPRONOUN as
+describing !PRONOUNOBJECTIVE
+describing !QUESTION
+describing !REFLEXIVEPRONOUN
+describing him as
+describing it
+describing it as
+describing ourselves
+describing that
+describing them as
+describing yourself
+describing:
+detail !DETERMINER
+detail !POSSESSIVEPRONOUN
+detail !PRONOUNOBJECTIVE
+detailed that !DETERMINER
+detailed that !POSSESSIVEPRONOUN
+detailed that !PRONOUNOBJECTIVE
+detailing
+detailing !DETERMINER
+detailing !POSSESSIVEPRONOUN
+detailing !PRONOUNOBJECTIVE
+details
+details !DETERMINER
+details !POSSESSIVEPRONOUN
+details !PRONOUNOBJECTIVE
+dialogue about
+discourse about
+discourse about !DETERMINER
+discourse about !QUESTION
+discourse on
+discourse upon
+discoursed about
+discoursed about !DETERMINER
+discoursed about !QUESTION
+discoursed on
+discoursed upon
+discourses about
+discourses about !DETERMINER
+discourses about !QUESTiON
+discourses on
+discourses upon
+discoursing about
+discoursing about !DETERMINER
+discoursing about !QUESTION
+discoursing on
+discoursing upon
+discuss
+discuss !DETERMINER
+discuss !POSSESSIVEPRONOUN
+discuss !PRONOUNOBJECTIVE
+discuss !PRONOUNOBJECTIVE with
+discuss in !DETERMINER !GENRE
+discuss in !DETERMINER BOOK
+discuss in !DETERMINER PASSAGE
+discuss in !POSSESSIVEPRONOUN !GENRE
+discuss in !POSSESSIVEPRONOUN BOOK
+discuss in !POSSESSIVEPRONOUN PASSAGE
+discuss in BOOK
+discuss in PASSAGE
+discuss that
+discussed !PRONOUNOBJECTIVE with
+discussed in !DETERMINER !GENRE
+discussed in !DETERMINER BOOK
+discussed in !DETERMINER PASSAGE
+discussed in !POSSESSIVEPRONOUN !GENRE
+discussed in !POSSESSIVEPRONOUN BOOK
+discussed in !POSSESSIVEPRONOUN PASSAGE
+discussed in BOOK
+discussed in PASSAGE
+discussed that
+discussed that !DETERMINER
+discussed that !POSSESSIVEPRONOUN
+discussed that !PRONOUNOBJECTIVE
+discusses
+discusses !DETERMINER
+discusses !POSSESSIVEPRONOUN
+discusses !PRONOUNOBJECTIVE
+discusses !PRONOUNOBJECTIVE with
+discusses in !DETERMINER !GENRE
+discusses in !DETERMINER BOOK
+discusses in !DETERMINER PASSAGE
+discusses in !POSSESSIVEPRONOUN !GENRE
+discusses in !POSSESSIVEPRONOUN BOOK
+discusses in !POSSESSIVEPRONOUN PASSAGE
+discusses in BOOK
+discusses in PASSAGE
+discusses that
+discussing
+discussing !DETERMINER
+discussing !POSSESSIVEPRONOUN
+discussing !PRONOUNOBJECTIVE
+discussing !PRONOUNOBJECTIVE with
+discussing in !DETERMINER !GENRE
+discussing in !DETERMINER BOOK
+discussing in !POSSESSIVEPRONOUN !GENRE
+discussing in !POSSESSIVEPRONOUN BOOK
+discussing in BOOK
+discussing that
+discussion in !DETERMINER passage
+discussion in !POSSESSIVEPRONOUN PASSAGE
+during interviews
+elaborate about
+elaborate on
+elaborate that
+elaborated about
+elaborated on
+elaborated that
+elaborates about
+elaborates on
+elaborates that
+elaborating on
+elaborating that
+elaboration about
+elaboration of
+elaboration on
+elaborations
+elaborations about
+elaborations of
+emphasize that
+emphasized that
+emphasizes that
+emphasizing that
+emphatic about
+emphatic that
+endorsed by
+enounce
+enounces
+enunciate that
+enunciated that
+enunciates that
+enunciating that
+enunciation that
+enunciations that
+espousal
+espousals
+espouse
+espouse !DETERMINER
+espouse !DETERMINER !IDEA
+espouse !DETERMINER cause of
+espouse !POSSESSIVEPRONOUN
+espouse !PRONOUNOBJECTIVE
+espouse in
+espouse nonviolence
+espoused !DETERMINER !IDEA
+espoused !DETERMINER cause of
+espoused in
+espoused nonviolence
+espoused that
+espoused that !DETERMINER
+espoused that !POSSESSIVEPRONOUN
+espoused that !PRONOUNOBJECTIVE
+espouser
+espouser of
+espousers
+espousers of
+espouses
+espouses !DETERMINER
+espouses !DETERMINER !IDEA
+espouses !DETERMINER cause of
+espouses !POSSESSIVEPRONOUN
+espouses !PRONOUNOBJECTIVE
+espouses in
+espouses nonviolence
+espousing
+espousing !DETERMINER
+espousing !DETERMINER !IDEA
+espousing !DETERMINER cause of
+espousing !POSSESSIVEPRONOUN
+espousing !PRONOUNOBJECTIVE
+espousing in
+espousing nonviolence
+estimated that
+explanatory remark
+explanatory remarks
+explicitly !CITEVERB
+explicitly !CITEVERBED
+explicitly !CITEVERBING
+explicitly !CITEVERBS
+explicitly state
+explicitly stated
+explicitly states
+explicitly stating
+exposit
+exposited
+expositing
+exposits
+express
+EXPRESS !DETERMINER
+express !DETERMINER !IDEA
+express !DETERMINER !IDEA that
+express !DETERMINER concern
+express !DETERMINER opinion
+express !DETERMINER opinion that
+express !DETERMINER wish
+express !DETERMINER wish for
+express !POSSESSIVEPRONOUN opinions
+express !POSSESSIVEPRONOUN views
+express an interest
+express by words
+express concern that
+express confidence
+express great confidence
+express herself
+express himself
+express in words
+EXPRESS INTEREST IN
+express itself
+express our opinions
+express our views
+express ourselves
+express that
+express themselves
+express your opinions
+express your views
+express:
+expressed !DETERMINER !IDEA
+expressed !DETERMINER !IDEA that
+expressed !DETERMINER concern
+expressed !DETERMINER opinion
+expressed !DETERMINER opinion that
+expressed !DETERMINER wish
+expressed !DETERMINER wish for
+expressed !POSSESSIVEPRONOUN opinions
+expressed !POSSESSIVEPRONOUN views
+expressed an interest
+expressed by words
+expressed concern that
+expressed confidence
+expressed great confidence
+expressed herself
+expressed himself
+expressed in words
+EXPRESSED INTEREST IN
+expressed itself
+expressed our opinions
+expressed our views
+expressed ourselves
+expressed that
+EXPRESSED that !DETERMINER
+expressed themselves
+expressed your opinions
+expressed your views
+expressed:
+expresses
+EXPRESSES !DETERMINER
+expresses !DETERMINER !IDEA
+expresses !DETERMINER !IDEA that
+expresses !DETERMINER concern
+expresses !DETERMINER opinion
+expresses !DETERMINER opinion that
+expresses !DETERMINER wish
+expresses !DETERMINER wish for
+expresses !POSSESSIVEPRONOUN opinions
+expresses !POSSESSIVEPRONOUN views
+expresses an interest
+expresses by words
+expresses concern that
+expresses confidence
+expresses great confidence
+expresses herself
+expresses himself
+expresses in words
+EXPRESSES INTEREST IN
+expresses itself
+expresses our opinions
+expresses our views
+expresses ourselves
+expresses that
+expresses themselves
+expresses your opinions
+expresses your views
+expresses:
+expressing
+EXPRESSING !DETERMINER
+expressing !DETERMINER !IDEA
+expressing !DETERMINER !IDEA that
+expressing !DETERMINER concern
+expressing !DETERMINER opinion
+expressing !DETERMINER opinion that
+expressing !DETERMINER wish
+expressing !DETERMINER wish for
+expressing !POSSESSIVEPRONOUN opinions
+expressing !POSSESSIVEPRONOUN views
+expressing an interest
+expressing by words
+expressing concern that
+expressing confidence
+expressing great confidence
+expressing herself
+expressing himself
+expressing in words
+EXPRESSING INTEREST IN
+expressing itself
+expressing our opinions
+expressing our views
+expressing ourselves
+expressing that
+expressing themselves
+expressing your opinions
+expressing your views
+expressing:
+footnote !DETERMINER
+footnoted
+footnoted !DETERMINER
+footnotes !DETERMINER
+footnoting !DETERMINER
+from !DETERMINER !GENRE
+from !DETERMINER book
+from !DETERMINER draft
+from !DETERMINER horse's mouth
+from !DETERMINER lips of
+from !DETERMINER memo
+from !DETERMINER mouth of
+from !DETERMINER mouths of
+from !DETERMINER novel
+from !DETERMINER novella
+from !DETERMINER paper
+from !DETERMINER perspective of
+from !DETERMINER text
+from !DETERMINER viewpoint of
+from !QUESTION !PRONOUNNOMINAL has heard
+from !QUESTION !PRONOUNNOMINAL have heard
+from information received
+from several sources
+from various sources
+further !ASSERT
+further !ASSERT that
+further !CITEVERB
+further !CITEVERBED
+further !CITEVERBING
+further !CITEVERBS
+He indicated
+He indicates
+he was told
+her rep tells
+her representative tells
+herald abroad
+herald to
+heralded abroad
+heralded to !POSSESSIVEPRONOUN that
+heralded to all that
+heralded to everyone that
+heralded to him that
+heralded to them that
+heralding abroad
+heralding to
+heralds abroad
+heralds to
+hint that
+hinted that
+hinting that
+hints that
+his rep tells
+his representative tells
+I was told
+ibid
+ibid.
+ibidem
+id.
+idem
+ill.
+illust.
+illustrate !DETERMINER
+illustrates !DETERMINER
+illustrating !DETERMINER
+in !DETERMINER !CITEDOBJECT by
+in !DETERMINER !GENRE
+in !DETERMINER !GENRE dealing with
+in !DETERMINER !GENRE for
+in !DETERMINER !GENRE of
+in !DETERMINER !GENRE,
+in !DETERMINER !GENRE, "
+in !DETERMINER !RANKNUMBER passage
+in !DETERMINER book
+in !DETERMINER book dealing with
+in !DETERMINER book review
+in !DETERMINER book,
+in !DETERMINER book, "
+in !DETERMINER books
+in !DETERMINER chapter dealing with
+in !DETERMINER conclusion
+in !DETERMINER conclusion to
+in !DETERMINER discussion of
+in !DETERMINER document
+in !DETERMINER document, "
+in !DETERMINER draft
+in !DETERMINER ending passage
+in !DETERMINER foreword
+in !DETERMINER introduction
+in !DETERMINER introduction to
+in !DETERMINER lecture to
+in !DETERMINER memo
+in !DETERMINER memorandum
+in !DETERMINER middle passage
+in !DETERMINER New York Times
+in !DETERMINER New York Times Book Review
+in !DETERMINER novel
+in !DETERMINER novel about
+in !DETERMINER novel of
+in !DETERMINER novel on
+in !DETERMINER novella
+in !DETERMINER novels
+in !DETERMINER novels of
+in !DETERMINER paper dealing with
+in !DETERMINER part dealing with
+in !DETERMINER posting
+in !DETERMINER prepared statement
+in !DETERMINER press release
+in !DETERMINER radio interview
+in !DETERMINER remark
+in !DETERMINER remarks
+in !DETERMINER remarks of
+in !DETERMINER section dealing with
+in !DETERMINER source dealing with
+in !DETERMINER statement
+in !DETERMINER statement of
+in !DETERMINER study for
+in !DETERMINER study of
+in !DETERMINER telephone interview
+in !DETERMINER television interview
+in !DETERMINER thinking of
+in !DETERMINER title
+in !DETERMINER titles
+in !DETERMINER valedictory to
+in !DETERMINER view of many
+in !DETERMINER wall Street Journal
+in !DETERMINER Washingon Post
+in !DETERMINER words of
+in !GENRE after !GENRE
+in !POSSESSIVEPRONOUN !GENRE
+in !POSSESSIVEPRONOUN account of
+in !POSSESSIVEPRONOUN book
+in !POSSESSIVEPRONOUN books
+in !POSSESSIVEPRONOUN conclusion
+in !POSSESSIVEPRONOUN conclusion to
+in !POSSESSIVEPRONOUN introduction
+in !POSSESSIVEPRONOUN introduction to
+in !POSSESSIVEPRONOUN novella
+in !POSSESSIVEPRONOUN prose
+in !POSSESSIVEPRONOUN public account of
+in !POSSESSIVEPRONOUN speech
+in !POSSESSIVEPRONOUN speeches
+in !POSSESSIVEPRONOUN view
+in !POSSESSIVEPRONOUN writing
+in !QUESTION !PRONOUNNOMINAL called
+in !QUESTION !PRONOUNNOMINAL referred to
+in an address to
+in an internet posting
+in an interview
+in an webcast interview
+in another study
+in aphorisms
+in aphoristic terms
+in article after article
+in articles
+in conversations about
+in conversations on
+in earlier books
+in essays
+in interviews
+in later books
+in loc cit
+in loc. cit.
+in many books
+in most books
+in novels
+in one sentence
+in other studies
+in parable
+in parables
+in position papers
+in prepared statements
+in speeches
+in stanza
+in stanza !NUMS1TO100
+in stanzas
+in stanzas !NUMS1TO100
+in statements
+in theme and style
+in these film comedies
+in these films
+in these pages
+in this !GENRE
+in this !GENRE,
+in this argument
+in this argument,
+in this book
+in this brief
+in this brief,
+in this discussion
+in this discussion,
+in this draft
+in this essay,
+in this feature
+in this feature,
+in this line of reasoning
+in this line of reasons
+in this line of thinking
+in this line of thought
+in this novel
+in this novella
+in this paper
+in this paper,
+in this paragraph
+in this part
+in this part,
+in this passage
+in this piece
+in this piece,
+in this plan
+in this plan,
+in this proposal
+in this proposal,
+IN THIS REGARD
+in this section
+IN THIS SENSE
+in this subsection
+in this view
+in words
+in words of one syllable
+in words to that effect
+insist !PRONOUNNOMINAL !AUX
+insist !PRONOUNNOMINAL do
+insist that
+insist:
+insisted !PRONOUNNOMINAL !AUX
+insisted !PRONOUNNOMINAL do
+insisted !PRONOUNNOMINAL does
+insisted:
+insistence about
+insistence that
+insisting !PRONOUNNOMINAL !AUX
+insisting !PRONOUNNOMINAL do
+insisting !PRONOUNNOMINAL does
+insisting that
+insisting:
+insists !PRONOUNNOMINAL !AUX
+insists !PRONOUNNOMINAL does
+insists that
+insists:
+interview in
+interviewed in
+interviewing in
+interviews in
+investigation indicates
+investigation suggests
+investigators say
+issue !DETERMINER position paper
+issued !DETERMINER position paper
+issues !DETERMINER position paper
+issuing !DETERMINER position paper
+like !PRONOUNNOMINAL !SAY
+like !PRONOUNNOMINAL say
+like !ROYALWE say
+like !YOU say
+like we say
+loc cit
+loc. cit.
+loq.
+loquitur
+loquiturs
+mention
+mention !DETERMINER
+mention in dispatches
+mention that
+mention to
+mention:
+mentioned in dispatches
+mentioned that
+mentioned that !DETERMINER
+mentioned to
+mentioned:
+mentioning
+mentioning in dispatches
+mentioning that
+mentioning to
+mentioning:
+mentions
+mentions !DETERMINER
+mentions in dispatches
+mentions of
+mentions that
+mentions to
+mentions:
+mouth:
+mouthed that
+mouthed:
+mouthing that
+mouthing:
+mouths that
+mouths:
+muse that
+muse:
+mused that
+mused:
+muses:
+musing that
+musing:
+my comments
+narrate
+narrate !DETERMINER
+narrate !POSSESSIVEPRONOUN
+narrate !PRONOUNOBJECTIVE
+narrate:
+narrated that
+narrated that !DETERMINER
+narrated that !POSSESSIVEPRONOUN
+narrated that !PRONOUNOBJECTIVE
+narrated:
+narrates
+narrates !DETERMINER
+narrates !POSSESSIVEPRONOUN
+narrates !PRONOUNOBJECTIVE
+narrates:
+narrating
+narrating !DETERMINER
+narrating !POSSESSIVEPRONOUN
+narrating !PRONOUNOBJECTIVE
+narrating:
+note !DETERMINER
+note !POSSESSIVEPRONOUN
+note !PRONOUNOBJECTIVE
+note !QUESTION
+note in
+note that
+noted
+noted !DETERMINER
+noted !QUESTION
+noted in
+noted that
+noted that !DETERMINER
+notes !DETERMINER
+notes !POSSESSIVEPRONOUN
+notes !PRONOUNOBJECTIVE
+notes !QUESTION
+notes in
+notes that
+notice !QUESTION
+notice for us that
+noticed !QUESTION
+noticed for us that
+notices !QUESTION
+notices for us that
+noticing !QUESTION
+noticting for us that
+noting !DETERMINER
+noting !POSSESSIVEPRONOUN
+noting !PRONOUNOBJECTIVE
+noting !QUESTION
+noting in
+noting that
+observe that
+observed that
+observes that
+observing that
+OCCURS IN !DETERMINER !GENRE
+OCCURS IN !DETERMINER BOOK
+OCCURS IN !DETERMINER PASSAGE
+offer that
+offer up !DETERMINER !CITEDOBJECT
+offer:
+offered that
+offered up !DETERMINER !CITEDOBJECT
+offered:
+offering that
+offering up !DETERMINER !CITEDOBJECT
+offering:
+offers that
+offers up !DETERMINER !CITEDOBJECT
+offers:
+often say
+old adages say
+on-scene sources
+on an episode
+on an episode of
+on an internet blog
+on blogs
+on internet blogs
+ON THIS WAY OF THINKING
+once !SAY
+once saying
+op cit
+op. cit.
+opere citato
+our comments
+out of !DETERMINER mouth of babes
+outlined in
+outlined in !DETERMINER
+outlined in !POSSESSIVEPRONOUN
+outlined in our
+overheard to say
+overheard to say that
+parabolize
+parabolized
+parabolizes
+parabolizing
+paraphrase !DETERMINER
+paraphrase !POSSESSIVEPRONOUN
+paraphrase !PRONOUNOBJECTIVE
+paraphrased
+paraphrased !DETERMINER
+paraphrased !POSSESSIVEPRONOUN
+paraphrased !PRONOUNOBJECTIVE
+paraphrases !DETERMINER
+paraphrases !POSSESSIVEPRONOUN
+paraphrases !PRONOUNOBJECTIVE
+paraphrasing
+paraphrasing !DETERMINER
+paraphrasing !POSSESSIVEPRONOUN
+paraphrasing !PRONOUNOBJECTIVE
+pass along that
+pass it along
+passed along !DETERMINER idea
+passed along !DETERMINER information
+passed along !DETERMINER new
+passed along that
+passed it along
+passes along that
+passes it along
+passing along that
+passing it along
+pg.
+pgs.
+phrase it thusly
+phrase that
+phrase:
+phrased that
+phrased:
+phrases that
+phrases:
+phrasing that
+phrasing:
+point out
+point out !DETERMINER
+point out !QUESTION
+point out that
+point out to
+point to !DETERMINER recent
+pointed out
+pointed out !DETERMINER
+pointed out !QUESTION
+pointed out that
+pointed out to
+pointed to !DETERMINER recent
+pointing out
+pointing out !DETERMINER
+pointing out !QUESTION
+pointing out that
+pointing out to
+pointing to !DETERMINER recent
+posit that
+posited that
+positing that
+posits that
+PREACH !DETERMINER
+preached
+PREACHED !DETERMINER
+PREACHES !DETERMINER
+PREACHING !DETERMINER
+precised
+precises
+precising
+proclaim
+proclaim at
+proclaim at !DETERMINER crossroads
+proclaim at !DETERMINER market cross
+proclaim at Charing Cross
+proclaim from
+proclaim:
+proclaimed at
+proclaimed at !DETERMINER crossroads
+proclaimed at !DETERMINER market cross
+proclaimed at Charing Cross
+proclaimed from
+proclaimed:
+proclaiming
+proclaiming at
+proclaiming at !DETERMINER crossroads
+proclaiming at !DETERMINER market cross
+proclaiming at Charing Cross
+proclaiming from
+proclaiming:
+proclaims
+proclaims at
+proclaims at !DETERMINER crossroads
+proclaims at !DETERMINER market cross
+proclaims at Charing Cross
+proclaims from
+proclaims:
+profess
+profess:
+professed
+professed:
+professes
+professes that
+professes:
+professing
+professing:
+promulgate that
+promulgate:
+promulgated that
+promulgated:
+promulgates that
+promulgates:
+promulgating that
+promulgating:
+pronounce that
+pronounce:
+pronounced that
+pronounced:
+pronounces that
+pronounces:
+pronouncing that
+pronouncing:
+propose !DETERMINER
+propose that
+proposed !DETERMINER
+proposed that
+proposes !DETERMINER
+proposes that
+proposing !DETERMINER
+proposing that
+propound that
+propound:
+propounded that
+propounded:
+propounding that
+propounding:
+propounds that
+propounds:
+put in that
+put it to !POSSESSIVEPRONOUN that
+put it to !YOU that
+put it to him that
+put it to me that
+put it to them that
+put it to us that
+put over that
+puts in that
+puts it thusly
+puts it to !POSSESSIVEPRONOUN that
+puts it to !YOU that
+puts it to him that
+puts it to me that
+puts it to them that
+puts it to us that
+puts it,
+puts it:
+puts over that
+putting in that
+putting it to !POSSESSIVEPRONOUN that
+putting it to !YOU that
+putting it to him that
+putting it to me that
+putting it to them that
+putting it to us that
+putting over that
+quotation from
+quotations from
+quote
+quote !DETERMINER !GENRE from
+quote an excerpt
+quote from
+quoted
+quoted !DETERMINER !GENRE from
+quoted an excerpt
+quoted as
+quoted as saying that
+quoted by
+quoted from
+quoted to say
+quoted to say that
+quotes
+quotes !DETERMINER !GENRE from
+quotes an excerpt
+quotes from
+quoth
+quoth !PRONOUNNOMINAL
+quoth !ROYALWE
+quoth !YOU
+quoth we
+quoting
+quoting !DETERMINER !GENRE from
+quoting an excerpt
+quoting from
+rattle off
+rattle off that
+rattled off
+rattled off that
+rattles off
+rattles off that
+rattling off
+rattling off that
+reason about
+reasoned about
+reasoning about
+reasons about
+reassert
+reasserted
+reasserting
+reasserts
+recite
+recited
+recited by
+recites
+reciting
+recommend that
+recommended that
+recommending that
+recommends that
+recorded by !DETERMINER
+reel off !DETERMINER
+reeled off !DETERMINER
+reeling off !DETERMINER
+reels off !DETERMINER
+refer that
+refer to !DETERMINER
+refer to !POSSESSIVEPRONOUN
+refer to !YOU
+refer to as
+refer to him
+refer to it
+refer to it as
+refer to it by
+refer to me
+refer to our
+refer to them
+refer to these
+refer to those
+refer to us
+refer to your
+refer:
+reference !DETERMINER
+reference !POSSESSIVEPRONOUN
+reference !PRONOUNOBJECTIVE
+reference that
+reference:
+referenced
+referenced !DETERMINER
+referenced that
+referenced:
+references !DETERMINER
+references !POSSESSIVEPRONOUN
+references !PRONOUNOBJECTIVE
+references:
+referencing !DETERMINER
+referencing !POSSESSIVEPRONOUN
+referencing !PRONOUNOBJECTIVE
+referencing that
+referencing:
+referred that
+referred to !DETERMINER
+referred to !POSSESSIVEPRONOUN
+referred to !YOU
+referred to as
+referred to by
+referred to him
+referred to it
+referred to it as
+referred to it by
+referred to me
+referred to our
+referred to them
+referred to these
+referred to those
+referred to us
+referred to your
+referred:
+referring that
+referring to !DETERMINER
+referring to !POSSESSIVEPRONOUN
+referring to !YOU
+referring to as
+referring to him
+referring to it
+referring to it !DETERMINER
+referring to it by
+referring to me
+referring to our
+referring to them
+referring to these
+referring to those
+referring to us
+referring to your
+referring:
+refers specifically to !DETERMINER
+refers to !DETERMINER
+refers to !POSSESSIVEPRONOUN
+refers to !YOU
+refers to as
+refers to him
+refers to it
+refers to it as
+refers to it by
+refers to me
+refers to our
+refers to them
+refers to these
+refers to those
+refers to us
+refers to your
+refers:
+reflect !POSSESSIVEPRONOUN view that
+reflected !POSSESSIVEPRONOUN view that
+reflecting !POSSESSIVEPRONOUN view that
+reflects !POSSESSIVEPRONOUN view that
+reiterate that
+reiterated that
+reiterates that
+reiterating that
+relate at large about
+related at large about
+relates at large about
+relating at large about
+reliable source
+reliable sources
+remark
+remark by
+remark on
+remark that
+remark upon
+remark:
+remarked on
+remarked that
+remarked upon
+remarked:
+remarking
+remarking on
+remarking that
+remarking upon
+remarking:
+remarks
+remarks by
+remarks on
+remarks that
+remarks upon
+remarks:
+report !DETERMINER
+report !POSSESSIVEPRONOUN
+report !PRONOUNOBJECTIVE
+report on
+reported
+reported !DETERMINER
+reported !POSSESSIVEPRONOUN
+reported !PRONOUNOBJECTIVE
+reported by
+reported in
+reported on
+reported that
+reporting
+reporting !DETERMINER
+reporting !POSSESSIVEPRONOUN
+reporting !PRONOUNOBJECTIVE
+reporting in
+reporting on
+reporting that
+reports !DETERMINER
+reports !POSSESSIVEPRONOUN
+reports !PRONOUNOBJECTIVE
+reports of
+reports on
+reports that
+request that
+requested that
+requesting that
+requests that
+research suggests that
+researchers say
+retell
+retelling
+retells
+retold
+said !DETERMINER source
+said and !ROYALWE quote
+said the insiders
+say
+say !DETERMINER
+say about !DETERMINER
+say that
+say the insider
+say the insiders
+say:
+saying
+saying !DETERMINER
+saying that
+saying that it
+saying:
+says !DETERMINER source
+says aphoristically
+says that
+says the insider
+says the insiders
+says:
+sermonize that
+sermonized that
+sermonizes that
+sermonizing that
+set forth
+set forth !DETERMINER
+set forth !DETERMINER following
+set forth !POSSESSIVEPRONOUN reasons
+set forth my reasons
+set forth our reasons
+set forth principles
+set forth reasons
+set forth your reasons
+sets forth
+sets forth !DETERMINER
+sets forth !DETERMINER following
+sets forth !POSSESSIVEPRONOUN reasons
+sets forth my reasons
+sets forth our reasons
+sets forth principles
+sets forth reasons
+sets forth your reasons
+setting forth
+setting forth !DETERMINER
+setting forth !DETERMINER following
+setting forth !POSSESSIVEPRONOUN reasons
+setting forth my reasons
+setting forth our reasons
+setting forth principles
+setting forth reasons
+setting forth your reasons
+She indicated
+She indicates
+she was told
+source close
+source close to
+source said
+source saying
+source says
+source telling
+source tells
+source told
+sources-on-the-scene
+sources !AUX !CITEVERBING
+sources !CITEVERB
+sources !CITEVERB that
+sources !CITEVERBED
+sources also say
+sources close
+sources close to
+sources on the scene
+sources said
+sources say
+sources saying
+sources telling
+sources told
+spake
+spake out
+spake out that
+speak about
+speak about !DETERMINER
+speak at length about
+speak forth
+speak forth about
+speak in aphorisms
+speak of
+speak on
+speak that
+speak unto
+SPEAK UP ABOUT
+speak up for
+SPEAK UP ON
+Speak up that
+speak upon
+speak:
+speaking about
+speaking about !DETERMINER
+speaking aphoristically
+speaking at length about
+speaking forth
+speaking forth about
+speaking in aphorisms
+speaking of
+speaking on
+speaking that
+speaking unto
+speaking up about
+SPEAKING UP FOR
+speaking up on
+Speaking up that
+speaking upon
+speaking:
+speaks about
+speaks about !DETERMINER
+speaks at length about
+speaks forth
+speaks forth about
+speaks in aphorisms
+speaks of
+speaks on
+speaks that
+speaks unto
+speaks up about
+speaks up for
+speaks up on
+Speaks up that
+speaks upon
+speaks:
+speech by
+spoke about
+spoke about !DETERMINER
+spoke aphoristically
+spoke at length about
+spoke forth
+spoke forth about
+spoke in aphorisms
+spoke of !DETERMINER
+spoke on
+spoke that
+spoke unto
+spoke up about
+spoke up for
+spoke up on
+Spoke up that
+spoke upon
+spoke:
+spoken by
+state:
+stated
+stated:
+states:
+stating
+stating:
+still insisted that
+stipulate that
+stipulated that
+stipulates that
+stipulating that
+straight from !DETERMINER horse's mouth
+STRESS !DETERMINER FACT
+STRESS !DETERMINER POINT
+STRESS BOTH !DETERMINER
+stress that
+stressed that
+STRESSES !DETERMINER POINT
+stresses both !DETERMINER
+STRESSES THAT
+STRESSING !DETERMINER POINT
+stressing both !DETERMINER
+stressing that
+strssed both !DETERMINER
+studies have shown that
+such reporting of
+such reports of
+suggest !DETERMINER
+suggest !DETERMINER outcome
+suggest !POSSESSIVEPRONOUN
+suggest !PRONOUNOBJECTIVE
+suggest an outcome
+suggest outcome
+suggest that
+suggest that !DETERMINER
+suggest:
+suggested
+suggested !DETERMINER
+suggested !DETERMINER outcome
+suggested !POSSESSIVEPRONOUN
+suggested !PRONOUNOBJECTIVE
+suggested an outcome
+suggested outcome
+suggested that
+suggested that !DETERMINER
+suggested:
+suggesting  !PRONOUNOBJECTIVE
+suggesting !DETERMINER
+suggesting !DETERMINER outcome
+suggesting !POSSESSIVEPRONOUN
+suggesting an outcome
+suggesting outcome
+suggesting that
+suggesting that !DETERMINER
+suggesting:
+SUGGESTION AS TO
+SUGGESTIONS INCLUDE
+suggests !DETERMINER
+suggests !DETERMINER outcome
+suggests !POSSESSIVEPRONOUN
+suggests !PRONOUNOBJECTIVE
+suggests an outcome
+suggests outcome
+suggests that
+suggests that !DETERMINER
+suggests:
+summarize !DETERMINER
+summarize that
+summarized !DETERMINER
+summarized that
+summarizes !DETERMINER
+summarizes that
+summarizing !DETERMINER
+summarizing that
+talk of
+talk on !DETERMINER
+talk on !DETERMINER subject
+talk on !DETERMINER topic
+talked !DETERMINER topic of
+talked about
+talked of !DETERMINER
+talked on !DETERMINER
+talked on !DETERMINER subject of
+talking of
+talking on !DETERMINER
+talking on !DETERMINER subject
+talking on !DETERMINER topic
+talks of
+talks on !DETERMINER
+talks on !DETERMINER subject of
+talks on !DETERMINER topic of
+tell:
+telling !PRONOUNOBJECTIVE
+telling me
+telling us that
+telling:
+tells
+tells:
+term it
+termed it
+terming
+terming it
+terms it
+that's confirmed
+that's confirmed that
+the report goes on
+their rep tells
+their representative tells
+then !SAY that
+then !SAY to
+then !SAY to me
+then literally told me
+then says
+then says to
+then says to !POSSESSIVEPRONOUN
+then says to him
+then says to me
+then told me
+there !AUX an adage that
+there are adages that
+these reports of
+They indicate
+They indicated
+They say that
+they were told
+think !DETERMINER
+thinking !DETERMINER
+thinks !DETERMINER
+this !AUX !DETERMINER direct quote
+this !AUX confirmed
+this !AUX confirmed that
+This statement by
+thought !DETERMINER
+thusly:
+TO !MAKE !POSSESSIVEPRONOUN POSITION CLEAR
+to !POSSESSIVEPRONOUN mind
+to !POSSESSIVEPRONOUN minds
+to !POSSESSIVEPRONOUN way of thinking
+to cite
+to cite !DETERMINER
+to cite !DETERMINER work of
+to cite an example
+to cite an instance
+to cite from
+to our way of thinking
+to paraphrase !POSSESSIVEPRONOUN
+to paraphrase him
+to paraphrase them
+to quote !DETERMINER
+to quote from
+to quote from !DETERMINER words of
+told of !QUESTION
+told tales about
+told that
+told:
+trot out that old cliche
+trot out that old nugget
+trot out that old saw
+trot out that old saying
+trots out that old cliche
+trots out that old nugget
+trots out that old saw
+trots out that old saying
+trotted out that old cliche
+trotted out that old nugget
+trotted out that old saw
+trotted out that old saying
+trotting out that old cliche
+trotting out that old nugget
+trotting out that old saw
+trotting out that old saying
+ubi-supra
+ubi supra
+under !DETERMINER byline
+unfold !DETERMINER narrative
+unfold !DETERMINER story
+unfold !DETERMINER tale
+unfolded !DETERMINER narrative
+unfolded !DETERMINER story
+unfolded !DETERMINER tale
+unfolding !DETERMINER narrative
+unfolding !DETERMINER story
+unfolding !DETERMINER tale
+unfolds !DETERMINER narrative
+unfolds !DETERMINER story
+unfolds !DETERMINER tale
+unnamed source
+unnamed sources
+unnamed sources !CITEVERB
+unquote
+unquoted
+use !DETERMINER !GENRE from
+use an excerpt
+used !DETERMINER !GENRE from
+used an excerpt
+uses !DETERMINER !GENRE from
+uses an excerpt
+using !DETERMINER !GENRE from
+using an excerpt
+ut infra
+ut sup.
+ut supra
+uttered that
+vocalize !DETERMINER
+vocalize that
+vocalize:
+vocalized that
+vocalized that !DETERMINER
+vocalized that !POSSESSIVEPRONOUN
+vocalized that !PRONOUNOBJECTIVE
+vocalized:
+vocalizes !DETERMINER
+vocalizes that
+vocalizes:
+vocalizing !DETERMINER
+vocalizing that
+vocalizing:
+voice !DETERMINER
+voice !POSSESSIVEPRONOUN
+voice !PRONOUNOBJECTIVE
+voiced that
+voiced that !DETERMINER
+voiced that !POSSESSIVEPRONOUN
+voiced that !PRONOUNOBJECTIVE
+voices !DETERMINER
+voices !POSSESSIVEPRONOUN
+voices !PRONOUNOBJECTIVE
+voicing !DETERMINER
+voicing !POSSESSIVEPRONOUN
+voicing !PRONOUNOBJECTIVE
+was described as
+WAS MENTIONED THAT
+WAS STATED THAT
+we termed
+we were told
+weigh in that
+weigh in with !DETERMINER idea that
+weigh in with !DETERMINER notion that
+weighed in that
+weighed in with !DETERMINER idea that
+weighed in with !DETERMINER notion that
+weighing in that
+weighing in with !DETERMINER idea that
+weighing in with !DETERMINER notion that
+weighs in that
+weighs in with !DETERMINER idea that
+weighs in with !DETERMINER notion that
+went !DETERMINER step further by asserting
+were described as
+what's on
+what's on people's mind
+When asked
+When asked if
+who apologize
+who apologizes
+who mouth
+who mouths
+who then apologized
+who then uttered
+who then vocalized
+who vocalize
+who vocalizes
+with !DETERMINER declaration that
+with !POSSESSIVEPRONOUN declaration
+with !POSSESSIVEPRONOUN declaration that
+with an !GENRE
+with an !GENRE in
+with comments like
+with comments such as
+would admit that
+would even admit
+write that
+writes in !DETERMINER
+writes in !POSSESSIVEPRONOUN column
+writes that
+writing in !DETERMINER
+writing in !POSSESSIVEPRONOUN column
+writing that
+written by
+written that
+wrote in !DETERMINER
+wrote in !DETERMINER introduction
+wrote in !DETERMINER preface
+wrote in !POSSESSIVEPRONOUN column
+wrote in chapter
+wrote in to say
+wrote that
+your comments

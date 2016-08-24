@@ -1,0 +1,2532 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!ARRIVE at a fork in !DETERMINER road
+!AUX a reach
+!AUX ambiguous
+!AUX an ambiguity
+!AUX appearing that
+!AUX arguable
+!AUX arguably
+!AUX baffling
+!AUX between two opinions
+!AUX bewildering
+!AUX bewildering to
+!AUX Byzantine
+!AUX conceivable
+!AUX conceivably
+!AUX confounding
+!AUX confusing
+!AUX debatable
+!AUX doubtful that
+!AUX greek to
+!AUX highly ambiguous
+!AUX in !DETERMINER dark
+!AUX in !DETERMINER dark about
+!AUX in a cloud
+!AUX in a fog
+!AUX incomprehensible
+!AUX inexplicable
+!AUX inscrutable
+!AUX kind of
+!AUX kinda
+!AUX mysterious
+!AUX not clear cut
+!AUX not known
+!AUX on !DETERMINER fence
+!AUX only estimating
+!AUX only presumed that
+!AUX only probable
+!AUX oscillating
+!AUX ostensible
+!AUX perplexing
+!AUX possibly
+!AUX purported
+!AUX purportedly
+!AUX puzzling
+!AUX rather unclear
+!AUX somewhat
+!AUX somewhat likely
+!AUX somewhat unlikely
+!AUX sort of
+!AUX still not known
+!AUX stumped
+!AUX supposedly true
+!AUX tentatively
+!AUX torn between
+!AUX torn over
+!AUX uncertain
+!AUX unclear
+!AUX unfamiliar with
+!AUX vague
+!COST what !MODAL
+!COST what it !MODAL
+!DETERMINER alleged
+!DETERMINER allegedly
+!DETERMINER arguable
+!DETERMINER baffling
+!DETERMINER best estimate
+!DETERMINER Byzantine
+!DETERMINER cloudy situation
+!DETERMINER faintest !IDEA
+!DETERMINER gamble
+!DETERMINER incalculable
+!DETERMINER juries !AUX out
+!DETERMINER jury !AUX out
+!DETERMINER mysterious
+!DETERMINER mystery
+!DETERMINER outlook !AUX mixed
+!DETERMINER outlooks !AUX mixed
+!DETERMINER prognoses !AUX mixed
+!DETERMINER prognosis !AUX mixed
+!DETERMINER state of flux
+!DETERMINER states of flux
+!DETERMINER supposed
+!DETERMINER suspense
+!DETERMINER suspense of
+!DETERMINER uncertain
+!DETERMINER uncertainty of
+!DETERMINER unknowable
+!DETERMINER unknown
+!DETERMINER unknown quantity
+!DETERMINER unpredicted
+!DETERMINER verdict !AUX not yet out
+!DETERMINER verdicts !AUX not yet out
+!DO not even know
+!DO not get !QUESTION anybody
+!DO not get !QUESTION anyone
+!DO not know
+!DO not know how to
+!DO not know what
+!DO not know where
+!DO not know where to get an authorizing signature
+!DO not know whether or not
+!DO not really know
+!DO not see !QUESTION anybody
+!DO not see !QUESTION anyone
+!DO not understand !QUESTION anybody
+!DO not understand !QUESTION anyone
+!FEEL unsure
+!FILL with doubt
+!FIND it inexplicable
+!FIND it inscrutable
+!GET a guess
+!HANG in !DETERMINER balance
+!HAVE !DETERMINER dilemma
+!HAVE !POSSESSIVEPRONOUN doubts
+!HAVE doubts
+!HAVE everything to learn
+!HAVE mixed feelings about
+!HAVE my doubts
+!HAVE no clue about
+!HAVE no IDEA
+!HAVE no plan
+!HAVE not !DETERMINER vaguest
+!HAVE not !DETERMINER vaguest !IDEA
+!HAVE our doubts
+!HAVE second thoughts
+!HAVE second thoughts about
+!HAVE someone on
+!HAVE two minds
+!KEEP !POSSESSIVEPRONOUN fingers crossed
+!KEEP !PRONOUNOBJECTIVE guessing
+!KEEP anyone guessing
+!KEEP enshrouded
+!KEEP her guessing
+!KEEP him guessing
+!KEEP one guessing
+!KEEP them guessing
+!KEEP us guessing
+!KEEP us on edge
+!KEEP us on pins and needles
+!KEEP us on tenterhooks
+!KNOW from nothing
+!KNOW not
+!KNOW not how
+!KNOW not what
+!KNOW not when
+!KNOW not who
+!KNOW not why
+!KNOW nothing
+!KNOW nothing about
+!KNOW nothing of
+!MAKE !DETERMINER guess
+!MAKE !DETERMINER guess at
+!MAKE !DETERMINER rough guess
+!MAKE !YOU question
+!MAKE her question
+!MAKE him question
+!MAKE one question
+!MAKE them question
+!MAKE us question
+!MODAL guess
+!MODAL hazard
+!MODAL never
+!PRONOUNNOMINAL oscillate
+!PRONOUNNOMINAL oscillates
+!QUESTION !PRONOUNNOMINAL !MODAL have
+!QUESTION !ROYALWE !MODAL have
+!QUESTION !YOU !MODAL have
+!QUESTION am !ROYALWE to !SAY
+!QUESTION anybody
+!QUESTION anyone
+!QUESTION ANYONE !MODAL have
+!QUESTION can !PRONOUNNOMINAL know
+!QUESTION can !PRONOUNNOMINAL tell
+!QUESTION can !YOU know
+!QUESTION can !YOU tell
+!QUESTION can ANYONE know
+!QUESTION can ANYONE tell
+!QUESTION can one know
+!QUESTION can one tell
+!QUESTION can we know
+!QUESTION can we tell
+!QUESTION in !DETERMINER world is going on
+!QUESTION knows
+!QUESTION knows how long
+!QUESTION shall decide
+!SAY about
+!SAY around
+!SIT on !DETERMINER fence
+!SIT right on !DETERMINER fence
+!TRY to convince
+!WAS crossing !POSSESSIVEPRONOUN fingers
+!WAS keeping !POSSESSIVEPRONOUN fingers crossed
+. but !PRONOUNNOMINAL doesn't know
+. but !PRONOUNNOMINAL don't know
+. but !ROYALWE don't know
+. but !YOU don't know
+. but we don't know
+. search me?
+. what's next?
+.but !ROYALWE don't know
+a ballpark of
+a better than even chance
+a borderline
+a borderline call
+a fork in !DETERMINER road
+a matter of conjecture
+a matter of uncertainty
+a maze of
+a shadow of doubt
+a stranger to
+a stretch to believe
+a stretch to think
+a supposed
+a tohu-bohu
+about !NUMS1TO100
+absolutely no clue
+absolutely no clues
+according to an unconfirmed report
+according to unconfirmed reports
+alive or not
+all doubt
+allegation
+allegations
+almost all
+almost everybody
+almost everyone
+almost impossible
+almost unknowable
+almost unreachable
+ambiguas in vulgum spargere voces
+ambiguas in vulgus spargere voces
+ambiguities in
+ambiguities of
+ambiguity in
+ambiguity of
+ambiguous
+ambiguous expression
+ambiguously
+ambiguousness
+ambivalent about
+amorphous
+amorphously
+amorphousness
+an alleged
+an ambiguity
+an uncertain
+an uncertainty
+an unfathomable
+an unknown
+and !QUESTION knows
+and !QUESTION knows what else
+and !ROYALWE don't know what
+and do not know
+and God knows what
+and heaven knows what
+and maybe
+and perhaps
+and whatnot and whatever
+anonym
+anonymity
+anonymous
+anonymously
+anonymousness
+anonyms
+anonynmous
+any !PRONOUNNOMINAL doesn't know
+any answers or solutions unknown
+any answers unknown
+any charge unknown
+any charges known
+any place unknown
+any unknown color
+any unknown day
+any unknown pattern
+any unknown patterns
+any unknown way
+anybody's guess
+anyone's guess
+approximate
+approximated
+approximately
+approximates
+approximating
+approximation
+approximations
+arcana
+arcane
+arcanum
+are not knowing
+are not meant for anyone to understand
+are not meant for us to understand
+are on !DETERMINER fence
+are torn over
+aren't meant for anyone to understand
+aren't meant for us to understand
+arguable
+arguable that
+arguably
+arguably that
+around a ballpark of
+as !DETERMINER case !MODAL be
+as !ROYALWE understand it
+as a guess
+as a rough
+as a rough estimate
+as a rough guess
+as an approximation
+as far as !PRONOUNNOMINAL can tell
+as far as !PRONOUNNOMINAL know
+as far as !PRONOUNNOMINAL knows
+as far as !ROYALWE can tell
+as far as !ROYALWE know
+as far as !YOU can tell
+as far as anyone can tell
+as far as anyone knows
+as likely as not
+as near as !PRONOUNNOMINAL can tell
+as near as anyone
+as things !MODAL go
+as yet unsubstantiated
+at a crossroads
+at a first approximation
+at a loose end
+at a loss about
+at a loss for
+at a loss for what to do
+at a loss for words
+at a loss over
+at about
+at an important crossroad
+at an important crossroads
+at any place
+at any time
+at any time of
+at any time,
+at around
+at random
+at sea about
+at sea over
+AT SOME POINT
+at some time
+at sometime
+baffle
+baffle !PRONOUNOBJECTIVE
+baffled
+baffled !PRONOUNOBJECTIVE
+bafflement
+bafflements
+baffler
+bafflers
+baffles
+baffles !PRONOUNOBJECTIVE
+baffling
+baffling !PRONOUNOBJECTIVE
+baffling that
+bafflingly
+ballpark-estimate
+ballpark-estimates
+ballpark-guess
+ballpark-guesses
+ballpark estimate
+ballpark estimates
+ballpark guess
+ballpark guesses
+be at sea
+be on !DETERMINER fence
+before anyone knew
+befuddle
+befuddled
+befuddlement
+befuddlements
+befuddles
+befuddling
+beg leave to doubt
+bemuse
+bemused
+bemusedly
+bemusement
+bemusements
+bemuses
+bemusing
+bet on
+bets on
+betting on
+betwixt and between
+bewilder
+bewildered
+bewilderedly
+bewilderedness
+bewildering
+bewildering that
+bewilderingly
+bewilderment
+bewilders
+beyond her ken
+beyond her reasoning
+beyond his ken
+beyond his reasoning
+beyond my ken
+beyond my reasoning
+beyond our ken
+beyond our reasoning
+beyond their ken
+beyond their reasoning
+beyond your ken
+blind guess
+blind guesses
+bogglish
+bogglishly
+bogglishness
+borderline
+borderline call
+bumfuzzle
+bumfuzzled
+bumfuzzles
+bumfuzzling
+but !PRONOUNNOMINAL doesn't know
+but !PRONOUNNOMINAL don't know
+but !YOU don't know
+but conjecture
+but do not know
+but maybe
+but perhaps
+but we don't know
+by any
+by any chance
+by any manner of means
+by any means available
+by any possibility
+by coincidence
+by no means certain
+by some
+by some means
+by what
+by what means
+by what mode
+by what name
+by whatever
+by whatever name
+byzantine
+came what !MODAL
+can't be calculated
+can't be positive
+can't be sure
+can't be sure that
+can't decide
+can't decide whether or not
+can't exactly recall
+can't explain
+can't fathom
+can't know
+can't make heads or tails
+can't make heads or tails of
+can't make heads or tails out of
+can't make up my mind whether or not
+can't outguess
+can't predict
+can't recall
+can't understand
+can any one
+Can anybody
+can anyone
+can be confusing
+can be misleading
+can but presume
+can get abstract
+can get detailed
+can get very abstract
+can get very detailed
+can guess that
+can infer that
+can just estimate
+can never be sure
+can never be too sure
+can not decide
+can not fathom
+can not know
+can only estimate
+can only estimate that
+can only presume
+can?t be explained
+can?t be sure
+cannot !SAY for sure
+cannot be as definite
+cannot be calculated
+cannot be definite
+cannot be sure
+cannot decide whether or not
+cannot explain
+cannot fathom
+cannot know
+cannot make up my mind whether or not
+cannot reach closure on
+cannot understand
+cast doubt
+cast doubt on
+casted doubt
+casted doubt on
+casting doubt
+casting doubt on
+casts doubt
+casts doubt on
+causeless
+certain unnamed
+circa
+cliff-hanger
+cliff-hangers
+cliff-hanging
+cliff hanger
+cliff hangers
+cliffhanger
+cliffhangers
+clocked in
+cloudy situation
+cloudy situations
+clueless about
+clutch at straws
+clutched at straws
+clutches at straws
+clutching at straws
+come what !MODAL
+comes what !MODAL
+coming what !MODAL
+completely in !DETERMINER dark
+complex tangle
+complex tangles
+complexities
+complexities of
+complexities of !DETERMINER situation
+complexity
+complexity of
+complexity of !DETERMINER situation
+conceivable
+conceivably
+conceivably possible
+confidence shaken
+confidence wavered
+confidence wavering
+confounded about
+confounded as to how
+confused
+confused and uncertain
+confusing that
+confusion as to
+conjecturing whether
+conundrum
+conundrums
+could hazard
+could not decide
+could not fathom
+could not know
+couldn't decide
+couldn't fathom
+couldn't hazard
+creeping thing
+creeping things
+crossed !POSSESSIVEPRONOUN fingers
+cryptic
+cryptically
+crypticness
+curiosities
+curwhibble
+curwhibbles
+damned if !ROYALWE know
+dare !ROYALWE !SAY
+dare !SAY
+debatable
+debatable !QUESTION
+debatable that
+debatably
+detail escapes
+details !AUX sketchy
+details escape
+details remain sketchy
+dicey
+did not know
+did not really know
+didn't !KNOW what's happening
+didn't !KNOW what  happening
+didn't !KNOW what was happening
+didn't know
+didn't know !DETERMINER first thing about
+didn't know !POSSESSIVEPRONOUN own strength
+didn't know !PRONOUNOBJECTIVE from Adam
+didn't know !QUESTION
+didn't know beans
+didn't know beans about
+didn't know enough to come in out of !DETERMINER rain
+didn't know for sure
+didn't know from nothing
+didn't know if !PRONOUNNOMINAL  coming or going
+didn't know if !PRONOUNNOMINAL !AUX coming or going
+didn't know that
+didn't know where to turn
+didn't know whether !PRONOUNNOMINAL !AUX coming or going
+didn't know which way to turn
+didn't really know
+didn't understand
+differing opinions about
+difficult to understand
+dilemma
+dilemmas
+dingus
+dinguses
+disbelief
+disbeliefs
+disbelieve
+disbelieved
+disbeliever
+disbelievers
+disbelieves
+disbelieving
+disbelievingly
+disposed to doubt
+divided about
+divided about that
+divided in my own mind
+do not know
+do not know !QUESTION
+do not know for sure
+do not know how
+do not know when
+do not know why
+do not quite understand
+do not understand
+doesn't have a clue
+doesn't know
+Doesn't know how to
+doesn't quite understand
+doesnt' know for sure
+don't even know
+don't exactly recall
+don't get !QUESTION anyone
+don't get!QUESTION anybody
+don't have a clue
+don't have a crystal ball
+don't know
+don't know !DETERMINER odds
+don't know !PRONOUNOBJECTIVE from Adam
+don't know !QUESTION
+don't know !YOU from Adam
+don't know anyone from Adam
+don't know for sure
+don't know from Adam
+don't know how to
+don't know !QUESTION
+don't know !QUESTION it may
+don't know !QUESTION it might
+don't know !QUESTION everyone
+don't know !QUESTION it may
+don't know !QUESTION it might
+don't know what's happening
+don't know what
+don't know what !ROYALWE think
+don't know what can happen
+don't know what can or will happen
+don't know what will happen
+don't know where
+don't know whether or not
+don't quite understand
+don't really know
+don't really understand
+don't understand
+doohickey
+doohickeys
+double-minded
+double-mindedly
+double-mindedness
+double-sworded
+doubt
+doubt-beset
+doubt-cherishing
+doubt-dispelling
+doubt-excluding
+doubt-harboring
+doubt-ridden
+doubt-sprung
+doubt-troubled
+doubt !DETERMINER truth of
+doubt !POSSESSIVEPRONOUN word
+doubt !REFLEXIVEPRONOUN
+doubt !YOU word
+doubt about
+doubt as to
+doubt herself
+doubt himself
+doubt my word
+doubt myself
+doubt not
+doubt our word
+doubt ourselves
+doubt that
+doubt themselves
+doubt whether
+doubt yourself
+doubt yourselves
+doubtable
+doubted
+doubted that
+doubter
+doubters
+doubtful
+doubtful about
+doubtfully
+doubtfulness
+doubting
+doubting about
+doubting mania
+doubting that
+doubting thomas
+doubtingly
+doubts
+doubts about
+doubts that
+dubieties
+dubiety
+dubious
+dubious about
+dubious that
+dubiousness
+dubitable
+dubitation
+dubitations
+dunno
+enigma
+enigmas
+enigmatic
+enigmatical
+enigmatically
+enshroud !DETERMINER
+enshroud in mystery
+enshrouded !DETERMINER
+enshrouded in mystery
+enshrouding !DETERMINER
+enshrouding in mystery
+enshrouds !DETERMINER
+enshrouds in mystery
+entertain doubts
+entertained doubts
+entertaining doubts
+entertains doubts
+enwrap in mystery
+enwrapped in mystery
+enwrapping in mystery
+enwraps in mystery
+equivocal as to
+equivocal on
+esoteric
+esoterically
+estimate
+ESTIMATE THAT
+estimated
+estimated !DETERMINER
+estimates
+ESTIMATES THAT
+estimating
+ESTIMATING THAT
+estimation
+estimations
+ever !MODAL
+faceless
+facelessness
+far as !ROYALWE can tell
+far from knowing
+far from knowledgeable
+fathomless
+fathomlessly
+feel some doubt
+feel some hesitation
+find it nebulous
+find it surprising
+find myself unable to decide
+find myself vacillating
+finding it surprising
+finds it surprising
+float in a sea of doubt
+floated in a sea of doubt
+floating in a sea of doubt
+floats in a sea of doubt
+flummox
+flummoxed
+flummoxes
+flummoxing
+flux
+foggy about
+FOR ALL !PRONOUNNOMINAL KNOW
+FOR ALL !PRONOUNNOMINAL KNOWS
+for all !YOU know
+for all anyone know
+for all anyone knows
+for better or for worse
+for better or worse
+for lack of something better
+for reasons !PRONOUNNOMINAL can't explain
+for reasons no one can explain
+for reasons one can't explain
+for reasons that can't be explained
+for reasons we can't explain
+for reasons you can't explain
+for some reason
+for some unknown
+for the life of me
+for whatever reason
+found it surprising
+fremd
+from any quarter
+from somewhere
+from time to time !MODAL happen
+gamble
+garbled account
+garbled accounts
+garbled accounts of
+gismo
+gismos
+give or take
+gizmo
+gnawing doubt
+gnawing doubts
+God knows what
+good guys or bad
+good or bad
+gray situation
+grey area
+grey areas
+grey situation
+grey situations
+grope
+grope in !DETERMINER dark
+groped
+groped in !DETERMINER dark
+groper
+gropers
+gropes
+gropes in !DETERMINER dark
+groping
+groping in !DETERMINER dark
+gropingly
+guess
+guess is that
+guess it
+guess it was
+guessed
+guesser
+guessers
+guesses
+guesses are that
+guessing
+guesstimate
+guesstimated
+guesstimates
+guesstimating
+guesswork
+had !YOU guessing
+had her guessing
+had him guessing
+Had second thoughts
+had them guessing
+had to take it on faith
+had us guessing
+hang in !DETERMINER balance
+hang in doubt
+hang in suspense
+hanged in !DETERMINER balance
+hanging in !DETERMINER balance
+hanging in doubt
+hanging in suspense
+hangs in !DETERMINER balance
+hangs in doubt
+hangs in suspense
+haply
+happen what !MODAL
+happened what !MODAL
+happening what !MODAL
+happens what !MODAL
+harbor doubt
+harbor doubts
+harbored doubt
+harbored doubts
+harboring doubt
+harboring doubts
+harbors doubt
+harbors doubts
+hard to
+hard to deal with
+hard to do
+hard to know
+hard to put a finger on
+hard to put her finger on
+hard to put his finger on
+hard to put my finger on
+hard to put our fingers on
+hard to put their fingers on
+hard to put your finger on
+hard to understand
+has !YOU guessing
+has enshrouded
+has her guessing
+has him guessing
+has no known
+Has second thoughts
+has them guessing
+has to take it on faith
+has us guessing
+have a little hope
+have been waffling
+have differing opinions
+have hesitations
+have hopes
+have mixed feelings
+have my doubts
+have no closure
+have not found out
+Have second thoughts
+have some hope
+have to rely on an estimate
+have to rely on estimation
+have to take it on faith
+have two minds on
+haven't !DETERMINER faintest
+haven't !DETERMINER faintest !IDEA
+haven't !DETERMINER foggiest
+haven't !DETERMINER vaguest
+haven't a clue
+haven't figured out
+haven't found out
+Having second thoughts
+having to take it on faith
+hazard a guess
+hazard a prediction
+hazard an opinion
+hazarded a guess
+hazarded an opinion
+hazarding a guess
+hazarding an opinion
+hazards a guess
+hazards an opinion
+hazily
+hazy about
+hazy as to
+hazy idea
+hazy ideas
+hazy recollection
+hazy recollections
+hazy toward
+hazy with respect to
+he's pretty
+he doesn't know
+he never really knows
+head-scratcher
+head-scratching
+head scratcher
+headscratcher
+headscratchers
+headscratching
+heaven knows
+heaven knows !QUESTION
+heaven knows what
+hedge
+hedge !DETERMINER
+hedge !POSSESSIVEPRONOUN
+hedge !POSSESSIVEPRONOUN bets
+hedge !PRONOUNOBJECTIVE
+hedge about
+hedge about by
+hedge my bets
+hedge our bets
+hedge your bets
+hedged !DETERMINER
+hedged !POSSESSIVEPRONOUN
+hedged !POSSESSIVEPRONOUN bets
+hedged !PRONOUNOBJECTIVE
+hedged about
+hedged about by
+hedged at !DETERMINER question
+hedged my bets
+hedged our bets
+hedged your bets
+hedges
+hedges !DETERMINER
+hedges !POSSESSIVEPRONOUN
+hedges !POSSESSIVEPRONOUN bets
+hedges !PRONOUNOBJECTIVE
+hedges about
+hedges about by
+hedges my bets
+hedges our bets
+hedges your bets
+hedging
+hedging !DETERMINER
+hedging !POSSESSIVEPRONOUN
+hedging !POSSESSIVEPRONOUN bets
+hedging !PRONOUNOBJECTIVE
+hedging about
+hedging about by
+hedging my bets
+hedging our bets
+hedging your bets
+held !YOU in suspense
+held her in suspense
+held him in suspense
+held in suspense
+held them in suspense
+hem-and-haw
+hem and haw
+hem and haw around
+hemmed-and-hawed
+hemmed and hawed
+hemming-and-hawing
+hemming and hawing
+hems-and-haws
+hems and haws
+her guessing
+hesitate to
+hesitated to
+hesitates to
+hesitating to
+highly ambiguous
+him guessing
+hold !YOU in suspense
+hold anyone in suspense
+hold her in suspense
+hold him in suspense
+hold in suspense
+hold them in suspense
+hold us in suspense
+holding !YOU in suspense
+holding anyone in suspense
+holding her in suspense
+holding him in suspense
+holding in suspense
+holding them in suspense
+holding us in suspense
+holds !YOU in suspense
+holds anyone in suspense
+holds her in suspense
+holds him in suspense
+holds them in suspense
+holds us in suspense
+hopefully
+horn of a dilemma
+horns of a dilemma
+how about !DETERMINER
+how perplexing
+however that !MODAL be
+hung in !DETERMINER balance
+hung in doubt
+hung in suspense
+idiopathies
+idiopathy
+if luck has it
+if luck would have it
+ignotum per ignotius
+imperfect appreciation
+imperfect appreciations
+imperfect identification
+imperfect identifications
+imperfect knowledge
+imperfect knowledges
+imperfect recognition
+imperfect recognitions
+imperfect understanding
+imperfect understandings
+imponderability
+imponderable
+imponderableness
+imponderables
+imponderably
+impossible to know
+impossible to resolve
+impossible to show
+in !DETERMINER cards
+in !DETERMINER cards for
+in !DETERMINER cards for !PRONOUNOBJECTIVE
+in !DETERMINER dark about
+in !DETERMINER dark as to
+in !DETERMINER dark over
+in !DETERMINER dark pertaining to
+in !DETERMINER dark regarding
+in !DETERMINER dark when it comes to
+in !DETERMINER dark with respect to
+in !DETERMINER rough neighborhood of
+in a cloud of uncertainty
+in a dilemma
+in a dither
+in a fog
+in a haze
+in a haze about
+in a haze of
+in a jumble
+in a maze
+in a muddle
+in a quandary
+in a quandry
+in a sea of doubt
+in a sea of doubts
+in a state of flux
+in a state of suspense
+in a state of vacillation
+in a tizzy
+in about
+in an uncertain
+in an uncertain state
+in bewilderment
+in doubt
+in some doubt
+in some measure
+in some place
+in some such way
+in some uncertain way
+in some unknown way
+in some way or other
+in someone
+in something
+in states of flux
+in suspense
+in the ballpark of
+in the dark about
+in the dark over
+in whatever
+in whatever fashion
+in who becomes
+in who is
+incertitude
+incertum
+incommensurability
+incommensurable
+incommensurableness
+incommensurables
+incommensurably
+incommensurate
+incommensurately
+incommensurateness
+incomputable
+incomputably
+inconclusive
+inconclusively
+inconclusiveness
+inconnu
+indecipherability
+indecipherable
+indecipherably
+indefinable
+indefinableness
+indefinably
+indefinite
+indefinite about
+indefinite toward
+indefinite towards
+indefinitely
+indefiniteness
+indefinites
+indemonstrabilities
+indemonstrability
+indemonstrable
+indemonstrableness
+indemonstrably
+indeterminable
+indeterminably
+indicates that something
+inestimable
+inexact
+inexactitude
+inexactitudes
+inexactly
+inexactness
+inexplicable
+inexplicably
+into thin air
+is not black or white
+is not meant to be understood
+isn't black or white
+isn't clear cut
+isn't meant to be understood
+isn't particularly clear
+it's a big gamble
+it's a gamble
+it's a stretch to !SAY
+it's a stretch to claim
+it's beyond anyone !QUESTION
+it's beyond the knowledge
+it's Greek to
+it's not clear
+it's over my head
+it's some sort of
+it's some way
+it's somebody
+it's someplace
+it's something of a
+it's something or other
+it's something to that effect
+it's somewhere
+it's somewhere about
+it's somewhere in !DETERMINER neighborhood of
+it's sort of
+it's sort of a
+it's too deep for
+it's too deep for !PRONOUNOBJECTIVE
+it's way beyond the grasp
+it's way over my head
+it !AUX alleged that
+it !AUX allegedly
+it !AUX appearing that
+it !AUX arguable
+it !AUX arguably
+it !AUX baffling
+it !AUX bewildering
+it !AUX bewildering to
+it !AUX conceivable
+it !AUX conceivably
+it !AUX confounding
+it !AUX confusing
+it !AUX doubtful that
+it !AUX inexplicable
+it !AUX inscrutable
+it !AUX mysterious
+it !AUX only presumed that
+it !AUX only probable
+it !AUX ostensible
+it !AUX perplexing
+it !AUX possibly
+it !AUX purported
+it !AUX purportedly
+it !AUX reported
+it !AUX supposedly true
+it !AUX tentatively
+it baffles
+it beats me
+it may or may not
+jiggledy-wiggledy
+jiggledy wiggledy
+just a guess
+just can't decide
+just can not decide
+just cannot decide
+just conjecture
+just could not decide
+just couldn't decide
+just guesses
+just how !MODAL
+just not certain
+just not positive
+just not sure
+just partially
+just supposing
+just what !MODAL
+just when !MODAL
+just why !MODAL
+kind of
+kind of a
+kinda
+knew not
+knew nothing
+knew squat
+knew squat about
+knew very little
+know not
+know nothing
+know squat
+know squat about
+know very little
+know very little about
+knowing nothing
+knowing squat
+knowing squat about
+knowing very little
+knows not
+knows nothing
+knows squat
+knows squat about
+knows very little
+labyrinth
+labyrinthian
+labyrinthine
+labyrinths
+lack of knowledge
+lacking proof
+lacking proof of
+leap in !DETERMINER dark
+leap of faith
+leaping in !DETERMINER dark
+leaps in !DETERMINER dark
+leaps of faith
+leapt in !DETERMINER dark
+leave in doubt
+leave uncertain
+leaves in doubt
+leaves uncertain
+leaving in doubt
+leaving uncertain
+left in doubt
+left uncertain
+less clear
+less confidence
+less confident
+less confidently
+less than clear
+let !PRONOUNOBJECTIVE hazard
+limited understanding
+little understanding
+little understanding of
+lose !DETERMINER clew
+lose !DETERMINER clue
+lose !DETERMINER scent
+lose !DETERMINER trail
+lose confidence
+loses !DETERMINER clew
+loses !DETERMINER clue
+loses !DETERMINER scent
+loses !DETERMINER trail
+loses confidence
+losing !DETERMINER clew
+losing !DETERMINER clue
+losing !DETERMINER scent
+losing !DETERMINER trail
+losing confidence
+lost !DETERMINER clew
+lost !DETERMINER clue
+lost !DETERMINER scent
+lost !DETERMINER trail
+lost confidence
+made a guess
+make a guess
+make or break
+makes a guess
+making a guess
+manage somehow
+managed somehow
+manages somehow
+managing somehow
+many ifs
+matter of conjecture
+matter of ignorance
+matters of conjecture
+matters of ignorance
+maybes
+maze
+mazelike
+mazes
+memory gap
+memory gaps
+memory lapse
+memory lapses
+mental-reservation
+mental-reservations
+mental reservation
+mental reservations
+mere conjecture
+mere guess
+mere guesses
+mere speculation
+merely conjecture
+merely conjecturing
+merely speculating
+merely speculation
+mind-perplexing
+mish-mash
+mishmash
+mishmash of
+missing pieces of !DETERMINER puzzle
+missing puzzle parts
+missing puzzle piece
+missing puzzle pieces
+moot case
+moot cases
+moot point
+moot points
+more than !PRONOUNNOMINAL can understand
+more than !YOU can understand
+more than ANYONE can understand
+more than we can understand
+murky situation
+murky situations
+must be somewhere
+must estimate
+must rely on an estimate
+muzzier
+muzziest
+muzzy
+my bewilderment
+my vacillating
+my vacillation
+mysteries
+mysterious
+mysteriously
+mysteriousness
+mystery
+mystic
+mystical
+mystically
+mysticism
+mysticisms
+mystics
+mystification
+mystifications
+mystified
+mystifier
+mystifiers
+mystifies
+mystify
+mystifying
+mystifyingly
+mystique
+mystiques
+nameless
+namelessly
+namelessness
+near as !ROYALWE can tell
+nebulose
+nebulosely
+nebulous
+nebulous about
+nebulously
+nebulousness
+need a crystal ball
+need to be sure
+needed to be sure
+needing to be sure
+needs to be sure
+neither black nor white
+neither fish
+neither fish nor fowl
+neither fish, nor flesh, nor good red herring
+neither here nor there
+neither hide nor hair
+never-certain
+never 100% confident
+never can be certain
+never can be completely sure
+never can be sure
+never can be totally sure
+never certain
+never confident
+never fully confident
+never knew
+never know
+never know !QUESTION
+never know how to
+never know how to give
+never knowing
+never known
+never knows
+never really know
+no certain
+no clear
+no clue
+no clue as
+no clue as to
+no clue as to !QUESTION
+no clues
+no known
+no one !AUX entirely sure
+no one !AUX sure
+no one knows
+no one knows for sure
+no one really knows
+no one really knows for sure
+no way of knowing
+no way to know
+nobody one knows
+none !DETERMINER wiser
+not !DETERMINER foggiest
+not !DETERMINER foggiest idea
+not !DETERMINER remotest idea
+not !DETERMINER slightest idea
+not at all sure
+not black or white
+not certain
+not certain !QUESTION
+not certain that
+not certain to
+not clear
+not clear-cut
+not clear !QUESTION
+not clear about
+not clearcut
+not clinched
+not confident
+not contactable
+not convinced that
+not definite
+not enough evidence
+not exactly sure
+not figured out
+not firm about
+not firm about !DETERMINER details
+not firm on
+not firm on !DETERMINER details
+not knew
+not know
+not know !DETERMINER first thing about
+not know !DETERMINER half of it
+not know !DETERMINER score
+not know !DETERMINER time of day
+not know !DETERMINER way home
+not know !QUESTION
+not know any of !DETERMINER answers
+not know beans
+not know chalk from cheese
+not know from A to B
+not know from Adam
+not know how
+not know someone from Adam
+not know up from down
+not know what's what
+not know what !YOU !AUX about
+not know what it  all about
+not know what o'clock it
+not know what to make of
+not know when
+not know when !YOU !AUX beaten
+not know when to stop
+not know where
+not know where !YOU stand
+not know where to turn
+not know whether
+not know which way  up
+not know which way to turn
+not know why
+not know your interest
+not know your own mind
+not knowing
+not knowing !QUESTION
+not known
+not knows
+not meant to be understood
+not particularly clear
+not positive
+not positive about
+not positive about that
+not positive that
+not quite a
+not quite certain
+not quite sure
+not rightly know
+not sufficient evidence
+not sure
+not sure !QUESTION
+not sure that
+number of uncertainties
+of doubt
+of doubts
+of mixed minds
+of no certain
+of some doubt
+of some sort
+of sorts
+of two minds
+of two minds about
+of uncertain
+off !DETERMINER scent
+on !DETERMINER borderline
+on !DETERMINER fence about
+on !DETERMINER fence over
+on !DETERMINER guess that
+on !DETERMINER horns of a dilemma
+on !DETERMINER order of about
+on about
+on alleged
+on suspected
+one can never know
+one doesn't know
+one never knows
+one way or another
+only a guess
+only alleged
+only an approximation
+only approximations
+only conjecture
+only conjecturing
+only estimating
+only god knows
+only god knows what
+only guesses
+only guessing
+only limited understanding
+only partially
+only partially sure
+only seeming
+only speculate at
+only speculated at
+only speculates at
+only speculating
+only speculating at
+only speculation
+only speculations
+only suggesting
+only supposing
+only theories
+only time can
+only time can show
+only time can tell
+only time will
+only time will tell
+opaque content
+opaque reading
+opaque topic
+open for debate
+open to debate
+open to different interpretation
+open to different opinons
+open to interpretation
+open to much interpretation
+open to various
+or maybe
+or perhaps
+or so
+or thereabouts
+or whatever
+oscillate in !POSSESSIVEPRONOUN thinking
+oscillated in !POSSESSIVEPRONOUN thinking
+oscillating between two opinions
+others
+our best estimate
+out of countenance
+pass all understanding
+pass belief
+pass comprehension
+pass understanding
+past comprehension
+past her comprehension
+past her understanding
+past his comprehension
+past his understanding
+past my comprehension
+past my understanding
+past our comprehension
+past our understanding
+past their comprehension
+past their understanding
+past your comprehension
+past your understanding
+pendente lite
+peradventure
+peradventures
+perhaps
+perhaps a little
+perhaps a smidgeon
+perhaps question
+perplexed
+perplexedly
+perplexing
+perplexingly
+perplexities
+perplexity
+piece of guesswork
+pieces of guesswork
+ponder whether to
+pondered whether to
+pondering whether to
+ponders whether to
+possibly
+predictable within limits
+pretty uncertain
+problematic to comprehend
+problematic to know
+problematic to understand
+pure conjecture
+pure speculation
+purely conjecturing
+purely speculating
+purport
+puzzle
+puzzled
+puzzlement
+puzzlements
+puzzler
+puzzlers
+puzzles
+puzzling
+puzzlingly
+question perhaps
+question whether or not
+question whether or not it !AUX
+questionably
+questioned whether or not
+questioned whether or not it !AUX
+questioning whether or not
+questioning whether or not it !AUX
+questions whether or not
+questions whether or not it !AUX
+quicksilver
+quite doubtful
+quite possibly
+quizzical
+quizzically
+ragbag
+ragbags
+rather uncertain
+rather unclear
+rather vague
+ravelment
+ravelments
+real or imagined
+refutably
+regarding who is
+relative to who is
+remain wide open
+remained wide open
+remaining loose ends
+remaining wide open
+remains a baffling mystery
+remains a complete mystery
+remains a mystery
+remains a total mystery
+remains in doubt
+remains indeterminate
+remains puzzling
+remains uncertain
+remains undetermined
+remains wide open
+render it uncertain
+render uncertain
+rendered it uncertain
+rendered uncertain
+rendering it uncertain
+rendering uncertain
+renders it uncertain
+renders uncertain
+reportedly
+respecting who is
+right on !DETERMINER fence
+right past her understanding
+right past his understanding
+right past my understanding
+right past our understanding
+right past their understanding
+right past your understanding
+risk a prediction
+rough estimate
+rough estimates
+rough guess
+rough guesses
+rough in
+roughly
+roughly !NUMS1TO100
+roughly about
+scant understanding
+scant understanding of
+sea of doubt
+sea of doubts
+second-thought
+second-thoughts
+second thought
+Second thoughts
+seem
+seemed
+seeming
+seemingly
+seems
+sense-confounding
+sense-confusing
+sense of mystery
+senses of mystery
+shadow of doubt
+shadows of doubt
+shaken confidence in
+she's pretty
+she doesn't know
+she never really knows
+shielded qualities
+shielded quality
+shoot in !DETERMINER dark
+shooting in !DETERMINER dark
+shoots in !DETERMINER dark
+shot in !DETERMINER dark
+should it ever
+should not know
+shouldn't know
+shrouded in confusion
+sight-unseen
+sights unseen
+since God knows when
+sit on !DETERMINER fence
+sits on !DETERMINER fence
+sitting on !DETERMINER fence
+situation !AUX cloudy
+situation !AUX grey
+situation !AUX murky
+situations !AUX cloudy
+situations !AUX grey
+situations !AUX murky
+six of one and half a dozen of !DETERMINER other
+sketchier
+sketchiest
+sketchily
+sketchiness
+sketchy
+sketchy details
+slightest idea
+slightest idea about
+slightly unsure
+so far as !ROYALWE know
+so far as anyone knows
+so far as we know
+solely a guess
+solely conjecture
+solely conjecturing
+solely speculating
+solely speculation
+sombody else's
+some
+some-one
+some-time
+some actors
+some concoction
+some concoction of
+some concoctions
+some concoctions of
+some degree of
+some doubt
+some doubts
+some hootenannies
+some hootenanny
+some individual
+some kind of
+some kind of thing
+some man
+some measure of
+some mix
+some mix of
+some mixes of
+some of !DETERMINER details escape
+some of what
+some one
+some ones
+some other time
+some person
+some persons
+some sort of
+some unknown
+some way
+some ways
+some whim-wham
+some whim-whams
+some woman
+somebody
+somebody else
+someday
+somehow
+somehow finding its way
+somehow finds its way
+somehow found its way
+somehow had found its way
+somehow or another
+somehow or other
+somene !QUESTION can
+someone's
+someone !QUESTION !MODAL
+someone else
+someone else's
+someones'
+someplace
+someplace or other
+something
+something about
+something amiss
+something between
+something between !DETERMINER lines
+something but what
+something concerning
+something frightening
+something in hand
+something in reserve
+something kinda
+something kinda like
+something of a
+something on !DETERMINER order of
+something or other
+something pertaining
+something to that effect
+something wrong
+sometime
+someway
+someways
+somewhat
+somewhat at sea
+somewhat impersonalized
+somewhat sure
+somewhere
+somewhere about
+somewhere along !DETERMINER line
+somewhere down !DETERMINER line
+somewhere in !DETERMINER neighborhood of
+somewheres
+somewise
+sort of
+sort of a
+sorta
+spargere voceskeep
+speculate
+speculate at
+speculated
+SPECULATED ABOUT
+speculated at
+SPECULATES
+speculates at
+speculating
+speculating at
+speculation
+speculations
+SPECULATIVE
+sphinx-like
+sphinxlike
+sphynx-like
+spook !PRONOUNOBJECTIVE
+spooking !PRONOUNOBJECTIVE
+spooks !PRONOUNOBJECTIVE
+squinting construction
+squinting constructions
+state of flux
+states of flux
+still not known
+still remain to be seen
+still remained to be seen
+still remaining to be seen
+still remains to be seen
+still to be untested
+still unsubstantiated
+still untested
+still waffling
+straddle !DETERMINER fence
+straddled !DETERMINER fence
+straddles !DETERMINER fence
+straddling !DETERMINER fence
+strangely
+strangeness
+strangers
+strangest
+stuff
+stumped
+stumper
+stumpers
+stupefied !DETERMINER
+stupefied !POSSESSIVEPRONOUN
+stupefied !PRONOUNOBJECTIVE
+stupefies !DETERMINER
+stupefies !POSSESSIVEPRONOUN
+stupefies !PRONOUNOBJECTIVE
+stupefing !DETERMINER
+stupefing !POSSESSIVEPRONOUN
+stupefing !PRONOUNOBJECTIVE
+stupefy !DETERMINER
+stupefy !POSSESSIVEPRONOUN
+stupefy !PRONOUNOBJECTIVE
+sub spe rati.
+suffering indecision
+suggests that something
+supposable
+supposably
+supposal
+supposals
+suppose
+suppose perhaps
+supposed
+supposedly
+supposes
+supposing
+supposing !DETERMINER
+supposing perhaps
+supposing that
+supposing that it happens
+supposition
+suppositions
+suppositious
+supposititious
+suspect that
+suspect to
+suspected that
+suspected to
+suspecting that
+suspecting to
+suspects that
+suspects to
+suspense driven
+suspenseful
+suspensefully
+tenative contacts
+tenative methods
+tenatively
+tentative
+tentative about
+tentative approach
+tentative approaches
+tentative contact
+tentative examination
+tentative examinations
+tentative explanation
+tentative explanations
+tentative method
+tentatively
+tentativeness
+tentatives
+that's debatable
+that !MODAL
+that !MODAL be
+that !MODAL require
+that at any time
+that at any time or place
+that no one can explain
+the ambiguities
+them guessing
+there's something
+there's something about
+there  no way of knowing
+there !AUX differing opinions
+there !AUX little evidence
+there !AUX not enough evidence
+there !AUX not sufficient evidence
+there !AUX people out there
+there !AUX some out there
+there !MODAL be
+there doesn?t seem to be any clear pattern
+these !MODAL
+these !MODAL be !DETERMINER
+these !MODAL be substantially
+these !MODAL be substantively
+these !MODAL substantially
+these !MODAL substantively
+they're pretty
+they never really know
+thing
+thingamabob
+thingamabobs
+thingamajig
+thingamajigs
+things
+thingumabob
+thingumabobs
+thingumajigs
+think when and where
+thinking when and where
+thinks when and where
+this !AUX unfamiliar territory
+this !MODAL
+this !MODAL be !DETERMINER
+this blurs
+this mysterious
+thought-bewildered
+thought when and where
+threw !YOU off !DETERMINER scent
+threw doubt
+threw doubt upon
+through any means
+through some means
+throw doubt
+throw doubt upon
+throwing doubt
+throwing doubt upon
+throws doubt
+throws doubt upon
+tizzies
+tizzy
+to an uncertain
+to an uncertain degree
+to an uncertain extent
+to anyone !QUESTION
+to be in a fog
+to do otherwise !MODAL
+to do something about
+to guess
+to make a guess
+to one degree or another
+to some purpose
+to somewhere
+to whither
+too early to !SAY
+too early to be sure
+too early to know
+too early to tell
+too many ifs
+too soon to !SAY
+too soon to be sure
+too soon to know
+too soon to tell
+torn about
+torn between
+torn on that
+torn over
+tossup
+tossups
+totally in !DETERMINER dark
+totally unpredictable
+touch-and-go
+touch and go
+tremble in !DETERMINER balance
+trembled in !DETERMINER balance
+trembles in !DETERMINER balance
+trembling in !DETERMINER balance
+truth-perplexing
+truth perplexing
+two-minded
+unable to decide
+unable to understand
+unaccountably
+unaccounted
+unaccounted-for
+unaccounted for
+unaccustomed
+unaccustomedly
+unacquainted
+unanswerable
+unanswerably
+unascertainable
+uncalculable
+uncategorized
+uncertain
+uncertain !VPARTICLE
+uncertain about
+uncertain as to
+uncertain awareness
+uncertain ground
+uncertain grounds
+uncertain odds
+uncertain regarding
+uncertain toward
+uncertainly
+uncertainness
+uncertainties
+uncertainty
+uncertainty as to
+uncharacterized
+uncharted
+unchartered
+unchartered territories
+unchartered territory
+unchartered water
+unchartered waters
+unclear !QUESTION
+uncomprehending
+uncomprehendingly
+unconfident
+unconfirmed
+unconfirmed-report
+unconfirmed-reports
+unconfirmed report
+unconfirmed reports
+unconfirmed source
+unconfirmed sources
+uncontactable
+uncorroborated
+undecided
+undecided-issues
+undecided-voters
+undecided about
+undecided issue
+undecided issues
+undecided on
+undecided regarding
+undecided voter
+undecided voters
+undecidedly
+undecipherable
+undefinable
+undefined
+undemonstrable
+understanding !AUX incomplete
+understandings !AUX incomplete
+undeterminable
+undeterminably
+undetermined
+undiscoverable
+undocumented
+unexplainable
+unexplainably
+unexplained
+unfamiliar
+unfamiliar territory
+unfamiliar territory for
+unfamiliar turf
+unfamiliar with
+unfamiliarity
+unfathomable
+unfathomably
+unfathomed
+unfirm about
+unfirm about !DETERMINER details
+unfirm on
+unfirm on !DETERMINER details
+unforeseeable
+unforeseen and unknown
+ungraspable
+unidentifiable
+unidentifiably
+unidentified
+unkenned
+unknowable
+unknowably
+unknowing
+unknowingly
+unknown
+unknown effect
+unknown effects
+unknown nature of !DETERMINER events that !AUX happening
+unknown quantity
+unknown realities
+unknown reality
+unknown territory
+unmentioned
+unnamed
+unpath'd
+unpath'd waters
+unpredictable
+unpredicted
+unpredictive
+unpredictively
+unpredictiveness
+unprovable
+unprovably
+unproved
+unproven
+unreability
+unreachable
+unreachably
+unreckonable
+unresolvable
+unsettled about
+unsettled as to
+unsettled on
+unspecifiable
+unspecific
+unspecified
+unstipulated
+unsure
+unsure !QUESTION
+unsure about
+unsure of
+unsure of !REFLEXIVEPRONOUN
+unsure of myself
+unsure of ourselves
+unsure of yourself
+unsure of yourselves
+unsurely
+untested
+untraveled
+untraveled path
+untraveled paths
+untraveled road
+untraveled roads
+untraveled routes
+untraveled territories
+untraveled territory
+unverified
+unverified report
+unverified reports
+up for debate
+up in !DETERMINER air
+up in !DETERMINER air about
+us guessing
+vacillate
+vacillate about
+vacillate over
+vacillated
+vacillated over
+vacillated regarding
+vacillates
+vacillates over
+vacillates over whether
+vacillating
+vacillating over
+vacillating whether
+vacillatingly
+vacillation
+vacillations
+vacillator
+vacillatorily
+vacillatoriness
+vacillators
+vacillatory
+vague-appearance
+vague-appearances
+vague-feeling
+vague-feelings
+vague-idea
+vague-ideas
+vague-memories
+vague-memory
+vague-notion
+vague-notions
+vague-supposition
+vague-suppositions
+vague about
+vague appearance
+vague appearances
+vague feeling
+vague feelings
+vague idea
+vague ideas
+vague memories
+vague memory
+vague notion
+vague notions
+vague supposition
+vague suppositions
+vaguely
+vaguer
+vaguest
+veil of secrecy
+veils of secrecy
+very doubtful
+very scanty
+voice doubts
+voice doubts about
+voiced doubts
+voiced doubts about
+voices doubts
+voices doubts about
+voicing doubts
+voicing doubts about
+waffle about
+waffle between
+waffle if
+waffle over
+waffle whether
+waffled
+waffled between
+waffled whether
+waffles about
+waffles around
+waffles between
+waffles if
+waffles over
+waffles whether
+waffliness
+waffling
+waffling about
+waffling between
+waffling whether
+waffly
+wage a bet
+waged a bet
+wages a bet
+waging a bet
+wait for something
+waited for something
+waiting for something
+waits for something
+waiver about
+waiver over
+waivered
+waivered over
+waivering
+waivering about
+waivers about
+waivers over
+wall of secrecy
+walls of secrecy
+was not certain
+was not sure
+wasn't certain
+wasn't sure
+waver
+wavered
+wavering
+wavering about
+wavering confidence
+waveringly
+wavers
+we're not exactly sure
+we're not sure
+we're pretty
+we !AUX not exactly sure
+we !AUX not sure
+we do not know !QUESTION
+we don't know !QUESTION
+we never really know
+well, search me?
+what's-her-name
+what's-his-face
+what's-his-name
+what's-its-name
+what's its name
+what's next?
+what-d'ye-call-'em
+what-d'ye-call-it
+what-d'you-call-it
+what-do-you-call-it
+what-you-call-it
+what-you-might--call-it
+what-you-might-call-'em
+what-you-might-call-it
+what about !DETERMINER
+what money
+what not
+what remains
+what resources
+what was !PRONOUNNOMINAL driving at
+whatchamacallit
+whatchamacallits
+whatchmacallit
+whatchmacallits
+whate'er
+whate'er !AUX
+whatever
+whatever's
+WHATEVER !AUX
+whatever !AUX left
+whatever !DETERMINER cause
+whatever !DETERMINER reason
+whatever !MODAL
+whatever !MODAL be
+whatever !MODAL be said
+whatever !MODAL happen
+whatever !MODAL have been
+WHATEVER !PRONOUNNOMINAL !MODAL
+WHATEVER !PRONOUNNOMINAL !MODAL HAVE
+whatever !YOU can make of that
+whatever !YOU think
+whatever anyone calls it
+whatever are
+whatever can
+WHATEVER FEELS
+whatever he calls it
+whatever it means
+whatever money
+whatever one calls it
+whatever remains
+whatever resources
+WHATEVER SEEMS
+whatever she calls it
+whatever should
+whatever that means
+whatever they call it
+whatever we call it
+whatever you call it
+whatitsname
+whatnot and whatever
+whatnots
+whats-her-name
+whats-his-name
+whats-it
+whats-its-name
+whatshername
+whatshisname
+whatsis
+whatsit
+when !DETERMINER situation ever
+when all the smoke clears
+when it !MODAL have happened
+when it ever
+when the smoke all clears
+when the smoke clears
+whence !MODAL
+where-abouts
+where and when
+whereabouts
+wherever it !MODAL be
+whether !PRONOUNNOMINAL !MODAL be
+whether one !MODAL be
+which !MODAL
+whiffle about
+whiffle on
+whiffle over
+whiffled about
+whiffled on
+whiffled over
+whiffles about
+whiffles on
+whiffles over
+whiffling about
+whiffling on
+whiffling over
+whim-wham
+whim-whams
+whither !MODAL
+whither could
+who-get-what
+who gets how much
+who gets what
+whoever
+whom in !DETERMINER world
+whomever
+whys
+wide-open race
+wide-open races
+wide-open to speculation
+wild guess
+wild guesses
+wilder
+wildered
+wildering
+wilderment
+wilders
+will any one
+will anybody
+will anyone
+will in some way
+will make or break
+will make or break !PRONOUNOBJECTIVE
+will not be positive
+will somehow
+will, don't ask how
+will, don't ask me how
+with doubt
+with hesitation
+with less confidence
+with regards to who it
+with respect to who is
+WITH WHATEVER
+with whatever are
+with whatever is
+with whatever it
+with whatever it is
+without !DETERMINER known way
+without !DETERMINER understood
+without a path
+won't know
+wonder whether to
+wondered whether to
+wondering whether to
+wonders whether to
+wool-gathered
+would conceivably
+would not know
+would not know about
+would perhaps
+would possibly
+wouldn't hazard
+wouldn't know
+wouldn't know about
+ya never know
+yet somehow
+yet to be tested
+yet to be understood
+you'd never know how
+you'll never know
+your guess !AUX as good as mine
+your guesses !AUX as good as mine
+zone-confounding
+a peu pres

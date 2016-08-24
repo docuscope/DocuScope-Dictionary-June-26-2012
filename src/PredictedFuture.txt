@@ -1,0 +1,494 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!CANCOULD bet on
+!CANCOULD come in for
+!CANCOULD ever
+!CANCOULD ever be
+!CANCOULD peg on
+!CANCOULD soon
+!CANCOULD soon be
+!CANCOULD soon count on
+!DETERMINER time will
+!DETERMINER time will come
+!HEADDET will
+!HEADDET will be
+!POSSESSIVEPRONOUN time will come
+!PRONOUNNOMINAL ever will have
+!YOU can opt to
+!YOU crystal ball
+!YOU rather will
+!YOU will like
+!YOU will want to
+!YOU would rather
+!YOU would sooner
+. it will
+all will
+and so will
+and so will !YOU
+and so will he
+and so will I
+and so will she
+and so will they
+and so will we
+as e'er will be
+as ever will be
+bible prophesies
+bible prophesy
+but one !TIMEFRAME !PRONOUNNOMINAL will
+but one !TIMEFRAME will
+but some day
+can't be responsible
+can't do anything about
+can't do anything about it
+can't do it without
+can't exert control over
+can't have control over
+can't help !QUESTION
+can't help it if
+can't help to whom
+can't know is coming or when
+can't make it happen
+can do nothing about it
+can do nothing to change it
+certain !PRONOUNNOMINAL is going to
+certain !PRONOUNNOMINAL was going to
+certain !PRONOUNNOMINAL will
+certain !PRONOUNNOMINAL would
+certain they are going to
+certain they were going to
+certain they would
+don't think that it is the last one
+don't think that it is the last time
+e'er will be
+ever will be
+everyone will
+have not seen the last of
+haven't seen the last of
+he wants to
+in !DETERMINER interim !PRONOUNNOMINAL will
+IN !DETERMINER INTERIM there will
+in !DETERMINER minute will
+in !DETERMINER near future we will be
+in !DETERMINER time to come
+IN !DETERMINER TWINKLING OF !DETERMINER EYE,
+IN !DETERMINER WHILE
+in !DETERMINER works
+IN !POSSESSIVEPRONOUN MIND'S EYE to
+in !POSSESSIVEPRONOUN own sweet time
+in !POSSESSIVEPRONOUN quest
+in !YOU quest
+in about eight !TIMEFRAME
+in about eleven !TIMEFRAME
+in about five !TIMEFRAME
+in about four !TIMEFRAME
+in about nine !TIMEFRAME
+in about one !TIMEFRAME
+in about seven !TIMEFRAME
+in about six !TIMEFRAME
+in about ten !TIMEFRAME
+in about three !TIMEFRAME
+in about twelve !TIMEFRAME
+in about two !TIMEFRAME
+in what shall be
+in what will
+in what will be
+irretrievably
+it ever will have
+IT WILL
+it will all come out in !DETERMINER wash
+it will be
+it will be in !DETERMINER cards
+IT WILL HAPPEN
+knowing !PRONOUNNOMINAL is going to
+knowing !PRONOUNNOMINAL was going to
+knowing !PRONOUNNOMINAL will
+knowing !PRONOUNNOMINAL would
+knowing they are going to
+knowing they were going to
+knowing they would
+more will happen
+my time will come
+near future
+near futures
+never will be
+new !TIMEFRAME
+new direction
+new directions
+new path into !DETERMINER future
+new paths into !DETERMINER future
+new undertaking
+new undertakings
+new venture
+new ventures
+next !DAY
+next !MONTH
+next !TIMEFRAME
+NEXT !TIMEOFDAY
+NEXT AUTUMN
+next day
+next day's
+NEXT FALL
+next month's
+next time
+next week's
+next year's
+nobody will
+nobody will be able to do anything about it
+noone will
+nor will
+nor will it
+nor will it ever
+nor will it ever be
+not-too-distant future
+not the last one
+not the last time
+not will be
+of course will
+one !TIMEFRAME !PRONOUNNOMINAL will
+one !TIMEFRAME will
+one of these days
+ONLY !DETERMINER MATTER OF TIME
+onward into !DETERMINER future
+onward to
+or will
+or will !PRONOUNNOMINAL
+our time will come
+prophesies from
+prophesy from
+she wants to
+so as to have been
+so will
+something else will happen
+sparks will fly
+sure !PRONOUNNOMINAL is going to
+sure !PRONOUNNOMINAL was going to
+sure !PRONOUNNOMINAL will
+sure !PRONOUNNOMINAL would
+sure they are going to
+sure they were going to
+sure they would
+that he will
+that I will
+that it will
+that she will
+that they will
+that we will
+that will
+that will be
+THAT WILL BE !DETERMINER
+THAT WILL BE !DETERMINER !TIMEFRAME
+that will be !POSSESSIVEPRONOUN
+that will be a
+that will have
+that will just be
+that will just be !DETERMINER
+there ever will be
+there will be
+there will be those
+there will be those !QUESTION
+THERE WILL EVER BE
+these will
+They want to
+we ever will have
+what !PRONOUNNOMINAL will
+what will come
+WHERE THERE WILL BE
+which will
+which will be
+which will have
+will
+will air
+will all
+will also
+will also discuss
+will also send !DETERMINER message to
+will and bequeath
+will and will not
+will assist
+will assume responsibility
+will at some point
+will at some time
+will basically
+will be
+will be !DETERMINER
+will be !DETERMINER first time
+will be !DETERMINER last time
+will be !HEADDET morning
+will be airing
+will be asked
+will be available
+will be based in
+will be based on
+will be based upon
+will be brought before !DETERMINER
+will be checked
+will be completed
+will be conducted
+will be determined
+will be distributed
+WILL BE DONE BY
+will be easy
+will be effective
+will be electronically prohibited
+will be entitled
+will be expected
+will be expected to support
+will be handled
+will be handled as now
+will be held
+will be held on
+will be invited
+will be joining
+will be keeping !DETERMINER
+will be laid off
+will be laid to rest
+will be LASTING FOR
+will be liberated
+will be living
+WILL BE MINDFUL THAT
+will be no more
+will be open to
+will be open to !DETERMINER public
+will be over
+will be permitted
+will be prepared
+will be prohibited
+will be quite some time
+will be quite some time away
+will be remembered
+will be scheduled
+will be so
+will be so.
+will be stabilized
+will be staying on
+will be straightforward
+will be taken to ensure
+will be taken to ensure that
+will be taking place at
+will be unveiled today
+will be with
+will be with !PRONOUNOBJECTIVE
+will be with !PRONOUNOBJECTIVE directly
+will be with !PRONOUNOBJECTIVE shortly
+will be with me directly
+will be with me shortly
+will be with us directly
+will be with us shortly
+WILL BEAR !DETERMINER
+WILL BEAR OUR SIDE OUT
+WILL BEAR OUT
+WILL BEAR OUT !DETERMINER
+will bear watching
+WILL BECOME
+will begin soon
+will both
+will break out
+WILL BRING OUT
+will bring out truth
+will broadcast
+WILL CARRY OVER INTO !DETERMINER !RANKNUMBER !TIMEFRAME
+will certainly
+will certainly never
+will certainly not
+will come
+will come !POSSESSIVEPRONOUN way
+will come from
+will come in !MONTH
+will come IN FOR
+will come on
+will come out with
+will come straight to
+will come to
+WILL COME TO BE
+WILL COME TO PASS
+will commence soon
+will concentrate on
+will confirm
+will connect to
+will continue
+will continue for
+will continue to
+will continue to apply
+will continue to be handled
+will continue with
+will convene
+will cool off
+will count on
+will definitely
+will determine
+will develop into
+will devote herself to
+will devote himself to
+will devote myself to
+will devote ourselves to
+will devote themselves to
+will diffuse
+will diffuse into
+will discuss
+will effective immediately
+will effective January 1
+will effective July 1
+will end soon
+will end up
+will eventually
+will ever
+will ever be
+will ever be the same
+will ever be the same again
+will ever get to
+will ever have
+will evermore
+will exceed
+will face new competitors
+will finally
+will fly
+will focus on
+WILL FROM !HEADDET TIME
+will get top billing
+will gradually
+will hand IT DOWN TO
+will hand it off
+will hand it off to
+will hand it to
+WILL HAPPEN
+will have
+will have !DETERMINER
+will have !YOU laughing out loud
+will have all
+will have all !DETERMINER
+will have all !DETERMINER facts
+will have all !DETERMINER information
+will have all !DETERMINER latest
+will have all !DETERMINER news
+will have all !DETERMINER sports
+will have all !DETERMINER weather
+will have been
+will have by then
+will have had
+will have then
+will have to carry this
+will have to carry this with her
+will have to carry this with him
+will have to carry this with them
+will have to live with this the rest of their lives
+will help
+will here be
+will hold
+will hold !PRONOUNOBJECTIVE together
+will identify !PRONOUNOBJECTIVE or herself
+will identify themselves
+will in !DETERMINER interim
+will in !DETERMINER minute
+will interface with
+will jointly
+will LAST FOR
+will leave !YOU breathless
+will like
+will likely
+will live
+will mainly
+will make it
+will meet
+will mostly
+will never
+will never again
+will never again be
+will never again feel
+will never again feel the same
+will never amount to
+will never be the same
+will never feel the same
+will not
+will not alone
+will not be
+will not be !DETERMINER first
+will not be permitted
+will not be so
+will not be the last one
+will not be the last time
+will not fit in
+will not fit into
+will not have
+will not only
+will not respond
+will not sit back and
+will not solely
+will notify
+will of course
+will overall
+will pass IT DOWN TO
+will pass it off
+will pass it off to
+will pass it to
+will peg on
+will permit us
+will practice commercial
+will practice law
+will probably
+will provide back-up
+will provide backup
+will raise to
+will relate to
+will remain
+will remain !DETERMINER
+will remain with
+will rendezvous
+WILL REST ON
+will retire
+will return to
+WILL RUN INTO !DETERMINER !RANKNUMBER !TIMEFRAME
+WILL RUN OVER INTO !DETERMINER !RANKNUMBER !TIMEFRAME
+will see again
+will see once again
+will send !DETERMINER message to
+will show !HEADDET
+will show results
+will show that
+will soon
+will soon come out with
+WILL SPILL OVER INTO !DETERMINER !RANKNUMBER !TIMEFRAME
+will start soon
+will stay on
+will still
+will still be
+WILL STILL HAVE
+WILL STILL HAVE BEEN
+WILL STILL IN !DETERMINER FUTURE
+WILL STRETCH INTO !DETERMINER !RANKNUMBER !TIMEFRAME
+will support
+will surely
+WILL TAKE !DETERMINER WHILE TO SINK IN to
+will take care
+will take effect
+will take place
+will take place at
+will talk about
+will talk more about
+will terminate
+will then
+will then be
+will then have
+will to
+will try to
+will ultimately
+will undertake
+will undertake !DETERMINER
+WILL WIND UP
+WILL WIND UP IN
+will WITHIN !DETERMINER YEAR
+will, as well
+won't
+won't be the last one
+won't be the last time
+would certainly
+would definitely anticipate
+would definitely assume
+would definitely expect
+would definitely forecast
+would definitely predict
+would definitely project
+would surely
+writing on the wall
+you ever will have

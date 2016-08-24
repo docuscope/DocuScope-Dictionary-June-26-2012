@@ -1,0 +1,3653 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+!AUX an early
+!AUX at !DETERMINER turning point
+!AUX awaiting
+!AUX brief
+!AUX dated
+!AUX drawing near
+!AUX drawn out
+!AUX finally
+!AUX fleeting
+!AUX in !DETERMINER wind
+!AUX long for
+!AUX long overdue
+!AUX OF AGE
+!AUX ticking down
+!AUX yet
+!AUX yet to be
+!BREAK !DETERMINER spell
+!BURN !DETERMINER candle at both ends
+!BURN !DETERMINER midnight oil
+!CALL it !DETERMINER day
+!CALL it !DETERMINER wrap
+!CALL it even
+!CALL it quits
+!COME due
+!COME in right under !DETERMINER wire
+!COME in under !DETERMINER wire
+!COME soon
+!CUT short
+!DETERMINER !TIMEFRAME shy
+!DETERMINER abbreviated
+!DETERMINER beaten path
+!DETERMINER beaten paths
+!DETERMINER beaten track
+!DETERMINER classic
+!DETERMINER classical
+!DETERMINER dead past
+!DETERMINER decisive moment
+!DETERMINER decisive moments
+!DETERMINER drinking age
+!DETERMINER due
+!DETERMINER eternal feminine
+!DETERMINER eternal feminines
+!DETERMINER eternal fitness
+!DETERMINER eternal fitness of things
+!DETERMINER fleeting
+!DETERMINER full !NUMS1TO100 !TIMEFRAME early
+!DETERMINER full !NUMS1TO100 !TIMEFRAME late
+!DETERMINER good deal of time
+!DETERMINER good time for
+!DETERMINER good time to
+!DETERMINER good ways off
+!DETERMINER grass grow under !POSSESSIVEPRONOUN feet
+!DETERMINER grass grow under !YOU feet
+!DETERMINER grass grow under my feet
+!DETERMINER grass grow under our feet
+!DETERMINER hard !TIMEFRAME
+!DETERMINER height of !POSSESSIVEPRONOUN ambition
+!DETERMINER height of !YOU ambition
+!DETERMINER height of my ambition
+!DETERMINER height of our ambition
+!DETERMINER hereafter
+!DETERMINER hereafters
+!DETERMINER hoary head !AUX !DETERMINER crown of glory
+!DETERMINER instant
+!DETERMINER irrevocable past
+!DETERMINER l'improviste
+!DETERMINER last thing civilized by man
+!DETERMINER last things
+!DETERMINER last word
+!DETERMINER last word on !DETERMINER matter
+!DETERMINER last words
+!DETERMINER last words on !DETERMINER subject
+!DETERMINER letup
+!DETERMINER letups
+!DETERMINER little ahead
+!DETERMINER little ahead of schedule
+!DETERMINER little at !DETERMINER time
+!DETERMINER little behind
+!DETERMINER little behind schedule
+!DETERMINER little slumber
+!DETERMINER little time
+!DETERMINER little time for
+!DETERMINER little while
+!DETERMINER livelong day
+!DETERMINER long !TIMEFRAME
+!DETERMINER long haul
+!DETERMINER long way off
+!DETERMINER long while
+!DETERMINER look of !DETERMINER !TIMEFRAME
+!DETERMINER look of !DETERMINER season
+!DETERMINER looks of !DETERMINER !TIMEFRAME
+!DETERMINER lot of time
+!DETERMINER matter of time
+!DETERMINER measure of !DETERMINER !TIMEFRAME
+!DETERMINER only times
+!DETERMINER play for time
+!DETERMINER quaintness
+!DETERMINER quick
+!DETERMINER quickie
+!DETERMINER required age
+!DETERMINER rush
+!DETERMINER rush on
+!DETERMINER sea-mouth of mortality
+!DETERMINER season's look
+!DETERMINER season?s looks
+!DETERMINER short !TIMEFRAME
+!DETERMINER short while
+!DETERMINER silver livery of advised age
+!DETERMINER sincere
+!DETERMINER sincerest
+!DETERMINER sincerest form
+!DETERMINER sincerest form of flattery
+!DETERMINER sincerest forms
+!DETERMINER sincerest forms of flattery
+!DETERMINER small !TIMEFRAME
+!DETERMINER snatched
+!DETERMINER spell of
+!DETERMINER sudden
+!DETERMINER sufficiently early
+!DETERMINER thousand and one nights
+!DETERMINER time-constrained
+!DETERMINER time-consuming
+!DETERMINER time-wearied
+!DETERMINER time being
+!DETERMINER time has slipped away
+!DETERMINER times of
+!DETERMINER timing
+!DETERMINER timing !AUX
+!DETERMINER ultra-modern
+!DETERMINER very witching time of night
+!DETERMINER very witching times of night
+!DETERMINER wakey night
+!DETERMINER wakey nights
+!DETERMINER wee !TIMEFRAME
+!DETERMINER while away
+!DETERMINER while longer
+!DETERMINER womb of time
+!DETERMINER wombs of time
+!DETERMINER zeitgeist
+!DETERMINER zeitgeists
+!DETERMINER zenith of !POSSESSIVEPRONOUN
+!DETERMINER zenith of !PRONOUNOBJECTIVE
+!DETERMINER zenith of my
+!DETERMINER zenith of our
+!DO at !POSSESSIVEPRONOUN leisure
+!DO at our leisure
+!DO in !DETERMINER pinch
+!DO it at !POSSESSIVEPRONOUN leisure
+!DO it at our leisure
+!DO it in !DETERMINER pinch
+!DRAW !DETERMINER long breath
+!DRAW near
+!DRAW near to !DETERMINER time
+!DRAW out over
+!DRAW out to
+!FALL due
+!FEEL like an eternity
+!FILL time
+!FIND time
+!GET !DETERMINER HURRY ON
+!GET !DETERMINER JUMP
+!GET !DETERMINER jump on
+!GET !DETERMINER JUMP START ON
+!GET !DETERMINER JUMPSTART ON
+!GET !DETERMINER show on !DETERMINER road
+!GET on in !TIMEFRAME
+!GET up early
+!GET UP IN !TIMEFRAME
+!GET up late
+!GO !DETERMINER dizzy rounds
+!GO !DETERMINER long way around
+!GO at !DETERMINER double
+!GO at !DETERMINER snail's pace
+!GO at flank speed
+!GO by fast
+!GO dead slow
+!GO fast
+!GO fast by
+!GO slow
+!GO slowly
+!HAVE !POSSESSIVEPRONOUN time
+!HAVE !YOU time
+!HAVE no time
+!HAVE no time for
+!HAVE time
+!HAVE time enough
+!HAVE time for
+!HAVE time to burn
+!HAVE time to spare
+!HIT !DETERMINER dead-point
+!HIT !DETERMINER dead point
+!HIT !DETERMINER deadpoint
+!HOLD !POSSESSIVEPRONOUN horses
+!HOLD our horses
+!KEEP abreast of !DETERMINER times
+!KEEP everyone waiting
+!KILL time
+!KNOCK off early
+!KNOCK off late
+!LET !PRONOUNOBJECTIVE off this time
+!LIVE forever
+!LOOK for time
+!LOSE no time
+!LOSE no time at
+!LOSE NO TIME OVER
+!LOSE no time with
+!MAKE !DETERMINER slow start
+!MAKE bad time
+!MAKE haste
+!MAKE haste slowly
+!MAKE in time
+!MAKE in time for
+!MAKE it quick
+!MAKE it snappy
+!MAKE just in time for
+!MAKE short-shrift
+!MAKE short shrift
+!MAKE time stand still
+!MAKE UP !DETERMINER LOST TIME
+!MARK !DETERMINER time
+!MARK time
+!NUMS1TO100 !TIMEFRAME worth
+!POSSESSIVEPRONOUN !TIMEFRAME
+!POSSESSIVEPRONOUN formative !TIMEFRAME
+!POSSESSIVEPRONOUN own sweet time
+!POSSESSIVEPRONOUN time
+!POSSESSIVEPRONOUN time to
+!POSSESSIVEPRONOUN times
+!PRONOUNOBJECTIVE all along
+!PUT !DETERMINER cloture
+!PUT !DETERMINER rush on
+!PUT clotures
+!PUT irons in !DETERMINER fire
+!PUT it aside for now
+!PUT many irons in !DETERMINER fire
+!PUT off for !DETERMINER !TIMEFRAME
+!PUT off for a while
+!PUT off mortality
+!PUT off to
+!RUN early
+!RUN late
+!RUN short of time
+!RUN short on time
+!SET an end point
+!SET fast
+!SPEND so much time
+!STRIKE when !DETERMINER iron !AUX at its highest heat
+!STRIKE when !DETERMINER iron !AUX at its hightest heat
+!STRIKE when !DETERMINER iron !AUX hot
+!STRIKE while !DETERMINER iron !AUX hot
+!TAKE !DETERMINER breather
+!TAKE !DETERMINER fling at
+!TAKE !DETERMINER little time
+!TAKE !DETERMINER long
+!TAKE !DETERMINER long !TIMEFRAME
+!TAKE !DETERMINER LONG LOOK
+!TAKE !DETERMINER short
+!TAKE !DETERMINER short !TIMEFRAME
+!TAKE !DETERMINER short break
+!TAKE !DETERMINER time
+!TAKE !POSSESSIVEPRONOUN leisure
+!TAKE !POSSESSIVEPRONOUN own sweet time
+!TAKE !POSSESSIVEPRONOUN sweet time
+!TAKE !POSSESSIVEPRONOUN time
+!TAKE IT SLOW
+!TAKE long
+!TAKE my own sweet time
+!TAKE my sweet time
+!TAKE my time
+!TAKE our leisure
+!TAKE our own sweet time
+!TAKE our time
+!TAKE some getting used to
+!TAKE some time
+!TAKE that long
+!TAKE time
+!TAKE time by !DETERMINER forelock
+!TAKE time out
+!TIMEFRAME !AUX late
+!TIMEFRAME ahead
+!TIMEFRAME and !TIMEFRAME
+!TIMEFRAME behind
+!TURN !DETERMINER CLOCK BACK
+!TURN back !DETERMINER clock
+!WORK late
+!WORK overtime
+!YOU own sweet time
+!YOU time
+!YOU times
+. all through
+a.m. or p.m.
+abortive
+abortively
+abortiveness
+about time
+abreast of !DETERMINER times
+abrupt
+abruption
+abruptions
+abruptly
+abruptness
+accelerated time
+across all ages
+aere perennius
+after all these !TIMEFRAME
+after all this time
+after everything that's happened
+after very long
+again and again
+age requirements
+ages and ages
+aggressive schedule
+aggressive timetable
+all along has
+all along have
+all along that
+all along.
+all but asleep
+all but broke
+all but dead
+all but over
+all in !DETERMINER day's work
+all in good time
+all IN ONE BREADTH
+all it's cracked up to be
+all kinds of time
+all OF !DETERMINER TIME
+all over with
+all said and done
+all these !TIMEFRAME
+all this time
+all through
+all throughout
+all too brief
+all too short
+almost too late
+always
+always and constantly
+always in
+always trot out
+an abbreviated
+an abbreviated visit
+an easy !TIMEFRAME
+an eternity
+an ultra-modern
+an untaken
+anachronism
+anachronisms
+anachronistic
+anachronistically
+anachronous
+anachronously
+ancient
+ancients
+and running
+and running over
+and running overtime
+antiquaries
+antiquary
+antiquate
+antiquated
+antiquated expression
+antiquated person
+antiquated word
+antiquates
+antiquating
+antiquation
+antique !DETERMINER
+antique !POSSESSIVEPRONOUN
+antique !PRONOUNOBJECTIVE
+antique brass
+antique bronze
+antique brown
+antique cloth
+antique crown
+antique drab
+antique glass
+antique gold
+antique green
+antique plane
+antique red
+antique store
+antiqued
+antiqued !DETERMINER
+antiqued !POSSESSIVEPRONOUN
+antiqued !PRONOUNOBJECTIVE
+antiqueness
+antiques !DETERMINER
+antiques !POSSESSIVEPRONOUN
+antiques !PRONOUNOBJECTIVE
+antiquing
+antiquing !DETERMINER
+antiquing !POSSESSIVEPRONOUN
+antiquing !PRONOUNOBJECTIVE
+antiquities
+antiquity
+any old time
+anymore
+appear early
+appear late
+appear to quicken
+appeared early
+appeared late
+appeared to quicken
+appearing early
+appearing late
+appearing to quicken
+appears early
+appears late
+appears to quicken
+appropos
+appropos of
+approximately !DETERMINER right time
+archaic
+archaically
+archaism
+archaisms
+archaist
+archaistic
+archaists
+archaize
+archaized
+archaizes
+archaizing
+aren't scheduled to arrive until
+aren't yet aware of
+around-!DETERMINER-clock
+around !DETERMINER clock
+AS !DETERMINER TIME TO
+as !DETERMINER times go
+as early as
+as fast as
+as fast as !DETERMINER time it takes to
+as fast as possible
+as late as
+as late as that
+as late as this
+as long as !NUMS1TO100 !TIMEFRAME
+as long as it !AUX clear
+as long as it !AUX not clear
+as long as it takes
+as much as !NUMS1TO100 !TIMEFRAME
+as much time
+as much time as
+as of yet
+as of yet unscheduled
+as of yet unset
+as of yet unvanquished
+as of yet unweighed
+as slow as
+as slow as possible
+as soon
+as soon as that
+as soon as this
+as time goes by
+as times go
+as yet
+as yet to !COME
+as yet to be
+as yet unplaced
+as yet untried
+as yet untutored
+as yet unused
+at !DETERMINER funeral pace
+at !DETERMINER great rate
+at !DETERMINER halt
+at !DETERMINER last minute
+at !DETERMINER last moment
+at !DETERMINER last second
+at !DETERMINER point of
+at !DETERMINER point of no return
+at !DETERMINER snail's pace
+at !DETERMINER standstill
+at !DETERMINER turning point
+at !DETERMINER turtle's pace
+at an early age
+AT LAST
+at length
+AT LONG LAST
+at lot of time
+at one stroke
+at short notice
+at such an early age
+average !TIMEFRAME
+average year
+awaited age
+awaited ages
+ay-
+ay-green
+aye-aye
+aye-ceaseless
+aye-during
+aye-dwelling
+aye-lasting
+aye-living
+aye-remaining
+aye-renewed
+aye-restless
+aye-rolling
+aye-running
+aye-sought
+aye-troubled
+aye-turning
+aye-varied
+aye-welcome
+back and ahead to !DETERMINER future
+barely !NUMS1TO100 !TIMEFRAME away
+barely !NUMS1TO100 !TIMEFRAME old
+barely !TIMEFRAME away
+barely !TIMEFRAME old
+bat !DETERMINER breeze
+bat !DETERMINER breeze with
+bat of an eye
+bat out of hell
+bats !DETERMINER breeze
+bats !DETERMINER breeze with
+batted !DETERMINER breeze
+batted !DETERMINER breeze with
+batting !DETERMINER breeze
+batting !DETERMINER breeze with
+be brief
+be in !DETERMINER wind
+be long in !DETERMINER tooth
+be quits
+be quits with
+be without end
+beat !PRONOUNOBJECTIVE to !DETERMINER punch
+beat em to !DETERMINER punch
+beat me to !DETERMINER punch
+beat the buzzer
+beat to !DETERMINER punch
+beat us to !DETERMINER punch
+beat you to !DETERMINER punch
+beaten path
+beaten paths
+beaten track
+beaten tracks
+beaten trail
+beaten trails
+beating !PRONOUNOBJECTIVE to !DETERMINER punch
+beating em to !DETERMINER punch
+beating me to !DETERMINER punch
+beating the buzzer
+beating to !DETERMINER punch
+beating us to !DETERMINER punch
+beating you to !DETERMINER punch
+beats !PRONOUNOBJECTIVE to !DETERMINER punch
+beats em to !DETERMINER punch
+beats me to !DETERMINER punch
+beats the buzzer
+beats to !DETERMINER punch
+beats us to !DETERMINER punch
+beats you to !DETERMINER punch
+before !PRONOUNNOMINAL know it
+before !PRONOUNNOMINAL knows it
+before !PRONOUNNOMINAL realize it
+before !PRONOUNNOMINAL realizes it
+before anyone could
+before anyone had !DETERMINER chance
+before anyone has !DETERMINER chance
+before anyone would
+before everyone could
+before everyone would
+before its time
+before long
+Before too long
+before too very long
+before very long
+before you can say hello
+before you know it
+before you realize it
+behind !DETERMINER time
+behind !DETERMINER times
+betimes
+bid !DETERMINER long farewell
+bidding !DETERMINER long farewell
+bids !DETERMINER long farewell
+big !TIMEFRAME
+big end
+big hurries
+big hurry
+Bis pueri senes
+bitter-ends
+bitter ender
+bitter enders
+bitter endism
+bitter endisms
+bloom early
+bloom late
+bloomed early
+bloomed late
+blooming early
+blooming late
+blooms early
+blooms late
+born days
+borrow !TIMEFRAME
+borrow time
+borrowed !TIMEFRAME
+borrowed time
+borrowing !TIMEFRAME
+borrowing time
+borrows !TIMEFRAME
+borrows time
+bought some time
+breather
+breathers
+breathing-time
+breathing spell
+brevities
+brevity
+brief
+brief enough
+brief enough to
+brief search
+brief searches
+brief span
+brief success
+brief time
+brief times
+briefly
+briefness
+brisk market
+bristle with
+bristled with
+bristles with
+bristling with
+broad hint
+broad hints
+bullhorn moment
+bullhorn moments
+busy
+busy season
+busy seasons
+busy time
+busy times
+buy some time
+buying some time
+buys some time
+buzzer-beating
+buzzer beating
+by !DETERMINER snatch
+by snatches
+by time
+by times
+ceaseless
+ceaselessly
+ceaselessness
+change across time
+changeful
+changefulness
+changeless
+changelessness
+changes across time
+changes made for !DETERMINER next release
+changes made in time for
+chango
+circumlocution of
+circumlocutions of
+close-call
+close-calls
+close call
+close calls
+close to !DETERMINER defeat
+close to !DETERMINER loss
+close to !DETERMINER victory
+close to !DETERMINER win
+cloture on
+clotures on
+coeternal
+coeternals
+coeternity
+constantly and always
+consume time
+consumed time
+consumes time
+consuming time
+contemporaneity
+contemporaneous
+contemporaneously
+contemporaneousness
+contemporaries
+contemporarily
+contemporary
+contemporary lifestyle
+contemporary lifestyles
+contemporary living
+contemporize
+contemporized
+contemporizes
+contemporizing
+continue longer
+continue much longer
+continued longer
+continues longer
+continues much longer
+continuing longer
+continuing much longer
+convenient out
+cool !POSSESSIVEPRONOUN toes
+cool !YOU toes
+cool my toes
+cool our toes
+cooled !POSSESSIVEPRONOUN toes
+cooled !YOU toes
+cooled my toes
+cooled our toes
+cooling !POSSESSIVEPRONOUN toes
+cooling !YOU toes
+cooling my toes
+cooling our toes
+cools !POSSESSIVEPRONOUN toes
+cools !YOU toes
+cools my toes
+cools our toes
+corbie messenger
+corbie messengers
+coternities
+could put it away
+could really put it away
+couldn't take it anymore
+count down
+counted down
+counting down
+counts down
+crazy time
+crazy times
+creeping like !DETERMINER snail
+crucial moment
+crucial moments
+crucial period
+crucial point
+crucial test
+current of events
+current of time
+currente calamo
+cut to !DETERMINER chase
+cuts to !DETERMINER chase
+cutting to !DETERMINER chase
+dalliance
+dalliances
+dance-time
+dance time
+datedness
+day solid
+dead-heat
+dead-point
+dead-points
+dead-time
+dead fast
+dead heat
+dead heats
+dead season
+dead seasons
+dead slow
+dead time
+dead times
+deadline
+deadline extension
+deadline extensions
+deadlines
+deathless song
+deathless songs
+deciding moment
+deciding moments
+demanding schedule
+demanding timetable
+demurrage
+demurrages
+dernier
+desert of time
+develop early
+develop late
+developing early
+developing late
+develops early
+develops late
+did it all along
+dilatorily
+dilatoriness
+dilatory
+done once
+doneness
+donkey's !TIMEFRAME
+donkey !TIMEFRAME
+double-fast
+double-quick
+double-slow
+double-time
+double time
+down time
+down to !DETERMINER wire
+downtime
+drag on and on
+drag on foreover
+drag out !DETERMINER !TIMEFRAME
+drag out all !TIMEFRAME
+drag out for !DETERMINER entire
+drag out for !DETERMINER entire !TIMEFRAME
+drag out for !DETERMINER full
+drag out for !DETERMINER full !TIMEFRAME
+drag out for !DETERMINER whole
+drag out for !DETERMINER whole !TIMEFRAME
+dragged-out
+dragged on and on
+dragged on forever
+dragged out all !TIMEFRAME
+dragged out for !DETERMINER entire
+dragged out for !DETERMINER entire !TIMEFRAME
+dragged out for !DETERMINER full
+dragged out for !DETERMINER full !TIMEFRAME
+dragged out for !DETERMINER whole
+dragged out for !DETERMINER whole !TIMEFRAME
+dragged out forever
+dragging on and on
+dragging on forever
+dragging out all !TIMEFRAME
+dragging out for !DETERMINER entire
+dragging out for !DETERMINER entire !TIMEFRAME
+dragging out for !DETERMINER full
+dragging out for !DETERMINER full !TIMEFRAME
+dragging out for !DETERMINER whole
+dragging out for !DETERMINER whole !TIMEFRAME
+dragging out forever
+dragging pace
+drags on and on
+drags on forever
+drags out all !TIMEFRAME
+drags out for !DETERMINER entire
+drags out for !DETERMINER entire !TIMEFRAME
+drags out for !DETERMINER full
+drags out for !DETERMINER full !TIMEFRAME
+drags out for !DETERMINER whole
+drags out for !DETERMINER whole !TIMEFRAME
+drags out forever
+draw-near
+drawing-near
+drawn-out
+draws-near
+draws near
+drew-near
+drew near
+earliest
+earliness
+early
+early age
+early arrival
+early blight
+early bloomer
+early closing
+early comer
+early death
+early developer
+early edition
+early enough
+early from work
+early grave
+early in
+early renaissance
+early saxifrage
+enough time
+enough times
+enow
+ephemera
+ephemeral
+ephemeralities
+ephemerality
+ephemerally
+ephemerals
+eterne
+eternities
+eternity
+evanesce
+evanesced
+evanescence
+evanescent
+evanescently
+evanesces
+evanescing
+even !DETERMINER !TIMEFRAME
+even after all these !TIMEFRAME
+even after all this time
+even at this time
+EVEN BACK THEN
+evening's calm and holy !TIMEFRAME
+every chance !PRONOUNNOMINAL get
+every chance !PRONOUNNOMINAL gets
+every chance I get
+every chance you get
+every time I turn around
+every time she turns around
+every time they turn around
+every time we turn around
+every time you turn around
+expected to be here
+expressed an early interest in
+extension of time
+extensions of time
+extra time
+extremely fast
+extremely slow
+fairly soon
+far earlier
+far later
+fashionable time
+fashionable times
+fast
+fast-growing
+fast-pace
+fast-paced
+fast by
+fast pace
+fast paced
+fast passage
+fast passages
+fast start
+fast starts
+fast to come
+faster and faster
+faster than !DETERMINER
+faster than you can say
+fatalist
+fatalistic
+fatalists
+fate-filled !TIMEFRAME
+fateful !TIMEFRAME
+feel all along
+feel unrushed
+feeling all along
+feeling of hurry
+feeling unrushed
+feels all along
+feels unrushed
+feet of time
+felt all along
+felt prolonged
+felt unrushed
+fermata
+fermatas
+few and far between
+fill !DETERMINER time
+filled !DETERMINER time
+filling !DETERMINER time
+fills !DETERMINER time
+final word
+final words
+finally arrived
+fixed in !DETERMINER certain time
+fleeting
+fleeting impulse
+fleeting impulses
+fleetingly
+fleetingness
+flextime
+flight of time
+foot of time
+for !DETERMINER brief time
+for !DETERMINER coon's age
+for !DETERMINER dog's age
+for !DETERMINER event
+for !DETERMINER little while
+for !DETERMINER long haul
+for !DETERMINER long time
+for !DETERMINER long time went on
+for !DETERMINER long while
+for !DETERMINER month of Sundays
+for !DETERMINER occasion
+for !DETERMINER short haul
+for !DETERMINER short time
+for !DETERMINER short while
+for !DETERMINER surprise
+for !DETERMINER term of !POSSESSIVEPRONOUN days
+for !DETERMINER term of !YOU days
+for !DETERMINER term of my days
+for !DETERMINER term of our days
+for !DETERMINER time being
+for !TIMEFRAME on end
+for about five minutes
+for ages
+for ages of ages
+for all !YOU natural life
+for an age
+for an eternity
+for another surprise
+for as long as he can remember
+for as long as she can remember
+for as long as they can remember
+for as long as we can remember
+for as long as you can remember
+for days on end
+for donkey's !TIMEFRAME
+for good
+for its day
+for its time
+for just one !TIMEFRAME
+for keeps
+for long
+for many !DETERMINER long day
+for short
+for so long
+for so very long
+for such !DETERMINER long time
+for surprises
+for time
+for weeks on end
+full afternoon
+full day
+full hour
+full hours
+full minute
+full moment
+full month
+full morning
+full second
+full week
+full year
+fullness of time
+funny !TIMEFRAME
+get some time
+gets some time
+getting some time
+Give me !DETERMINER staff of honor for my age
+good deal of time
+good old
+good old days
+good old summertime
+good old times
+goof-off time
+goofing-off
+goofing-off time
+got some time
+grass grow under !POSSESSIVEPRONOUN feet
+grass grow under !YOU feet
+grass grow under my feet
+grass grow under our feet
+great deal of time
+had !DETERMINER long time
+had !POSSESSIVEPRONOUN hands full
+had my hands full with
+had no time for
+had our hands full
+had time
+had time for
+had yet to
+half !DETERMINER jiffy
+half !DETERMINER mo
+half !DETERMINER second
+half !DETERMINER shake
+hanger-on
+hangers-on
+hardly wait
+hardly waited
+hardly waiting
+hardly waits
+hastily
+hastily conceived
+hastiness
+hasty
+haut-couture
+haut couture
+he always
+heels over head
+hell-for-leather
+hell for leather
+her time is near
+hie on
+hied on
+hies on
+high time
+high time that
+high times
+his time is near
+hurried-feeling
+hurried feeling
+hurried feelings
+hurry-burry
+hurry-scurried
+hurry-scurrying
+hurry-skurried
+hurry-skurry
+hurry-skurrying
+hurry-up
+hying
+hying on
+idle !TIMEFRAME
+idle time
+immortal hand
+immortal hands
+immortal name
+immortal names
+impatient for
+impatient to
+imperishabilities
+imperishability
+imperishable
+imperishableness
+imperishably
+impermanence
+impermanency
+impermanent
+improvisatories
+improvisatory
+in-!DETERMINER-hurry
+in-vogue
+in !DETERMINER certain time
+in !DETERMINER circuitous
+in !DETERMINER circuitously
+in !DETERMINER circuity
+in !DETERMINER circumlocution
+in !DETERMINER dead-heat
+in !DETERMINER dead heat
+in !DETERMINER few winks
+in !DETERMINER flash
+in !DETERMINER fullness of time
+in !DETERMINER jiff
+in !DETERMINER jiffy
+in !DETERMINER perceived course of time
+in !DETERMINER process of time
+in !DETERMINER processes of time
+in !DETERMINER rush for
+in !DETERMINER short order
+in !DETERMINER snatch
+in !DETERMINER sweat of haste
+in !DETERMINER time it takes
+in !DETERMINER twink
+in !DETERMINER twinkling of
+in !DETERMINER twitter
+in !DETERMINER wink
+in !DETERMINER womb of time
+in !POSSESSIVEPRONOUN sweet time
+in accelerated time
+in advance of !YOU age
+in aeternum
+in all haste
+in an accelerated time
+in an instant
+in any considerable time
+in any length of time
+in breakneck speed
+in circuities
+in circumlocutions
+in double-quick time
+in early
+in God's good time
+in great haste
+in half !DETERMINER jiffy
+in half !DETERMINER mo
+in half !DETERMINER shake
+in haste
+in haste like !DETERMINER snail
+in its day
+in just
+in just !DETERMINER last !NUMS1TO100 !TIMEFRAME
+in just !NUMS1TO100 !TIMEFRAME
+in just that one !TIMEFRAME
+in late
+in no time
+in no time at all
+in only
+in only !DETERMINER last !NUMS1TO100 !TIMEFRAME
+in perpetuity
+in perpetuum
+in post-haste
+in posthaste
+in quick succession
+in quick time
+in rapid succession
+in saecula saeculorum
+in seeming
+in snatches
+in time to
+in two shakes
+in two shakes of !DETERMINER lamb's tail
+in vogue
+indefinite spell
+indefinite spells
+independent of time
+infinite-duration
+infinite duration
+infinite durations
+interrupted !DETERMINER
+interrupted !POSSESSIVEPRONOUN
+interrupted !PRONOUNOBJECTIVE
+interrupted me
+interrupted us
+interrupting !DETERMINER
+interrupting !PRONOUNOBJECTIVE
+interrupting me
+interrupting us
+interrupts !DETERMINER
+interrupts !PRONOUNOBJECTIVE
+interrupts me
+interrupts us
+INTO !DETERMINER TIME FOR
+INTO !DETERMINER TIME TO
+invest time
+invest time in
+INVEST TIME IN !POSSESSIVEPRONOUN
+invested time
+invested time in
+INVESTED TIME IN !POSSESSIVEPRONOUN
+investing time
+investing time in
+INVESTING TIME IN !POSSESSIVEPRONOUN
+invests time
+invests time in
+INVESTS TIME IN !POSSESSIVEPRONOUN
+isn't scheduled to arrive until
+isn't yet aware of
+it's about !DETERMINER time
+it's about time that
+it's d-day
+it's D day
+it's high time for
+it's high time that
+it's just !DETERMINER last !NUMS1TO100 !TIMEFRAME
+IT'S JUST !DETERMINER MATTER OF TIME
+it's not over till it's over
+it's only !DETERMINER last !NUMS1TO100 !TIMEFRAME
+it !AUX !DETERMINER time for
+it !AUX !DETERMINER time of
+it !AUX long before
+it !AUX long past
+it !AUX long past time
+it !AUX past time
+it !AUX well after
+it !AUX well before
+it !AUX well past
+it !AUX well past time
+it !AUX yet
+it always
+it had seemed to be !DETERMINER !TIMEFRAME
+it has yet
+it isn't like back then
+it isn't like then
+it isn't like today
+it isn't often
+it isn't often that
+IT SEEMED LIKE AN ETERNITY BEFORE
+it seemed like yesterday
+it seemed to be !DETERMINER !TIMEFRAME
+IT TOOK !DETERMINER LONG TIME BEFORE
+jiff
+jiffies
+jiffy
+jury-rig
+jury-rigged
+jury-rigged expedient
+jury-rigging
+just !DETERMINER few !TIMEFRAME drive
+just !DETERMINER few days' drive
+just !DETERMINER few hours' drive
+just !DETERMINER few minutes' drive
+just !DETERMINER few minutes drive
+just !DETERMINER matter of time
+just !NUMS1TO100 !TIMEFRAME away
+just !NUMS1TO100 !TIMEFRAME from now
+just !NUMS1TO100 !TIMEFRAME left
+just !NUMS1TO100 !TIMEFRAME remains
+just !NUMS1TO100 !TIMEFRAME to go
+just laze around
+just lazed around
+just lazes around
+just lazing around
+just once
+kairotic moment
+kairotic time
+kangaroo closure
+kangaroo closures
+kangaroo cloture
+kangaroo clotures
+keep hanging on
+keeping hanging on
+keeps hanging on
+kept hanging on
+kill-time
+kill time
+killed time
+killing time
+kills time
+kinds of time
+knee-jerk response
+knee-jerk responses
+knew it all along
+know it all along
+knowing it all along
+knows it all along
+lack precedent
+lacked precedent
+lacking precedent
+lacks precedent
+lallygag
+lallygagged
+lallygagging
+lallygags
+lapse far
+lapse of time
+lapsed far
+lapses far
+lapses of time
+lapsing far
+large piece of time
+large pieces of time
+largo
+last-born
+last-cyclic
+last-erected
+last-in
+last-made
+last-minute
+last-second
+last !DETERMINER long time
+last act
+last cyclic
+last dab
+last days
+last debt
+last duty
+last expedient
+last forever
+last home
+last honors
+last inning
+last known
+last lap
+last lick
+last long
+last longer
+last maker
+last making
+last marin
+last mile
+last minute
+last moment
+last muster
+last off !DETERMINER mark
+last offices
+last out
+last post
+last rest
+last rites
+last round
+last roundup
+last second
+last service
+last shift
+last sleep
+last stage
+last stop
+last straw
+last stroke
+last thing
+last things
+last time
+last times
+last to expect
+last touch
+last trumpet
+last word
+last words
+lasted !DETERMINER long time
+lasted forever
+lasted longer
+lasting !DETERMINER long time
+lasting forever
+lasting longer
+lastingly
+lastingness
+lasts !DETERMINER long time
+lasts forever
+lasts longer
+late
+late-begun
+late-betrayed
+late-blooming
+late-born
+late-built
+late-coined
+late-come
+late-comer
+late-cruising
+late-disturbed
+late-embarked
+late-filled
+late-flowering
+late-found
+late-imprisoned
+late-in-!DETERMINER-day
+late-kissed
+late-lamented
+late-lingering
+late-lost
+late-met
+late-model
+late-protracted
+late-ripening
+late-sacked
+late-taken
+late-transformed
+late-type
+late-types
+late-wake
+late-won
+late enough
+late from work
+late greek
+late greeks
+late in
+late latin
+late riser
+late risers
+late time
+late times
+latecomer
+latecomers
+lated
+latish
+launch into eternity
+launched into eternity
+launches into eternity
+launching into eternity
+least expect
+least expected
+least expecting
+least expects
+lengthy
+let !DETERMINER grass grow under !POSSESSIVEPRONOUN feet
+let !DETERMINER grass grow under !YOU feet
+let !DETERMINER grass grow under my feet
+let !DETERMINER grass grow under our feet
+letup
+letups
+lickety-split
+lift temporarily
+lifted temporarily
+lifting temporarily
+lifts temporarily
+light gloss
+light glosses
+lightly gloss
+lightly glossed
+lightly glosses
+lightly glossing
+lightning-speed
+lightning-speeds
+lightning speed
+lightning speeds
+like !DETERMINER jackrabbit
+like a day
+like a month
+like a year
+like an eternity
+like an hour
+like he's still
+like he !AUX still
+like it's still
+like it !AUX still
+like she's still
+like she !AUX still
+like they're still
+like they !AUX still
+like you're still
+like you !AUX still
+little !TIMEFRAME
+little had changed
+little has changed
+little time
+little while
+little whiles
+live-ever
+live-forever
+livelong !TIMEFRAME
+loaded moment
+loaded moments
+loiter
+loiter !VPARTICLE
+loiter about
+loiter around
+loitered about
+loitered around
+loitering
+loitering !VPARTICLE
+loitering about
+loitering around
+loiters
+loiters !VPARTICLE
+loiters about
+loiters around
+lollygag
+lollygagged
+lollygagging
+lollygags
+long-!TIMEFRAME
+long-anticipated
+long-awaited
+long-contended
+long-continued
+long-continuing
+long-coupled
+long-crested
+long-cycle
+long-cycled
+long-dead
+long-descending
+long-drawn
+long-drawn-out
+long-enduring
+long-exerted
+long-expected
+long-experienced
+long-extended
+long-goodbye
+long-goodbyes
+long-kept
+long-lasting
+long-lastingness
+long-lived
+long-livedness
+long-living
+long-locked
+long-lost
+long-off
+long-on
+long-pending
+long-periods
+long-planned
+long-possessed
+long-projected
+long-protracted
+long-quartered
+long-shut
+long-sought
+long-sought after
+long-sought for
+long-span
+long-sundered
+long-thinking
+long-time
+long-timed
+long-traveled
+long-wandered
+long-wandering
+long-way
+long-ways
+long-wedded
+long-wished
+long-withdrawing
+long-withheld
+long !TIMEFRAME
+long account
+long accounts
+long acquaintance
+long acquaintances
+long after
+long ago passed
+long anticipated
+long awaited
+long before
+long break
+long breaks
+long day
+long desired
+long drawn-out
+long drawn out
+long drink
+long drink of water
+long drinks
+long drinks of
+long duration
+long durations
+long fake
+long farewell
+long farewells
+long friend
+long friends
+long game
+long games
+long goodbye
+long goodbyes
+long in !COME
+long in !DETERMINER tooth
+long indefinite spell
+long indefinite spells
+long interest
+long lived
+long long
+long lost
+long on time
+long passed
+long past
+long past !DETERMINER right time
+long period
+long period of time
+long periods
+long piece
+long pieces
+long play
+long range of time
+long remember
+long remembered
+long remembering
+long remembers
+long ride
+long road
+long search
+long searches
+long sought
+long spell
+long spells
+long step
+long steps
+long stories
+long story
+long suspect
+long suspected
+long suspecting
+long suspects
+long think
+long thinking
+long thinks
+long time
+long time !COME
+long time in the making
+long timed
+long times
+long to come
+long trip
+long vacation
+long version
+long versions
+long view
+long view of things
+long way
+long ways
+long while
+long wished
+long wished for
+long, long
+longer than he
+longer than I
+longer than I can
+longer than she
+longer than they
+longer than we
+longest amount of time
+longest time
+longsome
+longsuffering
+longueur
+longueurs
+longwearing
+longwinded
+lots of time
+low time
+low times
+mad minute
+mad minutes
+mad moment
+mad moments
+made once
+magnetic moment
+magnetic moments
+makeshift
+man of !DETERMINER moment
+many irons in !DETERMINER fire
+many irons in !DETERMINER fire right now
+march-time
+march time
+may be too early
+may be too late
+may be too soon
+meant to have made
+measure of !POSSESSIVEPRONOUN !TIMEFRAME
+measure of !YOU !TIMEFRAME
+measure of my !TIMEFRAME
+measure of our !TIMEFRAME
+measured of !POSSESSIVEPRONOUN !TIMEFRAME
+measured of !YOU !TIMEFRAME
+measured of my !TIMEFRAME
+measured of our !TIMEFRAME
+measures of !POSSESSIVEPRONOUN !TIMEFRAME
+measures of !YOU !TIMEFRAME
+measures of my !TIMEFRAME
+measures of our !TIMEFRAME
+measuring of !POSSESSIVEPRONOUN !TIMEFRAME
+measuring of !YOU !TIMEFRAME
+measuring of my !TIMEFRAME
+measuring of our !TIMEFRAME
+modern
+modern-bred
+modern-built
+modern-greats
+modern-looking
+modern-made
+modern-practiced
+modern-sounding
+modern age
+modern generation
+modern generations
+modern greats
+modern man
+modern men
+moderne
+modernism
+modernisms
+modernist age
+modernistic
+modernity
+modernly
+moderns
+moment of truth
+momentary-contact
+momentary contact
+momentary success
+momentary successes
+momentary triumph
+momentary triumphs
+moments of truth
+month solid
+mostly expect
+mostly expected
+mostly expecting
+mostly expects
+move it ahead to
+move slowly
+move too quickly
+move with !DETERMINER time
+moved slowly
+moved too quickly
+moved with !DETERMINER times
+moves it ahead to
+moves slowly
+moves too quickly
+moves with !DETERMINER times
+moving slowly
+moving too quickly
+moving with !DETERMINER times
+muck around
+mucked around
+mucking around
+mucks around
+my !TIMEFRAME
+my own sweet time
+narcoma
+narcomas
+narcose
+narcoses
+near-term
+nearly extinct
+nearly over
+new-age
+new-wave
+new age
+new look
+new looks
+new wave
+newfashioned
+newish
+newness
+nigh-about
+nigh-past
+nigh about done
+no end
+no end of
+no end of !DETERMINER fellow
+no end to
+no one has yet
+no sooner
+no sooner did
+no sooner did !PRONOUNNOMINAL
+no sooner than
+no spring chicken
+noiseless foot of Time
+none too late
+none too soon
+nor yet
+normal !TIMEFRAME
+normal day
+normal days
+normal year
+not !DETERMINER day goes by
+not !DETERMINER day goes by when
+not all that long ago
+not at !DETERMINER right time
+not so long ago
+not soon enough
+not timely
+Not too much longer
+occupied !DETERMINER time
+occupied !POSSESSIVEPRONOUN time
+occupied !YOU time
+occupied herself
+occupied herself with
+occupied himself
+occupied himself with
+occupied my time
+occupied myself
+occupied myself with
+occupied our time
+occupied ourselves
+occupied ourselves with
+occupied time
+occupied yourself
+occupied yourself with
+occupies !DETERMINER time
+occupies !POSSESSIVEPRONOUN time
+occupies !YOU time
+occupies herself
+occupies herself with
+occupies himself
+occupies himself with
+occupies my time
+occupies myself
+occupies myself with
+occupies our time
+occupies ourselves
+occupies ourselves with
+occupies time
+occupies yourself
+occupies yourself with
+occupy !DETERMINER time
+occupy !POSSESSIVEPRONOUN time
+occupy !YOU time
+occupy herself
+occupy herself with
+occupy himself
+occupy himself with
+occupy my time
+occupy myself
+occupy myself with
+occupy our time
+occupy ourselves
+occupy ourselves with
+occupy time
+occupy yourself
+occupy yourself with
+occupying !DETERMINER time
+occupying !POSSESSIVEPRONOUN time
+occupying !YOU time
+occupying herself
+occupying herself with
+occupying himself
+occupying himself with
+occupying my time
+occupying myself
+occupying myself with
+occupying our time
+occupying ourselves
+occupying ourselves with
+occupying time
+occupying yourself
+occupying yourself with
+odd-come-short
+odd !TIMEFRAME
+odd moments
+of !DETERMINER time
+of !DETERMINER times
+of all ages
+of long duration
+of other times
+of time
+of times
+off schedule
+old-fashioned
+old-new
+old-young
+Old age !AUX creeping on apace
+OLD AS !DETERMINER HILLS
+old as dirt
+old as history
+old as Methuselah
+old as time
+old bird
+old birds
+old blue
+old blues
+old boy
+old boys
+old campaigner
+old campaigners
+old catholic
+old catholics
+old christmas
+old coot
+old coots
+old enough
+old enough to
+OLD ENOUGH TO BE !POSSESSIVEPRONOUN FATHER
+OLD ENOUGH TO BE !POSSESSIVEPRONOUN MOTHER
+old fashioned
+on !DETERMINER dot of
+on !DETERMINER schedule
+on !DETERMINER sneak
+on !DETERMINER sudden
+on !DETERMINER sudden impulse
+On !POSSESSIVEPRONOUN own time
+on !POSSESSIVEPRONOUN schedule
+ON !POSSESSIVEPRONOUN TIME
+on and on
+on borrowed time
+on in !TIMEFRAME
+on short notice
+on such short notice
+once-accented
+once-and-for-all
+once-born
+once-fashionable
+once-over
+once-run
+once and again
+once and for always
+once and no more
+once fashionable
+once for all
+once in !DETERMINER blue moon
+once in !DETERMINER coon's age
+once in !DETERMINER thousand !TIMEFRAME
+once over lightly
+once pinnate
+once removed
+once upon
+one fell swoop
+only !DETERMINER !TIMEFRAME
+only !DETERMINER !TIMEFRAME away
+only !DETERMINER few !TIMEFRAME
+only !DETERMINER few centuries
+only !DETERMINER few days
+only !DETERMINER few decades
+only !DETERMINER few minutes
+only !DETERMINER few weeks
+only !DETERMINER last !NUMS1TO100 !TIMEFRAME
+only !NUMS1TO100 !TIMEFRAME
+only !NUMS1TO100 !TIMEFRAME away
+only !NUMS1TO100 !TIMEFRAME from now
+only !NUMS1TO100 !TIMEFRAME left
+only !NUMS1TO100 !TIMEFRAME remains
+only !NUMS1TO100 !TIMEFRAME to go
+only an instant
+only been !NUMS1TO100 !TIMEFRAME
+only been !NUMS1TO100 !TIMEFRAME since
+only now and again
+only now and then
+only occasionally
+only so long
+only so long as
+only then
+only then !MODAL
+only then !MODAL !DETERMINER
+only then !MODAL !PRONOUNNOMINAL
+only times
+only today
+only until now
+only when !DETERMINER spirit moves
+only when necessary
+only yesterday
+our !TIMEFRAME
+our time is near
+out of !POSSESSIVEPRONOUN time
+out of !POSSESSIVEPRONOUN times
+out of !YOU time
+out of !YOU times
+out of my time
+out of my times
+out of our time
+out of our times
+outdate
+outdated
+outdates
+outdating
+outside of time
+outstanding debt
+outstanding debts
+outstanding loan
+outstanding loans
+outworn
+over-long
+over-time
+over !DETERMINER perceived course of time
+over and over
+overconsumption
+overnight sensation
+overnight sensations
+overnight success
+own sweet time
+pair of winks
+pairs of winks
+pass !DETERMINER time
+pass !DETERMINER time in
+pass !DETERMINER time with
+pass !DETERMINER torch
+pass !POSSESSIVEPRONOUN time
+pass !POSSESSIVEPRONOUN time in
+pass !YOU time
+pass !YOU time in
+pass my time
+pass my time in
+pass on !DETERMINER tradition
+pass our time
+pass our time in
+pass time
+passage of time
+passed !DETERMINER time
+passed !DETERMINER time in
+passed !DETERMINER time with
+passed !DETERMINER torch
+passed !POSSESSIVEPRONOUN time
+passed !POSSESSIVEPRONOUN time in
+passed !YOU time
+passed !YOU time in
+passed my time
+passed my time in
+passed on !DETERMINER tradition
+passed our time
+passed our time in
+passed time
+passes !DETERMINER time
+passes !DETERMINER time in
+passes !DETERMINER time with
+passes !DETERMINER torch
+passes !POSSESSIVEPRONOUN time
+passes !POSSESSIVEPRONOUN time in
+passes !YOU time
+passes !YOU time in
+passes my time
+passes my time in
+passes on !DETERMINER tradition
+passes our time
+passes our time in
+passes time
+passing !DETERMINER time
+passing !DETERMINER time in
+passing !DETERMINER time with
+passing !DETERMINER torch
+passing !POSSESSIVEPRONOUN time
+passing !POSSESSIVEPRONOUN time in
+passing !YOU time
+passing !YOU time in
+passing belief
+passing beliefs
+passing fancies
+passing fancy
+passing my time
+passing my time in
+passing of time
+passing on !DETERMINER tradition
+passing our time
+passing our time in
+passing phase
+passing phases
+passing time
+passe
+past-cutoff
+past !DETERMINER cut-off
+past !DETERMINER cut-off date
+past !DETERMINER cut-off dates
+past !POSSESSIVEPRONOUN prime
+past !POSSESSIVEPRONOUN primes
+past !YOU prime
+past and ahead with
+past and future
+past and present
+past cutoff
+past my prime
+past our prime
+past our primes
+past, present and future
+past, present, and future
+pearly everlasting
+pell-mell
+pell mell
+per saltum
+perceived time
+perennius
+permanent
+permanent way
+permanent ways
+perpetual
+perpetually
+perpetuate
+perpetuated
+perpetuates
+perpetuating
+perpetuation
+perpetuator
+perpetuators
+perpetuities
+perpetuity
+perpetuum
+personal attention
+personal attentions
+Peu de gens savent etre vieux
+piece of time
+piecemeal
+pieces of time
+piss about
+pissed about
+pisses about
+pissing about
+planned all along to have
+play for time
+played for time
+playing for time
+plays for time
+Plenus annis abiit plenus honoribus
+poco !DETERMINER poco
+point of time
+points of time
+pokey and slow
+pokey slow
+pokier
+pokiest
+pokily
+pokiness
+poky
+postdate
+postdated
+postdates
+postdating
+posthaste
+postmodern age
+pottered
+pottering
+precisely after
+precisely before
+precociosity
+precocious
+precociously
+precociousness
+precocity
+pregnant moment
+pregnant moments
+premature
+PREMATURE-GRAY
+prematures
+present and future
+press for time
+press of business
+pressed for time
+presses for time
+pressing for time
+presto change
+presto changes
+presto chango
+prestos
+pretty damned quick
+pretty damned slow
+pretty fast
+pretty good experience
+pretty good experiences
+pretty good time
+pretty quick
+pretty slow
+process lag
+process lags
+process of time
+processes of time
+progress of time
+progress on schedule
+progressed on schedule
+progresses on schedule
+progressing on schedule
+progression of time
+prolongation of
+prolongations of
+prolonged narcosis
+pronto
+protract
+protract !DETERMINER
+protract !POSSESSIVEPRONOUN
+protract !PRONOUNOBJECTIVE
+protract further
+protracted
+protracted !DETERMINER
+protracted !POSSESSIVEPRONOUN
+protracted !PRONOUNOBJECTIVE
+protracted further
+protracted meeting
+protracted meetings
+protractedly
+protracting
+protracting !DETERMINER
+protracting !POSSESSIVEPRONOUN
+protracting !PRONOUNOBJECTIVE
+protracting further
+protracts
+protracts !DETERMINER
+protracts !POSSESSIVEPRONOUN
+protracts further
+protracts!PRONOUNOBJECTIVE
+provided always
+psychological down time
+psychological moment
+psychological moments
+putter about
+puttered about
+puttering about
+putters about
+putting-off
+quaint
+quasi-ancient
+quasi-ancients
+quasi-modern
+quasi-moderns
+quick
+quick-acting
+quick-break switch
+quick-burning
+quick-change
+quick-coming
+quick-compounded
+quick-conceiving
+quick-decaying
+quick-designing
+quick-devouring
+quick-drawn
+quick-drying
+quick-eared
+quick-fading
+quick-falling
+quick-fire
+quick-firer
+quick-firing
+quick-flowing
+quick-freeze
+quick-freezer
+quick-freezing
+quick-froze
+quick-frozen
+quick-glancing
+quick-gone
+quick-growing
+quick-guiding
+quick-gushing
+quick-handed
+quick-laboring
+quick-labouring
+quick-loading
+quick-looking
+quick-lunch
+quick-minded
+quick-moving
+quick-nosed
+quick-paced
+quick-piercing
+quick-questioning
+quick-raised
+quick-relishing
+quick-returning
+quick-rolling
+quick-running
+quick-saver
+quick-scented
+quick-scenting
+quick-seeing
+quick-self-lessening
+quick-selling
+quick-setting
+quick-shifting
+quick-shutting
+quick-shutting,
+quick-sighted
+quick-sightedness
+quick-speaking
+quick-speeding
+quick-spirited
+quick-spouting
+quick-springing
+quick-stepping
+quick-surprising
+quick-talking
+quick-tempered
+quick-thoughted
+quick-thriving
+quick-time
+quick-tongued
+quick-voiced
+quick-winged
+quick-witted
+quick-wittedly
+quick-wittedness
+quick-wrought
+quick as !DETERMINER wink
+quick as lightning
+quick as thought
+quick assets
+quick fire
+quick freezing
+quick gloss
+quick glosses
+quick grass
+quick hunch
+quick inspection
+quick kick
+quick look
+quick march
+quick on !DETERMINER trigger
+quick one
+quick parts
+quick pull
+quick sight
+quick sighted
+quick step
+quick steps
+quick stick
+quick strike
+quick strikes
+quick temper
+quick time
+quick time in which
+quick times
+quick to
+quick to come
+quick to take offense
+quick trick
+quick water
+quicken !YOU pace
+quicker-tempered
+quicker than you can say
+quickie
+quickie strike
+quickly
+quickly extended
+quickly glossing
+quickness
+quickness to take offense
+quiet moment
+quiet moments
+quietist time
+quietist times
+quit cold
+quite frequently
+quite often
+quite some time
+quite some time away
+quits cold
+quitting cold
+race against time
+race with time
+raced against time
+raced with time
+races against time
+races with time
+racing against time
+racing with time
+rage at !DETERMINER time
+rage of time
+ramble on about
+rambled on about
+rambles on about
+rambling on about
+rapid
+rapid-changing
+rapid recurrence
+rapid recurrences
+rapid succession
+rapid successions
+rapidly
+rapidly in
+rapidly out
+rath-ripened
+rathe
+rathe-ripe
+rathe-ripening
+rathe-ripens
+rathe-spring
+rathe spring
+rattle on about
+rattle through
+rattled on about
+rattled through
+rattles on about
+rattles through
+rattling on about
+rattling through
+rave spring
+raven messenger
+raven messengers
+re-living history
+readily
+readily-
+readily-definable
+ready for marriage
+real tipping point
+real tipping points
+real turning point
+real turning points
+really put it away
+recency
+recognized all along
+recognizes all along
+recognizing all along
+reel off about
+reeled off about
+reeling off about
+reels off about
+regular !TIMEFRAME
+regular year
+remaining time
+represent !DETERMINER time
+represented !DETERMINER time
+representing !DETERMINER time
+represents !DETERMINER time
+return in time to
+returned in time to
+returning in time to
+returns in time to
+ride out
+ride out !DETERMINER
+rides out
+rides out !DETERMINER
+riding out
+riding out !DETERMINER
+right under !DETERMINER wire
+ripening early
+ripening late
+rode out
+rode out !DETERMINER
+running-out
+running-out fire
+running-out fires
+running-out of !DETERMINER sands
+running on
+rush on
+rush production
+rush up on !PRONOUNOBJECTIVE
+rush up on me
+rush up on one
+rush up on us
+rush up on you
+rushed on
+rushed production
+rushed up on !PRONOUNOBJECTIVE
+rushed up on me
+rushed up on one
+rushed up on us
+rushed up on you
+rushes on
+rushes production
+rushes up on !PRONOUNOBJECTIVE
+rushes up on me
+rushes up on one
+rushes up on us
+rushes up on you
+rushing on
+rushing production
+rushing up on !PRONOUNOBJECTIVE
+rushing up on me
+rushing up on one
+rushing up on us
+rushing up on you
+said once
+sands of time
+sang deathless songs
+schmooze away
+schmoozed away
+schmoozes away
+schmoozing away
+second-childhood
+second-youth
+second childhood
+second youth
+seem to quicken
+seemed prolonged
+seemed to quicken
+seeming to quicken
+seems always to have been
+seems never to have been
+seems to quicken
+seldom seen
+self-perpetuating
+semipiternal
+sempiternal
+sempiternally
+sempiternity
+set it aside for now
+sets it aside for now
+setting it aside for now
+sextuple time
+sextuple times
+she always
+shift it ahead to
+shifts it ahead to
+shoot !DETERMINER breeze
+shoot !DETERMINER breeze with
+shoot !DETERMINER bull
+shoot !DETERMINER shit
+shooting !DETERMINER breeze
+shooting !DETERMINER breeze with
+shooting !DETERMINER bull
+shooting !DETERMINER shit
+shoots !DETERMINER breeze
+shoots !DETERMINER breeze with
+shoots !DETERMINER bull
+shoots !DETERMINER shit
+shopping spree
+shopping sprees
+short-cut
+short-cuts
+short-cycle
+short-cycled
+short-dated
+short-day
+short-distance
+short-docked
+short-drawn
+short-duration
+short-lasting
+short-lived
+short-livedness
+short-living
+short-made
+short-nighted
+short-range
+short-relief
+short-run
+short-running
+short-shrift
+short-term
+short-termed
+short-time
+short-way
+short-ways
+short !TIMEFRAME
+short break
+short breaks
+short duration
+short durations
+short extension
+short extensions
+short indefine spell
+short indefinite spells
+short notice
+short period
+short period of time
+short periods
+short piece
+short pieces
+short shrift
+short spell
+short spells
+short time
+short times
+short version
+short versions
+short way
+short ways
+short while
+shortcut
+shortcuts
+shortcutted
+shortcutting
+shorter than he
+shorter than I
+shorter than I can
+shorter than she
+shorter than they
+shorter than we
+shortest amount of time
+shortest time
+shortly
+shot !DETERMINER breeze
+shot !DETERMINER breeze with
+shot !DETERMINER bull
+shot !DETERMINER shit
+SHY of !DETERMINER !TIMEFRAME
+signal moment
+signal moments
+signature moment
+signature moments
+signs of !DETERMINER times
+simple time
+simple times
+sine die
+sing deathless songs
+singing deathless songs
+sings deathless songs
+slob around
+slobbed around
+slobbing around
+slobs around
+slow
+slow-back
+slow-belly
+slow-blooded
+slow-breathed
+slow-breathing
+slow-breeding
+slow-burning
+slow-circling
+slow-coach
+slow-combustion
+slow-conceited
+Slow-consuming age
+slow-contact
+slow-crawling
+slow-creeping
+slow-developed
+slow-digesting
+slow-drawing
+slow-drawn
+slow-driving
+slow-ebbing
+slow-endeavoring
+slow-extinguished
+slow-eyed
+slow-fingered
+slow-foot
+slow-going
+slow-growing
+slow-legged
+slow-march
+slow-mettled
+slow-motion
+slow-movement
+slow-moving
+slow-paced
+slow-poky
+slow-rolling
+slow-run
+slow-running
+slow-sailing
+slow-speaking
+slow-speeched
+slow-spirited
+slow-spoken
+slow-stepped
+slow-sudden
+slow-sure
+slow-thinking
+slow-time
+slow-times
+slow-tongued
+slow-tuned
+slow-up
+slow-winged
+slow-worm
+slow as death
+slow as molasses
+slow as slow
+slow astern
+slow burning
+slow enough
+slow goer
+slow in !COME
+slow march
+slow market
+slow markets
+slow match
+slow matches
+slow motion
+slow moving
+slow off !DETERMINER mark
+slow pace
+slow paces
+slow person
+slow pile
+slow start
+slow starter
+slow starters
+slow starts
+slow time
+slow times
+slow to
+slow to act
+slow to come
+slow to commit !REFLEXIVEPRONOUN
+slow to commit myself
+slow to commit ourselves
+slow to commit yourself
+slow to make !POSSESSIVEPRONOUN moves
+slow to make !YOU move
+slow to make !YOU moves
+slow to make my moves
+slow to make our moves
+slow up
+slowed time
+slower than !DETERMINER
+slower than !DETERMINER seven-year itch
+slowing time
+slowly
+slowly became
+slowly gradually
+slowness to act
+slows time
+smacked of !DETERMINER time
+smacking of !DETERMINER time
+smacks of !DETERMINER time
+small-!TIMEFRAME
+small !TIMEFRAME
+small piece of time
+small pieces of time
+snail's pace
+snail-like
+snail-paced
+snaillike
+snap-vote
+snap-votes
+snap vote
+snap votes
+snappiness
+snappy
+snappy-pace
+snappy-paces
+snappy pace
+snappy paces
+snatched !DETERMINER day
+snatched !DETERMINER day's
+snatched !DETERMINER second
+snatched !DETERMINER second's
+snatchier
+snatchiest
+snatchy
+sneak-current
+sneak-currents
+sneak attack
+sneak attacks
+sneak current
+sneak currents
+snip-snappy
+snip snappy
+so-far-a
+so-far-secret
+so-far-the
+so-far-untaken
+so far untaken
+so far untapped
+so fast
+so fast !DETERMINER pace
+so long
+so long as
+so long drifting
+so long drifting about
+so quickly
+so slow
+so slow !DETERMINER pace
+so slowly
+so soon
+Solid !TIMEFRAME
+Solid afternoon
+Solid afternoons
+Solid day
+Solid days
+Solid evening
+Solid evenings
+Solid month
+Solid morning
+Solid mornings
+Solid night
+Solid nights
+Solid year
+some breathing place
+some breathing space
+some breathing time
+some quickies
+soon at hand
+soon enough
+sostenuto
+sostinente
+spanking-pace
+spanking-paced
+spanking-paces
+spanking-pacing
+spanking pace
+spanking paced
+spanking paces
+spanking pacing
+speak over-time
+speak too late
+speak too soon
+speaking over-time
+speaking too late
+speaking too soon
+speaks over-time
+speaks too late
+speaks too soon
+sped !DETERMINER parting guest
+speed !DETERMINER parting guest
+speeding !DETERMINER parting guest
+speeds !DETERMINER parting guest
+speedup
+speedups
+spell of
+spells of
+spend !DETERMINER good deal of !POSSESSIVEPRONOUN time
+spend !DETERMINER time
+spend !POSSESSIVEPRONOUN time
+spend !POSSESSIVEPRONOUN time in
+spend !YOU time
+spend !YOU time in
+spend most of !POSSESSIVEPRONOUN time
+spend my time
+spend my time in
+spend our time
+spend our time in
+spending !DETERMINER good deal of !POSSESSIVEPRONOUN time
+spending !DETERMINER time
+spending !POSSESSIVEPRONOUN time
+spending !POSSESSIVEPRONOUN time in
+spending !YOU time
+spending !YOU time in
+spending most of !POSSESSIVEPRONOUN time
+spending my time
+spending my time in
+spending our time
+spending our time in
+spends !DETERMINER good deal of !POSSESSIVEPRONOUN time
+spends !DETERMINER time
+spends !POSSESSIVEPRONOUN time
+spends !POSSESSIVEPRONOUN time in
+spends !YOU time
+spends !YOU time in
+spends most of !POSSESSIVEPRONOUN time
+spends my time
+spends my time in
+spends our time
+spends our time in
+spent !DETERMINER good deal of !POSSESSIVEPRONOUN time
+spent !DETERMINER time
+spent !POSSESSIVEPRONOUN time
+spent !POSSESSIVEPRONOUN time in
+spent !YOU time
+spent most of !POSSESSIVEPRONOUN time
+spent my time
+spent my time in
+spent our time
+spent our time in
+spent so long
+split second
+split seconds
+spoke over-time
+spoke too late
+spoke too soon
+spree
+sprees
+stall-off
+stall !DETERMINER
+stall !POSSESSIVEPRONOUN
+stall !PRONOUNOBJECTIVE
+stall for time
+stalled-off
+stalled for more time
+stalled for time
+stalling-off
+stalling !DETERMINER
+stalling !POSSESSIVEPRONOUN
+stalling !PRONOUNOBJECTIVE
+stalling for time
+stalls-off
+stalls !DETERMINER
+stalls !POSSESSIVEPRONOUN
+stalls !PRONOUNOBJECTIVE
+stalls for time
+stand-by
+stand-bys
+stand by for
+standing-by
+standing-by with
+standing by for
+stands-by
+stands by
+stands by for
+stay !DETERMINER distance
+stay late
+stay up late
+stayed !DETERMINER distance
+stayed late
+stayed up late
+staying !DETERMINER distance
+staying late
+staying up late
+stays !DETERMINER distance
+stays late
+stays up late
+steal some time
+steal time
+stealing some time
+stealing time
+steals some time
+steals time
+step out of time
+stepped out of time
+stepping out of time
+steps out of time
+stick with
+stick with !PRONOUNOBJECTIVE over
+stick with me over
+stick with us over
+stick with you over
+sticking with
+sticking with !PRONOUNOBJECTIVE over
+sticking with me over
+sticking with us over
+sticking with you over
+sticks with !PRONOUNOBJECTIVE over
+sticks with me over
+sticks with us over
+sticks with you over
+still-admired
+still-closed
+still-continued
+still-continuing
+still-diminishing
+still-existing
+still-improving
+still-increasing
+still-isolated
+still-living
+still-new
+still-open
+still-pagan
+still-pining
+still-recurring
+still-refuted
+still-renewed
+still-repaired
+still-rocking
+still-sick
+still-slaughtered
+still-sore
+still-unmarried
+still-vexed
+still-vigorous
+still-watching
+still-young
+still young
+stitch in time
+stole some time
+stole time
+stood-by
+stood by
+stood by for
+stop-gap
+stop-gap measure
+stop-gap measures
+stop-gaps
+stop out of time
+stopped out of time
+stopping out of time
+stops out of time
+stretch-out !DETERMINER while
+stretch-out for
+stretch-out for !DETERMINER period
+stretch-out for !DETERMINER while
+stretch of time
+stretched-out
+stretched-out for
+stretched-out over
+stretches-out
+stretches of time
+stretching-out for
+stretching-out for !DETERMINER period
+string !PRONOUNOBJECTIVE out
+string out
+string out !DETERMINER
+string out !POSSESSIVEPRONOUN
+stringendo
+stringendos
+stringing !PRONOUNOBJECTIVE out
+stringing out
+stringing out !DETERMINER
+stringing out !POSSESSIVEPRONOUN
+strings !PRONOUNOBJECTIVE out
+strings out
+strings out !DETERMINER
+strings out !POSSESSIVEPRONOUN
+strung !PRONOUNOBJECTIVE out
+strung out !DETERMINER
+strung out !POSSESSIVEPRONOUN
+strung out for
+strung out over
+stuck for !DETERMINER while
+stuck with !PRONOUNOBJECTIVE over
+stuck with for !DETERMINER while
+stuck with me over
+stuck with us over
+stuck with you over
+sub specie aeternitatis
+such !DETERMINER long time
+sudden
+sudden-beaming
+sudden-starting
+sudden-whelming
+sudden and quick in quarrel
+sudden or radical change
+sudden or radical changes
+sudden pull
+sudden pulls
+sudden turn
+sudden turns
+suddenness
+superannuated
+superfast
+surprisingly fast
+surprisingly slow
+sweep-of-time
+sweep of time
+sweeps-of-time
+sweeps of time
+sweet time
+swift-advancing
+swift-brought
+swift-burning
+swift-changing
+swift-concerted
+swift-declining
+swift-effected
+swift-fated
+swift-finned
+swift-flowing
+swift-flying
+swift-foot
+swift-footed
+swift-frightful
+swift-glancing
+swift-gliding
+swift-handed
+swift-heeled
+swift-hoofed
+swift-judging
+swift-lamented
+swift-marching
+swift-paced
+swift-posting
+swift-recurring
+swift-revenging
+swift-running
+swift-rushing
+swift-seeing
+swift-sliding
+swift-slow
+swift-spoken
+swift-starting
+swift-stealing
+swift-streamed
+swift-swimming
+swift-tongued
+swift-winged
+swift as an arrow
+swift rate
+swift rates
+tachy
+tachy-
+talk against time
+talk away
+talk on
+talk on about
+talk round
+talk round and round
+talked against time
+talked away
+talked on
+talked on about
+talked round
+talked round and round
+talking against time
+talking away
+talking on
+talking on about
+talking round
+talking round and round
+talks against time
+talks away
+talks on
+talks on about
+talks round
+talks round and round
+tardy-moving
+tardy-rising
+tare an ages
+tarried
+tarried for
+tarries
+tarries for
+tarry
+tarry for
+tarrying
+tarrying for
+telling moment
+telling moments
+temporarily
+temporary
+temporary arrangement
+temporary arrangements
+temporary duties
+temporary duty
+temporary expedient
+temporary expedients
+temporary measure
+temporary measures
+temporization
+temporize
+temporized
+temporizer
+temporizers
+temporizes
+temporizing
+tempus edax rerum
+tempus fugit
+termless
+the-last-time
+the-sudden
+their time is near
+there !AUX !DETERMINER time
+these many !TIMEFRAME
+they always
+this !AUX long overdue
+this dates !PRONOUNOBJECTIVE
+this dates me
+this dates us
+this dates you
+this really dates !PRONOUNOBJECTIVE
+this really dates me
+this really dates us
+this really dates you
+this should have happened much earlier
+this will  date me
+this will date me
+this will date us
+this will really date me
+this will really date us
+through it all
+thus far untaken
+thus far untapped
+tide of time
+tight schedule
+tight schedules
+tight scheduling
+tightly scheduled
+time's caravan
+time's forelock
+time-allocation
+time-based
+time-beater
+time-beguiling
+time-bent
+time-bettering
+time-bewasted with
+time-blackened with
+time-blurred
+time-born
+time-bound
+time-breaking
+time-centred
+time-cleft
+time-conditioned
+time-conscious
+time-constraints
+time-controlled
+time-dead
+time-deluding
+time-dependent
+time-devouring
+time-economizing
+time-enduring
+time-expired
+time-faced
+time-fused
+time-giver
+time-halting
+time-hastening
+time-immemorials
+time-independent
+time-kept
+time-killing
+time-lasting
+time-limited
+time-lost
+time-marked
+time-measurer
+time-measuring
+time-mellowed
+time-noting
+time-observer
+time-obsessed
+time-old
+time-pleaser
+time-pressed
+time-proof
+time-reckoning
+time-rent
+time-setter
+time-setting
+time-shaken
+time-shrouded
+time-spender
+time-spending
+time-to
+time-to-kill		1
+time-to-react
+time-varying
+time !AUX closing in
+time !AUX closing in on
+time !AUX drawing on
+time !AUX early
+time !AUX fleeting
+time !AUX late
+time after time
+time at !POSSESSIVEPRONOUN command
+time at !POSSESSIVEPRONOUN disposal
+time at !PRONOUNOBJECTIVE command
+time at my command
+time at my disposal
+time at our command
+time at our disposal
+time beguiling
+time being
+time bent
+time bettering
+time blurred
+time born
+time bound
+time constraints
+time delay
+time delays
+time deluding
+time drawing on
+time economizing
+time enduring
+time enough
+time expired
+time extension
+time extensions
+time flies
+time fused
+time halting
+time hanging on !POSSESSIVEPRONOUN hands
+time hanging on !YOU hands
+time hanging on my hands
+time hanging on our hands
+time hangs heavily
+time has slipped away
+time hastening
+time hits
+time immemorial
+time is near
+time killer
+time killers
+time killing
+time lasting
+time left over
+time limit
+time limits
+time marches on
+time mellowed
+time needed
+time needed for
+time noting
+time obsessed
+time on !POSSESSIVEPRONOUN hands
+time on !YOU hands
+time on my hands
+time on our hands
+time out of mind
+time out of time
+time pressed
+time rent
+time sense
+time sensing
+time shaken
+time shrouded
+time slips away
+time spirit
+TIME TO
+time to burn
+time to catch !POSSESSIVEPRONOUN breath
+time to catch !YOU breath
+time to catch my breath
+time to catch our breath
+time to kill
+time to spare
+time without end
+timeless
+timelessly
+timelessness
+timeous
+timepleaser
+timepleasers
+times-without-end
+times enough
+times out of mind
+times out of time
+timous
+to !DETERMINER end of time
+to be brief
+To grow old gracefully.
+to this day there
+to this day there !AUX no
+To vanish in !DETERMINER chinks that Time has made
+to wait !DETERMINER bit
+tong-time-coming
+too long !DETERMINER wait
+too rathe
+top speed
+top speeds
+tortoise's pace
+traffic-mile
+transience
+transient
+trend of !DETERMINER time
+trends of !DETERMINER times
+tunnel of time
+tunnels of time
+twiddle !POSSESSIVEPRONOUN thumbs
+twiddle !YOU thumbs
+twiddle my thumbs
+twiddle our thumbs
+twiddled !POSSESSIVEPRONOUN thumbs
+twiddled !YOU thumbs
+twiddled my thumbs
+twiddled our thumbs
+twiddles !POSSESSIVEPRONOUN thumbs
+twiddles !YOU thumbs
+twiddles my thumbs
+twiddles our thumbs
+twiddling !POSSESSIVEPRONOUN thumbs
+twiddling !YOU thumbs
+twiddling my thumbs
+twiddling our thumbs
+twilight of !POSSESSIVEPRONOUN
+twilight of !POSSESSIVEPRONOUN career
+twilight of !POSSESSIVEPRONOUN careers
+twilight of !YOU
+twilight of !YOU career
+twilight of my
+twilight of my career
+twilight of our
+twilight of our career
+two shakes
+two shakes of !DETERMINER lamb's tail
+ultra-contemporary
+ultra-modern
+ultra-quaint
+ultra quaint
+ultracontemporary
+ultramodern
+unannounced
+unanticipated
+unappropriated
+unassigned
+uncanonical
+unclassical
+uncompleted
+unconcluded
+unconventional
+unconventionality
+under-time
+under !DETERMINER deadline
+under !DETERMINER wire
+under deadline
+under deadlines
+underconsumption
+understanding all along
+understands all along
+understood all along
+undying fame
+undying fames
+undying friendship
+undying friendships
+unending
+unendingly
+uneventful
+uneventfully
+uneventfulness
+unexpectedly
+unhatched
+unhurried
+unhurriedly
+unhurriedness
+unimplemented
+uninitiated in
+uninitiated into
+uninterrupted
+uninterrupted course
+uninterrupted courses
+uninterrupted sequence
+uninterrupted sequences
+uninterruptedly
+unlapsed
+unlapsed state
+unlapsed states
+unlapsing
+unmatured
+unperfected
+unperformed
+unplayed
+unprecedented
+unrepeated
+unresolved
+unripe for
+unripe until
+unseasonable
+unseasonableness
+unseasonably
+unseasoned about
+unseasoned in
+unseasoned on
+unseasoned when it !COME to
+unset
+unsettled claim
+unsettled claims
+unsettled climate
+unsettled debt
+unsettled debts
+unsettled for !DETERMINER time being
+unsettled issue
+unsettled issues
+unsettled lawsuit
+unsettled lawsuits
+unsettled suit
+unsettled suits
+unsettled weather
+unshaped
+unshapen
+unspoken for
+untapped
+untapped resource
+up with !DETERMINER times
+upon !DETERMINER snake
+use time
+used time
+uses time
+using time
+verge toward dawn
+verge toward dusk
+verge toward evening
+verge toward morning
+verge toward noon
+verged toward dawn
+verged toward dusk
+verged toward evening
+verged toward morning
+verged toward noon
+verges toward dawn
+verges toward dusk
+verges toward evening
+verges toward morning
+verges toward noon
+verging toward dawn
+verging toward dusk
+verging toward evening
+verging toward morning
+verging toward noon
+very fast
+very slow
+virtually over
+vista of time
+vistas of time
+vogue
+vogue-fashion
+vogue-fashions
+vogue-word
+vogue-words
+vogue fashion
+vogue fashions
+vogue word
+vogue words
+vogues
+VOGUISH
+vulgar era
+vulgar eras
+wait-!DETERMINER-bit for
+wait-awhile
+wait-out
+wait !DETERMINER bit
+wait !PRONOUNOBJECTIVE out
+wait for it to
+wait it out
+wait me out
+wait out
+wait out !DETERMINER market
+wait to get
+wait us out
+wait you out
+waited-out
+waited !DETERMINER bit
+waited !PRONOUNOBJECTIVE out
+waited for it to
+waited it out
+waited me out
+waited out
+waited out !DETERMINER market
+waited to get
+waited us out
+waited you out
+waiter-on
+waiters-on
+waiting-it-out
+waiting-out
+waiting !DETERMINER bit
+waiting !PRONOUNOBJECTIVE out
+waiting for it to
+waiting game
+waiting games
+waiting it out
+waiting me out
+waiting out
+waiting out !DETERMINER market
+waiting to get
+waiting us out
+waiting you out
+waits-out
+waits !DETERMINER bit
+waits !PRONOUNOBJECTIVE out
+waits for it to
+waits it out
+waits me out
+waits out
+waits out !DETERMINER market
+waits to get
+waits us out
+waits you out
+wakey night
+wakey nights
+waltz-time
+waltz time
+waltz times
+watchful waiting
+watching and waiting
+watershed !TIMEFRAME
+watershed for
+way past
+way past time
+way past time for
+way past time to
+way too early
+way too late
+way too soon
+wedding-journey
+wedding-journeys
+wedding journey
+wedding journeys
+wee little !TIMEFRAME
+week solid
+what little time
+what little time !PRONOUNNOMINAL
+what little time !PRONOUNNOMINAL has
+what little time !PRONOUNNOMINAL have
+what little time I do have
+what little time I have
+What was taking so long?
+what would always
+what would always be
+when !PRONOUNNOMINAL are ready
+WHEN LEAST EXPECTED
+whenever !PRONOUNNOMINAL are ready
+while away
+while away !DETERMINER !TIMEFRAME
+while away !DETERMINER time
+whiled
+whiled !DETERMINER time
+whiled !POSSESSIVEPRONOUN time
+whiled away
+whiled away !DETERMINER time
+whiles away
+whiles away !DETERMINER time
+whiling
+whiling !DETERMINER time
+whiling !POSSESSIVEPRONOUN time
+whiling away
+whiling away !DETERMINER time
+whip and spur
+whip off
+whip on
+whip through
+whipped off
+whipped on
+whipped through
+whipping off
+whipping on
+whipping through
+whips and spurs
+whips off
+whips on
+whips through
+whirligig of time
+whirligigs of time
+whirlwind romance
+whirlwind romances
+whirlwind visit
+whirlwind visits
+wile away !DETERMINER !TIMEFRAME
+wiled away !DETERMINER !TIMEFRAME
+wiles away !DETERMINER !TIMEFRAME
+wiling away !DETERMINER !TIMEFRAME
+will not wait
+window of time
+windows of time
+witching time
+witching times
+with !DETERMINER gradual
+with !DETERMINER gradual quickening
+with !DETERMINER gradual slowing
+with !DETERMINER snatch
+with !DETERMINER time
+with !DETERMINER times
+with all haste
+with breakneck speed
+with glacial speed
+with great haste
+with haste
+with no time to spare
+with snatches
+with time
+within !DETERMINER hairsbreadth
+within just
+within just !DETERMINER
+within just !NUMS1TO100 !TIMEFRAME
+within only
+within scarcely
+without !DETERMINER by !YOU leave
+without !DETERMINER least delay
+without !DETERMINER minute to spare
+without cease
+without ceasing
+without delay
+without end
+without ever having
+without ever having to
+without publicity
+won't wait
+would almost
+would always
+would always be
+would always find
+would always have
+would always see
+would always take
+would ceaselessly
+would not be !DETERMINER first
+would sometimes
+year solid
+yesterday and today
+yesterday and today and forever
+yet aware of
+yet to
+yet to be
+yet to be resolved
+yet to be worked out
+yet to come
+yet to do
+yet to go
+yet to know
+yet to make
+yet to think
+yet unscheduled
+yet.
+yet;
+zippily
+zippiness
+zippy
+zippyness

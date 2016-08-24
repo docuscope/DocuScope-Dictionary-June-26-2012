@@ -1,0 +1,2577 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!DETERMINER !IDEA that
+!DETERMINER !RANKNUMBER edition of
+!DETERMINER aspect
+!DETERMINER aspect of
+!DETERMINER aspect of !DETERMINER
+!DETERMINER detail
+!DETERMINER details
+!DETERMINER detection
+!DETERMINER detection of
+!DETERMINER detections
+!DETERMINER detections of
+!DETERMINER distinction between
+!DETERMINER domain
+!DETERMINER domain of
+!DETERMINER domains
+!DETERMINER domains of
+!DETERMINER element
+!DETERMINER element of
+!DETERMINER elements
+!DETERMINER elements of
+!DETERMINER emblem
+!DETERMINER form of
+!DETERMINER grade
+!DETERMINER grade of
+!DETERMINER grades
+!DETERMINER grades of
+!DETERMINER graduated
+!DETERMINER home for
+!DETERMINER home to
+!DETERMINER housebroke
+!DETERMINER hub
+!DETERMINER hubs
+!DETERMINER idea
+!DETERMINER ideas
+!DETERMINER identity that
+!DETERMINER illustration of
+!DETERMINER kind of
+!DETERMINER kind of !DETERMINER
+!DETERMINER mix of
+!DETERMINER mixture of
+!DETERMINER myriad
+!DETERMINER name of
+!DETERMINER nature of
+!DETERMINER nature of !DETERMINER beast
+!DETERMINER nature of !DETERMINER beasts
+!DETERMINER nature of things
+!DETERMINER natures of
+!DETERMINER one
+!DETERMINER one in !DETERMINER same
+!DETERMINER one thing
+!DETERMINER one,
+!DETERMINER ones
+!DETERMINER other
+!DETERMINER other extreme
+!DETERMINER other extremes
+!DETERMINER other half
+!DETERMINER other halves
+!DETERMINER other side
+!DETERMINER other side of
+!DETERMINER other sides
+!DETERMINER other thing
+!DETERMINER other way around
+!DETERMINER other way round
+!DETERMINER other,
+!DETERMINER others
+!DETERMINER particular
+!DETERMINER particulars
+!DETERMINER parts from
+!DETERMINER phenomena
+!DETERMINER portion
+!DETERMINER portion of
+!DETERMINER range of
+!DETERMINER ranges of
+!DETERMINER ranks of
+!DETERMINER rather
+!DETERMINER rest of
+!DETERMINER rest of !DETERMINER world
+!DETERMINER sense of
+!DETERMINER slew of
+!DETERMINER sort of
+!DETERMINER specialized
+!DETERMINER species
+!DETERMINER species of
+!DETERMINER specific
+!DETERMINER specifics
+!DETERMINER state of
+!DETERMINER strain of
+!DETERMINER structure of
+!DETERMINER structures of
+!DETERMINER stuff
+!DETERMINER stuff of
+!DETERMINER stuffs
+!DETERMINER stuffs of
+!DETERMINER thing
+!DETERMINER thing's
+!DETERMINER thing that
+!DETERMINER things
+!DETERMINER things'
+!DETERMINER things that
+!DETERMINER varied
+!DETERMINER VARIOUS AND SUNDRY ASPECTS OF
+!DETERMINER various way of
+!DETERMINER various way that
+!DETERMINER various ways of
+!DETERMINER various ways that
+!DETERMINER very kind of
+!DETERMINER very sort of
+!DETERMINER way
+!DETERMINER way in which
+!DETERMINER way of
+!DETERMINER way that
+!DETERMINER ways
+!DETERMINER ways in which
+!DETERMINER ways of
+!DETERMINER ways that
+!DETERMINER web
+!DETERMINER web of
+!DETERMINER weight of
+!DETERMINER whole
+!DETERMINER whole range
+!DETERMINER whole ranges
+!DETERMINER whole spectrum
+!DETERMINER whole spectrums
+!DETERMINER whole thing
+!DETERMINER wholes
+!DETERMINER wide range
+!DETERMINER wide range of
+!DETERMINER wind of
+!DETERMINER winds of
+!DETERMINER works
+!DETERMINER yardstick for
+!DETERMINER yardstick of
+!HAVE !DETERMINER form
+!HAVE !DETERMINER nature
+!HAVE !DETERMINER nature of
+!HAVE !DETERMINER property
+!HAVE !DETERMINER property of
+!HAVE many stamens
+!HAVE multiple husbands
+!HAVE multiple wives
+!HAVE stamens
+!HAVE three tails
+!MAKE dish
+!MAKE flesh
+!MAKE from
+!MAKE of
+!MAKE of iron
+!MAKE of leather
+!MAKE of money
+!MAKE of plate
+!MAKE out of
+!MAKE out of whole cloth
+!POSSESSIVEPRONOUN kind of
+, among others,
+, as it were,
+, better put,
+, but also
+, in !DETERMINER large,
+, in !DETERMINER sense,
+, in effect,
+, let alone
+, let alone !DETERMINER
+, PLUS
+, too
+, what !AUX
+, what !AUX !DETERMINER
+, what !AUX called
+, what !AUX comprised
+, what !AUX contained
+, what !AUX done
+, what !AUX important
+, WHICH !AUX TO SAY
+. !DETERMINER following are
+. !DETERMINER following are some of !DETERMINER
+. among !DETERMINER
+. among !PRONOUNOBJECTIVE
+. among those
+. appropos to
+. as one of
+. as well as !DETERMINER
+. IN !DETERMINER SAME WAY
+. in many ways
+. in some sense
+. in some senses
+. in some ways
+. in this case
+. in this case,
+. it's !DETERMINER matter of
+. it's about
+. it's ultimately about
+. it !AUX ultimately about
+. it also
+. other ideas
+. period.
+. put another way
+. seriously,
+. speaking of
+. to be brief
+. to be exact
+. to be fair
+. to be precise
+. to be specific
+. to cut !DETERMINER matter short,
+. to speak of
+. what !AUX important !AUX
+. Where !DETERMINER many
+. where many of
+. whereas many
+. with respect to
+; and,
+; as well as !DETERMINER
+; besides,
+; nor
+about !DETERMINER fact
+about !DETERMINER fact that
+about which
+absorbency
+absorbent
+absorbents
+across !DETERMINER board
+across !DETERMINER broad range of
+across !DETERMINER range of
+across !DETERMINER vast range of
+across !DETERMINER wide range of
+additional
+adjuncts
+adjuncts to
+adjustment
+adjustments
+age
+age-adjusted
+age-class
+age-classes
+age-coating
+age-coatings
+age-distribution
+age-distributions
+age-grade
+age-grades
+age-group
+age-groups
+age-limit
+age-limits
+age-norm
+age-norms
+age-related
+age-score
+age-society
+age-specific
+age adjusted
+age class
+age classes
+age coating
+age coatings
+age distribution
+age distributions
+age grade
+age grades
+age group
+age groups
+age limit
+age limits
+age norm
+age norms
+age of Aquarius
+age related
+age score
+age society
+air-bind
+air-bladder
+air-bladders
+air-braked
+air-break switch
+air-breathe
+air-breathed
+air-breather
+air-breathing
+air-bred
+air-built
+air-chambered
+air-clear
+air-clutch reverse
+air-condition
+air-conditioned
+air-conditioning
+air-conscious
+air-conveying
+air-cool
+air-cooled
+air-core
+air-cure
+air-cured
+air-drawn
+air-driven
+air-earth current
+air-embraced
+air-express
+air-faring
+air-floated
+air-formed
+air-hardening
+air-heating
+air-insulated
+air-intake
+air-lance
+air-lanced
+air-lancing
+air-line
+air-logged
+air-mail
+air-mass shower
+air-pervious
+air-raid
+air-sea rescue
+air-season
+air-seasoned
+air-to-air
+air-to-ground
+air-to-surface
+air-traffic control
+air-wise
+Air Afrique
+air age
+air alert
+air attack
+air cargo
+air carrier
+air carriers
+air circuit breaker
+air combat
+Air Command
+air conditioning
+air conduction
+air consignment note
+air control
+air controls
+air cooling
+Air council
+air cover
+Air Defense Command
+air discharge
+air division
+air embolism
+air express
+air flow
+air force
+air freight
+air furnace
+air gap
+air gas
+air injection
+air intake
+air law
+air layering
+air leak
+air legs
+air letter
+air level
+air lift
+air line
+air liner
+air lock
+air log
+air machine
+air mail
+air map
+air medal
+air medicine
+air meter
+air mile
+Air minister
+Air ministry
+air motor
+Air National Guard
+air navigation
+Air Officer
+air philately
+air photograph
+air photography
+air plot
+air power
+air pressure
+air race
+air raid
+air right
+air rights
+air scuttle
+air separation
+air service
+air show
+air shuttle
+air station
+air strike
+air support
+air survey
+air switch
+air system
+air transport
+air trap
+air travel
+air university
+air varie
+air volume
+air war
+air warfare
+air waybill
+air zone
+airborne controls
+airborne infection
+airborne intercept radar
+airborne operations
+airborne particles
+airborne radar
+airborne radioactivity
+airborne rocket
+airborne tactics
+aircraft carrier
+aircraft cloth
+aircraft division
+aircraft engine
+aircraft engines
+aircraft fabric
+aircraft hydraulics
+aircraft mechanic
+aircraft section
+aircraft station
+aircraft tender
+airfare
+airfares
+airle-penny
+airle-penny airline
+airle-penny airlines
+airline's
+airline travel
+airplane carrier
+airplane carriers
+airplane fare
+airplane fares
+airplane heading
+airplane headings
+airship part
+airship parts
+airspeed indicator
+airspeed indicators
+airtight secrecy
+aka
+alcohol glucoside
+alcohol glucosides
+alcohol group
+alcohol groups
+alcoholic beverage
+alcoholic drink
+alcoholic liquor
+alcoholic meningitis
+alcoholic psychosis
+alcoholic strength
+alcoholically
+alias
+all-aggregate
+all-aluminum body
+all-black
+all-boys
+all-enveloping body
+All-female
+all-fiber
+all-girls
+All-male
+all-steel body
+all-white
+All-women
+all !DETERMINER rest
+all and some
+all and sundry
+all fool's day
+all fools' day
+all kinds and sizes
+all kinds of
+all manner
+all manner of
+all mark it
+all mark it as
+all mixed up
+all rights reserved
+all saints
+all saints' day
+all sales
+all sorts
+all sorts of
+all souls
+all souls' day
+alloy
+alloy of
+alloys
+alloys of
+allyl
+allyl alcohol
+allyl aldehyde
+allyl caproate
+allyl chloride
+allyl group
+allyl isothiocyanate
+allyl mercaptan
+allyl mustard oil
+allyl radical
+allyl resin
+allyl sulfide
+allyl sulphide
+allyl thiocarbamide
+allyls
+almond family
+alms
+alms-dealing
+alms-fed
+alms fee
+along !DETERMINER same lines
+along these lines
+along these same lines
+along with
+along with !DETERMINER
+also called
+also known as
+ALSO,
+altar call
+altar card
+altar dues
+alterability
+alterable
+alterably
+alterably so
+alterant
+alterants
+alteration
+alteration in
+alterations
+alterations in
+altered bacteria
+altered bacterium
+alternately
+alternatively
+among !DETERMINER many
+among !DETERMINER many others
+among one
+among one of !DETERMINER many
+among other
+among other things
+among others
+among these
+among this
+among which
+amount of
+amounts of
+and !DETERMINER like.
+and !DETERMINER rest
+and also
+AND ANOTHER
+and another thing
+and as much we
+and at least
+and everything else
+and one more thing
+and other things
+and others
+and so forth
+and so here
+and so on
+and so there
+and stuff like that
+and suchlike
+and then some
+AND THEN SOME!
+and then some.
+and then there's
+and then there !AUX
+and, in particular,
+and, more specifically
+and, particularly
+and, specifically,
+animal
+animal-sized
+animal-skin article
+animal-skin articles
+animal and vegetable kingdom
+animal capable of reason
+animal carver
+animal cell
+animal cellulose
+animal charcoal
+animal charge
+animal color
+animal culture
+animal disease
+animal diseases
+animal dyestuff
+animal electricity
+animal enclosure
+animal fiber
+animal flower
+animal force
+animal heat
+animal husbandry
+animal hypnosis
+animal kingdom
+animal life
+animal like types
+animal limpid
+animal limpids
+animal mechanics
+animal mound
+animal nature
+animal oat
+animal physiologist
+animal physiology
+animal pole
+animal psychology
+animal raising
+animal rearing
+animal science
+animal size
+animal soul
+animal sound
+animal spirit
+animal spirits
+animal starch
+animal stuffer
+animal stuffing
+animal unit
+animal worship
+animal young
+animalities
+animality
+animals
+another
+another one
+answer
+answer book
+answer books
+answering pennant
+answering service
+answers
+anti-bleeding
+anti-coagulant
+anti-coagulants
+anti-inflammatories
+anti-inflammatory
+anti-lock
+anti-trust
+antiaircraft artillery
+antiaircraft barrage
+antiaircraft fire
+antiaircraft gun
+antiaircraft radar
+antiaircraft rocket
+antiballistic-missile system
+antiballistic missile
+any further
+any manner
+any manner of
+any of
+any of !DETERMINER
+any of !DETERMINER group
+any of !DETERMINER others
+any of numerous
+any thing
+any things
+anybodies
+anyone else
+anything
+anythings
+appropos of nothing
+appropos,
+apropos to
+AS !DETERMINER FURTHER
+AS !DETERMINER MATTER OF COURSE
+as !DETERMINER matter stands
+as !DETERMINER means
+as !DETERMINER means of
+as a mode
+as a mode of
+as a part
+as a part of
+as far as
+as far as it !AUX concerned
+as far as that's concerned
+as far as that !AUX concerned
+as far as this !AUX concerned
+as for
+as for !DETERMINER
+as for !DETERMINER next topic
+as for !DETERMINER rest
+as for !POSSESSIVEPRONOUN
+as for it
+as for its
+as how
+as illustration
+as in !DETERMINER
+as including !DETERMINER
+as indicated by
+as involving !DETERMINER
+as it
+as its place in
+as measured by
+as measured in
+as measured with
+as modes of
+as of !DETERMINER
+as one of
+as part of
+as regards
+as regards !DETERMINER
+as representing
+as respects
+as some of our other
+as something
+as something that
+as specifically referenced in
+as specified in
+as specified in !DETERMINER
+as there !AUX
+as to
+as to !DETERMINER
+as to !DETERMINER DISCUSSION regarding !DETERMINER
+as to !DETERMINER next topic
+as to !DETERMINER result of
+as to !DETERMINER specifications
+as to !QUESTION
+AS TO !QUESTION !DETERMINER
+as to !QUESTION !DETERMINER specifications
+as with
+as with !DETERMINER
+as with all
+as with all !DETERMINER
+aspect of
+aspects
+aspects of
+assertion !AUX that
+assertions !AUX that
+at !DETERMINER particular
+at most levels
+at which
+attached !AUX
+attached !AUX !DETERMINER
+attched were
+average-size
+average-sized
+be it from
+be they from
+belonging to !DETERMINER
+belonging to and relating to
+belonging to or relating to
+BELOW,
+besides
+besides !DETERMINER question
+BESIDES,
+bit more about
+bit more about it
+breast-enhanced
+breast-enlarged
+BUT IN PARTICULAR
+but particularly
+but, particularly
+by !DETERMINER difference
+by !DETERMINER difference between
+by !DETERMINER number
+by !DETERMINER numbers
+by !DETERMINER wires
+by cards
+by catches
+by categories
+by contraries
+by divisions
+by ear
+by eyeball
+by fits
+by foot
+by gout
+by half measures
+by halves
+by name
+by nature
+by night
+by one
+by ordinary
+by parts
+by quarters
+by retail
+by return mail
+by special delivery
+by speech or action
+by the head
+by two
+by types
+by virtue of
+BY VIRTUE OF !DETERMINER
+by way of
+BY WAY OF !DETERMINER
+by which
+by wholesale
+by wire
+caffeinated
+carried with it
+carries with it
+carry with it
+carrying with it
+certain other
+certain others
+certain things
+changeability
+changeable
+changeableness
+changeably
+characteristic
+characteristic of
+characteristics
+characteristics of
+characteristics such as
+characterized as
+characterized by
+characterized by !DETERMINER
+characterized by !DETERMINER absence
+characterized by !DETERMINER presence
+chicken-fancying
+class-related
+class-specific
+classified as
+cleaner-as-you-go
+closely related to
+concern !DETERMINER
+concern some sort of
+concern some type of
+concern whether
+concerned !DETERMINER
+concerned some sort of
+concerned some type of
+concerned whether
+concerning
+concerning !DETERMINER
+CONCERNING !DETERMINER MATTER OF
+CONCERNING his
+concerning some sort of
+concerning some type of
+CONCERNING THAT
+CONCERNING their
+CONCERNING THIS
+concerning whether
+CONCERNING WHICH !DETERMINER
+concerns !DETERMINER
+concerns some sort of
+concerns some type of
+concerns whether
+consist of
+consist of quartz
+consisted mainly of
+consisted of !DETERMINER
+consisted of quartz
+consisted primarily of
+consisting mainly of
+consisting of
+consisting of quartz
+consisting primarily of
+consists of
+consists of quartz
+contingent of
+contingents of
+Distance learning
+down to !DETERMINER little thing
+down to !DETERMINER small things
+each
+EACH OF WHICH
+each other
+each other's
+each others
+each others'
+each sort of
+each to each
+each type of
+EACH WITH
+EACH WITH !DETERMINER
+Eight-letter
+especially
+especially !DETERMINER
+especially about
+especially those
+especially those that
+especially to
+even down to !DETERMINER last detail
+even down to !DETERMINER little things
+even down to !DETERMINER small thing
+even down to !DETERMINER small things
+everything-in-its-place
+exhalant
+exhalants
+extent to which
+Eye-clinic
+feature of
+feature of both
+featureless
+featurelessness
+features of
+features of both
+Female-dominated
+filed away
+fire-extinguishing
+fire-free
+fire-insurance
+fire-protection
+fire-resistant
+fire-resistant material
+fire-resisting
+fire-resisting material
+fire-resistive
+fire-resistive material
+fire-retardant
+fire-retardant material
+fire-retarded
+fire-work
+fire apparati
+fire apparatus
+fire appliance
+fire appliances
+fire assay
+fire assays
+fire bill
+fire bills
+fire command
+fire commands
+fire companies
+fire company
+fire control
+fire controls
+fire cutoff
+fire cutoffs
+fire department
+fire departments
+fire direction
+fire directions
+fire division wall
+fire division walls
+fire drill
+fire drilling
+fire drillings
+fire drills
+fire effect
+fire effects
+fire fight
+fire fights
+fire finder
+fire finders
+fire insurance
+fire insurances
+fire maker
+fire makers
+fire making
+fire makings
+fire of demolition
+fire of demolitions
+fire patrol
+fire patrols
+fire point
+fire points
+fire power
+fire powers
+fire prevention
+fire preventions
+fire protection
+fire raid
+fire raids
+fire raiser
+fire raisers
+fire resistance
+fire resistances
+fire retardant
+fire retardants
+fire retarder
+fire retarders
+fire sale
+fire sales
+fire salvage
+fire salvages
+fire spirit
+fire spirits
+fire stink
+fire stinks
+fire storm
+fire storms
+fire support
+fire supports
+fire tactic
+fire tactics
+fire test
+fire tests
+firefight
+firefighting
+firefights
+fireless
+firepower
+fireproof material
+fireproof materials
+fireproofed
+fireproofing
+fireproofs
+fitable
+Five-letter
+fixable
+flight-control
+font name
+font names
+fontal
+food-gathering
+food-processing
+food-producing
+food-productive
+food-providing
+food-size
+food allowance
+food allowances
+food and drink
+food and drinks
+food canal
+food canals
+food chain
+food chains
+food color
+food colors
+food cycle
+food cycles
+food item
+food items
+food preservative
+food preservatives
+food reserve
+food reserves
+food stuffs
+food supplies
+food supply
+food tax
+food taxes
+food value
+food values
+food waste
+food wastes
+food web
+food webs
+foodstuff
+foodstuffs
+fool's mate
+foot-and-mouth
+foot-and-mouth disease
+foot-and-mouth diseases
+foot-pound-second
+foot match
+foot matches
+foot measure
+foot measures
+foot page
+foot pages
+foot rule
+foot rules
+foot score
+foot scores
+footage
+footages
+footgear
+footwear
+for-
+for !DETERMINER account of
+for !DETERMINER amount of
+for !DETERMINER audience
+for !DETERMINER calculation
+for !DETERMINER case
+for !DETERMINER case of
+for !DETERMINER case of !DETERMINER
+for !DETERMINER few
+for !DETERMINER handle
+for !DETERMINER manner
+for !DETERMINER manner in which
+for !DETERMINER manner of
+for !DETERMINER product
+for !DETERMINER products
+for !DETERMINER saddle
+for !DETERMINER saddles
+for !DETERMINER way
+for !DETERMINER way in which
+for !DETERMINER way of
+for !NUMS1TO100 dollars
+for all
+FOR ALL !POSSESSIVEPRONOUN
+for all citizens
+for all concerned
+for all intents and purposes
+for all members
+FOR ALL OF !POSSESSIVEPRONOUN
+FOR ALL OF ITS
+for all practical purposes
+for and
+for any
+for certain groups
+for certain kinds
+for certain sorts
+for certain types
+for checking
+for checkpoints
+for each
+for FC
+for fete
+for hire
+for how
+for many
+for many of !PRONOUNOBJECTIVE
+for most
+for most of !PRONOUNOBJECTIVE
+for others
+for practical purposes
+for professional services
+for public consumption
+for rent
+for sale
+for scrap
+for scraps
+for services rendered
+for some
+for such
+for sundry
+for that
+for that particular !TIMEFRAME
+for this particular !TIMEFRAME
+for two
+for various
+for various and sundry
+for which
+Four-letter
+four-lettered
+from !DETERMINER country
+from !DETERMINER inside
+from !DETERMINER outside
+from among
+from history
+from its
+from that
+from that of
+from which
+from which these
+full of
+Government-influenced
+Home-caffeinated
+Home-care
+important aspects of !DETERMINER
+in !DETERMINER abstract
+in !DETERMINER affirmative
+in !DETERMINER aggregate
+in !DETERMINER amount
+in !DETERMINER amount of
+IN !DETERMINER AREA OF
+in !DETERMINER areas of
+in !DETERMINER art of
+in !DETERMINER aspect of
+in !DETERMINER aspect that
+in !DETERMINER aspects of
+in !DETERMINER aspects that
+in !DETERMINER billions of dollars
+in !DETERMINER bit of
+in !DETERMINER blood of
+in !DETERMINER body
+in !DETERMINER bondman's key
+in !DETERMINER botheration
+in !DETERMINER building of
+in !DETERMINER buildings of
+IN !DETERMINER BULLPEN
+in !DETERMINER category
+in !DETERMINER category of
+in !DETERMINER center of
+in !DETERMINER certain amount
+in !DETERMINER certain amount of
+in !DETERMINER chain
+IN !DETERMINER CHARGE OF
+IN !DETERMINER CHIPS
+in !DETERMINER choice of
+in !DETERMINER class
+in !DETERMINER class of
+in !DETERMINER class with
+in !DETERMINER condition
+in !DETERMINER condition of
+in !DETERMINER context
+in !DETERMINER development
+in !DETERMINER direct line
+in !DETERMINER domain of
+in !DETERMINER email
+in !DETERMINER enterprise
+in !DETERMINER exchange
+in !DETERMINER family of
+in !DETERMINER family way
+in !DETERMINER fashion
+in !DETERMINER few words
+in !DETERMINER field of
+IN !DETERMINER FIELDs OF
+in !DETERMINER footnote
+in !DETERMINER foreground of
+in !DETERMINER form
+in !DETERMINER form that
+in !DETERMINER formation
+in !DETERMINER formula
+in !DETERMINER formulas
+in !DETERMINER framework of
+in !DETERMINER frameworks of
+in !DETERMINER gear
+in !DETERMINER general area
+in !DETERMINER general area of
+in !DETERMINER general areas
+in !DETERMINER general areas of
+in !DETERMINER grand style
+in !DETERMINER grave six feet under
+in !DETERMINER head of
+in !DETERMINER hierarchical fashion
+in !DETERMINER hierarchy
+in !DETERMINER inner ear
+in !DETERMINER inner ears
+in !DETERMINER kind of
+in !DETERMINER land of !DETERMINER living
+in !DETERMINER large
+in !DETERMINER league with
+in !DETERMINER limit
+in !DETERMINER limits
+in !DETERMINER limits of
+in !DETERMINER line of action
+in !DETERMINER lot of ways
+in !DETERMINER manner of
+in !DETERMINER manner of !DETERMINER
+IN !DETERMINER MANNER OF SPEAKING
+in !DETERMINER manner that
+in !DETERMINER manufacture
+in !DETERMINER manufacture of
+in !DETERMINER marketplace
+in !DETERMINER marts
+in !DETERMINER marts of trade
+in !DETERMINER mass
+in !DETERMINER matter of
+in !DETERMINER matters of
+in !DETERMINER measure
+in !DETERMINER middle of !DETERMINER road
+in !DETERMINER midst
+in !DETERMINER mode
+IN !DETERMINER MONEY
+in !DETERMINER nutshell
+in !DETERMINER particular
+in !DETERMINER particular area
+in !DETERMINER pocketbook
+in !DETERMINER position
+in !DETERMINER position of
+in !DETERMINER positions of
+in !DETERMINER press
+IN !DETERMINER PROCESS
+IN !DETERMINER PROCESS OF
+in !DETERMINER processes
+in !DETERMINER processes of
+in !DETERMINER provisions
+IN !DETERMINER PUBLIC EYE
+in !DETERMINER ranges
+in !DETERMINER ranges of
+IN !DETERMINER RAW
+in !DETERMINER real sense
+IN !DETERMINER REALM OF
+in !DETERMINER realms of
+in !DETERMINER respect that
+in !DETERMINER respects that
+in !DETERMINER response to
+in !DETERMINER responses to
+in !DETERMINER retirement fund
+in !DETERMINER roundabout way
+in !DETERMINER scheme
+in !DETERMINER schemes
+in !DETERMINER science of
+in !DETERMINER secondary sense
+in !DETERMINER sense
+in !DETERMINER sense of
+IN !DETERMINER SENSE OF !DETERMINER
+in !DETERMINER sense that
+in !DETERMINER senses of
+in !DETERMINER senses that
+in !DETERMINER similar vein
+in !DETERMINER small compass
+in !DETERMINER small way
+in !DETERMINER special sense
+in !DETERMINER spirit of
+in !DETERMINER state
+in !DETERMINER technical sense
+in !DETERMINER treatment
+in !DETERMINER treatments
+in !DETERMINER treatments of
+in !DETERMINER trust
+in !DETERMINER variety of
+in !DETERMINER vein
+in !DETERMINER vein of
+in !DETERMINER veins
+in !DETERMINER veins of
+in !DETERMINER vicinity
+in !DETERMINER way
+in !DETERMINER way !DETERMINER
+in !DETERMINER way of
+in !DETERMINER way that
+in !DETERMINER way that !AUX
+in !DETERMINER way which
+in !DETERMINER wide range of
+IN !DETERMINER WORD
+in !POSSESSIVEPRONOUN
+in !POSSESSIVEPRONOUN case
+in !POSSESSIVEPRONOUN charge
+in !POSSESSIVEPRONOUN choice of
+in !POSSESSIVEPRONOUN employ
+in !POSSESSIVEPRONOUN life cycle
+in !POSSESSIVEPRONOUN own case
+in !POSSESSIVEPRONOUN particular case
+in !POSSESSIVEPRONOUN pay
+in !POSSESSIVEPRONOUN pocket
+in !POSSESSIVEPRONOUN possession
+in !POSSESSIVEPRONOUN power
+in !POSSESSIVEPRONOUN style
+in a hand of
+in absentia
+in abstracto
+in accord with this line of
+in accordance with this line of
+in addition
+IN ADDITION TO
+in addition to !DETERMINER fact
+in addition to having
+IN ADDITION TO THAT
+in almost !DETERMINER same sense
+in alt
+in amounts
+in amounts of
+in and of !determiner
+in another way
+in any case
+in any case,
+in appearance
+in appearances
+in apposition
+in apposition with
+in ascending order
+in background
+in balk
+in breadth
+in brief
+in broad terms
+in business
+in capite
+in caplet form
+in caplet forms
+in capsule form
+in capsule forms
+in captivity
+in cases of
+in cash
+in chains for
+in chains of
+in chains that
+in checking
+in childbed
+in chronological order
+in circulation
+IN CLOSING
+in combat
+in commission
+in concepts
+in concepts of
+in conformity
+in conjunction
+in conjunction with
+in connection
+in connection with
+in contact
+in contact with
+in contrast to
+in contrast with
+in contrast,
+in control
+in corpore
+in correspondence
+in correspondence to
+in correspondence with
+in council
+in descending order
+in detail
+in dry storage
+in due form
+in duplicate
+in eclipse
+in effect
+in either case
+in either case,
+in embryo
+in epitome
+in equilibrio
+in equilibrium
+in escrow
+in esse
+in essence
+IN EVEN SIMPLER TERMS
+in existence
+in existence for
+in extenso
+IN FACT,
+in families of
+in fee
+in fee simple
+in fees
+in file
+in files
+in focus
+in footnotes
+in foreign
+in foreign parts
+in forma
+in forma pauperis
+in frame
+in funds
+in fungi
+in fungus
+in gear
+in good part
+in good set terms
+in great detail
+in great measure
+in half
+in halves
+in halves of
+in height
+in hidlings
+in high
+in high places
+in hoc
+in hock
+in hold
+in hospital
+in idea
+in infinitum
+in installments
+in its own way
+in its subject
+in itself
+in kind
+IN LABOR
+in large
+in layers
+in leading
+in length
+in letters
+in letters of fire
+IN LINE
+in line with
+in liquid form
+in liquid forms
+in liquor
+in low-gear
+in low gear
+in low gears
+in majority
+in many
+in many respects
+in many ways
+in measure
+in media res
+in medias res
+in medium
+in mem
+in mid-gear
+in more detail
+IN MORE TECHNICAL TERMS
+in most of !POSSESSIVEPRONOUN
+in much
+in much !DETERMINER same way that
+in my case
+in my particular case
+in name
+in native
+in nature
+in nature's garb
+in newspaper accounts
+in newspaper stories
+in newspapers
+in nominee
+in number
+in numbers
+in one blow
+in one word
+in operation
+in order of importance
+in order of occurrence
+in order of priority
+IN ORDER TO CLARIFY
+in order to inform
+in order to make clear
+in order to notify
+in orders
+in ordinary
+in other
+in other cases
+in other news,
+in other respects
+in other ways
+IN OTHER WORDS
+in our case
+In our discussion
+in our own case
+in our particular case
+in outlay
+in outlays
+in outline
+in ovi
+in ovo
+in ovum
+in part
+in part or in total
+in partibus
+in particular
+in particular areas
+in parts of
+in pawn
+in pectore
+in personal affairs
+in personal matters
+in personnel matters
+in places
+in plain
+in plain terms
+IN PLAINER TERMS
+in point
+in point of
+in possession
+in possession of
+in poustie
+in praesenti
+in press accounts
+in press stories
+in professional concerns
+in professional matters
+in purdah
+in quantities
+in quantity
+in range
+in range of
+in ranges
+in ranges of
+in reciprocation
+in recompense
+in red letters
+in reduced circumstances
+in reference to
+IN REGARD OF
+in regard to
+IN REGARD TO !DETERMINER AFOREMENTIONED
+IN REGARD TO !DETERMINER SAID
+IN REGARD TO !POSSESSIVEPRONOUN
+IN REGARD TO !PRONOUNOBJECTIVE
+IN REGARD TO THAT
+IN REGARD TO THIS
+IN REGARDS TO
+IN REGARDS TO !DETERMINER ISSUE
+IN REGARDS TO !DETERMINER MATTER
+IN REGARDS TO !DETERMINER SUBJECT
+IN REGARDS TO !DETERMINER TOPIC
+IN REGARDS TO !POSSESSIVEPRONOUN
+IN REGARDS TO !PRONOUNOBJECTIVE
+IN REGARDS TO THAT
+IN REGARDS TO THIS
+in relation to
+in relation with
+in relief
+in repair
+in rerum natura
+in reserve
+in reserves
+in respect of
+in respect that
+in respect to
+in response to
+in retirement
+in retirement funds
+in return
+in reward
+in rotation
+in rotations
+in round figures
+in round numbers
+in round terms
+in secrecy
+in seism
+in sequential order
+in set
+in set fashion
+in set form
+in seven-league
+in several
+in shorthand
+IN SIMPLER TERMS
+in situ
+in small
+in small doses
+in so far
+in so far as
+IN SO MANY WORDS
+in so much
+in so much as
+in so much that
+in society
+in solid form
+in solid forms
+IN SOME RESPECTS
+in some ways
+in specie
+in species
+IN SPECIFIC DETAIL
+in sport
+in sports
+in such
+in such !DETERMINER
+in such !DETERMINER way
+in such !DETERMINER way as to
+in such !DETERMINER way that
+in terms of
+in terms of effects
+IN TERMS OF EFFECTS AMONG
+in that
+in that capacity
+in that it
+in that it !AUX
+in that it !AUX !DETERMINER
+in that manner
+in that meaning
+IN THAT REGARD
+IN THAT RESPECT
+in that sense
+in that vein
+in that way
+in the limiting case
+in these categories
+in these parts
+in this category
+in this context
+in this matter
+IN THIS RESPECT
+in those parts
+in total
+in toto
+in triplicate
+in trust
+in twain
+in two
+in two words
+in use
+in use of
+in uses
+in utero
+in vacuo
+in varieties of
+in various
+in vitro
+in way of
+in ways
+in ways large and small
+in ways of
+in ways that
+in weight
+in which
+in which each
+in which every
+in width
+in your case
+in your particular case
+INASMUCH
+inasmuch as
+inasmuch as we
+including but not limited to
+infra
+INSOFAR
+insofar as
+insofar as we
+insomuch
+insomuch that
+INTERESTINGLY ENOUGH
+interestingly,
+intra
+INVERSELY
+involve some sort of
+involve some type of
+involved some sort of
+involved some type of
+involves some sort of
+involves some type of
+involving some sort of
+involving some type of
+it's !DETERMINER sort of
+it's such
+it'S that !DETERMINER
+it's that there !AUX
+it !AUX concerned with
+it !AUX these
+it !AUX those
+it concerns
+it concerns about
+ITEMS:
+IV.
+IV:
+IX.
+IX:
+just that
+just whom
+kinds
+kinds of
+land-army
+land-bank
+land-banks
+land-based
+land-bat
+land-bats
+land-bred
+land-cape
+land-capes
+land-certificate
+land-certificates
+land-claim
+land-claims
+land-classification
+land-classifications
+land-development
+land-developments
+land-distribution
+land-distributions
+land-drainages
+land-estate
+land-estates
+land-grant
+land-grant college
+land-grant colleges
+land-labor
+land-labors
+land-labour
+land-labours
+land-legs
+land-market
+land-markets
+land-measure
+land-measures
+land-office
+land-office business
+land-office businesses
+land-peerage
+land-people
+land-peoples
+land-price
+land-prices
+land-pullen
+land-reclamation
+land-reclamations
+land-reform
+land-reforms
+land-rent
+land-rents
+land-revenue
+land-revenues
+land-score
+land-scores
+land-scot
+land-scots
+land-securities
+land-security
+land-service
+land-services
+land-speculation
+land-speculations
+land-speed
+land-speeds
+land-tag
+land-tags
+land-tax
+land-taxation
+land-taxations
+land-taxes
+land-title
+land-titles
+land-use
+land-uses
+land-utilization
+land-utilizations
+land-valuation
+land-valuations
+land-value
+land-values
+land-wealth
+land-work
+land-works
+land agencies
+land agency
+land animal
+land animals
+land armies
+land army
+land bank
+land banks
+land based
+land batteries
+land battery
+land beast
+land beasts
+land board
+land boards
+land bred
+land cape
+land capes
+land casts
+land certificate
+land certificates
+land claim
+land claims
+land classification
+land classifications
+land communication
+land communications
+land communities
+land community
+land companies
+land company
+land connection
+land connections
+land crescent
+land crescents
+land development
+land developments
+land distribution
+land distributions
+land district
+land districts
+land estate
+land estates
+land good
+land goods
+land grant
+land grant college
+land grant colleges
+land grants
+land labor
+land labors
+land labour
+land labours
+land league
+land leagues
+land legs
+land life
+land lives
+land mail
+land mails
+land male
+land male-book
+land male-books
+land males
+land mammifera
+land market
+land markets
+land measure
+land measures
+land o' cakes
+land of !DETERMINER leal
+land of !DETERMINER living
+land of cakes
+land of Nod
+land of prester John
+land of steady habits
+land office
+land office business
+land office businesses
+land offices
+land patent
+land patents
+land peerage
+land pitch
+land pitches
+land power
+land powers
+land price
+land prices
+land pullen
+land pullens
+land reform
+land reforms
+land registries
+land registry
+land rent
+land rents
+land revenue
+land revenues
+land rights
+land scale
+land scales
+land scot
+land scots
+land scrip
+land scrips
+land securities
+land security
+land service
+land services
+land speculation
+land speculations
+land speec
+land speed
+land speeds
+land tax
+land taxation
+land taxations
+land taxes
+land tenure
+land tenures
+land title
+land titles
+land trade
+land trades
+land trust
+land trusts
+land use
+land uses
+land utilization
+land utilizations
+land valuation
+land valuations
+land value
+land values
+land wage
+land wages
+land wealth
+land work
+land works
+landed-wealth
+landed estate
+landed estates
+landed properties
+landed property
+landgravate
+landgravates
+landgraviate
+landgraviates
+landholding
+landholdings
+landing
+landing gears
+landing pattern
+landing patterns
+landing speed
+landing speeds
+like that
+LIKEWISE
+list-price
+list-prices
+list of
+list of agenda
+list of agendas
+list of names
+list price
+list prices
+main
+main idea
+main interest
+main point
+main points
+main thing
+main things
+mainly
+major point
+major points
+Male-dominated
+malleability
+malleable
+malleableness
+malleably
+manifestations of this !AUX
+manifoldly
+many-
+many-branched
+many-celled
+many-chambered
+many-colored
+many-faceted
+many-footed
+many-formed
+many-headed
+many-headed multitude
+many-headedness
+many-jointed
+many-knotted
+many-languaged
+many-lay
+many-lived
+many-meaning
+many-named
+many-nationed
+many-nerved
+many-one
+many-parted
+many-peopled
+many-pigeonholed
+many-pointed
+many-ranked
+many-rooted
+many-seats
+many-seeded
+many-sided
+many-sidedness
+many-stringed
+many-syllabled
+many-tailed
+many-tribed
+many-valued
+many-valued logic
+many-valved
+many footed
+many formed
+many forms
+many of !DETERMINER
+many parted
+many parts
+many such
+many things
+matter of
+matters
+matters of
+METHOD FOR
+METHODS FOR
+million-dollar
+mini-cavalries
+mini-cavalry
+minor detail
+minor details
+mixed up
+money-related
+more about
+MORE ABSTRACTLY
+MORE CONCRETELY
+more especially
+more exactly
+MORE GENERALLY
+more importantly,
+MORE INTERESTING,
+more often than not,
+more on
+more or less
+MORE PARTICULARLY
+MORE PLAINLY PUT
+MORE PRECISELY
+MORE SIMPLY PUT
+more specifically
+MORE SPECIFICALLY,
+MORE TECHNICALLY
+much at
+much at one
+much in !DETERMINER same vein
+multi-service
+multifractal
+multifractals
+multiservice
+n.b.
+namely
+NAMELY THAT
+NAMELY THAT !DETERMINER
+neck and crop
+needn't get into it further
+NEITHER !DETERMINER
+NEITHER DOES
+Nine-letter
+none to speak of
+nonemployed
+not only with
+nota bene
+note of explanation
+note well
+notes of explanation
+object-like
+object of note
+objectlike
+observedly
+of !DETERMINER certain
+of !DETERMINER kind
+of !DETERMINER kind with
+of !DETERMINER level
+of !DETERMINER many
+of !DETERMINER matter
+of !DETERMINER piece
+of !DETERMINER several
+of !DETERMINER sort
+of all
+OF ALL !DETERMINER
+of all !DETERMINER colors of !DETERMINER rainbow
+of all descriptions
+of all kinds
+of all manner of colors
+of all people
+of all sorts
+of all things
+of all types
+of all work
+of and pertaining to
+of any description
+of any kind
+of any sort
+of any world
+of its kind
+of or characterized
+of or pertaining
+of or pertaining to
+of or relating
+of or relating to
+of or relating to !DETERMINER
+of or resembling
+of radio
+of such
+of television
+of that
+of that kind
+of that sort
+of these kinds
+of these sorts
+of these that
+of these whom
+of this
+of this genus
+of this kind
+of this sort
+of those that
+of those that !AUX
+of those that have
+of those whom
+of those whose
+of various
+of variously
+of which
+of, pertaining to
+on !DETERMINER agenda
+on !DETERMINER air
+on !DETERMINER board
+on !DETERMINER Book
+on !DETERMINER calendar
+on !DETERMINER coattails of
+on !DETERMINER committee
+on !DETERMINER declining scale
+on !DETERMINER defense
+on !DETERMINER distinction between
+on !DETERMINER exchange basis
+on !DETERMINER fine points
+on !DETERMINER fine scale
+on !DETERMINER frontline
+on !DETERMINER frontlines
+on !DETERMINER heading
+on !DETERMINER infinitesimal scale
+on !DETERMINER job
+on !DETERMINER knees of !DETERMINER gods
+on !DETERMINER lap of !DETERMINER gods
+on !DETERMINER large scale
+on !DETERMINER level
+on !DETERMINER level for !determiner
+on !DETERMINER level of !determiner
+on !DETERMINER market
+on !DETERMINER matter
+on !DETERMINER matter of
+on !DETERMINER minuscule scale
+on !DETERMINER news
+on !DETERMINER number of fronts
+on !DETERMINER offense
+on !DETERMINER part of
+on !DETERMINER part of !DETERMINER
+on !DETERMINER scale of
+on !DETERMINER scale that
+on !DETERMINER schedule for
+on !DETERMINER schedule of
+on !DETERMINER side
+on !DETERMINER side of
+on !DETERMINER side.
+on !DETERMINER small print
+on !DETERMINER small scale
+on !DETERMINER subject
+ON !DETERMINER SUBJECT OF
+on !DETERMINER topic of
+on !DETERMINER waiting list
+on !DETERMINER web
+on !POSSESSIVEPRONOUN coattails
+on !POSSESSIVEPRONOUN own recognizance
+on certain things
+on every topic
+on matters
+on terms
+on that point
+on the termos of
+on the terms
+on these matters
+on these points
+on this issue
+on this matter
+on this point
+on top of having
+One-letter
+one in !DETERMINER same
+one of
+one of !DETERMINER
+one of !DETERMINER more
+one of !DETERMINER people
+one of !POSSESSIVEPRONOUN
+one of !PRONOUNOBJECTIVE
+one of these
+one of those
+one of various
+one of which
+one only
+one or two
+one quarter of
+one that
+one that admonishes
+one thing that
+Only-for-ladies
+Only-for-men
+other
+other's
+other accessories
+other accessory
+other continuua
+other continuums
+other cultures
+other from
+other half
+other halves
+other kind
+other kinds
+other kinds of
+other of
+other ones
+other organization
+other organizations
+other side
+other sides
+other some
+other than
+others'
+others from
+others of
+out of this
+part of !DETERMINER
+particular
+particular case
+particular cases
+particularly
+particularly in
+PARTICULARLY THESE
+PARTICULARLY THOSE
+particulars
+per se
+pertain
+pertain to
+pertained
+pertained to
+pertaining
+pertaining to
+pertains
+pertains to
+primarily
+principally
+proper.
+pure-bred
+pure-breds
+purine-rich
+purine rich
+put generally
+put very generally
+q.v.
+qq.v.
+quae vide
+quits with
+quod vide
+regarding
+regarding !DETERMINER
+regarding !DETERMINER issue of
+regarding !DETERMINER matter of
+regarding !DETERMINER subject of
+regarding !DETERMINER topic of
+regarding !POSSESSIVEPRONOUN
+regarding !PRONOUNOBJECTIVE
+regarding that
+regarding this
+rehabilitational
+related to
+related to order of
+RELATED TO THAT
+relates to
+relates to order of
+relating to
+relating to !DETERMINER
+relationship-centered
+religiocultural
+religious-literary
+rife with
+roughly speaking
+ROUGHLY STATED
+ROUGHLY TRANSLATED
+rundown
+rundown of
+rundowns
+rundowns of
+seen on TV
+Seven-letter
+several
+several-celled
+several-flowered
+several-fold
+several-lobed
+several-nerved
+several-ribbed
+several things
+severally
+short-listed
+SIMPLY TO
+Six-letter
+some makes of
+some of
+some of !DETERMINER
+some of !PRONOUNOBJECTIVE
+some of it
+some of that
+some of this
+some other
+some others
+some things that
+something else
+something else again
+SOMETHING OF !DETERMINER SORT
+sorted by
+specifiable
+specific
+specific activities
+specific activity
+specifically
+specifically that
+SPECIFICALLY THESE
+SPECIFICALLY THOSE
+specifically,
+specification
+specifications
+specifics
+specified to be
+SPOKEN OF
+such !DETERMINER
+such !DETERMINER large
+such !DETERMINER small
+such !DETERMINER thing
+such activities as
+such as
+such as !DETERMINER
+such as by
+such as for
+such things
+Ten-letter
+that !AUX
+that !AUX !DETERMINER
+that !AUX !DETERMINER case
+that !AUX !DETERMINER thing
+that !AUX !POSSESSIVEPRONOUN
+that !AUX !PRONOUNOBJECTIVE
+that !AUX to say
+that !AUX to say !DETERMINER
+that !AUX to say that
+that !AUX to say,
+that !MODAL accommodate
+that !MODAL extend
+that are,
+that aspect
+that contains !DETERMINER
+that has many
+that has several
+that has two or more
+that have many
+that have several
+that have two or more
+that includes
+that involves
+that is,
+that it !MODAL extend
+that kind that
+That of !DETERMINER
+that one
+that particular
+that sort that
+that spanned
+THAT TIME OF YEAR !QUESTION
+that to be
+that to be !DETERMINER
+that together
+THAT WAY,
+that we describe
+that which
+THAT WHILE WE COULD CALL
+that with
+the extent to which
+these notices
+THESE:
+they !AUX :
+this !AUX !DETERMINER thing
+this appears to
+this appears to have
+this aspect
+this concerns
+this includes
+this involves
+this particular
+this sort of thing
+those !QUESTION
+Three-letter
+three-page
+three-paragraph
+through !DETERMINER rather
+to-go
+to !DETERMINER account of
+to !DETERMINER amount of
+to !DETERMINER certain extent
+to !DETERMINER degree
+to !DETERMINER emergence
+to !DETERMINER extent
+to !DETERMINER extent that
+to !DETERMINER great degree
+to !DETERMINER great extent
+to !DETERMINER great sense
+to !DETERMINER hair
+to !DETERMINER large degree
+to !DETERMINER large extent
+to !DETERMINER large sense
+to !DETERMINER limit of
+to !DETERMINER limits of
+to !DETERMINER nth power
+to !DETERMINER small degree
+to !DETERMINER small extent
+to !DETERMINER tittle
+to !DETERMINER top of !POSSESSIVEPRONOUN bent
+to !DETERMINER top of my bent
+to !DETERMINER top of our bent
+to !DETERMINER top of your bent
+to !DETERMINER tune of
+to all intents and purposes
+to anyone whom
+to concern
+to concern !DETERMINER
+to each
+tonsorial
+tranche
+Two-letter
+type of
+types
+types of
+TYPICALLY USED for
+typically used in
+typically used with
+ultimately about
+under such
+upon which
+various things
+vegetative
+vehicular
+very generally
+very generally speaking
+VI.
+VI:
+VII.
+VII:
+VIII.
+VIII:
+water-powered
+way of
+ways of
+ways of giving
+ways of giving news
+what-eer
+what-like
+what !AUX included
+what !AUX left
+what all
+what amounts to
+what eer
+what it !AUX about
+what IT CAME TO
+what it comes to
+what with !DETERMINER
+which at some stage
+which this !AUX for
+whose inhabitants
+whose interests are in
+whose last residence
+whose name
+whose name !AUX
+winner-take-all
+with !DETERMINER
+with !DETERMINER !RANKNUMBER edition
+with !DETERMINER acquisition of
+with !DETERMINER addition of
+with !DETERMINER aspect
+with !DETERMINER aspect that
+with !DETERMINER background
+with !DETERMINER backgrounds
+with !DETERMINER capacity
+with !DETERMINER cost of
+with !DETERMINER events
+with !DETERMINER events of
+with !DETERMINER exclusion of
+with !DETERMINER family of
+with !DETERMINER formula
+with !DETERMINER inclusion of
+with !DETERMINER incorporation of
+with !DETERMINER latitude to
+with !DETERMINER matter of
+with !DETERMINER naked eye
+with !DETERMINER nickname
+with !DETERMINER range
+with !DETERMINER range of
+with !DETERMINER rest of
+with !DETERMINER surname
+with !DETERMINER surnames
+with !DETERMINER use of
+with !DETERMINER way
+with !DETERMINER way !DETERMINER
+with !DETERMINER way that
+with !QUESTION !DETERMINER
+with all that
+with aspects
+with certain of
+with each
+with families of
+with images
+with many forms
+with many others
+with many parts
+with many parts\
+with many variations
+with most
+with most of
+with news value
+with one another
+with reference to
+with reference to !DETERMINER
+with regard to
+with regard to this
+with regard to time
+WITH REGARDS TO
+with relation to
+WITH RESPECT TO
+with roles in
+with several
+with such
+with such !DETERMINER
+with that
+with this
+with this !DETERMINER
+with ties
+with ties to
+with uses in
+with uses involving
+with varied
+with various
+with which
+with which to
+with words
+within !DETERMINER frame of reference
+within !DETERMINER framework
+within !DETERMINER range
+within !DETERMINER range of
+within !DETERMINER reference system
+within !DETERMINER universe of discourse
+within range
+within ranges of
+within this
+Women-managed
+Women-owned
+Women-run
+work-related

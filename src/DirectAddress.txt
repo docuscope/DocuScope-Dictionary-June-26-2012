@@ -1,0 +1,3444 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !YOU
+!AUX !YOU aware that
+!AUX !YOU just
+!AUX !YOU sick of
+!AUX !YOU still with me?
+!AUX !YOU tired of
+!AUX !YOU up for
+!AUX at !YOU service
+!AUX becoming on !YOU
+!AUX flattering on !YOU
+!BREAK !YOU bonds
+!BREAK !YOU chains
+!BREAK !YOU eyes away
+!BREAK !YOU fetters
+!BREAK !YOU up
+!BRING !YOU back to earth
+!BRING !YOU down
+!BRING !YOU to !YOU knees
+!BRING !YOU up short
+!BRING it to !YOU
+!BRING it to !YOU attention
+!BRING to !YOU attention
+!BRING to !YOU notice
+!BRING to !YOU senses
+!BRING under !YOU notice
+!BURN !DETERMINER hole in !YOU pocket
+!BURN up !YOU mortgage
+!CALL !YOU own
+!CALL !YOU shot
+!CALL !YOU shots
+!CALL it to !YOU attention
+!CALL on !YOU for
+!CALL upon !YOU for
+!CALL upon !YOU to
+!CARRY all before !YOU
+!CARRY on !YOU books
+!CAST in !YOU lot with
+!CAST in !YOU teeth
+!CATCH !YOU breath
+!CLOSE !YOU eyes
+!COME !YOU way
+!COME down on !YOU marrowbones
+!COME to !YOU
+!COME to !YOU attention
+!COME to !YOU ear
+!COME to !YOU ears
+!COME to !YOU journey's end
+!COME to !YOU knowledge
+!CUT !YOU eyeteeth
+!CUT !YOU eyeteeth on
+!CUT !YOU losses
+!CUT !YOU nails
+!CUT !YOU teeth
+!CUT !YOU teeth on
+!CUT of !YOU jib
+!CUT off !YOU spurs
+!CUT out of !YOU will
+!DEAL !YOU
+!DEAL !YOU in
+!DETERMINER !GENRE TELLS !YOU ABOUT
+!DETERMINER !PAPER TELLS !YOU ABOUT
+!DETERMINER advisory to readers
+!DETERMINER ball !AUX in !YOU court
+!DETERMINER key issue !AUX to decide
+!DETERMINER more !YOU
+!DETERMINER more !YOU know
+!DETERMINER ONLY THING !YOU NEED TO DO
+!DETERMINER reader !MUSTSHOULD
+!DETERMINER reader will
+!DETERMINER walls have ears
+!DETERMINER warning to readers
+!DETERMINER way !YOU feel
+!DETERMINER way !YOU live
+!DETERMINER way !YOU think
+!DETERMINER way you are
+!DO !DETERMINER best !YOU
+!DO !DETERMINER best !YOU know !QUESTION
+!DO !QUESTION !YOU
+!DO !QUESTION !YOU choose
+!DO !QUESTION !YOU have to do
+!DO !QUESTION !YOU like
+!DO !QUESTION !YOU set out to do
+!DO !QUESTION !YOU wish
+!DO !QUESTION lies in !YOU power
+!DO !QUESTION you are told
+!DO !YOU
+!DO !YOU best
+!DO !YOU bidding
+!DO !YOU coordinate
+!DO !YOU damndest
+!DO !YOU darndest
+!DO !YOU delay
+!DO !YOU duty
+!DO !YOU ever
+!DO !YOU have !YOU heart set on
+!DO !YOU have anything
+!DO !YOU have anything further
+!DO !YOU heart good
+!DO !YOU know
+!DO !YOU level best
+!DO !YOU mind
+!DO !YOU number
+!DO !YOU office
+!DO !YOU put off
+!DO !YOU stuff
+!DO !YOU thing
+!DO !YOU utmost
+!DO as !YOU !SAY
+!DO as !YOU please
+!DO as !YOU would be done by
+!DO as well as !YOU
+!DO at !YOU convenience
+!DO at !YOU leisure
+!DO at !YOU own peril
+!DO at !YOU own risk
+!DO at !YOU pleasure
+!DO for !YOU
+!DO it at once
+!DO it for !YOU
+!DO it in !YOU own sweet way
+!DO it on !YOU account
+!DO it on !YOU own
+!DO it on !YOU own hook
+!DO it on !YOU own initiative
+!DO it on !YOU own say-so
+!DO whatever !YOU
+!DO your business
+!DO yourself !DETERMINER favor
+!DRAW  !YOU up
+!DRAW !YOU up
+!DROP !YOU goal
+!DROP !YOU goals
+!DROP !YOU guard
+!FALL into !YOU hands
+!FALL to !YOU lot
+!FALL to !YOU share
+!FEED !YOU habit
+!FEEL !YOU
+!FILL !YOU in
+!FILL your head
+!FILL your heads
+!FIND !YOU
+!FIND !YOU account in
+!FIND !YOU advantage in
+!FIND !YOU at
+!FIND !YOU heart
+!FIND !YOU position
+!FIND !YOU tongue
+!FIND !YOU way into
+!FOLLOW in !YOU footsteps
+!GATHER for !YOU
+!GATHER that for yourselves
+!GATHER to !YOU fathers
+!GENRE TELLS !YOU ABOUT
+!GET !YOU
+!GET !YOU back-up
+!GET !YOU credentials
+!GET !YOU dues
+!GET !YOU feet on !DETERMINER ground
+!GET !YOU going
+!GET !YOU hopes up
+!GET !YOU mind off
+!GET !YOU minds off
+!GET !YOU number
+!GET along with !YOU
+!GET down on !YOU hunkers
+!GET down on !YOU knees
+!GET down on !YOU marrowbones
+!GET in touch with !YOU
+!GET me !YOU
+!GET to !YOU feet
+!GIVE !DETERMINER bit of !YOU mind
+!GIVE !PRONOUNOBJECTIVE !YOU hand in
+!GIVE !PRONOUNOBJECTIVE !YOU hand on
+!GIVE !YOU
+!GIVE !YOU !DETERMINER
+!GIVE !YOU !DETERMINER bang
+!GIVE !YOU !DETERMINER bellyful
+!GIVE !YOU !DETERMINER blank check
+!GIVE !YOU !DETERMINER boot
+!GIVE !YOU !DETERMINER charge
+!GIVE !YOU !DETERMINER dose
+!GIVE !YOU !DETERMINER evil eye
+!GIVE !YOU !DETERMINER fright
+!GIVE !YOU !DETERMINER glad eye
+!GIVE !YOU !DETERMINER green light
+!GIVE !YOU !DETERMINER green light to
+!GIVE !YOU !DETERMINER gun
+!GIVE !YOU !DETERMINER hand
+!GIVE !YOU !DETERMINER hard time
+!GIVE !YOU !DETERMINER kick
+!GIVE !YOU !DETERMINER lie
+!GIVE !YOU !DETERMINER lie direct
+!GIVE !YOU !DETERMINER lie in !YOU throat
+!GIVE !YOU !DETERMINER lift
+!GIVE !YOU !DETERMINER line
+!GIVE !YOU !DETERMINER lip
+!GIVE !YOU !DETERMINER revelation
+!GIVE !YOU !DETERMINER run-around
+!GIVE !YOU !DETERMINER second chance
+!GIVE !YOU !DETERMINER send-off
+!GIVE !YOU !DETERMINER slip
+!GIVE !YOU !DETERMINER tip
+!GIVE !YOU !DETERMINER turn
+!GIVE !YOU !DETERMINER works
+!GIVE !YOU !QUESTION !AUX coming to !YOU
+!GIVE !YOU !YOU deserts
+!GIVE !YOU airs
+!GIVE !YOU another chance
+!GIVE !YOU best
+!GIVE !YOU best regards
+!GIVE !YOU blessing
+!GIVE !YOU blessing to
+!GIVE !YOU carte blanche
+!GIVE !YOU compliments
+!GIVE !YOU countenance to
+!GIVE !YOU eyeteeth
+!GIVE !YOU eyeteeth for
+!GIVE !YOU fair share
+!GIVE !YOU for
+!GIVE !YOU gooseflesh
+!GIVE !YOU hand to
+!GIVE !YOU his gruel
+!GIVE !YOU his head
+!GIVE !YOU his walking papers
+!GIVE !YOU kingdom in hell for
+!GIVE !YOU life for !YOU country
+!GIVE !YOU love
+!GIVE !YOU mind to
+!GIVE !YOU over to
+!GIVE !YOU over to pleasure
+!GIVE !YOU parole
+!GIVE !YOU regards
+!GIVE !YOU room
+!GIVE !YOU rope
+!GIVE !YOU scope
+!GIVE !YOU share
+!GIVE !YOU short shrift
+!GIVE !YOU space
+!GIVE !YOU support to
+!GIVE !YOU thanks
+!GIVE !YOU tit for tat
+!GIVE !YOU to understand
+!GIVE !YOU undivided attention
+!GIVE !YOU up
+!GIVE !YOU up to
+!GIVE !YOU up to reverie
+!GIVE !YOU voice for
+!GIVE !YOU word
+!GIVE !YOU word of honor
+!GIVE me !YOU undivided attention
+!GIVE of !YOU substance
+!GIVE up !YOU post
+!GO in business for !YOU
+!GO in business for yourselves
+!GO into !YOU pocket
+!GO into !YOU pockets
+!GO on !YOU beat
+!GO up in !YOU lines
+!GO up on !YOU lines
+!HANG on your every word
+!HAVE !DETERMINER bone in !YOU neck
+!HAVE !DETERMINER excuse you sought
+!HAVE !DETERMINER lot on !YOU shoulders
+!HAVE !DETERMINER meeting with !YOU
+!HAVE !YOU
+!HAVE !YOU !DETERMINER
+!HAVE !YOU !SAY
+!HAVE !YOU any
+!HAVE !YOU back to !DETERMINER wall
+!HAVE !YOU been keeping busy
+!HAVE !YOU blood on !YOU head
+!HAVE !YOU blood up
+!HAVE !YOU cake and eat it too
+!HAVE !YOU credit good for
+!HAVE !YOU doubts
+!HAVE !YOU ear
+!HAVE !YOU ever wondered
+!HAVE !YOU eye on
+!HAVE !YOU fill
+!HAVE !YOU fling
+!HAVE !YOU got
+!HAVE !YOU had
+!HAVE !YOU hand in !DETERMINER till
+!HAVE !YOU hands full
+!HAVE !YOU hands in
+!HAVE !YOU hands tied
+!HAVE !YOU head screwed on right
+!HAVE !YOU heart bleed for
+!HAVE !YOU heart in !YOU mouth
+!HAVE !YOU heart set against
+!HAVE !YOU innings
+!HAVE !YOU measure
+!HAVE !YOU moments
+!HAVE !YOU monkey up
+!HAVE !YOU name in lights
+!HAVE !YOU nerve
+!HAVE !YOU nose out of joint
+!HAVE !YOU number
+!HAVE !YOU options eliminated
+!HAVE !YOU options reduced
+!HAVE !YOU own way
+!HAVE !YOU period
+!HAVE !YOU place in !DETERMINER sun
+!HAVE !YOU revenge
+!HAVE !YOU seen
+!HAVE !YOU surrounded
+!HAVE !YOU way
+!HAVE !YOU will
+!HAVE !YOU wits about !YOU
+!HAVE as !YOU master
+!HAVE at !YOU command
+!HAVE at !YOU disposal
+!HAVE at !YOU disposition
+!HAVE at !YOU elbow
+!HAVE at !YOU fingers' ends
+!HAVE at !YOU fingers' tips
+!HAVE at !YOU pleasure
+!HAVE I got something for !YOU !
+!HAVE I made myself clear
+!HAVE in !YOU possession
+!HAVE in !YOU power
+!HAVE it in !YOU possession
+!HAVE it in !YOU power
+!HAVE on !DETERMINER edge of !YOU memory
+!HAVE on !DETERMINER tip of !YOU tongue
+!HAVE on !YOU
+!HAVE on !YOU desk
+!HAVE on !YOU hands
+!HAVE on !YOU plate
+!HAVE on !YOU shoulders
+!HAVE to !YOU name
+!HAVE to hand it to !YOU
+!HAVE two strings to !YOU bow
+!HAVE yourselves
+!HEAD up !YOU
+!HEAD up !YOU own
+!HIT !YOU in !DETERMINER eye
+!HOLD !YOU aloof
+!HOLD !YOU apart
+!HOLD !YOU breath
+!HOLD !YOU course
+!HOLD !YOU end up
+!HOLD !YOU erect
+!HOLD !YOU eye
+!HOLD !YOU gaze
+!HOLD !YOU ground
+!HOLD !YOU hand
+!HOLD !YOU head above water
+!HOLD !YOU head high
+!HOLD !YOU horses
+!HOLD !YOU in readiness
+!HOLD !YOU jaw
+!HOLD !YOU lip
+!HOLD !YOU nose in !DETERMINER air
+!HOLD !YOU own
+!HOLD !YOU path
+!HOLD !YOU peace
+!HOLD !YOU sides
+!HOLD !YOU stiff
+!HOLD !YOU straight
+!HOLD !YOU tongue
+!HOLD !YOU way
+!HOLD up !YOU hand
+!INDEFINITEADDRESSEE expects !YOU
+!KEEP !DETERMINER ace up !YOU sleeve
+!KEEP !DETERMINER civil tongue in !YOU head
+!KEEP !DETERMINER even tenor of !YOU way
+!KEEP !YOU
+!KEEP !YOU alert
+!KEEP !YOU awake
+!KEEP !YOU chin up
+!KEEP !YOU cool
+!KEEP !YOU countenance
+!KEEP !YOU course
+!KEEP !YOU distance
+!KEEP !YOU ear to !DETERMINER ground
+!KEEP !YOU ears open
+!KEEP !YOU esthetic distance
+!KEEP !YOU eye on
+!KEEP !YOU eye on !DETERMINER ball
+!KEEP !YOU eye peeled
+!KEEP !YOU eyes on
+!KEEP !YOU eyes on !DETERMINER stars
+!KEEP !YOU eyes open
+!KEEP !YOU eyes peeled
+!KEEP !YOU eyes skinned
+!KEEP !YOU fingers crossed
+!KEEP !YOU footing
+!KEEP !YOU freedom
+!KEEP !YOU hand in
+!KEEP !YOU head
+!KEEP !YOU head above water
+!KEEP !YOU mouth shut
+!KEEP !YOU nose out of this
+!KEEP !YOU nose to !DETERMINER grindstone
+!KEEP !YOU on !YOU toes
+!KEEP !YOU on edge
+!KEEP !YOU on pins and needles
+!KEEP !YOU on tenterhooks
+!KEEP !YOU own counsel
+!KEEP !YOU pecker up
+!KEEP !YOU place
+!KEEP !YOU posted
+!KEEP !YOU powder dry
+!KEEP !YOU promise
+!KEEP !YOU shirt on
+!KEEP !YOU spirits up
+!KEEP !YOU sword in its sheath
+!KEEP !YOU temper
+!KEEP !YOU to !YOU
+!KEEP !YOU trap shut
+!KEEP !YOU under control
+!KEEP !YOU weather eye open
+!KEEP !YOU yap shut
+!KEEP alive in !YOU thoughts
+!KEEP at !YOU beck and call
+!KEEP it to !YOU
+!KEEP it under !YOU hat
+!KEEP TO !YOU
+!KEEP to yourselves
+!KEEP under !YOU thumb
+!KEEP up !YOU courage
+!KEEP uppermost in !YOU thought
+!KEEP within !YOU budget
+!KEEP within !YOU means
+!KICK !YOU heels
+!LAY !YOU cards on !DETERMINER table
+!LAY !YOU course for
+!LAY !YOU finger on
+!LAY !YOU fingers on
+!LAY !YOU hands on
+!LAY !YOU money down
+!LAY !YOU open
+!LAY !YOU open to
+!LAY !YOU out
+!LAY !YOU shoulder to !DETERMINER wheel
+!LAY at !YOU door
+!LAY at !YOU feet
+!LAY down !YOU tools
+!LAY to !YOU charge
+!LAY to !YOU door
+!LEAD !YOU on !DETERMINER pretty dance
+!LEAD !YOU to
+!LEAD !YOU to expect
+!LEAD !YOU to gather
+!LEARN to live in !YOU own skin
+!LEAVE !YOU card
+!LEAVE out of !YOU calculation
+!LET !YOU angry passions rise
+!LET !YOU attention wander
+!LET !YOU breath out
+!LET !YOU go
+!LET !YOU go at will
+!LET !YOU hair down
+!LET !YOU have !YOU own way
+!LET !YOU have his head
+!LET !YOU imagination riot
+!LET !YOU imagination run riot
+!LET !YOU imagination run wild
+!LET !YOU in for
+!LET !YOU light shine
+!LET !YOU mind wander
+!LET !YOU off easy
+!LET !YOU off this time
+!LET !YOU thoughts wander
+!LET !YOU voice be heard
+!LET !YOU wits go bird's nesting
+!LET down !YOU defenses
+!LET down !YOU guard
+!LET down !YOU side
+!LET flow through !YOU fingers
+!LET go !YOU own way
+!LET it be understood
+!LET us
+!LIE at !YOU door
+!LIE in !YOU course
+!LIE in !YOU power
+!LOOK  !YOU best
+!LOOK  into !YOU options
+!LOOK !QUESTION !YOU
+!LOOK !YOU in !DETERMINER eye
+!LOOK !YOU straight in !DETERMINER eye
+!LOOK directly at !YOU
+!LOOK out behind !YOU
+!LOOK right at !YOU
+!LOOK straight at !YOU
+!MAKE !DETERMINER butt of !YOU humor
+!MAKE !DETERMINER hog of !YOU
+!MAKE !DETERMINER pig of !YOU
+!MAKE !DETERMINER spectacle of !YOU
+!MAKE !YOU
+!MAKE !YOU !DETERMINER
+!MAKE !YOU !DETERMINER compliment
+!MAKE !YOU !SAY 'uncle'
+!MAKE !YOU adieus
+!MAKE !YOU appearance
+!MAKE !YOU bed
+!MAKE !YOU bed and lie on it
+!MAKE !YOU blood boil
+!MAKE !YOU blood run
+!MAKE !YOU blood run cold
+!MAKE !YOU bow
+!MAKE !YOU business
+!MAKE !YOU case
+!MAKE !YOU cause !YOU own
+!MAKE !YOU choice
+!MAKE !YOU compliments to
+!MAKE !YOU debut
+!MAKE !YOU escape
+!MAKE !YOU exit
+!MAKE !YOU fed-up
+!MAKE !YOU feel at home
+!MAKE !YOU feel welcome
+!MAKE !YOU field
+!MAKE !YOU flesh creep
+!MAKE !YOU fortune
+!MAKE !YOU hair stand on end
+!MAKE !YOU head reel
+!MAKE !YOU head revolve
+!MAKE !YOU head spin
+!MAKE !YOU head swim
+!MAKE !YOU head whirl
+!MAKE !YOU heart bleed
+!MAKE !YOU home
+!MAKE !YOU jump out of his skin
+!MAKE !YOU keep
+!MAKE !YOU mark
+!MAKE !YOU mouth water
+!MAKE !YOU move
+!MAKE !YOU nerves tingle
+!MAKE !YOU oath
+!MAKE !YOU own
+!MAKE !YOU own way
+!MAKE !YOU peace
+!MAKE !YOU pile
+!MAKE !YOU point
+!MAKE !YOU puke
+!MAKE !YOU retch
+!MAKE !YOU rounds
+!MAKE !YOU salutations
+!MAKE !YOU scarce
+!MAKE !YOU see
+!MAKE !YOU see double
+!MAKE !YOU shit !YOU pants
+!MAKE !YOU shiver
+!MAKE !YOU shudder
+!MAKE !YOU sick
+!MAKE !YOU sick in !DETERMINER stomach
+!MAKE !YOU sick to !DETERMINER stomach
+!MAKE !YOU sing small
+!MAKE !YOU sit up and take notice
+!MAKE !YOU skin crawl
+!MAKE !YOU stare
+!MAKE !YOU teeth chatter
+!MAKE !YOU tiddly
+!MAKE !YOU tired
+!MAKE !YOU tremble
+!MAKE !YOU understood
+!MAKE !YOU voice heard
+!MAKE !YOU vomit
+!MAKE !YOU way
+!MAKE !YOU way past
+!MAKE it !YOU business
+!MAKE more than !YOU
+!MAKE of it !QUESTION !YOU will
+!MAKE up !YOU mind
+!MEASURE !YOU length
+!MODAL !YOU
+!MODAL !YOU always
+!MODAL !YOU never
+!MOVE !YOU bowels
+!MUSTSHOULD !YOU
+!MUSTSHOULD !YOU desire
+!MUSTSHOULD !YOU need it
+!MUSTSHOULD !YOU wish
+!MUSTSHOULD have !YOU money by
+!MUSTSHOULD HELP !YOU
+!MUSTSHOULD make !YOU aware
+!MUSTSHOULD notify !YOU
+!OPEN !YOU big fat mouth
+!OPEN !YOU big mouth
+!OPEN !YOU eyes
+!OPEN !YOU eyes to
+!OPEN !YOU lips
+!OPEN !YOU mind to
+!OPEN !YOU mouth
+!PAPER TELLS !YOU ABOUT
+!PLAN TO GET THIS ACROSS TO !YOU
+!PLAN TO HELP !YOU UNDERSTAND
+!PLAN TO MAKE !YOU UNDERSTAND
+!PUT !DETERMINER bug in !YOU ear
+!PUT !DETERMINER flea in !YOU ear
+!PUT !YOU arms around
+!PUT !YOU back into
+!PUT !YOU back into it
+!PUT !YOU back to
+!PUT !YOU back to !DETERMINER wall
+!PUT !YOU back up
+!PUT !YOU best foot forward
+!PUT !YOU between
+!PUT !YOU between disputants
+!PUT !YOU bristles up
+!PUT !YOU cards on !DETERMINER table
+!PUT !YOU cross on
+!PUT !YOU dander up
+!PUT !YOU down
+!PUT !YOU down for
+!PUT !YOU eyes out
+!PUT !YOU finger on
+!PUT !YOU foot down
+!PUT !YOU foot down on
+!PUT !YOU foot in !YOU mouth
+!PUT !YOU foot in it
+!PUT !YOU forward
+!PUT !YOU fur up
+!PUT !YOU good name in jeopardy
+!PUT !YOU hair up
+!PUT !YOU hand to
+!PUT !YOU hand to !DETERMINER plow
+!PUT !YOU hands in !YOU pockets
+!PUT !YOU hands on
+!PUT !YOU head in !DETERMINER lion's mouth
+!PUT !YOU heart into
+!PUT !YOU in !DETERMINER hands of
+!PUT !YOU in !DETERMINER picture
+!PUT !YOU in !DETERMINER spot
+!PUT !YOU in !YOU place
+!PUT !YOU in another's shoes
+!PUT !YOU in mind of
+!PUT !YOU Irish up
+!PUT !YOU John Hancock on
+!PUT !YOU life on !DETERMINER line
+!PUT !YOU mark on
+!PUT !YOU mind at rest on
+!PUT !YOU mind to
+!PUT !YOU money on !DETERMINER line
+!PUT !YOU monkey up
+!PUT !YOU nose out of joint
+!PUT !YOU on cloud nine
+!PUT !YOU on top of !DETERMINER world
+!PUT !YOU out
+!PUT !YOU out of !DETERMINER way
+!PUT !YOU out of !YOU misery
+!PUT !YOU out of court
+!PUT !YOU outside of
+!PUT !YOU pride in !YOU pocket
+!PUT !YOU shoulder to !DETERMINER wheel
+!PUT !YOU signature
+!PUT !YOU teeth on edge
+!PUT !YOU through !YOU paces
+!PUT !YOU trust in
+!PUT !YOU trust in God
+!PUT !YOU two cents in
+!PUT !YOU upon !DETERMINER
+!PUT !YOU veto upon
+!PUT !YOU weight in !DETERMINER scale
+!PUT !YOU whole soul in
+!PUT aside !YOU differences
+!PUT at !YOU disposal
+!PUT forth !YOU strength
+!PUT in !YOU bad books
+!PUT in !YOU black books
+!PUT in !YOU head
+!PUT in !YOU oar
+!PUT in !YOU two cents
+!PUT in !YOU two cents worth
+!PUT it all behind !YOU
+!PUT on !YOU considering cap
+!PUT on !YOU feet
+!PUT on !YOU guard
+!PUT on !YOU thinking cap
+!PUT to !YOU last shifts
+!PUT to !YOU oath
+!PUT to !YOU shifts
+!PUT up !YOU hair
+!PUT upon !YOU mettle
+!PUT words in !YOU mouth
+!QUESTION !AUX !YOU name
+!QUESTION !AUX !YOU parents
+!QUESTION !AUX !YOU phone number
+!QUESTION !AUX coming to !YOU
+!QUESTION !MODAL  !YOU be
+!QUESTION !MUSTSHOULD !YOU
+!QUESTION !ROYALWE notify !YOU ABOUT
+!QUESTION !ROYALWE now need to !READERFOCUS
+!QUESTION !SAY !YOU
+!QUESTION !YOU
+!QUESTION !YOU !MODAL fitly call
+!QUESTION !YOU !MODAL properly call
+!QUESTION !YOU !MODAL well call
+!QUESTION !YOU !SAY
+!QUESTION !YOU can call !YOU own
+!QUESTION !YOU can do
+!QUESTION !YOU come right down to it
+!QUESTION !YOU doin'
+!QUESTION !YOU HAVE
+!QUESTION !YOU have coming
+!QUESTION !YOU have earned
+!QUESTION !YOU have to !YOU name
+!QUESTION !YOU have to do now !AUX
+!QUESTION !YOU merit
+!QUESTION !YOU need
+!QUESTION !YOU reach
+!QUESTION !YOU shall
+!QUESTION !YOU stand for
+!QUESTION !YOU were still young
+!QUESTION !YOU were young
+!QUESTION !YOU will
+!QUESTION !YOU WILL COME TO KNOW
+!QUESTION !YOU WILL COME TO SEE
+!QUESTION !YOU WILL COME TO UNDERSTAND
+!QUESTION !YOU WILL DISCOVER
+!QUESTION !YOU WILL FIND OUT
+!QUESTION !YOU WILL LEARN
+!QUESTION !YOU WILL SEE
+!QUESTION !YOU WILL UNDERSTAND
+!QUESTION can !YOU not be
+!QUESTION come
+!QUESTION do !YOU
+!QUESTION do !YOU !SAY
+!QUESTION do !YOU !SAY we
+!QUESTION do !YOU do
+!QUESTION do !YOU get
+!QUESTION do !YOU get for
+!QUESTION do !YOU live
+!QUESTION does !PRONOUNNOMINAL head
+!QUESTION don't !YOU
+!QUESTION don't !YOU just
+!QUESTION else !MODAL  you
+!QUESTION else could you
+!QUESTION else would you
+!QUESTION goes it
+!QUESTION good to see !YOU
+!QUESTION have !YOU
+!QUESTION have !YOU been
+!QUESTION have !YOU been up
+!QUESTION have !YOU been up to
+!QUESTION have !YOU then
+!QUESTION I'm saying to !YOU !AUX
+!QUESTION I'm telling !YOU !AUX
+!QUESTION I am saying to !YOU !AUX
+!QUESTION I am telling !YOU !AUX
+!QUESTION makes !YOU tick
+!QUESTION much !YOU
+!QUESTION much do !YOU
+!QUESTION nice to see !YOU
+!QUESTION of
+!QUESTION ought !YOU
+!QUESTION then !AUX !YOU
+!QUESTION then do !YOU
+!QUESTION then do you
+!QUESTION think !YOU
+!QUESTION was !YOU
+!QUESTION were !YOU
+!QUESTION will !YOU
+!QUESTION will !YOU end up
+!QUESTION will !YOU land up
+!QUESTION would !YOU like to
+!QUESTION would !YOU think about
+!QUESTION you are about
+!QUESTION you are doing
+!QUESTION you are fairly call
+!QUESTION you are up to
+!QUESTION you are worth
+!RAISE !YOU costs
+!RAISE !YOU hope
+!RAISE !YOU hopes
+!RAISE !YOU pay
+!ROYALWE !FIND out !QUESTION !YOU want
+!ROYALWE hope !YOU
+!ROYALWE hope that !YOU
+!ROYALWE learn !QUESTION !YOU want
+!ROYALWE notify !YOU ABOUT
+!ROYALWE present !YOU with
+!ROYALWE take care of !YOU
+!ROYALWE trust !YOU to
+!ROYALWE trust that !YOU
+!ROYALWE want !YOU
+!SAY !YOU lesson
+!SAY !YOU prayers
+!SAY goodbye to !DETERMINER
+!SET !YOU cap at
+!SET !YOU cap for
+!SET !YOU compass for
+!SET !YOU course for
+!SET !YOU down
+!SET !YOU hand and seal
+!SET !YOU hand to
+!SET !YOU seal
+!SET !YOU teeth
+!SET before !YOU
+!SET before yourselves
+!STRIKE !YOU
+!STRIKE !YOU as
+!STRIKE !YOU colors
+!STRIKE !YOU flag
+!STRIKE !YOU right
+!TAKE !DETERMINER law in !YOU own hands
+!TAKE !DETERMINER law into !YOU own hands
+!TAKE !DETERMINER load off !YOU mind
+!TAKE !DETERMINER reins into !YOU hand
+!TAKE !DETERMINER words out of !YOU mouth
+!TAKE !YOU at !YOU word
+!TAKE !YOU away
+!TAKE !YOU back
+!TAKE !YOU bearings
+!TAKE !YOU business elsewhere
+!TAKE !YOU business to
+!TAKE !YOU case to !DETERMINER public
+!TAKE !YOU chance
+!TAKE !YOU choice
+!TAKE !YOU constitutional
+!TAKE !YOU cue from
+!TAKE !YOU death
+!TAKE !YOU departure
+!TAKE !YOU dust
+!TAKE !YOU ease
+!TAKE !YOU fancy
+!TAKE !YOU foot off !DETERMINER gas
+!TAKE !YOU head off
+!TAKE !YOU last breath
+!TAKE !YOU last sleep
+!TAKE !YOU leave
+!TAKE !YOU leisure
+!TAKE !YOU life away
+!TAKE !YOU life in !YOU hand
+!TAKE !YOU life in !YOU hands
+!TAKE !YOU lumps
+!TAKE !YOU measure
+!TAKE !YOU medicine
+!TAKE !YOU oath
+!TAKE !YOU oath upon
+!TAKE !YOU off
+!TAKE !YOU opinions ready-made
+!TAKE !YOU own course
+!TAKE !YOU own life
+!TAKE !YOU own sweet time
+!TAKE !YOU picture
+!TAKE !YOU place
+!TAKE !YOU pleasure
+!TAKE !YOU position
+!TAKE !YOU punishment
+!TAKE !YOU sabbatical
+!TAKE !YOU stand
+!TAKE !YOU stand against
+!TAKE !YOU stand upon
+!TAKE !YOU time
+!TAKE !YOU trade to
+!TAKE !YOU turn
+!TAKE !YOU up on
+!TAKE !YOU way
+!TAKE !YOU word
+!TAKE !YOU word for
+!TAKE at !YOU word
+!TAKE away !YOU
+!TAKE away !YOU right
+!TAKE away !YOU rights
+!TAKE counsel of !YOU pillow
+!TAKE for !YOU
+!TAKE for !YOU own
+!TAKE heed at !YOU peril
+!TAKE hold of !YOU
+!TAKE in !YOU stride
+!TAKE into !YOU head
+!TAKE into !YOU service
+!TAKE it in !YOU stride
+!TAKE it into !YOU head
+!TAKE it out of !YOU hide
+!TAKE it out of !YOU skin
+!TAKE it upon you
+!TAKE it upon yourself
+!TAKE it upon yourselves
+!TAKE merit to !YOU
+!TAKE off !YOU hands
+!TAKE off !YOU hat to
+!TAKE off !YOU shoes
+!TAKE on !YOU
+!TAKE something in !YOU stride
+!TAKE to !YOU !DETERMINER wife
+!TAKE to !YOU arms
+!TAKE under !YOU wing
+!TAKE up !YOU abode
+!TAKE up !YOU option
+!TAKE up !YOU quarters
+!TAKE up !YOU thoughts
+!TAKE upon !YOU
+!TAKE upon !YOU shoulders
+!TELL !YOU
+!TELL !YOU apart
+!TRY !PRONOUNOBJECTIVE all
+!TRY !YOU
+!TRY !YOU fortune
+!TRY !YOU hand
+!TRY !YOU hand at
+!TRY !YOU luck
+!TRY !YOU strength at
+!TRY em all with your
+!TRY em with your
+!TRY it for yourself
+!TRY it for yourselves
+!TRY it with your
+!TRY to slow down
+!TRY you
+!TRY your hand
+!TURN !YOU attention from
+!TURN !YOU away
+!TURN !YOU coat
+!TURN !YOU face to !DETERMINER wall
+!TURN !YOU hand to
+!TURN !YOU head
+!TURN !YOU on
+!TURN !YOU tail upon
+!TURN !YOU tracks to
+!TURN in !YOU badge
+!TURN in !YOU uniform
+!TURN on !YOU heel
+!TURN to !YOU advantage
+!TURN up !YOU nose at
+!TURN up !YOU toes
+!TURN upon !YOU heel
+!WORK !YOU way
+!WRITE !YOU !DETERMINER man
+!WRITE !YOU own ticket
+!WRITE into !YOU will
+!YOU
+!YOU 'ol
+!YOU !AUX !DETERMINER
+!YOU !AUX about to
+!YOU !AUX advised to
+!YOU !AUX always
+!YOU !AUX asked to
+!YOU !AUX encouraged to
+!YOU !AUX free to try
+!YOU !AUX getting this straight from !DETERMINER horse's mouth
+!YOU !AUX going to
+!YOU !AUX listening to
+!YOU !AUX looking
+!YOU !AUX luckier
+!YOU !AUX lucky
+!YOU !AUX reading
+!YOU !AUX ready to
+!YOU !AUX summoned to
+!YOU !AUX warranted
+!YOU !AUX welcome
+!YOU !AUX welcome to
+!YOU !BREAK !YOU fast
+!YOU !MODAL
+!YOU !MODAL  think that
+!YOU !MODAL  want
+!YOU !MODAL BE ABLE
+!YOU !MODAL register
+!YOU !MODAL want to
+!YOU !MODAL wish to
+!YOU !MUSTSHOULD be able to
+!YOU !MUSTSHOULD expect
+!YOU !MUSTSHOULD expect from
+!YOU !MUSTSHOULD expect out of
+!YOU !MUSTSHOULD feel free to
+!YOU !SAY
+!YOU actually can
+!YOU adieus
+!YOU again
+!YOU all
+!YOU allegiance
+!YOU allow
+!YOU allowed
+!YOU allowing
+!YOU also
+!YOU ambition
+!YOU ambitions
+!YOU ancestors
+!YOU and !YOU
+!YOU and !YOU family
+!YOU and !YOU friends
+!YOU and me
+!YOU and yours
+!YOU applecart
+!YOU are
+!YOU be
+!YOU be better off if
+!YOU be happy to know that
+!YOU be happy to learn that
+!YOU become
+!YOU been
+!YOU best
+!YOU best effort
+!YOU best endeavor
+!YOU bet
+!YOU betters
+!YOU blind side
+!YOU blood
+!YOU call
+!YOU can't afford not to
+!YOU can't just forget
+!YOU can't take it with !YOU
+!YOU can bank on it
+!YOU can count on me as one
+!YOU can do whatever
+!YOU can give us !DETERMINER call at
+!YOU can just
+!YOU can just bet
+!YOU can kiss it goodbye
+!YOU can learn more about
+!YOU can make book on it
+!YOU can manage
+!YOU CAN MORE EASILY
+!YOU can run
+!YOU can see that
+!YOU can take
+!YOU can thank !YOU lucky stars
+!YOU can too
+!YOU care
+!YOU care to
+!YOU certainly
+!YOU clearly
+!YOU cold
+!YOU colors
+!YOU comfortable
+!YOU common
+!YOU company
+!YOU consideration
+!YOU could
+!YOU couldn't pay me enough
+!YOU cross
+!YOU crowd
+!YOU cup of tea
+!YOU days !AUX numbered
+!YOU dear reader
+!YOU do
+!YOU do not
+!YOU do not confirm
+!YOU dollars !AUX needed
+!YOU don't
+!YOU don't !SAY
+!YOU don't have to be
+!YOU doom !AUX sealed
+!YOU due
+!YOU empties
+!YOU entire life
+!YOU entry
+!YOU even
+!YOU ever
+!YOU expect from
+!YOU expect it to cost more
+!YOU expect out of
+!YOU families
+!YOU family
+!YOU fathers
+!YOU feel
+!YOU for
+!YOU get
+!YOU go ahead and
+!YOU got
+!YOU got it
+!YOU got me
+!YOU got me there
+!YOU got something there
+!YOU got to like
+!YOU got to worry
+!YOU graduating
+!YOU grain
+!YOU had
+!YOU had !DETERMINER
+!YOU had to
+!YOU have
+!YOU have !DETERMINER
+!YOU have !DETERMINER right
+!YOU have !DETERMINER right to
+!YOU have another guess coming
+!YOU have done nothing if not
+!YOU have got to like
+!YOU have got to worry
+!YOU have to get it behind you
+!YOU have to wonder
+!YOU haven't
+!YOU haven't got
+!YOU head off
+!YOU hope that
+!YOU hot
+!YOU hour
+!YOU hour !AUX come
+!YOU identity
+!YOU just
+!YOU kind of
+!YOU know
+!YOU know !QUESTION I mean
+!YOU know it
+!YOU know like
+!YOU know that
+!YOU know very well
+!YOU know well
+!YOU known
+!YOU last hour
+!YOU let
+!YOU let it
+!YOU level best
+!YOU life
+!YOU like
+!YOU lived through it
+!YOU lives
+!YOU look
+!YOU look like !YOU
+!YOU look out
+!YOU looked
+!YOU mind
+!YOU name
+!YOU name it
+!YOU native ground
+!YOU native heath
+!YOU native place
+!YOU need to be patient
+!YOU need to get over it
+!YOU need to get with it
+!YOU need to slow down
+!YOU never
+!YOU niche
+!YOU no idea
+!YOU note
+!YOU number
+!YOU number !AUX up
+!YOU obviously
+!YOU of all people
+!YOU old
+!YOU own
+!YOU own choice
+!YOU own discretion
+!YOU own initiative
+!YOU own level
+!YOU own man
+!YOU own personal
+!YOU own will
+!YOU pick for
+!YOU pick to
+!YOU pound of flesh
+!YOU race !AUX run
+!YOU realize that
+!YOU ribs
+!YOU right
+!YOU said !DETERMINER mouthful
+!YOU said it
+!YOU see
+!YOU see that
+!YOU see,
+!YOU sense
+!YOU set
+!YOU so
+!YOU song
+!YOU soul
+!YOU souls
+!YOU speak truly
+!YOU speech
+!YOU stand for
+!YOU stuff
+!YOU surrounded
+!YOU think
+!YOU thought
+!YOU too
+!YOU tune
+!YOU turn
+!YOU uncomfortable
+!YOU up
+!YOU utmost
+!YOU wait
+!YOU want to know that
+!YOU want to remain
+!YOU way
+!YOU ways
+!YOU whole life
+!YOU WIND UP
+!YOU WIND UP IN
+!YOU won't need another book
+!YOU won't want to be without
+!YOU wonder
+!YOU wonder !QUESTION
+!YOU worth
+!YOU would
+!YOU would be wrong
+, !YOU !SAY,
+, !YOU know,
+, !YOU see,
+, notify me
+. !MODAL that
+. !MUSTSHOULD !INDEFINITEADDRESSEE
+. " for more on
+. all hands
+. all hands on deck
+. and
+. attention
+. bear with me
+. better heed my words
+. better mark my words
+. canst thou
+. come on
+. do !YOU
+. does too
+. don't bother
+. feel free
+. feel free to
+. for more on
+. forget about it
+. get !YOU
+. go for it
+. go get it
+. go make
+. good evening
+. guess
+. guess !QUESTION !YOU
+. have !DETERMINER great day
+. have !YOU
+. have !YOU seen
+. have !YOU seen !QUESTION
+. head back
+. head back toward
+. head toward
+. head west
+. hear this
+. hearken
+. hearken to
+. heed my words
+. hello
+. learn !QUESTION to
+. let's get ourselves out
+. let !POSSESSIVEPRONOUN
+. let !POSSESSIVEPRONOUN try to
+. let !PRONOUNOBJECTIVE
+. let !PRONOUNOBJECTIVE know
+. let !PRONOUNOBJECTIVE speak for themselves
+. let !YOU
+. let !YOU know
+. let !YOU know that
+. let !YOU speak for !YOU
+. let !YOU voice be heard
+. let her
+. let her be
+. let her know
+. let her speak for herself
+. let him
+. let him be
+. let him know
+. let him speak for himself
+. let it sit for
+. let me
+. let me !SAY
+. let me !TALK
+. let ME ADD THAT
+. let ME BEGIN
+. let ME COMMENCE WITH
+. let ME CONCLUDE WITH
+. let me direct !YOU attention to
+. let me draw !YOU attention to
+. let ME EXPLAIN
+. let me explain it to !YOU
+. let me first explain
+. let me further
+. let me further elaborate
+. let me further refine
+. let me further specify
+. let me give some background
+. let me here
+. let me here !TALK
+. let me hit !DETERMINER high points
+. let me hit !DETERMINER high spots
+. let me know !QUESTION
+. let me know !QUESTION !YOU
+. let me know if
+. let me know whether
+. let me notify !DETERMINER story
+. let me notify !YOU
+. let me notify !YOU something
+. let ME PROPOSE
+. let ME PROPOSE THAT
+. let me recap
+. let me recapitulate
+. let me recite
+. let me refine
+. let me refine upon
+. let me see
+. let me show !YOU !DETERMINER door
+. let me speak for myself
+. let me specify
+. let ME START
+. let ME START WITH
+. let me suggest
+. let ME SUGGEST THAT
+. let me underline
+. let me underscore
+. let our
+. let our being
+. let us
+. let us advise
+. let us agonize
+. let us agree to
+. let us back up !DETERMINER little
+. let us be of !DETERMINER mind that
+. let us believe
+. let us clear up
+. let us commit
+. let us comprehend
+. let us conceive
+. let us concentrate
+. let us contemplate
+. let us detect
+. let us determine
+. let us discover
+. let us do
+. let us elect
+. let us estimate
+. let us examine
+. let us expect
+. let us fathom
+. let us forget
+. let us guess
+. let us hope to
+. let us initiate
+. let us intend
+. let us judge
+. let us know !QUESTION !YOU feel
+. let us learn
+. let us look
+. let us look at
+. let us look into
+. let us loosen
+. let us mull
+. let us note
+. let us notice
+. let us now !READERFOCUS
+. let us now start to !READERFOCUS
+. let us now try to !READERFOCUS
+. let US NOW TURN OUR ATTENTION TO
+. let US NOW TURN TO
+. let us observe
+. let us opt
+. let us opt for
+. let us perceive
+. let us plan
+. let us play devil's advocate
+. let us propose
+. let us rationalize
+. let us realize
+. let us reason
+. let us recognize
+. let us reexamine
+. let us resolve
+. let us resolve to
+. let us rue
+. let us rule
+. let us see
+. let us see !QUESTION !PRONOUNNOMINAL have to
+. let us settle
+. let us speak for ourselves
+. let us start
+. let us straighten out
+. let us take
+. let us take !DETERMINER
+. let us think
+. let us think of
+. let us try
+. let us underline
+. let us underscore
+. let us understand
+. let well enough alone
+. look !QUESTION
+. look !QUESTION !PRONOUNNOMINAL
+. Look,
+. look,  !YOU
+. make !YOU
+. make !YOU aware of
+. make !YOU aware that
+. make !YOU see
+. make !YOU selection
+. make !YOU think
+. make !YOU way
+. make !YOU way to
+. make no mistake
+. make no mistake about
+. make no mistake about it
+. make sure !YOU
+. make sure that !YOU
+. make sure to
+. makes !YOU
+. makes !YOU wonder
+. mark my words
+. may you find
+. nighty-night
+. notify me
+. notify me about it
+. now fair
+. now fair maiden
+. now,
+. Okay,
+. on !DETERMINER qt
+. on !YOU mark
+. ought not !DETERMINER
+. ought not !INDEFINITEADDRESSEE
+. please be aware
+. please be aware that
+. qui vive
+. see !YOU soon
+. see here
+. so just !QUESTION
+. sorry about that
+. sorry for that
+. stay tuned
+. stay tuned for
+. take it with !YOU
+. take me
+. take note of
+. take note of !QUESTION
+. tell me
+. trust me
+. trust me on this
+. trust me,
+. trust my word
+. which
+.leap before !YOU look
+.let me !SAY
+: !AUX !YOU
+: do !YOU
+; attention
+; have !DETERMINER great day
+; note
+; note that
+; notify me
+about !YOU
+above !YOU
+abstract !YOU
+accept !YOU fate
+accepted !YOU fate
+accepting !YOU fate
+accepts !YOU fate
+accommodate !YOU to
+accommodated !YOU to
+accommodates !YOU to
+accommodating !YOU to
+acquit !YOU
+acquit !YOU of
+acquits !YOU
+acquits !YOU of
+acquitted !YOU
+acquitted !YOU of
+acquitting !YOU
+acquitting !YOU of
+across !YOU
+across from !YOU
+address !YOU to
+addressed !YOU to
+addresses !YOU to
+addressing !YOU to
+adjust !YOU to
+admonish !YOU
+admonished !YOU
+admonishes !YOU
+admonishing !YOU
+advise !YOU to
+ahead of !YOU
+all !INDEFINITEADDRESSEE need to do
+all !INDEFINITEADDRESSEE needs to do
+all !YOU
+all !YOU born days
+all !YOU can bear
+all !YOU can do
+all !YOU can manage
+all !YOU can stand
+all !YOU can take
+all !YOU do !AUX
+all !YOU do is:
+all !YOU got
+all !YOU have to do
+all !YOU have to do !AUX
+all !YOU have to do is:
+all !YOU natural life
+ALL !YOU NEED TO DO
+all !YOU steam on
+all !YOU time
+all good go with !YOU
+all hail
+all of !YOU
+allow !YOU
+allow me
+allowing !YOU
+allows !YOU
+along !YOU
+alongside !YOU
+am standing before !YOU
+amuse !YOU
+and crack !YOU cheeks
+and just !SAY back
+and just notify !PRONOUNOBJECTIVE that
+and just think !QUESTION
+and think !QUESTION
+any time !YOU !SAY !DETERMINER word
+any time !YOU !SAY so
+any time !YOU let me know
+appeal to !YOU better feelings
+appeal to !YOU for
+appealed to !YOU better feelings
+appealed to !YOU for
+appealing to !YOU better feelings
+appealing to !YOU for
+appeals to !YOU better feelings
+appeals to !YOU for
+apprentice !YOU to
+apprenticed !YOU to
+apprentices !YOU to
+apprenticing !YOU to
+argue !YOU case
+argued !YOU case
+argues !YOU case
+arguing !YOU case
+aroint thee
+around !YOU
+arrange !YOU !IDEA
+arrange !YOU thoughts
+arranged !YOU !IDEA
+arranged !YOU thoughts
+arranges !YOU !IDEA
+arranges !YOU thoughts
+arranging !YOU !IDEA
+arranging !YOU thoughts
+arrogate to !YOU
+arrogated to !YOU
+arrogates to !YOU
+arrogating to !YOU
+as !YOU
+as !YOU !MODAL  think
+as !YOU enter
+AS !YOU HEARD ON MANY OCCASIONS
+as !YOU leave
+as !YOU like
+as !YOU please
+as !YOU see fit
+as !YOU see it
+as !YOU think best
+as !YOU wish
+as far as !YOU !AUX concerned
+as for !YOU being
+as much as !YOU like
+as often as !YOU like
+as often as !YOU wish
+ask !YOU
+ask !YOU to do
+ask for !YOU hand
+asked for !YOU hand
+asking !YOU
+asking !YOU to
+asking !YOU to do
+asking for !YOU hand
+asks !YOU
+asks !YOU to
+asks !YOU to do
+asks for !YOU hand
+associate !YOU with
+associated !YOU with
+associates !YOU with
+associating !YOU with
+at !YOU beck and call
+at !YOU behest
+at !YOU best
+at !YOU bidding
+at !YOU call
+at !YOU command
+at !YOU convenience
+at !YOU discretion
+at !YOU disposal
+at !YOU door
+at !YOU earliest convenience
+at !YOU ease
+at !YOU elbow
+at !YOU feet
+at !YOU fingertips
+at !YOU heels
+at !YOU last gasp
+at !YOU leisure
+at !YOU mercy
+at !YOU nod
+at !YOU orders
+at !YOU own discretion
+at !YOU own sweet time
+at !YOU own sweet will
+at !YOU pleasure
+at !YOU service
+at !YOU side
+at !YOU will
+at !YOU will and pleasure
+at !YOU wit's end
+at !YOU wits' end
+auf Wiedersehen
+away from !YOU
+back from !YOU
+back of !YOU
+be !YOU charge
+be !YOU due
+be !YOU fate
+be !YOU funeral
+be !YOU mission
+be !YOU office
+be !YOU outlook
+be !YOU own boss
+be !YOU own man
+be !YOU probable destiny
+be !YOU probable fate
+be !YOU prospect
+be !YOU responsibility
+be at !YOU service
+be careful !QUESTION !YOU
+be careful to note
+be seeing !YOU
+be sure !YOU
+be sure to
+be sure to let me know
+behave !YOU
+behind !YOU
+believe it or not
+below !YOU
+bend !YOU course
+bend !YOU ear
+bend !YOU effort
+bend !YOU steps
+bend !YOU steps for
+bend !YOU steps to
+beneath !YOU
+beyond !YOU reasoning
+beyond !YOU wildest expectations
+bid !YOU welcome
+big as !YOU please
+bit !YOU tongue
+bite !YOU tongue
+bites !YOU tongue
+biting !YOU tongue
+blind !YOU eyes
+blot out !YOU sins
+boost !YOU
+boost !YOU pay
+brace !YOU
+brace !YOU for
+breath of !YOU nostrils
+bring !YOU
+bring !YOU around to !DETERMINER belief
+bring !YOU around to !DETERMINER fact
+bring !YOU to !DETERMINER belief that
+bring me up to speed
+bring us up to speed
+bringing !YOU
+brings !YOU
+broken down, !YOU can see
+brought !YOU
+buckle !YOU
+build up !YOU
+but !QUESTION !YOU
+but remember that
+but remember,
+butter !YOU bread on both sides
+by !YOU
+by !YOU own account
+c'mon
+call !YOU attention to
+call now
+can't just sit on !YOU hands
+can't sit on !YOU hands
+can !YOU
+can !YOU beat that
+can !YOU feature that
+can !YOU hear
+can !YOU hear !DETERMINER
+can !YOU imagine
+can !YOU make any sense out of this
+can !YOU make anything out of this
+carve !YOU way
+cast !YOU bread upon !DETERMINER waters
+cast !YOU eye
+cast !YOU eyes down
+cast !YOU fortune
+cast !YOU hook
+cast !YOU net
+cast !YOU vote
+cast !YOU vote for
+catch me !DETERMINER
+chain victory to !YOU car
+challenge !YOU to
+charge to !YOU account
+choose !QUESTION !YOU
+choose !QUESTION !YOU want
+clearing of your name
+climb !YOU frame
+climbed !YOU frame
+climbing !YOU frame
+climbs !YOU frame
+clip !YOU words
+clipped !YOU words
+clipping !YOU words
+clips !YOU words
+come-all-ye
+come and get it
+come on now
+come on!
+come to think of it,
+come visit
+Come,
+Come, be !DETERMINER
+comeon
+commend to !POSSESSIVEPRONOUN attention
+commend to !YOU attention
+commend to attention
+commended to !YOU attention
+commended to attention
+commended to POSSESSIVEPRONOUN attention
+commending to  POSSESSIVEPRONOUN attention
+commending to !YOU attention
+commending to attention
+commends to !YOU attention
+commends to attention
+commends to POSSESSIVEPRONOUN attention
+comment allez-vous
+comment ca va
+compel !YOU to see that
+comport !YOU
+comported yourselves
+comporting yourselves
+comports !YOU
+compose !YOU
+compose !YOU differences
+compose !YOU features
+composed !YOU
+composed !YOU differences
+composed !YOU features
+composes !YOU
+composes !YOU differences
+composes !YOU features
+composing !YOU
+composing !YOU differences
+composing !YOU features
+conceal !YOU
+concealed !YOU
+concealing !YOU
+conceals !YOU
+conceit !YOU
+concern !YOU
+concerned !YOU
+concerning !YOU
+concerns !YOU
+conduct !YOU
+conduct !YOU in !DETERMINER face of
+conduct !YOU toward
+conduct !YOU vis-a-vis
+conducted !YOU vis-a-vis
+conducting !YOU vis-a-vis
+conducts !YOU vis-a-vis
+congratulate !YOU
+consider !YOU
+constrain !YOU
+constrained !YOU
+constraining !YOU
+constrains !YOU
+constrict !YOU views
+control !YOU
+control !YOU appetites
+cook your meals
+cooked your meals
+cooking your meals
+cooks your meals
+cost !YOU !DETERMINER thing
+cost !YOU anything
+couch !YOU lance
+could change !YOU
+could change !YOU life
+could it be that
+could open !YOU
+could open !YOU eyes
+could save !YOU
+could save !YOU life
+cover !YOU path
+cover !YOU short
+cover !YOU tracks
+cover up !YOU tracks
+covered !YOU path
+covered !YOU short
+covered !YOU tracks
+covered up !YOU tracks
+covering !YOU path
+covering !YOU short
+covering !YOU tracks
+covering up !YOU tracks
+covers !YOU path
+covers !YOU short
+covers !YOU tracks
+covers up !YOU tracks
+crawl into !YOU shell
+credit to !YOU account
+credited to !YOU account
+crediting to !YOU account
+credits to !YOU account
+cross !YOU palm
+cross !YOU palm with
+cross !YOU path
+dare !YOU
+dear lad
+dear lass
+Dear Mr.
+Dear Mrs.
+dear reader
+declare !YOU
+declare !YOU !DETERMINER party
+declare !YOU against
+defer to !YOU duty
+deferred to !YOU duty
+deferring to !YOU duty
+defers to !YOU duty
+deliver !YOU
+deliver !YOU charge to !DETERMINER jury
+deliver !YOU from
+deliver up !YOU arms
+delivered !YOU
+delivered !YOU charge to !DETERMINER jury
+delivered !YOU from
+delivered up !YOU arms
+delivering !YOU
+delivering !YOU charge to !DETERMINER jury
+delivering !YOU from
+delivering up !YOU arms
+delivers !YOU
+delivers !YOU charge to !DETERMINER jury
+delivers !YOU from
+delivers up !YOU arms
+demonstrate !YOU ability
+demonstrate to !YOU that
+demonstrated !YOU ability
+demonstrates !YOU ability
+demonstrating !YOU ability
+deny !YOU
+deny !YOU to
+develop !YOU
+developing !YOU
+did !YOU
+did !YOU conduct
+did !YOU do
+did !YOU ever
+did !YOU know
+Did !YOU see
+did !YOU use
+didst thou
+die at !YOU post
+died at !YOU post
+dies at !YOU post
+direct !YOU attention
+direct !YOU attention to
+direct !YOU to
+directed !YOU attention
+directed !YOU attention to
+directed !YOU to
+directing !YOU attention
+directing !YOU attention to
+directing !YOU to
+directs !YOU attention
+directs !YOU attention to
+directs !YOU to
+discharge !YOU duty
+discharge !YOU function
+discharged !YOU duty
+discharged !YOU function
+discharges !YOU duty
+discharges !YOU function
+discharging !YOU duty
+discharging !YOU function
+discover for !YOU
+discover it for !YOU
+discover yourselves
+discovered yourselves
+discovering yourselves
+discovers yourselves
+disjoin !YOU
+disjoined !YOU
+disjoining !YOU
+disjoins !YOU
+divert !YOU attention
+diverted !YOU attention
+diverting !YOU attention
+diverts !YOU attention
+does your business
+doing your business
+don't just sit on !YOU hands
+don't sit on !YOU hands
+don't want to take up !YOU time
+done your business
+dot your i's and cross your t's
+dots your i's and crosses your t's
+dotted your i's and crossed your t's
+dotting your i's and crossing your t's
+down !YOU
+drape !YOU
+draw !YOU attention to
+du
+dying at !YOU post
+earn on !YOU own time
+earn on !YOU time
+employ !YOU in
+employ !YOU time in
+employ !YOU upon
+employ yourselves
+employed !YOU in
+employed !YOU time in
+employed !YOU upon
+employed yourselves
+employing !YOU in
+employing !YOU time in
+employing !YOU upon
+employing yourselves
+employs !YOU in
+employs !YOU time in
+employs !YOU upon
+employs yourselves
+empower !YOU
+en garde
+encourage !YOU to
+encourage !YOU toward
+enlarge !YOU
+escape !YOU attention
+escaped !YOU attention
+escapes !YOU attention
+escaping !YOU attention
+et tu
+examine !YOU conscience
+examined !YOU conscience
+examines !YOU conscience
+examining !YOU conscience
+exchange !YOU opinions
+exchange !YOU views
+exchanged !YOU opinions
+exchanged !YOU views
+exchanges !YOU opinions
+exchanges !YOU views
+exchanging !YOU opinions
+exchanging !YOU views
+excuse me
+exhibit !YOU wares
+exhibited !YOU wares
+exhibiting !YOU wares
+exhibits !YOU wares
+expand !YOU
+expedite !YOU
+expedite !YOU affair
+expedited !YOU
+expedited !YOU affair
+expedites !YOU
+expedites !YOU affair
+expediting !YOU
+expediting !YOU affair
+expose !YOU to
+exposed !YOU to
+exposes !YOU to
+exposing !YOU to
+express !YOU
+express yourselves
+expressed !YOU
+expressed yourselves
+expresses !YOU
+expresses yourselves
+expressing !YOU
+expressing yourselves
+extend !YOU heartfelt sympathies
+extend !YOU heartfelt sympathy
+extended !YOU heartfelt sympathies
+extended !YOU heartfelt sympathy
+extending !YOU heartfelt sympathies
+extending !YOU heartfelt sympathy
+extends !YOU heartfelt sympathies
+extends !YOU heartfelt sympathy
+faites vos jeux
+fax !YOU
+feather !YOU nest
+feathered !YOU nest
+feathering !YOU nest
+feathers !YOU nest
+fell free to call
+find !QUESTION !YOU
+find me
+fine but
+fine, but
+fit !YOU
+fix !YOU signature
+fixed !YOU signature
+fixes !YOU signature
+fixing !YOU signature
+flatten !YOU
+flatters !YOU
+flesh out !YOU
+focused !YOU mind
+focused !YOU thoughts
+focuses !YOU mind
+focuses !YOU thoughts
+focusing !YOU mind
+focusing !YOU thoughts
+fold !YOU
+follow !YOU
+follow !YOU around
+followed !YOU around
+following !YOU around
+follows !YOU around
+fool !YOU
+fool around with your
+fooled around with my
+fooled around with your
+fooling around with my
+fooling around with you
+fools around with my
+fools around with your
+foot !YOU share
+for !DETERMINER sake of !YOU
+for !QUESTION !AUX
+for !YOU
+for !YOU benefit
+for !YOU future
+for !YOU futures
+for !YOU information
+for !YOU own
+for !YOU own good
+for !YOU review
+for !YOU sake
+for !YOU to
+for !YOU very own
+FOR ALL !YOU
+for all you've got
+for anything !YOU !MODAL  know
+for anything !YOU know
+for each option
+FOR THOSE OF !YOU
+for yourselves
+from !QUESTION !YOU can gather
+from !QUESTION !YOU have heard
+from !YOU
+from !YOU angle
+from !YOU book
+from !YOU heart
+from !YOU standpoint
+from !YOU viewpoint
+gesundheit
+give !YOU
+give !YOU due notice that
+give !YOU legal notice that
+give !YOU mandated notice that
+give !YOU notice
+give me !YOU
+give me !YOU attention
+go to !YOU
+goes to !YOU
+goes to show !YOU
+going to !YOU
+GOING TO SHOW !YOU
+good-bye
+good day.
+good morning.
+goodbye
+goodnight
+got !YOU number
+great for !YOU
+ground !YOU arms
+grounded !YOU arms
+grounding !YOU arms
+grounds !YOU arms
+guard !YOU honor
+guarded !YOU honor
+guarding !YOU honor
+guards !YOU honor
+guide !YOU toward
+hand !YOU
+hand in !YOU checks
+hand in !YOU chips
+hand in !YOU resignation
+hand it to !YOU
+handed in !YOU checks
+handed in !YOU chips
+handed in !YOU resignation
+handing in !YOU checks
+handing in !YOU chips
+handing in !YOU resignation
+handle to !YOU name
+hands in !YOU checks
+hands in !YOU chips
+hands in !YOU resignation
+hang !YOU
+hang heavy on !YOU hands
+happy new year to !YOU
+happy to make !YOU acquaintance
+hark ye
+has !YOU number
+has !YOU surrounded
+haul !YOU
+having !YOU number
+having !YOU surrounded
+head !YOU
+hear this
+hear ye
+hear you out
+hearken ye
+heave !YOU
+heed this advice
+heed this warning
+hello
+hello and welcome to
+hello boy
+hello boys
+hello girl
+hello girls
+helloed
+helloes
+helloing
+hellos
+help !YOU
+HELP !YOU LEARN
+help !YOU see
+help !YOU see that
+help !YOU to
+help !YOU to whatever
+helped !YOU
+helping !YOU
+helps !YOU
+here's !QUESTION .
+here's !QUESTION it works
+here's !YOU
+Here's looking at !YOU
+Here's mud in !YOU eye
+Here's to
+here !AUX !DETERMINER
+here !AUX !QUESTION !YOU
+here !AUX !YOU
+here !AUX some options
+here !YOU
+here !YOU !AUX
+HERE !YOU WILL SEE
+here it !AUX
+hey !YOU
+hey bro
+hey jack
+hey sis
+hey,
+hi,
+hide !YOU
+hold on to this
+hold up for me
+hone !YOU
+how can you ever
+how can you ever repay
+howdy
+hoy !DETERMINER
+hoyed
+hoying
+hoys !DETERMINER
+hullo
+hurry along now
+husband !YOU
+husband !YOU resources
+I'll be seeing !YOU
+I'll catch !YOU later
+I'll fill !YOU in
+I'll have !YOU
+I'll make it good
+I'll make it right
+I'll notify !YOU !QUESTION
+I'll try to catch !YOU later
+I'm at !YOU disposal
+I !SAY no
+I am now pleading with !YOU
+I am pleading with !YOU
+I ask !DETERMINER reader's
+I didn't catch !YOU name
+I hope !YOU
+I hope that !YOU
+I now plead with !YOU
+identified !YOU with
+identifies !YOU with
+identify !YOU with
+identifying !YOU with
+identitied yourselves with
+identities yourselves with
+identity yourselves with
+identitying yourselves with
+if !YOU !AUX
+if !YOU !AUX concerned
+if !YOU !AUX interested
+if !YOU can think of any more questions
+if !YOU don't mind
+if !YOU feel
+if !YOU have trouble !YOU !AUX strongly encouraged
+if !YOU like
+if !YOU like to
+if !YOU like to share
+if !YOU suffer from
+if !YOU want to
+if !YOU wish
+if !YOU wish to
+if it pleases !YOU
+imagine that
+improve !YOU
+improving !YOU
+in !YOU
+in !YOU armor
+in !YOU bad books
+in !YOU behalf
+in !YOU best bib and tucker
+in !YOU birthday suit
+in !YOU black books
+in !YOU book
+in !YOU books
+in !YOU charge
+in !YOU chest
+in !YOU clutches
+in !YOU control
+in !YOU cups
+in !YOU effort
+in !YOU efforts
+in !YOU element
+in !YOU employ
+in !YOU estimation
+in !YOU eye
+in !YOU favor
+in !YOU good
+in !YOU good books
+in !YOU good graces
+in !YOU grasp
+in !YOU grip
+in !YOU hands
+in !YOU heart
+in !YOU inmost thoughts
+in !YOU opinion
+in !YOU own hand
+in !YOU own interest
+in !YOU own person
+in !YOU own right
+in !YOU own sweet time
+in !YOU own sweet way
+in !YOU own way
+in !YOU pay
+in !YOU place
+in !YOU pocket
+in !YOU possession
+in !YOU power
+in !YOU prime
+in !YOU right mind
+in !YOU second childhood
+in !YOU shell
+in !YOU shirt-sleeves
+in !YOU shirt sleeves
+in !YOU shoes
+in !YOU sleeve
+in !YOU sober senses
+in !YOU stead
+in !YOU stocking feet
+in !YOU teens
+in !YOU thinking
+in !YOU tracks
+in !YOU vocation
+in back of !YOU
+increase !YOU
+inside of !YOU
+into !YOU
+invite !YOU to
+it's !POSSESSIVEPRONOUN turn
+it's !YOU
+it's never !YOU fault
+it's not !YOU fault
+it !AUX !YOU
+it !AUX for !YOU
+it !AUX imperative for us to !READERFOCUS
+it !AUX imperative that we !READERFOCUS
+it !AUX imperative to !READERFOCUS
+it !AUX necessary to !READERFOCUS
+it !AUX now necessary for us to !READERFOCUS
+it !AUX to !YOU
+it !AUX to !YOU that
+it can take !YOU breath away
+it happened to !YOU
+IT SEEMS !DETERMINER APPROPRIATE TIME TO LET !YOU KNOW
+Join me in
+just !QUESTION !YOU
+just !SAY no
+just call
+just call !DETERMINER
+just call me
+just consider
+just do it
+just hear this
+just hit !DETERMINER high spots of !YOU
+just knock on wood
+Just let it go
+Just let it pass
+just let me
+just let me !TALK
+just listen to this
+just look at
+just notify !PRONOUNOBJECTIVE
+just sit back and relax
+just so !YOU
+just trust me
+just watch
+just wing it
+keep !YOU
+keep !YOU eye on
+keep !YOU head
+keep !YOU head in
+keep !YOU heart pure
+keep !YOU in mind
+keep !YOU mind on
+keep !YOU money in
+keep !YOU shirt on
+keep that to !YOU
+keep this in mind
+keeping !YOU in mind
+keeps !YOU in mind
+kept !YOU in mind
+kiss-me
+kiss-me-quick
+kiss !DETERMINER hem of !YOU garment
+labor in !YOU vocation
+labored in !YOU vocation
+laboring in !YOU vocation
+labors in !YOU vocation
+lay !YOU
+leap before !YOU look
+learn !QUESTION !YOU
+learn !QUESTION to dance with !YOU
+learn !QUESTION to talk with !YOU
+learn better and faster ways to
+learn on !YOU own time
+learn to confront !YOU
+learn to discard !YOU
+learn to laugh at !YOU
+learn to live with !YOU
+lend me
+lest !ROYALWE forget
+lest !YOU forget
+let's
+let's back up !DETERMINER little
+let's be
+let's be of !DETERMINER mind that
+LET'S BEGIN
+let's believe
+let's clear up
+let's commit
+let's comprehend
+let's conceive
+let's concentrate
+let's consider
+let's contemplate
+let's decide
+let's detect
+let's determine
+let's discover
+let's do
+let's do it
+let's elect
+let's estimate
+let's examine
+let's expect
+let's fathom
+let's forget
+let's forgive and forget
+let's get
+LET'S GET DOWN TO
+LET'S GET DOWN TO !DETERMINER FACTS
+let's get down to !DETERMINER nitty-gritty
+LET'S GET DOWN TO !DETERMINER NITTY GRITTY
+LET'S GET DOWN TO BRASS TACKS
+LET'S GET DOWN TO BUSINESS
+LET'S GET DOWN TO CASES
+let's get down to work
+let's get going
+LET'S GET STARTED
+let's go
+let's go right to
+let's guess
+let's have
+let's have !DETERMINER see
+let's have some dialog
+let's have some dialogue
+let's hope to
+let's imagine
+let's initiate
+let's intend
+let's judge
+let's keep !DETERMINER ball rolling
+let's kick it around
+let's kiss and make up
+let's learn
+let's let bygones be bygones
+let's look
+let's look at
+let's look into
+let's loose !DETERMINER
+let's move on
+let's mull
+let's not bother with
+let's not go there
+let's note
+let's notice
+let's observe
+let's opt
+let's opt for
+let's pause for station identification
+let's perceive
+let's plan
+let's play devil's advocate
+let's please
+let's propose
+let's put it aside
+let's put it aside for now
+let's quickly recap
+let's rationalize
+let's realize
+let's reason
+let's recap
+let's recapitulate
+let's recognize
+let's reexamine
+let's resolve
+let's resolve to
+let's rue
+let's rule
+let's see
+let's see !DETERMINER
+let's see !QUESTION !PRONOUNNOMINAL has to
+let's see !QUESTION !PRONOUNNOMINAL have to
+let's set to one side
+let's settle
+let's show !YOU what's happening
+let's start
+let's straighten out
+let's take
+let's take !DETERMINER
+let's talk about
+let's talk about !DETERMINER
+let's think
+let's think of
+let's try
+let's try to
+let's understand
+let us  know
+let us  know !QUESTION !YOU feel
+lets !YOU
+line !YOU pockets
+lined !YOU pockets
+lines !YOU pockets
+lining !YOU pockets
+lo
+lo and behold
+lo!
+look,
+lower !YOU
+lower !YOU colors
+lower !YOU flag
+lower !YOU guard
+lower !YOU note
+lower !YOU tone
+lowered !YOU guard
+lowered !YOU note
+lowered !YOU tone
+lowering !YOU guard
+lowering !YOU note
+lowering !YOU tone
+lowers !YOU guard
+lowers !YOU note
+lowers !YOU tone
+maintain !YOU contacts
+maintained !YOU contacts
+maintaining !YOU contacts
+maintains !YOU contacts
+making !YOU
+mark down that it !AUX possible
+mark that it !AUX possible
+match !YOU against
+matched !YOU against
+matches !YOU against
+matching !YOU against
+may it please
+may it please !DETERMINER court
+may it please !YOU
+mayest
+mayst
+meet !YOU at every turn
+meeting !YOU at every turn
+meets !YOU at every turn
+mein Herr
+mein herrs
+met !YOU at every turn
+meum et tuum
+mind !QUESTION !YOU !SAY
+mind !YOU
+motivate !YOU
+motivate !YOU toward
+move !YOU to
+move !YOU to believe
+move !YOU to think
+muster !YOU resources
+my dear boy
+my dear daughter
+my dear husband
+my dear lad
+my dear man
+my dear sir
+my dear son
+my dear wife
+my heart goes out
+my I offer
+my liege
+my lieges
+my lord
+MY MESSAGE TO !YOU IS THAT
+my suggestion !AUX that
+my suggestion !AUX that !YOU
+nearby !YOU
+need to get with it
+never mind !DETERMINER
+never mind !YOU
+never mind that
+never promised !YOU !DETERMINER bed of roses
+next to !YOU
+no I !SAY
+no matter !QUESTION many !YOU
+no slouch !YOU
+no slouch !YOU in
+no, you
+not for all !YOU
+not let !YOU
+not that !YOU know
+not that !YOU would know it
+notify !YOU
+notify !YOU all about
+notify !YOU apart
+notify !YOU beads
+notify !YOU that
+notify me whether
+now !QUESTION if
+now !YOU can have
+now consider then
+now direct !YOU attention to
+now get this
+now hear me
+now hear me out
+now hear this
+now hurry along
+now listen to this
+now pay attention
+NOW PLEASE TURN !YOU
+now suppose then
+NOW THAT !YOU
+NOW THAT !YOU HAD !DETERMINER CHANCE
+NOW THAT !YOU HAVE
+NOW THAT !YOU HAVE HAD !DETERMINER CHANCE
+now then consider
+now then suppose
+NOW TURN !YOU
+NOW TURN !YOU ATTENTION TO
+obligate !YOU
+obligate yourselves
+obligated !YOU
+obligated yourselves
+obligates !YOU
+obligates yourselves
+obligatess !YOU
+obligating !YOU
+obligating yourselves
+of !YOU
+of !YOU own
+of !YOU own accord
+of !YOU own choice
+of !YOU own free will
+of !YOU own volition
+off !YOU
+off !YOU feed
+off !YOU go
+off !YOU hands
+off !YOU hobby horse
+off of !YOU
+offer !YOU compliments
+offer !YOU congratulations
+offer !YOU felicitations
+okay now
+old chap
+old chaps
+on !DETERMINER tip of !YOU tongue
+on !YOU
+on !YOU back
+on !YOU beam-ends
+on !YOU behalf
+on !YOU belly
+on !YOU bended knees
+on !YOU coattails
+on !YOU deathbed
+on !YOU feet
+on !YOU guard
+on !YOU hands
+on !YOU hands and knees
+on !YOU head
+on !YOU high horse
+on !YOU hind legs
+on !YOU hobby horse
+on !YOU home ground
+on !YOU hunkers
+on !YOU jack
+on !YOU knees
+on !YOU legs
+on !YOU mark
+on !YOU marrowbones
+on !YOU mettle
+on !YOU mind
+on !YOU nose
+on !YOU own
+on !YOU own accord
+on !YOU own account
+on !YOU own ground
+on !YOU own hook
+on !YOU own initiative
+on !YOU own responsibility
+on !YOU own say-so
+on !YOU own time
+on !YOU own turf
+on !YOU part
+on !YOU radar screen
+on !YOU shoulders
+on !YOU soap-box
+on !YOU soap box
+on !YOU toes
+on !YOU travels
+on !YOU uppers
+on !YOU way
+on !YOU word
+on !YOU word of honor
+one of !YOU
+onto !YOU
+onto yourselves
+options before !YOU
+options for !YOU
+organize !YOU
+orient !YOU
+orientate !YOU
+orientated !YOU
+orientates !YOU
+orientating !YOU
+oriented !YOU
+orienting !YOU
+orients !YOU
+ot of !YOU
+ought to make !YOU aware
+ought to notify !YOU
+our hearts go out
+our suggestion !AUX that
+our suggestion !AUX that !YOU
+out !YOU
+out of !YOU
+out of !YOU bearings
+out of !YOU control
+out of !YOU element
+out of !YOU hands
+out of !YOU heads
+out of !YOU mind with fear
+out of !YOU misery
+out of !YOU power
+out of !YOU reckoning
+out of !YOU senses
+out of !YOU skull
+out of !YOU system
+out of !YOU teens
+out of !YOU wits
+outside !YOU
+outside of !YOU
+over !YOU
+over !YOU head
+over !YOU heads
+overcame !YOU
+overcame !YOU resistance
+overcome !YOU
+overcome !YOU resistance
+overcomes !YOU
+overcomes !YOU resistance
+overcoming !YOU
+overcoming !YOU resistance
+paddle !YOU own canoe
+pardon me
+pass !YOU by
+pass in !YOU checks
+passed in !YOU checks
+passes in !YOU checks
+passing in !YOU checks
+past !YOU
+past !YOU head
+pay !PRONOUNOBJECTIVE no mind
+pay !YOU
+pay !YOU addresses to
+pay !YOU court to
+pay !YOU dues
+pay !YOU in !YOU own coin
+pay !YOU in !YOU own currency
+pay !YOU respects to
+pay !YOU share
+pay !YOU way
+pay attention to me
+paying !YOU
+paying !YOU addresses to
+paying !YOU court to
+paying !YOU dues
+paying !YOU in !YOU own coin
+paying !YOU in !YOU own currency
+paying !YOU respects to
+paying !YOU share
+paying !YOU way
+pays !YOU
+pays !YOU addresses to
+pays !YOU court to
+pays !YOU dues
+pays !YOU in !YOU own coin
+pays !YOU in !YOU own currency
+pays !YOU respects to
+pays !YOU share
+pays !YOU way
+permit !YOU
+permit me
+permit me to
+permits !YOU
+permitted !YOU
+permitting !YOU
+persuade !YOU
+pin !YOU
+pin !YOU upon
+pinned !YOU
+pinned !YOU upon
+pinning !YOU
+pinning !YOU upon
+pins !YOU
+pins !YOU upon
+place !YOU on notice
+place !YOU signature
+place !YOU signatured
+place !YOU signed
+placed !YOU on notice
+placed !YOU signature
+places !YOU on notice
+places !YOU signature
+placing !YOU on notice
+placing !YOU signature
+play !YOU cards
+play !YOU proper role
+play with !YOU
+played !YOU cards
+played with !YOU
+playing !YOU cards
+playing !YOU proper role
+playing with !YOU
+plays !YOU cards
+plays !YOU proper role
+plays with !YOU
+plead with !YOU
+please be aware
+please be aware that
+please do !QUESTION !YOU can to
+please do !YOU best to
+Please join me in
+please keep that to !YOU
+please let's
+Please let it pass
+please listen
+please listen up
+please read
+please see that !YOU
+please settle down
+please slow down
+please step aside
+please take
+please take !DETERMINER
+please take !DETERMINER look
+please try not to
+pledge !YOU support
+pledged !YOU support
+pledges !YOU support
+pledging !YOU support
+plied your trade
+plies your trade
+ply your trade
+plying your trade
+polish !YOU
+possess !YOU soul
+possessed !YOU soul
+possesses !YOU soul
+possessing !YOU soul
+practice on !YOU credulity
+practiced on !YOU credulity
+practices on !YOU credulity
+practicing on !YOU credulity
+prepare !YOU
+prepared !YOU
+prepares !YOU
+preparing !YOU
+present !YOU case
+presented !YOU case
+presenting !YOU case
+presents !YOU case
+press !YOU hand
+press !YOU suit
+pressed !YOU hand
+pressed !YOU suit
+presses !YOU hand
+presses !YOU suit
+pressing !YOU hand
+pressing !YOU suit
+prithee
+provide notification to !YOU
+purpose to !YOU
+push !YOU to believe that
+push !YOU toward !DETERMINER belief
+put !YOU
+put !YOU in !POSSESSIVEPRONOUN place
+put !YOU in !POSSESSIVEPRONOUN shoes
+put !YOU signature
+quote !YOU
+quoted !YOU
+quotes !YOU
+quoting !YOU
+Raise !YOU
+range !YOU on !DETERMINER side of
+range !YOU with
+ranged !YOU on !DETERMINER side of
+ranged !YOU with
+ranges !YOU on !DETERMINER side of
+ranges !YOU with
+ranging !YOU on !DETERMINER side of
+ranging !YOU with
+rathe !YOU
+rathed !YOU
+rathes !YOU
+rathing !YOU
+raus mit dir
+reach !YOU decision
+reached !YOU decision
+reaches !YOU decision
+reaching !YOU decision
+read-my-lips
+read your hand
+read your lines
+readers !MUSTSHOULD
+readers will
+readied !YOU
+readied !YOU to
+readied yourselves
+readied yourselves to
+readies !YOU
+readies !YOU to
+readies yourselves
+readies yourselves to
+reading your hand
+reading your lines
+reads your hand
+reads your lines
+ready !YOU
+ready !YOU to
+ready yourselves
+ready yourselves to
+readying !YOU
+readying !YOU to
+readying yourselves
+readying yourselves to
+reap !QUESTION !YOU have sown
+reaped !QUESTION !YOU have sown
+reaping !QUESTION !YOU have sown
+reaps !QUESTION !YOU have sown
+refer !YOU to
+refine !YOU
+reform !YOU
+reform yourselves
+reformed !YOU
+reformed yourselves
+reforming !YOU
+reforming yourselves
+reforms !YOU
+reforms yourselves
+refresh !YOU
+register with !YOU
+relieve !YOU of
+relieved !YOU of
+relieves !YOU of
+relieving !YOU of
+remember that
+remember,
+repays !YOU
+requests that !YOU
+rest on your oars
+rest upon your oars
+rested on your oars
+rested upon your oars
+resting on your oars
+resting upon your oars
+restrain !YOU
+restrained !YOU
+restraining !YOU
+restraining yourselves
+restrains !YOU
+restrict !YOU
+restrict !YOU to
+restricted !YOU
+restricted !YOU to
+restricting !YOU
+restricting !YOU to
+restricts !YOU
+restricts !YOU to
+rests on your oars
+rests upon your oars
+retrace !YOU steps
+right at !YOU
+roll up !YOU sleeves
+round !YOU
+run that by again
+saheb
+sahebs
+sahib
+sahibs
+salaam
+salaamed
+salaaming
+salaams
+save !YOU
+save !YOU bacon
+save !YOU breath
+save !YOU face
+save !YOU neck
+save !YOU skin
+save as !YOU earn
+saved !YOU
+saves !YOU
+saving !YOU
+saw !YOU
+saw of !YOU
+scotch !YOU wheel
+search !YOU
+searched !YOU
+searches !YOU
+searching !YOU
+see !YOU
+see !YOU later
+see !YOU soon
+see here
+see of !YOU
+seeing !YOU
+seeing of !YOU
+sees !YOU
+sees of !YOU
+seize !YOU mind
+seized !YOU mind
+seizes !YOU mind
+seizing !YOU mind
+select !QUESTION !YOU want
+send about !YOU business
+send in !YOU papers
+sending about !YOU business
+sending in !YOU papers
+sends about !YOU business
+sends in !YOU papers
+sent about !YOU business
+sent in !YOU papers
+set up !DETERMINER meeting with !YOU
+settle !YOU differences
+settle !YOU hash
+settle down now
+settled !YOU differences
+settled !YOU hash
+settles !YOU differences
+settles !YOU hash
+settling !YOU differences
+settling !YOU hash
+sey
+seyh
+shall ye
+shape !YOU course
+shape !YOU imagination
+shaped !YOU course
+shaped !YOU imagination
+shapes !YOU course
+shapes !YOU imagination
+shaping !YOU course
+shaping !YOU imagination
+sharpen !YOU
+show !QUESTION !YOU have
+SHOW !YOU
+show !YOU that
+show me !QUESTION !YOU have
+showed !QUESTION !YOU have
+showed me !QUESTION !YOU have
+showing !QUESTION !YOU have
+showing me !QUESTION !YOU have
+shows !QUESTION !YOU have
+shows me !QUESTION !YOU have
+shut !YOU bazoo
+shut !YOU ears
+shut !YOU eyes
+shut !YOU face
+shut !YOU mouth
+shut !YOU trap
+shut !YOU up
+simply choose !QUESTION !YOU
+sincerely yours
+sit back and relax
+sit tight!
+size up !YOU measure
+sized up !YOU measure
+sizes up !YOU measure
+sizing up !YOU measure
+slake !YOU thirst
+slaked !YOU thirst
+slakes !YOU thirst
+slaking !YOU thirst
+slip !YOU
+slipped !YOU
+slipping !YOU
+slips !YOU
+slow down!
+slow up!
+so !YOU
+so be it!
+so far as !YOU !AUX concerned
+sow !YOU wild oats
+sowed !YOU wild oats
+sowing !YOU wild oats
+sows !YOU wild oats
+spare !YOU !DETERMINER details
+speaking highly of !YOU
+speaking of !DETERMINER devil
+speaking out of turn, let me
+speaks highly of !YOU
+spell !YOU for !DETERMINER while
+spike !YOU guns
+stand before !YOU
+stand on !YOU own two feet
+stand to !YOU engagement
+standing before !YOU
+standing on !YOU own two feet
+stands before !YOU
+stands on !YOU own two feet
+starting over with !YOU
+steady as !YOU go
+steadysteady as !YOU go
+steel !YOU
+steel !YOU for
+still !YOU
+still !YOU wine
+stilled !YOU
+stilled !YOU wine
+stilling !YOU
+stilling !YOU wine
+stills !YOU
+stills !YOU wine
+stood on !YOU own two feet
+stop and think about
+studied your body
+studies your body
+study your body
+studying your body
+suck !YOU blood
+suck !YOU breath
+suck !YOU wind
+sucked !YOU blood
+sucked !YOU breath
+sucked !YOU wind
+sucking !YOU blood
+sucking !YOU breath
+sucking !YOU wind
+sucks !YOU blood
+sucks !YOU breath
+sucks !YOU wind
+surrender !YOU colors
+surrendered !YOU colors
+surrendering !YOU colors
+surrenders !YOU colors
+swage !YOU
+talk !YOU into
+talk !YOU out
+talk !YOU out of
+talk !YOU out of it
+talk !YOU out of trying
+talked !YOU out
+talked !YOU out of
+talked !YOU out of it
+talked !YOU out of trying
+talks !YOU out
+talks !YOU out of
+talks !YOU out of it
+talks !YOU out of trying
+tear up !YOU mortgage
+tearing up !YOU mortgage
+tears up !YOU mortgage
+tender !YOU resignation
+tendered !YOU resignation
+tenders !YOU resignation
+tending !YOU resignation
+test !YOU
+test !YOU strength
+tested !YOU strength
+testing !YOU strengh
+tests !YOU strength
+thank !YOU lucky stars
+that's !QUESTION !DETERMINER
+that's !QUESTION !YOU
+that's !YOU
+that's !YOU cue
+that's !YOU pigeon
+that !AUX !QUESTION !DETERMINER
+that !AUX !QUESTION !YOU
+that !YOU
+that makes two of us
+that will make !YOU !DETERMINER better
+thee
+then do so
+there !YOU !AUX
+there !YOU go
+there !YOU go again
+there !YOU have it
+THERE !YOU WILL SEE
+there has to be !DETERMINER way for !YOU
+think !QUESTION !YOU
+think !YOU !AUX it
+think !YOU way through
+think about !QUESTION !YOU
+think again
+think well of !YOU
+thinking !YOU way through
+thinks !YOU way through
+this !AUX coming straight from !DETERMINER horse's mouth
+THIS ALLOWS !YOU TO
+THIS PAPER WILL GUIDE !YOU
+THIS WILL ALLOW !YOU TO
+THIS WILL HELP !YOU
+thou
+thou-shalt-not
+thou breath of Autumn's being
+thou canst
+thou deep and dark blue ocean
+thou didst
+thou scarlet sin
+thou unrelenting past
+thou wast
+thou weed
+thought !YOU way through
+threaten !YOU
+threw !YOU over
+threw off !YOU guard
+threw on !YOU beam ends
+threw out !YOU chest
+through !YOU
+through !YOU eyes
+through to !YOU
+throw !YOU
+throw off !YOU guard
+throw on !YOU beam ends
+throw out !YOU chest
+throwing !YOU over
+throwing off !YOU guard
+throwing on !YOU beam ends
+throwing out !YOU chest
+thrown !YOU over
+throws !YOU over
+throws off !YOU guard
+throws on !YOU beam ends
+throws out !YOU chest
+thy
+thy name !AUX woman
+thy nature's weakness
+thyself
+tighten !YOU belt
+time at !YOU command
+time at !YOU disposal
+time of !YOU
+tip my hat to !YOU
+to !QUESTION extent
+to !YOU
+to !YOU account
+to !YOU by
+to !YOU cost
+to !YOU executors and assigns
+to !YOU face
+to !YOU fancy
+to !YOU heirs
+to !YOU heirs and assigns
+to !YOU knowledge
+to !YOU liking
+to !YOU mind
+to !YOU own ends
+to !YOU surprise
+to !YOU taste
+to !YOU way of thinking
+to be counted on !YOU fingers
+to be like !YOU
+to confirm !YOU
+to hand !YOU
+to hand it to !YOU
+to have !YOU
+to help !YOU
+TO HELP !YOU IN !DETERMINER PROCESS
+TO HELP !YOU,
+to relieve !YOU
+TO SHOW !YOU
+TO THOSE OF !YOU
+toot !YOU own horn
+tooted !YOU own horn
+tooting !YOU own horn
+toots !YOU own horn
+tore up !YOU mortgage
+touch !YOU !HUMANPART
+touched !YOU !HUMANPART
+touches !YOU !HUMANPART
+touching !YOU !HUMANPART
+toward !YOU
+towards !YOU
+transmit to !YOU
+transmit to !YOU that
+trim !YOU
+trim !YOU sails to !DETERMINER breeze
+trouble !YOU head about
+tu
+tune !YOU lyre
+tuum
+twilight of !YOU days
+unburden !YOU
+unburden !YOU conscience
+unburden !YOU heart
+unburden !YOU mind
+unburdened !YOU
+unburdened !YOU conscience
+unburdened !YOU heart
+unburdened !YOU mind
+unburdening !YOU
+unburdening !YOU conscience
+unburdening !YOU heart
+unburdening !YOU mind
+unburdens !YOU
+unburdens !YOU conscience
+unburdens !YOU heart
+unburdens !YOU mind
+under !YOU
+under !YOU belt
+under !YOU breath
+under !YOU care
+under !YOU command
+under !YOU control
+under !YOU eyes
+under !YOU hand
+under !YOU hat
+under !YOU jurisdiction
+under !YOU nose
+under !YOU orders
+under !YOU own power
+under !YOU thumb
+under !YOU very nose
+under !YOU wing
+unless !YOU
+unless !YOU have
+unless !YOU have finished
+until !YOU have
+until !YOU have finished
+up !YOU
+up !YOU alley
+up !YOU pay
+up !YOU sleeve
+up from !YOU
+up to !YOU ears in
+upon !YOU
+upon !YOU hands
+upon !YOU honor
+urge !YOU to
+urge !YOU to see that
+use !YOU endeavor
+use !YOU fine Italian hand
+use !YOU good offices
+use !YOU head
+use !YOU influence
+use !YOU option
+use !YOU palate
+use !YOU wits
+used !YOU endeavor
+used !YOU fine Italian hand
+used !YOU good offices
+used !YOU head
+used !YOU influence
+used !YOU option
+used !YOU palate
+used !YOU wits
+uses !YOU endeavor
+uses !YOU fine Italian hand
+uses !YOU good offices
+uses !YOU head
+uses !YOU influence
+uses !YOU option
+uses !YOU palate
+uses !YOU wits
+using !YOU endeavor
+using !YOU fine Italian hand
+using !YOU good offices
+using !YOU head
+using !YOU influence
+using !YOU option
+using !YOU palate
+using !YOU wits
+vent !YOU anger
+vent !YOU choler
+vent !YOU rancor
+vent !YOU spleen
+vented !YOU anger
+vented !YOU choler
+vented !YOU rancor
+vented !YOU spleen
+venting !YOU anger
+venting !YOU choler
+venting !YOU rancor
+venting !YOU spleen
+vents !YOU anger
+vents !YOU choler
+vents !YOU rancor
+vents !YOU spleen
+very truly yours
+voice !YOU opinion
+voice !YOU opinions
+voiced !YOU opinion
+voiced !YOU opinions
+voices !YOU opinion
+voices !YOU opinions
+voicing !YOU opinion
+voicing !YOU opinions
+wait until !YOU
+wait until !YOU hear
+wait until !YOU hear this
+want to hand !YOU
+want to have !YOU
+warn !YOU
+watch !YOU back
+watch !YOU backside
+watch !YOU step
+watch !YOU weight
+watch out behind !YOU
+watched !YOU step
+watches !YOU step
+watches !YOU weight
+watching !YOU step
+we'll have for !YOU
+went to !YOU
+were !YOU ever
+what's !DETERMINER world treating !YOU
+what's !YOU
+what's !YOU take on
+what's every little thing
+what's in it for !YOU
+what's it to !YOU
+what's new
+what's new with
+what's new with !YOU
+what's not to like
+what's tricks
+what !YOU !AUX  in for
+what you have always done
+whatever !YOU
+whatever !YOU !MODAL
+whatever !YOU desire
+whatever !YOU do
+whatever !YOU need
+whatever !YOU want
+whatever !YOU wish
+wherever you look
+wherever you turn
+whether !YOU !AUX to
+whether you're
+which side !AUX !YOU on
+WHILE !YOU !MODAL THINK
+while !YOU wait
+whisper in !YOU ear
+whispered in !YOU ear
+whispering in !YOU ear
+whispers in !YOU ear
+whither !AUX !YOU
+whom !MODAL  !YOU be
+whom !YOU shall
+whom were !YOU
+will be with !YOU directly
+will be with !YOU shortly
+will break it down for !YOU
+will have for !YOU
+WILL HELP !YOU
+WILL LAY BEFORE !YOU
+WILL LAY BEFORE !YOU !DETERMINER
+WILL LAY BEFORE !YOU !DETERMINER REASONS
+will make !YOU
+WILL notify !YOU
+WILL notify !YOU THAT
+willing to field !YOU questions
+wind !YOU way
+with !YOU
+with !YOU ok
+with !YOU okay
+with !YOU own
+with all !YOU have at !YOU disposal
+with regard to !YOU
+with respect to !YOU
+within !YOU
+won't make !YOU
+worth !YOU while
+write !YOU
+yeah !YOU know
+yes
+yes, you
+yet !QUESTION about
+yet !QUESTION of
+yield !YOU to passion
+yield yourselves to passion
+yielded !YOU to passion
+yielded yourselves to passion
+yielding !YOU to passion
+yielding yourselves to passion
+yields !YOU to passion
+yields yourselves to passion
+you're
+you're always
+you're being
+you're darn tootin'
+you're going to
+you're in
+you're never short of
+you're not kidding
+you're not short of
+you're on
+you're pretty
+you're telling me
+you're welcome
+you're welcome to
+you's
+YOU-be-damned
+YOU-be-damnedness
+YOU-know-!QUESTION
+YOU-know-who
+YOU-uns
+you !AUX all
+you !AUX all different
+you !AUX all unique
+you can see yourself
+yours
+yours truly
+yours truly,
+yourself
+yourselves

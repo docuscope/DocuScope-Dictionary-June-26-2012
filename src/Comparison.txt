@@ -1,0 +1,1998 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX analogous to
+!AUX as much !DETERMINER
+!AUX CONTRASTED TO
+!AUX CONTRASTED WITH
+!AUX DIFFERENT
+!AUX DIFFERENT FROM
+!AUX DIFFERENT THAN
+!AUX dumber
+!AUX eveners
+!AUX less than
+!AUX LIKEWISE
+!AUX more than
+!AUX much !DETERMINER same
+!AUX OLDER THAN
+!AUX poorer than
+!AUX related as
+!AUX RICHER THAN
+!AUX SHORTER THAN
+!AUX SIMILARLY
+!AUX SMARTER
+!AUX TALLER THAN
+!AUX tantamount
+!AUX tantamount to
+!AUX tantamount to !DETERMINER
+!AUX the same
+!AUX VERY DIFFERENT
+!AUX YOUNGER THAN
+!CAST in !DETERMINER different mold
+!CAST in !DETERMINER same mold
+!DETERMINER bit different
+!DETERMINER bit similar
+!DETERMINER contrast of
+!DETERMINER contrasts of
+!DETERMINER converse
+!DETERMINER corresponding
+!DETERMINER difference between
+!DETERMINER dozen times more
+!DETERMINER EARLIER
+!DETERMINER farther back in time
+!DETERMINER FEWER
+!DETERMINER greater gods
+!DETERMINER greater number
+!DETERMINER HIGHER
+!DETERMINER identical
+!DETERMINER larger dog
+!DETERMINER larger dogs
+!DETERMINER larger of
+!DETERMINER LATER
+!DETERMINER LESS
+!DETERMINER LESS SO
+!DETERMINER LONGER !DETERMINER
+!DETERMINER LOWER
+!DETERMINER MORE
+!DETERMINER MORE SO
+!DETERMINER opposite
+!DETERMINER opposite extreme
+!DETERMINER opposite extremes
+!DETERMINER opposite of
+!DETERMINER polar opposite
+!DETERMINER polar opposites
+!DETERMINER poor man's Parnassus
+!DETERMINER pursier
+!DETERMINER pursiest
+!DETERMINER same
+!DETERMINER same as
+!DETERMINER same difference
+!DETERMINER same differences
+!DETERMINER same factor
+!DETERMINER same factors
+!DETERMINER same group
+!DETERMINER same groups
+!DETERMINER same in
+!DETERMINER same thing
+!DETERMINER same things
+!DETERMINER same way
+!DETERMINER same ways
+!DETERMINER selfsame
+!DETERMINER sharp contrast
+!DETERMINER sharp contrast between
+!DETERMINER smaller of
+!DETERMINER very opposite of
+!DO as much as
+!DO as much as in one lies
+!DO less than
+!DO more than
+!DRAW !DETERMINER comparison
+!DRAW !DETERMINER parallel
+!GET ahead of
+!GO FARTHER
+!GO FURTHER
+!GO FURTHER at
+!GO FURTHER THAN
+!HAVE as much to do with
+!HAVE as much to do with !DETERMINER
+!HAVE less than
+!HAVE more than
+!LEAD by !NUMS1TO100
+!MAKE !DETERMINER comparison
+!NUMS1TO100 times as
+!NUMS1TO100 times as many
+!NUMS1TO100 TIMES AS MUCH
+!NUMS1TO100 times faster than
+!NUMS1TO100 times slower than
+!RUN !DETERMINER comparison
+!SET in contrast
+!TAKE additional
+!TAKE fewer
+!TAKE less
+!TAKE more
+, whereas
+about the same
+about the same as before
+above last !TIMEFRAME
+above last month's
+above last week's
+above last year's
+above next !TIMEFRAME
+above next month's
+above next week's
+above next year's
+above next!TIMEFRAME
+acuter
+acutest
+against that of
+age-coeval
+age difference
+ahead of
+ahead one-third
+ahead standard
+ahead two-thirds
+ALMOST AS MUCH AS !DETERMINER
+ampler
+amplest
+an equivalent of
+an equivalent to
+an uneven
+analog
+analogic
+analogical
+analogically
+analogies
+analogize
+analogizes
+analogizing
+analogous
+analogous to
+analogs
+analogue
+analogues
+analogy
+another approach
+another method
+another route
+another way
+any less than
+any more than
+are !DETERMINER same
+as against
+as ambitious as
+as an analogy
+as any
+as any other
+as are
+as bad as
+as broad as
+as compared with
+as earnest as
+as friendly as
+as from
+as full as
+as good as
+as had been
+as have been
+as is
+as like as
+as like as can be
+as little as
+as much
+as much !DETERMINER
+as much as
+AS MUCH AS !PRONOUNNOMINAL DID
+AS MUCH AS !PRONOUNNOMINAL USED
+as much as to say as
+as much stock in
+as negative as
+as new as
+as nice as
+as others,
+as others.
+as out of
+as positive as
+as pretty as
+as rich as
+as rough as
+as smart as
+as some
+as some,
+as some.
+as sweet as
+as tall as
+as that
+as that !AUX
+as this
+as this !AUX
+as those who
+As varied as
+as was
+as were
+ashier
+ashiest
+askewest
+at one and !DETERMINER same
+at one and !DETERMINER same time
+at things different
+at things differently
+baggier
+baggiest
+balder
+balmier
+balmiest
+barer
+barest
+barkier
+barkiest
+be !DETERMINER equivalent
+be !DETERMINER equivalent of
+beefier
+beefiest
+behind last !TIMEFRAME
+behind next !TIMEFRAME
+below last month's
+below last week's
+below last year's
+below next month's
+below next week's
+below next year's
+benchmark
+benchmarked
+benchmarking
+benchmarks
+best
+bested
+besting
+better
+better-advised
+better-affected
+better-balanced
+better-becoming
+better-behaved
+better-born
+better-bred
+better-considered
+better-disposed
+better-dressed
+better-humored
+better-informed
+better-knowing
+better-known
+better-liked
+better-liking
+better-meant
+better-natured
+better-omened
+better-principled
+better-regulated
+better-seasoned
+better-structured
+better-taught
+better-witted
+better days
+better for
+BETTER FOR !DETERMINER
+better half
+better look
+better looks
+better part
+better self
+better sort
+better structured
+better suited for
+BETTER THAN
+better than I.
+better than nothing
+better than others
+better than some
+better thoughts
+better time
+better yourself
+beyond last !TIMEFRAME
+beyond last month's
+beyond last week's
+beyond last year's
+beyond next !TIMEFRAME
+beyond next month's
+beyond next week's
+beyond next year's
+bigger
+biggest
+biggest frog in !DETERMINER pond
+bird of another feather
+birds of !DETERMINER feather
+birds of another feather
+blacker than
+blancher
+blander than
+blandest
+blunter
+bluntest
+bolder
+boldest
+bossier
+bossiest
+brainier
+brainiest
+braver
+bravest
+briefer
+briefest
+brisker
+briskest
+broader
+broadest
+browner
+brownest
+bulkier
+bulkiest
+busier
+busiest
+by !NUMS1TO100 !TIMEFRAME
+by a hair
+by a head
+by a nose
+by a same sign
+BY COMPARISON
+by comparison with
+calmer
+calmest
+can hold cards and spades to
+cantier
+cantiest
+cheaper
+cheapest
+cheerier
+cheeriest
+chewier
+chewiest
+chillier
+chilliest
+classier
+classiest
+clearer
+clearest
+cleverer
+cleverest
+closer
+CLOSER TO
+closest
+closest to
+coarser
+coarsest
+cockier
+cockiest
+coequal
+coequality
+coequally
+coequals
+coetaneous
+coetaneously
+coetaneousness
+coeval
+coevality
+coevally
+colder
+colder than
+coldest
+colored differently
+commeasure
+commeasured
+commeasures
+commeasuring
+commensurate
+commensurate with
+commensurately
+commonest
+comparably
+comparatist
+comparative
+comparatively
+comparatively HEALTHIER
+comparativeness
+comparatives
+comparativist
+COMPARE
+compare and contrast
+compare notes
+compare point by point
+compare this to
+compare this with
+compare to
+compare with
+COMPARED
+compared and contrasted
+compared notes
+compared point by point
+compared to
+COMPARED WITH
+COMPARES
+compares and contrasts
+compares notes
+compares point by point
+compares to
+compares with
+COMPARING
+comparing and contrasting
+comparing notes
+comparing point by point
+COMPARING TO
+comparing with
+comparison
+complement !DETERMINER
+complement !POSSESSIVEPRONOUN
+complement !PRONOUNOBJECTIVE
+complement of
+complemented
+complemented !DETERMINER
+complemented !POSSESSIVEPRONOUN
+complemented !PRONOUNOBJECTIVE
+complementing
+complementing !DETERMINER
+complementing !POSSESSIVEPRONOUN
+complementing !PRONOUNOBJECTIVE
+complements
+complements !DETERMINER
+complements !POSSESSIVEPRONOUN
+complements !PRONOUNOBJECTIVE
+completer
+completest
+concurrence
+concurrent
+concurrent processes
+concurrent with
+concurrents
+confocal
+confocally
+CONSIDERABLY MORE
+constrasts
+contradistinguish
+contradistinguished
+contradistinguishes
+contradistinguishing
+contrast
+contrast !DETERMINER
+contrast between
+CONTRAST FROM
+contrast of
+contrast this to
+CONTRAST TO
+CONTRAST TO !DETERMINER
+CONTRAST WITH
+contrastable
+contrastably
+contrasted !DETERMINER
+CONTRASTED FROM
+contrasting
+CONTRASTING FROM
+CONTRASTING TO
+contrasting to !DETERMINER
+CONTRASTING WITH
+contrastive
+contrasts
+contrasts between
+CONTRASTS FROM
+contrasts of
+CONTRASTS TO
+CONTRASTS WITH
+cooler
+coolest
+corkier
+corkiest
+correspond to
+corresponded to
+corresponding
+corresponding to
+corresponds to
+costlier
+costliest
+could hold cards and spades to
+counterpart
+counterparts
+counterpoise
+counterpoised
+counterpoises
+counterpoising
+creamier
+creamiest
+crisper
+crispest
+crispier
+crispiest
+crumbier
+crumbiest
+crunchier
+crunchiest
+crustier
+crustiest
+cut from !DETERMINER same cloth
+cut from !DETERMINER same mold
+cut of !DETERMINER same cloth
+cut of !DETERMINER same mold
+daffier
+daffiest
+daintier
+daintiest
+darker
+darkest
+deader
+deadest
+deafer
+deafest
+dearer
+deeper
+deepest
+defter
+deftest
+denser
+densest
+deviance
+deviant
+deviation
+deviation from
+deviations
+deviations from
+did it better
+did it better than
+dif
+diff
+diff.
+differ
+differ from
+DIFFER FROM !DETERMINER
+differ in opinion
+differed
+differed from
+differed in opinion
+difference
+difference between
+difference from
+difference in
+difference of form
+difference of opinion
+differenced
+differences
+differences across
+differences among
+differences amongst
+differences of form
+differences of opinion
+different
+different as night and day
+DIFFERENT AS NIGHT AND DAY FROM
+different color
+different frequencies
+different frequency
+different from
+different in
+different sites
+different situation
+different situations
+different story
+different than
+different thing
+different tune
+different tunes
+different type
+different type of
+differentia
+differentiability
+differentiable
+differential
+differentially
+differentials
+differentiate
+differentiates
+differentiating
+differentiation
+DIFFERENTLY
+differing
+differing from
+differing in opinion
+differs
+differs from
+DIFFERS FROM !DETERMINER
+differs in opinion
+direct opposites
+directly opposite
+DIRTIER
+disease similar to
+diseases similar to
+disproportion
+disproportional
+disproportionate
+disproportionately
+disproportionateness
+disproportions
+dissimilar
+dissimilarities
+dissimilarity
+dissimilarly
+dissimilitude
+DISTINCT FROM
+distinguish
+distinguish among
+distinguish between
+DISTINGUISHABLE FROM
+distinguished among
+distinguished between
+distinguishes
+distinguishes among
+distinguishes between
+distinguishing
+distinguishing among
+distinguishing between
+diverge
+diverged
+divergence among
+divergence between
+divergences
+divergences among
+divergences between
+divergent
+divergently
+diverges
+diverging
+DOUBLE !DETERMINER INCOME
+DOUBLE !DETERMINER SALARY
+downier than
+driest
+drippier
+drippiest
+dryer than
+DULLER
+DULLER THAN
+DUMBER
+dwarfed
+dwarfing
+EARLIER THAN
+earthier
+earthiest
+earthlier
+earthliest
+eldest
+eldest hand
+eldest of things
+emptier
+emptiest
+eq.
+equal
+equal-angled
+equal-aqual
+equal-area
+equal-area projection
+equal-area projections
+equal-armed
+equal-balanced
+equal-blooded
+equal-eyed
+equal-glumed
+equal-handed
+equal-headed
+equal-limbed
+equal-poised
+equal-souled
+equal-weighted
+equal !DETERMINER
+equal share
+equal shares
+equal temperament
+equal temperaments
+equal temperature
+equal temperatures
+equal to
+equaled by !DETERMINER
+equaled to
+equaling
+equaling to
+equally
+equally good
+equals
+equals !DETERMINER
+equals to
+equate
+equated in
+equates
+equating
+equiponderance
+equiponderances
+equiponderate
+equiponderates
+equipotential
+equipotentials
+equiprobable
+equiprobables
+equiv.
+equivalence
+equivalences
+equivalencies
+equivalency
+equivalent
+equivalent to
+equivalently
+equivalents
+EVEN ANGRIER
+EVEN DIRTIER
+EVEN DUMBER
+EVEN HARDER
+EVEN LONGER
+EVEN MORE IMPORTANT
+EVEN POORER
+EVEN SICKER
+even strength
+even up
+even with
+EVEN WORSE
+evened up
+evened with
+evener than
+evening !PRONOUNOBJECTIVE with
+evening up
+evenly
+evenly-matched
+evenly matched
+evenness
+evens up
+evens with
+evil for evil
+exact counterpart
+exact counterparts
+exact mate
+exact mates
+fairer
+fairest
+fancier
+fanciest
+far beyond !DETERMINER
+far less
+FAR LESS SO THAN !DETERMINER
+FAR LESS SO THAN THAT
+FAR LESS THAN
+FAR LESS THAN !DETERMINER
+FAR MORE SO THAN !DETERMINER
+FAR MORE SO THAN THAT
+FAR MORE THAN !DETERMINER
+far other
+far others
+far removed
+far removed from
+farther back in time
+farther off
+farther out
+farther reaching
+farther reaching than
+farthest off
+faster
+faster than
+faster than sound
+fastest
+fatter
+fattest
+fattier
+fattiest
+FEWER
+FEWER THAN
+FEWER THAN !DETERMINER
+fewest
+figure of comparison
+figures of comparison
+filmier
+filmiest
+finer
+finickier
+finickiest
+finnier
+finniest
+firmer
+firmest
+fishier
+fishiest
+fitter than
+flattest
+fleecier
+fleeciest
+fleeter
+fleetest
+fleshier
+fleshiest
+fleshlier
+fleshliest
+Flipside
+flipsides
+focus instead
+focus instead on
+focused instead
+focused instead on
+focuses instead
+focuses instead on
+focusing instead
+focusing instead on
+foggier
+foggiest
+fonder
+fondest
+for less than
+for more than
+four-year-older
+foxier
+foxiest
+freer
+freest
+frillier
+frilliest
+from different
+frostier
+frostiest
+fuller
+fuller than
+funnier
+funniest
+furrier
+furriest
+further than
+fustier
+fustiest
+gabbier
+gabbiest
+gamier
+gamiest
+gassier
+gassiest
+gayer
+gayest
+glassier
+glassiest
+GLOOMIER
+GLOOMIER THAN
+glossier
+glossiest
+goodlier
+goodliest
+gooier
+gooiest
+goosiest
+gorier
+goriest
+grassier
+grassiest
+greater
+greater control
+greater hand
+greater hand in
+greater hands
+greater than
+greater variety
+greatest
+greener
+greenest
+had !DETERMINER lot in common with
+haler than
+halfpennyworth
+HARDER
+hardest
+HARSHER
+HARSHER THAN
+has !DETERMINER lot in common with
+hastier
+hastiest
+have !DETERMINER lot in common with
+having !DETERMINER lot in common with
+hazier
+haziest
+head and shoulder below
+head and shoulders above
+heads and shoulders above
+heads and shoulders below
+heavier
+heaviest
+heftier
+heftiest
+higher
+higher-up
+higher-ups
+HIGHER MARK
+HIGHER MARKS
+higher proportion
+higher proportions
+higher ratio
+higher ratios
+HIGHER SCORE
+HIGHER THAN
+higher than normal
+highest
+highest-ranking
+highest-rankings
+highest categories
+highest category
+highest degree
+highest degrees
+highest pitch
+highest pitches
+highest point
+highest points
+highest proportion
+highest proportions
+highest ratio
+highest ratios
+highest type
+highest types
+hipper
+hippest
+holier
+homier
+homiest
+hornier
+horniest
+hotter
+hotter than
+hottest
+humbler
+humblest
+humpier
+hungrier
+hungriest
+huskier
+huskiest
+icier
+iciest
+identical
+identically
+identicalness
+idlest
+IF NOT STILL MORE
+in !DETERMINER different manner
+in !DETERMINER rankings
+in !DETERMINER same
+in !DETERMINER same boat
+IN !DETERMINER SAME BOAT AS
+in !DETERMINER same categories
+in !DETERMINER same category
+in !DETERMINER same manner
+in !DETERMINER same way
+in !DETERMINER same way as
+in !DETERMINER same ways
+in !DETERMINER same words
+in analogy
+in analogy with
+in comparison to
+IN COMPARISON WITH
+in different
+in differently
+in equal
+in equal measure
+in equal measures
+in equal shares
+in excess
+in excess of
+in favor of
+in juxtaposition
+IN LESS
+in like manner
+in much !DETERMINER same
+in much !DETERMINER same way
+in parallel
+in proportion
+in proportion to
+in proportion with
+in similar
+in similarly
+incr.
+INFERIOR TO
+inferiority of
+inkier
+inkiest
+ipsissima verba
+ipsissimis verbis
+is !DETERMINER same
+it's different
+it's different from
+it's different than
+it's the same
+it's the same as
+IT'S WORSE THAN
+it contrasts with
+it is different
+it is different from
+it is different than
+it is the same
+it is the same as
+jerkier
+jerkiest
+joltier
+joltiest
+JUDGES IT BETTER TO
+JUDGES IT WORSE TO
+just alike
+just as
+just in !DETERMINER same way
+just in !DETERMINER way as
+just in !DETERMINER way of
+just like
+just like everybody
+just like one
+just like that
+juxtapose
+JUXTAPOSE !DETERMINER
+juxtaposed
+juxtaposes
+juxtaposing
+JUXTAPOSING !DETERMINER
+JUXTAPOSING OF
+juxtaposition
+juxtapositions
+keenest
+kinder
+kinglier
+kingliest
+knew better
+knew better than
+knobbier
+knobbiest
+knobbliest
+know better
+know better than
+knowing better
+knowing better than
+knows better
+knows better than
+larger
+larger-size
+larger-sized
+larger bodies of water
+larger body of water
+larger than
+larger unit
+larger units
+largest
+largest unit
+largest units
+LATER THAN
+LATER THAN YOU THINK
+laxer
+laxest
+leaner
+leanest
+least
+LEAST OF
+lengthier
+lengthiest
+LESS
+LESS COMMONLY THAN
+less complex
+LESS ENTHUSIASTIC
+LESS FAVORABLE TO
+LESS FOR
+LESS IMPORTANT
+LESS IN
+less involved
+less of an
+LESS OFTEN
+LESS OFTEN THAN
+less so
+less so than
+LESS THAN
+LESS THAN !DETERMINER
+less than 10%
+less than 100%
+less than 20%
+less than 30%
+less than 40%
+less than 50%
+less than 60%
+less than 70%
+less than 80%
+less than 90%
+LESS THAN JUST !DETERMINER
+less that
+less well suited for
+lesser
+leveller
+levellers
+lighter
+lighter staff
+lighter staffs
+lighter than
+lightest
+like dozens of
+like hundreds of
+like many of
+like millions of
+like most
+like most people
+like scores of
+like tens of
+like thousands of
+likelier
+likeliest
+LITTLE OF
+littler
+littlest
+loamier
+loamiest
+longer
+LONGER OF
+longest
+looser
+loosest
+lordlier
+lordliest
+louder
+loudest
+lower
+LOWER DOWN THAN
+LOWER MARK
+LOWER MARKS
+lower proportion
+lower proportions
+lower ratio
+lower ratios
+LOWER SCORE
+LOWER THAN
+lower than normal
+lowermost
+lowest
+lowest proportion
+lowest proportions
+lowest ratio
+lowest ratios
+made !DETERMINER comparison
+made less of
+made more of
+make !DETERMINER comparison
+make less of
+make more of
+makes !DETERMINER comparison
+makes less of
+makes more of
+making !DETERMINER comparison
+making less of
+making more of
+many more
+marshier
+marshiest
+mealier
+mealiest
+measure against
+measured against
+measures against
+measuring against
+meatier
+meatiest
+messier
+messiest
+microscopic contrast
+microscopic contrasts
+microscopic distinction
+microscopic distinctions
+mightier
+mightier than
+milder
+mildest
+milkier
+milkiest
+minutest
+moldier
+moldiest
+MORE
+MORE !DETERMINER
+more acute
+more closely
+more closely than
+more closely than any
+more closely than any other
+MORE COMMONLY THAN
+more complete
+more complex
+more complex than
+more concrete
+more detailed
+more details
+more details about
+more details regarding
+MORE FOR
+MORE IMPORTANT
+MORE IMPORTANTLY
+more involved
+MORE MARGINAL
+more of an
+MORE OFTEN
+MORE OFTEN THAN
+more so
+more so than
+MORE THAN
+more than !DETERMINER
+more than 10%
+more than 100%
+more than 20%
+more than 30%
+more than 40%
+more than 50%
+more than 60%
+more than 70%
+more than 80%
+more than 90%
+MORE THAN JUST !DETERMINER
+more than someone else
+more than someone else's
+more that
+more time
+MORE TO IT THAN MEETS !DETERMINER EYE
+mossier
+mossiest
+most
+most acute
+most closely
+mouthier than
+mouthiest than
+much-older
+much-younger
+much !DETERMINER same as
+much !DETERMINER same as !DETERMINER
+much !DETERMINER same as !POSSESSIVEPRONOUN
+much harder
+much larger than
+MUCH LESS THAN
+much like !DETERMINER way
+MUCH MORE THAN
+much older
+much smaller than
+much younger
+muddier
+muddiest
+murkier
+murkiest
+narrower
+narrowest
+near-related
+nearer than
+NEARER TO
+neater
+neatest
+neck and neck with
+newer
+newsier
+newsiest
+next best
+next best thing
+nicer
+nippier
+nippiest
+no different
+no less
+no less than
+no less than !DETERMINER
+no longer than
+no more and no less
+no more beyond
+no more than
+no more than !DETERMINER
+no nearer
+no other than !DETERMINER
+no place higher
+no shorter than
+nobler
+nothing less than
+nothing less than !DETERMINER
+nothing more than
+nothing more than !DETERMINER
+nothing other than
+nothing other than !DETERMINER
+numerous similiar
+of another sort
+of difference
+of different orders
+oftener
+oilier
+oiliest
+older
+oldest
+on !DETERMINER difference between
+on !DETERMINER par
+on !DETERMINER par with
+on !DETERMINER same
+on !DETERMINER same footing
+on !DETERMINER same level
+on !DETERMINER same level as
+on !DETERMINER same level of
+on !DETERMINER same old round
+on !DETERMINER same plane
+on different sides
+one and !DETERMINER same
+one dozen times more
+opposite
+opposite number
+opposite numbers
+opposite sex
+opposite sexes
+opposite to
+oppositely
+oppositeness
+opposites
+opposites to
+other approaches
+other methods
+other routes
+other side of !DETERMINER coin
+other side of !DETERMINER picture
+other ways
+outgo
+outgo !DETERMINER
+outgo !POSSESSIVEPRONOUN
+outgo !PRONOUNOBJECTIVE
+outgoes
+outgoes !DETERMINER
+outgoes !POSSESSIVEPRONOUN
+outgoes !PRONOUNOBJECTIVE
+outgoing !DETERMINER
+outgoing !POSSESSIVEPRONOUN
+outgoing !PRONOUNOBJECTIVE
+parallel
+parallel with
+parallel with !DETERMINER
+paralleling in
+paralleling with
+parallelism
+parallelisms
+parallels
+peppier
+peppiest
+plainer
+plainest
+point-by-point
+point-by-point comparison
+point-by-point comparisons
+point-for-point
+POORER
+porkier
+porkiest
+pretty much !DETERMINER same
+pretty much !DETERMINER same as
+pretty much all !DETERMINER same
+primmer
+primmest
+proportion
+proportional
+proportionality
+proportionally
+proportionate
+proportionately
+proportioned
+proportioning
+proportions
+quicker
+quickest
+quieter
+quietest
+racier
+raciest
+radically different in
+rainier
+rainiest
+rank against
+rank beneath
+rank first
+rank high
+rank low in comparison
+rank out
+rank under
+ranked against
+ranked beneath
+ranked by !DETERMINER
+ranked first
+ranked high
+ranked in !DETERMINER bottom
+ranked in !DETERMINER top
+ranked low in comparison
+ranked out
+ranked under
+ranker
+rankest
+ranking against
+ranking beneath
+ranking first
+ranking high
+ranking low in comparison
+ranking out
+ranking under
+rankings
+ranks against
+ranks beneath
+ranks first
+ranks high
+ranks low in comparison
+ranks out
+ranks under
+rarer
+rasher than
+rate against
+rate with
+rated against
+rated with
+rates against
+rates with
+rating against
+rating with
+rawer
+rawest
+readier
+readiest
+realer
+realest
+reciprocation between
+reciprocities
+redder
+reddest
+RELATE WITH
+RELATED WITH
+related word
+related words
+relatedness
+RELATES WITH
+RELATING WITH
+RELATIVE TO
+RELATIVE TO !DETERMINER
+RELATIVE TO !DETERMINER FACT
+relatively
+remotely related
+remoter
+remotest
+REQUIRED !DETERMINER LOT MORE EFFORT THAN
+rich as
+rich as Croesus
+RICHER
+righter
+riper
+riskier
+riskiest
+rosier
+rougher
+roughest
+rounder than
+roundest
+rustier
+rustiest
+rustiness
+sager
+sagest
+sallower
+sallowest
+saltier
+saltiest
+same
+same but different
+same categories
+same category
+same cloth
+same cloths
+same factor
+same factors
+same frequencies
+same frequency
+same in
+same manner
+same manners
+same mold
+same molds
+same sites
+same thing
+same things
+same way
+same ways
+same word
+same words
+sandier
+sandiest
+sappier
+sappiest
+sassier
+sassiest
+sauciest
+scalier
+scaliest
+scantier
+scantiest
+scarcer
+scarcest
+scruffier
+scruffiest
+seediest
+seemlier
+seemliest
+selfsame
+selfsameness
+serenest
+set her off from
+set him off from
+set it off from
+set me off from
+set off in comparison
+set offs in comparison
+set them off from
+set us off from
+set you off from
+setoff
+setoff against
+setoffs
+setoffs against
+sets her off from
+sets him off from
+sets it off from
+sets me off from
+sets them off from
+sets us off from
+sets you off from
+setting her off from
+setting him off from
+setting it off from
+setting me off from
+setting them off from
+setting us off from
+setting you off from
+severer
+severest
+sexier
+sexiest
+shabbier
+shabbiest
+shade of difference
+shades of difference
+shadier
+shadiest
+shaggier
+shaggiest
+shakier
+shallower
+shallowest
+shapelier
+shapeliest
+sharp contrast
+sharper
+sharper than
+sharper than !DETERMINER serpent's tooth
+sharpest
+sheerer
+sheerest
+shier
+shiest
+shinier
+shiniest
+shoddier
+shoddiest
+SHORTER
+SHORTER OF
+shortest
+showier
+showiest
+shriller
+shrubbier
+shrubbiest
+shyer
+shyest
+silkier
+silkiest
+similar
+similar and related
+similar and related to
+similar color
+similar colors
+similar sound
+similar sounding
+similar soundings
+similar sounds
+similar to
+similar to !DETERMINER way
+similar to that
+similar to that of
+similarities
+similarities across
+similarities between
+similarity
+similarity between
+similarity to
+similarly
+similarly-aged
+similarly aged
+similarly to !DETERMINER way
+similars
+similitude
+simpler
+simpler in
+simpler than
+simplest
+simulcast
+simulcasted
+simulcasting
+simulcasts
+simultaneous
+simultaneous with
+simultaneously
+simultaneously with
+simultaneousness
+skinnier
+skinniest
+slacker than
+slackest
+sleeker
+sleekest
+sleepier
+sleepiest
+slenderer
+slenderest
+slickest
+slier of
+sliest of
+slighter
+slightest
+SLIGHTLY DIFFERENTLY
+slimmer
+slimmest
+slimpsier
+slimpsiest
+slipperier
+slipperiest
+slower
+slower than
+slowest
+slushier
+slushiest
+slyer
+slyest
+smaller
+smaller-size
+smaller-sized
+smaller than
+smaller unit
+smaller units
+smallest
+smallest unit
+smallest units
+SMARTER
+smartest
+smellier
+smelliest
+smokier
+smokiest
+snappier
+snappiest
+so much as
+so much as !DETERMINER
+soapier
+soapiest
+soberer
+softer
+softest
+solemner
+some more
+someone elses'
+SOMETHING LESS THAN
+SOMETHING MORE THAN
+SOMEWHAT DIFFERENT
+SOMEWHAT DIFFERENTLY
+SOMEWHAT UNLIKE WHAT YOU KNOW
+sooner
+soonest
+soother
+sounder
+soundest
+sparer
+sparest
+sparser
+sparsest
+speed-comparison
+speed-comparisons
+speed comparison
+speed comparisons
+speedier
+speediest
+spicier
+spiciest
+spinier
+spiniest
+splashier
+splashiest
+spookier
+spookiest
+sportier
+squarer
+squarest
+stack up against
+stack up with
+stacked up against
+stacked up with
+stacking up against
+stacking up with
+stacks up against
+stacks up with
+stagier
+stagiest
+stand vis-a-vis
+standing vis-a-vis
+stands vis-a-vis
+starchier
+starchiest
+starker
+starrier
+starriest
+stauncher
+steadier
+steadiest
+stealthier
+stealthiest
+steamier
+steamiest
+steelier
+steeliest
+steeper
+steepest
+step-for-step
+step for step
+sterner
+sternest
+stiffer
+stiffest
+STILL LESS SO
+STILL MORE SO
+stiller
+stillest
+stockier
+stockiest
+stonier
+stoniest
+stood vis-!DETERMINER-vis
+stormier
+stormiest
+stouter
+stoutest
+straighter
+straightest
+streakier
+streakiest
+stronger
+stronger point
+stronger points
+strongest
+stuffier
+stuffiest
+STUPIDER
+STUPIDER THAN
+sturdier
+sturdiest
+subtler
+subtlest
+sunnier
+sunniest
+SUPERIOR TO
+superiority of
+suppler
+supplest
+swampier
+swampiest
+swanker
+swankier
+swankiest
+swifter
+swiftest
+TALLER
+tallest
+tamest
+tanner than
+tannest
+tantamount
+tantamount to
+tarter
+tartest
+tauter
+tautest
+tenderer than
+testier
+testiest
+THAN
+than !DETERMINER
+THAN !PRONOUNNOMINAL USED TO
+than about
+than about !DETERMINER
+than any
+than any other
+THAN AS !PRONOUNNOMINAL DID
+than he does
+than I do
+than I.
+than if
+than it could have
+than it does
+than it may have
+than it might have
+than it should have
+than it sounds
+than other
+than others
+than she does
+THAN THAT IT !AUX
+than they do
+than to
+than we do
+than what
+than what !DETERMINER
+than with
+than you do
+that are less
+that are less than
+that are more
+that are more than
+that is more
+that will more
+the closer
+the farther
+the same way
+there are differences
+there are major differences
+they are one and !DETERMINER same
+thicker
+thickest
+THINK ABOUT IT DIFFERENTLY
+THINK DIFFERENTLY
+THINK LESS OF
+THINK MORE OF
+THINKING ABOUT IT DIFFERENTLY
+THINKING DIFFERENTLY
+THINKING LESS OF
+THINKING MORE OF
+THINKS ABOUT IT DIFFERENTLY
+THINKS DIFFERENTLY
+THINKS IT BETTER TO
+THINKS IT WORSE TO
+THINKS LESS OF
+THINKS MORE OF
+thinner than
+thinnest
+thirstier
+thirstiest
+THOUGHT ABOUT IT DIFFERENTLY
+THOUGHT DIFFERENTLY
+THOUGHT LESS OF
+THOUGHT MORE OF
+tighter
+tightest
+timelier
+timeliest
+times faster than
+times more
+times more than
+times slower than
+tinier
+tiniest
+tinnier
+tinniest
+tipsier
+tipsiest
+to !DETERMINER same
+to !DETERMINER same degree
+to one and !DETERMINER same
+to one person
+topper
+toppers
+torchier
+tougher
+toughest
+tradeoff
+tradeoffs
+trail by !NUMS1TO100
+trailed by !NUMS1TO100
+trailing by !NUMS1TO100
+trails by !NUMS1TO100
+trendier
+trendiest
+trimmer
+trimmest
+tubbier
+tubbiest
+tubbiness
+twice as much
+two of !DETERMINER kind
+under !DETERMINER same sign
+unequal
+unequal-lengthed
+unequal-limbed
+unequal-lobed
+unequal-sided
+unequal-tempered
+unequal-valved
+unequal to
+unequal treatments
+unequaled to
+unequaling
+unequaling to
+unequals
+unequals to
+uneven-aged
+uneven-carriaged
+uneven-numbered
+uneven-priced
+uneven-roofed
+uneven in
+unexempt
+unexempted
+unexempting
+unexempts
+unexpended balance
+unexpended balances
+unlike
+UNLIKE !DETERMINER
+unlikeness
+VERY DIFFERENTLY
+very much like !DETERMINER way
+vis-a-vie
+wanner
+wannest
+warmer
+warmer than
+warmest
+washier
+washiest
+waterier
+wavier
+waviest
+waxier
+waxiest
+weaker point
+weaker points
+weakness-comparison
+weakness-comparisons
+weakness comparison
+weakness comparisons
+weedier
+weediest
+weenier
+weeniest
+weensier
+weensiest
+weightier
+weightiest
+well over
+wetter
+wettest
+WHAT'S MORE IMPORTANT IS THAT
+what distinguishes
+wheat from !DETERMINER chaff
+which are less
+which are less than
+which are more
+which are more than
+which is less
+which is less than
+which is more
+which is more than
+which will more
+whiter
+whitest
+wider
+widest
+wieldier
+wieldiest
+with different
+WITH LESS OF
+WITH MORE OF
+woodier
+woodiest
+woodsier
+woodsiest
+worldlier
+worldliest
+wormier
+wormiest
+worse than others
+worse than some
+worser
+yardstick against which
+yarer
+yarest
+yolkier
+yolkiest
+YOUNGER
+youngest
+zinckier
+zinckiest
+zippier
+zippiest

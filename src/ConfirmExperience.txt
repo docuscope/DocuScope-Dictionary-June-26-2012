@@ -1,0 +1,318 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!YOU WILL COME TO KNOW
+!YOU WILL COME TO SEE
+!YOU WILL COME TO UNDERSTAND
+!YOU WILL DISCOVER
+!YOU WILL FIND OUT
+!YOU WILL LEARN
+!YOU WILL SEE
+!YOU WILL UNDERSTAND
+. as can be seen
+. as one can see
+. as you can see
+a window will appear
+as can be seen
+as one can see
+as one should see
+as we'll see
+as you'll see
+as you can now see
+as you can see
+as you look to
+as you look to your
+as you look to your left
+as you look to your right
+as you should see
+by now you should have
+here we see
+here you'll see
+here you can see
+here you will have seen
+how you'll know
+if you hear
+if you like you can
+if you like, you can
+if you look to
+if you look to your
+if you look to your left
+if you look to your right
+if you see
+if you smell
+if you taste
+if you touch
+it should appear
+it should look
+it should resemble
+it will appear
+it will look like
+it will resemble
+now you'll
+now you have
+now you should have
+now you will
+now, you should have
+on the left there will be a
+on the right there will be a
+preserve your
+preserves your
+preserving your
+should have been able to
+should have been easy
+should have found
+should have looked like
+should have resembled
+should have seen
+so far you've been
+so far you have been
+so, lace up
+the highlight becomes a
+the highlight turns into a
+the icon becomes a
+the icon turns into a
+the menu expands into a
+the window will open
+there will be a building on the left
+there will be a building on the right
+there you can see
+there you will have seen
+thus far you've been
+thus far you have been
+thus far, you have been
+will be visible
+will come into sight
+will come into view
+will open !MOTIONPREP
+will open up at !DETERMINER
+will open up into
+will then be visible
+you'll  expect out of
+you'll again
+you'll also
+you'll be
+you'll be !DETERMINER
+you'll be able to
+you'll be able to hear
+you'll be able to see
+you'll be about to
+you'll be advised to
+you'll be allowed
+you'll be always
+you'll be an 'ol
+you'll be asked to
+you'll be encouraged to
+you'll be free to try
+you'll be getting this straight from !DETERMINER horse's mouth
+you'll be going to
+you'll be happy to know that
+you'll be happy to learn that
+you'll be hot
+you'll be in
+you'll be in !DETERMINER
+you'll be just
+you'll be justified
+you'll be listening to
+you'll be looking
+you'll be looking at
+you'll be luckier
+you'll be lucky
+you'll be reading
+you'll be ready to
+you'll be responsible
+you'll be seeing
+you'll be summoned to
+you'll be surrounded
+you'll be too
+you'll be uncomfortable
+you'll be up
+you'll be waiting
+you'll be warranted
+you'll be welcome
+you'll be welcome to
+you'll become
+you'll bet
+you'll bet your
+you'll bet your boots
+you'll bet your life
+you'll better believe it
+you'll care
+you'll care to
+you'll certainly
+you'll choose
+you'll clearly
+you'll come to
+you'll cross
+you'll discover
+you'll do
+you'll even
+you'll ever
+you'll expect
+you'll expect from
+you'll expect it to cost more
+you'll expect out of
+you'll feel free to
+you'll find
+you'll get
+you'll have
+you'll have !DETERMINER
+you'll have !DETERMINER right
+you'll have !DETERMINER right to
+you'll have another guess coming
+you'll have been
+you'll have done nothing if not
+you'll have got to like
+you'll have got to worry
+you'll have no !IDEA
+you'll have now
+you'll have seen
+you'll have some !IDEA
+you'll have to
+you'll have to get it behind you
+you'll have to wonder
+you'll haven't
+you'll haven't got
+you'll hear
+you'll know
+you'll know it
+you'll know like
+you'll know that
+you'll know very well
+you'll know well
+you'll know what I mean
+you'll know you've
+you'll know you have
+you'll known
+you'll learn
+you'll let
+you'll let it
+you'll like
+you'll lived through it
+you'll look
+you'll look like
+you'll look out
+you'll looked
+you'll may
+you'll MAY BE ABLE
+you'll may register
+you'll may want to
+you'll may wish to
+you'll might
+you'll might think that
+you'll might want
+you'll name it
+you'll need to be patient
+you'll need to get over it
+you'll need to get with it
+you'll need to slow down
+you'll never
+you'll notice
+you'll observe
+you'll obviously
+you'll of all people
+you'll old
+you'll pass through
+you'll realize that
+you'll said a mouthful
+you'll said it
+you'll see
+you'll see !DETERMINER
+you'll see that
+you'll see,
+you'll sense
+you'll smell
+you'll so
+you'll soon
+you'll speak truly
+you'll stand for
+you'll taste
+you'll then
+you'll then be
+you'll then be able to hear
+you'll then be able to see
+you'll then be able to smell
+you'll then be able to taste
+you'll then be able to touch
+you'll then be looking at
+you'll then hear
+you'll then see
+you'll then smell
+you'll then taste
+you'll then touch
+you'll think
+you'll touch
+you'll want
+you'll want to know that
+you'll want to remain
+you'll won't
+you'll won't want to be without
+you'll wonder
+you'll wonder !QUESTION
+you'll worry
+YOU're about to
+you're now winding
+you've been through
+you can access
+you can be sure
+you can visit
+you have been an eye-witness
+you have been eye-witnessing
+you have been through
+you have endured
+you have experienced
+you have gone through
+you have just witnessed
+you have now
+you have recovered
+you have suffered
+you have witnessed
+you may have been
+you may have been able
+you see are
+you see is
+you should be able to see
+you should be seeing
+you should have seen
+you should see
+you should then be seeing
+you should then see
+you will be able to see
+you will be hearing
+you will be in
+you will be looking at
+you will be seeing
+you will be sensing
+you will be smelling
+you will be tasting
+you will be touching
+you will come to
+you will discover
+you will have seen
+you will hear
+you will know
+you will know that
+you will know you've
+you will know you have
+you will learn
+you will notice
+you will observe
+you will see
+you will see !DETERMINER
+you will see that
+you will smell
+you will soon
+you will taste
+you will then be able to hear
+you will then be able to see
+you will then be able to smell
+you will then be able to taste
+you will then be able to touch
+you will then be looking at
+you will then hear
+you will then see
+you will then smell
+you will then taste
+you will then touch
+you will touch
+your're now

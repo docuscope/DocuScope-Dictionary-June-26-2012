@@ -1,0 +1,215 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!DETERMINER aftereffect
+!DETERMINER aftereffects
+!DETERMINER consequence
+!DETERMINER consequence of
+!DETERMINER consequences
+!DETERMINER consequences of
+!DETERMINER effect it has
+!DETERMINER effect it has on
+!DETERMINER effect of
+!DETERMINER effects of
+!DETERMINER impact it has
+!DETERMINER impact it has on
+!DETERMINER influence of
+!DETERMINER influences of
+!DETERMINER makings of
+!DETERMINER outcome of
+!DETERMINER outcomes of
+!DETERMINER precipitation of
+!DETERMINER precipitations of
+!DETERMINER reaction to
+!FOLLOW through on
+!FOLLOW through with
+!GET !PRONOUNOBJECTIVE to
+!GET me to
+!GET us to
+!GET you to
+!GIVE rise to
+!HAVE !DETERMINER strong effect
+!HAVE !RESULT
+!HAVE an effect
+!HAVE an effect on
+!HAVE effect
+!HAVE effects
+!HAVE some !RESULT
+!LEAD to !DETERMINER
+!PRESENT !DETERMINER !RESULT
+!RESULT
+!RESULT from
+!RESULT in
+!RESULT in !DETERMINER
+!RESULT with
+!SET !DETERMINER echoes ringing
+!SET !DETERMINER fashion
+!SET !DETERMINER law at defiance
+!SET !DETERMINER law at naught
+!SET !DETERMINER pace
+!SET !DETERMINER river on fire
+!SET !DETERMINER style
+!SET !DETERMINER tone
+!SET !DETERMINER tone for
+!SET in motion
+aftereffect
+aftereffect of
+aftereffects
+aftereffects of
+aftermath
+aftermaths
+among its effects
+among other effects
+an active role
+an active role in
+as !DETERMINER consequence
+as !DETERMINER consequence to
+beget !DETERMINER
+beget !POSSESSIVEPRONOUN
+begets !DETERMINER
+begets !POSSESSIVEPRONOUN
+begetting !DETERMINER
+begetting !POSSESSIVEPRONOUN
+begot
+begot !DETERMINER
+begot !POSSESSIVEPRONOUN
+bottom-line
+bottom line
+bottom lines
+bring to pass
+bringing to pass
+brings to pass
+brought about by
+brought about from
+brought about with
+brought on as !DETERMINER !RESULT of
+brought on by
+brought on from
+brought on with
+brought to pass
+consequence
+consequences
+consequent
+consequents
+direct !RESULT
+direct consequence
+direct consequences
+effect
+effect !DETERMINER sale
+effect of
+effect on
+effect with
+effected !DETERMINER sale
+effected from
+effected with !DETERMINER
+effecting
+effecting !DETERMINER sale
+effects
+effects !DETERMINER sale
+effects of
+effects on
+effects with
+engender
+engendered
+engendering
+engenders
+fallout
+fallouts
+in consequence
+in consequence of
+natural consequence
+natural consequences
+on !DETERMINER effect of
+on !DETERMINER effects of
+presents !DETERMINER !RESULT
+ramification
+ramification of
+ramifications
+ramifications of
+ramified
+ramifies
+ramify
+ramifying
+reaction
+reaction to
+reaction to the developments
+reactions
+reactions to
+reactions to the developments
+redound
+redound back
+redound back upon
+redound upon
+redounded
+redounded  upon
+redounded back
+redounded back upon
+redounding
+redounding back
+redounding back upon
+redounds
+redounds back
+reflect that
+reflected that
+reflecting that
+reflects that
+repercussion
+repercussion of
+repercussions
+repercussions of
+repercussive
+resultantly
+ripple effect
+ripple effects
+side effect
+side effects
+significant effect
+significant effects
+sow !DETERMINER seeds of
+sowed !DETERMINER seeds of
+sowing !DETERMINER seeds of
+sown !DETERMINER seeds of
+sows !DETERMINER seeds of
+spark !DETERMINER
+spark !POSSESSIVEPRONOUN
+spark !PRONOUNOBJECTIVE
+spark me
+spark my
+spark our
+spark their
+spark us
+spark you
+spark your
+sparked
+sparked !DETERMINER
+sparked !POSSESSIVEPRONOUN
+sparked !PRONOUNOBJECTIVE
+sparked me
+sparked my
+sparked our
+sparked us
+sparked you
+sparked your
+sparking !DETERMINER
+sparking !POSSESSIVEPRONOUN
+sparking !PRONOUNOBJECTIVE
+sparking me
+sparking my
+sparking our
+sparking us
+sparking you
+sparking your
+sparks !DETERMINER
+sparks !POSSESSIVEPRONOUN
+sparks !PRONOUNOBJECTIVE
+sparks me
+sparks my
+sparks our
+sparks us
+sparks you
+sparks your
+spillover caused from
+spillovers caused from
+spin-off
+spin-offs

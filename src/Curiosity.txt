@@ -1,0 +1,3481 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER anomaly
+!AUX !DETERMINER gap
+!AUX !DETERMINER knotty
+!AUX !DETERMINER riddle
+!AUX !INQUIREVERBING
+!AUX anomalies
+!AUX beyond !PRONOUNOBJECTIVE !QUESTION
+!AUX beyond !YOU !QUESTION
+!AUX beyond him !QUESTION
+!AUX beyond me !QUESTION
+!AUX beyond us !QUESTION
+!AUX CURIOUS
+!AUX curious that
+!AUX discovered
+!AUX gaps
+!AUX important
+!AUX important to consider
+!AUX important to contemplate
+!AUX odd
+!AUX odd that
+!AUX OF INTEREST TO
+!AUX OF wide INTEREST TO
+!AUX problems
+!AUX question marks
+!AUX questions that
+!AUX technologically important
+!AUX VERY CURIOUS
+!AUX WONDERING !QUESTION
+!BREAK !DETERMINER challenge down
+!BREAK !DETERMINER problem down
+!BREAK !DETERMINER puzzle down
+!BREAK IT DOWN FOR
+!BRING questions
+!BRING questions about
+!BRING to !DETERMINER test
+!BRING to mind !DETERMINER !SIGNIFICANT question
+!BRING to mind !DETERMINER curious
+!BRING to mind !SIGNIFICANT questions
+!BRING to mind questions
+!BRING up !DETERMINER question
+!BURN with curiosity
+!CALL !PRONOUNOBJECTIVE into question
+!CALL in question
+!CALL into open question
+!CALL out as !DETERMINER open question
+!CALL to mind !DETERMINER !SIGNIFICANT question
+!CALL to mind !DETERMINER curious
+!CALL to mind !SIGNIFICANT questions
+!CALL to mind questions
+!CAST ABOUT FOR !POSSESSIVEPRONOUN
+!CAST ABOUT FOR !PRONOUNOBJECTIVE
+!CAST about toward
+!CAST about towards
+!CAST AROUND FOR
+!CAST AROUND FOR !POSSESSIVEPRONOUN
+!CAST AROUND FOR !PRONOUNOBJECTIVE
+!CHASE AROUND FOR
+!COME in question
+!COME into question
+!COME TO !DETERMINER AWARENESS THAT
+!COME to !DETERMINER similar conclusion
+!COME to conclude
+!COME TO NOTICE
+!CURIOSITYVERB !DETERMINER !CURIOSITYOBJECT
+!CURIOSITYVERB !DETERMINER !CURIOSITYOBJECT of
+!CURIOSITYVERB considerable !CURIOSITYOBJECT
+!CURIOSITYVERB much !CURIOSITYOBJECT
+!CURIOSITYVERB quite !DETERMINER !CURIOSITYOBJECT
+!DETERMINER !PROBLEM remains
+!DETERMINER !QUESTION
+!DETERMINER !QUESTION and wherefore
+!DETERMINER challenge !AUX
+!DETERMINER challenge as !ROYALWE see it !AUX
+!DETERMINER challenging
+!DETERMINER close eye on
+!DETERMINER clue
+!DETERMINER clue that
+!DETERMINER clues
+!DETERMINER clues that
+!DETERMINER common concern !AUX
+!DETERMINER common concerns !AUX
+!DETERMINER concern !AUX
+!DETERMINER concerns !AUX
+!DETERMINER crux
+!DETERMINER curious matter
+!DETERMINER curious thing !AUX
+!DETERMINER curious thing as !ROYALWE see it !AUX
+!DETERMINER curious things !AUX
+!DETERMINER deep interest
+!DETERMINER difficulty !AUX
+!DETERMINER difficulty as !ROYALWE see it !AUX
+!DETERMINER famous
+!DETERMINER funniness of
+!DETERMINER funny thing
+!DETERMINER funny thing !AUX
+!DETERMINER funny thing !AUX that
+!DETERMINER funny thing about
+!DETERMINER genuine interest
+!DETERMINER great deal of attention
+!DETERMINER hint
+!DETERMINER hows
+!DETERMINER interest for me
+!DETERMINER interest for us
+!DETERMINER interest to me
+!DETERMINER interest to us
+!DETERMINER interesting
+!DETERMINER intriguing
+!DETERMINER investigation of
+!DETERMINER issue !AUX
+!DETERMINER issue becomes
+!DETERMINER issue concerns
+!DETERMINER issues !AUX
+!DETERMINER issues become
+!DETERMINER issues concern
+!DETERMINER keen interest
+!DETERMINER keen interest in
+!DETERMINER knotty
+!DETERMINER known cure
+!DETERMINER most common concern !AUX
+!DETERMINER most common concerns !AUX
+!DETERMINER ongoing study of
+!DETERMINER only known
+!DETERMINER open question
+!DETERMINER paradox
+!DETERMINER perplexing thing !AUX
+!DETERMINER perplexing thing as !ROYALWE see it !AUX
+!DETERMINER problem !AUX
+!DETERMINER problem !AUX that
+!DETERMINER problem as !ROYALWE see it !AUX
+!DETERMINER question
+!DETERMINER question !MODAL be
+!DETERMINER question !MODAL be legitimately raised
+!DETERMINER question !MODAL be raised
+!DETERMINER question !MODAL be rightly raised
+!DETERMINER question !MUSTSHOULD be
+!DETERMINER question !PRONOUNNOMINAL sought to answer
+!DETERMINER question !ROYALWE !MUSTSHOULD address
+!DETERMINER question !ROYALWE need to answer
+!DETERMINER question !ROYALWE now need to be asking
+!DETERMINER question !ROYALWE now need to be raising
+!DETERMINER question !ROYALWE pose
+!DETERMINER question !ROYALWE wish to pose
+!DETERMINER QUESTION ABOUT
+!DETERMINER question arises
+!DETERMINER question arises as
+!DETERMINER question arises as to
+!DETERMINER question arises as to whether
+!DETERMINER question arises as to whether nor not
+!DETERMINER question before us
+!DETERMINER question left to answer
+!DETERMINER QUESTION OF
+!DETERMINER question of !QUESTION
+!DETERMINER QUESTION REGARDING
+!DETERMINER question remaining
+!DETERMINER question remains
+!DETERMINER question to answer
+!DETERMINER question to ask
+!DETERMINER question to pose
+!DETERMINER question to raise
+!DETERMINER question was raised
+!DETERMINER QUESTIONS ABOUT
+!DETERMINER QUESTIONS AS TO
+!DETERMINER QUESTIONS OF
+!DETERMINER QUESTIONS REGARDING
+!DETERMINER questions remaining
+!DETERMINER real interest
+!DETERMINER real question !AUX
+!DETERMINER real riddle
+!DETERMINER reason why
+!DETERMINER riddle
+!DETERMINER RULE OF THUMB
+!DETERMINER seriousness of
+!DETERMINER strange thing
+!DETERMINER strange thing !AUX that
+!DETERMINER striking result
+!DETERMINER studied
+!DETERMINER study looking into
+!DETERMINER telling detail
+!DETERMINER telling details
+!DETERMINER trouble !AUX
+!DETERMINER trouble !AUX as !ROYALWE see it
+!DETERMINER trouble as !ROYALWE see it !AUX
+!DETERMINER unfamiliar
+!DETERMINER unforeseen
+!DETERMINER unknowable future
+!DETERMINER unknowable past
+!DETERMINER unlooked-for
+!DETERMINER vexing thing !AUX
+!DETERMINER vexing thing as !ROYALWE see it !AUX
+!DETERMINER whats
+!DETERMINER whens
+!DETERMINER wherefore of
+!DETERMINER wherefores
+!DETERMINER wherefores of
+!DETERMINER who
+!DETERMINER whos
+!DETERMINER whyfor
+!DETERMINER whyfors
+!DETERMINER whys
+!DETERMINER whys and wherefores
+!DIG around for
+!DO !YOU know that
+!FEEL !PRONOUNOBJECTIVE out
+!FEEL !PRONOUNOBJECTIVE out for
+!FEEL !YOU out for
+!FEEL him out for
+!FEEL me out for
+!FEEL us out for
+!FIND !DETERMINER clue
+!FIND !DETERMINER clue in
+!FIND !DETERMINER clues
+!FIND !DETERMINER way to explain
+!FIND !DETERMINER way to make sense
+!FIND !QUESTION
+!FIND about
+!FIND clues
+!FIND clues in
+!FIND it !DETERMINER curiosity
+!FIND it !DETERMINER mystery
+!FIND it curious
+!FIND it intriguing
+!FIND it odd
+!FIND IT OUT
+!FIND it puzzling
+!FIND it strange
+!FIND it tantalizing
+!FIND ways
+!FIT into !DETERMINER bigger picture
+!FIT into !DETERMINER larger picture
+!GET !DETERMINER GRASP OF
+!GET to !DETERMINER bottom of
+!GET to !DETERMINER core
+!GET to !DETERMINER core of
+!GET to !DETERMINER essence
+!GET to !DETERMINER essence of
+!GET to !DETERMINER heart
+!GET to !DETERMINER heart of !DETERMINER matter
+!GET to !DETERMINER key
+!GET to !DETERMINER key finding
+!GET to !DETERMINER key of
+!GET to !DETERMINER nub
+!GET to !DETERMINER nub of
+!GET to !DETERMINER nub of !DETERMINER matter
+!GET to !DETERMINER root
+!GET to !DETERMINER root of !DETERMINER matter
+!HAVE !DETERMINER childhood fascination with
+!HAVE !DETERMINER fascination with
+!HAVE !DETERMINER genuine interest in
+!HAVE !DETERMINER KEEN INTEREST IN
+!HAVE !DETERMINER long-time fascination with
+!HAVE !DETERMINER look at
+!HAVE !DETERMINER look see
+!HAVE !DETERMINER theory
+!HAVe a clue
+!HAVE an real interest in
+!HAVE been controversial
+!HAVE it pegged out
+!HAVE long been controversial
+!HAVE pegged it out
+!INDEFINITEADDRESSEE !AUX !INQUIREVERBING
+!INDEFINITEADDRESSEE !INQUIREVERBED
+!INDEFINITEADDRESSEE !INQUIREVERBED !DETERMINER !IDEA
+!INDEFINITEADDRESSEE !INQUIREVERBSTEMS
+!INDEFINITEADDRESSEE !INQUIREVERBSTEMS !DETERMINER !IDEA
+!INDEFINITEADDRESSEE !MODAL ask
+!INDEFINITEADDRESSEE !MODAL not help but wonder
+!INDEFINITEADDRESSEE !MODAL only wonder
+!INDEFINITEADDRESSEE !MODAL thus ask
+!INDEFINITEADDRESSEE !MUSTSHOULD ask
+!INDEFINITEADDRESSEE !MUSTSHOULD ask !QUESTION
+!INDEFINITEADDRESSEE !MUSTSHOULD ask if
+!INDEFINITEADDRESSEE !MUSTSHOULD ask whether
+!INDEFINITEADDRESSEE !MUSTSHOULD thus ask
+!INDEFINITEADDRESSEE !OUGHTNEED to ask
+!INDEFINITEADDRESSEE does not have to think
+!LEARN !DETERMINER LAY OF !QUESTION TO
+!LEARN !QUESTION
+!LEARN !QUESTION to
+!LEARN curiously
+!LEARN LIFE !AUX FOR
+!LEARN of all things
+!LEARN surprisingly
+!LEARN THAT !DETERMINER
+!LOOK at !QUESTION
+!LOOK closely at
+!LOOK curious
+!LOOK curiously
+!LOOK curiously at
+!LOOK for clues
+!LOOK for telling details
+!LOOK interesting
+!LOOK into !DETERMINER matter
+!LOOK into !QUESTION
+!LOOK into it
+!LOOK STUDIEDLY
+!LOOK STUDIEDLY AT
+!MAKE !DETERMINER experiment
+!MAKE !DETERMINER query
+!MAKE !DETERMINER trial of
+!MAKE !PRONOUNOBJECTIVE an oddity
+!MODAL it be worth
+!MODAL it be worth discovering
+!MODAL it be worth finding out
+!MODAL it be worth investigating
+!MODAL only wonder
+!MODAL such
+!MODAL such things
+!MODAL such things be
+!MODAL think it through
+!MODAL this mean
+!MODAL this mean that
+!MUSTSHOULD !PROBLEMTOOLS
+!MUSTSHOULD think it through
+!MUSTSHOULD wonder aloud
+!OUGHTNEED to !PROBLEMTOOLS
+!PICK !POSSESSIVEPRONOUN brain
+!PICK !POSSESSIVEPRONOUN brains
+!PICK up on !DETERMINER concept
+!PICK up on !DETERMINER idea
+!PICK up on !DETERMINER notion
+!PLAY with !DETERMINER !IDEA
+!PRESPERFECT inquired into
+!PROBLEMTOOLS !DETERMINER !PROBLEM
+!PRONOUNNOMINAL were !PASTCLAIMING
+!PUT !DETERMINER question into
+!PUT her finger on
+!PUT his finger on
+!PUT my fingers on
+!PUT on trial
+!PUT our fingers on
+!PUT queries
+!PUT questions to
+!PUT their fingers on
+!PUT to !DETERMINER rigorous test
+!QUESTION !AUX  it so
+!QUESTION !AUX !INDEFINITEADDRESSEE to come to terms with
+!QUESTION !AUX !INDEFINITEADDRESSEE to understand
+!QUESTION !AUX !PRONOUNNOMINAL doing
+!QUESTION !AUX !PRONOUNNOMINAL off
+!QUESTION !AUX !PRONOUNNOMINAL off for
+!QUESTION !AUX it
+!QUESTION !AUX it hard
+!QUESTION !AUX it possible
+!QUESTION !AUX it so hard
+!QUESTION !AUX it that
+!QUESTION !AUX it that !DETERMINER
+!QUESTION !AUX it that !INDEFINITEADDRESSEE
+!QUESTION !AUX it then
+!QUESTION !AUX it with
+!QUESTION !AUX possible
+!QUESTION !DETERMINER land lies
+!QUESTION !DETERMINER wind !AUX blowing
+!QUESTION !DETERMINER wind blows
+!QUESTION !INDEFINITEADDRESSEE
+!QUESTION !INDEFINITEADDRESSEE !MODAL
+!QUESTION !INDEFINITEADDRESSEE !MODAL ask
+!QUESTION !INDEFINITEADDRESSEE !MODAL pursue
+!QUESTION !INDEFINITEADDRESSEE !MODAL raise
+!QUESTION !INDEFINITEADDRESSEE thinks of
+!QUESTION !MAY !PRONOUNNOMINAL HAVE
+!QUESTION !MODAL !INDEFINITEADDRESSEE
+!QUESTION !MODAL !INDEFINITEADDRESSEE explain
+!QUESTION !MODAL !PRONOUNNOMINAL
+!QUESTION !MODAL !PRONOUNNOMINAL ever
+!QUESTION !MODAL !PRONOUNNOMINAL let
+!QUESTION !MODAL !ROYALWE
+!QUESTION !MODAL !ROYALWE !INQUIREVERBSTEM
+!QUESTION !MODAL !ROYALWE better
+!QUESTION !MODAL !ROYALWE better be
+!QUESTION !MODAL !ROYALWE discover
+!QUESTION !MODAL !ROYALWE do
+!QUESTION !MODAL !ROYALWE do better
+!QUESTION !MODAL !ROYALWE explain
+!QUESTION !MODAL !ROYALWE find out
+!QUESTION !MODAL !ROYALWE go for assistance
+!QUESTION !MODAL !ROYALWE go for help
+!QUESTION !MODAL !ROYALWE go for support
+!QUESTION !MODAL !ROYALWE help investigate
+!QUESTION !MODAL !ROYALWE help research
+!QUESTION !MODAL !ROYALWE improve
+!QUESTION !MODAL !ROYALWE learn
+!QUESTION !MODAL !ROYALWE refer
+!QUESTION !MODAL !ROYALWE say
+!QUESTION !MODAL !ROYALWE think of this
+!QUESTION !MODAL be done
+!QUESTION !MODAL be seen
+!QUESTION !MODAL it
+!QUESTION !MODAL it be explained
+!QUESTION !MODAL it happen that
+!QUESTION !MODAL one
+!QUESTION !MODAL one be
+!QUESTION !MODAL one have
+!QUESTION !MODAL one not see
+!QUESTION !MODAL one understand
+!QUESTION !MODAL one want
+!QUESTION !MODAL teach
+!QUESTION !MODAL this be happening
+!QUESTION !MUSTSHOULD !INDEFINITEADDRESSEE
+!QUESTION !MUSTSHOULD !INDEFINITEADDRESSEE do
+!QUESTION !MUSTSHOULD !INDEFINITEADDRESSEE think
+!QUESTION !MUSTSHOULD it mean
+!QUESTION !MUSTSHOULD one
+!QUESTION !MUSTSHOULD one be
+!QUESTION !MUSTSHOULD one do
+!QUESTION !MUSTSHOULD one have
+!QUESTION !MUSTSHOULD one make of
+!QUESTION !PRONOUNNOMINAL !AUX up to
+!QUESTION !PRONOUNNOMINAL !MUSTSHOULD have
+!QUESTION !PRONOUNNOMINAL has discovered
+!QUESTION !PRONOUNNOMINAL has yet to address
+!QUESTION !PRONOUNNOMINAL has yet to learn
+!QUESTION !PRONOUNNOMINAL hasn't addressed
+!QUESTION !PRONOUNNOMINAL have yet to learn
+!QUESTION !PRONOUNNOMINAL haven't yet learned
+!QUESTION !ROYALWE !AUX up to
+!QUESTION !ROYALWE !CONTINGENTMODAL ask
+!QUESTION !ROYALWE !CONTINGENTMODAL better
+!QUESTION !ROYALWE !CONTINGENTMODAL discover
+!QUESTION !ROYALWE !CONTINGENTMODAL learn
+!QUESTION !ROYALWE !CONTINGENTMODAL ponder
+!QUESTION !ROYALWE !CONTINGENTMODAL pursue
+!QUESTION !ROYALWE !CONTINGENTMODAL raise
+!QUESTION !ROYALWE !MODAL ask
+!QUESTION !ROYALWE !MODAL better
+!QUESTION !ROYALWE !MODAL discover
+!QUESTION !ROYALWE !MODAL learn
+!QUESTION !ROYALWE !MODAL ponder
+!QUESTION !ROYALWE !MODAL pursue
+!QUESTION !ROYALWE !MODAL raise
+!QUESTION !ROYALWE am up to
+!QUESTION !ROYALWE have learned
+!QUESTION !ROYALWE haven't addressed
+!QUESTION !ROYALWE haven't yet learned
+!QUESTION !YOU !MODAL discover
+!QUESTION !YOU !MODAL learn
+!QUESTION !YOU have discovered
+!QUESTION !YOU have learned
+!QUESTION !YOU haven't yet learned
+!QUESTION !YOU should discover
+!QUESTION !YOU should learn
+!QUESTION and who
+!QUESTION and why
+!QUESTION are !DETERMINER odds
+!QUESTION come it
+!QUESTION come that
+!QUESTION conditions
+!QUESTION could !PRONOUNNOMINAL let this happen
+!QUESTION could !PRONOUNNOMINAL not
+!QUESTION could !PRONOUNNOMINAL not just
+!QUESTION could !YOU do it !DETERMINER different way
+!QUESTION could !YOU extend this
+!QUESTION could !YOU take this idea further
+!QUESTION curious
+!QUESTION curious it !AUX
+!QUESTION curious it !AUX to learn
+!QUESTION did !PRONOUNNOMINAL do
+!QUESTION did !PRONOUNNOMINAL manage
+!QUESTION did !YOU do this
+!QUESTION did it happen that
+!QUESTION do !PRONOUNNOMINAL do it
+!QUESTION do !PRONOUNNOMINAL do that
+!QUESTION do !PRONOUNNOMINAL have to
+!QUESTION do !PRONOUNNOMINAL knock themselves out
+!QUESTION do !PRONOUNNOMINAL know
+!QUESTION do !PRONOUNNOMINAL stack up
+!QUESTION do !ROYALWE !INQUIREVERBSTEM
+!QUESTION do !ROYALWE know
+!QUESTION do !ROYALWE know at this point
+!QUESTION do !ROYALWE make sense of this
+!QUESTION do !ROYALWE not
+!QUESTION do !ROYALWE stack up
+!QUESTION do !YOU know
+!QUESTION do !YOU know about that
+!QUESTION does !DETERMINER reader know
+!QUESTION does !INDEFINITEADDRESSEE become
+!QUESTION does !INDEFINITEADDRESSEE ever
+!QUESTION does !INDEFINITEADDRESSEE go about
+!QUESTION does !INDEFINITEADDRESSEE initiate
+!QUESTION does !INDEFINITEADDRESSEE know
+!QUESTION does !INDEFINITEADDRESSEE make sense of
+!QUESTION does !INDEFINITEADDRESSEE possibly
+!QUESTION does !INDEFINITEADDRESSEE proceed to
+!QUESTION does !PRONOUNNOMINAL do that
+!QUESTION does !PRONOUNNOMINAL have to
+!QUESTION does !PRONOUNNOMINAL knock herself out
+!QUESTION does !PRONOUNNOMINAL know
+!QUESTION does !PRONOUNNOMINAL stack up
+!QUESTION does he have to
+!QUESTION does he knock himself out
+!QUESTION does he know
+!QUESTION does he stack up
+!QUESTION does it all stack up
+!QUESTION does it happen
+!QUESTION does it happen that
+!QUESTION does it have to
+!QUESTION does it mean
+!QUESTION does it stack up
+!QUESTION does it stack up against
+!QUESTION does it then
+!QUESTION does one not
+!QUESTION does someone
+!QUESTION does that
+!QUESTION does this
+!QUESTION else in !DETERMINER world
+!QUESTION far
+!QUESTION follows from this
+!QUESTION frequently
+!QUESTION frequently !DO
+!QUESTION frequently do
+!QUESTION frequently does
+!QUESTION frequently have
+!QUESTION goes it with you
+!QUESTION happens !QUESTION !INDEFINITEADDRESSEE
+!QUESTION has no one yet
+!QUESTION has no one yet seen
+!QUESTION has there been
+!QUESTION have !ROYALWE here
+!QUESTION have there been
+!QUESTION have there been no
+!QUESTION have you designed
+!QUESTION if
+!QUESTION if !PRONOUNNOMINAL
+!QUESTION if !PRONOUNNOMINAL was to happen
+!QUESTION if !PRONOUNNOMINAL were to
+!QUESTION if !ROYALWE !INQUIREVERBSTEM
+!QUESTION if !ROYALWE were to
+!QUESTION if !YOU !INQUIREVERBSTEM
+!QUESTION if !YOU and !ROYALWE were
+!QUESTION if !YOU and !ROYALWE were to
+!QUESTION if !YOU were in !POSSESSIVEPRONOUN place
+!QUESTION if !YOU were in !POSSESSIVEPRONOUN shoes
+!QUESTION if it happened that
+!QUESTION if one were to !INQUIREVERBSTEM
+!QUESTION in !DETERMINER world would
+!QUESTION ironic !AUX it that
+!QUESTION ironic that
+!QUESTION it !AUX
+!QUESTION it !AUX !SIGNIFICANT
+!QUESTION it !AUX like to
+!QUESTION it !AUX like to be
+!QUESTION it !AUX that
+!QUESTION it !AUX to be
+!QUESTION it !MODAL contribute
+!QUESTION it !MODAL happen to lead
+!QUESTION it !MODAL help to answer
+!QUESTION it !MODAL help to contribute
+!QUESTION it !MODAL help to cure
+!QUESTION it !MODAL lead
+!QUESTION it goes
+!QUESTION it happened to contribute
+!QUESTION it happened to produce
+!QUESTION it has not
+!QUESTION it has not yet
+!QUESTION it hasn't yet lead
+!QUESTION it is appropriate to
+!QUESTION it means
+!QUESTION it meant
+!QUESTION it meant to
+!QUESTION it meant to be
+!QUESTION it meant to have
+!QUESTION it would be
+!QUESTION lies !DETERMINER land?
+!QUESTION makes !PRONOUNOBJECTIVE tick
+!QUESTION may !PRONOUNNOMINAL ever
+!QUESTION may !ROYALWE !INQUIREVERBSTEM
+!QUESTION may be
+!QUESTION may one
+!QUESTION may we discover
+!QUESTION may we find out
+!QUESTION may we learn
+!QUESTION much !DETERMINER
+!QUESTION MUCH !PRONOUNNOMINAL
+!QUESTION next?
+!QUESTION no one before has
+!QUESTION no one else
+!QUESTION no one else has
+!QUESTION no one since
+!QUESTION not ask me
+!QUESTION or !QUESTION
+!QUESTION or who
+!QUESTION ought !ROYALWE
+!QUESTION path shall !ROYALWE follow
+!QUESTION performance
+!QUESTION remarkable
+!QUESTION remarkable it !AUX
+!QUESTION remarkable it !AUX to learn
+!QUESTION sense do !ROYALWE make of this
+!QUESTION shall !INDEFINITEADDRESSEE
+!QUESTION something like this
+!QUESTION strange
+!QUESTION strange it !AUX
+!QUESTION strange it !AUX to learn
+!QUESTION that
+!QUESTION then !AUX
+!QUESTION then !MODAL
+!QUESTION then !MODAL !ROYALWE
+!QUESTION then !MUSTSHOULD
+!QUESTION then !MUSTSHOULD !ROYALWE
+!QUESTION then does it
+!QUESTION then ought
+!QUESTION then ought !ROYALWE
+!QUESTION these
+!QUESTION things !AUX
+!QUESTION things stack up
+!QUESTION things stand
+!QUESTION this
+!QUESTION to
+!QUESTION to !PROBLEMTOOLS !DETERMINER !PROBLEM
+!QUESTION to go about
+!QUESTION to make
+!QUESTION to make of
+!QUESTION to observe
+!QUESTION to proceed
+!QUESTION to tackle
+!QUESTION very strange
+!QUESTION wait
+!QUESTION wait for
+!QUESTION was !DETERMINER question
+!QUESTION was !ROYALWE
+!QUESTION was it whom
+!QUESTION were
+!QUESTION were all
+!RAISE !DETERMINER !IDEA
+!RAISE !DETERMINER !IDEA that
+!RAISE !DETERMINER !SIGNIFICANT question
+!RAISE !DETERMINER number of points
+!RAISE !DETERMINER point
+!RAISE !DETERMINER point that
+!RAISE !DETERMINER question
+!RAISE !DETERMINER questions
+!RAISE !DETERMINER questions of
+!RAISE !SIGNIFICANT questions
+!RAISE interest
+!RAISE issues
+!RAISE questions
+!RAISE questions about
+!RAISE questions as
+!RAISE questions that
+!RAISE several questions
+!ROYALWE !MODAL !READERFOCUS
+!ROYALWE !MODAL be aware
+!ROYALWE !MODAL be aware that
+!ROYALWE !MODAL BEGIN
+!ROYALWE !MODAL CONSIDER
+!ROYALWE !MODAL learn
+!ROYALWE !MODAL learn that
+!ROYALWE !MODAL notice
+!ROYALWE !MODAL notice that
+!ROYALWE !MODAL NOW INTRODUCE
+!ROYALWE !MODAL now SEE THAT
+!ROYALWE !MODAL see !DETERMINER problem differently
+!ROYALWE !MUSTSHOULD !PROBLEMTOOLS
+!ROYALWE !MUSTSHOULD ask
+!ROYALWE !MUSTSHOULD ask ourselves
+!ROYALWE !MUSTSHOULD know
+!ROYALWE !MUSTSHOULD learn
+!ROYALWE !MUSTSHOULD learn that
+!ROYALWE !MUSTSHOULD soon know
+!ROYALWE !MUSTSHOULD want to ask !QUESTION
+!ROYALWE COMMONLY THINK OF
+!ROYALWE do have !DETERMINER question
+!ROYALWE have !DETERMINER question for !YOU
+!ROYALWE HAVE !DISCOVERY THAT
+!ROYALWE have often wondered
+!ROYALWE have often wondered !QUESTION
+!ROYALWE may be aware
+!ROYALWE may be aware that
+!ROYALWE may discover
+!ROYALWE may discover that
+!ROYALWE may find out that
+!ROYALWE may glimpse
+!ROYALWE may learn
+!ROYALWE may learn that
+!ROYALWE may notice
+!ROYALWE may notice that
+!ROYALWE may realize
+!ROYALWE may realize that
+!ROYALWE may see
+!ROYALWE may understand
+!ROYALWE may understand that
+!ROYALWE need to ask
+!ROYALWE need to ask !QUESTION
+!ROYALWE NEED TO KNOW
+!ROYALWE NEED TO PROBE
+!ROYALWE now !OUGHTNEED to !PROBLEMTOOLS
+!ROYALWE often notice
+!ROYALWE often tend to
+!ROYALWE OFTEN think
+!ROYALWE often think about
+!ROYALWE OFTEN THINK OF
+!ROYALWE often wonder
+!ROYALWE often wonder about
+!ROYALWE ought to ask
+!ROYALWE ought to know
+!ROYALWE sometimes ask
+!ROYALWE want to know !QUESTION
+!RUN !DETERMINER experiment
+!RUN !DETERMINER inquiry
+!RUN inquiries
+!RUN through !QUESTION
+!SEE !QUESTION
+!SEE !QUESTION !DETERMINER wind blows
+!SEE !QUESTION it
+!SEE !QUESTION it goes
+!SEE !QUESTION it works
+!SEE about
+!SEE after
+!SEE to !DETERMINER bottom of
+!TAKE !DETERMINER careful look
+!TAKE !DETERMINER close look
+!TAKE !DETERMINER LOOK
+!TAKE !DETERMINER LOOK FOR
+!TRY to understand !QUESTION
+!YOU !MODAL sometimes
+!YOU may often wonder
+!YOU may often wonder about
+!YOU really have to wonder
+!YOU really wonder
+, !QUESTION to
+. !QUESTION !AUX !DETERMINER curious
+. !QUESTION !AUX !DETERMINER fascinating
+. !QUESTION !AUX !DETERMINER incredible
+. !QUESTION !AUX !DETERMINER remarkable
+. !QUESTION !AUX it
+. !QUESTION !AUX it missing
+. !QUESTION !AUX it that
+. !QUESTION and !QUESTION
+. !QUESTION has it been that
+. !QUESTION start
+. !QUESTION start with
+. !QUESTION subject do
+. !QUESTION subject does
+. !QUESTION subjects does
+. !QUESTION then
+. !QUESTION would
+. and !QUESTION about
+. for !QUESTION reason
+. for which reason
+. have you ever needed
+. have you ever needed to
+. have you ever wanted
+. have you ever wanted to
+. how can
+. how does
+. it !AUX !DETERMINER issue
+. so !QUESTION
+. so !QUESTION !AUX
+. so !QUESTION had
+. so !QUESTION were
+. that !AUX !QUESTION
+. that !AUX who
+. this !AUX about !QUESTION
+. this !AUX how
+. this !AUX who
+. what other
+. wherefore
+. wherefore do
+. who !AUX it that
+. who happens to know
+. who knows
+. who knows !QUESTION
+: how can
+; and !QUESTION
+; or !QUESTION
+about !QUESTION
+according to !QUESTION
+according to this reasoning
+acquisitive
+acquisitively
+acquisitiveness
+am curious about
+am wondering !QUESTION !ROYALWE
+analyse
+analysed
+analyses !DETERMINER
+analyses of !QUESTION
+analysing
+analysis of !QUESTION
+analyze
+analyze !QUESTION
+analyzed
+analyzed !QUESTION
+analyzes
+analyzes !QUESTION
+analyzing
+analyzing !QUESTION
+and !QUESTION !MUSTSHOULD be done
+and !QUESTION !MUSTSHOULD be done about
+and !QUESTION !MUSTSHOULD be done with
+and !QUESTION it !AUX that
+and who !MUSTSHOULD be
+anomalies
+anomalism
+anomalistic
+anomalistic !TIMEFRAME
+anomalo-
+anomalous
+anomalous !TIMEFRAME
+anomalous zeeman effect
+anomalously
+anomalousness
+anomaly
+anomolies
+anomolies of
+anomoly
+anomoly of
+answerabilities
+answerability
+answerable !QUESTION
+answerable if
+answerableness
+answerably
+APPEARED CURIOUS
+appears to have mastered
+appears to have studied
+arouse !DETERMINER curiosity
+aroused !DETERMINER curiosity
+arouses !DETERMINER curiosity
+arousing !DETERMINER curiosity
+as for !QUESTION !DETERMINER
+ask !QUESTION
+ask away
+ask question
+ask question about
+asked !QUESTION
+asked away
+asked questions
+asked questions about
+asker
+askers
+asking !QUESTION
+asking away
+asking questions
+asking questions about
+asks !QUESTION
+asks away
+asks questions
+asks questions about
+assay
+assayed
+assaying
+assays
+at !DETERMINER crux
+at !DETERMINER crux of
+at !QUESTION place
+at !QUESTION point
+at !QUESTION price
+at !QUESTION time will
+at issue
+at issue !AUX
+attacting !DETERMINER curiosity
+attempts to explain
+attention has been paid
+attract !DETERMINER curiosity
+attract !DETERMINER curious attention
+attract much attention
+attracted !DETERMINER curiosity
+attracted !DETERMINER curious attention
+attracted much attention
+attracting !DETERMINER curious attention
+attracting much attention
+attracts !DETERMINER curiosity
+attracts !DETERMINER curious attention
+attracts much attention
+awaken !DETERMINER curiosity
+awakened !DETERMINER curiosity
+awakening !DETERMINER curiosity
+awakens !DETERMINER curiosity
+awe and wonder
+baffling anomolies
+baffling anomoly
+baffling curiosities
+baffling curiosity
+baffling mysteries
+baffling mystery
+baffling problem
+baffling problems
+baffling puzzle
+baffling puzzles
+barely scratch !DETERMINER surface
+barely scratched !DETERMINER surface
+barely scratches !DETERMINER surface
+barely scratching !DETERMINER surface
+be !DETERMINER paradox
+be discovered
+BECAME AWARE THAT
+BEING CURIOUS ABOUT
+beyond !PRONOUNOBJECTIVE  to understand !QUESTION
+beyond !PRONOUNOBJECTIVE !QUESTION
+beyond !YOU !QUESTION
+beyond him !QUESTION
+beyond me !QUESTION
+beyond us !QUESTION
+borderline case
+borderline cases
+botanize
+botanized
+botanizes
+botanizing
+brainteaser
+brainteasers
+break down of !DETERMINER challenge
+break down of !DETERMINER problem
+break down of !DETERMINER puzzle
+burning issue
+burning issues
+burning question
+burning questions
+BUT CURIOUS
+BUT STILL CURIOUS
+BY !QUESTION !DETERMINER
+by this reasoning
+can't help but wonder
+careful examination
+careful examinations
+careful scrutinizes
+careful scrutiny
+cast about for
+casted about for
+casting about for
+casts about for
+cause !INDEFINITEADDRESSEE to ask
+caused !INDEFINITEADDRESSEE to ask
+causes !INDEFINITEADDRESSEE to ask
+causing !INDEFINITEADDRESSEE to ask
+center of !DETERMINER mind
+center of action
+center of activity
+center of attention
+center of attraction
+center of authority
+center of consciousness
+center of effort
+center of influence
+center of interest
+center of life
+center of origin
+central figure
+certain ideas about
+challenging !IDEA that
+challenging question
+challenging questions
+check into !DETERMINER problem
+check into this
+checked into !DETERMINER problem
+checked into this
+checking into !DETERMINER problem
+checking into this
+checks into !DETERMINER problem
+checks into this
+close examination
+close examinations
+close eye on
+close eyes on
+close scrutinizes
+close scrutiny
+cloud in mystery
+clouded in mystery
+clouding in mystery
+clouds in mystery
+clue
+clues
+complex mosaic
+complex mosaics
+complex mysteries
+complex mystery
+complex puzzle
+complex puzzles
+concern !AUX to
+conjecturable
+conjectural
+conjecturally
+conjecture
+CONJECTURE about
+conjectured
+CONJECTURED about
+conjecturer
+conjecturers
+conjectures
+CONJECTUREs about
+CONJECTURing about
+conjecturing on
+CONSIDER
+consider !DETERMINER offer
+consider whether
+considered
+considered !DETERMINER offer
+CONSIDERED THAT
+CONSIDERED THAT !DETERMINER
+considered whether
+CONSIDERING
+considering !DETERMINER offer
+CONSIDERING THAT
+CONSIDERING THAT !DETERMINER
+considering whether
+considers
+considers !DETERMINER offer
+CONSIDERS THAT
+CONSIDERS THAT !DETERMINER
+considers whether
+CONTEMPLATE
+contemplate in !DETERMINER imagination
+CONTEMPLATED
+contemplated in !DETERMINER imagination
+CONTEMPLATED ON
+CONTEMPLATED THAT
+contemplates
+contemplates in !DETERMINER imagination
+CONTEMPLATES THAT
+contemplating in !DETERMINER imagination
+CONTEMPLATING ON
+could pick up on
+couldn't help but wonder
+counterintuitive
+counterintuitively
+curio
+curios
+curiosa
+curiosity
+curiosity about
+curiosity for
+curiosity toward
+curiosity towards
+curious
+curious about
+CURIOUS AND
+curious as !DETERMINER
+curious as !DETERMINER cat
+CURIOUS AS TO
+CURIOUS AS TO !QUESTION
+curious concept
+curious concept to grasp
+curious concepts
+curious concepts to grasp
+curious contradiction
+curious contradictions
+curious gap in
+curious gaps in
+curious hint
+curious hints
+CURIOUS IN THAT
+curious matter
+curious matters
+curious mind
+curious omission
+curious omissions
+curious person
+curious reason
+curious reason for
+curious reasoning
+curious reasoning for
+curious reasonings
+curious reasonings for
+curious reasons
+curious reasons for
+curious regarding
+curious result
+curious results
+curious that
+curious to
+curious to pick up on
+curious toward
+curious towards
+curiousness
+curoosity regarding
+dare !PRONOUNNOMINAL
+dare !ROYALWE
+dare he
+deep interest in
+deep interests in
+delicate balance between
+delicate balances between
+delicate tension
+delicate tensions
+delve into
+delved into
+delves into
+delving into
+demystified
+demystifies
+demystify
+demystifying
+demythologize
+demythologized
+demythologizes
+demythologizing
+design challenge
+design challenges
+diagnose
+diagnosed that
+diagnoses
+diagnosing
+did !QUESTION
+difficult question
+difficult questions
+discover
+discover !DETERMINER
+discover !POSSESSIVEPRONOUN
+discover !PRONOUNOBJECTIVE
+discover !QUESTION
+discover !REFLEXIVEPRONOUN
+discover ourselves
+discover that
+discover who
+discover yourself
+discovered
+discovered !DETERMINER
+discovered !POSSESSIVEPRONOUN
+discovered !PRONOUNOBJECTIVE
+discovered !QUESTION
+discovered !REFLEXIVEPRONOUN
+discovered ourselves
+DISCOVERED THAT
+discovered who
+discovered yourself
+discovering
+discovering !DETERMINER
+discovering !POSSESSIVEPRONOUN
+discovering !PRONOUNOBJECTIVE
+discovering !QUESTION
+discovering !REFLEXIVEPRONOUN
+discovering ourselves
+discovering that
+discovering who
+discovering yourself
+discovers
+discovers !DETERMINER
+discovers !POSSESSIVEPRONOUN
+discovers !PRONOUNOBJECTIVE
+discovers !QUESTION
+discovers !REFLEXIVEPRONOUN
+discovers ourselves
+discovers that
+discovers who
+discovers yourself
+do !QUESTION
+do !YOU ever wonder about
+do they find that
+do we find that
+do you find that
+does !QUESTION
+does he find that
+does she find that
+does this mean
+does this mean that
+don't know !QUESTION to make of
+don't really see !QUESTION anybody
+don't really see !QUESTION anyone
+don't really understand !QUESTION
+don't really understand !QUESTION anyone
+don't see !QUESTION anybody
+don't see !QUESTION anyone
+don't understand !QUESTION
+don't understand !QUESTION anyone
+drawn towards !DETERMINER !IDEA
+eaten-up with curiosity
+economic question
+economic questions
+efforts to explain
+embark on new
+embarked on new
+embarking on new
+embarks on new
+empirical question
+empirical questions
+enigmatic question
+enigmatic questions
+entertain !DETERMINER !IDEA of
+entertain !DETERMINER hope
+entertain !DETERMINER opinion
+entertain !DETERMINER theory
+entertained !DETERMINER !IDEA of
+entertained !DETERMINER hope
+entertained !DETERMINER opinion
+entertained !DETERMINER theory
+entertaining !DETERMINER !IDEA of
+entertaining !DETERMINER hope
+entertaining !DETERMINER opinion
+entertaining !DETERMINER theory
+entertains !DETERMINER !IDEA of
+entertains !DETERMINER hope
+entertains !DETERMINER opinion
+entertains !DETERMINER theory
+examine
+examine !DETERMINER !IDEA
+examine !DETERMINER books
+examine !PRONOUNOBJECTIVE on
+examine !QUESTION
+examine !YOU on
+examine by ear
+examine him on
+examine me on
+examine point by point
+examine us on
+examined
+examined !DETERMINER
+examined !DETERMINER !IDEA
+examined !DETERMINER books
+examined !POSSESSIVEPRONOUN
+examined !PRONOUNOBJECTIVE
+examined !PRONOUNOBJECTIVE on
+examined !QUESTION
+examined !YOU on
+examined by ear
+examined him on
+examined me on
+examined point by point
+examined us on
+examines
+examines !DETERMINER !IDEA
+examines !DETERMINER books
+examines !PRONOUNOBJECTIVE on
+examines !QUESTION
+examines !YOU on
+examines by ear
+examines him on
+examines me on
+examines point by point
+examines us on
+examining
+examining !DETERMINER !IDEA
+examining !DETERMINER books
+examining !PRONOUNOBJECTIVE on
+examining !QUESTION
+examining !YOU on
+examining by ear
+examining him on
+examining me on
+examining point by point
+examining us on
+excellent area
+excellent area for study
+excellent arena for study
+exceptional system
+excite !DETERMINER imagination
+excite !POSSESSIVEPRONOUN imagination
+excited !DETERMINER imagination
+excited !POSSESSIVEPRONOUN imagination
+excited imagination
+excited imaginations
+excitement and wonder
+excites !DETERMINER imagination
+excites !POSSESSIVEPRONOUN imagination
+exciting !DETERMINER imagination
+exciting !POSSESSIVEPRONOUN imagination
+exhibit
+exhibited
+exhibiting
+exhibits
+experiment
+experiment upon
+experimental
+experimentalism
+experimentalisms
+experimentally
+experimentation
+experimentations
+experimented upon
+experimented with
+experimenting
+experimenting upon
+experiments
+experiments upon
+explain !QUESTION
+explainable
+explained
+explained !QUESTION
+explaining !QUESTION
+explains !QUESTION
+exploration
+exploration of
+explorations
+explorations of
+explorative
+exploratory
+explore
+explore !DETERMINER !IDEA
+explore !DETERMINER mysterious
+explore !DETERMINER unknown
+explore !DETERMINER variety
+explore !QUESTION
+explore alternatives
+explore for
+explore new
+explore unknown
+Explore ways
+explore whether
+explored
+explored !DETERMINER
+explored !DETERMINER !IDEA
+explored !DETERMINER mysterious
+explored !DETERMINER unknown
+explored !DETERMINER variety
+explored !QUESTION
+explored alternatives
+explored for
+explored mysterious
+explored new
+explored unknown
+Explored ways
+explored whether
+explorer
+explorers
+explores
+explores !DETERMINER !IDEA
+explores !DETERMINER mysterious
+explores !DETERMINER unknown
+explores !DETERMINER variety
+explores !QUESTION
+explores alternatives
+explores for
+explores mysterious
+explores new
+explores unknown
+Explores ways
+explores whether
+exploring
+exploring !DETERMINER !IDEA
+exploring !DETERMINER mysterious
+exploring !DETERMINER unknown
+exploring !DETERMINER variety
+exploring !QUESTION
+exploring alternatives
+exploring for
+exploring mysterious
+exploring new
+exploring unknown
+Exploring ways
+exploring whether
+famous problem
+famous traveling-salesman problem
+fascinating reason
+fascinating reasons
+field of inquiry
+field of study
+fields of inquiry
+fields of study
+figure it !MODAL
+figured it !MODAL
+figures it !MODAL
+figuring it !MODAL
+find-of
+find-out
+find-out-about
+findings about
+findings for
+finds-of
+finds of
+first !DISCOVERY
+first !DISCOVERY that
+first found out
+flesh out
+fleshed out
+fleshes out
+fleshing out
+flew it past
+flies it past
+fly it past
+flying it past
+food for thinking
+food for thought
+for !DETERMINER clue
+for clues
+for indicators of
+for signs of
+for symptoms of
+fossick around
+fossicked around
+fossicking around
+fossicks around
+found !DETERMINER clues
+found !QUESTION
+found it curious
+fundamental
+fundamental contribution
+fundamental questions
+fundamental understanding
+funnily
+funnily enough
+funny that
+gather what's going on
+gathered what's going on
+gathering what's going on
+gathers what's going on
+general questions
+general questions about
+get to !DETERMINER bottom of
+giving rise to !DETERMINER question whether
+glean from
+glean knowledge
+glean learning
+glean that
+gleaned from
+gleaned knowledge
+gleaned learning
+gleaned that
+gleaning from
+gleaning knowledge
+gleaning learning
+gleaning that
+gleans from
+gleans knowledge
+gleans learning
+gleans that
+go unasked
+goes unasked
+going unasked
+good question
+good questions
+good testing ground
+Gordian knot
+Gordian knots
+great surprise
+great surprises
+grope for
+groped for
+gropes for
+groping for
+growing interest
+HAD BEEN CURIOUS ABOUT
+HAD BEEN FOCUSING ON
+had to wonder
+hard concept
+hard concept to grasp
+hard concepts
+hard concepts to grasp
+hard usage
+hard usages
+hardly scratch !DETERMINER surface
+hardly scratched !DETERMINER surface
+hardly scratches !DETERMINER surface
+hardly scratching !DETERMINER surface
+has !CURIOSITYVERB !DETERMINER !CURIOSITYOBJECT
+has !CURIOSITYVERB !DETERMINER !CURIOSITYOBJECT of
+has !CURIOSITYVERB considerable !CURIOSITYOBJECT
+has !CURIOSITYVERB much !CURIOSITYOBJECT
+has !CURIOSITYVERB quite !DETERMINER !CURIOSITYOBJECT
+has become !DETERMINER center of attention
+has become !DETERMINER fast-growing
+has become !DETERMINER fastest growing
+has become !DETERMINER favorite
+has become !DETERMINER popular
+has become increasingly !CURIOSITYVERB
+HAS BEEN FOCUSING ON
+HAS CONSIDERED
+HAS FOCUSED ON
+has grown into
+has learned !QUESTION to
+has not been determined
+has not been explored
+has not been investigated
+has not been proved
+has not been researched
+has not been studied
+has now grown into
+has to wonder
+has yet to be explored
+has yet to be investigated
+has yet to be proved
+has yet to be researched
+has yet to be studied
+has yet to learn !QUESTION
+hasn't been asked
+hasn't been explored
+hasn't been investigated
+hasn't been proved
+hasn't been researched
+hasn't been studied
+hatch !DETERMINER !IDEA
+hatched !DETERMINER !IDEA
+hatches !DETERMINER !IDEA
+hatching !DETERMINER !IDEA
+have !CURIOSITYVERB !DETERMINER !CURIOSITYOBJECT
+have !CURIOSITYVERB !DETERMINER !CURIOSITYOBJECT of
+have !CURIOSITYVERB considerable !CURIOSITYOBJECT
+have !CURIOSITYVERB much !CURIOSITYOBJECT
+have !CURIOSITYVERB quite !DETERMINER !CURIOSITYOBJECT
+have !YOU ever asked
+have !YOU ever been curious about
+have !YOU ever thought about
+have become increasingly !CURIOSITYVERB
+have learned !QUESTION to
+have to wonder
+have you ever
+have you ever experienced
+have you ever heard of
+have you ever needed
+have you ever needed to
+have you ever wanted
+have you ever wanted to
+haven't been asked
+haven't been explored
+haven't been investigated
+haven't been proved
+haven't been researched
+haven't been studied
+having to wonder
+hint
+hint curiously
+hinting
+hints
+hints curiously
+how can
+how it's playing
+how it's playing behind
+how it's playing beneath
+how it's playing inside
+how it has
+how it has revolutioned
+hunger for knowledge
+hunt for clues
+hunted for clues
+hunting for clues
+hunts for clues
+hypoth.
+hypotheses
+hypothesis
+hypothesize
+hypothesized
+hypothesizer
+hypothesizers
+hypothesizes
+hypothesizing
+if !INDEFINITEADDRESSEE !INQUIREVERBSTEMS
+if !INDEFINITEADDRESSEE thinks about it
+if !INDEFINITEADDRESSEE were curious to
+if !INDEFINITEADDRESSEE were disposed to
+if !INDEFINITEADDRESSEE were inclined to
+if !INDEFINITEADDRESSEE were interested to
+if !INDEFINITEADDRESSEE were prone to
+if !INDEFINITEADDRESSEE were to
+if !INDEFINITEADDRESSEE were to !INQUIREVERBSTEM
+if !YOU think about it
+imaginable question
+imaginable questions
+imaginative exercise
+imaginative exploration
+imaginative explorations
+immediate issue
+immediate question
+implied certain ideas
+implies certain ideas
+imply certain ideas
+implying certain idea
+imponderabilia
+import for
+import to
+importance
+importance for us
+importance to
+importance to us
+important
+importantly
+in !DETERMINER choice of !QUESTION
+IN !DETERMINER STUDIED
+in !POSSESSIVEPRONOUN choice of !QUESTION
+in awe
+in awe and wonder
+in conjunction with !QUESTION
+in question
+in terms of !QUESTION
+in wonder
+in wondering whether
+increased interest
+increasing interest
+inexplicableness
+inquire
+inquire about
+inquire after
+inquire for
+inquire into
+inquire of
+inquire onto
+inquired
+inquired about
+inquired after
+inquired agent
+inquired agents
+inquired for
+inquired into
+inquired into first causes
+inquired mind
+inquired of
+inquired onto
+inquirer
+inquirers
+inquires
+inquires about
+inquires after
+inquires for
+inquires into
+inquires minds
+inquires of
+inquires onto
+inquiries
+inquiries agents
+inquiries into
+inquiries into first causes
+inquiring
+inquiring about
+inquiring after
+inquiring agent
+inquiring agents
+inquiring for
+inquiring into
+inquiring into first causes
+inquiring mind
+inquiring of
+inquiring onto
+inquiringly
+inquiry
+inquiry agent
+inquiry into
+inquiry into first causes
+inquisitive
+inquisitive about
+inquisitively
+inquisitiveness
+inscrutability
+inscrutable
+inscrutableness
+inscrutably
+intellectual exercise
+intellectual exercises
+intense curiosity
+intensely curious
+interest !AUX growing in
+interested to
+interested to pick up on
+interesting omission
+interesting omissions
+interesting problem
+interesting problems
+interesting question
+interesting questions
+interesting reason
+interesting reasons
+interesting result
+interesting results
+interesting solution
+interesting solutions
+interesting wrinkle
+interesting wrinkles
+INTO !DETERMINER UNKNOWN
+into question
+intrigued
+intrigued as !DETERMINER result
+intrigued by
+intrigued with
+investigate !DETERMINER mysterious
+investigate !DETERMINER unknown
+investigate !QUESTION
+investigate mysterious
+investigate unknown
+investigated !DETERMINER mysterious
+investigated !DETERMINER unknown
+investigated !QUESTION
+investigated mysterious
+investigated unknown
+investigates !DETERMINER mysterious
+investigates !DETERMINER unknown
+investigates !QUESTION
+investigates mysterious
+investigates unknown
+investigating !DETERMINER mysterious
+investigating !DETERMINER unknown
+investigating !QUESTION
+investigating mysterious
+investigating unknown
+investigation
+investigation into
+investigation into first causes
+investigations
+investigationsinto first causes
+invite !DETERMINER !SIGNIFICANT question
+invite !DETERMINER question
+invite !INDEFINITEADDRESSEE to ask
+invite !SIGNIFICANT questions
+invite questions
+invited !DETERMINER !SIGNIFICANT question
+invited !DETERMINER question
+invited !INDEFINITEADDRESSEE to ask
+invited !SIGNIFICANT questions
+invited questions
+invites !DETERMINER !SIGNIFICANT question
+invites !DETERMINER question
+invites !INDEFINITEADDRESSEE to ask
+invites !SIGNIFICANT questions
+invites questions
+inviting !DETERMINER !SIGNIFICANT question
+inviting !DETERMINER question
+inviting !DETERMINER question whether
+inviting !INDEFINITEADDRESSEE to ask
+inviting !SIGNIFICANT questions
+inviting questions
+is !DETERMINER central problem
+is !DETERMINER excellent arena
+is !DETERMINER issue
+is !DETERMINER problem
+is !DETERMINER question mark
+is !DETERMINER question that
+is beyond !PRONOUNOBJECTIVE !QUESTION
+is beyond !YOU !QUESTION
+is beyond him !QUESTION
+is beyond me !QUESTION
+is beyond us !QUESTION
+IS CURIOUS ABOUT
+is discovered
+is important
+is it then
+issue of !DETERMINER day
+issues of !DETERMINER day
+it's !DETERMINER question
+it's !DETERMINER question about
+it's !DETERMINER question of
+it !AUX !DETERMINER issue
+it !AUX !DETERMINER question
+it !AUX !DETERMINER question about
+it !AUX !DETERMINER question of
+it !AUX interesting that
+it !AUX odd
+it !AUX odd that
+it !AUX revealing that
+it !AUX uncharacteristic
+it !AUX unknown
+it makes !INDEFINITEADDRESSEE wonder
+it makes !YOU wonder
+it makes us wonder
+it raises !DETERMINER question
+itch for knowledge
+itched for knowledge
+itches for knowledge
+itching for knowledge
+je ne sais quoi
+jump out at
+jump out right at
+jumped out at
+jumped out right at
+jumping out at
+jumping out right at
+jumps out at
+jumps out right at
+just scratch !DETERMINER surface
+just scratched !DETERMINER surface
+just scratches !DETERMINER surface
+just scratching !DETERMINER surface
+keen interest
+keen interest in
+keen interest to
+keen interests
+keep !DETERMINER close eye on
+keeping !DETERMINER close eye on
+keeps !DETERMINER close eye on
+kept !DETERMINER close eye on
+key finding
+key findings
+key result
+key results
+kindle interest
+kindled interest
+kindles interest
+kindling interest
+knottier
+knottiest
+knottiness
+knotty issue
+knotty point
+knotty points
+knotty problem
+knotty question
+knotty questions
+know shortly
+know sometime
+know soon
+known cure
+known cures
+laboratory experiment
+laboratory experiments
+laboratory method
+laboratory methods
+laboratory microscope
+laboratory microscopes
+laboratory test
+laboratory tests
+lacuna
+lacunae
+lacunas
+land question
+land questions
+Learning
+let's consider !QUESTION
+let's go from !DETERMINER top
+let's investigate
+let's investigate !QUESTION
+let's see !QUESTION
+let's see !QUESTION it goes
+let's see !QUESTION it works
+let's start from !DETERMINER top
+let's study
+let's study !QUESTION
+let's wait and see
+let's watch
+let us consider !QUESTION
+let us see !QUESTION
+let us take !DETERMINER look
+lies !DETERMINER truth
+longstanding interest
+lust for knowledge
+lust for learning
+made !INDEFINITEADDRESSEE ask
+made inquiries
+made inquiry
+made question of
+major point of
+major point of interest
+major points of
+make !INDEFINITEADDRESSEE ask
+make inquiries
+make inquiry
+make question of
+makes !INDEFINITEADDRESSEE ask
+makes inquiries
+makes inquiry
+makes question of
+making !INDEFINITEADDRESSEE ask
+making inquiries
+making inquiry
+making question of
+many have wondered
+many wondered
+mean anomalies
+mean anomaly
+mental acquisitiveness
+merely scratch !DETERMINER surface
+merely scratched !DETERMINER surface
+merely scratches !DETERMINER surface
+merely scratching !DETERMINER surface
+missing-link
+missing-links
+missing link
+missing links
+more broadly about
+most difficult question
+most difficult questions
+much interest
+mysteries solved
+mystery of mysteries
+mystery solved
+narrow !DETERMINER focus
+narrow in on
+narrow it down
+narrow on
+narrowed !DETERMINER focus
+narrowed in on
+narrowed it down
+narrowed on
+narrowing !DETERMINER focus
+narrowing in on
+narrowing it down
+narrowing on
+narrows !DETERMINER focus
+narrows in on
+narrows it down
+narrows on
+native curiosity
+native curiosity for
+natural curiosity
+natural curiosity for
+natural explanation
+natural explanations
+need to think it through
+never before unrevealed
+new experiences
+new interests
+news-seeking
+news seeking
+nobody knows
+noesis
+noetic
+Nose around for
+Nosed around for
+Noses around for
+Nosing around for
+not been determined
+not investigated
+not yet investigated
+not yet looked at
+not yet researched
+not yet studied
+nous
+nut-to-crack
+nut to crack
+observe !DETERMINER
+observe !POSSESSIVEPRONOUN
+observed !QUESTION !POSSESSIVEPRONOUN
+observed that !DETERMINER
+observes !DETERMINER
+observes !POSSESSIVEPRONOUN
+observing !DETERMINER
+observing !POSSESSIVEPRONOUN
+odd that
+odder
+oddest
+oddities
+oddity
+oddly
+oddly enough
+oddness
+of !QUESTION
+of curious note
+of curious note !AUX
+of curious note !AUX !DETERMINER
+of curious note here
+of curious note here !AUX
+of greater concern
+of greater consequence
+of greatest concern
+of greatest consequence
+of greatest interest
+of growing interest
+OF IMPORT HERE
+OF IMPORT HERE !DETERMINER
+OF IMPORT TO
+OF IMPORT TO !DETERMINER
+OF IMPORTANCE !DETERMINER
+OF IMPORTANCE HERE
+OF IMPORTANCE HERE !DETERMINER
+OF IMPORTANCE to this
+of increased
+of increased interest
+of increasing
+OF INCREASING !CURIOSITYOBJECT
+OF INCREASING !CURIOSITYOBJECT !DETERMINER
+of increasing interest
+of interest !AUX
+of interest !AUX !DETERMINER
+of interest here
+of interest here !AUX
+OF INTEREST TO !DETERMINER
+OF INTEREST TO !DETERMINER !DETERMINER
+of intrigue
+OF MAJOR INTEREST !DETERMINER
+OF MAJOR INTEREST to
+of most interest
+of much interest
+of particular interest
+of possible interest
+of possible relevance
+of special interest
+of special interest !AUX
+of special interest !AUX !DETERMINER
+of special note
+of special note !AUX
+of special note !AUX !DETERMINER
+of who
+of why
+of why this
+on !QUESTION
+ON !QUESTION !DETERMINER
+on !QUESTION !INDEFINITEADDRESSEE thinks
+on !QUESTION !YOU think
+on !QUESTION to
+one's concern !AUX
+one's mind boggles
+one !MUSTSHOULD PROBE
+one has to consider
+one question arises
+one question comes up
+one question emerges
+one question keeps
+only discovered
+only found out
+only known
+only realized
+only to discover that
+only to find out
+only to find out that
+only to learn
+only to learn that
+open question
+open questions
+or !AUX it that
+others have wondered
+others wondered
+ought to think it through
+Our FOCUS !AUX ON
+out of curiosity
+peg !DETERMINER market
+peg out
+pegged !DETERMINER market
+pegged out
+pegging !DETERMINER market
+pegging out
+pegs !DETERMINER market
+pegs out
+perpetual question
+perpetual questions
+perplexed question
+perplexed questions
+philosophical inquiries
+philosophical inquiry
+philosophical investigation
+philosophical investigations
+pick !DETERMINER brains of
+pick !POSSESSIVEPRONOUN brains
+pick my brains
+pick our brains
+pick your brains
+picked !DETERMINER brains of
+picked !POSSESSIVEPRONOUN brains
+picked my brains
+picked our brains
+picked your brains
+picking !DETERMINER brains of
+picking !POSSESSIVEPRONOUN brains
+picking my brains
+picking our brains
+picking your brains
+picks !DETERMINER brains of
+picks !POSSESSIVEPRONOUN brains
+picks my brains
+picks our brains
+picks your brains
+piece out !DETERMINER puzzle
+piece together
+piece together !DETERMINER clues
+pieced out !DETERMINER puzzle
+pieced together
+pieced together !DETERMINER clues
+pieces out !DETERMINER puzzle
+pieces together
+pieces together !DETERMINER clues
+piecing out !DETERMINER puzzle
+piecing together
+piecing together !DETERMINER clues
+pique !POSSESSIVEPRONOUN curiosity
+pique !POSSESSIVEPRONOUN interest
+pique curiosity
+pique my interest
+pique our interest
+pique your interest
+piqued !POSSESSIVEPRONOUN curiosity
+piqued !POSSESSIVEPRONOUN interest
+piqued curiosity
+piqued my interest
+piqued our interest
+piqued your interest
+piques !POSSESSIVEPRONOUN curiosity
+piques !POSSESSIVEPRONOUN interest
+piques curosity
+piques my interest
+piques our interest
+piques your interest
+piquing !POSSESSIVEPRONOUN curiosity
+piquing !POSSESSIVEPRONOUN interest
+piquing curosity
+piquing my interest
+piquing our interest
+piquing your interest
+planetesimal hypotheses
+planetesimal hypothesis
+plumb !DETERMINER depths
+plumbed !DETERMINER depths
+plumbing !DETERMINER depths
+plumbs !DETERMINER depths
+point in question
+point of interest
+point to be solved
+points in question
+points of interest
+points to be solved
+poke around for
+poke into it
+poked around for
+poked into
+pokes around for
+pokes into it
+poking around for
+poking into it
+police inquiries
+police inquiry
+police interrogation
+police interrogations
+police investigation
+police investigations
+political question
+political questions
+PONDER
+ponder about
+ponder over
+ponderable
+ponderables
+PONDERED
+pondered about
+pondered over
+PONDERING
+pondering about
+pondering over
+PONDERS
+ponders about
+ponders over
+pose !DETERMINER challenge
+POSE !DETERMINER question
+posed !DETERMINER challenge
+posed !DETERMINER question
+poses !DETERMINER challenge
+poses !DETERMINER question
+posing !DETERMINER challenge
+POSing !DETERMINER question
+possible interest
+possible relevance
+practice upon
+practiced upon
+practices upon
+practicing upon
+present !DETERMINER different challenge
+present !DETERMINER similar challenge
+presented !DETERMINER challenge
+presented !DETERMINER different challenge
+presented !DETERMINER similar challenge
+presenting !DETERMINER challenge
+presenting !DETERMINER different challenge
+presenting !DETERMINER similar challenge
+presents !DETERMINER challenge
+presents !DETERMINER different challenge
+presents !DETERMINER similar challenge
+PROBE
+probe widened
+probe widens
+probed
+PROBES
+probing
+probingly
+problem to be solved
+problematics
+problematize
+problematized
+problematizes
+problematizing
+problems to be solved
+productive question
+productive questions
+prompt !INDEFINITEADDRESSEE to ask
+prompted !INDEFINITEADDRESSEE to ask
+prompting !INDEFINITEADDRESSEE to ask
+prompts !INDEFINITEADDRESSEE to ask
+propound
+propound !DETERMINER question
+propounded !DETERMINER question
+propounding
+propounding !DETERMINER question
+propounds !DETERMINER question
+pursue !DETERMINER !IDEA
+pursue !DETERMINER arts of peace
+pursue !DETERMINER inquiry
+pursue !DETERMINER policy of
+pursue !DETERMINER strategy
+pursue !DETERMINER study
+pursue !POSSESSIVEPRONOUN education
+pursue my education
+pursue our education
+pursue studies
+pursue studies in
+pursue your education
+pursued !DETERMINER !IDEA
+pursued !DETERMINER arts of peace
+pursued !DETERMINER inquiry
+pursued !DETERMINER policy of
+pursued !DETERMINER strategy
+pursued !DETERMINER study
+pursued !POSSESSIVEPRONOUN education
+pursued my education
+pursued our education
+pursued studies
+pursued studies in
+pursued your education
+pursues !DETERMINER !IDEA
+pursues !DETERMINER arts of peace
+pursues !DETERMINER inquiry
+pursues !DETERMINER policy of
+pursues !DETERMINER strategy
+pursues !DETERMINER study
+pursues !POSSESSIVEPRONOUN education
+pursues my education
+pursues our education
+pursues studies
+pursues studies in
+pursues your education
+pursuing !DETERMINER !IDEA
+pursuing !DETERMINER arts of peace
+pursuing !DETERMINER inquiry
+pursuing !DETERMINER policy of
+pursuing !DETERMINER strategy
+pursuing !DETERMINER study
+pursuing !POSSESSIVEPRONOUN education
+pursuing my education
+pursuing our education
+pursuing studies
+pursuing studies in
+pursuing your education
+put !DETERMINER question in
+put !DETERMINER question into
+puts !DETERMINER question in
+puts !DETERMINER question into
+putting !DETERMINER question in
+putting !DETERMINER question into
+puzzle out
+puzzle over
+puzzle through
+puzzled out
+puzzled through
+puzzles out
+puzzles over
+puzzles through
+puzzling out
+puzzling over
+puzzling problem
+puzzling through
+queried
+queried !DETERMINER
+queried !POSSESSIVEPRONOUN
+queries
+queries !DETERMINER
+queries !POSSESSIVEPRONOUN
+querist
+querists
+query
+query !DETERMINER
+query !POSSESSIVEPRONOUN
+querying
+querying !DETERMINER
+querying !POSSESSIVEPRONOUN
+question-wise
+question to raise
+questions to raise
+raise !DETERMINER question
+raise important
+raise important questions
+raise serious
+raise serious questions
+raised !DETERMINER question
+raised important
+raised important questions
+raised many points
+raised many questions
+raised serious
+raised serious questions
+raised several points
+raised several questions
+raises !DETERMINER question
+raises important
+raises important questions
+raises serious
+raises serious questions
+raising !DETERMINER question
+raising !DETERMINER question whether
+raising important
+raising important questions
+raising serious
+raising serious questions
+real riddle
+reason !DETERMINER point
+reason !QUESTION
+reason out
+reasoned !DETERMINER point
+reasoned !QUESTION
+reasoned out
+reasoning !DETERMINER point
+reasoning !QUESTION
+reasoning out
+reasons !DETERMINER point
+reasons !QUESTION
+reasons out
+regarding !QUESTION
+relative to !QUESTION
+relevance for us
+relevance to us
+religious question
+religious questions
+remain uninvestigated
+remain unsolved
+remained uninvestigated
+remained unsolved
+remaining uninvestigated
+remaining unsolving
+remains !DETERMINER riddle
+remains uninvestigated
+remains unknown
+remains unproved
+remains unsolved
+research in
+research inquiries
+research inquiry
+research studies
+research study
+researches in
+result about
+result on
+results about
+results on
+reveal !QUESTION
+revealed !QUESTION
+revealing !QUESTION
+reveals !QUESTION
+rich concept
+rich concept to grasp
+rich concepts
+rich concepts to grasp
+riddle
+riddle of !DETERMINER Sphinx
+ruminate
+ruminate about
+ruminate on
+ruminate over
+ruminated
+ruminated about
+ruminated on
+ruminated over
+ruminates
+ruminates about
+ruminates on
+ruminates over
+ruminating
+ruminating about
+ruminating on
+ruminating over
+rumination
+ruminations
+ruminative
+ruminatively
+ruminator
+ruminators
+rummage around for
+rummaged around for
+rummaging around for
+salvage !DETERMINER clues
+salvaged !DETERMINER clues
+salvages !DETERMINER clues
+salvaging !DETERMINER clues
+scavenge around for
+scavenged around for
+scavenging around for
+scope out
+scoped out
+scopes out
+scoping out
+scout out
+scout out !DETERMINER
+scout out !POSSESSIVEPRONOUN
+scout out !PRONOUNOBJECTIVE
+scouted out
+scouted out !DETERMINER
+scouted out !POSSESSIVEPRONOUN
+scouted out !PRONOUNOBJECTIVE
+scouting out
+scouting out !PRONOUNOBJECTIVE
+scouts out
+scouts out !DETERMINER
+scouts out !POSSESSIVEPRONOUN
+scrutable
+scrutator
+scrutators
+search around for
+search out
+search through
+searched around for
+searched into
+searched out
+searched through
+searches around for
+searches out
+searches through
+searching around for
+searching into
+searching investigation
+searching investigations
+searching out
+searching through
+seek !DETERMINER truth
+seeker of
+seekers of
+seeking !DETERMINER truth
+seeks !DETERMINER truth
+SEEMED CURIOUS
+sense of awe
+sense of awe and wonder
+sense of wonder
+senses of awe
+senses of awe and wonder
+senses of wonder
+serve to explain
+served to explain
+serves to explain
+serving to explain
+shall !PROBLEMTOOLS
+shed fresh light
+shed fresh light on
+shed fresh light upon
+shed new light
+shed new light on
+shed new light upon
+shedding fresh light
+shedding fresh light on
+shedding fresh light upon
+shedding new light
+shedding new light on
+shedding new light upon
+sheds fresh light
+sheds fresh light on
+sheds fresh light upon
+sheds new light
+sheds new light on
+sheds new light upon
+shoot questions at
+shooting questions at
+shoots questions at
+shop around for
+shopped around for
+shopping around for
+shops around for
+shot questions at
+show !QUESTION
+showed !QUESTION
+SHOWED CURIOUSITY
+showing !QUESTION
+shows !QUESTION
+shrouded-in-darkness
+shrouded-in-mystery
+shrouded in darkness
+shrouded in mystery
+significant question
+significant questions
+simple idea
+simple ideas
+sixty-four-dollar question
+sixty-four-thousand-dollar question
+Snoop around for
+Snooped around for
+Snooping around for
+Snoops around for
+so !AUX it
+so !QUESTION !AUX
+so !QUESTION !MODAL
+so !QUESTION will
+solve !DETERMINER issue
+solve !DETERMINER mystery
+solved !DETERMINER mystery
+solves !DETERMINER mystery
+solving !DETERMINER mystery
+some have wondered
+some options
+some wondered
+someday know
+something's missing
+something missing
+something to chew on
+something to get your teeth into
+something to think about
+sought !DETERMINER truth
+sound !PRONOUNOBJECTIVE out
+sound him out
+sound me out
+sound out !DETERMINER !IDEA
+sound us out
+sounded !PRONOUNOBJECTIVE out
+sounded him out
+sounded me out
+sounded out !DETERMINER !IDEA
+sounded us out
+sounding !PRONOUNOBJECTIVE out
+sounding him out
+sounding me out
+sounding out !DETERMINER !IDEA
+sounding us out
+sounds !PRONOUNOBJECTIVE out
+sounds him out
+sounds me out
+sounds out !DETERMINER !IDEA
+sounds us out
+space-exploration
+space-explorations
+space-research
+space exploration
+space explorations
+space research
+spark !DETERMINER curiosity
+SPARK INTEREST
+SPARK INTEREST IN
+sparked !DETERMINER curiosity
+sparked interest
+sparking !DETERMINER curiosity
+sparking interest
+SPARKING INTEREST IN
+sparks !DETERMINER curiosity
+SPARKS INTEREST
+SPARKS INTEREST IN
+special interest
+special interest to
+specific options
+speculated on
+startled to discover
+startled to find
+startled to learn
+still curious
+still puzzling
+still to be proved
+still unasked
+still unproved
+stir !DETERMINER imagination
+stirred !DETERMINER imagination
+stirring !DETERMINER imagination
+stirs !DETERMINER imagination
+stock !DETERMINER mind with
+stocked !DETERMINER mind with
+stocking !DETERMINER mind with
+stocks !DETERMINER mind with
+strange-achieved
+strange-clad
+strange-colored
+strange-composed
+strange-disposed
+strange-fashioned
+strange-favored
+strange-garbed
+strange-looking
+strange-met
+strange-plumaged
+strange-sounding
+strange-tongued
+strange-truth
+strange-truths
+strange-voiced
+strange-wayed
+strange duck
+strange ducks
+strange man
+strange men
+strange particle
+strange particles
+strange thing
+strange things
+strange to
+strange to say
+strange truth
+strange truths
+strange woman
+strange women
+straw to show !DETERMINER wind
+straws to show !DETERMINER wind
+strength-testing
+Striking find
+Striking finds
+Striking result
+Striking results
+studied !POSSESSIVEPRONOUN part
+studied !QUESTION
+STUDIED EXPRESSION
+STUDIED GAZE
+studied look
+studied looks
+studied my part
+studied on
+studied our part
+studied smile
+studied up
+studied up on
+studied your part
+studiedness
+studies
+studies !DETERMINER
+studies !POSSESSIVEPRONOUN
+studies !POSSESSIVEPRONOUN part
+studies !PRONOUNOBJECTIVE
+studies !QUESTION
+studies my part
+studies of
+studies on
+studies our part
+studies up
+studies up on
+studies your part
+study
+study-bearing
+study-bred
+study-explored
+study-given
+study-inquired
+study-inquiry
+study-investigated
+study-loving
+study !DETERMINER
+study !POSSESSIVEPRONOUN
+study !POSSESSIVEPRONOUN part
+study !PRONOUNOBJECTIVE
+study !QUESTION
+study bred
+study breds
+study explored
+study explores
+study in
+study in still life
+study inquired into
+study inquires into
+study investigated
+study investigates
+study my part
+study of
+study on
+study our part
+study up
+study up on
+study your part
+studying
+studying !DETERMINER
+studying !POSSESSIVEPRONOUN
+studying !POSSESSIVEPRONOUN part
+studying !PRONOUNOBJECTIVE
+studying !QUESTION
+studying my part
+studying on
+studying our part
+studying up
+studying up on
+studying your part
+subject for thought
+subject for thoughts
+subject of thought
+subject of thoughts
+subject to close scrutiny
+subjected to close examination
+subjected to close scrutiny
+subjecting to close scrutiny
+subjects to close scrutiny
+submit to !DETERMINER test
+submits to !DETERMINER test
+submitted to !DETERMINER test
+submitting to !DETERMINER test
+surprised to discover
+surprised to find
+surprised to find out
+surprised to learn
+SURPRISES TO discover
+surprisingly
+surprisingly there !AUX
+symbolize !QUESTION
+symbolized !QUESTION
+symbolizes !QUESTION
+symbolizing !QUESTION
+tease-out
+tease out
+teased-out
+teased out
+teases-out
+teases out
+teasing-out
+teasing out
+tell !PRONOUNOBJECTIVE apart from
+tell apart from
+telling !PRONOUNOBJECTIVE apart from
+telling apart from
+telling details
+tells !PRONOUNOBJECTIVE apart from
+tells apart from
+terra ignota
+terra incognita
+terra miraculosa
+test-bed
+test-beds
+test whether
+testbed
+testbeds
+tested whether
+testing-ground
+testing-grounds
+testing ground
+testing grounds
+testing whether
+tests whether
+that question
+that raises !DETERMINER question
+that there !AUX problems
+the question is
+the question that arises
+the question that comes up
+the question that emerges
+then !QUESTION !AUX it
+then !QUESTION !AUX it that
+there's !DETERMINER gap
+there's !DETERMINER gap in
+there's indication
+there's no indication
+there's some indicatino
+there !AUX great interest in
+there !AUX indication
+there !AUX little research
+there !AUX much research
+there !AUX no indication
+there !AUX no research
+there !AUX problems
+there !AUX some indication
+there !AUX surprisingly
+there !AUX wide interest
+thing of interest
+things of interest
+things to think about
+think piece
+think pieces
+think through !QUESTION
+thinking through !QUESTION
+thinks through !QUESTION
+thirst for knowledge
+thirsted for knowledge
+thirsting for knowledge
+thirsts for knowledge
+thirsty for knowledge
+thirsty soul
+thirsty souls
+this !AUX how
+this !AUX why
+this chain of argument
+this chain of inference
+this chain of inferences
+this chain of reasoning
+this invites !DETERMINER question
+this is !DETERMINER question
+this is what !ROYALWE hope to find out
+this is what !ROYALWE want to know
+this raises !DETERMINER question
+thorny problem
+thorny problems
+those questions
+thought-challenging
+thought-giving
+thought-inspiring
+thought-involving
+thought-kindled
+thought-laden
+thought-lighted
+thought-meriting
+thought-moving
+thought-out
+thought-provoking
+thought-reviving
+thought-stirring
+thought piece
+thought pieces
+thought through !QUESTION
+thrash out
+thrash over
+THRASHED IT OUT
+thrashed out
+thrashed over
+thrashes out
+thrashes over
+thrashing out
+thrashing over
+THREADED !POSSESSIVEPRONOUN WAY THROUGH
+through !QUESTION
+through with !DETERMINER fine tooth comb
+throwing open !DETERMINER findings
+throwing open !DETERMINER investigation
+throwing open !DETERMINER mystery
+throwing open !DETERMINER puzzle
+throwing open !DETERMINER results
+throwing open !DETERMINER search
+tinker at
+tinker in
+tinker with
+tinkered at
+tinkered in
+tinkered on
+tinkered with
+tinkering
+tinkering at
+tinkering in
+tinkering with
+tinkers at
+tinkers in
+tinkers with
+to !POSSESSIVEPRONOUN amazement
+to !POSSESSIVEPRONOUN astonishment
+to !POSSESSIVEPRONOUN great surprise
+to !POSSESSIVEPRONOUN surprise
+to !QUESTION !AUX
+to !QUESTION place
+to analyze
+to be determined
+to be gleaned
+to be gleaned from
+to be solved
+to conjecture
+to consider
+to discover !QUESTION
+to examine
+to experiment
+to explain
+to explain !QUESTION
+to explore
+to find it
+to find it curious
+to find it puzzling
+to hypothesize
+to inquire
+to investigate
+to know !QUESTION
+To learn
+to learn !QUESTION
+to my amazement
+to my astonishment
+to my great surprise
+to my surprise
+to our amazement
+to our astonishment
+to our great surprise
+to our surprise
+to probe
+to ruminate
+to see !QUESTION
+to your amazement
+to your astonishment
+to your great surprise
+told !PRONOUNOBJECTIVE apart from
+told apart from
+tough nut-to-crack
+toy with !DETERMINER !IDEA
+toyed with !DETERMINER !IDEA
+toying with !DETERMINER !IDEA
+toys with !DETERMINER !IDEA
+trace !DETERMINER derivation
+trace !DETERMINER derivations
+trace !DETERMINER origin
+trace !DETERMINER origins
+trace down
+trace it down
+trace to
+traced !DETERMINER derivation
+traced !DETERMINER derivations
+traced !DETERMINER origin
+traced !DETERMINER origins
+traced down
+traced it down
+traced to
+tracer investigation
+tracer investigations
+traces !DETERMINER derivation
+traces !DETERMINER derivations
+traces !DETERMINER origin
+traces !DETERMINER origins
+traces down
+traces it down
+traces to
+tracing !DETERMINER derivation
+tracing !DETERMINER derivations
+tracing !DETERMINER origin
+tracing !DETERMINER origins
+tracing down
+tracing it down
+tracing to
+track down !DETERMINER idea
+track it down
+tracked down !DETERMINER idea
+tracked it down
+tracking down !DETERMINER idea
+tracking it down
+tracks down !DETERMINER idea
+tracks it down
+travel new
+traveled new
+traveling new
+travels new
+twenty questions
+unanswered
+unargued
+unascertained
+unasked
+unasked question
+unasked questions
+unattributed
+uncannily
+uncanniness
+uncanny
+uncashed
+uncharacteristically,
+uncharted territory
+unchosen
+uncover !QUESTION
+uncover who
+uncovered !QUESTION
+uncovered who
+uncovering !QUESTION
+uncovering who
+uncovers !QUESTION
+uncovers who
+undatable
+under !DETERMINER thinking that
+under this chain of argument
+under this chain of inference
+under this chain of inferences
+under this chain of reasoning
+under this line of argument
+under this line of inference
+under this line of inferences
+under this line of reasoning
+under this line of thought
+under this reasoning
+underlying assumptions
+understand all about
+understanding !QUESTION
+understanding all about
+understands all about
+understood all about
+undiscovered
+undiscussed
+unexhibited
+unexplained mysteries
+unexplained mystery
+unexplained puzzle
+unexplained puzzles
+unexplored
+unexplored ground
+unexplored grounds
+unexplored territories
+unexplored territory
+unfathomable mysteries
+unfathomable mystery
+unfathomable problem
+unfathomable problems
+unfathomable puzzle
+unfathomable puzzles
+unfathomed curiosities
+unfathomed deeps
+unfathomed depths
+unfathomed mysteries
+unfathomed problems
+unfathomed puzzles
+unheard of
+unimaginable only !DETERMINER few years back
+unimaginable question
+unimaginably fascinating
+unimaginably intriguing
+uninvented
+uninvestigated
+unkennel !DETERMINER hidden
+unkennel !DETERMINER mystery
+unkennel !DETERMINER puzzle
+unkennel !DETERMINER secret
+unkenneled !DETERMINER hidden
+unkenneled !DETERMINER mystery
+unkenneled !DETERMINER puzzle
+unkenneled !DETERMINER secret
+unkenneling !DETERMINER hidden
+unkenneling !DETERMINER mystery
+unkenneling !DETERMINER puzzle
+unkenneling !DETERMINER secret
+unkennels !DETERMINER hidden
+unkennels !DETERMINER mystery
+unkennels !DETERMINER puzzle
+unkennels !DETERMINER secret
+unknot !DETERMINER hidden
+unknot !DETERMINER mystery
+unknot !DETERMINER puzzle
+unknot !DETERMINER secret
+unknots !DETERMINER hidden
+unknots !DETERMINER mystery
+unknots !DETERMINER puzzle
+unknots !DETERMINER secret
+unknotted !DETERMINER hidden
+unknotted !DETERMINER mystery
+unknotted !DETERMINER puzzle
+unknotted !DETERMINER secret
+unknotting !DETERMINER hidden
+unknotting !DETERMINER mystery
+unknotting !DETERMINER puzzle
+unknotting !DETERMINER secret
+unknown depth
+unknown depths
+unknown quantities
+unknowns
+unlock !DETERMINER mystery
+unlocked !DETERMINER mystery
+unlocking !DETERMINER mystery
+unlocks !DETERMINER mystery
+unmanipulated
+unmapped
+unmetered
+unmodern
+unnameable
+unplumbed
+unplumbed depth
+unplumbed depths
+unpolemical		1
+unpredictabilities
+unravel
+UNRAVEL !DETERMINER !PROBLEM
+unravel !QUESTION
+unravel which
+unravel who
+unraveled
+unraveled !QUESTION
+unraveled which
+unraveled who
+unraveling
+UNRAVELING !DETERMINER !PROBLEM
+unraveling !QUESTION
+unraveling which
+unraveling who
+unraveller
+unravellers
+unravels
+unravels  !QUESTION
+unravels  who
+UNRAVELS !DETERMINER !PROBLEM
+unravels which
+unresearched
+unrevised
+unriddle
+unriddled
+unriddles
+unriddling
+unscramble
+unscrambled
+unscrambles
+unscrambling
+unsolved
+unsure about exactly
+unsure exactly
+unsure which
+untaken
+untangle !DETERMINER hidden
+untangle !DETERMINER mystery
+untangle !DETERMINER puzzle
+untangle !DETERMINER secret
+untangled !DETERMINER hidden
+untangled !DETERMINER mystery
+untangled !DETERMINER puzzle
+untangled !DETERMINER secret
+untangles !DETERMINER hidden
+untangles !DETERMINER mystery
+untangles !DETERMINER puzzle
+untangles !DETERMINER secret
+untangling !DETERMINER hidden
+untangling !DETERMINER mystery
+untangling !DETERMINER puzzle
+untangling !DETERMINER secret
+untried
+untwine !DETERMINER mystery
+untwined !DETERMINER mystery
+untwines !DETERMINER mystery
+untwining !DETERMINER mystery
+untwist !DETERMINER mystery
+untwisted !DETERMINER mystery
+untwisting !DETERMINER mystery
+untwists !DETERMINER mystery
+untying !DETERMINER mystery
+unweave !DETERMINER mystery
+unweaves !DETERMINER mystery
+unweaving !DETERMINER mystery
+use !DETERMINER experimental sample
+use research
+used !DETERMINER experimental sample
+used research
+useful question
+useful questions
+uses !DETERMINER experimental sample
+uses research
+using !DETERMINER experimental sample
+using research
+vexing questions
+viewing interest
+viewing interests
+wait to see !QUESTION
+wait to see !QUESTION !DETERMINER cat jumps
+wait to see !QUESTION !DETERMINER wind blows
+waited to see !QUESTION
+waited to see !QUESTION !DETERMINER cat jumps
+waited to see !QUESTION !DETERMINER wind blows
+waiting to see !QUESTION
+waiting to see !QUESTION !DETERMINER cat jumps
+waiting to see !QUESTION !DETERMINER wind blows
+waits to see !QUESTION
+waits to see !QUESTION !DETERMINER cat jumps
+waits to see !QUESTION !DETERMINER wind blows
+want to know !QUESTION
+WAS CURIOUS ABOUT
+was there anything
+we'd like to know !QUESTION
+web of intrigue
+webs of intrigue
+went unasked
+were !INDEFINITEADDRESSEE curious to
+were !INDEFINITEADDRESSEE disposed to
+were !INDEFINITEADDRESSEE inclined to
+were !INDEFINITEADDRESSEE interested to
+were !INDEFINITEADDRESSEE prone to
+were !INDEFINITEADDRESSEE to
+were !INDEFINITEADDRESSEE to !INQUIREVERBSTEM
+were !INDEFINITEADDRESSEE to consider
+were !INDEFINITEADDRESSEE to know
+were one !INQUIREVERBING
+were one to !INQUIREVERBSTEM
+what's behind
+what's going on
+what's going on here
+what's happening
+what's hiding
+what's lurking
+what !AUX !DETERMINER nature of
+what !AUX !DETERMINER next step?
+what !AUX !PRONOUNNOMINAL to become
+what !AUX !ROYALWE to make of
+what !AUX !ROYALWE to think about
+what !AUX funny
+what !AUX it then
+what !AUX it with
+what !AUX odd
+what !AUX one to make of
+what !AUX our next move
+what !AUX our next step
+what !AUX our options
+what !AUX our options?
+what !AUX revealed
+what !AUX strange
+what !AUX to become
+what !AUX to become of
+what !INDEFINITEADDRESSEE !MODAL !READERFOCUS
+what !MODAL !ROYALWE to make of this
+what !ROYALWE hope to find out
+what !ROYALWE want to know
+what about !INQUIREVERBING
+what does this imply
+what does this imply for
+what does this mean
+what does this mean for
+what is behind
+what is hiding
+what is it like
+what is it like to be
+what is lurking
+what it's like to be
+what it has
+what it is like to be
+what makes me think
+what to
+what will it take
+what will it take before
+where-to
+where to
+wherever it leads
+whet !DETERMINER curiosity
+whet !DETERMINER interest
+whet !POSSESSIVEPRONOUN curiosity
+whet !POSSESSIVEPRONOUN interest
+whet my curiosity
+whet my interest
+whet our curiosity
+whet our interest
+whether !PRONOUNNOMINAL !MODAL
+whether !PRONOUNNOMINAL !MODAL help
+whether !PRONOUNNOMINAL has
+whether !PRONOUNNOMINAL hasn't
+whether !PRONOUNNOMINAL have
+whether !PRONOUNNOMINAL haven't
+whether !ROYALWE !MODAL
+whether !ROYALWE !MODAL !DISCOVERY
+whether !ROYALWE !MODAL !DISCOVERY !AUX
+whether !ROYALWE !MODAL !DISCOVERY !AUX !DETERMINER question
+whether !ROYALWE !MODAL help
+whether !ROYALWE have
+whether !ROYALWE haven't
+whether !YOU !MODAL
+whether !YOU !MODAL help
+whether !YOU have
+whether !YOU haven't
+whether he !MODAL
+whether he !MODAL help
+whether he has
+whether he hasn't
+whether it !AUX feasible
+whether it !AUX possible
+whether it !MODAL happen
+whether it !MODAL help
+whether it happened
+whether it has
+whether it hasn't
+whether there !AUX
+whets !DETERMINER curiosity
+whets !DETERMINER interest
+whets !POSSESSIVEPRONOUN curiosity
+whets !POSSESSIVEPRONOUN interest
+whets my curiosity
+whets my interest
+whets our curiosity
+whets our interest
+whetted !DETERMINER curiosity
+whetted !DETERMINER interest
+whetted !POSSESSIVEPRONOUN curiosity
+whetted !POSSESSIVEPRONOUN interest
+whetted my curiosity
+whetted my interest
+whetted our curiosity
+whetted our interest
+whetting !DETERMINER curiosity
+whetting !DETERMINER interest
+whetting !POSSESSIVEPRONOUN curiosity
+whetting !POSSESSIVEPRONOUN interest
+whetting my curiosity
+whetting my interest
+whetting our curiosity
+whetting our interest
+which !AUX odd
+which !AUX strange
+which raises !DETERMINER interesting question
+which raises !DETERMINER intriguing question
+which raises !DETERMINER question
+which raises interesting questions
+which raises intriguing questions
+which raises questions
+which will it be
+who !AUX !INDEFINITEADDRESSEE to
+who !AUX to say that
+who !MUSTSHOULD be
+who !MUSTSHOULD do
+who !MUSTSHOULD have
+who and !QUESTION
+who does !DETERMINER deed?
+who it !AUX
+who it !AUX that
+who it was that
+who or !QUESTION
+who to
+who to make
+who wants to know?
+who was it who
+who would have thought it
+who would have thought that
+whom !AUX !INDEFINITEADDRESSEE to
+why !AUX
+why !AUX  !POSSESSIVEPRONOUN
+why !AUX  the
+why !AUX  the correct way to
+why !AUX  the easiest way to
+why !AUX  the right way to
+why !AUX !PRONOUNNOMINAL
+why !AUX we
+why !AUX we supposed to
+why !AUX your rudder
+why !PRONOUNNOMINAL feel the way !PRONOUNNOMINAL do
+why !PRONOUNNOMINAL feel the way that !PRONOUNNOMINAL do
+why !PRONOUNNOMINAL feels the way !PRONOUNNOMINAL does
+why !PRONOUNNOMINAL feels the way that !PRONOUNNOMINAL does
+why !ROYALWE
+why /what
+why am I supposed to
+why and when did
+why and where did
+why and why did
+why best to
+why better to
+why better to do than
+why can
+why did
+why did !PRONOUNNOMINAL
+why did he do it in the first place?
+why did it happen
+why did she do it in the first place?
+why did they do it in the first place?
+why do
+why do !PRONOUNNOMINAL
+why do !PRONOUNNOMINAL get for
+why do !PRONOUNNOMINAL have
+why do !ROYALWE
+why do !ROYALWE do if
+why do !ROYALWE get for
+why do !ROYALWE get off
+why do !ROYALWE go
+why do !ROYALWE go why
+why do !ROYALWE learn
+why do !ROYALWE log-on
+why do !ROYALWE stop
+Why do they want to
+Why do we
+why do we have
+Why does
+why does !PRONOUNNOMINAL get for
+why does !PRONOUNNOMINAL have
+why does he want to
+why does it
+why does it get
+why does it have
+why does one
+why does she want to
+why else
+why else !AUX  new
+why else !MODAL
+why else !MODAL !PRONOUNNOMINAL
+why else !MODAL !PRONOUNNOMINAL have to
+why else do
+why else do !PRONOUNNOMINAL
+why else do !PRONOUNNOMINAL have
+why else does
+why good
+why has
+why has !PRONOUNNOMINAL
+why has !PRONOUNNOMINAL not
+why have
+why have !PRONOUNNOMINAL
+why have !PRONOUNNOMINAL not
+why if
+why if !ROYALWE don't want to be
+why if !ROYALWE have trouble
+why if !ROYALWE run into trouble
+why if it
+why isn't
+why isn't nowadays
+why isn't these days
+why it
+why it has
+why matter
+why more deserving
+why more qualified
+why of it
+why order of
+why savings
+why should anyone care
+why should one care
+why should we care
+why signatures
+why survey
+why surveying
+why then
+why think
+why this was done
+why time
+why time !AUX  it
+why to turn
+why to turn to
+why type of
+why types
+why types of
+why varieties
+why was it
+why was?
+why were/are
+why were?
+whyfor
+whyfors
+whys and wherefores
+wide interest
+widening interest
+will !YOU run that by again
+wisdom-seeking
+with !DETERMINER question
+with !DETERMINER question of
+with !DETERMINER questions
+with curiosity
+with respect to !QUESTION
+with wonder
+with wonderful
+WONDER
+wonder-beaming
+wonder-bearing
+wonder-charmed
+wonder-dumb
+wonder-exciting
+wonder-fed
+wonder-loving
+wonder-raising
+wonder-sharing
+wonder-smit
+wonder-smitten
+wonder-stirring
+wonder-whether
+WONDER !QUESTION
+WONDER !QUESTION !DETERMINER
+wonder !QUESTION !PRONOUNNOMINAL will land up
+WONDER !QUESTION SUCH
+WONDER !QUESTION SUCH !DETERMINER THING
+wonder !QUESTION that
+wonder about
+wonder aloud
+wonder and awe
+wonder beaming
+wonder bearing
+wonder charmed
+wonder dumb
+wonder exciting
+wonder fed
+wonder if
+wonder loving
+WONDER OF
+wonder of !DETERMINER world
+wonder raising
+wonder sharing
+wonder smit
+wonder smitten
+wonder stirring
+wonder whether
+wondered-whether
+wondered !QUESTION
+WONDERED !QUESTION !DETERMINER
+wondered !QUESTION !PRONOUNNOMINAL will land up
+WONDERED !QUESTION SUCH
+wondered !QUESTION that
+wondered about
+wondered about that
+wondered aloud
+wondered if
+wondered that
+WONDERED WHETHER
+wonderer
+wonderers
+wonderful strangeness
+wonderfully strange
+wondering
+wondering-whether
+WONDERING !QUESTION
+wondering !QUESTION !PRONOUNNOMINAL will land up
+WONDERING !QUESTION SUCH
+WONDERING !QUESTION SUCH !DETERMINER
+WONDERING !QUESTION SUCH !DETERMINER THING
+wondering !QUESTION that
+wondering !QUESTION will
+wondering about
+wondering aloud
+wondering if
+wondering whether
+wonderingly
+wonderland
+wonderlands
+wonderment
+wonderments
+wonders
+wonders-whether
+WONDERS !QUESTION
+WONDERS !QUESTION !DETERMINER
+wonders !QUESTION !PRONOUNNOMINAL will land up
+WONDERS !QUESTION SUCH
+WONDERS !QUESTION SUCH !DETERMINER THING
+wonders !QUESTION that
+wonders about
+wonders aloud
+wonders if
+wonders of
+wonders of !DETERMINER world
+wonders whether
+wonderstruck
+wonderworking
+wondrous
+wondrous strange
+wondrously
+wondrously strange
+wondrousness
+work through !QUESTION
+worked through !QUESTION
+working through !QUESTION
+works through !QUESTION
+world-challenging
+world-pondered
+worth thinking about
+worthwhile question
+worthwhile questions
+worthy question
+worthy questions
+would this mean
+would this mean that
+wouldn't it be exciting if it turned out
+wouldn't this be exciting if it were !DETERMINER case that
+wrapped in mystery
+wrapped in thought
+wrapped in wonder
+wrestle with !DETERMINER question
+wrestled with !DETERMINER question
+wrestles with !DETERMINER question
+wrestling with !DETERMINER question
+yet to be determined
+yet to be proved
+yet unproved

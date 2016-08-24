@@ -1,0 +1,104 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+
+!INDEFINITEADDRESSEE has !ASSERT
+!INDEFINITEADDRESSEE has !ASSERT that
+!INDEFINITEADDRESSEE has !REFUTE
+!INDEFINITEADDRESSEE has !REFUTE that
+!INDEFINITEADDRESSEE have !ASSERT
+!INDEFINITEADDRESSEE have !ASSERT that
+!INDEFINITEADDRESSEE have !REFUTE
+!INDEFINITEADDRESSEE have !REFUTE that
+!INDEFINITEADDRESSEE have ADDRESSED !DETERMINER CONCERN
+!PRONOUNNOMINAL !CITEVERBEDCONTESTED
+!PRONOUNNOMINAL !CITEVERBINGCONTESTED
+argue
+argue !DETERMINER
+argue !POSSESSIVEPRONOUN case
+argue for
+argue in support
+argue on
+argue on behalf of
+argue over
+Argue that it
+argue:
+argued
+argued !DETERMINER
+argued for
+argued on
+argued on behalf of
+argued over
+Argued that it
+argued:
+argues
+argues !DETERMINER
+argues on
+argues on behalf of
+argues over
+Argues that it
+argues:
+arguing
+arguing !DETERMINER
+arguing for
+arguing on
+arguing on behalf of
+arguing over
+Arguing that it
+arguing:
+claim !DETERMINER
+claim it as
+claim it to be
+claim to have
+claim:
+claimed
+claimed !DETERMINER
+claimed it as
+claimed it to be
+claimed to have
+claimed:
+claiming
+claiming !DETERMINER
+claiming it as
+claiming it to be
+claiming to have
+claiming:
+claims !DETERMINER
+claims it
+claims it as
+claims it to be
+claims to have
+claims:
+contend that
+contend:
+contended that
+contended:
+contending that
+contending:
+contends that
+contends:
+fashion the argument
+fashioned the argument
+fashioning the argument
+fashions the argument
+maintain that
+maintained that
+maintaining that
+maintains that
+postulate
+postulate that
+postulated
+postulated that
+postulates
+postulates that
+postulating
+postulating that
+speculate that
+speculate:
+speculated that
+speculated:
+speculates that
+speculates:
+speculating that
+speculating:

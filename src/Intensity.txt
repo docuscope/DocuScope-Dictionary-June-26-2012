@@ -1,0 +1,8186 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+!AUX !DETERMINER biting
+!AUX !DETERMINER cardinal
+!AUX !DETERMINER core
+!AUX !DETERMINER especially
+!AUX !DETERMINER facer
+!AUX !DETERMINER greatest
+!AUX !DETERMINER height of
+!AUX !DETERMINER marvel
+!AUX !DETERMINER overwhelming
+!AUX !DETERMINER rarest
+!AUX !DETERMINER serious
+!AUX !DETERMINER singular
+!AUX !DETERMINER talk of
+!AUX !DETERMINER very
+!AUX !DETERMINER very best
+!AUX absolutely
+!AUX actively
+!AUX adamant
+!AUX adamantly
+!AUX ALERT
+!AUX all ears
+!AUX all fired up
+!AUX all worked up
+!AUX awesome
+!AUX biting
+!AUX bound and determined
+!AUX bowled over
+!AUX breathless
+!AUX captivating
+!AUX captivatingly
+!AUX cardinal
+!AUX categorically
+!AUX central
+!AUX charged up
+!AUX committed to insuring
+!AUX completely unheard of
+!AUX consumed by desire
+!AUX consumed with desire
+!AUX crucial
+!AUX definitely
+!AUX determined
+!AUX earnestly
+!AUX esential
+!AUX essential to
+!AUX even
+!AUX even !DETERMINER
+!AUX exceedingly
+!AUX extremely
+!AUX facers
+!AUX far out
+!AUX fired up
+!AUX fully committed
+!AUX Fundamental
+!AUX huge
+!AUX imploring
+!AUX imploring that
+!AUX in !DETERMINER heated
+!AUX in deep
+!AUX incredible
+!AUX incredibly
+!AUX indeed
+!AUX indefinitely
+!AUX inseverable
+!AUX insistent about
+!AUX insistent that
+!AUX inspired
+!AUX intense
+!AUX into
+!AUX literally
+!AUX magical
+!AUX major
+!AUX memorable
+!AUX mesmerizing
+!AUX miracle
+!AUX miraculous
+!AUX momentum
+!AUX much
+!AUX nuts about
+!AUX nuts on
+!AUX nuts over
+!AUX of !DETERMINER utmost importance
+!AUX overpowering
+!AUX passionate
+!AUX passionate about
+!AUX passionately
+!AUX plea
+!AUX pleas
+!AUX pledged
+!AUX pledging
+!AUX plenty
+!AUX precisely
+!AUX pretty
+!AUX primary
+!AUX principal
+!AUX profound
+!AUX quite striking
+!AUX raring to
+!AUX religious about
+!AUX riveting
+!AUX sheer
+!AUX so
+!AUX so focused
+!AUX so much
+!AUX spell-binding
+!AUX striking
+!AUX striking.
+!AUX stunned
+!AUX such
+!AUX super
+!AUX sure making
+!AUX swear
+!AUX sworn
+!AUX taken aback
+!AUX thoroughly
+!AUX too.
+!AUX total
+!AUX totally
+!AUX totally unheard of
+!AUX tremendous at
+!AUX unheard of
+!AUX utmost
+!AUX utter
+!AUX utterly
+!AUX very
+!AUX very special
+!AUX way
+!AUX wholly
+!AUX worked up
+!BEAR in with
+!BOWL !PRONOUNOBJECTIVE OVER
+!BOWL !YOU OVER
+!BOWL me OVER
+!BOWL us OVER
+!BREAK !POSSESSIVEPRONOUN BACK TO
+!BRING down the house
+!BUILD !DETERMINER FIRE UNDER
+!BURN with passion
+!CANCOULD AT LEAST
+!CANCOULD AT LEAST INCLUDE
+!CANCOULD not do without
+!CARRY !PRONOUNOBJECTIVE off !POSSESSIVEPRONOUN feet
+!CARRY !YOU off your feet
+!CARRY by storm
+!CATCH !DETERMINER flame
+!CATCH fire
+!CATCH fire with
+!COME as !DETERMINER complete surprise
+!COME as !DETERMINER surprise
+!COME at !PRONOUNOBJECTIVE
+!COME at !YOU
+!COME at me
+!COME at us
+!COME hell or high water
+!COME in like !DETERMINER lion
+!COME like !DETERMINER thunderbolt
+!COME like !DETERMINER thunderclap
+!COME uncorked
+!CUT direct
+!CUT LOOSE
+!CUT LOOSE WITH
+!CUT lots
+!DETERMINER absolute
+!DETERMINER all-night
+!DETERMINER all-nighter
+!DETERMINER all-out
+!DETERMINER alpha and omega
+!DETERMINER altogether
+!DETERMINER always
+!DETERMINER awful lot of
+!DETERMINER awfully
+!DETERMINER barrage of
+!DETERMINER be-all and !DETERMINER end-all
+!DETERMINER bee in !POSSESSIVEPRONOUN bonnet
+!DETERMINER biting
+!DETERMINER burning need
+!DETERMINER chief characteristic
+!DETERMINER compleat
+!DETERMINER consuming
+!DETERMINER core
+!DETERMINER corker
+!DETERMINER decided
+!DETERMINER deepening
+!DETERMINER deluge
+!DETERMINER deluges
+!DETERMINER dickens
+!DETERMINER dickens out of
+!DETERMINER doozie of !DETERMINER
+!DETERMINER doozy of !DETERMINER
+!DETERMINER downright
+!DETERMINER drive to
+!DETERMINER driving
+!DETERMINER dynamo
+!DETERMINER enormity
+!DETERMINER entirety
+!DETERMINER entirety of
+!DETERMINER eruption of
+!DETERMINER face of !DETERMINER earth
+!DETERMINER far and away
+!DETERMINER far cry
+!DETERMINER fit
+!DETERMINER fullest
+!DETERMINER fully
+!DETERMINER giant
+!DETERMINER gogo
+!DETERMINER good !NUMS1TO100
+!DETERMINER good mind to jump
+!DETERMINER goodly
+!DETERMINER grand
+!DETERMINER great
+!DETERMINER great amount
+!DETERMINER great amount of
+!DETERMINER great beyond
+!DETERMINER great deal
+!DETERMINER great deal to
+!DETERMINER great hereafter
+!DETERMINER great majority
+!DETERMINER great many
+!DETERMINER great out-of-doors
+!DETERMINER great unknown
+!DETERMINER great unnumbered
+!DETERMINER great unwashed
+!DETERMINER great white throne
+!DETERMINER great white thrones
+!DETERMINER great world of light
+!DETERMINER greater worlds of light
+!DETERMINER greatest
+!DETERMINER greatest number
+!DETERMINER greatest numbers
+!DETERMINER gripping
+!DETERMINER heartbeat away from
+!DETERMINER heartbeat from
+!DETERMINER height of
+!DETERMINER hell out of
+!DETERMINER honest truth
+!DETERMINER hunger for
+!DETERMINER illimitable
+!DETERMINER illimitables
+!DETERMINER impassioned
+!DETERMINER ineffable
+!DETERMINER ineffables
+!DETERMINER inenarrable
+!DETERMINER inexpressible
+!DETERMINER inexpressibles
+!DETERMINER inimitable
+!DETERMINER jillion
+!DETERMINER la mort
+!DETERMINER living daylights
+!DETERMINER lot.
+!DETERMINER lulu
+!DETERMINER major point
+!DETERMINER major reason
+!DETERMINER matter of life and death
+!DETERMINER mean business
+!DETERMINER might
+!DETERMINER might of
+!DETERMINER mighty
+!DETERMINER momentum
+!DETERMINER momentum !AUX
+!DETERMINER momentum !AUX building
+!DETERMINER monster
+!DETERMINER most
+!DETERMINER most dramatic
+!DETERMINER most significant
+!DETERMINER moving quality
+!DETERMINER much needed
+!DETERMINER nail-biter
+!DETERMINER nail-biting
+!DETERMINER needed
+!DETERMINER outrance
+!DETERMINER outright
+!DETERMINER particularly
+!DETERMINER pinnacle of
+!DETERMINER pop
+!DETERMINER pow
+!DETERMINER powerhouse
+!DETERMINER primary
+!DETERMINER profound
+!DETERMINER pronounced
+!DETERMINER rage
+!DETERMINER rage of !DETERMINER
+!DETERMINER rage of all
+!DETERMINER real
+!DETERMINER real concern
+!DETERMINER real drive to
+!DETERMINER real need for
+!DETERMINER resounding
+!DETERMINER resounding no
+!DETERMINER resounding yes
+!DETERMINER riveting
+!DETERMINER rousing
+!DETERMINER self-drive
+!DETERMINER self-excited
+!DETERMINER sensation
+!DETERMINER sensation of
+!DETERMINER serious
+!DETERMINER sheer
+!DETERMINER sincere truth
+!DETERMINER smashing
+!DETERMINER special
+!DETERMINER specialness
+!DETERMINER staggering
+!DETERMINER stakes !AUX  high
+!DETERMINER stakes !AUX high
+!DETERMINER stark-naked
+!DETERMINER stiff
+!DETERMINER stirring
+!DETERMINER strong
+!DETERMINER STUDIEDLY
+!DETERMINER stunner
+!DETERMINER supreme fiction
+!DETERMINER supreme fictions
+!DETERMINER talk of
+!DETERMINER thirst for
+!DETERMINER tidy sum
+!DETERMINER tidy sum of
+!DETERMINER time-breaking
+!DETERMINER top of !POSSESSIVEPRONOUN lungs
+!DETERMINER top of !POSSESSIVEPRONOUN voice
+!DETERMINER top of !POSSESSIVEPRONOUN voices
+!DETERMINER top of my lungs
+!DETERMINER top of my voice
+!DETERMINER top of our lungs
+!DETERMINER top of our voices
+!DETERMINER top of your lungs
+!DETERMINER top of your voice
+!DETERMINER topper !AUX
+!DETERMINER torrent of
+!DETERMINER toute outrance
+!DETERMINER ultimate
+!DETERMINER ultra
+!DETERMINER unimaginable
+!DETERMINER unimaginably
+!DETERMINER unmixed feeling
+!DETERMINER urgency of
+!DETERMINER utmost
+!DETERMINER utter
+!DETERMINER utter sensation
+!DETERMINER verier
+!DETERMINER veriest
+!DETERMINER very
+!DETERMINER very existence
+!DETERMINER very idea
+!DETERMINER very last time
+!DETERMINER very least
+!DETERMINER very singular
+!DETERMINER very special
+!DETERMINER very stuff
+!DETERMINER very stuff of
+!DETERMINER very thing
+!DETERMINER very things
+!DETERMINER very witching
+!DETERMINER very words
+!DETERMINER volcanic
+!DETERMINER whirlwind
+!DETERMINER whole ball game
+!DETERMINER whole ball of wax
+!DETERMINER whole bit
+!DETERMINER whole bits
+!DETERMINER whole kit and caboodle
+!DETERMINER whole lot
+!DETERMINER whole lot less
+!DETERMINER whole lot more
+!DETERMINER whole wide world
+!DETERMINER whole works
+!DETERMINER whole world
+!DETERMINER wholesale
+!DETERMINER whopping
+!DETERMINER worst way
+!DETERMINER zealous will to
+!DETERMINER zillion
+!DETERMINER zip in
+!DETERMINER zippy
+!DO !POSSESSIVEPRONOUN damndest
+!DO !POSSESSIVEPRONOUN darndest
+!DO !POSSESSIVEPRONOUN utmost
+!DO all !PRONOUNNOMINAL !MODAL
+!DO all I !MODAL
+!DO all in !POSSESSIVEPRONOUN power
+!DO all in my power
+!DO all in our power
+!DO all in your power
+!DO also
+!DO everything
+!DO go
+!DO have
+!DO in fact
+!DO indeed
+!DO it !DETERMINER hard way
+!DO it or break !DETERMINER leg
+!DO it or bust !DETERMINER gut
+!DO it posthaste
+!DO make
+!DO matter
+!DO matter very much
+!DO my damndest
+!DO my darndest
+!DO my duty
+!DO my utmost
+!DO my very best
+!DO or die
+!DO our damndest
+!DO our darndest
+!DO our duty
+!DO our utmost
+!DO our very best
+!DO too
+!DO very much matter
+!DRIVE it home
+!DROP !DETERMINER bomb
+!DROP !DETERMINER brick
+!DROP dead
+!EAT !DETERMINER wind
+!EAT !POSSESSIVEPRONOUN head off
+!EAT my head off
+!EAT our heads off
+!EAT up !DETERMINER track
+!EAT your head off
+!FALL down on !POSSESSIVEPRONOUN knees
+!FALL down on my knees
+!FALL down on our knees
+!FALL down on your knees
+!FALL head and ears
+!FALL head over heels
+!FALL into rapture
+!FALL into raptures
+!FALL on !POSSESSIVEPRONOUN  knees
+!FALL on !POSSESSIVEPRONOUN  knees before
+!FALL on !POSSESSIVEPRONOUN  knees to
+!FALL on my knees
+!FALL on my knees before
+!FALL on my knees to
+!FALL on our knees
+!FALL on our knees before
+!FALL on our knees to
+!FALL on your knees
+!FALL on your knees before
+!FALL on your knees to
+!FEED !PRONOUNOBJECTIVE to !DETERMINER gills
+!FEED !PRONOUNOBJECTIVE to !DETERMINER teeth
+!FEED off !POSSESSIVEPRONOUN
+!FEED off my
+!FEED off of
+!FEED off our
+!FEED off your
+!FEEL acutely
+!FEEL deeply
+!FEEL so
+!FEEL strongly
+!FEEL strongly about
+!FLIP !POSSESSIVEPRONOUN lid
+!FLIP !POSSESSIVEPRONOUN WIG
+!FLIP my lid
+!FLIP my wig
+!FLIP our lid
+!FLIP our wig
+!FLIP out
+!FLIP your lid
+!FLIP your wig
+!FLY into !DETERMINER passion
+!FOLLOW !PRONOUNOBJECTIVE to the ends of the earth
+!FOLLOW me to the ends of the earth
+!FOLLOW us to the ends of the earth
+!FOLLOW you to the ends of the earth
+!GATHER steam
+!GEOREGION mile
+!GET !DETERMINER bang out of
+!GET !DETERMINER charge out of
+!GET !DETERMINER hustle
+!GET !DETERMINER hustle on
+!GET !DETERMINER kick out of
+!GET !DETERMINER teeth into
+!GET !DETERMINER WORKS
+!GET !POSSESSIVEPRONOUN blood up
+!GET !POSSESSIVEPRONOUN fingers on
+!GET !POSSESSIVEPRONOUN hands on
+!GET !POSSESSIVEPRONOUN teeth into
+!GET !YOU fingers on
+!GET !YOU hands on
+!GET all
+!GET all caught up in
+!GET at it
+!GET bit by
+!GET bit with
+!GET caught up in
+!GET crackin
+!GET cracking
+!GET cutting
+!GET down to brass tacks
+!GET down to business
+!GET into heart and soul
+!GET into it heart and soul
+!GET my blood up
+!GET my teeth into
+!GET our blood up
+!GET our fingers on
+!GET our hands on
+!GET our teeth into
+!GET up !DETERMINER full head of
+!GET up !DETERMINER head of
+!GET up !DETERMINER head of steam
+!GET up steam
+!GET up stream
+!GET your blood up
+!GIVE 'em hell
+!GIVE !DETERMINER damn
+!GIVE !DETERMINER darn
+!GIVE !DETERMINER exclamation
+!GIVE !POSSESSIVEPRONOUN eyeteeth
+!GIVE !POSSESSIVEPRONOUN eyeteeth for
+!GIVE !POSSESSIVEPRONOUN eyetooth
+!GIVE !POSSESSIVEPRONOUN kingdom in hell for
+!GIVE !POSSESSIVEPRONOUN life for !POSSESSIVEPRONOUN !GEOREGION
+!GIVE !PRONOUNOBJECTIVE !DETERMINER works
+!GIVE it !DETERMINER go
+!GIVE it all
+!GIVE it all !YOU got
+!GIVE it all he's got
+!GIVE it all I've got
+!GIVE it all she's got
+!GIVE it all they got
+!GIVE it all we've got
+!GIVE it your all
+!GIVE me !DETERMINER works
+!GIVE my eyeteeth
+!GIVE my eyeteeth for
+!GIVE my eyetooth
+!GIVE my kingdom in hell for
+!GIVE my life for your !GEOREGION
+!GIVE our eyeteeth
+!GIVE our eyeteeth for
+!GIVE our eyetooth
+!GIVE our kingdom in hell for
+!GIVE our life for our !GEOREGION
+!GIVE until it hurts
+!GIVE us !DETERMINER works
+!GIVE us !POSSESSIVEPRONOUN hand
+!GIVE us !POSSESSIVEPRONOUN hands
+!GIVE your eyeteeth to
+!GIVE your eyetooth
+!GO !DETERMINER limit
+!GO !DETERMINER whole hog
+!GO after it
+!GO all
+!GO all !DETERMINER way
+!GO all !DETERMINER way through !DETERMINER roof
+!GO all colors
+!GO all lengths
+!GO all out
+!GO all out for
+!GO all out to
+!GO ape
+!GO ape about
+!GO ape over
+!GO at full blast
+!GO at full steam
+!GO at full tilt
+!GO at it
+!GO at it hammer and tongs
+!GO at it tooth and nail
+!GO bananas
+!GO crackers
+!GO crazy
+!GO flat out
+!GO for broke
+!GO full bore
+!GO full out
+!GO full speed ahead
+!GO full speed astern
+!GO full steam ahead
+!GO full throttle
+!GO full tilt
+!GO full tilt at
+!GO gaga
+!GO great guns
+!GO hard with
+!GO head over heels
+!GO hell-bent
+!GO hell-bent for election
+!GO into heart and soul
+!GO into high gear
+!GO into hysterics
+!GO into it heart and soul
+!GO mad for
+!GO nuts
+!GO off and
+!GO on !DETERMINER binge
+!GO on !DETERMINER rip
+!GO on !DETERMINER tear
+!GO on and on
+!GO on bended knee
+!GO on bended knee to
+!GO on forever
+!GO on hands and knees
+!GO out of the way
+!GO over again and again
+!GO over and over
+!GO right through
+!GO so far as
+!GO so far as to
+!GO through fire and water
+!GO through hell and high water
+!GO to !DETERMINER ends of !DETERMINER earth
+!GO to !DETERMINER extreme
+!GO to !DETERMINER limit
+!GO to !DETERMINER wall
+!GO to all lengths
+!GO to any length
+!GO to any lengths
+!GO to extremes
+!GO to great lengths
+!GO to it
+!GO to town
+!GO to town on
+!GO up !DETERMINER wall
+!GO way of out !POSSESSIVEPRONOUN way
+!GO way out of the way
+!GO whole hog
+!GO wild for
+!GO wild over
+!HANG on every
+!HANG on for dear
+!HAVE !DETERMINER great mind to
+!HAVE !DETERMINER real need for
+!HAVE all steam on
+!HAVE ants in your pants
+!HAVe been !DETERMINER complete
+!HAVE been !DETERMINER total
+!HAVE clean
+!HAVE done nothing if not
+!HAVE hot pants for
+!HAVE it bad
+!HAVE it in spades
+!HAVE loads of
+!HAVE meant to me
+!HAVE scads
+!HAVE such
+!HIT !DETERMINER big time with !DETERMINER bang
+!HIT !DETERMINER books hard
+!HIT !DETERMINER grand slam
+!HIT !DETERMINER ground running
+!HOLD fast to
+!HOLD on like !DETERMINER bulldog
+!HOLD our ground
+!KEEP !PRONOUNOBJECTIVE at !DETERMINER edge of !POSSESSIVEPRONOUN seats
+!KEEP !PRONOUNOBJECTIVE riveted
+!KEEP !PRONOUNOBJECTIVE riveted in !POSSESSIVEPRONOUN seats
+!KEEP alert
+!KEEP doggedly at
+!KEEP IT EXCITING
+!KICK up !DETERMINER hullabaloo
+!KICK up !DETERMINER notch
+!KICK up !DETERMINER party
+!KICK up !DETERMINER racket
+!KICK up !POSSESSIVEPRONOUN heels
+!KICK up my heels
+!KICK up our heels
+!KICK up your heels
+!KNOCK 'em dead
+!KNOCK !PRONOUNOBJECTIVE dead
+!KNOCK !PRONOUNOBJECTIVE for !DETERMINER loop
+!KNOCK !REFLEXIVEPRONOUN out
+!KNOCK !YOU for !DETERMINER loop
+!KNOCK em dead
+!KNOCK for !DETERMINER loop
+!KNOCK me for !DETERMINER loop
+!KNOCK myself out
+!KNOCK ourselves out
+!KNOCK us for !DETERMINER loop
+!KNOCK yourself out
+!KNOW damn well
+!KNOW darn well
+!KNOW no bounds
+!KNOW no end
+!LAY to heart
+!LEAN over backwards
+!LEAN over backwards to
+!LEAVE completely
+!LEAVE no avenue unexplored
+!LEAVE no chance
+!LEAVE no escape
+!LEAVE no loose ends
+!LEAVE no option
+!LEAVE no room for error
+!LEAVE no stone unturned
+!LEAVE no trace
+!LEAVE no void
+!LEAVE not !DETERMINER rack behind
+!LEAVE nothing hanging
+!LEAVE nothing to chance
+!LEAVE nothing to say
+!LEAVE nothing undone
+!LEAVE out entirely
+!LEAVE out nothing
+!LET !PRONOUNOBJECTIVE rip
+!LET alone !DETERMINER
+!LET alone !QUESTION
+!LET alone how
+!LET alone that
+!LET alone where
+!LET alone who
+!LET alone why
+!LET it all
+!LET it all hang out
+!LET it all out
+!LET it roll
+!LET loose on
+!LET me be clear
+!LET me be perfectly clear
+!LET me say that
+!LET off steam
+!LIVE hard
+!LIVE up
+!MAKE !DETERMINER clean sweep
+!MAKE !DETERMINER concerted effort
+!MAKE !DETERMINER point of
+!MAKE !DETERMINER push at
+!MAKE !DETERMINER push for
+!MAKE !DETERMINER push to
+!MAKE !DETERMINER special point
+!MAKE !PRONOUNOBJECTIVE jump out of !POSSESSIVEPRONOUN skin
+!MAKE !PRONOUNOBJECTIVE say 'uncle'
+!MAKE !PRONOUNOBJECTIVE SCARCE
+!MAKE !PRONOUNOBJECTIVE see
+!MAKE !PRONOUNOBJECTIVE see double
+!MAKE all !DETERMINER difference
+!MAKE herself understood
+!MAKE himself understood
+!MAKE it to
+!MAKE loads of
+!MAKE loads of money
+!MAKE themselves understood
+!MODAL barely contain !REFLEXIVEPRONOUN
+!MODAL have knocked !PRONOUNOBJECTIVE over with !DETERMINER feather
+!MODAL not contain !REFLEXIVEPRONOUN
+!MODAL not contain yourself
+!MODAL really
+!MOUNT a fierce attack
+!MOVE to tears
+!MUSTSHOULD be had
+!MUSTSHOULD emphasize
+!MUSTSHOULD stress
+!PACK !DETERMINER wallop
+!PLAY for keeps
+!POSSESSIVEPRONOUN attention riveted
+!POSSESSIVEPRONOUN concern for
+!POSSESSIVEPRONOUN consuming
+!POSSESSIVEPRONOUN level best
+!POSSESSIVEPRONOUN utmost
+!PRONOUNNOMINAL !AUX praying that
+!PRONOUNNOMINAL pray that
+!PRONOUNNOMINAL prays that
+!PULL out all !DETERMINER stops
+!PUT !DETERMINER squeeze
+!PUT !DETERMINER squeeze on
+!PUT !POSSESSIVEPRONOUN heart into
+!PUT !POSSESSIVEPRONOUN life on !DETERMINER line
+!PUT !POSSESSIVEPRONOUN mind to
+!PUT !POSSESSIVEPRONOUN pride in !POSSESSIVEPRONOUN pocket
+!PUT !POSSESSIVEPRONOUN shoulder to !DETERMINER wheel
+!PUT !PRONOUNOBJECTIVE to all !DETERMINER seats of !DETERMINER saddle
+!PUT !PRONOUNOBJECTIVE to every corner of !DETERMINER saddle
+!PUT !YOU to all !DETERMINER seats of !DETERMINER saddle
+!PUT !YOU to every corner of !DETERMINER saddle
+!PUT forth the effort
+!PUT forth the time
+!PUT me to all !DETERMINER seats of !DETERMINER saddle
+!PUT me to every corner of !DETERMINER saddle
+!PUT my arms around
+!PUT my back into
+!PUT my back into it
+!PUT my back to
+!PUT my cross on
+!PUT my finger on
+!PUT my foot down
+!PUT my foot down on
+!PUT my foot in it
+!PUT my hair up
+!PUT my hand to
+!PUT my hand to !DETERMINER plow
+!PUT my hands in my pockets
+!PUT my hands on
+!PUT my heart into
+!PUT my Irish up
+!PUT my John Hancock on
+!PUT my life on !DETERMINER line
+!PUT my mark on
+!PUT my mind to
+!PUT my money on !DETERMINER line
+!PUT my monkey up
+!PUT my pride in my pocket
+!PUT my shoulder to !DETERMINER wheel
+!PUT my teeth on edge
+!PUT my trust in
+!PUT my trust in God
+!PUT my two cents in
+!PUT my veto upon
+!PUT my weight in !DETERMINER scale
+!PUT my whole soul in
+!PUT on steam
+!PUT us to all !DETERMINER seats of !DETERMINER saddle
+!PUT us to every corner of !DETERMINER saddle
+!QUESTION !DETERMINER blast
+!QUESTION !DETERMINER devil
+!QUESTION !DETERMINER dickens
+!QUESTION in !DETERMINER dickens
+!QUESTION in !DETERMINER name of
+!QUESTION in !DETERMINER world
+!QUESTION in creation
+!QUESTION in heavens
+!QUESTION in heavens name
+!QUESTION on earth
+!RAISE !DETERMINER clamor
+!RAISE !DETERMINER dead
+!RAISE !DETERMINER din
+!RAISE !DETERMINER hullabaloo
+!RAISE !DETERMINER roof
+!RAISE !DETERMINER ruckus
+!RAISE !DETERMINER rumpus
+!RAISE to !DETERMINER fever heat
+!RAISE to !DETERMINER fever pitch
+!RAISE up !DETERMINER voice
+!RAISE up !POSSESSIVEPRONOUN voice
+!RAISE up our voice
+!RAISE up your voice
+!REACH way down for something
+!ROLL up !POSSESSIVEPRONOUN sleeves
+!ROLL up my sleeves
+!ROLL up our sleeves
+!ROYALWE !AUX bursting to
+!ROYALWE bursted to tell
+!RUN !PRONOUNOBJECTIVE hard
+!RUN !YOU hard
+!RUN like mad
+!RUN mad
+!RUN mad after
+!RUN me hard
+!RUN us hard
+!RUN wild
+!SET !DETERMINER WORLD ON FIRE
+!SET !POSSESSIVEPRONOUN mind to
+!SET !POSSESSIVEPRONOUN minds to
+!SET FIRE TO
+!SET my mind to
+!SET our minds to
+!SET TONGUES WAGGING
+!SET your mind to
+!SHOW !POSSESSIVEPRONOUN claws
+!SHOW !POSSESSIVEPRONOUN teeth
+!SHOW amazement
+!SHOW fight
+!SHOW my claws
+!SHOW my teeth
+!SHOW our claws
+!SHOW our teeth
+!SHOW some fight
+!SHOW stopper
+!SHOW stoppers
+!SHOW your claws
+!SHOW your teeth
+!STRIKE !DETERMINER blow
+!STRIKE !DETERMINER blow for
+!STRIKE all of !DETERMINER heap
+!STRIKE at
+!STRIKE at !DETERMINER heart of
+!STRIKE at !DETERMINER root of
+!STRIKE fire
+!STRIKE fire with fire
+!STRIKE hands
+!STRIKE hard
+!STRIKE home
+!STRIKE in
+!STRIKE in with
+!STRIKE with awe
+!STRIKE with wonder
+!TAKE !DETERMINER breath away
+!TAKE !DETERMINER bull by !DETERMINER horns
+!TAKE !DETERMINER deep interest
+!TAKE !DETERMINER real interest
+!TAKE !POSSESSIVEPRONOUN  breadth away
+!TAKE !POSSESSIVEPRONOUN breath away
+!TAKE away !POSSESSIVEPRONOUN breath
+!TAKE away my breath
+!TAKE away our breath
+!TAKE away your breath
+!TAKE by storm
+!TAKE every step necessary
+!TAKE first things first
+!TAKE great pains to
+!TAKE my breadth away
+!TAKE my breath away
+!TAKE on !DETERMINER whole new meaning
+!TAKE one's breath away
+!TAKE our breadth away
+!TAKE our breath away
+!TAKE pains
+!TAKE pains to
+!TAKE up !DETERMINER cause
+!TAKE up !DETERMINER cause of
+!TAKE up activism
+!TAKE very step
+!TAKE your breadth away
+!TAKE your breath away
+!TALK studiedly
+!TURN ass
+!TURN ass over elbows
+!TURN head over heels
+!TURN on !DETERMINER juice
+!WORK !POSSESSIVEPRONOUN  butt off
+!WORK !POSSESSIVEPRONOUN  butts off
+!WORK !POSSESSIVEPRONOUN  head off
+!WORK !POSSESSIVEPRONOUN  head to !DETERMINER bone
+!WORK !POSSESSIVEPRONOUN  heads off
+!WORK !POSSESSIVEPRONOUN  tail off
+!WORK !POSSESSIVEPRONOUN  tails off
+!WORK !POSSESSIVEPRONOUN fingers to !DETERMINER bone
+!WORK !POSSESSIVEPRONOUN heart out
+!WORK !POSSESSIVEPRONOUN hearts out
+!WORK day and night
+!WORK double hours
+!WORK double tides
+!WORK like !DETERMINER cart horse
+!WORK like !DETERMINER coal heaver
+!WORK like !DETERMINER dog
+!WORK like !DETERMINER galley slave
+!WORK like !DETERMINER horse
+!WORK like !DETERMINER horse to
+!WORK like !DETERMINER machine
+!WORK like !DETERMINER slave
+!WORK like !DETERMINER Trojan
+!WORK my fingers to !DETERMINER bone
+!WORK my head off
+!WORK my head to !DETERMINER bone
+!WORK my heart out
+!WORK our fingers to !DETERMINER bone
+!WORK our head off
+!WORK our head to !DETERMINER bone
+!WORK our hearts out
+!WORK up !DETERMINER full head of
+!WORK up !DETERMINER head of
+!WORK up !DETERMINER head of steam
+!WORK your fingers to !DETERMINER bone
+!WORK your head off
+!WORK your head to !DETERMINER bone
+!WORK your heart out
+!WORK your hearts out
+!YOU can't even
+!YOU can't put down
+!YOU cannot even
+, in truth
+, very
+. !YOU do
+. don't believe me
+. even
+. even !DETERMINER
+. he does
+. how !YOU felt
+. how !YOU felt that !TIMEFRAME
+. how he felt
+. how he felt that !TIMEFRAME
+. how I felt
+. how I felt that !TIMEFRAME
+. how she felt
+. how she felt that !TIMEFRAME
+. how they felt
+. how they felt that !TIMEFRAME
+. how we felt
+. how we felt that !TIMEFRAME
+. I do
+. it does
+. never let on
+. on top of that
+. she does
+. so many
+. they do
+. to put it very
+a-plenty
+a-thrill
+a fierce
+a real hotty
+abound
+abound in
+abounded  in
+abounding
+abounding in
+abounds
+abounds in
+abounds,
+abounds.
+about !DETERMINER most
+about sheer
+above all
+above all else
+above everything
+absolute need
+absolutely best
+absolutely determined
+absolutely determined to
+absolutely guarantee
+absolutely nuts
+actively
+actual
+actually
+acute
+acutely
+acuteness
+adamance
+adamances
+adamancies
+adamancy
+adamancy about
+adamant
+adamant about
+adamant in !DETERMINER belief
+adamant in !DETERMINER beliefs
+adamant in !DETERMINER conviction
+adamant in !DETERMINER convictions
+adamant in !POSSESSIVEPRONOUN belief
+adamant in !POSSESSIVEPRONOUN beliefs
+adamant in !POSSESSIVEPRONOUN conviction
+adamant in !POSSESSIVEPRONOUN convictions
+adamant in my belief
+adamant in my beliefs
+adamant in my conviction
+adamant in my convictions
+adamant in our belief
+adamant in our beliefs
+adamant in our conviction
+adamant in our convictions
+adamant over
+adamantly
+adamants
+addicting
+addictive
+adherently
+adopt !DETERMINER cause of
+adopted !DETERMINER cause of
+adopting !DETERMINER cause of
+adopts !DETERMINER cause of
+adrenalin pumping
+affettuoso
+after all.
+agape
+agape at
+agog
+alarm
+alarum
+alarums
+all-
+all-!DETERMINER-mort
+all-abhorred
+all-able
+all-absorbing
+all-accomplished
+all-acting
+all-admired
+all-admiring
+all-advised
+all-affecting
+all-afflicting
+all-aged
+all-air
+all-amazed
+all-american
+all-appaled
+all-appointing
+all-approved
+all-approving
+all-armed
+all-around
+all-arraigning
+all-arranging
+all-assistless
+all-atoning
+all-attempting
+all-availing
+all-bearing
+all-beauteous
+all-beautiful
+all-beholding
+all-bestowing
+all-binding
+all-bitter
+all-blasting
+all-blessing
+all-bounteous
+all-bountiful
+all-bright
+all-brilliant
+all-changing
+all-cheering
+all-collected
+all-colored
+all-comfortless
+all-commander
+all-commanding
+all-compelling
+all-complying
+all-composing
+all-comprehending
+all-comprehensive
+all-comprehensiveness
+all-concealing
+all-conceiving
+all-concerning
+all-confounding
+all-conquering
+all-conscious
+all-considering
+all-constant
+all-constraining
+all-consuming
+all-content
+all-controlling
+all-convincing
+all-convincingly
+all-covering
+all-creating
+all-creator
+all-crop harvester
+all-curing
+all-daring
+all-dazzling
+all-deciding
+all-defiance
+all-defying
+all-depending
+all-designing
+all-desired
+all-despising
+all-destroyer
+all-destroying
+all-devastating
+all-devouring
+all-dimming
+all-directing
+all-discerning
+all-discovering
+all-disgraced
+all-dispensing
+all-disposer
+all-disposing
+all-divine
+all-divining
+all-dreaded
+all-dreadful
+all-drowsy
+all-earnest
+all-eating
+all-efficacious
+all-efficient
+all-eloquent
+all-embracing
+all-embracingness
+all-encompasser
+all-encompassing
+all-ending
+all-enduring
+all-engrossing
+all-engulfing
+all-enlightened
+all-enlightening
+all-enraged
+all-envied
+all-essential
+all-evil
+all-excellent
+all-expense
+all-expenses-paid
+all-eyed
+all-fair
+all-filling
+all-fired
+all-firedest
+all-firedly
+all-flaming
+all-flotation
+all-flower-water
+all-flying tail
+all-foreseeing
+all-forgetful
+all-forgetting
+all-forgiving
+all-forgotten
+all-fullness
+all-gas
+all-giver
+all-glorious
+all-golden
+all-governing
+all-gracious
+all-grasping
+all-great
+all-guiding
+all-hallow
+all-hallowed
+all-happy
+all-healing
+all-hearing
+all-heeding
+all-helping
+all-hiding
+all-honored
+all-hoping
+all-hurting
+all-idolizing
+all-illuminating
+all-imitating
+all-important
+all-impressive
+all-in
+all-in-one
+all-including
+all-inclusive
+all-inclusiveness
+all-infolding
+all-informing
+all-interesting
+all-interpreting
+all-invading
+all-involving
+all-jarred
+all-judging
+all-just
+all-justifying
+all-kind
+all-knavish
+all-knowingness
+all-land
+all-lavish
+all-licensed
+all-lovely
+all-loving
+all-maintaining
+all-maker
+all-making
+all-maturing
+all-meaningness
+all-metal
+all-might
+all-miscreative
+all-murdering
+all-night vigil
+all-nighters
+all-noble
+all-nourishing
+all-obedient
+all-obeying
+all-oblivious
+all-obscuring
+all-oil
+all-or-none
+all-or-none law
+all-ordering
+all-out
+all-out campaign
+all-over
+all-overish
+all-overishness
+all-overpowering
+all-overs
+all-overtopping
+all-panting
+all-parent
+all-pass
+all-patient
+all-peaceful
+all-penetrating
+all-peopled
+all-perceptive
+all-perfect
+all-perfection
+all-perfectness
+all-perficient
+all-persuasive
+all-pervading
+all-pervadingness
+all-pervasive
+all-pervasiveness
+all-piercing
+all-pitiless
+all-pitying
+all-pondering
+all-possessed
+all-potency
+all-potent
+all-potential
+all-power
+all-powerful ruler
+all-powerfully
+all-powerfulness
+all-praised
+all-praiseworthy
+all-presence
+all-present
+all-prevailing
+all-prevailingness
+all-prevalency
+all-prevalent
+all-preventing
+all-prolific
+all-protecting
+all-provident
+all-providing
+all-puissant
+all-pure
+all-purpose
+all-quickening
+all-rail
+all-rapacious
+all-reaching
+all-red
+all-redeeming
+all-relieving
+all-rending
+all-righteous
+all-round
+all-round price
+all-roundedness
+all-rounder
+all-rubber
+all-ruling
+all-sacred
+all-sanctifying
+all-satiating
+all-satisfying
+all-saving
+all-sayer
+all-sea
+all-searching
+all-seeing
+all-seeingly
+all-seeingness
+all-seer
+all-shaking
+all-shamed
+all-shaped
+all-shrouding
+all-shunned
+all-sided
+all-silent
+all-sized
+all-sliming
+all-soothing
+all-sorts
+all-soul
+all-spreading
+all-star
+all-stars
+all-steel
+all-strangling
+all-subduing
+all-submissive
+all-substantial
+all-sufficiency
+all-sufficient
+all-sufficiently
+all-sufficing
+all-surpassing
+all-surrounding
+all-surveying
+all-sustainer
+all-sustaining
+all-swallowing
+all-swaying
+all-telling
+all-terrible
+all-thorny
+all-time great
+all-tolerating
+all-transcending
+all-triumphing
+all-truth
+all-turned
+all-turning
+all-understanding
+all-unwilling
+all-upholder
+all-upholding
+all-various
+all-vast
+all-watched
+all-water
+all-wave receiver
+all-weak
+all-weather
+all-weather fighter
+all-weight
+all-whole
+all-wisdom
+all-wisely
+all-wiseness
+all-wondrous
+all-wood
+all-wool
+all-working
+all-worshiped
+all-worthy
+all-wrongness
+all !DETERMINER more
+all !DETERMINER more so
+all !DETERMINER rage
+all !DETERMINER way
+all !DETERMINER works
+all agog
+all atingle
+all atwitter
+all bets off
+all by herself
+all by himself
+all by myself
+all by ourselves
+all by themselves
+all by yourself
+all caught up in
+all choked up about
+all consuming
+all cracked up about
+all ears
+all eyes
+all eyes and ears
+all fired-up
+all fired up
+all fives
+all get-out
+all get out
+all God's children
+all hollow
+all keyed-up
+all off
+all on
+all or nothing
+all out
+all over !DETERMINER earth
+all over !DETERMINER planet
+all over !DETERMINER world
+all wrapped up in
+all wrapped up in the importance
+allness
+almighty Jesus
+almost dead
+almost entirely
+almost everywhere
+almost jumped out of !POSSESSIVEPRONOUN skin
+almost starving
+almost unheard-of
+almost with nothing
+almost without
+almost without any
+altogether
+altogether so
+always and everywhere
+always long for
+always longed for
+always longing for
+always longs for
+always want
+always wanted
+always wanting
+always wants
+am about to burst
+am all ears
+am begging
+am beseeching
+am bursting to let out
+am bursting to tell
+am bursting with
+am ferocious about
+am ferociously
+am frantic
+am frantically
+am frenetic
+am keyed up
+am overflowing
+am overflowing with
+am working frenetically
+amain
+amaze
+amaze !DETERMINER
+amaze !POSSESSIVEPRONOUN
+amaze !PRONOUNOBJECTIVE
+amazed
+amazed !DETERMINER
+amazed !POSSESSIVEPRONOUN
+amazed !PRONOUNOBJECTIVE
+amazed at
+amazedly
+amazement
+amazes
+amazes !DETERMINER
+amazes !POSSESSIVEPRONOUN
+amazes !PRONOUNOBJECTIVE
+amazing
+amazing !DETERMINER
+amazing !POSSESSIVEPRONOUN
+amazing !PRONOUNOBJECTIVE
+amazing thing
+amazing things
+amazingly
+and all like that
+and besides
+and do they ever really
+and do we ever really
+and does he ever really
+and does she ever really
+and I really believe it
+and I really believe this
+and I really mean it
+and I really mean this
+and many more
+and more of !DETERMINER same
+and on and on
+and on top of that
+and pursue it
+animatedly
+anni mirabiles
+annus magnus
+annus mirabilis
+any-any-all
+any and all
+any at all
+any decided
+any earthly
+any in !DETERMINER world
+any means necessary
+any means possible
+any number of
+any way whatsoever
+any wonder that
+any.
+anything like this
+anything soever which
+anyway,
+anyway.
+anywhere near
+ape over
+appassionato
+ardency
+ardent
+ardent and enthusiastic
+ardent friend
+ardent friendship
+ardent imagination
+ardent spirits
+ardently
+ardentness
+ardor
+ardors
+arduous
+arduously
+arduousness
+armed to !DETERMINER teeth
+arrest !DETERMINER thoughts
+arrest !POSSESSIVEPRONOUN notice
+arrest attention
+arrest judgment
+arrest your notice
+arrested !DETERMINER thoughts
+arrested !POSSESSIVEPRONOUN notice
+arrested attention
+arrested judgment
+arrested your notice
+arresting  judgment
+arresting !DETERMINER thoughts
+arresting !POSSESSIVEPRONOUN notice
+arresting attention
+arresting your notice
+arrestingly
+arrests !DETERMINER thoughts
+arrests !POSSESSIVEPRONOUN notice
+arrests attention
+arrests judgment
+arrests your notice
+as !AUX possible
+as !DETERMINER complete surprise
+as !DETERMINER most
+as !DETERMINER surprise
+as !MODAL be
+as all get-out
+as all get out
+as any in !DETERMINER world
+as best
+as best !YOU !MODAL
+as best as
+as best as !YOU !MODAL
+as big as life
+as far as humanly possible
+as far as possible
+as I !MODAL possibly be
+as if that were not enough
+as little as possible
+as long as I live
+as long as we live
+as many as
+as many as possible
+as much as possible
+as possible
+as possible.
+as soon as possible
+astonish
+astonished
+astonished !PRONOUNOBJECTIVE
+astonished about
+astonished at
+astonished that
+astonished with
+astonishes
+astonishing
+astonishing that
+astonishing thing
+astonishingly
+astonishment
+astonishments
+astound
+astounded
+astounding
+astoundingly
+astounds
+astronomic
+astronomical
+astronomically
+at !DETERMINER burning point
+at !DETERMINER bursting point
+at !DETERMINER core of
+at !DETERMINER edge of !POSSESSIVEPRONOUN seats
+at !DETERMINER heart of
+at !DETERMINER heartsrings
+at !DETERMINER height of
+at !DETERMINER latest
+at !DETERMINER least
+at !DETERMINER pinnacle
+at !DETERMINER slightest
+at !DETERMINER top of !POSSESSIVEPRONOUN voice
+at !DETERMINER top of my voice
+at !DETERMINER top of our voices
+at !DETERMINER top of your voice
+at !DETERMINER very latest
+at !DETERMINER zenith of
+at all
+at all !QUESTION
+at all costs
+at all hazards
+at all risks
+at all times
+at all,
+at all.
+at any
+at any cost
+at any price
+at breakback
+at breakback speed
+at breakneck
+at concert pitch
+at every turn
+at fever pitch
+at full drive
+at full force
+at full pelt
+at full steam
+at full throttle
+at full tilt
+at neck-breaking
+at neck-breaking speed
+at neck-breaking speeds
+at pains
+at rapt
+at riveted
+ate up !DETERMINER road
+athirst
+attention riveted
+audacious
+audaciously
+audaciousness
+audacity
+avalanched
+avid
+avidity
+avidly
+avidness
+awe
+awed
+awesomely
+awesomeness
+awestricken
+awestruck
+awful lot of
+awfully
+badly want
+badly wants
+ball of fire
+ballyhoo
+ballyhooed
+ballyhooing
+ballyhoos
+bang !POSSESSIVEPRONOUN fists
+bang !POSSESSIVEPRONOUN fists on !DETERMINER table
+banged !POSSESSIVEPRONOUN fists
+banged !POSSESSIVEPRONOUN fists on !DETERMINER table
+banging !POSSESSIVEPRONOUN fists
+banging !POSSESSIVEPRONOUN fists on !DETERMINER table
+bangs !POSSESSIVEPRONOUN fists
+bangs !POSSESSIVEPRONOUN fists on !DETERMINER table
+bare-knuckled
+bare !POSSESSIVEPRONOUN knuckles
+bare sight
+bare sight of
+bare siting
+bared !POSSESSIVEPRONOUN knuckles
+bares !POSSESSIVEPRONOUN knuckles
+baring !POSSESSIVEPRONOUN knuckles
+barnburner
+barnburners
+barrage
+barrage of
+barraged
+barraged !PRONOUNOBJECTIVE with
+barraged with
+barrages
+barrages of
+barraging
+barraging !PRONOUNOBJECTIVE with
+barraging with
+bated breath
+be-all
+be-all and !DETERMINER end-all
+be-all and end-all
+be all ears
+be amazed
+be astonished
+be astounded
+be committed
+be consumed by desire
+be consumed with desire
+be determined
+be inspired
+be nuts about
+be nuts over
+be taken aback
+be to
+be too.
+be wed to !DETERMINER belief
+be wedded to !DETERMINER belief
+beastly
+beat !DETERMINER daylights out of
+beat !YOU up
+beat it into !POSSESSIVEPRONOUN head
+beat it into !POSSESSIVEPRONOUN heads
+beat it into your head
+beats !DETERMINER competition
+beaucoup
+beaver away
+beavered
+beavered away
+beavering
+beavering away
+beavers away
+became heated
+beg
+beg for
+beg to
+begged
+begged for
+begged that
+begged to
+begging
+begging for
+begging that
+begging to
+begs
+begs for
+begs to
+being !DETERMINER most
+being keyed up
+belief rooted
+belief rooted in
+beliefs rooted in
+bend over backward
+bend over backwards
+bend over backwards to
+bending over backward
+bending over backwards
+Bending over backwards to
+bends over backward
+bends over backwards
+bends over backwards to
+bent over backward
+bent over backwards
+beseech !YOU
+beseech upon
+beseeched upon
+beseeches upon
+beseeching upon
+beseechingly
+beside herself in
+beside herself with
+beside himself in
+beside himself with
+beside myself in
+beside myself with
+beside ourselves
+beside themselves
+beside themselves with
+beside yourself
+beside yourself with
+beside yourselves
+best in
+bet your boots
+bet your bottom dollar
+bet your bottom dollar on
+betake herself
+betake himself
+betake myself
+betake ourselves
+betake themselves
+betakes herself
+betakes himself
+betakes myself
+betakes ourselves
+betakes themselves
+betaking herself
+betaking himself
+betaking myself
+betaking ourselves
+betaking themselves
+betook herself
+betook himself
+betook myself
+betook ourselves
+betook themselves
+better than that
+beyond !POSSESSIVEPRONOUN wildest expectations
+beyond all bounds
+beyond all expectation
+beyond all limits
+beyond all praise
+beyond belief
+beyond compare
+beyond comparison
+beyond comprehension
+beyond control
+beyond expectation
+beyond measure
+beyond our wildest expectations
+beyond rational belief
+beyond understanding
+big about
+big chance
+big change
+big idea
+big interest
+big into
+big job
+big opportunity
+big step
+big time
+big time.
+bitingly
+blatant that
+blazingly
+bled for
+bleed for
+bleeding for
+bleeds for
+blew !POSSESSIVEPRONOUN mind
+blew !POSSESSIVEPRONOUN minds
+blew my mind
+blew off steam
+blew our minds
+blew your mind
+blimey
+blockbuster
+blockbusters
+blockbusting
+blood and thunder
+blow !POSSESSIVEPRONOUN mind
+blow !POSSESSIVEPRONOUN minds
+blow great guns
+blow my mind
+blow off steam
+blow our minds
+blow sky-high
+blow your mind
+blowing !POSSESSIVEPRONOUN mind
+blowing !POSSESSIVEPRONOUN minds
+blowing my mind
+blowing off steam
+blowing our minds
+blowing your mind
+blows !POSSESSIVEPRONOUN mind
+blows !POSSESSIVEPRONOUN minds
+blows my mind
+blows off steam
+blows our minds
+blows your mind
+boatload of
+boggle
+boggle !DETERMINER
+boggle !POSSESSIVEPRONOUN
+boggle !PRONOUNOBJECTIVE
+boggled
+boggled !DETERMINER
+boggled !POSSESSIVEPRONOUN
+boggled !POSSESSIVEPRONOUN mind
+boggled !PRONOUNOBJECTIVE
+boggled my mind
+boggles
+boggles !DETERMINER
+boggles !DETERMINER mind
+boggles !POSSESSIVEPRONOUN
+boggles !PRONOUNOBJECTIVE
+boggles my mind
+boggling
+boggling !DETERMINER
+boggling !POSSESSIVEPRONOUN
+boggling !POSSESSIVEPRONOUN mind
+boggling !POSSESSIVEPRONOUN minds
+boggling !PRONOUNOBJECTIVE
+bombshell
+bombshells
+boots and all
+bosom-felt
+bottom of !DETERMINER heart
+bottom of !POSSESSIVEPRONOUN heart
+bottomless
+bottomless depths
+bottomless pit
+bottomless pits
+bottomless purse
+bottomlessness
+bound and determined
+boundless
+boundless as
+boundless as !DETERMINER sea
+boundless pit
+boundlessly
+boundlessness
+bowl over by
+bowl over from
+bowl over with
+bowled over by
+bowled over from
+bowled over with
+bowling over by
+bowling over from
+bowling over with
+bowls over by
+bowls over from
+bowls over with
+boxes and boxes of
+boy did
+boy did he
+boy did he ever
+boy did it
+boy did it ever
+boy did she
+boy did she ever
+boy did they
+boy did they ever
+boy did we
+boy did we ever
+boy do
+boy oh boy
+brandish !DETERMINER
+brandished !DETERMINER
+brandishes !DETERMINER
+brandishing !DETERMINER
+break-back
+break-neck
+break !DETERMINER case wide open
+breakback speed
+breakback speeds
+breaking !DETERMINER case wide open
+breakneck
+breakneck speed
+breakneck speeds
+breaks !DETERMINER case wide open
+breath-stopping
+breath-taking
+breath stopping
+breathless
+breathless adoration
+breathless awe
+breathless impatience
+breathless moment
+breathless wonder
+breathlessly
+breathlessness
+breathstopping
+breathtaking
+breathtakingly
+brisance
+broad as !DETERMINER world
+broad daylight
+broke !DETERMINER case wide open
+brunt
+brunt of
+buck for
+buck for !DETERMINER
+bucked for
+bucked for !DETERMINER
+bucking for
+bucking for !DETERMINER
+buckle down to
+buckled down to
+buckles down to
+buckling down to
+bucks for
+bucks for !DETERMINER
+build momentum
+building momentum
+builds momentum
+built momentum
+bulldoze through !DETERMINER
+bulldoze through !POSSESSIVEPRONOUN
+bulldoze through !PRONOUNOBJECTIVE
+bulldozed through !DETERMINER
+bulldozed through !POSSESSIVEPRONOUN
+bulldozed through !PRONOUNOBJECTIVE
+bulldozes through !DETERMINER
+bulldozes through !POSSESSIVEPRONOUN
+bulldozes through !PRONOUNOBJECTIVE
+bulldozing through !DETERMINER
+bulldozing through !POSSESSIVEPRONOUN
+bulldozing through !PRONOUNOBJECTIVE
+Burn up
+burn with
+burn with passion
+Burned up
+burned with
+burned with passion
+burning desire
+burning desire for
+burning love
+burning need
+burning need for
+Burning up
+burning with
+burning with ambition
+burning with desire
+burning with passion
+burningly
+burnings of !DETERMINER heart
+burnings of !DETERMINER soul
+burnings of passion
+Burns up
+burns with
+burns with passion
+bursting at !DETERMINER seams
+bursting point
+bursting points
+bursting to
+bust !DETERMINER gut
+bust !POSSESSIVEPRONOUN ball
+busted !DETERMINER gut
+busted !POSSESSIVEPRONOUN balls
+busting !DETERMINER gut
+busting !POSSESSIVEPRONOUN balls
+busts !DETERMINER gut
+busts !POSSESSIVEPRONOUN balls
+but !DETERMINER topper !AUX
+but good!
+but good.
+but good;
+but of course
+by !DETERMINER !GEOREGION mile
+by !DETERMINER great deal
+by !DETERMINER landside
+by !DETERMINER landslide
+by !DETERMINER long chalk
+by !DETERMINER long shot
+by !DETERMINER long way
+by !DETERMINER skin of !POSSESSIVEPRONOUN teeth
+by !DETERMINER skin of my teeth
+by !DETERMINER whisker
+by all manner of means
+by any means
+by any means possible
+by any stretch of !DETERMINER imagination
+by every means possible
+by fair means or foul
+by far
+by far !DETERMINER
+by half
+by hook or by crook
+by leaps and bounds
+by lots of
+by many degrees
+by means of sheer
+by sheer
+by storm
+by whatever means
+by whatever means necessary
+calls flooded in
+came down to !DETERMINER wire
+came from nowhere
+came out swinging
+came real close to
+came uncorked
+can't abandon !DETERMINER sinking ship
+can't be overstated
+can't begin
+can't begin to imagine
+can't come soon enough
+can't emphasize enough
+can't even begin
+can't even begin to imagine
+can't forget
+can't leave !DETERMINER sinking ship
+can't let
+can't let !PRONOUNOBJECTIVE
+can't let go of !DETERMINER belief
+can't let go of !DETERMINER idea
+can't overemphasize
+can't restrain herself
+can't restrain himself
+can't restrain myself
+can't restrain ourselves
+can't restrain themselves
+can't restrain yourself
+can't stress enough
+can't take !POSSESSIVEPRONOUN eyes off
+can't take lightly
+can't wait
+can't wait to hear
+can't wait to hear about
+can hardly wait
+can really
+can too
+cannot emphasize this enough
+cannot emphasize this too strongly
+cannot stress enough
+cannot take lightly
+cannot wait
+cannot wait to
+cannot wait to hear
+cannot wait to hear about
+care-crazed
+care deeply
+carries !DETERMINER wallop
+catapult !POSSESSIVEPRONOUN
+catapulted !POSSESSIVEPRONOUN
+catapulting !POSSESSIVEPRONOUN
+catapults !POSSESSIVEPRONOUN
+catching fire with
+caught up in
+champ at !DETERMINER bit
+champed at !DETERMINER bit
+champing at !DETERMINER bit
+champs at !DETERMINER bit
+change everything
+changed everything
+changes everything
+changing everything
+chaotic heart
+charged !REFLEXIVEPRONOUN up
+charged moment
+charged myself up
+charged ourselves up
+charged up to
+chiefly
+chill-down-!DETERMINER-spine
+choke !PRONOUNOBJECTIVE up
+choked !PRONOUNOBJECTIVE up
+chokes !PRONOUNOBJECTIVE up
+choking !PRONOUNOBJECTIVE up
+chomp at !DETERMINER bit
+chomped at !DETERMINER bit
+chomping at !DETERMINER bit
+chomps at !DETERMINER bit
+Christ!
+chuck-full of
+clamor for
+clamored for
+clamoring for
+clamors for
+clarion call
+clarion calls
+claw !POSSESSIVEPRONOUN toes
+claw !POSSESSIVEPRONOUN way
+claw !POSSESSIVEPRONOUN way up
+claw our toes
+claw your toes
+clawed !POSSESSIVEPRONOUN toes
+clawed !POSSESSIVEPRONOUN way
+clawed !POSSESSIVEPRONOUN way up
+clawed our toes
+clawed your toes
+clawing !POSSESSIVEPRONOUN toes
+clawing !POSSESSIVEPRONOUN way
+clawing !POSSESSIVEPRONOUN way up
+clawing our toes
+clawing your toes
+claws !POSSESSIVEPRONOUN toes
+claws !POSSESSIVEPRONOUN way
+claws !POSSESSIVEPRONOUN way up
+claws our toes
+claws your toes
+clean-sweeping
+clean sweep
+clean sweeps
+clear as !DETERMINER nose on your face
+clear to hell and gone
+cling intensely to hope
+cling intensly to !DETERMINER hope
+cling to hope
+clinging intensely to !DETERMINER hope
+clinging intensely to hope
+clinging to hope
+clings intensely to !DETERMINER hope
+clings intensely to hope
+clings to hope
+closely
+clothe with power
+clothed with power
+clothes with power
+clothing with power
+clung fast to
+clung intensely to !DETERMINER hope
+clung intensely to hope
+clung to hope
+cockles of !DETERMINER heart
+cockles of your heart
+cold-shut
+colossal
+colossal order
+colossal undertaking
+colossal undertakings
+colossally
+comb over the details
+combed over the details
+combing over the details
+combs over the details
+come out swinging
+come real close to
+come uncorked
+comes out swinging
+comes real close to
+comes uncorked
+coming out swinging
+coming real close to
+coming uncorked
+commandingly
+committed not to
+commove
+commoved
+commoves
+commoving
+commutal zeal
+compleat
+complete and utter
+completely
+completely and utterly
+completely guarantee
+compulsive
+compulsively
+concern !REFLEXIVEPRONOUN
+concern !REFLEXIVEPRONOUN with
+concern about
+concern for
+concern over
+concern to
+concern with
+concerned !REFLEXIVEPRONOUN
+concerned !REFLEXIVEPRONOUN with
+concerned enough
+concerned enough to
+concerned to
+concerned us
+concerned with
+concernedly
+concerning !REFLEXIVEPRONOUN
+concerning !REFLEXIVEPRONOUN with
+concerning to
+concerns !REFLEXIVEPRONOUN
+concerns !REFLEXIVEPRONOUN with
+concerns about
+concerns for
+concerns over
+concerns to
+concerted
+concertedly
+concupiscent
+conquest
+conquests
+consequential
+consequentiality
+consequentially
+consequentialness
+considerably
+conspicuous
+conspicuously
+constant attention
+constant focus
+constant focus on
+consume by desire
+consume with desire
+consumed by !DETERMINER
+consumed by desire
+consumed in
+consumed with
+consumed with desire
+consumes by desire
+consumes with desire
+consuming by desire
+consuming with desire
+continues to astonish
+continuing to astonish
+contributions flooded in
+core of !POSSESSIVEPRONOUN being
+core of your being
+could barely contain
+could barely contain herself
+could barely contain himself
+could barely contain myself
+could barely contain themselves
+could barely contain yourself
+could hardly contain
+could hardly contain herself
+could hardly contain himself
+could hardly contain myself
+could hardly contain themselves
+could hardly contain yourself
+could scarcely contain
+could scarcely contain herself
+could scarcely contain himself
+could scarcely contain myself
+could scarcely contain ourselves
+could scarcely contain themselves
+could scarcely contain yourself
+couldn't contain !POSSESSIVEPRONOUN
+couldn't contain !REFLEXIVEPRONOUN
+couldn't contain yourself
+couldn't wait to
+countless
+countless as
+countless as !DETERMINER sands
+countless as !DETERMINER stars
+countlessly
+coup d'etat
+coup d'Oeil
+coup d'oil
+coup d'tat
+coup de grace
+coup de main
+coup de maitre
+coup de plume
+coup de soleil
+coup de thatre
+coup de theatre
+coupe-gorge
+coups de main
+coups de plume
+coups de poing
+cour d'honneur
+course through !POSSESSIVEPRONOUN veins
+course through my veins
+course through our veins
+course through your veins
+coursed through !POSSESSIVEPRONOUN veins
+coursed through my veins
+coursed through our veins
+coursed through your veins
+courses through !POSSESSIVEPRONOUN veins
+courses through my veins
+courses through our veins
+courses through your veins
+coursing through !POSSESSIVEPRONOUN veins
+coursing through my veins
+coursing through our veins
+coursing through your veins
+crack !DETERMINER case wide open
+crack !POSSESSIVEPRONOUN whip
+crack !POSSESSIVEPRONOUN whips
+crack my whip
+crack our whips
+crack your whip
+cracked !DETERMINER case wide open
+cracked !POSSESSIVEPRONOUN whip
+cracked !POSSESSIVEPRONOUN whips
+cracked my whip
+cracked our whips
+cracked your whip
+cracking !POSSESSIVEPRONOUN whip
+cracking !POSSESSIVEPRONOUN whips
+cracking my whip
+cracking our whips
+cracking your whip
+cracks !DETERMINER case wide open
+cracks !POSSESSIVEPRONOUN whip
+cracks !POSSESSIVEPRONOUN whips
+cracks my whip
+cracks our whips
+cracks your whip
+crave
+crave after
+craved
+craved after
+craver
+cravers
+craves
+craves after
+craving
+craving after
+cravings
+craze
+crazed with
+crazes
+crazy-drunk
+crazy-headed
+crazy-looking
+crazy-mad
+crazy-pate
+crazy-paving
+crazy-work
+crazy about
+crazy fancy
+crazy for
+crazy house
+crazy idea
+crazy over
+crazy pavement
+crazy paving
+crazy quilt
+crazy to
+crazy top
+creamed
+creaming
+create a sensation
+created a sensation
+creates a sensation
+creating a sensation
+cried for
+cried for quarter
+cried out
+cried out for
+cries for
+cries for quarter
+cries out
+cries out for
+criticality
+critically
+crowning
+crucial
+crucial and central
+crucially
+crusade
+crusaded against
+crusaded for
+crusaded on behalf of
+crusades
+crusading
+cry bloody murder
+cry for
+cry for quarter
+cry out
+cry out for
+crying fits
+crying for
+crying for quarter
+crying need for
+crying out
+crying out for
+crying shame
+damndest
+damned little difference
+damned spirits
+damnedest
+dancing dervish
+dancing dervishes
+dancing mania
+dancing manias
+darndest
+de bonne volonte
+de die in diem
+de fond en comble
+dead center on
+dead in !POSSESSIVEPRONOUN
+dead in my
+dead in our
+dead in your
+dead level
+dead level best
+deafening
+deafeningly
+dearly
+death-defying
+death defying
+decisive defeat
+decisive defeats
+decisive moment
+decisive moments
+decisive victories
+decisive victory
+dedicate !REFLEXIVEPRONOUN
+dedicate !REFLEXIVEPRONOUN to
+dedicate yourself to
+dedicated !REFLEXIVEPRONOUN
+dedicated !REFLEXIVEPRONOUN to
+dedicated yourself to
+dedicates !REFLEXIVEPRONOUN
+dedicates !REFLEXIVEPRONOUN to
+dedicates yourself to
+dedicating !REFLEXIVEPRONOUN
+dedicating !REFLEXIVEPRONOUN to
+dedicating yourself to
+deep as !DETERMINER ocean
+deep as !DETERMINER sea
+deep as !DETERMINER well
+deep as China
+deep as hell
+deep concern for
+deep concern with
+deep down inside !POSSESSIVEPRONOUN
+deep feeling
+deepest feelings
+deepest mind
+deepest recesses
+deeply
+deeply-moving
+deeply-touching
+deeply feel
+deeply felt
+deeply involved
+deeply involved in
+deeply moving
+deeply rooted
+deeply touching
+defend tooth and nail
+defended tooth and nail
+defending tooth and nail
+defends tooth and nail
+delirious
+delirious with
+deliriously
+deliriousness
+delirium
+deliriums
+deluge
+deluged on
+deluged with
+deluges
+deluging
+demand
+demand !DETERMINER
+demand !POSSESSIVEPRONOUN
+demand !PRONOUNOBJECTIVE
+demand !REFLEXIVEPRONOUN
+demand of !REFLEXIVEPRONOUN
+demand of ourselves
+demand of yourself
+demand ourselves
+demand payment
+demand performance
+demand performances
+demand yourself
+demanded payment
+demanding
+demanding payment
+demands
+demands payments
+demiurge
+demiurges
+depthless
+dernier ressort
+desperately
+determination to
+determine to
+determined not to
+determined to
+determinedly
+determines to
+determining to
+deuced
+deucedly
+devilishly
+devoured by !DETERMINER
+devoured by desire
+devoured in
+devouring element
+devoutly
+devoutly wish
+devoutly wished
+devoutly wishes
+devoutly wishing
+diametric
+diametrical
+diametrically
+did come through
+did defend
+did deliver
+did discuss it
+did get it
+did hold
+did in fact
+did indeed
+did it all alone
+did justify itself
+did last
+did make it
+did make it happen
+did manage
+did manage it
+did mention it
+did pay off
+did process it
+did pull it off
+did receive it
+did redeem
+did redeem !PRONOUNOBJECTIVE
+did send it
+did so
+die fighting
+die for
+die hard
+died-in-!DETERMINER-wool
+died fighting
+died for
+died hard
+died in !DETERMINER wool
+dies fighting
+dies for
+dies hard
+difficult to describe
+difficult to express
+difficult to put into words
+dillies
+dilllies
+dilly
+dire necessities
+dire necessity
+dirt cheap
+displode
+disploded
+displodes
+disploding
+distinctively
+do
+do-or-die
+do not take lightly
+do nothing but
+do nothing other than
+do only
+do only about
+do so
+do so want
+do so wish
+does not take lightly
+does only
+does only about
+does so
+doesn't begin to
+doesn't begin to describe
+doesn't take lightly
+doggedly
+doggedly at
+doggedness
+doggishly
+doing only
+doing only about
+dollars to doughnuts
+dominance
+dominancy
+dominant
+dominantly
+dominants
+dominate
+dominate !DETERMINER
+dominate !POSSESSIVEPRONOUN
+dominate !PRONOUNOBJECTIVE
+dominates !DETERMINER
+dominates !POSSESSIVEPRONOUN
+dominates !PRONOUNOBJECTIVE
+dominating !DETERMINER
+dominating !POSSESSIVEPRONOUN
+dominating !PRONOUNOBJECTIVE
+domination
+dominations
+dominative
+dominator
+dominators
+don't ever
+don't forget
+don't take lightly
+donations flooded in
+done everything
+done run
+done run out
+done run out of
+done run out of ways
+done so
+doozie
+doozies
+dost
+doth
+double down
+doubled down
+doubles down
+doubling down
+doubly
+down-right
+down just to !DETERMINER wire
+down to !DETERMINER very last bite
+down to !DETERMINER very last drop
+downrightly
+downrightness
+dramatic decrease
+dramatic decreases
+dramatic dip
+dramatic dips
+dramatic impression
+dramatic impressions
+dramatic increase
+dramatic increases
+dramatic rise
+dramatic rises
+dramatically
+dramatize
+dramatizes
+dramatizing
+drank in with rapt attention
+drank it all in
+drank it in
+drank like !DETERMINER fish
+drink in with rapt attention
+drink it all in
+drink it in
+drink like !DETERMINER fish
+drinking in with rapt attention
+drinking it all in
+drinking it in
+drinking like !DETERMINER fish
+drinks in with rapt attention
+drinks it all in
+drinks it in
+drinks like !DETERMINER fish
+drive !REFLEXIVEPRONOUN
+drive !REFLEXIVEPRONOUN to
+drive !YOU hard
+drive into !POSSESSIVEPRONOUN head
+drive into my head
+drive into our head
+drive into your head
+drive myself
+drive myself to
+drive ourselves
+drive ourselves to
+drive yourself
+driven by !POSSESSIVEPRONOUN
+driven by power
+driven deeply
+driven deeply by
+driven to !VERBSTEM
+drives !REFLEXIVEPRONOUN
+drives !REFLEXIVEPRONOUN to
+drives !YOU hard
+drives into !POSSESSIVEPRONOUN head
+drives into my head
+drives into our head
+drives into your head
+drives myself
+drives myself to
+drives ourselves
+drives ourselves to
+drives yourself
+driving !REFLEXIVEPRONOUN
+driving !REFLEXIVEPRONOUN to
+driving !YOU hard
+driving into !POSSESSIVEPRONOUN head
+driving into my head
+driving into our head
+driving into your head
+driving myself
+driving myself to
+driving ourselves
+driving ourselves to
+driving yourself
+drivingly
+drop-dead
+dropped everything
+dropped everything to
+drove !REFLEXIVEPRONOUN
+drove !REFLEXIVEPRONOUN to
+drove !YOU hard
+drove into !POSSESSIVEPRONOUN head
+drove into my head
+drove into our head
+drove into your head
+drove myself
+drove myself to
+drove ourselves
+drove ourselves to
+drove yourself
+droves
+droves of
+drumfire
+drumfires
+dug in there
+dumb-stricken
+dumb-struck
+dumb stricken
+dumb struck
+dumb with grief
+dumbfound
+dumbfounded
+dumbfounding
+dumbfounds
+dumbstruck
+dumfound
+dumfounded
+dyed-in-the-wool
+dyed in the wool
+dying fighting
+dying for
+dying hard
+dying to
+dynamic
+dynamical
+dynamist
+dynamistic
+dynamists
+dynamite
+dynamite !DETERMINER
+dynamite !POSSESSIVEPRONOUN
+dynamite !PRONOUNOBJECTIVE
+dynamited
+dynamited !DETERMINER
+dynamited !POSSESSIVEPRONOUN
+dynamited !PRONOUNOBJECTIVE
+dynamiter
+dynamiters
+dynamites
+dynamites !DETERMINER
+dynamites !POSSESSIVEPRONOUN
+dynamites !PRONOUNOBJECTIVE
+dynamitic
+dynamiting !DETERMINER
+dynamiting !POSSESSIVEPRONOUN
+dynamiting !PRONOUNOBJECTIVE
+dynamo
+dynamos
+each and all
+EACH AND EVERY
+each and every one
+eagerly awaited
+ear-pounding
+earth-shaking
+earth-shaking event
+earth-shaking events
+earthly
+earthly idea
+earthshaker
+earthshakers
+earthshaking
+earthshakingly
+eat up !DETERMINER road
+eating up !DETERMINER road
+eats up !DETERMINER road
+edacious
+edacity
+edge of your seat
+ego-driven
+either,
+either.
+electrified
+electrifies
+electrify
+electrifying
+elegize
+elegized
+elegizes
+elegizing
+emergencies
+emergency
+eminently contagious
+emote
+emoted
+emotes
+emoting
+emotionalism
+emotionalist
+emotionalists
+emotionality
+emotionalize
+emotionalized
+emotionalizes
+emotionalizing
+emotionally
+emotive
+emotively
+emotiveness
+emphasize
+emphasize !DETERMINER
+emphasizes
+emphasizes !DETERMINER
+emphasizing
+emphasizing !DETERMINER
+end-all
+enflame with
+enflames with
+enflaming with
+enkindle
+enkindled
+enkindles
+enkindling
+enormities
+enormity
+enormous
+enormously
+enormousness
+entire
+entire gamut of
+entire world
+entirely
+entireness
+entireties
+entirety
+entrenched up to
+entrenched up to !POSSESSIVEPRONOUN teeth
+entrenched up to my teeth
+entrenched up to our teeth
+epidemic
+epidemic proportions
+epidemical
+epidemically
+epidemics
+equally important
+essence of life
+essences of life
+essentially
+even !DETERMINER
+even if !YOU
+even if !YOU could
+even if !YOU did
+even if !YOU wanted to
+even if !YOU would
+even imagine
+even in
+even in !DETERMINER
+even these
+even this
+even those
+ever-so
+ever is
+ever laid eyes on
+ever lay eyes on
+ever laying eyes on
+ever lays eyes on
+ever so
+ever so little
+ever so many
+ever so much
+ever wanted to do
+every !TIMEFRAME counts
+every bit
+every bit !DETERMINER
+every creature
+every effort
+every effort !AUX made
+every inch !DETERMINER
+every last bite
+every last drop
+every last morsel
+every living creature
+every living soul
+every living thing
+every means possible
+every minute of it
+every nook and cranny
+every reason
+every reason to
+every reason to believe
+every reason to think
+every reason to want
+every single
+EVERY SINGLE ONE
+EVERY SINGLE ONE OF !PRONOUNOBJECTIVE
+every snip
+every trace of
+everything changed
+everything from !DETERMINER to Z
+everything humanely possible
+everything in !POSSESSIVEPRONOUN power
+everything in my power
+everything possible
+exactly !DETERMINER opposite
+exactly !DETERMINER reverse
+exceed
+exceeded
+exceeding
+exceedingly
+exceeds
+exceptionally
+excessive and uncontrollable
+excitabilities
+excitability
+excitable
+excitableness
+excitably
+excite
+excite to passion
+excited
+excited to passion
+excitedly
+excitement
+excitements
+exciter
+exciters
+excites
+EXCITES AS
+excites to passion
+exciting
+exciting as watching paint dry
+exciting to passion
+excitingly
+exclaim
+exclaim about
+exclaim on
+exclaimed
+exclaimed about
+exclaimed on
+exclaiming
+exclaiming about
+exclaiming on
+exclaims
+exclaims about
+exclaims on
+exclamation
+exclamations
+exclamatory
+explode
+explode on !DETERMINER scene
+exploded on !DETERMINER scene
+explodes
+explodes on !DETERMINER scene
+exploding
+exploding on !DETERMINER scene
+expressly
+extensive
+extensive job
+extensive of
+extensive search
+extensive work
+extensively
+extensiveness
+extraordinarily
+extraordinarily like
+extraordinariness
+extraordinary
+extreme
+extreme emergency
+extreme left
+extreme left-wing
+extreme left-winger
+extreme left-wingers
+extreme left wing
+extreme right
+extreme right-winger
+extreme right-wingers
+extreme right wing
+extremely
+extremely committed
+extremely high
+extremeness
+eye-catcher
+eye-catchers
+eye-catches
+eye-catching
+eye-devouring
+eye-glutting
+eye-opener
+eye-opening
+eye-overflowing
+eye-popper
+eye-popping
+eye catcher
+eye catchers
+eye catching
+eye hungrily
+eyed hungrily
+eyeing hungrily
+eyes hungrily
+fabulously
+face of !DETERMINER earth
+fall down and worship
+fall over backwards for
+fall over backwards to
+fallen over backwards for
+fallen over backwards to
+falling down and worshipping
+falling over backwards for
+falling over backwards to
+falls down and worships
+falls over backwards for
+falls over backwards to
+fame-hungry
+fame-thirsting
+fame-thirsty
+fantastic
+fantastically
+far-driven
+far and away !DETERMINER
+far and away !DETERMINER best
+far away !DETERMINER
+far cry
+far greater
+far more
+fascinated by
+fascinated with
+fascinating to
+fast and furious
+fear and passion
+fearfully
+fears and passions
+fed !PRONOUNOBJECTIVE to !DETERMINER gills
+fed !PRONOUNOBJECTIVE to !DETERMINER teeth
+fed off !POSSESSIVEPRONOUN
+fed off my
+fed off our
+fed off your
+fed to !DETERMINER gills
+fed to !DETERMINER teeth
+feeling inside
+feeling running high
+feelings inside
+feelings running high
+fell down and worshipped
+fell over backwards for
+fell over backwards to
+felt so
+ferocious in !POSSESSIVEPRONOUN
+ferocious when
+ferociously interested
+ferociously invested
+ferocity
+fervencies
+fervency
+fervent
+fervent hope
+fervent hopes
+fervent imagination
+fervent prayer
+fervent prayers
+fervently
+fervently prayed
+fervently praying
+fervently prays
+ferventness
+fervid
+fervidity
+fervidly
+fervidness
+fervor
+fervors
+fervour
+fervours
+fever of excitement
+fever pitch
+fever pitches
+fevered
+feverently praying
+feverish
+feverish-pitch
+feverish pitch
+feverishly
+feverishly caught up in
+feverishly worked
+feverishly working
+feverishly works
+find it captivating
+fire !DETERMINER blood
+fire !POSSESSIVEPRONOUN blood
+fire !POSSESSIVEPRONOUN imagination
+fire and fury
+fire in !POSSESSIVEPRONOUN blood
+fire in my blood
+fire in our blood
+fire in your blood
+fire my blood
+fire my imagination
+fire of genius
+fire our blood
+fire our imagination
+fire up passions
+fire worship
+fire worships
+fire your blood
+fire your imagination
+fired !DETERMINER blood
+fired !POSSESSIVEPRONOUN blood
+fired !POSSESSIVEPRONOUN imagination
+fired my blood
+fired my imagination
+fired our blood
+fired our imagination
+fired up passions
+fired your blood
+fired your imagination
+fires !DETERMINER blood
+fires !POSSESSIVEPRONOUN blood
+fires !POSSESSIVEPRONOUN imagination
+fires my blood
+fires my imagination
+fires our blood
+fires our imagination
+fires up passions
+fires your imagination
+firing !DETERMINER blood
+firing !POSSESSIVEPRONOUN blood
+firing !POSSESSIVEPRONOUN imagination
+firing my blood
+firing my imagination
+firing on all cylinders
+firing our blood
+firing our imagination
+firing up passions
+firing your blood
+firing your imagination
+first magnitude
+first magnitudes
+FIRST THINGS FIRST
+first!
+fit of
+fit of crying
+fit of laughter
+fit to be tied with excitement
+fit to burst
+fit to bust
+fits of
+fits of crying
+fits of laughter
+flabbergasted to hear
+flat-out
+flat-out speed
+flat out
+flatly
+flew off !DETERMINER bookshelves
+flies off !DETERMINER bookshelves
+FLIPPING !POSSESSIVEPRONOUN LID
+FLIPPING !POSSESSIVEPRONOUN WIG
+FLIPS !POSSESSIVEPRONOUN LID
+FLIPS !POSSESSIVEPRONOUN WIG
+flood of tears
+floored at
+floored at !DETERMINER
+floored at !QUESTION
+floored at !QUESTION much
+flurries of
+flurry of
+fly off !DETERMINER bookshelves
+flying off !DETERMINER bookshelves
+FOCUS ONLY ON
+foot-stomping
+for !DETERMINER life of
+for !DETERMINER remainder of my life
+for !DETERMINER whole world
+for !DETERMINER world
+for all !DETERMINER world
+for all !DETERMINER world like
+for all !YOU !AUX  worth
+for all hell
+for all time
+for all to see
+for always
+for at !DETERMINER very least
+for at least
+for at least !NUMS1to100 !TIMEFRAME
+for broke
+for chicken feed
+for dear life
+for ever
+for ever and ever
+for ever so long
+for evermore
+for God's sake
+for heaven's sake
+for mad
+for mercy's sake
+for peanuts
+for real
+for real!
+for sheer
+forceful
+forceful way
+forceful ways
+forcefully
+forcefulness
+foremost
+forever
+foudroyant
+foudroyants
+fought !PRONOUNOBJECTIVE hammer and tong
+fought !PRONOUNOBJECTIVE hammer and tongs
+fought !PRONOUNOBJECTIVE tooth and nail
+fought against time
+fought for !POSSESSIVEPRONOUN life
+fought for !POSSESSIVEPRONOUN lives
+fought for my life
+fought for our lives
+fought for your life
+fought for your lives
+fought hammer and tongs
+fought to !DETERMINER death
+fought to !DETERMINER last ditch
+fought tooth and nail
+freak out
+freak out on
+freaked out
+freaked out on
+freaking out
+freaking out on
+freaks out
+frenetic
+frenetically
+frenzied
+frenziedly
+frenzies
+frenzy
+frenzying
+frightfully rich
+from absolutely
+from completely
+from totally
+full-blooded
+full-blown
+full-boled
+full-bore
+full-fired
+full-fledged
+full-out
+full-pitch
+full-power
+full-powered
+full-steam
+full-steam ahead
+full-strength
+full-throttle
+full-tilt
+full attention to
+full attention toward
+full attention towards
+full blast
+full blood
+full blooded
+full blown
+full bore
+full force
+full of business
+full of enthusiasm
+full of fight
+full of go
+full of piss and vinegar
+full of point
+full of sound and fury
+full out
+full pitch
+full power
+full powered
+full steam
+full steam ahead
+full swing
+full throttle
+fullest
+fully fledged
+fully to
+fulminant
+fundamentally
+funds flooded in
+furiously
+furiousness
+further and further
+furthest
+furthest thing
+furthest thought
+fury-driven
+fury of
+fury of desire
+fury of desires
+fury of lust
+fury of lusts
+fusillade
+fusillade of
+fusilladed
+fusillades
+fusillades of
+fusillading
+gaga about
+gaga over
+gain momentum
+gained momentum
+gaining momentum
+gains momentum
+galore
+gangbuster
+gangbusters
+gaping chasm
+gaping chasms
+gaping depth
+gaping depths
+gapingly
+gasp in shock
+gasped in shock
+gasping in shock
+gasps in shock
+geason
+gee min nee
+gee whiz
+gee willikers
+genuinely nuts
+giant order
+giant orders
+giant size
+giant sizes
+giant undertaking
+gigantic
+gigantically
+giganticness
+glory be
+glory be to
+glory be to God
+glory be to God in !DETERMINER highest
+glory to God
+glue !DETERMINER mind to
+glue !POSSESSIVEPRONOUN mind to
+glue !POSSESSIVEPRONOUN minds to
+glue my mind to
+glue our minds to
+glue your mind to
+glued !DETERMINER mind to
+glued !POSSESSIVEPRONOUN mind to
+glued !POSSESSIVEPRONOUN minds to
+glued my mind to
+glued our minds to
+glued your mind to
+glues !DETERMINER mind to
+glues !POSSESSIVEPRONOUN mind to
+glues !POSSESSIVEPRONOUN minds to
+glues my mind to
+glues our minds to
+glues your mind to
+gluing !DETERMINER mind to
+gluing !POSSESSIVEPRONOUN mind to
+gluing !POSSESSIVEPRONOUN minds to
+gluing my mind to
+gluing our minds to
+gluing your mind to
+gobs and gobs
+gobsacked
+gobsmacked
+gobstruck
+God almighty
+good and
+good and ready
+good cries
+good cry
+gormandize on
+gormandized on
+gormandizes on
+gormandizing on
+grand
+grand-scale
+grand-slammer
+grand-slammers
+grand passion
+grand passions
+grand slam
+grand slammer
+grand slammers
+grand slams
+grand tactics
+grande passion
+grandes passions
+greased lightning
+great
+great-
+great ado
+great age
+great amount
+great amounts
+great beyond
+great big
+great circle
+great compass
+great deal
+great demand
+great distance
+great distances
+great divide
+great doings
+great effort
+great energy
+great expectations
+great gun
+great guns
+great hereafter
+great hunger
+great hunger for
+great lengths
+great many
+great out-of-door
+great out-of-doors
+great pace
+great paces
+great power
+great powers
+great scale
+great scope
+great scott
+great talker
+great talkers
+great thirst
+great thirst for
+great unknown
+great unknowns
+great unnumbered
+great unwashed
+great white
+great whites
+great world
+great world of light
+great worlds
+great worlds of light
+greatest number
+greatest numbers
+greatly
+gripping
+gripping saga
+gripping sagas
+gripping stories
+gripping story
+gripping tale
+gripping tales
+gripping testimony
+grippingly
+grit !POSSESSIVEPRONOUN teeth
+grits !POSSESSIVEPRONOUN teeth
+gritted !POSSESSIVEPRONOUN teeth
+gritting !POSSESSIVEPRONOUN teeth
+groundswell
+groundswell of
+guarantee completely
+gung-ho
+gung ho
+gunning for !DETERMINER chance
+gunning for !DETERMINER opportunity
+gunning to
+had bent over backwards to
+had tremendous
+had whatever it takes
+hail of
+half-begging
+half-starved
+half-starving
+hammer and tongs
+hammer into !POSSESSIVEPRONOUN head
+hammer into !POSSESSIVEPRONOUN heads
+hammer into my head
+hammer into our head
+hammered in !POSSESSIVEPRONOUN head
+hammered in !POSSESSIVEPRONOUN heads
+hammered in my head
+hammered in our head
+hammered in your head
+hammering in !POSSESSIVEPRONOUN head
+hammering in !POSSESSIVEPRONOUN heads
+hammering in my head
+hammering in our head
+hammering in your head
+hammerlock on
+hammerlocks on
+hammers into !POSSESSIVEPRONOUN head
+hammers into !POSSESSIVEPRONOUN heads
+hammers into my head
+hammers into our head
+hammers into your head
+hand-over-fist
+hand and foot
+hand of steel
+hand over fist
+hands of steel
+hang on !POSSESSIVEPRONOUN words
+hang on for dear life
+hang on like !DETERMINER bulldog
+hang on like !DETERMINER leech
+hang on my words
+hang on our words
+hang on your words
+hanging on !POSSESSIVEPRONOUN words
+hanging on for dear life
+hanging on like !DETERMINER bulldog
+hanging on like !DETERMINER leech
+hanging on my words
+hanging on our words
+hanging on your words
+hangs on !POSSESSIVEPRONOUN words
+hangs on for dear life
+hangs on like !DETERMINER bulldog
+hangs on like !DETERMINER leech
+hangs on my words
+hangs on our words
+hangs on your words
+happens all !DETERMINER time
+hard-core
+hard-drinking
+hard-driven
+hard-driving
+hard-line
+hard-nosed
+hard-nosedness
+hard-pressed by
+hard-pushed by
+hard-riding
+hard-run
+hard-spirited
+hard-stare
+hard-stared
+hard-stares
+hard-staring
+hard-wrought
+hard-wrung
+hard at it
+hard at work
+hard core
+hard drinking
+hard driven
+hard driving
+hard nosed
+hard pressed by
+hard pushed
+hard riding
+hard run
+hard spirited
+hard stare
+hard stared
+hard stares
+hard staring
+hard to believe
+hard to describe
+hard to express
+hard to find words
+hard to find words to describe
+hard to put into words
+hard wrought
+hard wrung
+hardened resolve
+has bent over backwards
+has bent over backwards to
+has had nothing but
+has leaned over backwards
+has leaned over backwards to
+has nothing but
+has to restrain herself
+has to restrain himself
+has to restrain ourselves
+has to restrain themselves
+has tremendous
+has whatever it takes
+have had nothing but
+have nothing but
+have to restrain herself
+have to restrain himself
+have to restrain ourselves
+have to restrain themselves
+have whatever it takes
+having to restrain herself
+having to restrain himself
+having to restrain ourselves
+having to restrain themselves
+having whatever it takes
+he can't even
+he cannot even
+he did
+he in fact did
+he indeed did
+he too
+head-of-steam
+head-over-heels
+head-over heels
+head of steam
+head over heels
+head over heels in
+head over heels in debt
+head over heels in love
+heart's core
+heart's desire
+heart-affecting
+heart-felt
+heart-gripping
+heart-hungry
+heart-melting
+heart-moving
+heart-palpitating
+heart-piercing
+heart-pounding
+heart-quake
+heart-racing
+heart-ravishing
+heart-searching
+heart-shaking
+heart-stirring
+heart-stopping
+heart-throb
+heart-throbbing
+heart-tickling
+heart and soul
+heart and souls
+heart of hearts
+heart of oak
+heart of stone
+heart pounding
+heart racing
+heart stopping
+heart thumping
+heartfelt apology
+heated emotion
+heated emotions
+heatedly
+heatedness
+heaven-high
+heaven-inspired
+heavily
+heavy date
+heavy reader
+heavy relationship
+heighten !DETERMINER
+heighten !DETERMINER need
+heighten awareness
+heightened !DETERMINER need
+heightened awareness
+heightening !DETERMINER
+heightening !DETERMINER need
+heightening awareness
+heightens !DETERMINER
+heightens !DETERMINER need
+heightens awareness
+held fast to
+held on for dear life
+held on to !DETERMINER belief
+held on to !DETERMINER idea
+hell's bells
+hell-bent
+hell-bent for
+hell-bent for election
+hell-bent on
+hell-bent to
+hell-raiser
+hell-raisers
+hell-raker
+hell-rakers
+hell bent
+hell bent on
+hell bent to
+hell break loose
+hell breaking loose
+hell breaks loose
+hell broke loose
+hell let loose
+hell of !DETERMINER
+hell on wheels
+hellbent
+hellkite
+hellkites
+helluva
+helluva of
+helluva of !DETERMINER
+herculean
+hey rube
+hey, rube!
+high-heaven
+high-power
+high-powered
+high-pressured
+high-pressures
+high-pressuring
+high-stakes
+high heaven
+high heavens
+high order of importance
+high power
+high powered
+high pressure
+high pressured
+high pressuring
+high stakes
+highest alert
+highest security
+highly
+hit on all cylinders
+hits on all cylinders
+hitting on all cylinders
+hog-wild
+hog wild
+hog wild over
+hogwild
+hold fast to
+hold on for dear life
+hold on to !DETERMINER belief
+hold on to !DETERMINER idea
+holding fast to
+holding on for dear life
+holding on to !DETERMINER belief
+holding on to !DETERMINER idea
+holds fast to
+holds on for dear life
+holds on to !DETERMINER belief
+holds on to !DETERMINER idea
+holy Christ!
+holy cow
+holy cow!
+holy Jesus
+holy mackerel
+holy mackerel!
+holy shit
+holy shit!
+holy smoke
+holy smoke!
+honestly
+hook line and sinker
+hook, line and sinker
+hope against hope
+hope and pray
+hope to die
+hope to God
+hoping against hope
+hot-and-bothered
+hot-blooded
+hot-button
+hot about
+hot and heavy
+hot as
+hot as !DETERMINER hinges of hell
+hot as blazes
+hot as fire
+hot as hell
+hot as pepper
+hot blooded
+hot button
+hot diggety
+hot enough
+hot enough to
+hot enough to roast !DETERMINER ox
+hot issue
+hot issues
+hot item
+hot items
+hot love
+hot number
+hot numbers
+hot on
+hot place
+hot places
+hot pursuit
+hot spot
+hot spots
+hot stuff
+hot type
+hot types
+hot up
+hot ziggety
+hotly
+hots up
+hotted up
+hotting up
+house-raising
+how much !YOU mean
+how much he means
+how much I mean
+how much it means
+how much she means
+how much they mean
+how much we mean
+howsoever
+hue and cry
+hues and cries
+huff-caps
+huff and puff all
+huffed and puffed all
+huffing and puffing all
+huffs and puffs all
+hug-me-tight
+huge
+huge proportion
+huge proportions
+hugely
+huger
+hugest
+human dynamo
+human dynamos
+humanly
+humanly possible
+humongous
+hung on !POSSESSIVEPRONOUN words
+hung on for dear life
+hung on like !DETERMINER bulldog
+hung on like !DETERMINER leech
+hung on my words
+hung on our words
+hunger-bit
+hunger-driven
+hunger-mad
+hunger-pressed
+hunger-starve
+hunger-stricken
+hunger-stung
+hunger-worn
+hunger after
+hunger for
+hungered after
+hungered for
+hungering after
+hungering for
+hungers
+hungers after
+hungers for
+hungrily
+hungry as !DETERMINER bear
+hungry mouth
+hungry mouths
+hyped
+hyped up
+hyper
+hyper-
+hypervisible
+ignited !DETERMINER bombshell
+ignites !DETERMINER bombshell
+igniting !DETERMINER bombshell
+illimitability
+illimitable
+illimitableness
+illimitables
+illimitably
+imagine that!
+immeasurably
+immediately if not sooner
+immense number
+immense numbers
+immerse in
+immerse in !POSSESSIVEPRONOUN work
+immerse in work
+immersed in
+immersed in !POSSESSIVEPRONOUN work
+immersed in my work
+immersed in our work
+immersed in work
+immersed in your work
+immersing in
+immersing in !POSSESSIVEPRONOUN work
+immersing in work
+impassion
+impassioned
+impassionedly
+impassionedness
+impassioning
+impassions
+impatiently
+impetrate
+impetrated
+impetrates
+impetrating
+implore counsel
+implore mercy
+implored counsel
+implored mercy
+implores counsel
+implores mercy
+imploring counsel
+imploring mercy
+important that
+impress on !DETERMINER urgency
+impressed on !DETERMINER urgency
+impresses on !DETERMINER urgency
+impressing on !DETERMINER urgency
+in !DETERMINER bad way
+in !DETERMINER big way
+in !DETERMINER blaze
+in !DETERMINER cry
+in !DETERMINER cry of
+in !DETERMINER dickens
+in !DETERMINER eager manner
+in !DETERMINER entire world
+in !DETERMINER eruption of
+in !DETERMINER extreme
+in !DETERMINER ferment
+in !DETERMINER fever
+in !DETERMINER first place!
+in !DETERMINER first place.
+in !DETERMINER flurry
+in !DETERMINER forceful way
+in !DETERMINER frenzy
+in !DETERMINER frenzy of desire
+in !DETERMINER fury
+in !DETERMINER fury of desire
+in !DETERMINER heat of
+in !DETERMINER heated
+in !DETERMINER highest
+in !DETERMINER highest degree
+in !DETERMINER hurry
+in !DETERMINER rash
+in !DETERMINER real world
+in !DETERMINER severe
+in !DETERMINER slightest
+in !DETERMINER strongest possible terms
+in !DETERMINER strongest terms
+in !DETERMINER very
+in !DETERMINER very act
+in !DETERMINER very act of
+in !DETERMINER very acts
+in !DETERMINER very acts of
+in !DETERMINER very grain
+in !DETERMINER very grain of
+in !DETERMINER very grains
+in !DETERMINER very grains of
+in !DETERMINER whirlwind
+in !DETERMINER whold wide world
+in !DETERMINER whole wide world
+in !DETERMINER whole world
+in !DETERMINER wide world
+in !DETERMINER world
+in !DETERMINER world,
+in !DETERMINER world.
+in !DETERMINER worst
+in !DETERMINER worst possible way
+in !DETERMINER worst way
+in !DETERMINER worst way possible
+in !DETERMINER worst ways
+in actuality
+in actually
+in all !POSSESSIVEPRONOUN
+in all actuality
+in all creation
+in all its
+in all our
+in all reality
+in amazement
+in any manner
+in any manner possible
+in any possible
+in any possible way
+in any way
+in any way possible
+in any way whatever
+in any way, shape, or form
+in astonishment
+in bad
+in complete
+in cries
+in cries of
+in demand
+in droves
+in every bit of
+in every imaginable way
+in every possible way
+in every way imaginable
+in every way possible
+in every way, shape, and form
+in fact did
+in fact do
+in fact does
+in full
+in full force
+in full measure
+in full swing
+in heat
+in high-gear
+in hopes of staying alive
+in hot blood
+in hot haste
+in hot pursuit
+in hot pursuit of
+in hysterics
+in lots
+in no small measure
+in no small way
+in our own house
+in passion
+in profusion
+in real
+in reality
+in so many ways
+in spades
+in spates
+in spates of
+in superlatives
+in the heat of passion
+in the throes of passion
+in this whole
+in this whole world
+in truth
+in utter
+in utter disbelief
+in very sooth
+in very truth
+incalculable
+incalculably
+inconceivability
+inconceivable
+inconceivableness
+inconceivably
+incontrollable-passion
+incontrollable-passions
+incontrollable-urge
+incontrollable-urges
+incontrollable passion
+incontrollable passions
+incontrollable urge
+incontrollable urges
+increasingly important
+incredibility
+incredible
+incredible power
+incredible powers
+incredibleness
+incredibly
+indeed
+indeed did
+indeed do
+indeed does
+indelible
+indelible memories
+indelible memory
+indelibly
+indelibly impressed
+indelibly impressed on !DETERMINER mind
+indescribability
+indescribable
+indescribably
+indivertible
+ineffably
+ineffaceability
+ineffaceable
+ineffaceably
+inenarrable
+inenarrables
+ineradicable
+ineradicably
+inerasable memories
+inerasable memory
+inestimably
+inexhaustibility
+inexhaustible
+inexhaustibleness
+inexhaustibly
+inextinguishable
+inextinguishably
+infinitely
+inflame with
+inflamed in love
+inflamed with passion
+inflames with
+inflaming with
+infusive
+infusively
+infusiveness
+insanely
+insatiability
+insatiable
+insatiable desire
+insatiable desires
+insatiableness
+insatiably
+insatisable
+inseverable
+inseverable alliance
+inseverable friend
+inseverable frienship
+inseverableness
+inseverably
+inside and out
+insuperability
+insuperable
+insuperableness
+insuperably
+insurmountable
+insurmountably
+intense
+intensely
+intenseness
+intensities
+intensity
+intensive
+intensively
+intensiveness
+into !DETERMINER frenzy
+into absolutely
+into completely
+into frenzies
+into high gear
+into totally
+intriguing
+iron hands
+iron will
+iron wills
+irrecusable
+irrepealable
+irreplaceable
+irresistable compulsion
+irresistable compulsions
+Is a force
+it's !DETERMINER whole new ball game
+it's a doozie
+it's about time
+it's about time!
+it's all about
+it's astonishing
+it's astonishing that
+it's fascinating
+it's hard to believe
+it's high time!
+it's striking
+it's striking that
+it's very
+it !AUX !DETERMINER miracle that
+it !AUX !DETERMINER wonder that
+it !AUX astonishing
+it !AUX blatantly
+it !AUX extremely
+it !AUX important
+it !AUX incredible that
+it !AUX incredible to
+it !AUX key
+it !AUX key to
+it !AUX not even
+it !AUX rare
+it !AUX rare that
+it !AUX rare when
+it !AUX striking
+it !AUX striking that
+it !AUX surprising
+it !AUX urgent that
+it !AUX very
+it !AUX very rare
+it !AUX very rare that
+it !AUX very rare when
+it did
+it in fact did
+it indeed did
+it is hard to find words to describe
+it went as far as
+itch to
+itched to
+itches to
+itching to
+jacked
+jacked up
+jacking up
+jacks up
+jam-packed with
+jam-packed with excitement
+jaw-drop
+jaw-dropped
+jaw-dropping
+jaw-droppingly
+jaw-drops
+jaw !DROP
+jaw drop
+jaw dropped
+jaw dropping
+jaw drops
+jaws !DROP
+jazzed about
+jazzed up
+jazzed up about
+jealously-guarded
+jealously guarded
+Jesus Christ!
+Jesus!
+jillion
+jillions
+jjust can't wait
+jolted wide awake
+jolter
+jolters
+juggernaut
+juggernauts
+juice up
+juiced up
+juices up
+juicing up
+jump !DETERMINER mile
+jump at !DETERMINER chance
+jump at !DETERMINER opportunity
+jump at it
+jump to it
+jumped !DETERMINER mile
+jumped at it
+jumped to it
+jumping !DETERMINER mile
+jumping at !DETERMINER chance
+jumping at !DETERMINER opportunity
+jumping at it
+jumping to it
+jumps !DETERMINER mile
+jumps at !DETERMINER chance
+jumps at !DETERMINER opportunity
+jumps at it
+jumps to it
+just
+just !AUX
+just !DETERMINER slightest bit
+just !DETERMINER slightest bits
+just can't imagine
+just can't wait to
+just cannot imagine
+just cannot wait
+just do
+just for
+just give me !DETERMINER minute with that monster
+just know
+just plain
+just see
+just so
+just so much
+just swept up in !DETERMINER moment
+kamikaze
+kamikazes
+keen-
+keen competition
+keen need
+keen need for
+keen needs
+keen needs for
+keenly
+keep glued to
+keep me in mind
+keep right on
+keeps right on
+key-up
+keyed-up
+keyed up
+keyed up about
+keyed up for
+keying-up
+keys-up
+kicky
+killer-diller
+killer diller
+king's ransom
+knock-!POSSESSIVEPRONOUN-socks-off
+knock-!PRONOUNOBJECTIVE-socks-off
+knock-down
+knock-down-and-drag
+knock-down-and-drag-out
+knock-down-and-drag-out fight
+knock-down-and-drag-out quarrel
+knock-down-drag-out
+knock-my-socks-off
+knock-our-socks-off
+knock-your-socks-off
+knock !POSSESSIVEPRONOUN socks off
+knock !PRONOUNOBJECTIVE for !DETERMINER loop
+knock !PRONOUNOBJECTIVE out
+knock my socks off
+knock our socks off
+knock your socks off
+knocked !POSSESSIVEPRONOUN socks off
+knocked !PRONOUNOBJECTIVE for !DETERMINER loop
+knocked !PRONOUNOBJECTIVE out
+knocked my socks off
+knocked our socks off
+knocked your socks off
+knocking !POSSESSIVEPRONOUN socks off
+knocking !PRONOUNOBJECTIVE for !DETERMINER loop
+knocking !PRONOUNOBJECTIVE out
+knocking my socks off
+knocking our socks off
+knocking your socks off
+knockout
+knockouts
+knocks !POSSESSIVEPRONOUN socks off
+knocks !PRONOUNOBJECTIVE for !DETERMINER loop
+knocks !PRONOUNOBJECTIVE out
+knocks my socks off
+knocks our socks off
+knocks your socks off
+knuckle down
+knuckle down to
+knuckled down
+knuckled down to
+knuckles down
+knuckles down to
+knuckling down
+knuckling down to
+lack of reserve
+land-fever
+land-hunger
+land-hungry
+land-obsessed
+land fever
+land hunger
+land hungers
+land hungry
+land obsessed
+landslides victories
+large undertaking
+lash into !DETERMINER frenzy
+lash into !DETERMINER fury
+lash into fury
+lashed into !DETERMINER frenzy
+lashed into !DETERMINER fury
+lashed into fury
+lashes into !DETERMINER frenzy
+lashes into !DETERMINER fury
+lashes into fury
+lashing into !DETERMINER frenzy
+lashing into !DETERMINER fury
+lashing into fury
+laugh !POSSESSIVEPRONOUN head off
+laugh !POSSESSIVEPRONOUN heads off
+laugh herself limp
+laugh herself sick
+laugh herself silly
+laugh himself limp
+laugh himself sick
+laugh himself silly
+laugh my head off
+laugh myself limp
+laugh myself sick
+laugh myself silly
+laugh our heads off
+laugh ourselves sick
+laugh ourselves silly
+laugh themselves limp
+laugh themselves sick
+laugh themselves silly
+laugh till !YOU cry
+laugh till he cries
+laugh till I cry
+laugh till she cries
+laugh till they cry
+laugh till we cry
+laugh until tears run down
+laugh your head off
+laugh yourselves limp
+laugh yourselves sick
+laugh yourselves silly
+laughed !POSSESSIVEPRONOUN head off
+laughed !POSSESSIVEPRONOUN heads off
+laughed herself limp
+laughed herself sick
+laughed herself silly
+laughed himself limp
+laughed himself sick
+laughed himself silly
+laughed my head off
+laughed myself limp
+laughed myself sick
+laughed myself silly
+laughed our heads off
+laughed ourselves limp
+laughed ourselves sick
+laughed ourselves silly
+laughed themselves limp
+laughed themselves sick
+laughed themselves silly
+laughed till !YOU cry
+laughed till he cries
+laughed till I cry
+laughed till she cries
+laughed till they cry
+laughed till we cry
+laughed until tears run down
+laughed your head off
+laughed yourselves limp
+laughed yourselves sick
+laughed yourselves silly
+laughing !POSSESSIVEPRONOUN head off
+laughing !POSSESSIVEPRONOUN heads off
+laughing herself limp
+laughing herself sick
+laughing herself silly
+laughing himself limp
+laughing himself sick
+laughing himself silly
+laughing my head off
+laughing myself limp
+laughing myself sick
+laughing myself silly
+laughing our heads off
+laughing ourselves limp
+laughing ourselves sick
+laughing ourselves silly
+laughing themselves limp
+laughing themselves sick
+laughing themselves silly
+laughing till !YOU cry
+laughing till he cries
+laughing till I cry
+laughing till she cries
+laughing till they cry
+laughing till we cry
+laughing until tears run down
+laughing your head off
+laughing yourselves limp
+laughing yourselves sick
+laughing yourselves silly
+laughs !POSSESSIVEPRONOUN head off
+laughs !POSSESSIVEPRONOUN heads off
+laughs herself limp
+laughs herself sick
+laughs herself silly
+laughs himself limp
+laughs himself sick
+laughs himself silly
+laughs my head off
+laughs myself limp
+laughs myself sick
+laughs myself silly
+laughs our heads off
+laughs ourselves limp
+laughs ourselves sick
+laughs ourselves silly
+laughs themselves limp
+laughs themselves sick
+laughs themselves silly
+laughs till !YOU cry
+laughs till he cries
+laughs till I cry
+laughs till she cries
+laughs till they cry
+laughs till we cry
+laughs until tears run down
+laughs your head off
+laughs yourselves limp
+laughs yourselves sick
+laughs yourselves silly
+laughter fits
+leaned over backwards
+leap at !DETERMINER chance
+leap at !DETERMINER opportunity
+leap to !DETERMINER eye
+leaping at !DETERMINER chance
+leaping at !DETERMINER opportunity
+leaping to !DETERMINER eye
+leaps at !DETERMINER chance
+leaps at !DETERMINER opportunity
+leaps to !DETERMINER eye
+leapt to !DETERMINER eye
+least of all
+least of all in !DETERMINER world
+leave !DETERMINER mile behind
+leave breathless
+leave no stone unturned
+leaves breathless
+leaving !DETERMINER mile behind
+leaving breathless
+left !DETERMINER mile behind
+left breathless
+let's get cracking
+let's go for broke
+let alone
+level-best
+level best
+leviathan
+leviathans
+lick !DETERMINER plate
+lick !DETERMINER plate clean
+lick !DETERMINER platter
+lick !POSSESSIVEPRONOUN chops
+lick my chops
+lick our chops
+lick your chops
+licked !DETERMINER plate
+licked !DETERMINER plate clean
+licked !DETERMINER platter
+licked !POSSESSIVEPRONOUN chops
+licked my chops
+licked our chops
+licked your chops
+licking !DETERMINER plate
+licking !DETERMINER plate clean
+licking !DETERMINER platter
+licking !POSSESSIVEPRONOUN chops
+licking my chops
+licking our chops
+licking your chops
+licks !DETERMINER plate
+licks !DETERMINER plate clean
+licks !DETERMINER platter
+licks !POSSESSIVEPRONOUN chops
+licks my chops
+licks our chops
+licks your chops
+lidless vigil
+lidless vigils
+life-and-death
+life-and-death struggle
+life-and-death struggles
+life-or-death
+life-or-death struggle
+life-saving impact
+life-thirsting
+light !DETERMINER fire under
+light !POSSESSIVEPRONOUN fire
+light my fire
+light our fire
+light your fire
+lighting !DETERMINER fire under
+lighting !POSSESSIVEPRONOUN fire
+lighting my fire
+lighting our fire
+lighting your fire
+lights !DETERMINER fire under
+lights !POSSESSIVEPRONOUN fire
+lights my fire
+lights our fire
+lights your fire
+like !DETERMINER bulldog
+like all get-out
+like any mad
+like cats and dogs
+like crazy
+like fury
+like hotcakes
+like lightning
+like mad
+like nothing on earth
+like nothing on this earth
+like there was no tommorrow
+like wildfire
+limitless
+listen with both ears
+listened raptly
+listened with both ears
+listening raptly
+listening with both ears
+listens with both ears
+lit !DETERMINER fire under
+lit !POSSESSIVEPRONOUN fire
+lit my fire
+lit our fire
+lit your fire
+little wonder
+little wonder that
+live and die
+live and die for
+live and die over
+live and die with
+lived and died
+lived and died for
+lived and died over
+lived and died with
+liven-up
+liven it up
+liven things up
+liven up
+livened-up
+livened it up
+livened things up
+livened up
+livening-up
+livening it up
+livening things up
+livening up
+livens-up
+livens it up
+livens things up
+livens up
+lives and dies
+lives and dies for
+lives and dies over
+lives and dies with
+living and dying
+living and dying for
+living and dying over
+living and dying with
+load of money
+loads of money
+lock, stock, and barrel
+lode of
+lollapalooza
+lollapaloozas
+long and hard
+lots and lots
+lots of
+loud in !POSSESSIVEPRONOUN
+loud in my
+loud in our
+loud in your
+loudly for
+love-bitten
+love-crossed
+love-entangle
+love-entangled
+love-feast
+love-laden
+love-mad
+love-madness
+love-sick
+love-smitten
+love-spent
+love-starved
+love-stricken
+love-touched
+love !PRONOUNOBJECTIVE to death
+loved !PRONOUNOBJECTIVE to death
+loves !PRONOUNOBJECTIVE to death
+loving !PRONOUNOBJECTIVE to death
+lower !DETERMINER boom
+lowered !DETERMINER boom
+lowering !DETERMINER boom
+lowers !DETERMINER boom
+lowest possible
+lucky stiff
+lulu
+lust
+lust-born
+lust-burned
+lust-burning
+lust-engendered
+lust after
+lust for
+lust of !DETERMINER flesh
+lusted
+lusted after
+lusted for
+lustful
+lustfully
+lustfulness
+lustier
+lustiest
+lustihood
+lustihoods
+lustily
+lustiness
+lusting
+lusting after
+lusting for
+lusts
+lusts after
+lusts for
+lusts of !DETERMINER flesh
+mad-dash
+maddash
+made !DETERMINER point of
+made !DETERMINER special point
+made herself understood
+made himself understood
+made it to
+made myself undserstood
+made themselves understood
+madly
+maintain with !POSSESSIVEPRONOUN last breath
+maintain with my last breath
+maintain with our last breath
+maintain with your last breath
+major criticism
+major criticisms
+mammoth undertaking
+mammoth undertakings
+man alive
+mania
+maniacal
+maniacal excitement
+maniacally
+manias
+manifestly
+many many
+many times over
+many, many
+markedly
+massive
+massive scale
+massively
+massiveness
+massy
+match in !DETERMINER powder barrel
+matches in !DETERMINER powder barrel
+matter of consequence
+matter of life and death
+matter of life or death
+matter of necessity
+matters of consequence
+matters of life and death
+matters of life or death
+matters of necessity
+me too
+mean-conditioned
+mean-dressed
+mean-looking
+mean business
+mean everything
+mean more to !PRONOUNOBJECTIVE
+mean more to !YOU
+mean more to me
+mean more to us
+mean much
+mean sun
+mean suns
+meaning business
+meaning everything
+meaning more to !PRONOUNOBJECTIVE
+meaning more to !YOU
+meaning more to me
+meaning more to us
+meaning much
+means business
+means everything
+means more to !PRONOUNOBJECTIVE
+means more to !YOU
+means more to me
+means more to us
+means much
+meant business
+meant everything
+meant more to !PRONOUNOBJECTIVE
+meant more to !YOU
+meant more to me
+meant more to us
+meant much
+measurelessly
+meet !POSSESSIVEPRONOUN death
+meet !POSSESSIVEPRONOUN fate
+meet !POSSESSIVEPRONOUN Maker
+meet !PRONOUNOBJECTIVE head-on
+meet my death
+meet my fate
+meet my Maker
+meet our death
+meet our fate
+meet our Maker
+meet squarely
+meet your death
+meet your fate
+meet your Maker
+meeting !POSSESSIVEPRONOUN death
+meeting !POSSESSIVEPRONOUN fate
+meeting !POSSESSIVEPRONOUN Maker
+meeting !PRONOUNOBJECTIVE head-on
+meeting my death
+meeting my fate
+meeting my Maker
+meeting our death
+meeting our fate
+meeting our Maker
+meeting squarely
+meeting your death
+meeting your fate
+meeting your Maker
+meets !POSSESSIVEPRONOUN death
+meets !POSSESSIVEPRONOUN fate
+meets !POSSESSIVEPRONOUN Maker
+meets !PRONOUNOBJECTIVE head-on
+meets my death
+meets my fate
+meets my Maker
+meets our death
+meets our fate
+meets our Maker
+meets squarely
+meets your death
+meets your fate
+meets your Maker
+megabuck
+megabucks
+memorable
+merely in
+merely to
+met !POSSESSIVEPRONOUN death
+met !POSSESSIVEPRONOUN fate
+met !POSSESSIVEPRONOUN Maker
+met !PRONOUNOBJECTIVE head-on
+met my death
+met my fate
+met my Maker
+met our death
+met our fate
+met our Maker
+met squarely
+met your death
+met your fate
+met your Maker
+meteoric
+meteorically
+might and main
+might too
+mightiest
+mightiest power
+mightiest power on earth
+mightiest powers
+mightily
+mighty
+mighty-brained
+mighty-handed
+mighty-minded
+mighty-mouthed
+mighty-spirited
+mighty effort
+mighty in battle
+mighty like
+miles ahead of
+mind-bending
+mind-blowing
+mind-boggler
+mind-boggling
+mind-changer
+mind-changing
+mind-expanding
+mind-expansion
+mindbending
+mindbendingly
+mindboggling
+mint of money
+mints of money
+minute attention
+minute attention to
+minute attentions
+minute attentions to
+mirabile dictu
+miraculous
+miraculously
+miraculousness
+miss nothing
+missed nothing
+misses nothing
+missing nothing
+momentous
+momentously
+momentousness
+money flooded in
+money mad
+monumental
+monumentality
+monumentally
+moon-mad
+mop up !DETERMINER floor with
+mopped up !DETERMINER floor with
+mopping up !DETERMINER floor with
+mops up !DETERMINER floor with
+more and more
+more remarkable
+more than ever
+most extraordinary
+most important
+most important of all
+most importantly
+most notably
+most of all
+most of all in !DETERMINER world
+most remarkable
+most significant
+most significantly
+mostly
+mother of all wars
+mouth open
+mouth wide open and agape at
+move heaven and earth
+move to tears
+move violently
+moved to laughter
+moved to tears
+moved violently
+moves to tears
+moves violently
+moving saga
+moving sagas
+moving stories
+moving story
+moving tale
+moving tales
+moving to tears
+moving violently
+much
+much-hunger
+much-needed
+multitudinous
+multitudinously
+music-mad
+music-stirring
+music mad
+muster up
+mustered up
+mustering up
+musters up
+mustn't forget
+my all
+my attention riveted
+my God
+my god!
+my honor
+my lord!
+my word!
+nail-biter
+nail-biting
+nail-biting experience
+nail-biting experiences
+naked force
+naked forces
+naked power
+naked powers
+nakedly
+nearly all
+nearly bled to death
+nearly died
+nearly every
+nearly jumped out of !POSSESSIVEPRONOUN skin
+nearly starved
+neck-breaking speed
+neck-breaking speeds
+neck breaking
+neck or nothing
+need prayer
+need to impress upon
+need to pray
+needed to impress upon
+needing to impress upon
+needs to impress upon
+never let go
+never say die
+never seen anything like this
+never sleep
+never so
+never stoop
+new heights
+no earthly
+no earthly idea
+no holds barred
+no idea how much
+No kidding!
+no let down
+no let up
+no matter !DETERMINER
+no matter !QUESTION
+no matter !QUESTION !AUX required
+no matter !QUESTION it takes
+no matter at !QUESTION
+no mean feat
+no words can describe
+nose to !DETERMINER grindstone
+nose to grindstone
+not !DETERMINER little
+not ever
+not give !DETERMINER damn
+not give !DETERMINER damn about
+not give !DETERMINER dime !DETERMINER dozen for
+not give !DETERMINER hoot
+not give !DETERMINER hoot for
+not give !DETERMINER shit
+not give !DETERMINER shit for
+notably
+nothing but
+nothing but !DETERMINER
+nothing short of
+nothing short of miraculous
+nothing was more important
+nothing was more important than
+nothing was more important to
+noticeably
+noticeably so
+novel-crazed
+now and forever
+now or never
+now plead with
+now pleaded with
+now pleading with
+now pleads with
+numberless
+nuts about
+nuts over
+obsess !DETERMINER mind
+obsessed !DETERMINER mind
+obsessed by
+obsesses !DETERMINER mind
+obsessing !DETERMINER mind
+obsession with
+obsessional
+obsessional neurosis
+obsessions with
+obsessive
+obsessive-compulsive
+obsessive compulsion
+obsessive compulsive
+obsessively
+obtain by fair means or foul
+obtained by fair means or foul
+obtaining by fair means or foul
+obtains by fair means or foul
+oceans of
+oceans of trouble
+oceans of work
+of !DETERMINER deepest
+of !DETERMINER essence
+of !DETERMINER first magnitude
+of !DETERMINER first magnitudes
+of !DETERMINER high order of importance
+of !DETERMINER utmost importance
+of all things to get excited about
+of consequence
+of import
+of importance
+of many many
+of most
+of note
+of special
+of special import
+of this magnitude
+off to !DETERMINER running start
+off with !DETERMINER bang
+oh god
+oh my god
+on !DETERMINER alert
+on !DETERMINER alert for
+on !DETERMINER holy mission to
+on !DETERMINER massive scale
+on !DETERMINER sacred mission to
+on !DETERMINER tear
+on !DETERMINER urgency
+on !DETERMINER urgent
+on !DETERMINER very urgency
+on !DETERMINER very urgent
+on !POSSESSIVEPRONOUN every word
+on all cylinders
+on dead center
+on fire with
+on my every word
+on our own field
+on our own very soil
+on your every word
+once-in-a-lifetime
+once and for all
+one's all
+one's damndest
+one's darndest
+one-tenth as
+one at that
+one bit.
+one fine
+one great
+one of the most
+oneself
+oneself.
+only !DETERMINER stuff of
+only by !DETERMINER grace of god
+only too
+onslaught
+onslaughts
+oodle
+oodle of
+oodles
+oodles of
+open-throttle
+opera-mad
+operose
+operosely
+operoseness
+or steal
+orange-alert
+orange alert
+orange alerts
+our all
+our attention riveted
+our concern for
+our very own soil
+out-and-out
+out of this world
+outburst
+outbursts
+outcried
+outcries
+outcry
+outcrying
+outpouring of
+outright
+outright.
+over !DETERMINER top
+over head and ears in
+over head and ears in love
+over my dead body
+overcome with
+overexcite
+overexcited
+overexcites
+overexciting
+overflowing with
+overpowering
+overpowering will
+overpoweringly
+overwhelm
+overwhelm !DETERMINER
+overwhelm !POSSESSIVEPRONOUN
+overwhelm !PRONOUNOBJECTIVE
+overwhelmed
+overwhelmed !DETERMINER
+overwhelmed !POSSESSIVEPRONOUN
+overwhelmed !PRONOUNOBJECTIVE
+overwhelmed with
+overwhelming
+overwhelming !DETERMINER
+overwhelming !POSSESSIVEPRONOUN
+overwhelming !PRONOUNOBJECTIVE
+overwhelms
+overwhelms !DETERMINER
+overwhelms !POSSESSIVEPRONOUN
+overwhelms !PRONOUNOBJECTIVE
+paid back in full measure
+palpitating heart
+palpitating hearts
+pant loudly for
+panted loudly for
+panting loudly for
+pants loudly for
+paramount
+paramount importance
+paramountcy
+paroxysm
+paroxysm of
+paroxysms
+paroxysms of
+party-zealous
+passing-fair
+passing-strange
+passing fair
+passing strange
+passion-blazing
+passion-breathing
+passion-clouded
+passion-colored
+passion-distracted
+passion-driven
+passion-feeding
+passion-filled
+passion-flower
+passion-fraught
+passion-frenzied
+passion-guided
+passion-kindled
+passion-kindling
+passion-led
+passion-pale
+passion-proud
+passion-ridden
+passion-shaken
+passion-smitten
+passion-stirred
+passion-stung
+passion-swayed
+passion-thrilled
+passion-thrilling
+passion-torn
+passion-tossed
+passion-wasted
+passion-winged
+passion-worn
+passional
+passionals
+passionate about
+passionately
+pay back in full measure
+paying back in full measure
+pays back in full measure
+pee !POSSESSIVEPRONOUN pants laughing
+pee in !POSSESSIVEPRONOUN pants laughing
+pee in my pants laughting
+pee in our pants laughing
+pee in your pants laughing
+pee my pants laughing
+pee our pants laughing
+pee your pants laughing
+peed !POSSESSIVEPRONOUN pants laughing
+peed in !POSSESSIVEPRONOUN pants laughing
+peed in my pants laughting
+peed in our pants laughing
+peed in your pants laughing
+peed my pants laughing
+peed our pants laughing
+peed your pants laughing
+peeing !POSSESSIVEPRONOUN pants laughing
+peeing in !POSSESSIVEPRONOUN pants laughing
+peeing in my pants laughing
+peeing in our pants laughing
+peeing in your pants laughing
+peeing my pants laughing
+peeing our pants laughing
+peeing your pants laughing
+pees !POSSESSIVEPRONOUN pants laughing
+pees in !POSSESSIVEPRONOUN pants laughing
+pees in my pants laughing
+pees in our pants laughing
+pees in your pants laughing
+pees my pants laughing
+pees our pants laughing
+pees your pants laughing
+pepper !DETERMINER
+pepper !POSSESSIVEPRONOUN
+pepper !PRONOUNOBJECTIVE with
+pepper it up
+pepper it up with
+peppered !DETERMINER
+peppered !POSSESSIVEPRONOUN
+peppered !PRONOUNOBJECTIVE with
+peppered it up
+peppered it up with
+peppering !DETERMINER
+peppering !POSSESSIVEPRONOUN
+peppering !PRONOUNOBJECTIVE with
+peppering it up
+peppering it up with
+peppers !DETERMINER
+peppers !POSSESSIVEPRONOUN
+peppers !PRONOUNOBJECTIVE with
+peppers it up
+peppers it up with
+perfervid
+personally touched
+personally touched by
+phenomenal
+phenomenally
+physically fight
+pick up steam
+picked up steam
+picking up steam
+picks up steam
+pierce to !DETERMINER depths
+pierced to !DETERMINER depths
+pierces to !DETERMINER depths
+piercing to !DETERMINER depths
+pile it on
+piled it on
+piles it on
+piling it on
+pinnacle
+pinnacle of
+pinnacle reached
+pinnacles of
+pinnacles reached
+piss and vinegar
+piss n' vinegar
+pivotal
+pivotal-point
+pivotal-points
+pivotal-time
+pivotal-times
+pivotal point
+pivotal points
+pivotal time
+pivotal times
+pivotaled
+pivotaling
+pivotally
+plainly, !PRONOUNNOMINAL
+play for keeps
+play full out
+played for keeps
+played full out
+playing for keeps
+playing full out
+plays for keeps
+plays full out
+plea about
+plea on
+plead about
+plead for
+plead on
+plead with
+pleaded for
+pleaded with
+pleading about
+pleading for
+pleading on
+pleading with
+pleadingly
+pleads
+pleads for
+pleads with
+pleas about
+pleas on
+pledges flooded in
+plug at
+plug away
+plug away at
+plug away on
+plug away with
+plugged at
+plugged away
+plugged away at
+plugged away on
+plugged away with
+plugging at
+plugging away
+plugging away at
+plugging away on
+plugging away with
+plugs at
+plugs away
+plugs away at
+plugs away on
+plugs away with
+plunge headlong
+plunged headlong
+plunges headlong
+plunging headlong
+poetry-mad
+poetry mad
+pointed,
+pointed.
+pointed;
+pointedly
+pore over the details
+pored over the details
+pores over the details
+poring over the details
+positively addicting
+possible.
+possibly be
+pound !DETERMINER ear
+pound !DETERMINER ears
+pounded !DETERMINER ear
+pounded !DETERMINER ears
+pounding !DETERMINER ear
+pounding !DETERMINER ears
+pounding heart
+pounding hearts
+pounds !DETERMINER ear
+pounds !DETERMINER ears
+pour !POSSESSIVEPRONOUN heart into
+pour it on.
+pour my heart into
+pour our heart into
+pour over !POSSESSIVEPRONOUN
+pour over my
+pour over our
+pour over your
+pour your heart into
+poured it on.
+poured over !POSSESSIVEPRONOUN
+poured over my
+poured over our
+poured over your
+pouring it on.
+pouring over !POSSESSIVEPRONOUN
+pouring over my
+pouring over our
+pouring over your
+pours it on.
+pours over !POSSESSIVEPRONOUN
+pours over my
+pours over our
+pours over your
+pow
+power-packed
+power packed
+powerpacked
+practically
+practically all
+practically every
+praise to !DETERMINER hilt
+praise to !DETERMINER skies
+praised to !DETERMINER hilt
+praised to !DETERMINER skies
+praises to !DETERMINER hilt
+praises to !DETERMINER skies
+praising to !DETERMINER hilt
+praising to !DETERMINER skies
+pray
+pray !DETERMINER
+pray !POSSESSIVEPRONOUN
+pray !PRONOUNOBJECTIVE
+pray !PRONOUNOBJECTIVE to
+pray !REFLEXIVEPRONOUN
+pray do
+pray fervently
+pray fervently that
+pray for
+pray for quarter
+pray myself
+pray ourselves
+pray over
+pray to
+pray to God
+prayed !DETERMINER
+prayed !POSSESSIVEPRONOUN
+prayed !PRONOUNOBJECTIVE
+prayed !PRONOUNOBJECTIVE to
+prayed !REFLEXIVEPRONOUN
+prayed fervently
+prayed fervently that
+prayed for
+prayed for quarter
+prayed myself
+prayed ourselves
+prayed over
+prayed to
+prayer-loving
+prayerful
+prayerfully
+prayerfulness
+praying
+praying !DETERMINER
+praying !POSSESSIVEPRONOUN
+praying !PRONOUNOBJECTIVE
+praying !PRONOUNOBJECTIVE to
+praying !REFLEXIVEPRONOUN
+praying fervently
+praying fervently that
+praying for
+praying for quarter
+praying myself
+praying ourselves
+praying over
+praying to
+prays
+prays !DETERMINER
+prays !POSSESSIVEPRONOUN
+prays !PRONOUNOBJECTIVE
+prays !PRONOUNOBJECTIVE to
+prays !REFLEXIVEPRONOUN
+prays fervently
+prays fervently that
+prays for
+prays for quarter
+prays myself
+prays ourselves
+prays over
+prays to
+preach
+preaches
+preaching
+predominance
+predominance of
+predominance of Aquarius
+predominant
+predominantly
+predominate
+predominated over
+predominately
+predominates
+predominating
+predomination
+preponderance
+preponderancy
+preponderant
+preponderantly
+preponderate
+preponderates
+preponderating
+press !DETERMINER attack
+press !PRONOUNOBJECTIVE hard
+press !YOU hard
+press for
+press forward in
+press me hard
+press us hard
+pressed !DETERMINER attack
+pressed !PRONOUNOBJECTIVE hard
+pressed !YOU hard
+pressed for
+pressed forward in
+pressed me hard
+pressed us hard
+presses !PRONOUNOBJECTIVE hard
+presses !YOU hard
+presses for
+presses forward in
+presses me hard
+presses us hard
+pressing !DETERMINER attack
+pressing !PRONOUNOBJECTIVE hard
+pressing !YOU hard
+pressing for
+pressing forward in
+pressing me hard
+pressing priority
+pressing us hard
+pressingly
+pretty-spoken
+pretty damned
+pretty darn
+pretty exciting
+pretty pumped about
+pretty significant
+pretty well
+primeval urge
+primeval urges
+priority
+profound-sleep
+profound sense
+profound sense of
+profound senses
+profound senses of
+profound sleep
+profoundest
+profoundly
+profoundness
+profuse
+profusely
+profuseness
+profusion
+profusions
+profusive
+profusively
+profusiveness
+prominently
+prose run mad
+pulse-pounding
+pulse pounding
+pulverizing
+pump for information
+pump up for
+pumped about
+pumped for information
+pumped up about
+pumped up for
+pumping for information
+pumping up for
+pumps for information
+pumps up for
+purely
+purely for
+purely out of
+push !POSSESSIVEPRONOUN way
+push at
+push for
+push it through
+push my way
+push our way
+push to
+push your way
+pushed !POSSESSIVEPRONOUN way
+pushed at
+pushed for
+pushed it through
+pushed my way
+pushed our way
+pushed to
+pushed your way
+pushes !POSSESSIVEPRONOUN way
+pushes at
+pushes for
+pushes it through
+pushes my way
+pushes our way
+pushes to
+pushes your way
+pushing !POSSESSIVEPRONOUN way
+pushing at
+pushing for
+pushing it through
+pushing my way
+pushing our way
+pushing to
+pushing your way
+quantum leap
+quantum leap ahead
+quantum leap backward
+quantum leap forward
+quantum leaps
+quintessence
+quite
+quite !DETERMINER
+quite !DETERMINER bit
+quite !DETERMINER few
+quite !DETERMINER lady
+quite !DETERMINER little
+quite !DETERMINER lot
+quite !DETERMINER number
+quite !DETERMINER statement
+quite !DETERMINER thing
+quite another thing
+quite rather
+quite so
+quite some
+rabid
+rabid about
+rabidly
+racing heart
+racing hearts
+radically
+rage with
+raged with
+rages with
+raging passion
+raging passions
+raging with
+rah
+rah rah
+rah rahs
+raise !DETERMINER call
+raise !DETERMINER call for
+raise !DETERMINER roof
+raised !DETERMINER call
+raised !DETERMINER call for
+raised !DETERMINER roof
+raises !DETERMINER call
+raises !DETERMINER call for
+raises !DETERMINER roof
+raising !DETERMINER call
+raising !DETERMINER call for
+raising !DETERMINER roof
+RAM IT THROUGH
+RAMMED IT THROUGH
+RAMMING IT THROUGH
+RAMS IT THROUGH
+ran off and
+ran off steam
+ran wild over
+randily
+randiness
+randy
+rang !DETERMINER tocsin
+rang !DETERMINER tocsins
+ransack !POSSESSIVEPRONOUN brains
+ransack my brain
+ransack my brains
+ransack our brains
+ransack your brains
+ransacked !POSSESSIVEPRONOUN brains
+ransacked my brain
+ransacked my brains
+ransacked our brains
+ransacked your brains
+ransacking !POSSESSIVEPRONOUN brains
+ransacking my brain
+ransacking my brains
+ransacking our brains
+ransacking your brains
+ransacks !POSSESSIVEPRONOUN brains
+ransacks my brain
+ransacks my brains
+ransacks our brains
+ransacks your brains
+rapt
+rapt attention
+rapt attentions
+rapt away
+rapt full
+rapt in
+rapt in attention
+rapt in wonder
+rapt with
+rapted away
+rapting away
+raptly
+rapts away
+rapture-bound
+rapture-breathing
+rapture-bursting
+rapture-giving
+rapture-moving
+rapture-ravished
+rapture-rising
+rapture-smitten
+rapture-speaking
+rapture-touched
+rapture-trembling
+rapture-wrought
+rarin' to go
+raring
+raring to
+raring to find out
+raring to go
+rather closely
+ravening
+raveningly
+ravenous
+ravenously
+ravenousness
+ravings
+ravish
+ravished
+ravisher
+ravishers
+ravishes
+ravishingly
+ravishment
+ravishments
+reach !DETERMINER pinnacle
+reach !DETERMINER pinnacles
+reach pinnacle
+reach pinnacles
+reache pinnacle
+reached !DETERMINER pinnacle
+reached !DETERMINER pinnacles
+reached pinnacle
+reached pinnacles
+reaches !DETERMINER pinnacle
+reaches !DETERMINER pinnacles
+reaches pinnacle
+reaches pinnacles
+reaching !DETERMINER pinnacle
+reaching !DETERMINER pinnacles
+reaching pinnacle
+reaching pinnacles
+reacting with shock
+read all about it
+read my lips
+real
+real-life crises
+real-life crisis
+real-life drama
+real-life dramas
+real concern
+real concerns
+real facer
+real facers
+real life crises
+real life crisis
+real life drama
+real life dramas
+real matter of importance
+real matters of importance
+real need
+real need for
+real needs
+real needs for
+really
+really-truly
+really and truly
+really catch fire
+really catches fire
+really catching fire
+really caught fire
+really dug in
+really get to
+really gets to
+really getting to
+really got to
+really into
+really is
+really jazzed
+really liven things up
+really livened things up
+really livening things up
+really livens things up
+really pored it on
+really pumped
+really something
+really truly
+really unique
+really wild
+recherche
+recited prayers
+reckless abandon
+red-alert
+red-hot romance
+red alert
+red alerts
+red hot
+red hot live
+redouble
+redouble !POSSESSIVEPRONOUN efforts
+redouble my efforts
+redouble our efforts
+redouble your efforts
+redoubled
+redoubled !POSSESSIVEPRONOUN efforts
+redoubled my efforts
+redoubled our efforts
+redoubled your efforts
+redoubles
+redoubles !POSSESSIVEPRONOUN efforts
+redoubles my efforts
+redoubles our efforts
+redoubles your efforts
+redoubling
+redoubling !POSSESSIVEPRONOUN efforts
+redoubling my efforts
+redoubling our efforts
+redoubling your efforts
+redoubtable
+redoubtably
+reflect !DETERMINER depths to which !YOU will go to
+reflect !DETERMINER depths to which he will go to
+reflect !DETERMINER depths to which I will go to
+reflect !DETERMINER depths to which she will go to
+reflect !DETERMINER depths to which they will go to
+reflect !DETERMINER depths to which we will go to
+reflected !DETERMINER depths to which !YOU will go to
+reflected !DETERMINER depths to which he will go to
+reflected !DETERMINER depths to which I will go to
+reflected !DETERMINER depths to which she will go to
+reflected !DETERMINER depths to which they will go to
+reflected !DETERMINER depths to which we will go to
+reflecting !DETERMINER depths to which !YOU will go to
+reflecting !DETERMINER depths to which he will go to
+reflecting !DETERMINER depths to which I will go to
+reflecting !DETERMINER depths to which she will go to
+reflecting !DETERMINER depths to which they will go to
+reflecting !DETERMINER depths to which we will go to
+reflects !DETERMINER depths to which !YOU will go to
+reflects !DETERMINER depths to which he will go to
+reflects !DETERMINER depths to which I will go to
+reflects !DETERMINER depths to which she will go to
+reflects !DETERMINER depths to which they will go to
+reflects !DETERMINER depths to which we will go to
+regardless of !DETERMINER time it takes
+regardless of consequences
+regardless of cost
+regardless of effort
+regardless of price
+release !POSSESSIVEPRONOUN passion
+release my passion
+release our passion
+release passion
+release your passion
+released !POSSESSIVEPRONOUN passion
+released my passion
+released our passion
+released passion
+released your passion
+releases !POSSESSIVEPRONOUN passion
+releases my passion
+releases our passion
+releases passion
+releases your passion
+releasing !POSSESSIVEPRONOUN passion
+releasing my passion
+releasing our passion
+releasing passion
+releasing your passion
+relentlessly
+religious about
+religiously
+remarkably
+resistance
+resoundingly
+rhapsodize
+rhapsodize about
+rhapsodize over
+rhapsodized
+rhapsodized over
+rhapsodizes
+rhapsodizes over
+rhapsodizing
+rhapsodizing over
+ride !PRONOUNOBJECTIVE hard
+ride !YOU hard
+ride me hard
+ride us hard
+rides !PRONOUNOBJECTIVE hard
+rides !YOU hard
+rides me hard
+rides us hard
+riding !PRONOUNOBJECTIVE hard
+riding !YOU hard
+riding me hard
+riding us hard
+right on
+right on!
+right on.
+ring !DETERMINER tocsin
+ring !DETERMINER tocsins
+ringing !DETERMINER tocsin
+ringing !DETERMINER tocsins
+rings !DETERMINER tocsin
+rings !DETERMINER tocsins
+rip-snort
+rip-snorting
+rip-snortingly
+risked all
+risked everything
+rivet !DETERMINER eyes upon
+rivet !DETERMINER mind on
+rivet !DETERMINER thoughts on
+rivet !POSSESSIVEPRONOUN eyes upon
+rivet !POSSESSIVEPRONOUN mind on
+rivet !POSSESSIVEPRONOUN thoughts on
+rivet my attention
+rivet my eyes upon
+rivet my mind on
+rivet my thoughts on
+rivet our attention
+rivet our eyes upon
+rivet our mind on
+rivet our thoughts on
+rivet your attention
+rivet your eyes upon
+rivet your mind on
+rivet your thoughts on
+riveted !DETERMINER attention
+riveted !DETERMINER eyes upon
+riveted !DETERMINER mind on
+riveted !DETERMINER thoughts on
+riveted !POSSESSIVEPRONOUN attention
+riveted !POSSESSIVEPRONOUN eyes upon
+riveted !POSSESSIVEPRONOUN mind on
+riveted !POSSESSIVEPRONOUN thoughts on
+riveted attention
+riveted my eyes upon
+riveted my mind on
+riveted my thoughts on
+riveted our eyes upon
+riveted our mind on
+riveted our thoughts on
+riveted to
+riveted your eyes upon
+riveted your mind on
+riveted your thoughts on
+riveting
+riveting !DETERMINER eyes upon
+riveting !DETERMINER mind on
+riveting !DETERMINER thoughts on
+riveting !POSSESSIVEPRONOUN eyes upon
+riveting !POSSESSIVEPRONOUN mind on
+riveting !POSSESSIVEPRONOUN thoughts on
+riveting my attention
+riveting my eyes upon
+riveting my mind on
+riveting my thoughts on
+riveting our attention
+riveting our eyes upon
+riveting our mind on
+riveting our thoughts on
+riveting your attention
+riveting your eyes upon
+riveting your mind on
+riveting your thoughts on
+rivets !DETERMINER eyes upon
+rivets !DETERMINER mind on
+rivets !DETERMINER thoughts on
+rivets !POSSESSIVEPRONOUN eyes upon
+rivets !POSSESSIVEPRONOUN mind on
+rivets !POSSESSIVEPRONOUN thoughts on
+rivets my attention
+rivets my eyes upon
+rivets my mind on
+rivets my thoughts on
+rivets our attention
+rivets our eyes upon
+rivets our mind on
+rivets our thoughts on
+rivets your attention
+rivets your eyes upon
+rivets your mind on
+rivets your thoughts on
+rock-bottom price
+rock-bottom prices
+rock !DETERMINER sky
+rock bottom price
+rock bottom prices
+rocked !DETERMINER sky
+rocking !DETERMINER sky
+rocks !DETERMINER sky
+rode !POSSESSIVEPRONOUN hard
+rode !PRONOUNOBJECTIVE hard
+rode !YOU hard
+rode me hard
+rode us hard
+rollercoaster ride
+rollercoasters rides
+rooted belief
+rooted beliefs
+roundly
+rousings
+ruling emotion
+ruling emotions
+ruling passion
+ruling passions
+run mad
+run off and
+run off steam
+run wild over
+running off and
+running off steam
+running wild
+running wild over
+runs off and
+runs off steam
+runs wild over
+rush of emotion
+rushes of emotion
+rutting
+said !DETERMINER mouthful
+savage-fierce
+savage-hearted
+say !DETERMINER mouthful
+saying !DETERMINER mouthful
+says !DETERMINER mouthful
+scads of
+scrape forth
+scrape out of it
+scraped forth
+scraped out of it
+scrapes forth
+scrapes out of it
+scraping forth
+scraping out of it
+screamin		1
+screaming to be
+screamings
+sea-compelling
+search high heaven
+searched high heaven
+searches high heaven
+searching high heaven
+searingly
+seeth
+seize
+seize !DETERMINER
+seize with
+seized of
+seized with
+seizes
+seizes with
+seizing with
+sell like hotcakes
+selling like hotcakes
+sells like hotcakes
+send !PRONOUNOBJECTIVE spinning
+send !YOU spinning
+send me spinning
+send us spinning
+sending !PRONOUNOBJECTIVE spinning
+sending !YOU spinning
+sending me spinning
+sending us spinning
+sends !PRONOUNOBJECTIVE spinning
+sends !YOU spinning
+sends me spinning
+sends us spinning
+sensation
+sensational
+sensational play
+sensational plays
+sensationalistic
+sensationally
+sense-ravishing
+sent !PRONOUNOBJECTIVE spinning
+sent !YOU spinning
+sent me spinning
+sent us spinning
+serious relationship
+serpent-furies
+serpent-fury
+severely tied back
+sex-starved
+sex fiend
+sex fiends
+sexed-up
+sexual excitement
+sexually excited enough to
+shadows numberless
+sharp alarm
+sharp alarms
+she can't even
+she cannot even
+she did
+she in fact did
+she indeed did
+she too
+sheerly
+shindig
+shindigs
+shit in !POSSESSIVEPRONOUN pants
+shit in my pants
+shit in our pants
+shit in your pants
+shits in !POSSESSIVEPRONOUN pants
+shits in my pants
+shits in our pants
+shits in your pants
+shitting in !POSSESSIVEPRONOUN pants
+shitting in my pants
+shitting in our pants
+shitting in your pants
+shocked by
+shocked from
+shocked reaction
+shocked with
+shocker
+shockers
+shot it to !DETERMINER rafters
+shot it to !DETERMINER rooftops
+shots it to !DETERMINER rafters
+shots it to !DETERMINER rooftops
+shotted it to !DETERMINER rafters
+shotted it to !DETERMINER rooftops
+shotting it to !DETERMINER rafters
+shotting it to !DETERMINER rooftops
+should not forget
+should stress
+should too
+shout about
+shout from !DETERMINER housetops
+shout on
+shout out
+shout to !DETERMINER rafter
+shouted about
+shouted from !DETERMINER housetops
+shouted on
+shouted out
+shouted to !DETERMINER rafters
+shouting about
+shouting from !DETERMINER housetops
+shouting on
+shouting out
+shouting to !DETERMINER rafters
+shouts about
+shouts from !DETERMINER housetops
+shouts on
+shouts out
+shouts to !DETERMINER rafters
+show-stopper
+show-stoppers
+showstopper
+showstoppers
+showstopping
+shriek
+shrieked loudly
+shrieking loudly
+shrieks loudly
+sieze !POSSESSIVEPRONOUN mind
+sieze !POSSESSIVEPRONOUN minds
+sieze our minds
+siezed !POSSESSIVEPRONOUN mind
+siezed !POSSESSIVEPRONOUN minds
+siezed our minds
+siezes !POSSESSIVEPRONOUN mind
+siezes !POSSESSIVEPRONOUN minds
+siezes our minds
+siezing !POSSESSIVEPRONOUN mind
+siezing !POSSESSIVEPRONOUN minds
+siezing our minds
+significantly
+simply and solely
+single-minded
+single-mindedly
+single-mindedness
+single-nerved
+single minded
+singleness of
+singleness of heart
+singleness of purpose
+singly
+singularly
+skyrocket
+skyrocketed
+skyrocketing
+skyrockets
+sledgehammer explicit
+sledgehammer explicitness
+slightest bit
+slightest bits
+slower than molasses
+smack dab
+smack dab on
+smack in !DETERMINER middle
+smack on top
+smash-up
+smash all opposition
+smash hit
+smash hits
+smash it up
+smashed all opposition
+smashed it up
+smashes all opposition
+smashes it up
+smashing all opposition
+smashing defeat
+smashing defeats
+smashing it up
+smell to heaven
+smell to high heaven
+smelled to heaven
+smelled to high heaven
+smelling to heaven
+smelling to high heaven
+smells to heaven
+smells to high heaven
+smokin'-hot
+smolder with
+smoldered with !DETERMINER
+smoldering with
+smolders with
+smoulder with
+smouldered with
+smoulders with
+smouldring with
+snap-up
+SNAP IT UP
+snap to it
+snap up !DETERMINER
+snapped-up
+snapped to it
+snapped up !DETERMINER
+snapping-up
+SNAPPING IT UP
+snapping to it
+snapping up !DETERMINER
+snaps-up
+SNAPS IT UP
+snaps to it
+snaps up !DETERMINER
+snowball into
+snowballed
+snowballed into
+snowballing into
+snowballs into
+so amazed
+so baggy that
+so big
+so bold
+so closely
+so cold
+so cold !YOU !MODAL spit
+so complex
+so consequential
+so excited
+so expensive
+so far !YOU !MODAL
+so far as !YOU can
+so far as possible
+so far that
+so fervent
+so fervently
+so full
+so fully
+so hard
+so help me
+so help me god
+so high
+so intense
+so intensely
+so keenly
+so many
+so much
+so much of it that
+so nervous
+so openly that
+so psyched
+so quiet
+so scared
+so shocked
+so special
+so strongly
+so thrilled
+so unexpected
+so urgent
+so urgently
+so very
+so very keenly
+so very much
+so very very
+so well
+so.
+soberly
+soever
+sold like hotcakes
+soldier on
+soldiered on
+soldiering on
+soldiers on
+solely
+SOLEMN
+solemn secret
+solemn secrets
+solemn silence
+solemn silences
+solemnest
+solemnity in !POSSESSIVEPRONOUN
+solemnly
+solidly
+solidly on
+some considerable
+some real
+something awful
+something bracing
+something fierce
+something for good measure
+something major
+something revitalizing
+something to shout about
+something to write home about
+something very major
+sorely back
+sorely into
+sound !DETERMINER sharp alarm
+sound !DETERMINER sharp note
+sound and fury
+sounded !DETERMINER sharp alarm
+sounded !DETERMINER sharp note
+sounding !DETERMINER sharp alarm
+sounding !DETERMINER sharp note
+sounds !DETERMINER sharp alarm
+sounds !DETERMINER sharp note
+sow !POSSESSIVEPRONOUN wild oats
+sow our wild oats
+sowed !POSSESSIVEPRONOUN wild oats
+sowed our wild oats
+sowing !POSSESSIVEPRONOUN wild oats
+sowing our wild oats
+sows !POSSESSIVEPRONOUN wild oats
+sows our wild oats
+spang
+spare no
+spare no effort
+spare no expense
+spare no pains
+spare nothing
+spared no
+spared no effort
+spared no expense
+spared no pains
+spared nothing
+spares no
+spares no effort
+spares no expense
+spares no pains
+spares nothing
+sparing no
+sparing no effort
+sparing no expense
+sparing no pains
+sparing nothing
+sparking flowing
+sparks flew
+sparks flow
+spate
+spate of
+spate of words
+spates
+spates of words
+special point
+special points
+specialness
+spectaculars
+speechless
+speechlessly
+speechlessness
+speed maniac
+speed maniacs
+spew forth
+spewed forth
+spewing forth
+spews forth
+spine-tingling
+spine-tingly
+spine tingling
+sport !POSSESSIVEPRONOUN oak
+sport my oak
+sport our oak
+sport your oak
+sported !POSSESSIVEPRONOUN oak
+sported my oak
+sported our oak
+sported your oak
+sporting !POSSESSIVEPRONOUN oak
+sporting my oak
+sporting our oak
+sporting your oak
+sports !POSSESSIVEPRONOUN oak
+sports my oak
+sports our oak
+sports your oak
+spur on to
+spurred on to
+spurring on to
+spurs on to
+squarely
+stacks and stacks of
+stagger !PRONOUNOBJECTIVE
+stagger belief
+stagger me
+staggered !PRONOUNOBJECTIVE
+staggered belief
+staggered me
+staggering !PRONOUNOBJECTIVE
+staggering belief
+staggering me
+staggeringly
+staggers !PRONOUNOBJECTIVE
+staggers belief
+staggers me
+stand-agog
+stand agape at
+stand agog
+stand fast
+stand or fall with
+stand there agape at
+standing-agog
+standing agape at
+standing agog
+standing fast
+standing or falling with
+standing there agape at
+stands-agog
+stands agape at
+stands agog
+stands fast
+stands or falls with
+stands there agape at
+stare-hard
+stare hard
+stare open-mouthed
+stare openmouthed
+stared-hard
+stared hard
+stared open-mouthed
+stared openmouthed
+stares-hard
+stares hard
+stares open-mouthed
+stares openmouthed
+staring-hard
+staring hard
+staring open-mouthed
+staring openmouthed
+stark-awake
+stark-becalmed
+stark-blind
+stark-calm
+stark-dead
+stark-drunk
+stark-dumb
+stark-false
+stark-mad
+stark-naught
+stark-new
+stark-raving
+stark-raving mad
+stark-spoiled
+stark-staring
+stark-staring mad
+stark-stiff
+stark-wild
+stark blind
+stark dead
+stark naught
+stark upright
+state of suspense
+states of suspense
+staunch belief
+staunching believing
+staunchly
+staunchly believe
+staunchly believed
+staunchly believes
+stay alert
+stay glued to
+stayed alert
+staying alert
+stays alert
+steamroll
+steamrolled over
+steamroller method
+steamroller methods
+steamroller through
+steamrollered through
+steamrollering
+steamrollering through
+steamrollers through
+steamrolling
+steamrolls
+steel hand
+steel hands
+stentorian
+stick-to-it
+stick-to-it attitude
+stick at it
+stick by
+stick by !POSSESSIVEPRONOUN guns
+stick by my guns
+stick by our guns
+stick it out
+stick to !POSSESSIVEPRONOUN guns
+stick to it
+stick to my guns
+stick to our guns
+sticking at it
+sticking by
+sticking by !POSSESSIVEPRONOUN guns
+sticking by my guns
+sticking by our guns
+sticking by your guns
+sticking it out
+sticking to !POSSESSIVEPRONOUN guns
+sticking to it
+sticking to my guns
+sticking to our guns
+sticking to your guns
+sticks at it
+sticks by
+sticks by !POSSESSIVEPRONOUN guns
+sticks by my guns
+sticks by our guns
+sticks by your guns
+sticks it out
+sticks to !POSSESSIVEPRONOUN guns
+sticks to it
+sticks to my guns
+sticks to our guns
+sticks to your guns
+stiff go at it
+stink to high heaven
+stirring feeling
+stirring passion
+stirring performance
+stirring rendition
+stood-agog
+stood agape at
+stood agog
+stood fast
+stood or fell with
+stood there agape at
+stop !DETERMINER show
+stop at nothing
+stop for no one
+stopped !DETERMINER show
+stopped at nothing
+stopping !DETERMINER show
+stopping at nothing
+stopping for no one
+stops !DETERMINER show
+stops at nothing
+stops for no one
+stored-up
+storm !DETERMINER
+stormed
+stormed !DETERMINER
+stormed over
+stormed through
+stormin
+storming
+storming !DETERMINER
+storms !DETERMINER
+stormy
+stotty
+strain !REFLEXIVEPRONOUN
+strain for
+strained !REFLEXIVEPRONOUN
+strained for
+straining !REFLEXIVEPRONOUN
+straining for
+strains !REFLEXIVEPRONOUN
+strains for
+street fighter
+street fighters
+strength of conviction
+strength of desire
+strenuous
+strenuously
+stress !DETERMINER
+stress !POSSESSIVEPRONOUN
+stressed
+stressed !DETERMINER
+stressed !POSSESSIVEPRONOUN
+stresses !DETERMINER
+stresses !POSSESSIVEPRONOUN
+stressing !DETERMINER
+stressing !POSSESSIVEPRONOUN
+stretch !DETERMINER limits
+stretched !DETERMINER limits
+stretches !DETERMINER limits
+stretching !DETERMINER limits
+strict attention
+strict attentions
+striking
+striking that
+striking to
+strikingly
+strong
+strong belief
+strong beliefs
+strong bid
+strong bids
+strong feeling
+strong feelings
+strong measure
+strong measures
+strongly
+strongly-voiced
+strongly !FEEL
+strongly feel
+strongly voiced
+stuck at it
+stuck by !DETERMINER
+stuck by !POSSESSIVEPRONOUN guns
+stuck by my guns
+stuck by our guns
+stuck by your guns
+stuck it out
+stuck to !POSSESSIVEPRONOUN guns
+stuck to it
+stuck to my guns
+stuck to our guns
+stuck to your guns
+studied very hard
+studiedly
+studies very hard
+study very hard
+studying very hard
+stun !DETERMINER
+stunned
+stunned !DETERMINER
+stunned !PRONOUNOBJECTIVE
+stunned and confused
+stunned at !DETERMINER
+stunned by !DETERMINER
+stunner
+stunners
+stunning
+stunning !DETERMINER
+stunningly
+stuns
+stuns !DETERMINER
+substantially
+such
+such !DETERMINER depth
+super
+super-cool
+super-duper!
+super-duty
+super-secret
+super-sexy
+super-smooth
+super-special
+super-specialist
+super ambition
+super ambitious
+super cool
+super duper!
+super efficient
+super fast
+superabundance
+superabundant
+superabundantly
+superambition
+supercharge
+supercharged
+supercharges
+supercharging
+supercluster
+superclustering
+supercolossal
+superefficient
+superethnic
+superlatives
+supersupercolossal
+support flooded in
+supreme
+supreme fiction
+supreme fictions
+supremely
+surge back
+surge of emotion
+surged back
+surged over
+surges back
+surges of emotion
+surging back
+surging of emotion
+surprisingly,
+surreal
+surrealistic
+surrealistically
+swear
+swear by !DETERMINER belief
+swear on !DETERMINER Bible
+swear till
+swear to !DETERMINER belief
+swear to god
+swear to goodness
+swear until
+swear up and down
+swearing
+swearing on !DETERMINER Bible
+swearing till
+swearing to God
+swearing until
+swearing up and down
+swears
+swears by !DETERMINER belief
+swears on !DETERMINER Bible
+swears till
+swears to !DETERMINER belief
+swears to God
+swears to goodness
+swears until
+swears up and down
+sweepingly
+swell with emotion
+swelled with emotion
+swelling with emotion
+swells with emotion
+swore on
+swore on !DETERMINER Bible
+swore till
+swore to God
+swore until
+swore up and down
+swot away
+swot for
+swot hard
+swot up
+swots away
+swots for
+swots hard
+swots up
+swotted away
+swotted for
+swotted hard
+swotted up
+swotting away
+swotting for
+swotting hard
+swotting up
+talk nineteen to !DETERMINER dozen
+talked nineteen to !DETERMINER dozen
+talking nineteen to !DETERMINER dozen
+talks nineteen to !DETERMINER dozen
+taste blood
+tasted blood
+tastes blood
+tasting blood
+tear ass
+tear up !DETERMINER road
+tear up !DETERMINER track
+tear up root and branch
+tearing ass
+tearing up !DETERMINER road
+tearing up !DETERMINER track
+tearing up root and branch
+tears ass
+tears up !DETERMINER road
+tears up !DETERMINER track
+tears up root and branch
+teeming loin
+teeming loins
+tenacious
+tenacious of life
+tenaciously
+tenaciousness
+tenacities
+tenacity
+terribly
+tete-de-tete
+tete !DETERMINER tete
+than even
+thanks !DETERMINER million
+thanks be to
+that's !DETERMINER very thing
+that !AUX some
+that !DETERMINER real
+that does it!
+that leaps to !DETERMINER eye
+that means !DETERMINER lot
+that much
+that much nerve
+that settles it
+that takes a lot
+the last thing he wants to do
+the last thing I want to do
+the last thing she wants to do
+the last thing they want to do
+the last thing we want to do
+the last thing you want to do
+There are not enough words
+they can't even
+they cannot even
+they did
+they in fact did
+they indeed did
+they too
+think !DETERMINER great deal about
+think !DETERMINER lot about
+think !POSSESSIVEPRONOUN head off
+think !POSSESSIVEPRONOUN heads off
+think firmly
+think hard
+think our heads off
+think the unthinkable
+think your head off
+thinking !DETERMINER great deal about
+thinking !DETERMINER lot about
+thinking !POSSESSIVEPRONOUN head off
+thinking hard
+thinking our heads off
+thinking your head off
+thinks !DETERMINER great deal about
+thinks !DETERMINER lot about
+thinks !POSSESSIVEPRONOUN head off
+thinks !POSSESSIVEPRONOUN heads off
+thinks firmly
+thinks hard
+thinks our heads off
+thinks your head off
+thirst for
+thirsted for
+thirsting for
+thirsts for
+this extensive of
+this magnitude
+this special
+this time and time again
+this very special
+this whole
+thoroughly
+thought !DETERMINER great deal about
+thought !DETERMINER lot about
+thought !POSSESSIVEPRONOUN head off
+thought !POSSESSIVEPRONOUN heads off
+thought hard
+thought our heads off
+thought your head off
+threw !DETERMINER spotlight on
+thrill-crazed
+thrill-exciting
+thrill-pursuing
+thrill-sated
+thrill-seeking
+thrill of fear
+thrill seeker
+thrill seekers
+thrill to
+thriller
+thriller-diller
+thriller diller
+thriller dillers
+thrillers
+thrilling all over
+thrilling to
+thrills to
+throat seizing
+through-and-through
+through and through
+through any means possible
+through fire and water
+through hell and high water
+through thick or thin
+through thin and thick
+throw !DETERMINER spotlight on
+throwing !DETERMINER spotlight on
+throws !DETERMINER spotlight on
+thunder at
+thunder at !DETERMINER top of !POSSESSIVEPRONOUN voice
+thunder at !DETERMINER top of my voice
+thunder at !DETERMINER top of our voices
+thunder at !DETERMINER top of your voice
+thunder forth
+thundered at
+thundered at !DETERMINER top of !POSSESSIVEPRONOUN voice
+thundered at !DETERMINER top of my voice
+thundered at !DETERMINER top of our voices
+thundered at !DETERMINER top of your voice
+thundered forth
+thundering at
+thundering at !DETERMINER top of !POSSESSIVEPRONOUN voice
+thundering at !DETERMINER top of my voice
+thundering at !DETERMINER top of our voices
+thundering at !DETERMINER top of your voice
+thundering forth
+thunders at
+thunders at !DETERMINER top of !POSSESSIVEPRONOUN voice
+thunders at !DETERMINER top of my voice
+thunders at !DETERMINER top of our voices
+thunders at !DETERMINER top of your voice
+thunders forth
+thunderstricken
+thunderstruck
+tickle to death
+tickled to death
+tickles to death
+tickling to death
+tidy sum
+tiger-minded
+tiger-passion'd
+tiger-passioned
+till !DETERMINER fat lady sings
+time and time again
+time breaking
+tingle with excitement
+tingled with excitement
+tingles with excitement
+tingling with excitement
+titan
+titanic
+titans
+to !DETERMINER backbone
+to !DETERMINER core
+to !DETERMINER core of
+to !DETERMINER extreme
+to !DETERMINER fare-!YOU-well
+to !DETERMINER fare-thee-well
+to !DETERMINER fare-ye-well
+to !DETERMINER forefront
+to !DETERMINER four corners of !DETERMINER earth
+to !DETERMINER four corners of !DETERMINER world
+to !DETERMINER full
+to !DETERMINER full extent
+to !DETERMINER fullest
+to !DETERMINER fullest extent
+to !DETERMINER gills
+to !DETERMINER greatest
+to !DETERMINER greatest extent
+to !DETERMINER high degree
+to !DETERMINER highest degree
+to !DETERMINER hilt
+to !DETERMINER last drop of blood
+to !DETERMINER last gasp
+to !DETERMINER last man standing
+to !DETERMINER last person standing
+to !DETERMINER last sound of !DETERMINER trumpet
+to !DETERMINER last spill of blood
+to !DETERMINER last trumpet
+to !DETERMINER limit
+to !DETERMINER limits
+to !DETERMINER marrow
+to !DETERMINER nth degree
+to !DETERMINER outer limit
+to !DETERMINER outer limits
+to !DETERMINER skies
+to !DETERMINER teeth
+to !DETERMINER ultimate
+to !DETERMINER utmost
+to !DETERMINER utmost of one's ability
+to !DETERMINER very limit
+to !DETERMINER very limits
+to !POSSESSIVEPRONOUN face
+to !POSSESSIVEPRONOUN faces
+to !POSSESSIVEPRONOUN fingertips
+to !POSSESSIVEPRONOUN utmost
+to accentuate
+to beat !DETERMINER band
+to bits
+to boot.
+to boot;
+to do whatever !AUX required
+to do whatever it takes
+to enlarge
+to extremely
+to extremes
+to God
+to great lengths
+to highlight
+to its fullest
+to my face
+to my fingertips
+to my utmost
+to no end
+to our faces
+to our fingertips
+to our utmost
+to passion
+to pieces
+to stress !DETERMINER
+to stress that
+to such !DETERMINER degree
+to such !DETERMINER depth
+to the hilt
+to underscore
+to your fingertips
+tocsin
+toil hard
+toil very hard
+toiled hard
+toiled very hard
+toiling hard
+toiling very hard
+toils hard
+toils very hard
+ton-up
+too !MUSTSHOULD
+too can
+too choked up to speak
+too choked up to talk
+too damn
+too ought
+too powerful
+too should
+too will
+too would
+took great pains to
+took on !DETERMINER whole new meaning
+took pains to
+tooth and nail
+top-priorities
+top-priority
+top-security
+top priorities
+top priority
+top security
+tore ass
+tore up !DETERMINER road
+tore up !DETERMINER track
+tore up root and branch
+torrid
+torridities
+torridity
+torridly
+torridness
+total change
+total commitment
+total commitments
+total compensation
+total darkness
+total differential
+total effect
+total engagement
+total engagements
+total involvement
+total involvements
+total victories
+total victory
+total war
+totally
+totally absorbed
+totally committed
+totally involved
+totally self-assured
+touch a deep nerve
+touched a deep nerve
+touches a deep nerve
+touching a deep nerve
+tout !DETERMINER fait
+tout de suite
+towering passion
+towering passions
+towering rage
+towering rages
+travail and bring forth
+travailed and brought forth
+travailing and bringing forth
+travails and brings forth
+travel-mad
+tremendous
+tremendously
+tremendousness
+tremor of excitement
+tremors of excitement
+tres vif
+tried !POSSESSIVEPRONOUN damndest
+tried !POSSESSIVEPRONOUN darndest
+tried !POSSESSIVEPRONOUN utmost
+tried hard
+tried my damndest
+tried my darndest
+tried my utmost
+tried our damndest
+tried our darndest
+tried our utmost
+tried your damndest
+tried your darndest
+tried your utmost
+tries !POSSESSIVEPRONOUN damndest
+tries !POSSESSIVEPRONOUN darndest
+tries !POSSESSIVEPRONOUN utmost
+tries hard
+tries my damndest
+tries my darndest
+tries my utmost
+tries our damndest
+tries our darndest
+tries our utmost
+tries your damndest
+tries your darndest
+tries your utmost
+trip all over herself
+trip all over himself
+trip all over themselves
+trip over herself
+trip over himself
+trip over themselves
+tripped all over herself
+tripped all over himself
+tripped all over themselves
+tripped over herself
+tripped over himself
+tripped over themselves
+tripping all over herself
+tripping all over himself
+tripping all over themselves
+tripping over herself
+tripping over himself
+tripping over themselves
+trips all over herself
+trips all over himself
+trips all over themselves
+trips over herself
+trips over himself
+trips over themselves
+trounce
+trounced
+trounces
+trouncing
+true believer
+true believers
+true, !PRONOUNNOMINAL
+truly
+truly unique
+try !POSSESSIVEPRONOUN damndest
+try !POSSESSIVEPRONOUN darndest
+try !POSSESSIVEPRONOUN utmost
+try hard
+try my damndest
+try my darndest
+try my utmost
+try our damndest
+try our darndest
+try our utmost
+try your damndest
+try your darndest
+try your utmost
+trying !POSSESSIVEPRONOUN damndest
+trying !POSSESSIVEPRONOUN darndest
+trying !POSSESSIVEPRONOUN utmost
+trying hard
+trying my damndest
+trying my darndest
+trying my utmost
+trying our damndest
+trying our darndest
+trying our utmost
+trying your damndest
+trying your darndest
+trying your utmost
+two-fisted
+ultimate
+ultimate aim
+ultimate analysis
+ultimate cause
+ultimate concern
+ultimate constituent
+ultimate load
+ultimate purpose
+ultimate strength
+ultimate stress
+ultimate truth
+ultra
+ultra-
+ultra-abolitionism
+ultra-abstract
+ultra-academic
+ultra-affected
+ultra-aggressive
+ultra-ambitious
+ultra-angelic
+ultra-apologetic
+ultra-arbitrary
+ultra-argumentative
+ultra-atomic
+ultra-auspicious
+ultra-chic
+ultra-low-flush
+ultra-militant
+ultra-orthodox
+ultra-poor
+ultra-Protestantism
+ultra-punk
+ultra-radical
+ultra-slow
+ultra-ultra
+ultra militant
+ultracivilized		1
+ultraism
+ultraisms
+ultraist
+ultraistic
+ultraistics
+ultraists
+ultranationalism
+ultranationalistic
+ultrapatriot
+ultrapatriots
+ultrarefined		1
+ultrareligious
+ultrarightists
+ultraroyalist
+ultraroyalists
+ultras
+umpteen
+umpteenth
+umpteenths
+unabashed
+unabashedly
+unabated
+unabatedly
+unable to believe !POSSESSIVEPRONOUN eyes
+unable to believe !POSSESSIVEPRONOUN senses
+unable to believe my eyes
+unable to believe my senses
+unable to believe our eyes
+unable to believe our senses
+unable to believe your eyes
+unable to believe your senses
+unable to forget
+unbeatably
+unbelievable
+unbelievably
+unbounded
+unboundedly
+unboundedness
+uncompromising
+uncompromisingly
+unconceivable
+uncontainable
+uncontrollable-passion
+uncontrollable-passions
+uncontrollable-urge
+uncontrollable-urges
+uncontrollable passion
+uncontrollable passions
+uncontrollable urge
+uncontrollable urges
+uncontrolled-passion
+uncontrolled-passions
+uncontrolled-urge
+uncontrolled-urges
+uncontrolled passion
+uncontrolled passions
+uncontrolled urge
+uncontrolled urges
+under !DETERMINER gun
+under !DETERMINER sun
+under !POSSESSIVEPRONOUN very nose
+under full steam
+under heaven
+under my own steam
+under no circumstances
+under one's own steam
+under your own steam
+undiminishing
+undivided attention
+undivided attentions
+undying
+undyingly
+unforgettable
+unforgettably
+unforgiving about
+unforgiving when it comes to
+unforgotten
+unharness !POSSESSIVEPRONOUN passion
+unharness my passion
+unharness our passion
+unharness passion
+unharness your passion
+unharnessed !POSSESSIVEPRONOUN passion
+unharnessed my passion
+unharnessed our passion
+unharnessed passion
+unharnessed your passion
+unharnesses !POSSESSIVEPRONOUN passion
+unharnesses my passion
+unharnesses our passion
+unharnesses passion
+unharnesses your passion
+unharnessing !POSSESSIVEPRONOUN passion
+unharnessing my passion
+unharnessing our passion
+unharnessing passion
+unharnessing your passion
+unimaginable
+unimaginably
+unimagined
+uniquely
+unleash !POSSESSIVEPRONOUN appetite
+unleash !POSSESSIVEPRONOUN desire
+unleash our appetites
+unleash our desires
+unleash your appetite
+unleash your desire
+unleashed !POSSESSIVEPRONOUN appetite
+unleashed !POSSESSIVEPRONOUN desire
+unleashed our appetites
+unleashed our desires
+unleashed your appetite
+unleashed your desire
+unleashes !POSSESSIVEPRONOUN appetite
+unleashes !POSSESSIVEPRONOUN desire
+unleashes our appetites
+unleashes our desires
+unleashes your appetite
+unleashes your desire
+unleashing !POSSESSIVEPRONOUN appetite
+unleashing !POSSESSIVEPRONOUN desire
+unleashing our appetites
+unleashing our desires
+unleashing your appetite
+unleashing your desire
+unlimited
+unlimitedly
+unlimitedness
+unmediated
+unmitigated
+unmixed blessing
+unmixed feeling
+unmixed feelings
+unmodifiable
+unnumbered !BIGNUMBER
+unquenchable
+unquenchableness
+unquenchably
+unquenched
+unreal
+unreconstructed
+unrelenting
+unrelentingly
+unremitting
+unremittingly
+unremittingness
+unreserve
+unreserved
+unreservedness
+unrestrained
+unrestrainedly
+unrestrainedness
+unslakable
+unslakeable
+unsparing
+unsparing in
+unsparingly
+unstoppable
+unstoppably
+untempered
+until !DETERMINER fat lady sings
+untrammeled
+up !DETERMINER storm
+up to !DETERMINER ears
+up to !DETERMINER elbows
+up to !DETERMINER eyes
+up to !DETERMINER hilt
+up to !POSSESSIVEPRONOUN armpits
+up to !POSSESSIVEPRONOUN ears
+up to !POSSESSIVEPRONOUN ears in
+up to !POSSESSIVEPRONOUN ears in debt
+up to !POSSESSIVEPRONOUN elbows
+up to !POSSESSIVEPRONOUN elbows in
+up to !POSSESSIVEPRONOUN neck in
+up to !POSSESSIVEPRONOUN shoulders
+up to !POSSESSIVEPRONOUN teeth
+up to my armpits
+up to my ears
+up to my ears in
+up to my ears in debt
+up to my elbows
+up to my elbows in
+up to my neck in
+up to my shoulders
+up to my teeth
+up to our armpits
+up to our ears
+up to our ears in
+up to our ears in debt
+up to our elbows
+up to our elbows in
+up to our neck in
+up to our shoulders
+up to our teeth
+up to this time
+up to your ears
+up to your shoulders
+upmost
+upmost depth
+upmost depths
+upmost height
+upmost heights
+upon !DETERMINER push
+uppermost
+urge
+urge !PRONOUNOBJECTIVE on
+urge !YOU on
+urge me on
+urge on
+urge on !DETERMINER mind
+urge us on
+urged
+urged !PRONOUNOBJECTIVE on
+urged !YOU on
+urged beyond
+urged me on
+urged on !DETERMINER mind
+urged over
+urged us on
+urgencies
+urgency
+urgent
+urgent priority
+urgently
+urges
+urges !PRONOUNOBJECTIVE on
+urges !YOU on
+urges me on
+urges on
+urges on !DETERMINER mind
+urging
+urging !PRONOUNOBJECTIVE on
+urging !YOU on
+urging me on
+urging on
+urging on !DETERMINER mind
+urging us on
+urgings
+usque ad aras
+utmost
+utmost-extent
+utmost-extents
+utmost-height
+utmost-heights
+utmost extent
+utmost extents
+utmost height
+utmost heights
+utmost importance
+utmost of
+utter and complete
+utterly
+utterly !DETERMINER
+utterly attentive
+utterly attentive to
+uttermost
+vast
+vast world
+vaster
+vastest
+vastily
+vastiness
+vastly
+vastness
+vasty
+vaulting ambition
+vaulting ambitions
+vehement about
+verier
+veriest
+verray
+very
+very-much
+very committed
+very eagerly
+very enthusiastically
+very eventful
+very first time
+very great majorities
+very great majority
+very hard
+very hard for
+very hardest
+very image
+very images
+very keen
+very last
+very last time
+very major
+very many
+very model
+very much
+very much alive
+very much needed
+very promptly
+very quickly
+very readily
+very same
+very singular
+very solid
+very thirstily
+very very
+very vivaciously
+very willingly
+very zestfully
+visceral
+viscerally
+vital-bodies
+vital-body
+vital-capacities
+vital-capacity
+vital-center
+vital-centers
+vital-concern
+vital-concerns
+vital-energy
+vital-energys
+vital-flame
+vital-flames
+vital-fluid
+vital-fluids
+vital-force
+vital-forces
+vital-function
+vital-functions
+vital-impulse
+vital-impulses
+vital-interest
+vital-interests
+vital-principle
+vital-principles
+vital-soul
+vital-souls
+vital-spark
+vital-sparks
+vital-spirit
+vital-spirits
+vital bodies
+vital body
+vital capacities
+vital capacity
+vital center
+vital centers
+vital concern
+vital concerns
+vital energy
+vital energys
+vital flame
+vital flames
+vital fluid
+vital fluids
+vital force
+vital forces
+vital function
+vital functions
+vital importance
+vital impulse
+vital impulses
+vital interest
+vital interests
+vital principle
+vital principles
+vital soul
+vital souls
+vital spark
+vital sparks
+vital spirit
+vital spirits
+vital to
+vitally
+vitally important
+vivid
+vivid about
+vivid in
+Vivid reminder
+Vivid reminders
+vividly
+vividness
+vocal in
+vociferant
+vociferants
+vociferate
+vociferated
+vociferates
+vociferating
+vociferation
+vociferations
+vociferator
+vociferators
+vociferous
+vociferously
+vociferousness
+volumes and volumes
+voluminous
+voluminously
+voracious
+voraciously
+voraciousness
+voracity
+votes flooded in
+vow
+vow-bound
+vow to
+vow to be back
+vow to return
+vowed on
+vowed passionately
+vowed to
+vowed to be back
+vowed to return
+vowed with
+vowing
+vowing to
+vowing to be back
+vowing to return
+vows
+vows to
+vows to be back
+vows to return
+wait !DETERMINER lifetime
+wait for no one
+wait with bated breadth
+wait with bated breath
+waited !DETERMINER lifetime
+waited with bated breadth
+waited with bated breath
+waiting !DETERMINER lifetime
+waiting with bated breadth
+waiting with bated breath
+waits !DETERMINER lifetime
+waits for no one
+waits with bated breadth
+waits with bated breath
+wake-up
+wake up to !DETERMINER fact
+wake up to !DETERMINER reality
+wakes up to !DETERMINER fact
+wakes up to !DETERMINER reality
+waking up to !DETERMINER fact
+waking up to !DETERMINER reality
+wallop
+walloped about
+walloped over
+walloped through
+walloped with
+walloping
+wallops
+wallow
+wallowed
+wallowing
+wallows
+want in !DETERMINER worst way
+want in bad
+want out bad
+want with all !POSSESSIVEPRONOUN heart
+want with all !POSSESSIVEPRONOUN hearts
+want with all my heart
+want with all our hearts
+want with all your heart
+wanted in !DETERMINER worst way
+wanted in bad
+wanted out bad
+wanted with all !POSSESSIVEPRONOUN heart
+wanted with all !POSSESSIVEPRONOUN hearts
+wanted with all my heart
+wanted with all our hearts
+wanted with all your heart
+wanting in !DETERMINER worst way
+wanting in bad
+wanting out bad
+wanting with all !POSSESSIVEPRONOUN heart
+wanting with all !POSSESSIVEPRONOUN hearts
+wanting with all my heart
+wanting with all our hearts
+wanting with all your heart
+wants in !DETERMINER worst way
+wants in bad
+wants out bad
+wants with all !POSSESSIVEPRONOUN heart
+wants with all !POSSESSIVEPRONOUN hearts
+wants with all my heart
+wants with all our hearts
+wants with all your heart
+was !DETERMINER serious
+was way
+way beyond
+way more
+we can't even
+we cannot even
+we did
+we in fact did
+we indeed did
+wed-to
+wed to
+wed to !DETERMINER belief
+wedded-to
+wedded to
+wedded to !DETERMINER belief
+wedding-to
+wedding to
+weds-to
+weds to
+well I'll be
+well I'll be !DETERMINER
+well I'll be damned
+well I never
+welling very deep within
+wellings
+wellings deep within
+wellings within
+were way
+whale of
+whale of !DETERMINER
+whale of !DETERMINER difference
+whale of !DETERMINER tale
+whap
+whapped
+whapping
+whaps
+what-so-ever
+whatever !DETERMINER cost
+whatever it takes
+whatever it takes to
+whatsoever
+when !YOU can't even
+when he can't even
+when I can't even
+when it can't even
+WHEN IT COMES RIGHT DOWN TO IT
+when she can't even
+when they can't even
+when we can't even
+while !YOU draw breath
+while life endures
+whip up
+whipped up
+whipping up
+whips up
+white alert
+who !AUX  committed
+who commit
+who commits
+whole-backed
+whole-bodied
+whole-bound
+whole-cloth
+whole-colored
+whole-eared
+whole-eyed
+whole-feathered
+whole-footed
+whole-headed
+whole-hearted
+whole-heartedly
+whole-hog
+whole-hogger
+whole-hoofed
+whole-leaved
+whole-length
+whole-minded
+whole-mouthed
+whole-sail
+whole-seas
+whole-skinned
+whole-souled
+whole-souledly
+whole-souledness
+whole-spirited
+whole-step
+whole-timer
+whole-witted
+whole amount
+whole amounts
+whole attention
+whole attentions
+whole ball of wax
+whole balls of wax
+whole bit
+whole bits
+whole blood
+whole bloods
+whole brother
+whole brothers
+whole bunch
+whole bunchs
+whole caboodle
+whole caboodles
+whole deal
+whole deals
+whole different
+whole gale
+whole gales
+whole hog
+whole hogs
+whole kit and caboodle
+whole kit and caboodles
+whole kit and kaboodle
+whole kit and kaboodles
+whole lot less
+whole lot more
+whole megillah
+whole megillahs
+whole new meaning
+whole new meanings
+whole offering
+whole offerings
+whole people
+whole peoples
+whole picture
+whole pictures
+whole rest
+whole rests
+whole schmear
+whole schmears
+whole shebangs
+whole shooting match
+whole shooting matches
+whole show
+whole shows
+whole shtick
+whole shticks
+whole slew
+whole slews
+whole step
+whole steps
+whole story
+whole storys
+whole time
+whole times
+whole tone
+whole tones
+whole wide world
+whole wide worlds
+whole works
+whole world
+whole worlds
+wholehearted
+wholeheartedly
+wholeheartedness
+wholly
+wholly different
+whomp
+whomp up
+whomped
+whomped up
+whomping
+whomping up
+whomps
+whomps up
+whomsoever
+whoop
+whoop-dee-do
+whoop-up
+whoop and !DETERMINER holler
+whoop it up about
+whooped
+whooped-up
+whooped and !DETERMINER hollered
+whooped it up about
+whoopee
+whoopees
+whooping
+whooping-up
+whooping and !DETERMINER hollering
+whooping it up about
+whoops
+whoops-up
+whoops and !DETERMINER hollers
+whoops it up about
+whop
+whopped
+whopper
+whoppers
+whopping
+whops
+whosoever
+whup
+whupped
+whupping
+whups
+wide-open throttle
+wide-world
+wide world
+wide worlds
+wild
+wild-eyed with intensity
+wild-for
+wild-passion
+wild-passions
+wild abandon
+wild about
+wild adventure
+wild expectations
+wild fling
+wild for
+wild horses couldn't drag me
+wild horses couldn't drag me away
+wild horses couldn't drag me there
+wild horses couldn't keep me away
+wild Irishman
+wild man
+wild party
+wild passion
+wild passions
+wild pink
+wild rollercoaster
+wild rollercoaster ride
+wild rollercoaster rides
+wild rollercoasters
+wild time
+wild with
+wildest
+wildest expectations
+wildly
+will all !POSSESSIVEPRONOUN might
+will all your might
+will beat !YOU up
+will have major impact
+will have major impact on
+will long be remembered
+will never forget
+will of iron
+will take !DETERMINER oath
+will too
+wills of iron
+win-at-any-cost
+wish to goodness
+wish very much
+wished to goodness
+wished very much
+wishes to goodness
+wishes very much
+wishing to goodness
+wishing very much
+witch mania
+with !DETERMINER bang
+with !DETERMINER concern for
+with !DETERMINER excess of
+with !DETERMINER ferocious
+with !DETERMINER force of
+with !DETERMINER frantic
+with !DETERMINER good deal of
+with !DETERMINER good deal of !DETERMINER
+with !DETERMINER great deal of
+with !DETERMINER great deal of !DETERMINER
+with !DETERMINER iron hand
+with !DETERMINER lot of
+with !DETERMINER lot of !DETERMINER
+with !DETERMINER most
+with !DETERMINER spotlight on !DETERMINER
+with !DETERMINER strong arm
+with !DETERMINER strong hand
+with !DETERMINER strong will
+with !DETERMINER studied
+with !DETERMINER tight hand
+with !DETERMINER understanding
+with !DETERMINER vengeance
+with !DETERMINER view of
+with !DETERMINER will to
+with !POSSESSIVEPRONOUN concern for
+with abandon
+with all !POSSESSIVEPRONOUN hearts
+with all my might
+with all our hearts
+with all your might
+with awestruck
+with bated breath
+with bells on !POSSESSIVEPRONOUN toes
+with both hands tied behind !POSSESSIVEPRONOUN back
+with conviction
+with eagerness
+with everything that !AUX
+with excitement
+with exciting
+with feeling
+with ferocious
+with fervor
+with full steam
+with great conviction
+with great feeling
+with great heart
+with might and main
+with no trace of
+with not !DETERMINER little
+with one hand tied behind !POSSESSIVEPRONOUN back
+with our concern for
+with our own planes
+with passion
+with power
+with real
+with reckless abandon
+with riveted attention
+with sheer
+with shock
+with such force
+with such intensity
+with telling consequences
+with telling effect
+with telling effects
+with telling force
+with telling results
+with the heat of
+with the passion
+with tooth and nail
+with total dedication
+without !DETERMINER moment to lose
+without !DETERMINER moment to spare
+without even
+without limit
+without limits
+WITHOUT SO MUCH AS
+without so much as !DETERMINER
+woke up to !DETERMINER fact
+woke up to !DETERMINER reality
+wolf in !DETERMINER stomach
+wolf madness
+woman-mad
+woman-man
+words fail me
+words just can't describe
+words just can't do justice
+work-up over
+work feverishly
+work hard at
+work up over
+work very hard
+worked-up-over
+worked-up about
+worked-up over
+worked feverishly
+worked hard at
+worked very hard
+working-up over
+working feverishly
+working hard at
+working up over
+working very hard
+works-up over
+works feverishly
+works hard at
+works up over
+works very hard
+world-amazing
+world-arousing
+world-arresting
+world-astonishing
+world-awed
+world-beheld
+world-deep
+world-deep in
+world-demanded
+world-envied
+world-long
+world-mad
+world-reviving
+world-rousing
+world-shocking
+world-startling
+world-stirring
+world-thrilling
+world deep
+worse-wanted
+would give !DETERMINER fortune
+would give !DETERMINER king's ransom
+would give !POSSESSIVEPRONOUN right arm
+would give !POSSESSIVEPRONOUN right arm to
+would give my eyeteeth
+would go to !DETERMINER end of !DETERMINER earth
+would move heaven and earth
+would not even
+would too
+wow
+wow-hot
+wow-hot-model
+wowed
+wowie-zowie
+wowie zowie
+wowie!
+wowing
+wows
+wrapped up in the importance
+yell about
+yell on
+yelled about
+yelled on
+yelling about
+yelling on
+yellow-alert
+yellow alert
+yellow alerts
+yells about
+yells on
+yield herself to passion
+yield himself to passion
+yield ourselves to passion
+yield themselves to passion
+yielded herself to passion
+yielded himself to passion
+yielded ourselves to passion
+yielded themselves to passion
+yielding herself to passion
+yielding himself to passion
+yielding ourselves to passion
+yielding themselves to passion
+yields herself to passion
+yields himself to passion
+yields ourselves to passion
+yields themselves to passion
+your all.
+your all;
+your attention riveted
+yourself!
+yourself.
+yourself;
+zeal-blind
+zeal-consuming
+zeal-inflamed
+zeal-inspiring
+zeal-pretending
+zeal-quenching
+zeal-scoffing
+zeal-transported
+zeal-worthy
+zealous
+zealous about
+zealously
+zealousness
+zenith of
+zero in on the bottom line
+zeroed in on the bottom line
+zeroes in on the bottom line
+zeroing in on the bottom line
+zillion
+zillions
+zillionth
+zillionths
+zing
+zinged
+zinger
+zingers
+zinging
+zings
+zippiness of
+zounds!
+zowie!

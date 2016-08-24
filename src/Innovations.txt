@@ -1,0 +1,1349 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!ACHIEVE !DETERMINER know-how
+!ACHIEVE !DETERMINER knowledge
+!ACHIEVE !DETERMINER knowledge of
+!ACHIEVE !DETERMINER new understanding
+!ACHIEVE a fundamental
+!ACHIEVE fundamental understanding
+!ACHIEVE fundamental understandings
+!ACHIEVE new understanding
+!ACHIEVE new understandings
+!AUX !DETERMINER best of its kind
+!AUX !DETERMINER first of its
+!AUX !DETERMINER first of its kind
+!AUX !DETERMINER first to
+!AUX !DETERMINER very first
+!AUX !DETERMINER very first to
+!AUX an new technology
+!AUX firsts
+!AUX granted a patent
+!AUX new records
+!AUX novel
+!AUX patent-pending
+!AUX patented
+!AUX under development
+!BREAK !DETERMINER RECORD
+!BREAK all previous records
+!BREAK all records
+!BREAK new ground
+!CREATE a breakthrough
+!CREATE a character
+!CREATE a formula
+!CREATE a ground-breaking
+!CREATE a new
+!CREATE a patented
+!CREATE a theorem
+!DETERMINER all new
+!DETERMINER beauty of !DETERMINER system
+!DETERMINER best changes
+!DETERMINER breakthrough
+!DETERMINER breakthrough comes in !DETERMINER nature of
+!DETERMINER creation of innovate
+!DETERMINER creation of innovative
+!DETERMINER cutting edge
+!DETERMINER cutting edge of
+!DETERMINER cutting edges
+!DETERMINER discovery
+!DETERMINER discovery of
+!DETERMINER dissemination
+!DETERMINER dissemination of
+!DETERMINER flexibility of
+!DETERMINER forefront
+!DETERMINER forefront of
+!DETERMINER greatest innovator
+!DETERMINER greatest innovators
+!DETERMINER industry's first
+!DETERMINER ingenuity
+!DETERMINER latest and most up-to-date
+!DETERMINER latest and up-to-date
+!DETERMINER new field
+!DETERMINER new field of
+!DETERMINER new medium
+!DETERMINER new medium of
+!DETERMINER new shape offers more even
+!DETERMINER new system
+!DETERMINER new technology
+!DETERMINER novel invention
+!DETERMINER optimal solution
+!DETERMINER patent-pending
+!DETERMINER patented
+!DETERMINER potential to reduce
+!DETERMINER real whiz at
+!DETERMINER record-making
+!DETERMINER result is !DETERMINER world's first
+!DETERMINER results have been telling
+!DETERMINER results have been unbelievably dramatic
+!DETERMINER system guarantees
+!DETERMINER system has allowed
+!DETERMINER system has made feasible
+!DETERMINER system has made possible
+!DETERMINER system provides savings
+!DETERMINER system yields savings
+!DETERMINER unique feature
+!DETERMINER vanguard of
+!DETERMINER vanguards of
+!DETERMINER very first
+!DETERMINER very first person to
+!DETERMINER very first to
+!DETERMINER whiz at
+!DETERMINER world's fastest
+!GET a brainstorm
+!HAVE !DETERMINER bright idea
+!HAVE !DETERMINER bright thought
+!HAVE a brainstorm
+!HAVE changed !DETERMINER face of
+!LEAD !DETERMINER world
+!LEAD !DETERMINER world in
+!LEAD IN !DETERMINER FIELD OF
+!MAKE !POSSESSIVEPRONOUN maiden voyage
+!MAKE !POSSESSIVEPRONOUN mark
+!MAKE a breakthrough
+!MAKE a lasting mark
+!MAKE innovations
+!MAKE my mark
+!MAKE our mark
+!POSSESSIVEPRONOUN contribution to
+!PRESENT !DETERMINER innovative
+!PRESENT !DETERMINER new
+!PRESENT !DETERMINER unparalleled
+!PRESENT !DETERMINER unrivaled
+!PRESPERFECT in response developed
+!PRESPERFECT now developed
+!PRESPERFECT recently developed
+!SET !DETERMINER new record
+!SET !DETERMINER record
+!SET !DETERMINER standard for future generations
+!SET !DETERMINER tone for innovation
+!SET !DETERMINER tone of creative
+!SET a new record
+!SET a record
+!SET high standards for
+!SET industrial and environmental standards
+!SET records
+!SET speed records
+!TAKE !DETERMINER technological lead
+, which !AUX !DETERMINER first
+, which !AUX !DETERMINER first to
+, which !AUX !DETERMINER very first
+, which !AUX !DETERMINER very first to
+a breakthrough
+a breakthrough product
+a first for
+a front runner in
+a fundamental understanding of
+a great breakthrough
+A more natural design
+a new kind of
+a new record
+a new use for
+A prototype is already installed
+a prototype of this new
+a radical achievement in this revolutionary branch
+a real whiz at
+a record-making
+a robot rather than a human being
+a seamless manufacturing plant
+a smart way
+a smart way to
+a true first
+a true first for
+a whiz at
+a world-wide leader
+able to CHANGE !DETERMINER face of
+academic contacts
+accidental discovery
+achieve a new
+achieved a new
+achieves a new
+achieving a new
+advance in science
+advance in technology
+advanced design
+advanced designs
+advanced manufacturing cell
+Advanced robotics
+advanced sensors
+advanced thinking
+advances in science
+advances in technology
+adventure into
+adventured
+adventures
+adventuring
+afflatus
+afflatuses
+ahead of !DETERMINER pack in !DETERMINER race
+ahead of !DETERMINER race to
+all new
+an all new
+an important breakthrough
+analyze automatically
+another unique feature
+are able to make products in batches as small as units of one
+areas of research
+as !DETERMINER leading
+as a leading
+as conceived by
+as created by
+as devised by
+as like never before
+as never before
+asked-for features
+astonishing accomplishment
+astonishing discovery
+at !DETERMINER cutting edge
+at !DETERMINER forefront
+at !DETERMINER forefront of
+at !DETERMINER leading edge
+at !DETERMINER vanguard
+at !DETERMINER vanguard of
+at !DETERMINER vanguards
+at !DETERMINER vanguards of
+auctorial
+auteur
+auteurs
+automated ordering system
+automated solution
+automatically located
+automatically monitor
+automatically pinpointed
+automatically select
+avant-
+avant-garde
+avant-garde jazz
+avant-gardism
+avant-gardist
+avant garde
+avant gardism
+became !DETERMINER first ever
+became !DETERMINER first ever to
+became !DETERMINER first man
+became !DETERMINER first person
+became !DETERMINER first persons
+became !DETERMINER first woman
+becaming !DETERMINER first ever
+becaming !DETERMINER first ever to
+becaming !DETERMINER first man
+becaming !DETERMINER first person
+becaming !DETERMINER first persons
+becaming !DETERMINER first woman
+become !DETERMINER first ever
+become !DETERMINER first ever to
+become !DETERMINER first man
+become !DETERMINER first person
+become !DETERMINER first persons
+become !DETERMINER first woman
+been well proven by previous use
+being rolled out for
+benefits should be just as dramatic
+best ever
+best yet
+better mousetrap
+better mousetraps
+better than ever
+blaze !DETERMINER trail
+blaze a trail
+blaze trails
+blazed !DETERMINER trail
+blazed a trail
+blazed trails
+blazed uncharted territory
+blazes !DETERMINER trail
+blazes a trail
+blazes trails
+blazing !DETERMINER trail
+blazing a trail
+blazing trails
+brain-child
+brain child
+brain child of
+brain storm
+brainchild
+brainchild of
+brainchildren
+brainchildren of
+brainchilds
+brainwork
+brainworker
+brainworkers
+brand-new
+brand-spanking new
+brand new
+break !DETERMINER  record
+break !DETERMINER mold
+break !DETERMINER stereotype
+break !DETERMINER stereotypes
+break new ground
+breaking !DETERMINER mold
+breaking !DETERMINER record
+breaking !DETERMINER stereotype
+breaking !DETERMINER stereotypes
+breaking new ground
+breaking through !DETERMINER puzzle
+breaks !DETERMINER mold
+breaks !DETERMINER record
+breaks !DETERMINER stereotype
+breaks !DETERMINER stereotypes
+breaks new ground
+breakthrough
+breakthrough in
+breakthrough technologies
+breakthrough technology
+breakthrough weapons
+breakthroughs
+breakthroughs in
+Breakthroughs in technology
+breeding ground for new
+breeding place for new
+brevet d'invention
+bright idea
+bright thought about
+brilliant idea
+brilliant success
+broke !DETERMINER mold
+broke !DETERMINER record
+broke !DETERMINER stereotype
+broke !DETERMINER stereotypes
+broken through !DETERMINER mystery
+broken through !DETERMINER puzzle
+Build partnerships with !DETERMINER world's leading
+came to a new understanding
+Can also be coupled with
+Can be used to provide
+can provide better control
+can yield huge advantages
+Capable of handling
+carrying out pioneering work
+cast aside stereotypes
+cast aside stereotypical
+casting aside stereotypes
+casting aside stereotypical
+casts aside stereotypes
+casts aside stereotypical
+caused a seismic shift
+causes a seismic shift
+cemented its position as a provider of
+changing !DETERMINER fundamental nature
+changing !DETERMINER nature of business
+changing !DETERMINER way business is done
+changing !DETERMINER way we do business
+chip design and production
+coined !DETERMINER new
+coiner of
+coiners of
+Combined with strength and functionality
+Combines !DETERMINER best of
+come to a new understanding
+comes to a new understanding
+coming to a new understanding
+Commitment to build
+complete automated solution
+completely novel
+Completely novel features
+computer-based tools are used
+conceived by !DETERMINER
+conceived by !DETERMINER innovative
+conceptualizer
+conceptualizers
+contacts with top universities
+cooperation with top universities
+cost-effective systems
+could break precedent
+crack !DETERMINER invention
+crack !DETERMINER problem
+crack !POSSESSIVEPRONOUN invention
+crack this problem
+crack your invention
+cracked !DETERMINER invention
+cracked !POSSESSIVEPRONOUN invention
+cracked your invention
+cracking !DETERMINER invention
+cracking !POSSESSIVEPRONOUN invention
+cracking your invention
+cracks !DETERMINER invention
+cracks !POSSESSIVEPRONOUN invention
+cracks your invention
+create products that have !DETERMINER potential to
+create products with !DETERMINER potential to
+created by a
+creative endeavor
+creative endeavors
+creative spark
+creative sparks
+creator
+creator of
+creators
+creators of
+cut costs through efficiency
+cut design costs
+cutting-edge
+cutting edge
+daedal
+debut
+debuted at
+debuted on
+debuted with
+debuting
+debuts
+dedal
+design a new range of
+design of systems
+design stages
+designed at
+designed especially for
+designed specifically for
+designed to achieve
+designed to last
+Designed to run safely and reliably
+designed to specification
+designed to support
+designed to withstand
+designed under
+designed with
+designer of
+designers of
+designing new systems
+determination to !SET !DETERMINER highest product standards
+determination to !SET ambitious targets
+Determination to break new ground
+determination to create !DETERMINER best products
+development project
+devise !DETERMINER first
+devised !DETERMINER first
+devised by !DETERMINER
+devised in collaboration with
+devised to
+devised with innovation
+devises !DETERMINER first
+devising !DETERMINER first
+discover serendipitously
+discovered serendipitously
+discoverer
+discoverers
+discoveries
+discoveries of
+discovering serendipitously
+discovers serendipitously
+discovery
+discovery of
+does away with !DETERMINER need for
+dominate !DETERMINER field
+dominated !DETERMINER field
+dominates !DETERMINER field
+dominating !DETERMINER field
+dramatic time savings
+dream up
+dreamed up
+dreaming up
+dreams up
+drives our own in-house innovation
+earn a lucrative share
+earned a patent
+easy to move around
+embedded requirements
+enabling this speedy development
+engineered for
+enhanced technologies
+enter into areas of research
+environmental friendly alternative
+eureka
+excellent development potential
+excellent short-circuit behavior
+excellent tolerances
+explore !DETERMINER frontier
+explore !DETERMINER frontiers
+explored !DETERMINER frontier
+explored !DETERMINER frontiers
+explores !DETERMINER frontier
+explores !DETERMINER frontiers
+exploring !DETERMINER frontier
+exploring !DETERMINER frontiers
+extremely novel
+factory of !DETERMINER future
+far-reaching improvements
+far more flexible than its predecessors
+Fast-changing new technologies
+fast-expanding power
+fast assembly line
+fast expanding
+fast expanding power
+features !DETERMINER best
+features !DETERMINER latest
+features !DETERMINER most
+features !DETERMINER very best
+Features !DETERMINER very latest
+find a new use for
+finding !DETERMINER right catalyst
+finding a new use for
+finding new ways to produce
+finds a new use for
+first-of-a-kind
+first-of-its-kind
+first coinage of
+first coinage of !DETERMINER
+first coined
+first coined !DETERMINER
+first coining
+first ever
+first ever of its kind
+first human
+first human being
+first man to
+first of a kind
+first of its kind
+first opening
+first performance
+first person to
+first person to earn
+first person to win
+first scientist
+first showing
+first student to earn
+first student to win
+first thinker
+first to
+first to coin
+first to provide
+first woman to
+first woman to earn
+first woman to win
+firsts
+focusing its research
+focusing research
+for !DETERMINER first time ever
+forefront
+forefronts
+formulated scientifically
+found a new use for
+freedom and authority to help !POSSESSIVEPRONOUN customers
+fresh !IDEA
+fresh algorithm
+fresh algorithms
+fresh approach
+fresh approaches
+fresh conclusions
+fresh concluson
+fresh contribution
+fresh contributions
+fresh experiment
+fresh experiments
+fresh finding
+fresh findings
+fresh hypotheses
+fresh hypothesis
+fresh inquires
+fresh inquiry
+fresh investigation
+fresh investigations
+fresh method
+fresh methods
+fresh perspective
+fresh perspectives
+fresh point of view
+fresh points of view
+fresh proof
+fresh proofs
+fresh result
+fresh results
+fresh simulation
+fresh simulations
+fresh studies
+fresh study
+fresh theorem
+fresh theorems
+front-rank
+front-ranker
+front-rankers
+front runner in
+front runners in
+frontier of
+frontiers of
+frontiers of innovation
+frontiers of knowledge
+frontiers of technology
+fully-operated by robots
+fully automated
+fully operated by robots
+fundamental research
+fundamental understanding of
+future research
+gain huge savings in
+Gone back to natural principles
+Greater resistance to wear and tear
+greener solutions
+ground-breaking
+ground-breaking technology
+groundbreaking
+had to improvise
+harness !DETERMINER power and flexibility
+harnessing !DETERMINER potential of
+harnessing !DETERMINER power of
+has !DETERMINER answers for !DETERMINER future
+has already won many
+has answers for !DETERMINER future
+has become a leading expert in
+has been a pioneer in
+has been unexcelled
+has developed !DETERMINER
+has won
+have become part of a family of new
+have broken through !DETERMINER mystery
+have broken through !DETERMINER puzzle
+have developed a new system
+he became !DETERMINER first
+he became !DETERMINER very first
+high innovative value
+high technology diagnostic tools
+higher than ever before
+highly-automated
+highly automated
+highly flexible
+highly maneuverable
+highly mobile machine
+highly novel
+highly robotized
+highly sophisticated
+highly sophisticated innovation
+highly sophisticated product
+hopes to have running in
+huge leap
+huge technological leap forward
+improve !DETERMINER performance
+improve customer product lines
+improve customer products
+Improve efficiency
+improved manufacturing processes
+Improvement of production process efficiency
+in-house innovation
+in !DETERMINER forefront
+in !DETERMINER forefront of
+in a breakthrough
+in just one step
+in one simple operation
+in one simple step
+in response !PRESPERFECT developed
+Incorporates a novel system
+incorporates two unique features
+increase !DETERMINER number of technological breakthroughs
+industry-leading
+industry-pacing
+industry leading
+industry pacing
+ingenious
+ingeniously
+ingeniousness
+ingenuities
+ingenuity
+innovate
+innovate systems
+innovate with
+innovated
+innovated !DETERMINER
+innovated with
+innovates
+INNOVATES WITH
+innovating
+innovating with
+innovation
+innovational
+innovations
+innovative
+innovative applications
+innovative design
+innovative direction
+innovative new methods
+innovative partnerships
+innovative products
+innovative selling point
+innovative selling points
+innovativeness
+innovator
+innovators
+innovatory
+institutor
+institutor of
+institutors
+institutors of
+into a seamless whole
+intricate design stages
+inventive design
+is !DETERMINER first at
+is !DETERMINER first to
+is awarded !DETERMINER
+is awarded a
+is being patented
+is on !DETERMINER cusp of
+is on !DETERMINER edge of
+is patent-pending
+is working on some of !DETERMINER world's most advanced
+it !AUX !DETERMINER first
+it !AUX !DETERMINER very first
+IT !AUX ALSO !DETERMINER FIRST
+it is possible to reduce significantly
+Its most outstanding feature is
+labor-saving device
+labor-saving devices
+labour-saving device
+labour-saving devices
+landmark-decision
+landmark-decisions
+landmark-judgement
+landmark-judgements
+landmark-judgment
+landmark-judgments
+landmark-ruling
+landmark-rulings
+landmark decision
+landmark decisions
+landmark judgement
+landmark judgements
+landmark judgment
+landmark judgments
+landmark ruling
+landmark rulings
+launching a compact
+launching a low-cost
+lead !DETERMINER way in
+leading-edge
+leading !DETERMINER way in
+leading discoveries
+leading discovery
+leading edge
+leading in !DETERMINER
+leads !DETERMINER way in
+led !DETERMINER way in
+links with academics
+Low inductance
+lower than ever before
+made a discovery
+made a significant discovery
+maiden voyage
+major advance
+major advance in
+major breakthrough
+make a discovery
+make a significant discovery
+make an important discovery
+make new innovations
+makes a discovery
+makes a radical difference
+making a discovery
+manage to scare up
+managed to change !DETERMINER face of
+managed to improvise
+managed to scare up
+manages to scare up
+managing to scare up
+maximum efficiency
+mint !DETERMINER new
+minted !DETERMINER new
+minting !DETERMINER new
+mints !DETERMINER new
+monumental record
+monumental records
+more advanced
+more efficient and low risk way
+more efficient future
+more innovative partnerships
+most advanced
+most highly-automated
+most highly automated
+most innovative products
+move through several intricate design stages
+moving away from reliance on
+near to fruition
+never-before-seen
+never-seen-before
+never again will
+never before envisioned
+never before seen
+never seen before
+new algorithms
+new algorithms we have created
+new automated
+new breakthrough
+new conference record
+new conjectures
+new cutting-edge
+new cutting-edges
+new developers
+new discoveries
+new discovery
+new doctors
+new efficiencies
+new engineers
+new field
+new fields
+new findings
+new formulations
+new frontier
+new frontiers
+new hypothesis
+new ideas
+new identity system
+new improved manufacturing processes
+new information system
+new information technology
+new initiative
+new innovation
+new insight
+new insights
+new invention
+new knowledge
+new leaders
+new league record
+new manufacturing processes
+new methodologies
+new methods
+new modular approach
+new notions
+new principles
+new product
+new record
+new records
+new research
+new researchers
+new sales-volume record
+new school record
+new scientists
+new solutions
+new system
+new technical solutions
+new technological solutions
+new technologies
+new technology
+new theory
+new use
+new use for
+new uses
+new way
+new ways
+new ways to run !DETERMINER
+new ways to run power
+newly configured
+newly designed
+newly discovered
+newly invented
+next breakthrough
+No fears of
+no precedent for
+nobel prize
+nobel prizes
+Not available from any competing suppliers
+novel discoveries
+novel discovery
+Novel feature
+novel features
+novel idea
+novel ideas
+novel invention
+novel inventions
+novelty
+now !DETERMINER world's fastest
+office of !DETERMINER future
+on !DETERMINER forefront
+on !DETERMINER frontier of
+on !DETERMINER frontiers of
+on designing new systems
+one for !DETERMINER book
+one for !DETERMINER textbooks
+Opens up !DETERMINER possibility
+operate at peak efficiency
+optimal solution
+optimizes our responsiveness
+originating !DETERMINER
+originating !DETERMINER !IDEA
+originating a
+originator
+originators
+out of !DETERMINER box
+overhaul !DETERMINER stereotype
+overhaul !DETERMINER stereotypes
+overhaul !DETERMINER stereotypical
+overhauled !DETERMINER stereotype
+overhauled !DETERMINER stereotypes
+overhauled !DETERMINER stereotypical
+overhauling !DETERMINER stereotype
+overhauling !DETERMINER stereotypes
+overhauling !DETERMINER stereotypical
+overhauls !DETERMINER stereotype
+overhauls !DETERMINER stereotypes
+overhauls !DETERMINER stereotypical
+overthrew !DETERMINER stereotype
+overthrew !DETERMINER stereotypes
+overthrew !DETERMINER stereotypical
+overthrow !DETERMINER stereotype
+overthrow !DETERMINER stereotypes
+overthrow !DETERMINER stereotypical
+overthrowing !DETERMINER stereotype
+overthrowing !DETERMINER stereotypes
+overthrowing !DETERMINER stereotypical
+overthrows !DETERMINER stereotype
+overthrows !DETERMINER stereotypes
+overthrows !DETERMINER stereotypical
+pacesetter
+pacesetters
+pacesetting
+paradigm shift
+paradigm shifts
+paradigms-shifting
+pat pend
+pat. pend.
+patent
+patent-pending
+patent-pendng
+patent pending
+patented
+patented process
+patented processes
+patentee
+patentees
+patenting
+patents
+pathfinder
+pathfinders
+pave !DETERMINER way to
+pave !DETERMINER way toward
+paved !DETERMINER way to
+paved !DETERMINER way toward
+paver of !DETERMINER way
+pavers of !DETERMINER way
+paves !DETERMINER way to
+paves !DETERMINER way toward
+paving !DETERMINER way to
+paving !DETERMINER way toward
+perform a wide variety of production tasks
+pioneer in !DETERMINER field
+pioneer of new
+pioneered
+pioneered new
+pioneered research
+pioneering
+pioneering academic
+pioneering methodologies
+pioneering methods
+pioneering work
+pioneers in !DETERMINER field
+pioneers of new
+plug-in-and-play solution
+posed a number of significant challenges
+practical and quick retrievability
+precedent-breaking
+precedent-setting originality
+premiere at
+premiered at
+premieres at
+premiering at
+previously !DETERMINER responsibility of human beings
+process of metal production
+process which automatically logs
+produce a world standard
+project to design
+promises to deliver
+prototype
+prototype !DETERMINER
+prototype !POSSESSIVEPRONOUN
+prototype !PRONOUNOBJECTIVE
+prototyped
+prototyped !DETERMINER
+prototyped !POSSESSIVEPRONOUN
+prototyped !PRONOUNOBJECTIVE
+prototypes
+prototypes !DETERMINER
+prototypes !POSSESSIVEPRONOUN
+prototypes !PRONOUNOBJECTIVE
+prototyping
+prototyping !DETERMINER
+prototyping !POSSESSIVEPRONOUN
+prototyping !PRONOUNOBJECTIVE
+provide !DETERMINER first
+provide an adaptable ready-to-use
+provided !DETERMINER first
+provides !DETERMINER first
+providing !DETERMINER first
+providing power to
+providing power to customers
+push !DETERMINER envelop
+push !DETERMINER envelope
+quickly improvise
+quickly improvised
+quickly improvises
+quickly improvising
+radical design
+radical new solution
+radically new
+radically new product
+rapid progress is being made
+rather than !DETERMINER conventional
+re-engineered
+real whiz
+real whizzes
+received a patent
+recently discovered
+recently invented
+record-bearing
+record-beating
+record-breaker
+record-breakers
+record-breaking
+record-holder
+record-holders
+record-making
+record-setting
+record attendance
+record breaker
+record breakers
+record earnings
+record finish
+record holder
+record holders
+record numbers
+record pace
+record paces
+record performance
+record productivity
+record profits
+record revenues
+record saves
+record speed
+record speeds
+record start
+record statistics
+record time
+record times
+record victories
+record vote
+record votes
+record wins
+redefining all !DETERMINER old rules
+removes paperwork
+replace !DETERMINER entrenched !IDEA
+replace !DETERMINER entrenched stereotype
+replace !DETERMINER entrenched stereotypical
+replace !DETERMINER stereotype
+replace !DETERMINER stereotypes
+replace !DETERMINER stereotypical
+replaced !DETERMINER entrenched !IDEA
+replaced !DETERMINER entrenched stereotype
+replaced !DETERMINER entrenched stereotypical
+replaced !DETERMINER stereotype
+replaced !DETERMINER stereotypes
+replaced !DETERMINER stereotypical
+replaces !DETERMINER entrenched !IDEA
+replaces !DETERMINER entrenched stereotype
+replaces !DETERMINER entrenched stereotypical
+replaces !DETERMINER stereotype
+replaces !DETERMINER stereotypes
+replaces !DETERMINER stereotypical
+replacing !DETERMINER entrenched !IDEA
+replacing !DETERMINER entrenched stereotype
+replacing !DETERMINER entrenched stereotypical
+replacing !DETERMINER stereotype
+replacing !DETERMINER stereotypes
+replacing !DETERMINER stereotypical
+requested features
+researching !DETERMINER
+respected universities
+result in space saving of up to
+revolutionize
+revolutionize !DETERMINER
+revolutionize !POSSESSIVEPRONOUN
+revolutionize !PRONOUNOBJECTIVE
+revolutionized
+revolutionized !DETERMINER
+revolutionized !POSSESSIVEPRONOUN
+revolutionized !PRONOUNOBJECTIVE
+revolutionizes
+revolutionizes !DETERMINER
+revolutionizes !POSSESSIVEPRONOUN
+revolutionizes !PRONOUNOBJECTIVE
+revolutionizing
+revolutionizing !DETERMINER
+revolutionizing !POSSESSIVEPRONOUN
+revolutionizing !PRONOUNOBJECTIVE
+rigorous checks
+rolling out a compact
+rolling out a low-cost
+rolling out next !TIMEFRAME
+rout !DETERMINER stereotype
+rout !DETERMINER stereotypes
+rout !DETERMINER stereotypical
+routed !DETERMINER stereotype
+routed !DETERMINER stereotypes
+routed !DETERMINER stereotypical
+routing !DETERMINER stereotype
+routing !DETERMINER stereotypes
+routing !DETERMINER stereotypical
+routs !DETERMINER stereotype
+routs !DETERMINER stereotypes
+routs !DETERMINER stereotypical
+safe to use
+savings are built from innovation
+savings are built in to !DETERMINER system
+savings are built into !DETERMINER design
+savings are built into !DETERMINER product
+scare up
+scared up
+scares up
+scaring up
+scientific advance
+scientific advances
+scientifically formulated
+score a breakthrough
+scored a breakthrough
+scores a breakthrough
+scoring a breakthrough
+seminal
+seminal-imaginations
+seminal-principle
+seminal-principles
+seminal imaginations
+seminal principle
+seminal principles
+serendipitous discoveries
+serendipitous discovery
+serendipitously discover
+serendipitously discovered
+serendipitously discovering
+serendipitously discovers
+she became !DETERMINER first
+she became !DETERMINER very first
+shifts completely
+shifts entirely
+shifts totally
+Should be safe enough
+simple design
+slash !DETERMINER time
+slash cycle costs
+slash cycle time
+slash cycles
+slash production costs
+solely by robots
+some firsts
+some quick improvization
+something new
+sophisticated designs
+sophisticated products
+sophisticated web of academic contacts
+source of ideas
+source of inspiration
+source of new ideas
+space-age
+space age
+spawn new
+spawn new !IDEA
+spawned new
+spawned new !IDEA
+spawning new
+spawning new !IDEA
+spawns new
+spawns new !IDEA
+spearhead !DETERMINER
+spearhead !DETERMINER effort
+spearheaded
+spearheaded !DETERMINER effort
+spearheading
+spearheading !DETERMINER effort
+spearheads
+spearheads !DETERMINER effort
+speed record
+speed records
+spinoff
+spinoffs
+staggering accomplishment
+staggering discovery
+state-of-!DETERMINER-art
+state of !DETERMINER art
+state of !DETERMINER art design
+strategic improvement
+superior technologically
+system architecture
+system design
+system for sweeping away unwanted
+talented people
+technological advance
+technological advances
+technological breakthrough
+technological breakthroughs
+technological lead
+technological leadership
+technological leaps
+technologically advanced
+technologically advanced designs
+technologies have developed to !DETERMINER point
+technology breakthroughs
+technoology has developed to !DETERMINER point
+Testing is underway to qualify
+Thanks to important breakthroughs in
+That has not been previously explored
+theological innovation
+theological innovations
+there will never again
+there will never be another
+think out of !DETERMINER box
+think outside !DETERMINER box
+thinking outside !DETERMINER box
+thinks outside !DETERMINER box
+this more sophisticated approach
+this shift from dependence on
+this sophisticated analysis
+this state of !DETERMINER art
+thought outside !DETERMINER box
+thus frees
+to break new ground
+to CHANGE !DETERMINER face of
+to crack this problem
+to deliver !DETERMINER best products
+to deliver cutting edge
+to deliver innovative
+to deliver new
+to develop !DETERMINER
+to develop !DETERMINER very
+to develop a fast new way
+to develop cutting edge
+to develop innovative
+to develop new
+to harness !DETERMINER power
+to innovate
+to link seamlessly
+to optimize
+to provide knowledge-based
+to reduce significantly
+to seamlessly
+tone-setter
+tone-setters
+top !DETERMINER previous record
+top notch research
+top research
+top researchers
+top universities
+topped !DETERMINER previous record
+topped !DETERMINER record
+topping !DETERMINER previous record
+topping !DETERMINER record
+tops !DETERMINER previous record
+tops !DETERMINER record
+total solutions
+trail blaze
+trail blazed
+trail blazes
+trailblazer
+trailblazers
+trailblazing
+trailbreaker
+transformer design
+trend-setter
+trend-setters
+trend setter
+trend setters
+true first
+turn to alternative
+turn to alternative and renewable
+unbeatable sale price
+unbelievable value
+uncharted intellectual territory
+under development
+undercut !DETERMINER cost of current capacitors by
+undreamt of
+undreamt of when
+unexampled
+unexcelled
+unimaginable as little as
+unimaginable as recently as
+unimaginable just
+unique features
+unique method
+unique technology
+unmatched technologies
+unmatched technology
+unparalleled
+unprecedented design
+unprecedented discoveries
+unprecedented discovery
+unprecedented finding
+unprecedented findings
+unprecedented insight
+unprecedented originality
+unprecedented research
+unprecedented scale
+unprecedented scales
+unprecedented technology
+unprecedentedly
+untouched by human hands
+up-to-date ideas
+up-to-date technology
+up and coming discoveries
+up and coming inventions
+up to date ideas
+up to date technology
+useful applications
+vanguard of
+vanguards of
+very first one to
+very first person to
+very first to
+very leading edge
+very novel
+was !DETERMINER first at
+was !DETERMINER first to
+was able to break precedent
+was awarded !DETERMINER
+was awarded a
+we are using advanced materials
+well-funded innovation
+well-placed to redesign
+well funded innovation
+were !DETERMINER first at
+were !DETERMINER first to
+which !AUX !DETERMINER first
+which !AUX !DETERMINER first to
+which !AUX !DETERMINER very first
+which !AUX !DETERMINER very first to
+Which guarantees !DETERMINER
+whiz-kid
+whiz-kids
+whiz kid
+whiz kids
+whiz when it comes to
+whizzes when it comes to
+will make a real difference
+Will make it very cost effective
+will prove !DETERMINER feasibility of
+will provide a huge boost for
+Willingness to take risks
+wipe out !DETERMINER risk of
+wipes out !DETERMINER risk of
+with a design
+with a radical design
+with almost no human intervention
+without any intervention by human operators
+without intervention by !DETERMINER operator
+without parallel
+without parallels
+without peer
+wizard at
+wizard when it comes to
+wizards at
+wizards when it comes ot
+won a patent
+wonder-drug
+wonder-drugs
+wonder drug
+wonder drugs
+world's best
+world's cheapest
+world's easiest
+world's fastest
+world's finest
+world's first
+world-recognised experts
+world-recognized experts
+world beater
+world beaters
+world class experts
+world premiere
+world premieres
+yields huge advantages

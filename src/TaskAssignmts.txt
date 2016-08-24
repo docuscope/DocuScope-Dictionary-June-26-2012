@@ -1,0 +1,981 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX about to commence
+!AUX charged
+!AUX charged to
+!AUX on the team
+!AUX required to be acted on
+!AUX required to be acted upon
+!AUX required to be done
+!AUX required to be enacted
+!AUX scheduled
+!AUX scheduled to
+!AUX scheduled to be
+!AUX to attempt
+!AUX to be
+!AUX to be carried out
+!AUX to be completed
+!AUX TO be done
+!AUX to be executed
+!AUX to be fully finished
+!AUX to be fully implemented
+!AUX to be implemented
+!AUX to be put into full operation
+!AUX to be put into operation
+!AUX to be rolled out
+!AUX to begin production
+!AUX to begin work
+!AUX to carry out
+!AUX to complete the job
+!AUX to compose
+!AUX to design and implement
+!AUX to draft
+!AUX to endeavor
+!AUX to execute
+!AUX to finish the job
+!AUX to go into production
+!AUX to implement
+!AUX to plan
+!AUX to put into play
+!AUX to roll out
+!AUX to start production
+!AUX to start the job
+!AUX to start work
+!CHECK if !YOU !AUX allowed
+!CHECK if !YOU !AUX permitted
+!CHECK if !YOU can
+!CHECK if !YOU don't
+!CHECK that !YOU !AUX allowed
+!CHECK that !YOU !AUX permitted
+!CHECK that !YOU can
+!CHECK that !YOU don't
+!DETERMINER matter to bring
+!DETERMINER matter to relate
+!DETERMINER matter to relay
+!DETERMINER task before us
+!DETERMINER task before us !AUX
+!DETERMINER task before us as !ROYALWE see it !AUX
+!FALL upon !YOU
+!GIVE !DETERMINER direct order
+!GIVE !DETERMINER direct orders
+!GIVE !DETERMINER order to
+!GIVE !DETERMINER orders to
+!GIVE !POSSESSIVEPRONOUN order to
+!GIVE !POSSESSIVEPRONOUN orders to
+!GIVE aid to
+!GIVE an assignment
+!GIVE assistance
+!GIVE assistance to
+!GIVE my order
+!GIVE my orders
+!GIVE our order
+!GIVE our orders
+!HAVE to put on the agenda
+!LAY out the assignments
+!LAY out the duties
+!LAY out the expectations
+!LAY out the role
+!LAY out the roles
+!MUSTSHOULD act
+!MUSTSHOULD act decisively
+!MUSTSHOULD act immediately
+!MUSTSHOULD act now
+!MUSTSHOULD assess
+!MUSTSHOULD avoid
+!MUSTSHOULD be
+!MUSTSHOULD be acted on
+!MUSTSHOULD be acted upon
+!MUSTSHOULD be addressed
+!MUSTSHOULD be checked
+!MUSTSHOULD be completed
+!MUSTSHOULD be dealt with
+!MUSTSHOULD be decided
+!MUSTSHOULD be done
+!MUSTSHOULD be elected
+!MUSTSHOULD be enacted
+!MUSTSHOULD be examined
+!MUSTSHOULD be exercised
+!MUSTSHOULD be explored
+!MUSTSHOULD be fired
+!MUSTSHOULD be hailed
+!MUSTSHOULD be held to account
+!MUSTSHOULD be investigated
+!MUSTSHOULD be jailed
+!MUSTSHOULD be left
+!MUSTSHOULD be made
+!MUSTSHOULD be modeled
+!MUSTSHOULD be offset
+!MUSTSHOULD be prosecuted
+!MUSTSHOULD be pursued
+!MUSTSHOULD be received
+!MUSTSHOULD be recommended
+!MUSTSHOULD be recommended for
+!MUSTSHOULD be recommended to
+!MUSTSHOULD be regarded as
+!MUSTSHOULD be reprocessed manually
+!MUSTSHOULD be resolved
+!MUSTSHOULD be resolved in the next !TIMEFRAME
+!MUSTSHOULD be resolved in the next few !TIMEFRAME
+!MUSTSHOULD be resolved within the next !TIMEFRAME
+!MUSTSHOULD be resolved within the next few !TIMEFRAME
+!MUSTSHOULD be solved
+!MUSTSHOULD be stopped
+!MUSTSHOULD be studied
+!MUSTSHOULD be understood
+!MUSTSHOULD be undertaken
+!MUSTSHOULD carefully
+!MUSTSHOULD croak
+!MUSTSHOULD cut back
+!MUSTSHOULD cut back from
+!MUSTSHOULD cut back on
+!MUSTSHOULD decide
+!MUSTSHOULD deliberate
+!MUSTSHOULD determine
+!MUSTSHOULD DISCUSS THE
+!MUSTSHOULD dispense with
+!MUSTSHOULD do
+!MUSTSHOULD do !POSSESSIVEPRONOUN job
+!MUSTSHOULD do everything
+!MUSTSHOULD do everything !PRONOUNNOMINAL can
+!MUSTSHOULD do his job
+!MUSTSHOULD do it decisively
+!MUSTSHOULD do it now
+!MUSTSHOULD do my job
+!MUSTSHOULD do our job
+!MUSTSHOULD do our jobs
+!MUSTSHOULD do so
+!MUSTSHOULD do their job
+!MUSTSHOULD educate
+!MUSTSHOULD evaluate
+!MUSTSHOULD give this your attention
+!MUSTSHOULD go
+!MUSTSHOULD grasp the nettle
+!MUSTSHOULD have !DETERMINER
+!MUSTSHOULD have the
+!MUSTSHOULD keep
+!MUSTSHOULD let you know
+!MUSTSHOULD look for
+!MUSTSHOULD make you aware
+!MUSTSHOULD prescribe
+!MUSTSHOULD probably
+!MUSTSHOULD put on the agenda
+!MUSTSHOULD recommend
+!MUSTSHOULD replace
+!MUSTSHOULD resign
+!MUSTSHOULD resolve
+!MUSTSHOULD respond by
+!MUSTSHOULD somehow have
+!MUSTSHOULD stand
+!MUSTSHOULD stand by
+!MUSTSHOULD stand firmly
+!MUSTSHOULD stand firmly behind
+!MUSTSHOULD stop
+!MUSTSHOULD submit
+!MUSTSHOULD support
+!MUSTSHOULD surrender
+!MUSTSHOULD take advantage of
+!MUSTSHOULD take into account
+!MUSTSHOULD take steps to
+!MUSTSHOULD TELL !PRONOUNOBJECTIVE
+!MUSTSHOULD to !DECIDE
+!MUSTSHOULD try to
+!MUSTSHOULD visit
+!MUSTSHOULD weigh options
+!OUGHTNEED clarification
+!OUGHTNEED doing
+!OUGHTNEED explanation
+!OUGHTNEED for
+!OUGHTNEED to answer
+!OUGHTNEED to answer to
+!OUGHTNEED to argue
+!OUGHTNEED to ascertain
+!OUGHTNEED to assess
+!OUGHTNEED to avoid
+!OUGHTNEED to be
+!OUGHTNEED to be acted on
+!OUGHTNEED to be acted upon
+!OUGHTNEED to be addressed
+!OUGHTNEED to be dealt with
+!OUGHTNEED to be done
+!OUGHTNEED to be enacted
+!OUGHTNEED to be examined
+!OUGHTNEED to be explored
+!OUGHTNEED to be investigated
+!OUGHTNEED to be stopped
+!OUGHTNEED to conclude
+!OUGHTNEED to consider
+!OUGHTNEED to decide
+!OUGHTNEED to deliberate
+!OUGHTNEED to deliberate on
+!OUGHTNEED to determine
+!OUGHTNEED to do
+!OUGHTNEED to do so
+!OUGHTNEED to establish
+!OUGHTNEED TO FIND OUT
+!OUGHTNEED TO FIND OUT WHAT
+!OUGHTNEED TO FIND OUT WHAT IT IS
+!OUGHTNEED to go
+!OUGHTNEED to grasp the nettle
+!OUGHTNEED to have
+!OUGHTNEED to have !DETERMINER
+!OUGHTNEED to judge
+!OUGHTNEED to judge on !POSSESSIVEPRONOUN own merit
+!OUGHTNEED to keep
+!OUGHTNEED TO LET IT SINK IN
+!OUGHTNEED to level with
+!OUGHTNEED to make
+!OUGHTNEED to prescribe
+!OUGHTNEED to press
+!OUGHTNEED to prevail on
+!OUGHTNEED to prevail over
+!OUGHTNEED TO PROMOTE
+!OUGHTNEED to recommend
+!OUGHTNEED to resolve
+!OUGHTNEED to stop
+!OUGHTNEED to submit
+!OUGHTNEED to surrender
+!OUGHTNEED to WELL
+!OUGHTNEED to withdraw
+!OUGHTNEED to yield
+!TAKE !POSSESSIVEPRONOUN order
+!TAKE !POSSESSIVEPRONOUN orders
+!YOU !AUX assigned to
+!YOU !AUX permitted to do so
+!YOU !AUX responsible for
+!YOU !AUX to
+!YOU !AUX to make sure
+!YOU !MUSTSHOULD !DECIDE for you
+!YOU !MUSTSHOULD !DECIDE if he !AUX to
+!YOU !MUSTSHOULD !DECIDE if I am to
+!YOU !MUSTSHOULD !DECIDE if she !AUX to
+!YOU !MUSTSHOULD !DECIDE if they !AUX to
+!YOU !MUSTSHOULD !DECIDE if we !AUX to
+!YOU !MUSTSHOULD !DECIDE if you !AUX to
+!YOU !MUSTSHOULD !DECIDE on
+!YOU !MUSTSHOULD !DECIDE whether
+!YOU !MUSTSHOULD !DECIDE whether he !AUX to
+!YOU !MUSTSHOULD !DECIDE whether she !AUX to
+!YOU !MUSTSHOULD !DECIDE whether they !AUX to
+!YOU !MUSTSHOULD !DECIDE whether we !AUX to
+!YOU !MUSTSHOULD agree to do this
+!YOU !MUSTSHOULD attempt
+!YOU !MUSTSHOULD be
+!YOU !MUSTSHOULD be completed
+!YOU !MUSTSHOULD be completed with
+!YOU !MUSTSHOULD be done by
+!YOU !MUSTSHOULD be done with
+!YOU !MUSTSHOULD be made to understand
+!YOU !MUSTSHOULD be prepared for
+!YOU !MUSTSHOULD be prepared to
+!YOU !MUSTSHOULD be ready to
+!YOU !MUSTSHOULD be receachable
+!YOU !MUSTSHOULD be resolved
+!YOU !MUSTSHOULD be resolved to go
+!YOU !MUSTSHOULD be sure to do this
+!YOU !MUSTSHOULD be there
+!YOU !MUSTSHOULD be there at
+!YOU !MUSTSHOULD believe
+!YOU !MUSTSHOULD conclude
+!YOU !MUSTSHOULD consider
+!YOU !MUSTSHOULD count on coming
+!YOU !MUSTSHOULD cut back from
+!YOU !MUSTSHOULD cut back on
+!YOU !MUSTSHOULD decide to
+!YOU !MUSTSHOULD deliberate on
+!YOU !MUSTSHOULD determine
+!YOU !MUSTSHOULD determine to
+!YOU !MUSTSHOULD do
+!YOU !MUSTSHOULD evaluate
+!YOU !MUSTSHOULD evaluate whether
+!YOU !MUSTSHOULD feel obliged
+!YOU !MUSTSHOULD first
+!YOU !MUSTSHOULD get
+!YOU !MUSTSHOULD give it !DETERMINER shot
+!YOU !MUSTSHOULD give it !DETERMINER try
+!YOU !MUSTSHOULD give it !DETERMINER whirl
+!YOU !MUSTSHOULD give it time
+!YOU !MUSTSHOULD give it your best shot
+!YOU !MUSTSHOULD go
+!YOU !MUSTSHOULD go out
+!YOU !MUSTSHOULD have
+!YOU !MUSTSHOULD have !DETERMINER capability
+!YOU !MUSTSHOULD have to
+!YOU !MUSTSHOULD have your
+!YOU !MUSTSHOULD hear from
+!YOU !MUSTSHOULD ignore them
+!YOU !MUSTSHOULD inform the
+!YOU !MUSTSHOULD insist that
+!YOU !MUSTSHOULD keep a low profile
+!YOU !MUSTSHOULD know this is important to do
+!YOU !MUSTSHOULD leave it alone
+!YOU !MUSTSHOULD let it alone
+!YOU !MUSTSHOULD live so long
+!YOU !MUSTSHOULD look for
+!YOU !MUSTSHOULD look out for
+!YOU !MUSTSHOULD make an effort
+!YOU !MUSTSHOULD make it a point to
+!YOU !MUSTSHOULD meet !DETERMINER expectation that
+!YOU !MUSTSHOULD never
+!YOU !MUSTSHOULD not ignore them
+!YOU !MUSTSHOULD notice that
+!YOU !MUSTSHOULD pay attention to
+!YOU !MUSTSHOULD prove that
+!YOU !MUSTSHOULD refer
+!YOU !MUSTSHOULD replace
+!YOU !MUSTSHOULD resolve
+!YOU !MUSTSHOULD resolve to go
+!YOU !MUSTSHOULD simply
+!YOU !MUSTSHOULD slow down
+!YOU !MUSTSHOULD stand
+!YOU !MUSTSHOULD stand firm on
+!YOU !MUSTSHOULD start
+!YOU !MUSTSHOULD stop
+!YOU !MUSTSHOULD take !DETERMINER look
+!YOU !MUSTSHOULD take note that
+!YOU !MUSTSHOULD think about
+!YOU !MUSTSHOULD think to come
+!YOU !MUSTSHOULD try
+!YOU !MUSTSHOULD try it
+!YOU !MUSTSHOULD try to
+!YOU !MUSTSHOULD use sparingly
+!YOU !MUSTSHOULD vote for
+!YOU !MUSTSHOULD work on
+!YOU !OUGHTNEED to act
+!YOU !OUGHTNEED to buy
+!YOU !OUGHTNEED to do
+!YOU !OUGHTNEED to get
+!YOU !OUGHTNEED to go
+!YOU !OUGHTNEED to have
+!YOU !OUGHTNEED to take care of
+!YOU !OUGHTNEED to vote
+!YOU are assigned
+!YOU are charged to
+!YOU are commanded to
+!YOU are consigned to
+!YOU are expected to
+!YOU are ordered to
+!YOU are reassigned
+!YOU are relegated to
+!YOU are required to
+!YOU are supposed to
+!YOU are transferred
+!YOU attempt to
+!YOU can do so
+!YOU have the task to
+!YOU may do so
+!YOU must attempt
+!YOU must contact
+!YOU must meet with
+!YOU must start
+!YOU must try
+!YOU must win support for
+!YOU must win the approval
+!YOU must win the support
+!YOU must work on
+!YOU need to attempt
+!YOU need to contact
+!YOU need to get busy and
+!YOU need to meet with
+!YOU need to procure
+!YOU need to start
+!YOU need to try
+!YOU need to work on
+!YOU now have the task
+!YOU ought to attempt
+!YOU ought to contact
+!YOU ought to start
+!YOU ought to try
+!YOU ought to work on
+!YOU were to
+!YOU were to decide
+!YOU were to have
+!YOU will be overseeing
+!YOU will be supervising
+!YOU will be teaming with
+!YOU will be working
+!YOU will be working out of
+!YOU will give support
+!YOU will oversee
+!YOU will supervise
+!YOU will work
+!YOU will work under
+!YOU will work with
+. !HAND off
+. !HAND out
+. !MAKE an appointment to
+. !MAKE some appointments
+. !MAKE sure !POSSESSIVEPRONOUN
+. !MAKE sure !PRONOUNNOMINAL
+. !MAKE sure !PRONOUNOBJECTIVE
+. !MAKE sure that !YOU remember to
+. assess !DETERMINER
+. check !DETERMINER
+. check the progress being made on
+. check the progress of
+. check this out
+. check what's holding up the
+. code !DETERMINER
+. collect !DETERMINER
+. design !DETERMINER
+. determine !DETERMINER
+. develop !DETERMINER
+. direct your attention to
+. do your chores
+. fix your signature
+. hand in
+. hand in your
+. have !POSSESSIVEPRONOUN
+. have !PRONOUNOBJECTIVE
+. have her
+. have him
+. have me
+. have someone
+. have them
+. have us
+. make sure
+. place your signature
+. please begin
+. please make a note of
+. put your signature
+. see to it that
+. see to it that !PRONOUNNOMINAL
+. sign on the
+. sign up
+. submit
+. submit your
+. support !DETERMINER
+. survey !DETERMINER
+. take !POSSESSIVEPRONOUN concerns seriously
+. take !POSSESSIVEPRONOUN questions seriously
+. test !DETERMINER
+. train !DETERMINER
+. verify !DETERMINER
+. write !DETERMINER
+a concern for !YOU
+a concern for !YOU to
+a concern for your
+a matter for !YOU
+a matter for !YOU to
+a matter for your
+a need
+a need of
+and !YOU !MUSTSHOULD !CHECK !QUESTION
+and tell her
+and tell him
+and tell them
+and tell yourself
+appointed to
+as a direct report to
+as required
+as required by
+as required by law
+ask !YOU to
+assign
+assign !DETERMINER
+assign !DETERMINER job
+assign !DETERMINER task
+assign !POSSESSIVEPRONOUN
+assign !PRONOUNOBJECTIVE
+assign !PRONOUNOBJECTIVE to
+assign jobs
+assign lessons
+assign tasks
+assigned !DETERMINER job
+assigned !DETERMINER project
+assigned !DETERMINER task
+assigned !POSSESSIVEPRONOUN
+assigned !PRONOUNOBJECTIVE
+assigned !PRONOUNOBJECTIVE to
+assigned jobs
+assigned lessons
+assigned tasks
+assigner
+assigners
+assigning
+assigning !DETERMINER
+assigning !DETERMINER job
+assigning !DETERMINER task
+assigning !POSSESSIVEPRONOUN
+assigning !PRONOUNOBJECTIVE
+assigning !PRONOUNOBJECTIVE to
+Assigning !YOU
+assigning jobs
+assigning lessons
+assigning tasks
+assignment
+assignments
+assigns
+assigns !DETERMINER
+assigns !DETERMINER job
+assigns !DETERMINER task
+assigns !POSSESSIVEPRONOUN
+assigns !PRONOUNOBJECTIVE
+assigns !PRONOUNOBJECTIVE to
+assigns jobs
+assigns lessons
+assigns tasks
+Calling upon !YOU
+can count on !YOU
+challenge is to
+challenges !AUX to
+charge the jury
+charge to the jury
+charged the jury
+charged to find out
+charged to investigate
+charged to learn
+charged to understand
+charged with the duty
+charged with the responsibility
+charges the jury
+Charging !YOU to
+Charging !YOU with the task
+charging of the jury
+charging the jury
+check to make sure
+check to make sure that
+check to see if
+clear for action
+cleared for action
+clearing for action
+clears for action
+count on !YOU
+Counting on !YOU
+counting on !YOU to
+counts on !YOU
+duties to perform
+each team !MUSTSHOULD be
+each team !MUSTSHOULD be prepared
+engagement in
+engagements in
+evaluate !DETERMINER
+expect !YOU to
+expect !YOU to oversee the
+expressly requires
+expressly requires !YOU
+expressly requires one
+find a date to
+finding a date to
+finds a date to
+for a conference
+for a project
+for a publication
+for an assignment
+for class
+for homework
+for school
+for the job
+for work
+found a date to
+generate a report
+get approval for
+get busy and
+get in touch with
+get moving on
+get off your butt and
+get some talking points
+get your talking points
+have !PRONOUNOBJECTIVE call
+have !PRONOUNOBJECTIVE come down
+he is to
+her inbox
+his inbox
+hold the button down
+hold the key down
+I'm to
+I'm to be
+I am counting on !YOU
+I am eager to hear from !YOU
+I am enclosing
+I am to
+I expect !YOU to start
+I would like to hear from !YOU
+I would like to meet with !YOU
+I would like to schedule a meeting with !YOU
+identify !DETERMINER
+implement the
+in a support capacity
+in a support role
+in a supporting capacity
+in a supporting role
+inventory the
+IT'S REQUIRED FOR
+it falls to !YOU
+it falls to !YOU to
+it is now our task
+it is now our task to
+it is our task
+it is our task to
+it is your job
+it is your job to
+it is your task
+it is your task to
+item on the agenda
+items on the agendas
+keep !PRONOUNOBJECTIVE out of
+keep customers informed
+keep on doing
+keep regular correspondence with
+keep stakeholders informed
+land on her desk
+land on his desk
+land on my desk
+land on our desk
+land on their desk
+land on your desk
+landed on her desk
+landed on his desk
+landed on my desk
+landed on our desk
+landed on their desk
+landed on your desk
+landing on her desk
+landing on his desk
+landing on my desk
+landing on our desk
+landing on their desk
+landing on your desk
+lands on her desk
+lands on his desk
+lands on my desk
+lands on our desk
+lands on their desk
+lands on your desk
+lead the implementation
+lead the team
+lend your support
+let's call a meeting
+let's concentrate on
+let's decide to
+let's focus on
+let's go over
+let's have a
+let's have a meet
+let's meet around
+let's meet at
+let's pay attention to
+let's review !DETERMINER
+let's review the
+let's set up a meeting
+let's work on
+mandate
+mandates
+mandating
+mandatories
+mandatory
+mandatory injunction
+mandatory injunctions
+marching-order
+marching-orders
+marching order
+marching orders
+meant for processing
+must be designed
+must find a date to
+must find dates to
+must meet with
+must report to
+my inbox
+need a time
+Need to achieve support for
+need to ask !YOU
+need to do this
+need to implement the
+need to put on the agenda
+need your assistance
+need your cooperation
+need your counsel
+need your full cooperation
+need your help
+needed a time
+needed to ask !YOU
+needing a time
+needing to ask !YOU
+needs a time
+needs to ask !YOU
+now !CHECK !QUESTION
+on assignment
+ought to put on the agenda
+our inboxes
+pay attention to
+place on the agenda
+please attend to
+please begin
+please direct your attention to
+please finish up with the
+please give support to
+please give your attention
+please make sure
+please set up the
+please start to
+please try
+please try and
+please try to
+position's requirements
+positions' requirements
+proceed to do
+proceed to your
+procure input
+provide regular
+provide support as a
+provide support for
+provide support in the capacity of
+provide the case for
+provide updates every
+pursuance
+pursuance of
+pursuance to
+pursuant
+pursuant to
+pursuant to !DETERMINER
+pursuant to !POSSESSIVEPRONOUN
+put on the agenda
+report to
+require
+require !DETERMINER
+require !YOU
+require an answer
+require for
+require her
+require him
+require it
+require me
+require of
+require that
+require them
+require us
+require your approval
+required
+required !YOU
+required an answer
+required by law
+required by law to
+required her
+required him
+required it
+required me
+required of
+required that
+required them
+required to
+REQUIRED TO ACCOMPLISH
+REQUIRED TO COMPLETE
+required us
+required visit
+required visits
+required your approval
+requirement
+requirement for
+requirement for !DETERMINER
+requirement for acceptance
+requirement for admittance
+requirement for employment
+requirement for graduation
+requirement to quantify
+requirements
+requirements for
+requires
+requires !YOU
+requires an answer
+requires for
+requires her
+requires him
+requires it
+requires me
+requires of
+requires one
+requires that
+requires them
+requires us
+requires your approval
+requiring
+requiring !YOU
+requiring for
+requiring her
+requiring him
+requiring it
+requiring me
+requiring of
+requiring that
+requiring them
+requiring us
+requiring your approval
+review a dossier
+review a packet
+review attached for discussion at next meeting
+reviewed a dossier
+reviewed a packet
+reviewing a dossier
+reviewing a packet
+reviews a dossier
+reviews a packet
+saw to it that
+schedulted to
+see to it that
+see to it that !YOU
+see what !YOU
+see what !YOU can
+seeing to it that
+seek approval for
+seek your
+sees to it that
+serve as a backup for
+serve as a liason for
+set !DETERMINER target
+set a purpose
+she is to
+start and create your
+start and get moving on
+start and think about
+start and try to
+start moving on
+supervise the
+supposed to have been assigned
+supposed to have been completed
+supposed to have been done
+supposed to have been finished
+supposed to have been finishing
+supposed to have been started
+take questions from
+take responsibility for
+take the lead on
+tap into your
+task !DETERMINER
+task is to
+task out !DETERMINER
+task was to
+tasked !DETERMINER
+tasked out !DETERMINER
+tasking !DETERMINER
+tasking out !DETERMINER
+tasks !AUX to
+tasks !DETERMINER
+tasks out !DETERMINER
+tasks were to
+team members !MUSTSHOULD also consider
+that !YOU attempt
+that !YOU attempt to
+that requires
+the ball is in her court
+the ball is in his court
+the ball is in their court
+the challenge is to find
+the needs
+the needs of
+the task is
+the team will split into
+the timeframe is
+their inbox
+then try
+there !AUX things to be done
+they !AUX to
+things to be
+things to be done
+things to do
+this is to be done with
+this will be done with
+to-do list
+to be an assistant to
+to be described
+to be done
+to be done by
+to carry the ball
+to carry the load
+to confer with
+to continue doing
+to continue on doing
+to create awareness of
+to decide on options
+to do list
+to do:
+to dos
+to her desk
+to her office
+to his desk
+to his office
+to my desk
+to our desk
+To provide assistance to
+To provide help to
+to their desk
+to their office
+to weigh options
+to your desk
+to your office
+track it in progress
+track its progress
+track the progress of
+want !YOU to
+want !YOU to assist
+want to ask !YOU
+want to meet with !YOU
+wanted to ask !YOU
+wanting to ask !YOU
+wants to ask !YOU
+was made to understand
+we !MUSTSHOULD decide
+we !MUSTSHOULD determine
+we !MUSTSHOULD educate
+we !MUSTSHOULD judge
+we !MUSTSHOULD resolve
+we !MUSTSHOULD resolve to
+we !MUSTSHOULD support
+we !OUGHTNEED !DECIDE
+we !OUGHTNEED to
+we !OUGHTNEED to !DECIDE
+we !OUGHTNEED to !READERFOCUS
+we !OUGHTNEED to act
+we !OUGHTNEED to adjudicate
+we !OUGHTNEED to ascertain
+we !OUGHTNEED to assess
+we !OUGHTNEED to decide
+we !OUGHTNEED to determine
+we !OUGHTNEED to judge
+we !OUGHTNEED to resolve
+we !OUGHTNEED to resolve to
+why not have !YOU
+why not have her
+why not have him
+why not have me
+why not have them
+why not have us
+why not try
+will be required
+will be required to
+will coordinate meetings with
+will count on !YOU
+will expect !YOU to
+will expect your
+will test customer requirements
+will test requirements
+willing to field questions
+write a memo to
+YOU're to
+your assignment
+your assignment is
+your assignment is to
+your assignment will be
+your duties
+your expected timeframe
+your inbox
+your job is
+your job is to
+your responsibilities
+your responsibility is
+your responsibilties are
+your specific assignment
+your specific assignment is
+your specific assignment is to
+your specific assignments
+your specific job
+your specific job is
+your specific job is to
+your specific jobs
+your specific task
+your specific task is
+your specific task is to
+your specific tasks
+your target responsibility is
+your timeframe

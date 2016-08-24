@@ -1,0 +1,363 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER assumption of
+!AUX !DETERMINER assumptions of
+!AUX !DETERMINER premise of
+!AUX !DETERMINER premises of
+!AUX !DETERMINER result of
+!AUX !DETERMINER upshot of
+!AUX due to
+!AUX owing to
+!DETERMINER assumption being that
+!DETERMINER assumption of
+!DETERMINER assumptions of
+!DETERMINER backdrop to
+!DETERMINER background to
+!DETERMINER cause of
+!DETERMINER foundation for this idea
+!DETERMINER premise !AUX
+!DETERMINER premise !AUX that
+!DETERMINER premise being
+!DETERMINER premise is
+!DETERMINER premise of
+!DETERMINER premise that
+!DETERMINER premises are that
+!DETERMINER premises of
+!DETERMINER previous reasons
+!DETERMINER reason being
+!DETERMINER reasoning
+!DETERMINER reasoning is
+!DETERMINER reasons for
+!DETERMINER result of
+!DETERMINER results of
+!MAKE !DETERMINER assumption that
+!MUSTSHOULD be !DETERMINER !DETERMINER necessary
+!MUSTSHOULD be !DETERMINER !DETERMINER sufficient
+!MUSTSHOULD have already
+!MUSTSHOULD have had
+!MUSTSHOULD have thought
+!MUSTSHOULD have wanted to
+!MUSTSHOULD not have to
+!POSSESSIVEPRONOUN premise !AUX that
+!POSSESSIVEPRONOUN premise is
+!POSSESSIVEPRONOUN premises are
+!POSSESSIVEPRONOUN premises are that
+!PRONOUNNOMINAL !MUSTSHOULD have had
+, as !DETERMINER result of
+, as !DETERMINER result of !DETERMINER fact
+, FOR BEING !DETERMINER
+, for it !AUX because
+, for it !AUX due
+, for it !AUX owing
+, for it !AUX owing to
+, for it !AUX precisely because
+, for it is caused by
+, for it is the consequence of
+, for it owes to
+, for it results from
+, given !DETERMINER
+, given !POSSESSIVEPRONOUN
+, given my
+, seeing that
+. as a result of
+. being that
+. given !DETERMINER
+. given !POSSESSIVEPRONOUN
+. given enough support
+. given how many
+. given how much
+. given that
+. there must have
+. there must have been
+according to !DETERMINER premise that
+and given !DETERMINER
+ano!DETERMINERr reason, moreover,
+as !DETERMINER consequence of
+as !DETERMINER reason for
+as !DETERMINER result of
+as !DETERMINER result of !DETERMINER fact
+as a result of
+as it !AUX
+as it can not be
+as it cannot
+assume that
+assume that !DETERMINER
+assumed that
+assumed that !DETERMINER
+assumes that
+assumes that !DETERMINER
+assuming that
+assuming that !DETERMINER
+base my opinion on
+base our opinion on
+based my opinion on
+based on !DETERMINER !IDEA
+based on !DETERMINER assumption
+based on !DETERMINER premise
+based our opinion on
+bases my opinion on
+bases our opinion on
+basing my opinion on
+basing our opinion on
+because
+because !DETERMINER
+because it's
+because it comes with
+because it is
+because of !DETERMINER assumption
+because of !DETERMINER premise
+because of !DETERMINER premise that
+because there is
+because these happen
+because this happens
+because this is
+because those
+being that !DETERMINER
+being that !THCONJUNCTION
+BUT BECAUSE
+but in light of
+but in light of !DETERMINER fact
+but in view of
+but in view of !DETERMINER fact
+but since
+comes from !DETERMINER !IDEA
+comes from !DETERMINER assumption
+comes from !DETERMINER premise
+conditioned by !DETERMINER fact that
+conditioned on !DETERMINER fact
+conditioned on !POSSESSIVEPRONOUN
+conditioned on her
+conditioned on his
+derive from !DETERMINER premise
+derive fully from !DETERMINER premise
+derive in part from !DETERMINER premise
+derive partly from !DETERMINER premise
+DERIVED FROM !DETERMINER premise
+derived fully from !DETERMINER premise
+derived in part from !DETERMINER premise
+derived partly from !DETERMINER premise
+derives from !DETERMINER !IDEA
+derives from !DETERMINER assumption
+DERIVES FROM !DETERMINER premise
+derives fully from !DETERMINER premise
+derives in part from !DETERMINER premise
+derives partly from !DETERMINER premise
+DERIVING FROM !DETERMINER premise
+deriving fully from !DETERMINER premise
+deriving in part from !DETERMINER premise
+deriving partly from !DETERMINER premise
+due to
+due to !DETERMINER
+due to !DETERMINER fact that
+due to extenuating circumstances
+follow from
+following from
+following from !DETERMINER !CLAIM
+follows from
+for !DETERMINER cause that
+for !DETERMINER fact that
+for !DETERMINER important reason
+for !DETERMINER obvious reason that
+for !DETERMINER plain reason that
+for !DETERMINER reason
+for !DETERMINER reason that
+for !DETERMINER simple reason
+for !DETERMINER simple reason that
+for !DETERMINER very reason
+FOR !HEADDET FOLLOWING REASONS
+for after all
+for because
+for it's
+for it's !DETERMINER
+for it's !DETERMINER case
+for it's !DETERMINER case that
+for it's true that
+for it !AUX !DETERMINER
+for it !AUX !DETERMINER case
+for it !AUX !DETERMINER case that
+for it !AUX because
+for it !AUX due
+for it !AUX due to
+for it !AUX precisely because
+for it !AUX true
+for it !AUX true that
+for it is
+for its true
+for that !AUX !DETERMINER cause
+for that !AUX !DETERMINER reason
+for that cause
+for that is
+for that reason
+for the reason behind
+for the reasons behind
+for there
+for there are
+for there is
+for with
+for with !DETERMINER
+for, after all,
+from !DETERMINER base assertion
+from !DETERMINER base assertions
+fundamental assumption
+fundamental premise
+given !DETERMINER means
+given !DETERMINER real
+given !DETERMINER very
+given !DETERMINER very real
+given how
+given how many
+given how much
+given that
+given that !DETERMINER
+given that !PRONOUNNOMINAL
+given that it
+given that it's
+granted that !DETERMINER
+I !MUSTSHOULD have had
+in !DETERMINER light of
+in !DETERMINER name of !DETERMINER cause
+in !DETERMINER name of !DETERMINER causes
+in !DETERMINER name of her cause
+in !DETERMINER name of her causes
+in !DETERMINER name of his cause
+in !DETERMINER name of his causes
+in !DETERMINER name of my cause
+in !DETERMINER name of my causes
+in !DETERMINER name of our cause
+in !DETERMINER name of our causes
+in !DETERMINER name of your cause
+in !DETERMINER name of your causes
+in !DETERMINER premise that
+in good part because
+in light of
+in light of !DETERMINER fact that
+in part because
+IN VIEW OF !DETERMINER
+IN VIEW OF WHAT
+incident to
+insomuch as
+is !DETERMINER function of
+is because
+it's !DETERMINER given that
+it's all because of
+it's because of
+it !AUX all because of
+it !AUX because of
+it !MUSTSHOULD have been
+it !MUSTSHOULD have had
+it had to be !DETERMINER case that
+it has got to be
+just because
+largely from
+major assumption
+must've
+on !DETERMINER basis of
+on !DETERMINER ground of equity
+on !DETERMINER grounds of equality
+on !DETERMINER grounds of fairness
+on !DETERMINER grounds of humanity
+on !DETERMINER grounds of justice
+on !DETERMINER grounds of ownership
+on !DETERMINER grounds that
+on !DETERMINER premise
+on !DETERMINER simple grounds
+on !DETERMINER strength of
+on account
+on account of
+on account of this
+on account of what
+on account of which
+on economic grounds
+on moral and economic grounds
+on moral grounds
+one given !AUX that
+or this cause
+overspill from
+overspills from
+owing to
+owing to !DETERMINER
+owing to !DETERMINER fact that
+parce cue
+parce que
+premised
+premised on
+premised on !DETERMINER !IDEA
+presuppose
+presupposed
+presupposes
+presupposes that
+presupposing
+presupposition
+presuppositions
+principally because
+propter hoc
+rationale behind
+rationales behind
+repose on
+repose upon
+reposed on
+reposed upon
+reposes on
+reposes upon
+reposing on
+reposing upon
+rest on !DETERMINER assumption that
+resting on !DETERMINER assumption that
+rests on !DETERMINER assumption that
+result of
+results of
+since it's
+since it is
+so !PRONOUNNOMINAL could
+so !PRONOUNNOMINAL could be
+so it could
+so it could be
+so named because
+so named for
+so we could
+so we could be
+spill over from
+spilled over from
+spilling over from
+spillover from !DETERMINER !IDEA
+spillovers from
+spills over from
+stand to reason that
+standing to reason that
+stands to reason that
+state my reasons
+stem from
+stem fully from
+stem in part from
+STEM LARGELY FROM
+stem partly from
+STEMMED FROM
+stemmed fully from
+stemmed in part from
+stemmed partly from
+STEMMING FROM
+stemming fully from
+stemming in part from
+stemming partly from
+STEMS FROM
+stems fully from
+stems in part from
+STEMS LARGELY FROM
+stems partly from
+there !MUSTSHOULD have
+there !MUSTSHOULD have been
+There !MUSTSHOULD have been a good reason
+this !AUX conditioned by
+this !AUX conditioned on
+this happens because
+this idea derives from
+this is because
+to be !DETERMINER result
+to be !DETERMINER result of
+was because
+we !MUSTSHOULD have had
+what !MUSTSHOULD have
+what !MUSTSHOULD have been
+you !MUSTSHOULD have had

@@ -1,0 +1,69 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!QUESTION am I going to
+!QUESTION are they going to
+!QUESTION are we going to
+!QUESTION are you going to
+!QUESTION is he going to
+!QUESTION is she going to
+!QUESTION should !ROYALWE
+!QUESTION should he
+!QUESTION should she
+!QUESTION should they
+!QUESTION will
+!QUESTION will !PRONOUNNOMINAL land up
+!QUESTION would
+!QUESTION would it mean
+!QUESTION would it mean for
+, !QUESTION will
+, should
+, will !PRONOUNNOMINAL
+, will it
+, will we
+, would !PRONOUNNOMINAL
+, would it
+, would we
+. !QUESTION should
+. !QUESTION will
+. should !DETERMINER
+. should !PRONOUNNOMINAL
+. should !ROYALWE
+. should it
+. should there be
+. should there be a
+. should we
+. will
+. will !PRONOUNNOMINAL
+. will it
+. will it ever
+. will we
+. would
+. would !DETERMINER
+: !QUESTION will
+: should
+: should !DETERMINER
+: would
+: would !DETERMINER
+; !QUESTION will
+; should
+; should !DETERMINER
+; will
+; would
+; would !DETERMINER
+shall !ROYALWE
+should !ROYALWE
+should it be
+will !PRONOUNNOMINAL be able to avoid
+will !PRONOUNNOMINAL be able to escape
+will !PRONOUNNOMINAL be able to make it out
+will wonders never cease
+would !DETERMINER
+would !PRONOUNNOMINAL
+would !ROYALWE
+would it
+would it be
+would that
+would that be
+would there be

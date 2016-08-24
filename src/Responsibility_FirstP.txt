@@ -1,0 +1,311 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!ROYALWE !MUSTSHOULD atone for
+!ROYALWE !MUSTSHOULD seek forgiveness
+!ROYALWE !MUSTSHOULD take responsibility
+!ROYALWE !OUGHTNEED atone for
+!ROYALWE !OUGHTNEED seek forgiveness
+!ROYALWE !OUGHTNEED to take responsibility
+!ROYALWE accept full responsibility
+!ROYALWE accept responsibility
+!ROYALWE accepted full responsibility
+!ROYALWE accepted responsibility
+!ROYALWE are accepting of full responsibility
+!ROYALWE are accepting of responsibility
+!ROYALWE feel responsible
+accountability is mine
+accountability is on me
+accountability is on us
+accountability is ours
+all on me
+all on us
+am duty-bound
+answerability is mine
+answerability is on me
+answerability is on us
+answerability is ours
+blame belongs to me
+blame belongs to us
+blame is mine
+blame is on me
+blame is on us
+blame is ours
+burden is on me
+burden is on us
+charge is on me
+charge is on us
+completely up to me
+completely up to us
+culpability is mine
+culpability is on me
+culpability is on us
+culpability is ours
+duty is mine
+duty is on me
+duty is on us
+duty is ours
+entirely up to me
+entirely up to us
+fall on me to
+fall on us to
+fall to me
+fall to us
+falling on me to
+falling on us to
+falling to me
+falling to us
+falls on me to
+falls on us to
+falls to me
+falls to us
+fault is mine
+fault is on me
+fault is on us
+fault is ours
+fault lies with me
+fault lies with us
+fell on me to
+fell on us to
+fell to me
+fell to us
+fully incumbent on me
+I'm accountable
+I'm answerable
+I'm at fault
+I'm beholden
+I'm bound
+I'm culpable
+I'm duty-bound
+I'm fully accountable
+I'm fully answerable
+I'm fully at fault
+I'm fully beholden
+I'm fully bound
+I'm fully burdened
+I'm fully culpable
+I'm fully duty-bound
+I'm fully in charge
+I'm fully obliged
+I'm fully reliable
+I'm fully responsible
+I'm fully to blame
+I'm fully under the onus
+I'm guilty
+I'm in charge
+I'm liable
+I'm obliged
+I'm responsible
+I'm sinful
+I'm to blame
+I'm under the burden
+I'm under the onus
+I've acted badly
+I've acted poorly
+I've acted treacherously
+I've been guilty
+I've blasphemed
+I've deceived
+I've let everyone down
+I've let people down
+I've practiced deceit
+I've practiced deception
+I've sinned
+I've trespassed
+I've wronged
+I am accepting full responsibility
+I am accepting of full responsibility
+I am accepting responsibility
+I am accountable
+I am answerable
+I am at fault
+I am beholden
+I am bound
+I am burden
+I am culpable
+I am fully accountable
+I am fully answerable
+I am fully at fault
+I am fully burdened
+I am fully culpable
+I am fully duty-bound
+I am fully in charge
+I am fully obliged
+I am fully reliable
+I am fully responsible
+I am fully to blame
+I am fully under the onus
+I am guilty
+I am in charge
+I am liable
+I am obliged
+I am responsible
+I am sinful
+I am taking full responsibility
+I am to blame
+I am under the onus
+I have acted badly
+I have acted poorly
+I have acted treacherously
+I have blasphemed
+I have cheated
+I have deceived
+I have let everyone down
+I have let people down
+I have practiced deceit
+I have practiced deception
+I have sinned
+I have trespassed
+I have wrong
+I take full responsibility
+I take responsibility
+incumbent on me
+incumbent on us
+it's on me to
+it's on us to
+it's up to me
+it's up to us
+liability is on me
+liability is on us
+my accountability
+my answerability
+my being accountable
+my being answerable
+my being at fault
+my being beholden
+my being blamable
+my being culpable
+my being duty-bound
+my being in charge
+my being liable
+my being obliged
+my being responsible
+my being under the burden
+my being under the onus
+my blame
+my burden
+my charge
+my culpability
+my duty
+my fault
+my liability
+my obligation
+my onus
+my responsibility
+obligation is on me
+obligation is on us
+on me to
+on my watch
+on our watch
+on ourselves
+on ourselves to
+on the watch of my
+on the watch of our
+on us to
+onus is on me
+onus is on us
+onus on me
+onus on us
+our accountability
+our answerability
+our being accountable
+our being answerable
+our being at fault
+our being beholden
+our being blamable
+our being culpable
+our being duty-bound
+our being in charge
+our being liable
+our being obliged
+our being responsible
+our being under the burden
+our being under the onus
+our blame
+our burden
+our charge
+our culpability
+our duty
+our fault
+our liability
+our obligation
+our onus
+our responsibility
+responsibility is on me
+responsibility is on us
+We're accountable
+We're answerable
+We're at fault
+we're beholden
+we're bound
+We're culpable
+We're duty-bound
+we're fully accountable
+we're fully answerable
+we're fully at fault
+we're fully beholden
+we're fully bound
+we're fully culpable
+we're fully reliable
+we're fully to blame
+we're fully under the onus
+We're in charge
+We're liable
+We're obliged
+we're responsible
+We're to blame
+We're under the burden
+We're under the onus
+We've acted badly
+We've acted poorly
+We've acted treacherously
+We've blasphemed
+We've deceived
+We've let everyone down
+We've let people down
+We've practiced deceit
+We've practiced deception
+We've trespassed
+We are accountable
+We are answerable
+We are at fault
+We are beholden
+We are bound
+We are culpable
+We are duty-bound
+we are fully accountable
+we are fully answerable
+we are fully at fault
+we are fully beholden
+we are fully bound
+We are fully burdened
+we are fully culpable
+We are fully duty-bound
+We are fully in charge
+We are fully obliged
+we are fully reliable
+We are fully responsible
+we are fully to blame
+we are fully under the onus
+We are in charge
+We are liable
+We are obliged
+we are responsible
+We are to blame
+We are under the burden
+We are under the onus
+We have acted badly
+We have acted poorly
+We have acted treacherously
+We have blasphemed
+We have deceived
+We have let everyone down
+We have let people down
+We have practiced deceit
+We have practiced deception
+We have trespassed
+what I am doing
+what I did
+what we are doing
+what we did

@@ -1,0 +1,5597 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+, and use the
+, call
+, call !DETERMINER
+, do it
+, run a
+.  laugh!
+.  see below
+. !GET a hold of
+. abandon
+. abdicate
+. abolish
+. absorb
+. abstract out
+. accede
+. accelerate
+. acclimate
+. accommodate
+. account for
+. accrue
+. acknowledge
+. acquire
+. acquit
+. act
+. activate
+. adapt
+. address
+. adhere
+. adjourn
+. adjust
+. administer
+. admit
+. admonish
+. adopt
+. advance
+. advertise
+. advise
+. advocate
+. afflict
+. agitate
+. agree
+. aid
+. air
+. airlift
+. alert
+. align
+. allude
+. alter
+. alternate
+. amass
+. amble
+. ambulate
+. ambush
+. analogize
+. analyze
+. anchor
+. and use the
+. annex
+. annihilate
+. annotate
+. announce
+. answer
+. apologize
+. appeal
+. appease
+. append
+. applaud
+. apply
+. appoint
+. appraise
+. approach
+. appropriate
+. approve
+. approximate
+. arbitrate
+. archive
+. argue
+. arouse
+. arraign
+. arrange
+. arrest
+. arrive
+. articulate
+. ascribe
+. ask
+. ask at
+. aspire
+. assault
+. assemble
+. assert
+. assign
+. associate
+. assuage
+. assume
+. assure
+. attack
+. attempt
+. attend
+. attest
+. attract
+. audit
+. augment
+. authenticate
+. author
+. authorize
+. automate
+. avail
+. avast
+. avaunt
+. avenge
+. average
+. avert
+. avoid
+. await
+. award
+. babble
+. babysit
+. backdate
+. backlog
+. backorder
+. backpack
+. bait
+. balance
+. bale
+. ballyhoo
+. bamboozle
+. bang
+. bargain
+. barge
+. bark
+. barnstorm
+. bat
+. bathe
+. batter
+. bawl
+. be a part of
+. be brief
+. be happy
+. be on your way
+. beach
+. beam
+. bear
+. bear east
+. bear left
+. bear north
+. bear right
+. bear south
+. bear west
+. beat
+. beat it
+. become
+. bed
+. bedazzle
+. bedevil
+. befit
+. befoul
+. beg
+. begin by
+. beguile
+. behave
+. behold
+. behold the
+. belabor
+. belay
+. belt
+. bench
+. bent
+. benumb
+. bequeath
+. better move
+. bewitch
+. bicker
+. bid
+. bide
+. bilk
+. bite
+. blame
+. blast
+. blather
+. blink
+. block
+. blockade
+. blow
+. bludgeon
+. bluff
+. boast
+. bolt
+. boom
+. boost
+. boot
+. bounce
+. bow
+. braid
+. brainwash
+. brake
+. branch
+. brandish
+. break
+. breathe
+. bridge
+. bridle
+. brief
+. bring
+. bristle
+. broach
+. broadcast
+. broker
+. browbeat
+. browse
+. bruise
+. brush
+. brutalize
+. buck
+. buck up to
+. buckle
+. buckle on
+. buckle on your
+. buckle up
+. budge
+. budget
+. buff
+. buffer
+. buffet
+. bug
+. build
+. built
+. bull
+. bulldoze
+. bully
+. bump
+. buoy
+. burgeon
+. burn
+. burst
+. bury
+. bust
+. bustle
+. busy
+. butcher
+. butter
+. buttress
+. buy
+. cable
+. cache
+. cajole
+. calculate
+. calculate your position
+. calibrate
+. call
+. call forth for
+. call out for
+. calm
+. camfer
+. camouflage
+. campaign
+. cancel
+. cancell
+. cane
+. canker
+. cannibalize
+. cannonade
+. canter
+. canvass
+. caper
+. capitalize
+. capitulate
+. caption
+. capture
+. carbonate
+. card
+. careen
+. caress
+. caricature
+. carom
+. carouse
+. carry
+. cart
+. carve
+. cascade
+. cash
+. cast your ballet
+. castrate
+. catalog
+. catalogue
+. catalyze
+. catch
+. catechize
+. categorize
+. caulk
+. cause
+. cauterize
+. caution
+. cavill
+. cavort
+. cede
+. center
+. centralize
+. chafe
+. chain
+. challenge
+. change
+. channel
+. chant
+. chaperon
+. charge
+. chart
+. charter
+. chase
+. chastise
+. chat
+. chatter
+. cheapen
+. cheat
+. check
+. cheep
+. cheer
+. chew
+. chime
+. chin
+. chisel
+. chitter
+. chivvy
+. chivy
+. chomp
+. choose
+. chop
+. choreograph
+. christen
+. christianize
+. chronicle
+. chuck
+. chug
+. churn
+. cipher
+. circle
+. circuit
+. circulate
+. circumambulate
+. cite
+. civilize
+. clabber
+. clack
+. clad
+. clamp
+. clang
+. clarify
+. clash
+. clasp
+. classify
+. claw
+. cleanse
+. clench
+. clerk
+. climax
+. climb
+. clinch
+. cling
+. clink
+. clip
+. cloak
+. clobber
+. clock
+. cloister
+. clone
+. clop
+. close
+. close your eyes
+. closet
+. clot
+. clown
+. clue
+. clung
+. cluster
+. clutch
+. coach
+. coagulate
+. coalesce
+. coast
+. coax
+. cock
+. coddle
+. code
+. codify
+. coerce
+. coexist
+. cognize
+. cohabit
+. cohere
+. coin
+. collaborate
+. collapse
+. collar
+. collate
+. collect
+. collide
+. collocate
+. collude
+. colonize
+. color
+. combat
+. combine
+. come
+. come along
+. come and
+. come and visit
+. Come at once
+. come off your
+. come out of your
+. come play with
+. command
+. commandeer
+. commence
+. comment
+. commericalize
+. commiserate
+. commission
+. commit
+. communicate
+. compact
+. compel
+. compensate
+. compete
+. compile
+. complain
+. complete
+. complete the following steps
+. comply
+. comport
+. comprise
+. compromise
+. compute
+. computerize
+. conceal
+. conceptualize
+. concern
+. concide
+. conciliate
+. conclude
+. concoct
+. conduct
+. confer
+. conference
+. confers
+. confess
+. confide
+. confiscate
+. confound
+. confront
+. congeal
+. congest
+. conglomerate
+. congregate
+. conjoin
+. conjure
+. connect
+. connote
+. conquer
+. conscript
+. consecrate
+. consent
+. conserve
+. consider this as
+. consider this to be
+. consol
+. console
+. consolidate
+. consort
+. conspire
+. constrict
+. construct
+. construe
+. consult
+. consume
+. consummate
+. contact
+. contain
+. contend
+. contest
+. continue
+. contort
+. contract
+. contrast
+. contravene
+. contribute
+. contrive
+. control
+. convene
+. converge
+. converse
+. convey
+. convict
+. convince
+. convulse
+. cook
+. cool
+. coordinate
+. copulate
+. copy
+. copyedit
+. copyright
+. cord
+. cordon
+. cork
+. corkscrew
+. cornice
+. corral
+. correct
+. correspond
+. corroborate
+. cosset
+. cough
+. counsel
+. countenance
+. counterbalance
+. couple
+. cover
+. cozy
+. crab
+. cradle
+. craft
+. cram
+. cramp
+. crash
+. crawl
+. crease
+. create
+. creep
+. cremate
+. crept
+. crew
+. crinkle
+. criss-cross
+. crisscross
+. criticize
+. critique
+. croak
+. crochet
+. crook
+. crop
+. croquet
+. cross
+. cross the street
+. crossbreed
+. crossexamine
+. crotch
+. crouch
+. crown
+. crucify
+. cruise
+. crumble
+. crumple
+. crusade
+. crush
+. cry
+. crystallize
+. cube
+. cuddle
+. cue
+. cuff
+. cull
+. culminate
+. cultivate
+. cumulate
+. curb
+. curl
+. curs
+. curse
+. curtail
+. cushion
+. cut
+. cut it out
+. cut that out
+. cut to the chase
+. cycle
+. dally
+. damascene
+. damm
+. dampen
+. dance
+. dangle
+. darken
+. darn
+. dart
+. dash
+. daub
+. dawdle
+. dazzle
+. deactivate
+. deal
+. debate
+. debrief
+. debug
+. debut
+. deceive
+. decipher
+. declare
+. declassify
+. decline
+. decode
+. decommission
+. decompose
+. decorate
+. decrease
+. decriminalize
+. deduct
+. deed
+. default
+. defeat
+. defecate
+. defect
+. defend
+. defer
+. define
+. deflate
+. deflect
+. deform
+. defray
+. defuse
+. defy
+. delete
+. delineate
+. deliver
+. deluge
+. delve
+. demand
+. demarcate
+. demilitarize
+. demobilize
+. demolish
+. demote
+. denominate
+. denote
+. denounce
+. deny
+. depart
+. depict
+. deplete
+. depose
+. deposit
+. depress
+. deprive
+. derail
+. deregulate
+. derive
+. descend
+. describe
+. design
+. designate
+. desire
+. desist
+. destroy
+. detail
+. detect
+. deter
+. determine
+. detonate
+. detour
+. devise
+. devour
+. dial
+. dicker
+. dictate
+. die
+. differentiate
+. diffuse
+. dig
+. digest
+. digitize
+. dilly-dally
+. diminish
+. dine
+. direct
+. disappear
+. disarm
+. discard
+. discipline
+. disclaim
+. disclose
+. discontinue
+. discover
+. discriminate
+. discuss
+. disembowel
+. disinter
+. dismantle
+. dismiss
+. dismount
+. dispatch
+. dispense
+. display
+. dispossess
+. disseminate
+. dissent
+. dissolve
+. dissuade
+. distribute
+. disturb
+. dive
+. divert
+. divest
+. divide
+. divvy
+. do abandon
+. do abdicate
+. do abolish
+. do absorb
+. do abstract
+. do accede
+. do accelerate
+. do acclimate
+. do accommodate
+. do account
+. do accrue
+. do achieve
+. do acknowledge
+. do acquire
+. do acquit
+. do act
+. do activate
+. do adapt
+. do add
+. do address
+. do adhere
+. do adjourn
+. do adjust
+. do administer
+. do admit
+. do admonish
+. do adopt
+. do advance
+. do advertise
+. do advise
+. do advocate
+. do afflict
+. do agitate
+. do agree
+. do aid
+. do air
+. do airlift
+. do alert
+. do align
+. do allude
+. do alter
+. do alternate
+. do amass
+. do amble
+. do ambulate
+. do ambush
+. do analogize
+. do analyze
+. do anchor
+. do annex
+. do annihilate
+. do annotate
+. do announce
+. do answer
+. do apologize
+. do appeal
+. do appear
+. do appease
+. do append
+. do applaud
+. do apply
+. do appoint
+. do appraise
+. do approach
+. do appropriate
+. do approve
+. do approximate
+. do arbitrate
+. do archive
+. do argue
+. do arouse
+. do arraign
+. do arrange
+. do arrest
+. do arrive
+. do articulate
+. do ascribe
+. do ask
+. do aspire
+. do assault
+. do assemble
+. do assert
+. do assign
+. do associate
+. do assuage
+. do assume
+. do assure
+. do attack
+. do attempt
+. do attend
+. do attest
+. do attract
+. do audit
+. do augment
+. do authenticate
+. do author
+. do authorize
+. do automate
+. do avail
+. do avenge
+. do average
+. do avert
+. do avoid
+. do await
+. do award
+. do babble
+. do babysit
+. do backdate
+. do backlog
+. do backorder
+. do backpack
+. do bait
+. do balance
+. do bale
+. do ballyhoo
+. do bamboozle
+. do bang
+. do bargain
+. do barge
+. do bark
+. do barnstorm
+. do bat
+. do bathe
+. do batter
+. do bawl
+. do beach
+. do beam
+. do bear
+. do beat
+. do become
+. do bed
+. do bedazzle
+. do bedevil
+. do befit
+. do befoul
+. do beg
+. do beguile
+. do behave
+. do behold
+. do belabor
+. do belay
+. do belt
+. do bench
+. do bend
+. do bent
+. do benumb
+. do bequeath
+. do berate
+. do beset
+. do bewitch
+. do bicker
+. do bid
+. do bide
+. do bilk
+. do bite
+. do blame
+. do blast
+. do blather
+. do blink
+. do block
+. do blockade
+. do blow
+. do bludgeon
+. do bluff
+. do boast
+. do bolt
+. do boom
+. do boost
+. do boot
+. do bounce
+. do bow
+. do braid
+. do brainwash
+. do brake
+. do branch
+. do brandish
+. do break
+. do breathe
+. do bridge
+. do bridle
+. do brief
+. do bring
+. do bristle
+. do broach
+. do broadcast
+. do broker
+. do browbeat
+. do browse
+. do bruise
+. do brush
+. do brutalize
+. do buck
+. do buckle
+. do budge
+. do budget
+. do buff
+. do buffer
+. do buffet
+. do bug
+. do build
+. do built
+. do bull
+. do bulldoze
+. do bully
+. do bump
+. do buoy
+. do burgeon
+. do burn
+. do burst
+. do bury
+. do bust
+. do bustle
+. do busy
+. do butcher
+. do butter
+. do buttress
+. do buy
+. do cable
+. do cache
+. do cajole
+. do calculate
+. do calibrate
+. do call
+. do calm
+. do camfer
+. do camouflage
+. do campaign
+. do cancel
+. do cancell
+. do cane
+. do canker
+. do cannibalize
+. do cannonade
+. do canter
+. do canvass
+. do caper
+. do capitalize
+. do capitulate
+. do caption
+. do capture
+. do carbonate
+. do card
+. do careen
+. do caress
+. do caricature
+. do carom
+. do carouse
+. do carry
+. do cart
+. do carve
+. do cascade
+. do cash
+. do castrate
+. do catalog
+. do catalogue
+. do catalyze
+. do catch
+. do catechize
+. do categorize
+. do caulk
+. do cause
+. do cauterize
+. do caution
+. do cavill
+. do cavort
+. do cede
+. do center
+. do centralize
+. do chafe
+. do chain
+. do challenge
+. do change
+. do channel
+. do chant
+. do chaperon
+. do charge
+. do chart
+. do charter
+. do chase
+. do chastise
+. do chat
+. do chatter
+. do cheapen
+. do cheat
+. do check
+. do cheep
+. do cheer
+. do chew
+. do chime
+. do chin
+. do chisel
+. do chitter
+. do chivvy
+. do chivy
+. do chomp
+. do choose
+. do chop
+. do choreograph
+. do christen
+. do christianize
+. do chronicle
+. do chuck
+. do chug
+. do churn
+. do cipher
+. do circle
+. do circuit
+. do circulate
+. do circumambulate
+. do cite
+. do civilize
+. do clabber
+. do clack
+. do clad
+. do clamp
+. do clang
+. do clarify
+. do clash
+. do clasp
+. do classify
+. do claw
+. do cleanse
+. do clench
+. do clerk
+. do click
+. do climax
+. do climb
+. do clinch
+. do cling
+. do clink
+. do clip
+. do cloak
+. do clobber
+. do clock
+. do cloister
+. do clone
+. do clop
+. do close
+. do closet
+. do clot
+. do clown
+. do clue
+. do clung
+. do cluster
+. do clutch
+. do coach
+. do coagulate
+. do coalesce
+. do coast
+. do coax
+. do cock
+. do coddle
+. do code
+. do codify
+. do coerce
+. do coexist
+. do cognize
+. do cohabit
+. do cohere
+. do coin
+. do collaborate
+. do collapse
+. do collar
+. do collate
+. do collect
+. do collide
+. do collocate
+. do collude
+. do colonize
+. do color
+. do combat
+. do combine
+. do come
+. do command
+. do commandeer
+. do commence
+. do comment
+. do commericalize
+. do commiserate
+. do commission
+. do commit
+. do communicate
+. do compact
+. do compel
+. do compensate
+. do compete
+. do compile
+. do complain
+. do complete
+. do comply
+. do comport
+. do comprise
+. do compromise
+. do compute
+. do computerize
+. do conceal
+. do conceptualize
+. do concern
+. do concide
+. do conciliate
+. do conclude
+. do concoct
+. do conduct
+. do confer
+. do conference
+. do confers
+. do confess
+. do confide
+. do confiscate
+. do confound
+. do confront
+. do congeal
+. do congest
+. do conglomerate
+. do congregate
+. do conjoin
+. do conjure
+. do connect
+. do connote
+. do conquer
+. do conscript
+. do consecrate
+. do consent
+. do conserve
+. do consider
+. do consol
+. do console
+. do consolidate
+. do consort
+. do conspire
+. do constrict
+. do construct
+. do construe
+. do consult
+. do consume
+. do consummate
+. do contact
+. do contain
+. do contend
+. do contest
+. do continue
+. do contort
+. do contract
+. do contrast
+. do contravene
+. do contribute
+. do contrive
+. do control
+. do convene
+. do converge
+. do converse
+. do convey
+. do convict
+. do convince
+. do convulse
+. do cook
+. do cool
+. do coordinate
+. do copulate
+. do copy
+. do copyedit
+. do copyright
+. do cord
+. do cordon
+. do cork
+. do corkscrew
+. do cornice
+. do corral
+. do correct
+. do correspond
+. do corroborate
+. do cosset
+. do cough
+. do counsel
+. do countenance
+. do counterbalance
+. do couple
+. do cover
+. do cozy
+. do crab
+. do cradle
+. do craft
+. do cram
+. do cramp
+. do crash
+. do crawl
+. do crease
+. do create
+. do creep
+. do cremate
+. do crept
+. do crew
+. do crinkle
+. do criss-cross
+. do crisscross
+. do criticize
+. do critique
+. do croak
+. do crochet
+. do crook
+. do crop
+. do croquet
+. do cross
+. do crossbreed
+. do crossexamine
+. do crotch
+. do crouch
+. do crown
+. do crucify
+. do cruise
+. do crumble
+. do crumple
+. do crusade
+. do crush
+. do cry
+. do crystallize
+. do cube
+. do cuddle
+. do cue
+. do cuff
+. do cull
+. do culminate
+. do cultivate
+. do cumulate
+. do curb
+. do curl
+. do curs
+. do curse
+. do curtail
+. do cushion
+. do cut
+. do cycle
+. do dally
+. do damascene
+. do damm
+. do dampen
+. do dance
+. do dangle
+. do darken
+. do darn
+. do dart
+. do dash
+. do daub
+. do dawdle
+. do dazzle
+. do deactivate
+. do deal
+. do debate
+. do debrief
+. do debug
+. do debut
+. do deceive
+. do decipher
+. do declare
+. do declassify
+. do decline
+. do decode
+. do decommission
+. do decompose
+. do decorate
+. do decrease
+. do decriminalize
+. do deduct
+. do deed
+. do default
+. do defeat
+. do defecate
+. do defect
+. do defend
+. do defer
+. do define
+. do deflate
+. do deflect
+. do deform
+. do defray
+. do defuse
+. do defy
+. do delete
+. do delineate
+. do deliver
+. do deluge
+. do delve
+. do demand
+. do demarcate
+. do demilitarize
+. do demobilize
+. do demolish
+. do demote
+. do denominate
+. do denote
+. do denounce
+. do deny
+. do depart
+. do depict
+. do deplete
+. do depose
+. do deposit
+. do depress
+. do deprive
+. do derail
+. do deregulate
+. do derive
+. do descend
+. do describe
+. do design
+. do designate
+. do desire
+. do desist
+. do destroy
+. do detail
+. do detect
+. do deter
+. do determine
+. do detonate
+. do detour
+. do develop
+. do devise
+. do devour
+. do dial
+. do dicker
+. do dictate
+. do die
+. do differentiate
+. do diffuse
+. do dig
+. do digest
+. do digitize
+. do dilly-dally
+. do diminish
+. do dine
+. do dip
+. do direct
+. do disappear
+. do disarm
+. do discard
+. do discipline
+. do disclaim
+. do disclose
+. do discontinue
+. do discover
+. do discriminate
+. do discuss
+. do disembowel
+. do disinter
+. do dismantle
+. do dismiss
+. do dismount
+. do dispatch
+. do dispense
+. do display
+. do dispossess
+. do disseminate
+. do dissent
+. do dissolve
+. do dissuade
+. do distribute
+. do disturb
+. do dive
+. do divert
+. do divest
+. do divide
+. do divvy
+. do do
+. do document
+. do dodder
+. do dodge
+. do doff
+. do dominate
+. do domineer
+. do don
+. do donate
+. do doodle
+. do double
+. do douse
+. do dousing
+. do dove
+. do dovetail
+. do down
+. do downplay
+. do downsize
+. do doze
+. do draft
+. do drag
+. do drain
+. do dramatize
+. do drank
+. do drape
+. do draw
+. do drawl
+. do dredge
+. do drench
+. do drew
+. do dribble
+. do drift
+. do drill
+. do drink
+. do drip
+. do drive
+. do drone
+. do drool
+. do droop
+. do drop
+. do drove
+. do drowse
+. do drub
+. do drug
+. do drum
+. do duck
+. do duel
+. do dull
+. do dump
+. do dun
+. do dunk
+. do duns
+. do dupe
+. do duplicate
+. do dust
+. do dwell
+. do e-mail
+. do eat
+. do edge
+. do edit
+. do effect
+. do ejaculate
+. do eject
+. do elbow
+. do elect
+. do elicit
+. do elide
+. do eliminate
+. do elope
+. do elucidate
+. do embark
+. do embed
+. do embody
+. do embroider
+. do embroil
+. do emerge
+. do emigrate
+. do emit
+. do emphasize
+. do employ
+. do emulate
+. do enable
+. do enact
+. do encircle
+. do encounter
+. do encourage
+. do encroach
+. do encumber
+. do end
+. do endeavor
+. do endure
+. do enforce
+. do engage
+. do engulf
+. do enjoin
+. do enlighten
+. do enlist
+. do ensconce
+. do ensnare
+. do ensue
+. do ensure
+. do entangle
+. do enter
+. do entrap
+. do enumerate
+. do envision
+. do equal
+. do equate
+. do equip
+. do equivocate
+. do eradicate
+. do erase
+. do erect
+. do erode
+. do erupt
+. do escalate
+. do escape
+. do eschew
+. do espouse
+. do establish
+. do estimate
+. do euphemize
+. do evacuate
+. do evaluate
+. do evaporate
+. do evict
+. do eviscerate
+. do evolve
+. do examine
+. do exclude
+. do exculpate
+. do excuse
+. do execute
+. do exemplify
+. do exempt
+. do exert
+. do exhale
+. do exhibit
+. do exile
+. do exist
+. do exonerate
+. do expand
+. do expect
+. do expel
+. do experience
+. do explain
+. do explode
+. do exploit
+. do explore
+. do express
+. do expunge
+. do exterminate
+. do extinguish
+. do extort
+. do extricate
+. do fabricate
+. do face
+. do fail
+. do faint
+. do fall
+. do falter
+. do familiarize
+. do fasten
+. do fax
+. do feed
+. do feint
+. do fell
+. do fetch
+. do fib
+. do fiddle
+. do fidget
+. do fight
+. do film
+. do finance
+. do find
+. do finger-paint
+. do fire
+. do fit
+. do fix
+. do flagellate
+. do flap
+. do flash
+. do flatter
+. do flee
+. do flex
+. do flicker
+. do flinch
+. do fling
+. do flip
+. do flit
+. do flitter
+. do float
+. do flog
+. do flood
+. do flounce
+. do flounder
+. do flourish
+. do flow
+. do flub
+. do flung
+. do flunk
+. do flutter
+. do fly
+. do focus
+. do fold
+. do follow
+. do foment
+. do fondle
+. do forage
+. do force
+. do forecast
+. do foreclose
+. do forewarn
+. do forgive
+. do form
+. do formalize
+. do forsake
+. do fortify
+. do forward
+. do found
+. do frame
+. do franchise
+. do free
+. do frolic
+. do frown
+. do frustrate
+. do fuel
+. do fumble
+. do fume
+. do fund
+. do furlough
+. do furnish
+. do fuss
+. do gab
+. do gain
+. do gait
+. do gallop
+. do galumph
+. do gambol
+. do gape
+. do gash
+. do gasp
+. do gather
+. do gauge
+. do gave
+. do gawk
+. do gaze
+. do generate
+. do germinate
+. do gesture
+. do get
+. do get-up-and-go
+. do gibber
+. do giggle
+. do give
+. do glance
+. do glare
+. do glide
+. do glint
+. do glissade
+. do gloat
+. do globe-trotter
+. do glorify
+. do glower
+. do gnash
+. do gnaw
+. do go
+. do goad
+. do goggle
+. do goose-step
+. do goosestep
+. do gorge
+. do gossip
+. do gouge
+. do govern
+. do grab
+. do grading
+. do graduate
+. do grain
+. do grate
+. do graze
+. do greenmail
+. do greet
+. do grew
+. do grieve
+. do grimace
+. do grin
+. do grind
+. do grip
+. do groan
+. do groom
+. do grow
+. do growl
+. do grumble
+. do grunt
+. do guard
+. do guffaw
+. do gulp
+. do gun
+. do gurgle
+. do gush
+. do gust
+. do guzzle
+. do gyrate
+. do hack
+. do haggle
+. do hale
+. do halt
+. do hammer
+. do handle
+. do hang
+. do happen
+. do harness
+. do harvest
+. do hasten
+. do hatch
+. do hatchet
+. do haul
+. do haunch
+. do heal
+. do hear
+. do heard
+. do heat
+. do heave
+. do hedge
+. do heft
+. do heighten
+. do helm
+. do herald
+. do herd
+. do hibernate
+. do high-ball
+. do highball
+. do highlight
+. do hike
+. do hinge
+. do hint
+. do hiss
+. do hit
+. do hit-and-run
+. do hitchhike
+. do hobble
+. do hoist
+. do hold
+. do holler
+. do honk
+. do hook
+. do hoop
+. do hoot
+. do hop
+. do hope
+. do housebreak
+. do howl
+. do huddle
+. do huff
+. do hug
+. do hum
+. do hunker
+. do hunt
+. do hurdle
+. do hurl
+. do hurry
+. do hurt
+. do hurtle
+. do hurts
+. do hush
+. do hustle
+. do identify
+. do idle
+. do ignite
+. do illustrate
+. do imbed
+. do imbibe
+. do imbue
+. do imitate
+. do immerge
+. do immigrate
+. do immobilize
+. do immortalize
+. do immunize
+. do impact
+. do impale
+. do impart
+. do impede
+. do impel
+. do imperil
+. do impinge
+. do implant
+. do implement
+. do implicate
+. do implode
+. do imply
+. do impound
+. do impregnate
+. do improve
+. do improvise
+. do impugn
+. do impute
+. do inaugurate
+. do inbreed
+. do incandesce
+. do incarnadine
+. do incase
+. do incense
+. do incept
+. do inch
+. do incinerate
+. do incise
+. do incite
+. do incline
+. do include
+. do incommode
+. do incorporate
+. do increase
+. do incriminate
+. do incrust
+. do incubate
+. do inculcate
+. do incur
+. do indicate
+. do indispose
+. do individualize
+. do indoctrinate
+. do indorse
+. do induce
+. do induct
+. do indulge
+. do industrialize
+. do infatuate
+. do infect
+. do infest
+. do infiltrate
+. do inflame
+. do inflate
+. do inflect
+. do inflict
+. do influence
+. do inform
+. do infract
+. do infringe
+. do inhabit
+. do inhale
+. do inherit
+. do inhibit
+. do initiate
+. do inject
+. do ink
+. do innervate
+. do innovate
+. do inoculate
+. do inquire
+. do inscribe
+. do inseminate
+. do insert
+. do insist
+. do insolate
+. do inspire
+. do install
+. do instantiate
+. do instigate
+. do instill
+. do institute
+. do instruct
+. do insulate
+. do insult
+. do insure
+. do insurrect
+. do intend
+. do inter
+. do interact
+. do interbreed
+. do intercalate
+. do intercede
+. do intercept
+. do interconnect
+. do intercourse
+. do intercross
+. do interdict
+. do interest
+. do interested
+. do interface
+. do interfere
+. do interfile
+. do interfuse
+. do interject
+. do interleave
+. do interline
+. do interlink
+. do interlock
+. do interlope
+. do intermarry
+. do intermeddle
+. do intermediate
+. do intermesh
+. do intermit
+. do intermix
+. do internalize
+. do interne
+. do interpenetrate
+. do interplay
+. do interpolate
+. do interpose
+. do interpret
+. do interrelate
+. do interrogate
+. do interrupt
+. do intersect
+. do intersperse
+. do intertwine
+. do intervene
+. do interview
+. do interweave
+. do intimate
+. do intimidate
+. do intonate
+. do intone
+. do intoxicate
+. do intrigue
+. do introduce
+. do introspect
+. do intrude
+. do intuit
+. do intumesce
+. do inundate
+. do inure
+. do inurn
+. do invade
+. do invent
+. do invest
+. do investigate
+. do invite
+. do irritate
+. do issue
+. do it
+. do it posthaste
+. do jab
+. do jabber
+. do jangle
+. do jar
+. do jars
+. do jaunt
+. do jeer
+. do jerk
+. do jettison
+. do jiggle
+. do jingle
+. do jog
+. do join
+. do jolt
+. do jot
+. do jounce
+. do joust
+. do joyride
+. do jump
+. do justify
+. do keel-over
+. do keeled-over
+. do keeling-over
+. do keep
+. do key
+. do kick
+. do kill
+. do kindle
+. do kiss
+. do knead
+. do knee
+. do kneel
+. do knit
+. do knock
+. do knot
+. do know
+. do label
+. do labor
+. do lacerate
+. do lacquer
+. do lag
+. do lament
+. do laminate
+. do lance
+. do lap
+. do laugh
+. do launch
+. do lay
+. do lead
+. do leak
+. do lean
+. do leap
+. do leapt
+. do learn
+. do leave
+. do lecture
+. do lessen
+. do let
+. do leverage
+. do liaison
+. do liberate
+. do lick
+. do lie
+. do lift
+. do lilt
+. do limn
+. do limp
+. do linger
+. do link
+. do liquidate
+. do lisp
+. do listen
+. do lit
+. do litter
+. do live
+. do live-in
+. do load
+. do lob
+. do locate
+. do lock
+. do lodge
+. do loft
+. do log
+. do loiter
+. do loll
+. do look
+. do loom
+. do loop
+. do loot
+. do lop
+. do lope
+. do lose
+. do lost
+. do lounge
+. do low-ball
+. do lowball
+. do luff
+. do lug
+. do lull
+. do lumber
+. do lung
+. do lunge
+. do lurch
+. do lure
+. do lurk
+. do made
+. do mail
+. do maim
+. do maintain
+. do make
+. do malign
+. do manage
+. do mandate
+. do maneuver
+. do mangle
+. do manipulate
+. do manufacture
+. do march
+. do mark
+. do marry
+. do marvel
+. do mash
+. do masquerade
+. do massacre
+. do massage
+. do master
+. do masticate
+. do mat
+. do match
+. do matriculate
+. do maul
+. do meander
+. do measure
+. do meddle
+. do mediate
+. do meet
+. do mention
+. do merchandise
+. do merchandize
+. do merge
+. do mesh
+. do met
+. do mewl
+. do mind
+. do mingle
+. do minimize
+. do minister
+. do misbehave
+. do misfire
+. do misinform
+. do misinterpret
+. do miss
+. do mistake
+. do mistreat
+. do moan
+. do mock
+. do model
+. do moderate
+. do modify
+. do mold
+. do mollify
+. do monitor
+. do monopolize
+. do moonlight
+. do mop
+. do mope
+. do morph
+. do mortgage
+. do mosey
+. do motivate
+. do mount
+. do mourn
+. do move
+. do mow
+. do muffle
+. do mull
+. do mumble
+. do murder
+. do murmur
+. do mutilate
+. do mutter
+. do muzzle
+. do nail
+. do name
+. do nap
+. do narrate
+. do nationalize
+. do navigate
+. do neaten
+. do negotiate
+. do nest
+. do nestle
+. do nibble
+. do nick
+. do nod
+. do nosh
+. do not
+. do not even
+. do not hurt
+. do not kill
+. do note
+. do notice
+. do notify
+. do numb
+. do nuzzle
+. do obligate
+. do oblige
+. do obliterate
+. do obscure
+. do obtain
+. do occur
+. do offer
+. do officiate
+. do offset
+. do ooze
+. do open
+. do operate
+. do oppose
+. do opt
+. do option
+. do order
+. do organize
+. do output
+. do overcome
+. do overexert
+. do overhear
+. do override
+. do oversee
+. do overshadow
+. do overstate
+. do overtake
+. do overthrow
+. do overturn
+. do overwhelm
+. do own
+. do pace
+. do package
+. do pad
+. do paddle
+. do page
+. do paint
+. do pale
+. do palisade
+. do palliate
+. do palm
+. do palpitate
+. do pamper
+. do pan
+. do panhandle
+. do pant
+. do par
+. do parachute
+. do parade
+. do paragraph
+. do parallel
+. do parcel
+. do pare
+. do parlay
+. do parley
+. do parody
+. do parole
+. do parrot
+. do parry
+. do parse
+. do part
+. do partake
+. do participate
+. do partition
+. do partner
+. do partook
+. do party
+. do pass
+. do paste
+. do pasteurize
+. do pat
+. do patch
+. do patrol
+. do patronize
+. do patter
+. do pattern
+. do pause
+. do pave
+. do paw
+. do pawn
+. do pay
+. do peal
+. do peck
+. do peddle
+. do pee
+. do peek
+. do peel
+. do peen
+. do peep
+. do peer
+. do peg
+. do pen
+. do penetrate
+. do percolate
+. do perforate
+. do perform
+. do perjure
+. do permit
+. do perpetuate
+. do persecute
+. do personalize
+. do perspire
+. do persuade
+. do peruse
+. do pet
+. do petition
+. do philander
+. do philosophize
+. do phone
+. do photograph
+. do phrase
+. do pick
+. do picket
+. do picture
+. do pierce
+. do pin
+. do pinch
+. do ping
+. do pink
+. do pioneer
+. do pip
+. do pipe
+. do pirate
+. do pirouette
+. do piss
+. do pitch
+. do pivot
+. do placard
+. do place
+. do plan
+. do plant
+. do play
+. do play-act
+. do playact
+. do plead
+. do plod
+. do plop
+. do plow
+. do pluck
+. do plug
+. do plumb
+. do plunder
+. do plunge
+. do ply
+. do pod
+. do point
+. do poke
+. do polarize
+. do polish
+. do politicize
+. do poll
+. do pollinate
+. do pollute
+. do pontificate
+. do poop
+. do popularize
+. do pore
+. do port
+. do portion
+. do pose
+. do posit
+. do position
+. do possess
+. do postdate
+. do postmark
+. do pot
+. do pounce
+. do pound
+. do pout
+. do prance
+. do prattle
+. do pray
+. do preach
+. do precipitate
+. do predominate
+. do preempt
+. do preen
+. do prepare
+. do prepared
+. do prepay
+. do present
+. do preserve
+. do preside
+. do press
+. do pressure
+. do pressurize
+. do prevail
+. do prevent
+. do price
+. do primp
+. do print
+. do prioritize
+. do privatize
+. do proceed
+. do process
+. do proclaim
+. do procreate
+. do procure
+. do prod
+. do produce
+. do profane
+. do professionalize
+. do proffer
+. do profile
+. do profit
+. do program
+. do progress
+. do prohibit
+. do project
+. do prom
+. do promenade
+. do promote
+. do promulgate
+. do pronounce
+. do prop
+. do propagandize
+. do propel
+. do propeller
+. do propose
+. do propound
+. do prosecute
+. do proselytize
+. do prospect
+. do prosper
+. do prostitute
+. do protest
+. do protrude
+. do prove
+. do provide
+. do provoke
+. do prowl
+. do prune
+. do publicize
+. do publish
+. do pucker
+. do puff
+. do pull
+. do pullulate
+. do pulsate
+. do pulverize
+. do pummel
+. do pump
+. do punch
+. do punish
+. do purchase
+. do purge
+. do purl
+. do purloin
+. do pursue
+. do purvey
+. do push
+. do put
+. do putter
+. do quaff
+. do quake
+. do quarantine
+. do quarrel
+. do quaver
+. do question
+. do quibble
+. do quiver
+. do quote
+. do race
+. do rack
+. do radicalize
+. do raise
+. do rally
+. do ran
+. do range
+. do rankle
+. do ransack
+. do rant
+. do rap
+. do rape
+. do rappel
+. do rasp
+. do ration
+. do rattle
+. do ravage
+. do rave
+. do raze
+. do reach
+. do react
+. do reactivate
+. do read
+. do readjust
+. do realize
+. do reap
+. do reapply
+. do rear
+. do rearrange
+. do reassign
+. do reawaken
+. do rebound
+. do rebuild
+. do rebuke
+. do recalculate
+. do recant
+. do recap
+. do recapitulate
+. do recede
+. do receive
+. do recess
+. do recheck
+. do reciprocate
+. do reclaim
+. do recognize
+. do recoil
+. do recommend
+. do reconcile
+. do reconfigure
+. do reconsider
+. do reconstitute
+. do record
+. do recover
+. do recruit
+. do recur
+. do recycle
+. do redress
+. do reduce
+. do reel
+. do reelect
+. do reemerge
+. do reenact
+. do reenter
+. do reestablish
+. do refashion
+. do refect
+. do refer
+. do referee
+. do reference
+. do refill
+. do refinance
+. do refine
+. do refinish
+. do refit
+. do reflect
+. do refocus
+. do refold
+. do reforest
+. do reform
+. do refract
+. do refresh
+. do refrigerate
+. do refuel
+. do refund
+. do refurbish
+. do refute
+. do regain
+. do regard
+. do regenerate
+. do register
+. do regroup
+. do regulate
+. do rehabilitate
+. do rehire
+. do reign
+. do reimburse
+. do reincarnate
+. do reinforce
+. do reinstate
+. do reinstitute
+. do reinterpret
+. do reintroduce
+. do reinvent
+. do reinvest
+. do reiterate
+. do rekindle
+. do relate
+. do relax
+. do relay
+. do release
+. do relent
+. do relieve
+. do reload
+. do relocate
+. do rely
+. do remain
+. do remark
+. do remarry
+. do remember
+. do remit
+. do remodel
+. do remount
+. do remove
+. do rename
+. do rendezvous
+. do renegotiate
+. do renounce
+. do rent
+. do reopen
+. do reorganize
+. do repair
+. do repay
+. do repeal
+. do repent
+. do replace
+. do replant
+. do replay
+. do replicate
+. do reply
+. do report
+. do reposition
+. do represent
+. do reprieve
+. do reprimand
+. do reprint
+. do reprise
+. do reproduce
+. do repudiate
+. do request
+. do require
+. do requit
+. do rescind
+. do research
+. do resell
+. do resettle
+. do reshape
+. do reshuffle
+. do reside
+. do resign
+. do resist
+. do resolve
+. do resonate
+. do resort
+. do respect
+. do respond
+. do rest
+. do restate
+. do restrain
+. do restrict
+. do restructure
+. do result
+. do resupply
+. do resurrect
+. do retain
+. do retard
+. do retch
+. do rethink
+. do retire
+. do retouch
+. do retrace
+. do retract
+. do retrench
+. do retrieve
+. do retrofit
+. do retry
+. do return
+. do reunite
+. do reveal
+. do revel
+. do reverberate
+. do reverse
+. do revert
+. do review
+. do revise
+. do revolt
+. do revolutionize
+. do revolve
+. do rewind
+. do rewrite
+. do ricochet
+. do ride
+. do riffle
+. do rifle
+. do rinse
+. do rip
+. do rise
+. do rival
+. do roam
+. do roar
+. do roast
+. do rob
+. do robs
+. do rock
+. do rode
+. do roll
+. do rollick
+. do romance
+. do romp
+. do roost
+. do rope
+. do rotate
+. do rouse
+. do route
+. do rove
+. do rub
+. do ruffle
+. do rule
+. do rummage
+. do rumple
+. do run
+. do rupture
+. do rush
+. do rustle
+. do sabotage
+. do safeguard
+. do sag
+. do said
+. do sail
+. do salt
+. do salvage
+. do sample
+. do sandblast
+. do sanitize
+. do sap
+. do satirize
+. do saunter
+. do savage
+. do save
+. do savor
+. do say
+. do scale
+. do scalp
+. do scamp
+. do scamper
+. do scan
+. do scatter
+. do scavenge
+. do schedule
+. do schmoose
+. do schmooze
+. do scoff
+. do scoot
+. do scorch
+. do score
+. do scotch
+. do scour
+. do scouring
+. do scours
+. do scout
+. do scrabble
+. do scram
+. do scramble
+. do scrap
+. do scrape
+. do scratch
+. do scrawl
+. do scream
+. do screech
+. do screen
+. do screw
+. do scribble
+. do scribe
+. do scrimmage
+. do scrimp
+. do scrimshaw
+. do script
+. do scrounge
+. do scrub
+. do scrunch
+. do scrutinize
+. do scuffle
+. do scurry
+. do scuttle
+. do seal
+. do sear
+. do search
+. do secede
+. do second
+. do secrete
+. do secularize
+. do secure
+. do sedate
+. do seduce
+. do see
+. do see-saw
+. do seed
+. do seem
+. do seen
+. do seep
+. do seesaw
+. do seethe
+. do segment
+. do segregate
+. do seize
+. do select
+. do sell
+. do send
+. do sensitize
+. do sent
+. do sentence
+. do sentimentalize
+. do separate
+. do sequence
+. do sequester
+. do sermonize
+. do serve
+. do service
+. do set
+. do settle
+. do sever
+. do severe
+. do sew
+. do shackle
+. do shade
+. do shadow
+. do shag
+. do shake
+. do shalack
+. do shamble
+. do shampoo
+. do shape
+. do share
+. do sharecrop
+. do sharpen
+. do shave
+. do shear
+. do sheath
+. do sheave
+. do shelace
+. do shell
+. do shellac
+. do shelter
+. do shelve
+. do shepherd
+. do shield
+. do shift
+. do shimmer
+. do shimmy
+. do shine
+. do ship
+. do shiver
+. do shock
+. do shook
+. do shoot
+. do shop
+. do shot
+. do shoulder
+. do shout
+. do shove
+. do show
+. do shower
+. do shred
+. do shriek
+. do shrink
+. do shrivel
+. do shrunk
+. do shudder
+. do shuffle
+. do sidle
+. do sift
+. do sigh
+. do sight
+. do sight-see
+. do sign
+. do signal
+. do signify
+. do silt
+. do simmer
+. do simper
+. do simplify
+. do simulate
+. do sin
+. do sinew
+. do sing
+. do sink
+. do sip
+. do siphon
+. do sit
+. do situate
+. do sizzle
+. do skate
+. do skedaddle
+. do sketch
+. do skew
+. do skin
+. do skip
+. do skitter
+. do skulk
+. do slake
+. do slam
+. do slant
+. do slap
+. do slash
+. do slaughter
+. do slave
+. do slay
+. do sleep
+. do slept
+. do sleuth
+. do slice
+. do slick
+. do slide
+. do slides
+. do sling
+. do slink
+. do slip
+. do slit
+. do slither
+. do slits
+. do slobber
+. do slog
+. do slosh
+. do slouch
+. do sluice
+. do slum
+. do slumber
+. do slump
+. do slung
+. do slunk
+. do slur
+. do slurp
+. do smack
+. do smash
+. do smear
+. do smell
+. do smelt
+. do smite
+. do smoke
+. do smolder
+. do smooth
+. do smother
+. do smuggle
+. do snag
+. do snake
+. do snap
+. do snare
+. do snarl
+. do sneak
+. do snooze
+. do snore
+. do snort
+. do snuff
+. do snuggle
+. do soak
+. do soar
+. do sob
+. do sod
+. do sodomize
+. do sold
+. do solder
+. do solemnize
+. do solicit
+. do solider
+. do solidify
+. do soliloquize
+. do solo
+. do solve
+. do sooth
+. do soothe
+. do sort
+. do sought
+. do sour
+. do spark
+. do sparkle
+. do spat
+. do spatter
+. do spawn
+. do spay
+. do speak
+. do specialize
+. do specify
+. do speed
+. do spell
+. do spend
+. do spent
+. do spew
+. do spike
+. do spill
+. do spin
+. do spit
+. do spits
+. do splash
+. do splice
+. do splinter
+. do split
+. do splurge
+. do splutter
+. do spoke
+. do sponsor
+. do spoof
+. do spoor
+. do sport
+. do spotlight
+. do spout
+. do sprain
+. do sprang
+. do spray
+. do spread
+. do sprig
+. do spring
+. do sprint
+. do sprout
+. do sprung
+. do spun
+. do spur
+. do spurt
+. do sputter
+. do spy
+. do squabble
+. do squall
+. do squander
+. do square
+. do squash
+. do squat
+. do squeak
+. do squeal
+. do squeeze
+. do squint
+. do squirm
+. do squirrel
+. do squirt
+. do squish
+. do stab
+. do stabilize
+. do stack
+. do stag
+. do stage
+. do stagger
+. do stagnate
+. do stake
+. do stalk
+. do stall
+. do stammer
+. do stamp
+. do stampede
+. do stanch
+. do standardize
+. do staple
+. do star
+. do stare
+. do start
+. do startle
+. do stash
+. do state
+. do station
+. do staunch
+. do stave
+. do stay
+. do steady
+. do steal
+. do steal-away
+. do steam-roll
+. do steamroll
+. do steamroller
+. do steel
+. do steep
+. do steer
+. do stem
+. do stencil
+. do step
+. do stereotype
+. do stew
+. do stick
+. do stilt
+. do stimulate
+. do sting
+. do stint
+. do stipulate
+. do stir
+. do stitch
+. do stockpile
+. do stoke
+. do stole
+. do stole-away
+. do stomp
+. do stonewall
+. do stoop
+. do stop
+. do store
+. do storm
+. do straggle
+. do straggling
+. do strain
+. do strangle
+. do strategize
+. do stray
+. do stress
+. do stretch
+. do stride
+. do strike
+. do string
+. do strip
+. do strive
+. do strode
+. do stroke
+. do stroll
+. do strove
+. do struck
+. do structure
+. do struggle
+. do strut
+. do stuck
+. do study
+. do stumble
+. do stun
+. do stupefy
+. do stutter
+. do stylize
+. do sub
+. do subcontract
+. do subdivide
+. do subdue
+. do subject
+. do submerse
+. do submit
+. do subpoena
+. do subscribe
+. do subside
+. do subsidize
+. do subsist
+. do subtitle
+. do subvene
+. do subvert
+. do succeed
+. do succor
+. do suck
+. do suction
+. do sue
+. do suffer
+. do suggest
+. do sulk
+. do summarize
+. do sung
+. do supervise
+. do support
+. do surface
+. do surge
+. do surpass
+. do surrender
+. do survey
+. do survive
+. do sustain
+. do swaddle
+. do swagger
+. do swallow
+. do swarm
+. do swath
+. do swathe
+. do sway
+. do swear
+. do sweat
+. do sweep
+. do swell
+. do swells
+. do swerve
+. do swig
+. do swill
+. do swim
+. do swindle
+. do swing
+. do swipe
+. do swirl
+. do swish
+. do swivel
+. do swoon
+. do swore
+. do symbolize
+. do synchronize
+. do systematize
+. do tabulate
+. do tack
+. do tackle
+. do tag
+. do tail
+. do take
+. do take-off
+. do take-over
+. do talk
+. do tame
+. do tamp
+. do tamper
+. do tan
+. do tap
+. do taper
+. do target
+. do tarry
+. do taste
+. do taught
+. do taunt
+. do tax
+. do taxi
+. do teach
+. do tear
+. do tease
+. do teeter
+. do telecast
+. do telegraph
+. do telephone
+. do teletype
+. do televise
+. do tell
+. do temper
+. do tend
+. do tender
+. do tense
+. do tent
+. do tenure
+. do terminate
+. do terrorize
+. do testify
+. do tether
+. do thaw
+. do the following steps
+. do think
+. do thirst
+. do thrash
+. do threaten
+. do thresh
+. do threw
+. do throb
+. do throw
+. do thrum
+. do thrust
+. do thump
+. do thunder
+. do thwack
+. do ticket
+. do tie
+. do tighten
+. do till
+. do tilt
+. do timber
+. do tinge
+. do tinker
+. do tip
+. do tip-to
+. do tip-toe
+. do tithe
+. do title
+. do toddle
+. do toilet-train
+. do told
+. do tolerate
+. do toll
+. do tone
+. do toodle
+. do top
+. do topple
+. do torch
+. do toss
+. do totter
+. do touch
+. do tow
+. do trace
+. do track
+. do trade
+. do traduce
+. do traffic
+. do trail
+. do train
+. do traipse
+. do trammel
+. do tramp
+. do trample
+. do tranquilize
+. do transact
+. do transcend
+. do transcribe
+. do transform
+. do translate
+. do transmit
+. do transpire
+. do trash
+. do travel
+. do trawl
+. do tread
+. do treat
+. do tremble
+. do trespass
+. do tri
+. do trick
+. do trim
+. do trip
+. do trod
+. do troop
+. do trot
+. do trudge
+. do trundle
+. do try
+. do tube
+. do tug
+. do tunnel
+. do turn
+. do tussle
+. do tutor
+. do twiddle
+. do twirl
+. do twist
+. do twists
+. do twitch
+. do tyrannize
+. do underlie
+. do understand
+. do understate
+. do undertake
+. do undertaken
+. do undo
+. do undone
+. do unfasten
+. do unfetter
+. do unfold
+. do unhinge
+. do unruly
+. do unseat
+. do unveil
+. do update
+. do upon
+. do urge
+. do use
+. do usurp
+. do utilize
+. do utter
+. do vacate
+. do vacation
+. do vaccinate
+. do vacuum
+. do value
+. do vanish
+. do vary
+. do vault
+. do veil
+. do ventilate
+. do venture
+. do vest
+. do veto
+. do vi
+. do vibrate
+. do videotape
+. do vie
+. do view
+. do vilify
+. do violate
+. do visit
+. do visualize
+. do vocalize
+. do voice
+. do vote
+. do vow
+. do waddle
+. do wade
+. do waffle
+. do waft
+. do wag
+. do wage
+. do wail
+. do wait
+. do waive
+. do wake
+. do walk
+. do wall
+. do wallop
+. do wan
+. do wander
+. do wane
+. do want
+. do war
+. do warble
+. do warn
+. do wash
+. do waste
+. do watch
+. do wave
+. do wax
+. do waylaid
+. do waylay
+. do wean
+. do weave
+. do weep
+. do weigh
+. do weight
+. do weld
+. do wend
+. do whack
+. do wheeze
+. do whiff
+. do whiffs
+. do whimper
+. do whine
+. do whirl
+. do whirr
+. do whisper
+. do whistle
+. do whistle-stop
+. do whiz
+. do wiggle
+. do wimble
+. do win
+. do wince
+. do wink
+. do wipe
+. do wire
+. do wish
+. do withdraw
+. do withhold
+. do witness
+. do wobble
+. do won
+. do wonder
+. do work
+. do worm
+. do wound
+. do wreak
+. do wreck
+. do wrench
+. do wrestle
+. do write
+. do writhe
+. do writhes
+. do yammer
+. do yank
+. do yap
+. do yapp
+. do yell
+. do yelp
+. do yield
+. do zip
+. do zoom
+. document
+. dodder
+. dodge
+. doff
+. dominate
+. domineer
+. don
+. don't bring
+. don't come
+. don't dare
+. don't do
+. don't go
+. don't let
+. don't let on
+. don't limit yourself
+. don't mince
+. don't restrict yourself
+. don't scrimp on
+. don't sell
+. don't stint on
+. don't tear up your
+. don't tell
+. don't try
+. don?t? get
+. donate
+. doodle
+. double
+. douse
+. dousing
+. dove
+. dovetail
+. down
+. downplay
+. downsize
+. doze
+. draft
+. drag
+. drain
+. dramatize
+. drank
+. drape
+. drawl
+. dredge
+. drench
+. drew
+. dribble
+. drift
+. drill
+. drink
+. drip
+. drive
+. drone
+. drool
+. droop
+. drop
+. drop in for a visit
+. drop me a note
+. drove
+. drowse
+. drub
+. drug
+. drum
+. duck
+. duel
+. dull
+. dump
+. dun
+. dunk
+. duns
+. dupe
+. duplicate
+. dust
+. dwell
+. e-mail
+. eat
+. edge
+. edit
+. effect
+. ejaculate
+. eject
+. elbow
+. elect
+. elicit
+. elide
+. eliminate
+. elope
+. elucidate
+. embark
+. embed
+. embody
+. embroider
+. embroil
+. emerge
+. emigrate
+. emit
+. emphasize
+. employ
+. emulate
+. enable
+. enact
+. encircle
+. encounter
+. encourage
+. encroach
+. encumber
+. end
+. endeavor
+. endure
+. enforce
+. engage
+. engulf
+. enjoin
+. enlighten
+. enlist
+. ensconce
+. ensnare
+. ensue
+. ensure
+. entangle
+. enter
+. enter the
+. enter through
+. entrap
+. enumerate
+. envision
+. equal
+. equate
+. equip
+. equivocate
+. eradicate
+. erase
+. erect
+. erode
+. erupt
+. escalate
+. escape
+. eschew
+. espouse
+. establish
+. estimate
+. euphemize
+. evacuate
+. evaluate
+. evaporate
+. evict
+. eviscerate
+. evolve
+. examine
+. exclude
+. exculpate
+. excuse
+. execute
+. exemplify
+. exempt
+. exert
+. exhale
+. exhibit
+. exile
+. exist
+. exit the
+. exit through
+. exonerate
+. expand
+. expect
+. expel
+. experience
+. explain
+. explode
+. exploit
+. explore
+. express
+. expunge
+. exterminate
+. extinguish
+. extort
+. extricate
+. fabricate
+. face
+. fail
+. faint
+. fall
+. falter
+. familiarize
+. farewell to
+. fasten
+. fax
+. feed
+. feint
+. fell
+. fetch
+. fib
+. fiddle
+. fidget
+. fight
+. figure out
+. film
+. finance
+. find
+. finger-paint
+. fire
+. fit
+. fix
+. flagellate
+. flap
+. flash
+. flatter
+. flee
+. flex
+. flicker
+. flinch
+. fling
+. flip
+. flit
+. flitter
+. float
+. flog
+. flood
+. flounce
+. flounder
+. flourish
+. flow
+. flub
+. flung
+. flunk
+. flutter
+. fly
+. focus
+. fold
+. follow
+. follow this path
+. foment
+. fondle
+. forage
+. force
+. forecast
+. foreclose
+. forewarn
+. forgive
+. form
+. formalize
+. forsake
+. fortify
+. forward
+. found
+. frame
+. franchise
+. free
+. frolic
+. frown
+. frustrate
+. fuel
+. full speed ahead
+. fumble
+. fume
+. fund
+. furlough
+. furnish
+. fuss
+. gab
+. gain
+. gait
+. gallop
+. galumph
+. gambol
+. gape
+. gash
+. gasp
+. gather
+. gauge
+. gave
+. gawk
+. gaze
+. gee up
+. generate
+. germinate
+. gesture
+. get
+. get-up-and-go
+. get !DETERMINER
+. get !PRONOUNOBJECTIVE out
+. get a copy
+. get a hustle on
+. get a move on
+. get a wiggle on
+. get at it
+. get back to me as soon as possible
+. get going
+. get herself out
+. get himself out
+. get hold of yourself
+. get hold of yourselves
+. get in touch with !YOU
+. get it into your head
+. get it over with
+. get plenty
+. get plenty of
+. get set
+. get some
+. get some air
+. get some sack time
+. get some shut-eye
+. get the word out
+. get themselves out
+. get to it
+. get up off your feet
+. get us out
+. get us up to speed
+. get you gone
+. get your ass in gear
+. get your bearings
+. get yourself out
+. gibber
+. giggle
+. git
+. git yourself
+. give
+. give !PRONOUNOBJECTIVE no mind
+. give her time
+. give him time
+. give it a try
+. give me a
+. give me time
+. give me your strict attention
+. give them time
+. give us time
+. give you time
+. glance
+. glare
+. glide
+. glint
+. glissade
+. gloat
+. globe-trotter
+. glorify
+. glower
+. gnash
+. gnaw
+. go
+. go at once
+. go chase
+. go make a name
+. go roll
+. go sit
+. go sit on a tack
+. goad
+. goggle
+. goose-step
+. goosestep
+. gorge
+. gossip
+. gouge
+. govern
+. grab
+. grading
+. graduate
+. grain
+. grate
+. graze
+. greenmail
+. greet
+. grew
+. grieve
+. grimace
+. grin
+. grind
+. grip
+. groan
+. groom
+. grow
+. growl
+. grumble
+. grunt
+. guard
+. guffaw
+. gulp
+. gun
+. gurgle
+. gush
+. gust
+. guzzle
+. gyrate
+. hack
+. haggle
+. hale
+. halt
+. hammer
+. handle
+. hang
+. hang loose
+. happen
+. hard aweather
+. hark
+. harness
+. harvest
+. hasten
+. hatch
+. hatchet
+. haul
+. haul your wind
+. haunch
+. heal
+. hear
+. hear me out
+. heard
+. heat
+. heave
+. hedge
+. heed
+. heed the
+. heel
+. heft
+. heighten
+. helm
+. herald
+. herd
+. here, take !DETERMINER
+. hibernate
+. high-ball
+. highball
+. highlight
+. hike
+. hinge
+. hint
+. hiss
+. hit
+. hit-and-run
+. hitchhike
+. hobble
+. hoist
+. hold
+. holler
+. honk
+. hook
+. hoop
+. hoot
+. hop
+. hop to it
+. hope
+. housebreak
+. howl
+. huddle
+. huff
+. hug
+. hum
+. hunker
+. hunt
+. hurdle
+. hurl
+. hurry
+. hurt
+. hurtle
+. hurts
+. hush
+. hustle
+. identify
+. idle
+. ignite
+. illustrate
+. imbed
+. imbibe
+. imbue
+. imitate
+. immerge
+. immigrate
+. immobilize
+. immortalize
+. immunize
+. impact
+. impale
+. impart
+. impede
+. impel
+. imperil
+. impinge
+. implant
+. implement
+. implicate
+. implode
+. imply
+. impound
+. impregnate
+. improve
+. improvise
+. impugn
+. impute
+. inaugurate
+. inbreed
+. incandesce
+. incarnadine
+. incase
+. incense
+. incept
+. inch
+. incinerate
+. incise
+. incite
+. incline
+. include
+. incommode
+. incorporate
+. increase
+. incriminate
+. incrust
+. incubate
+. inculcate
+. incur
+. indicate
+. indispose
+. individualize
+. indoctrinate
+. indorse
+. induce
+. induct
+. indulge
+. industrialize
+. infatuate
+. infect
+. infest
+. infiltrate
+. inflame
+. inflate
+. inflect
+. inflict
+. influence
+. inform
+. infract
+. infringe
+. inhabit
+. inhale
+. inherit
+. inhibit
+. initiate
+. inject
+. ink
+. innervate
+. innovate
+. inoculate
+. inquire
+. inscribe
+. inseminate
+. insist
+. insolate
+. inspire
+. instantiate
+. instigate
+. instill
+. institute
+. instruct
+. insulate
+. insult
+. insure
+. insurrect
+. intend
+. inter
+. interact
+. interbreed
+. intercalate
+. intercede
+. intercept
+. interconnect
+. intercourse
+. intercross
+. interdict
+. interest
+. interested
+. interface
+. interfere
+. interfile
+. interfuse
+. interject
+. interleave
+. interline
+. interlink
+. interlock
+. interlope
+. intermarry
+. intermeddle
+. intermediate
+. intermesh
+. intermit
+. intermix
+. internalize
+. interne
+. interpenetrate
+. interplay
+. interpolate
+. interpose
+. interpret
+. interrelate
+. interrogate
+. interrupt
+. intersect
+. intersperse
+. intertwine
+. intervene
+. interview
+. interweave
+. intimate
+. intimidate
+. intonate
+. intone
+. intoxicate
+. intrigue
+. introduce
+. introspect
+. intrude
+. intuit
+. intumesce
+. inundate
+. inure
+. inurn
+. invade
+. invent
+. invest
+. investigate
+. invite
+. irritate
+. issue
+. jab
+. jabber
+. jangle
+. jar
+. jars
+. jaunt
+. jeer
+. jerk
+. jettison
+. jiggle
+. jingle
+. jog
+. join
+. jolt
+. jot
+. jounce
+. joust
+. joyride
+. jump
+. just don't
+. just drop me a note
+. justify
+. keel-over
+. keeled-over
+. keeling-over
+. keep
+. keep it that way
+. keep your chin up
+. keep your head up
+. key
+. kick
+. kill
+. kindle
+. kiss
+. kiss me
+. knead
+. knee
+. kneel
+. knit
+. knock
+. knock it off
+. know
+. labor
+. lacerate
+. lacquer
+. lag
+. lament
+. laminate
+. lance
+. lap
+. laugh
+. launch
+. lead
+. leak
+. lean
+. leap
+. leapt
+. learn
+. leave
+. lecture
+. lessen
+. let
+. let it happen
+. leverage
+. liaison
+. liberate
+. lick
+. lie
+. lift
+. lilt
+. limn
+. limp
+. linger
+. link
+. liquidate
+. lisp
+. listen
+. listen with both ears
+. lit
+. litter
+. live
+. live-in
+. load
+. load with care
+. lob
+. locate
+. lock
+. lodge
+. loft
+. log
+. loiter
+. loll
+. look
+. look alive
+. look in the eye
+. look out
+. look out for
+. look straight in the eye
+. look the word up
+. loom
+. loop
+. loot
+. lop
+. lope
+. lose
+. lost
+. lounge
+. low-ball
+. lowball
+. luff
+. lug
+. lull
+. lumber
+. lung
+. lunge
+. lurch
+. lure
+. lurk
+. made
+. mail
+. maim
+. maintain
+. make
+. make it go away
+. make it snappy
+. make plenty
+. make plenty of
+. malign
+. manage
+. mandate
+. maneuver
+. mangle
+. manipulate
+. manufacture
+. march
+. mark
+. marry
+. marvel
+. mash
+. masquerade
+. massacre
+. massage
+. master
+. masticate
+. mat
+. match
+. matriculate
+. maul
+. meander
+. meddle
+. mediate
+. meet
+. mention
+. merchandise
+. merchandize
+. merge
+. mesh
+. met
+. mewl
+. mind
+. mind !QUESTION
+. mind how
+. mind what
+. mind what I say to you
+. mind what I tell you
+. mind your
+. mingle
+. minimize
+. minister
+. misbehave
+. misfire
+. misinform
+. misinterpret
+. miss
+. mistake
+. mistreat
+. moan
+. mock
+. model
+. moderate
+. modify
+. mold
+. mollify
+. monitor
+. monopolize
+. moonlight
+. mop
+. mope
+. morph
+. mortgage
+. mosey
+. motivate
+. mount
+. mourn
+. move
+. move your ass
+. move your asses
+. move your butt
+. move your butts
+. move your fannies
+. move your fanny
+. move your tail
+. move your tails
+. mow
+. muffle
+. mull
+. mumble
+. murder
+. murmur
+. mutilate
+. mutter
+. muzzle
+. nail
+. name
+. nap
+. narrate
+. nationalize
+. navigate
+. neaten
+. negotiate
+. nest
+. nestle
+. never
+. nibble
+. nick
+. nod
+. nosh
+. note
+. notice
+. notify
+. now git
+. now head back
+. numb
+. nuzzle
+. obey
+. obey the
+. obligate
+. oblige
+. obliterate
+. obscure
+. obtain
+. occur
+. offer
+. officiate
+. offset
+. ooze
+. open
+. open your mouth
+. operate
+. oppose
+. opt
+. option
+. order
+. organize
+. output
+. overcome
+. overexert
+. overhear
+. override
+. oversee
+. overshadow
+. overstate
+. overtake
+. overthrow
+. overturn
+. overwhelm
+. own
+. pace
+. package
+. pad
+. paddle
+. page
+. paint
+. pale
+. palisade
+. palliate
+. palm
+. palpitate
+. pamper
+. pan
+. panhandle
+. pant
+. par
+. parachute
+. parade
+. paragraph
+. parallel
+. parcel
+. pare
+. parlay
+. parley
+. parody
+. parole
+. parrot
+. parry
+. parse
+. part
+. partake
+. participate
+. partition
+. partner
+. partook
+. party
+. pass
+. paste
+. pasteurize
+. pat
+. patch
+. patrol
+. patronize
+. patter
+. pattern
+. pause
+. pave
+. paw
+. pawn
+. pay
+. pay attention
+. pay no heed to
+. pay no mind to
+. pay no regard to
+. pay strict attention
+. peal
+. peck
+. peddle
+. pee
+. peek
+. peen
+. peep
+. peer
+. peg
+. pen
+. penetrate
+. percolate
+. perforate
+. perform
+. perjure
+. permit
+. perpetuate
+. persecute
+. personalize
+. perspire
+. persuade
+. peruse
+. pet
+. petition
+. philander
+. philosophize
+. phone
+. photograph
+. phrase
+. pick
+. picket
+. picture
+. pierce
+. pin
+. pinch
+. ping
+. pink
+. pioneer
+. pip
+. pipe
+. pipe down
+. pirate
+. pirouette
+. piss
+. pitch
+. pivot
+. placard
+. place
+. place yourself
+. plan
+. plant
+. play
+. play-act
+. playact
+. plead
+. plod
+. plop
+. plow
+. pluck
+. plug
+. plumb
+. plunder
+. plunge
+. plunk down the money
+. plunk down your money
+. ply
+. pod
+. point
+. poke
+. polarize
+. polish
+. politicize
+. poll
+. pollinate
+. pollute
+. pontificate
+. poop
+. popularize
+. pore
+. port
+. portion
+. pose
+. posit
+. position
+. possess
+. postdate
+. postmark
+. pot
+. pounce
+. pound
+. pout
+. prance
+. prattle
+. pray
+. preach
+. precipitate
+. predominate
+. preempt
+. preen
+. prepare
+. prepared
+. prepay
+. present
+. present yourself at
+. present yourselves at
+. preserve
+. preside
+. pressure
+. pressurize
+. prevail
+. prevent
+. price
+. primp
+. print
+. prioritize
+. privatize
+. proceed
+. process
+. proclaim
+. procreate
+. procure
+. prod
+. produce
+. profane
+. professionalize
+. proffer
+. profile
+. profit
+. program
+. progress
+. prohibit
+. project
+. prom
+. promenade
+. promote
+. promulgate
+. pronounce
+. prop
+. propagandize
+. propel
+. propeller
+. propose
+. propound
+. prosecute
+. proselytize
+. prospect
+. prosper
+. prostitute
+. protest
+. protrude
+. prove
+. provide
+. provoke
+. prowl
+. prune
+. publicize
+. publish
+. pucker
+. puff
+. pull
+. pull the plug on
+. pull yourself
+. pull yourself together
+. pullulate
+. pulsate
+. pulverize
+. pummel
+. pump
+. punch
+. punish
+. purchase
+. purge
+. purl
+. purloin
+. pursue
+. purvey
+. push
+. push from your thoughts
+. put
+. put a stop to
+. put it where it belongs
+. putter
+. quaff
+. quake
+. quarantine
+. quarrel
+. quaver
+. question
+. quibble
+. quit it
+. quit yourselves
+. quiver
+. quote
+. race
+. rack
+. radicalize
+. raise
+. raise the alarm
+. rally
+. ran
+. range
+. rankle
+. ransack
+. rant
+. rap
+. rape
+. rappel
+. rasp
+. ration
+. rattle
+. ravage
+. rave
+. raze
+. reach
+. react
+. reactivate
+. read
+. readjust
+. realize
+. reap
+. reapply
+. rear
+. rearrange
+. reassign
+. reawaken
+. rebound
+. rebuild
+. rebuke
+. recalculate
+. recant
+. recap
+. recapitulate
+. recede
+. receive
+. recess
+. recheck
+. reciprocate
+. reclaim
+. recognize
+. recoil
+. recommend
+. reconcile
+. reconfigure
+. reconsider
+. reconstitute
+. record
+. recover
+. recruit
+. recur
+. recycle
+. redress
+. reduce
+. reel
+. reelect
+. reemerge
+. reenact
+. reenter
+. reestablish
+. refashion
+. refect
+. refer
+. referee
+. reference
+. refill
+. refinance
+. refine
+. refinish
+. refit
+. reflect
+. refocus
+. refold
+. reforest
+. reform
+. refract
+. refresh
+. refrigerate
+. refuel
+. refund
+. refurbish
+. refute
+. regain
+. regard
+. regenerate
+. register
+. regroup
+. regulate
+. rehabilitate
+. rehire
+. reign
+. reimburse
+. reincarnate
+. reinforce
+. reinstate
+. reinstitute
+. reinterpret
+. reintroduce
+. reinvent
+. reinvest
+. reiterate
+. rekindle
+. relate
+. relax
+. relay
+. release
+. relent
+. relieve
+. reload
+. relocate
+. rely
+. remain
+. remark
+. remarry
+. remember
+. remit
+. remodel
+. remount
+. rename
+. rendezvous
+. renegotiate
+. renew
+. renounce
+. rent
+. reopen
+. reorganize
+. repair
+. repay
+. repeal
+. repent
+. replace
+. replant
+. replay
+. replicate
+. reply
+. report
+. reposition
+. represent
+. reprieve
+. reprimand
+. reprint
+. reprise
+. reproduce
+. repudiate
+. request
+. require
+. requit
+. rescind
+. research
+. resell
+. resettle
+. reshape
+. reshuffle
+. reside
+. resign
+. resist
+. resolve
+. resonate
+. resort
+. respect
+. respond
+. rest
+. restate
+. restrain
+. restrict
+. restructure
+. result
+. resupply
+. resurrect
+. retain
+. retard
+. retch
+. rethink
+. retire
+. retouch
+. retrace
+. retract
+. retrench
+. retrieve
+. retrofit
+. retry
+. return
+. return it with
+. reunite
+. reveal
+. revel
+. reverberate
+. reverse
+. revert
+. review
+. revise
+. revolt
+. revolutionize
+. revolve
+. rewind
+. rewrite
+. ricochet
+. ride
+. riffle
+. rifle
+. rinse
+. rip
+. rise
+. rival
+. roam
+. roar
+. roast
+. rob
+. robs
+. rock
+. rode
+. roll
+. rollick
+. romance
+. romp
+. roost
+. rope
+. rotate
+. rouse
+. route
+. rove
+. rowed of all
+. rub
+. ruffle
+. rule
+. rummage
+. rumple
+. run
+. rupture
+. rush
+. rustle
+. sabotage
+. safeguard
+. sag
+. said
+. sail
+. salt
+. salvage
+. sample
+. sandblast
+. sanitize
+. sap
+. satirize
+. saunter
+. savage
+. save
+. savor
+. say
+. scale
+. scalp
+. scamp
+. scamper
+. scan
+. scatter
+. scavenge
+. schedule
+. schmoose
+. schmooze
+. scoff
+. scoot
+. scorch
+. score
+. scotch
+. scour
+. scouring
+. scours
+. scout
+. scrabble
+. scram
+. scramble
+. scrap
+. scrape
+. scratch
+. scrawl
+. scream
+. screech
+. screen
+. screw
+. scribble
+. scribe
+. scrimmage
+. scrimp
+. scrimshaw
+. script
+. scrounge
+. scrub
+. scrunch
+. scrutinize
+. scuffle
+. scurry
+. scuttle
+. seal
+. sear
+. search
+. secede
+. secrete
+. secularize
+. secure
+. sedate
+. seduce
+. see
+. see-saw
+. see above
+. see below
+. see the
+. seed
+. seem
+. seen
+. seep
+. seesaw
+. seethe
+. segment
+. segregate
+. seize
+. select
+. sell
+. send
+. sensitize
+. sent
+. sentence
+. sentimentalize
+. separate
+. sequence
+. sequester
+. sermonize
+. serve
+. service
+. set
+. set the
+. settle
+. sever
+. severe
+. shackle
+. shade
+. shadow
+. shag
+. shake
+. shalack
+. shamble
+. shampoo
+. shape
+. share
+. share your
+. sharecrop
+. sharpen
+. shave
+. shear
+. sheath
+. sheave
+. shelace
+. shell
+. shellac
+. shelter
+. shelve
+. shepherd
+. shield
+. shift
+. shimmer
+. shimmy
+. shine
+. ship
+. shiver
+. shock
+. shook
+. shoot
+. shop
+. shot
+. shoulder
+. shout
+. shove
+. show
+. show a leg
+. show me
+. show your age
+. show your cards
+. show your hand
+. shower
+. shred
+. shriek
+. shrink
+. shrivel
+. shrunk
+. shudder
+. shuffle
+. shut your
+. shut your doors
+. shut your ears
+. shut your eyes
+. sic 'em
+. sic !POSSESSIVEPRONOUN
+. sic !PRONOUNOBJECTIVE
+. sic em
+. sidle
+. sift
+. sigh
+. sight
+. sight-see
+. sign
+. signal
+. signify
+. silt
+. simmer
+. simper
+. simplify
+. simulate
+. sin
+. sinew
+. sing
+. sink
+. sip
+. siphon
+. sit
+. sit back and enjoy
+. sit back and relax
+. sit down
+. situate
+. sizzle
+. skate
+. skedaddle
+. sketch
+. skew
+. skin
+. skip
+. skip it
+. skitter
+. skulk
+. slake
+. slam
+. slant
+. slap
+. slash
+. slaughter
+. slave
+. slay
+. sleep
+. slept
+. sleuth
+. slice
+. slick
+. slide
+. slides
+. sling
+. slink
+. slip
+. slip me a
+. slip me the
+. slit
+. slither
+. slits
+. slobber
+. slog
+. slosh
+. slouch
+. slow down
+. sluice
+. slum
+. slumber
+. slump
+. slung
+. slunk
+. slur
+. slurp
+. smack
+. smash
+. smear
+. smell
+. smell it
+. smell that
+. smell the
+. smelt
+. smite
+. smoke
+. smolder
+. smooth
+. smother
+. smuggle
+. snag
+. snake
+. snap
+. snap to it
+. snare
+. snarl
+. sneak
+. snooze
+. snore
+. snort
+. snuff
+. snuggle
+. soak
+. soar
+. sob
+. sod
+. sodomize
+. sold
+. solder
+. solemnize
+. solicit
+. solider
+. solidify
+. soliloquize
+. solo
+. solve
+. sooth
+. soothe
+. sort
+. sought
+. sound the alarm
+. sour
+. spark
+. sparkle
+. spat
+. spatter
+. spawn
+. spay
+. speak
+. specialize
+. specify
+. speed
+. spell
+. spend
+. spent
+. spew
+. spike
+. spill
+. spin
+. spit
+. spit it out
+. spits
+. splash
+. splice
+. splinter
+. split
+. splurge
+. splutter
+. spoke
+. sponsor
+. spoof
+. spoor
+. sport
+. spotlight
+. spout
+. sprain
+. sprang
+. spray
+. spread
+. spread sparingly
+. sprig
+. spring
+. sprint
+. sprout
+. sprung
+. spun
+. spur
+. spurt
+. sputter
+. spy
+. squabble
+. squall
+. squander
+. square
+. squash
+. squat
+. squeak
+. squeal
+. squeeze
+. squint
+. squirm
+. squirrel
+. squirt
+. squish
+. stab
+. stabilize
+. stack
+. stag
+. stage
+. stagger
+. stagnate
+. stake
+. stalk
+. stall
+. stammer
+. stamp
+. stampede
+. stanch
+. stand easy
+. stand up and be counted
+. standardize
+. staple
+. star
+. stare
+. start
+. startle
+. stash
+. state
+. state your
+. state your case
+. station
+. staunch
+. stave
+. stay
+. stay her hand
+. stay his hand
+. stay my hand
+. stay on
+. stay our hands
+. stay their hands
+. stay your hand
+. steady
+. steal
+. steal-away
+. steam-roll
+. steamroll
+. steamroller
+. steel
+. steep
+. steep it
+. steep it in
+. steer
+. stem
+. stencil
+. step
+. step it up
+. step on it
+. stereotype
+. stew
+. stick
+. stiffen your
+. stiffen your backbone
+. stilt
+. stimulate
+. sting
+. stint
+. stipulate
+. stir your stumps
+. stitch
+. stockpile
+. stoke
+. stole
+. stole-away
+. stomp
+. stonewall
+. stoop
+. stop
+. stop by your
+. stop finger-pointing
+. stop in for a visit
+. stop the finger-pointing
+. stop your ears
+. stop your mouth
+. store
+. storm
+. straggle
+. straggling
+. strain
+. strangle
+. strategize
+. stray
+. stress
+. stretch
+. stride
+. strike
+. string
+. strip
+. strive
+. strode
+. stroke
+. stroll
+. strove
+. struck
+. structure
+. struggle
+. strut
+. stuck
+. study
+. stumble
+. stun
+. stupefy
+. stutter
+. stylize
+. sub
+. subcontract
+. subdivide
+. subdue
+. subject
+. submerse
+. subpoena
+. subscribe
+. subside
+. subsidize
+. subsist
+. subtitle
+. subvene
+. subvert
+. succeed
+. succor
+. suck
+. suction
+. sue
+. suffer
+. suggest
+. sulk
+. summarize
+. sung
+. supervise
+. support
+. surface
+. surge
+. surpass
+. surrender
+. survey
+. survive
+. sustain
+. swaddle
+. swagger
+. swallow
+. swarm
+. swath
+. swathe
+. sway
+. swear
+. sweat
+. sweep
+. swell
+. swells
+. swerve
+. swig
+. swill
+. swim
+. swindle
+. swing
+. swipe
+. swirl
+. swish
+. swivel
+. swoon
+. swore
+. symbolize
+. synchronize
+. systematize
+. tabulate
+. tack
+. tackle
+. tag
+. tail
+. take
+. take-off
+. take-over
+. take a careful look
+. take a left
+. take a right
+. take a seat
+. take it slow
+. take my word
+. take one of the paths
+. take one of the pathways
+. take plenty
+. take plenty of
+. take the door
+. take the doorway
+. take the stairs
+. take the stairway
+. take your
+. take your time
+. talk
+. tally-ho
+. tallyho
+. tame
+. tamp
+. tamper
+. tan
+. tap
+. taper
+. target
+. tarry
+. taste
+. taught
+. taunt
+. tax
+. taxi
+. teach
+. tear
+. tear up your
+. tease
+. teeter
+. telecast
+. telegraph
+. telephone
+. teletype
+. televise
+. tell
+. temper
+. tend
+. tender
+. tense
+. tent
+. tenure
+. terminate
+. terrorize
+. testify
+. tether
+. thaw
+. then grab
+. then guess
+. think
+. think about that
+. think about this
+. think before you speak
+. thrash
+. threaten
+. thresh
+. threw
+. throb
+. throw
+. throw down your arms
+. thrum
+. thrust
+. thump
+. thunder
+. thwack
+. ticket
+. tie
+. tighten
+. till
+. tilt
+. timber
+. tinge
+. tinker
+. tip
+. tip-to
+. tip-toe
+. tithe
+. title
+. toddle
+. toilet-train
+. told
+. tolerate
+. toll
+. tone
+. tone it down
+. toodle
+. top
+. top this
+. topple
+. torch
+. toss
+. totter
+. touch
+. tow
+. track
+. trade
+. traduce
+. traffic
+. trail
+. train
+. traipse
+. trammel
+. tramp
+. trample
+. tranquilize
+. transact
+. transcend
+. transcribe
+. transform
+. translate
+. transmit
+. transpire
+. trash
+. travel
+. trawl
+. tread
+. treat
+. tremble
+. trespass
+. tri
+. trick
+. trim
+. trip
+. trod
+. troop
+. trot
+. trudge
+. trundle
+. try
+. tube
+. tuck in your
+. tug
+. tunnel
+. turn
+. turn left
+. turn left for
+. turn left onto
+. turn right
+. turn right for
+. turn right into
+. turn right onto
+. tussle
+. tutor
+. twiddle
+. twirl
+. twist
+. twists
+. twitch
+. tyrannize
+. unburden your conscience
+. unburden your heart
+. unburden your mind
+. unburden yourself
+. underlie
+. understand
+. understate
+. undertake
+. undertaken
+. undo
+. undone
+. unfasten
+. unfetter
+. unhinge
+. unruly
+. unseat
+. unset the
+. unveil
+. update
+. upon
+. urge
+. use
+. use it sparingly
+. use sparely
+. use the door
+. use the doorway
+. usurp
+. utilize
+. utter
+. vacate
+. vacation
+. vaccinate
+. vacuum
+. value
+. vanish
+. vary
+. vault
+. veil
+. ventilate
+. venture
+. vest
+. veto
+. vi
+. vibrate
+. videotape
+. vie
+. view
+. vilify
+. violate
+. visit
+. visualize
+. vocalize
+. voice
+. vote
+. vote for me
+. vow
+. waddle
+. wade
+. waffle
+. waft
+. wag
+. wage
+. wail
+. wait
+. wait a minute
+. wait a second
+. wait,
+. waive
+. wake
+. walk
+. walk through
+. wall
+. wallop
+. wan
+. wander
+. wane
+. want
+. war
+. warble
+. warn
+. wash
+. waste
+. watch
+. watch for
+. watch it
+. watch out
+. watch out for
+. watch out that
+. watch your step
+. watch your weight
+. wave
+. wax
+. way enough!
+. waylaid
+. waylay
+. wean
+. weave
+. weep
+. weigh
+. weight
+. weld
+. wend
+. whack
+. wheeze
+. whiff
+. whiffs
+. whimper
+. whine
+. whirl
+. whirr
+. whisper
+. whistle
+. whistle-stop
+. whiz
+. wiggle
+. wimble
+. win
+. wince
+. wink
+. wipe
+. wire
+. wish
+. withdraw
+. withhold
+. witness
+. wobble
+. won
+. wonder
+. work
+. worm
+. wound
+. wreak
+. wreck
+. wrench
+. wrestle
+. write
+. writhe
+. writhes
+. yammer
+. yank
+. yap
+. yapp
+. yell
+. yelp
+. yield
+. zip
+. zoom
+; complete the following steps
+; do the following steps
+; don't get
+; go chase
+ahead both motors
+ahead full
+and get back to me as soon as possible
+and keep your powder dry
+and listen
+and send another
+batten down the hatches
+but go at once
+do it on the double
+don't discount
+don't spare the horses
+don't toy with your food
+gee-up
+gee up!
+get a copy of
+go peddle your fish
+hard alee
+hard alees
+hard aport
+hard aports
+hard astarboard
+hard astarboards
+hard aweathers
+hark the
+heel stay
+heel, stay
+lash-and-carry
+lash and carry
+let's get out of here
+let's scram
+luff alee
+luff alees
+memento mori
+memo to you
+memoranda to you
+memorandum to you
+memorandums to you
+memos
+mind your p's and q's
+nail your colors to the mast
+need to respond by
+not to be left out
+not to be missed
+obbligato
+obligato
+or ask
+or ask at
+ought to respond by
+rowed of all
+rule 1:
+rule 10:
+rule 11:
+rule 12:
+rule 13:
+rule 14:
+rule 15:
+rule 16:
+rule 17:
+rule 18:
+rule 19:
+rule 2:
+rule 20:
+rule 3:
+rule 4:
+rule 5:
+rule 6:
+rule 7:
+rule 8:
+rule 9:
+rule:
+snap up!
+snap up.
+stick a fork in her
+stick a fork in him
+stop finger-pointing
+stop the finger-pointing
+taihoa
+thou shall not
+thou shalt
+thou shalt not
+throw down your arms
+tip me a hog
+tip the cole to Adam Tiler
+tip the mish
+tip your cole or I'll mill ye
+tip your lour or I'll mill ye
+urgently call upon
+urgently called upon
+urgently calling upon
+urgently calls upon

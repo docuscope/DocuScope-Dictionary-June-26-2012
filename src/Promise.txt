@@ -1,0 +1,197 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!GIVE !DETERMINER promise
+!GIVE as a pledge
+!GIVE in pledge
+!HAND !DETERMINER promise
+!HAND !REFLEXIVEPRONOUN !DETERMINER promise
+!HAND her !DETERMINER promise
+!HAND him !DETERMINER promise
+!HAVE the answer
+!HAVE the answers
+!MAKE !DETERMINER promise
+!MAKE this promise
+!POSSESSIVEPRONOUN pledge
+!POSSESSIVEPRONOUN pledges
+. free bonus books are available
+a pledge
+as a pledge
+as pledge
+as pledge of
+as pledge of support
+assumpsit promise
+benempt
+explicitly promised
+her pledge
+her pledges
+her promises
+his pledge
+his pledges
+his promises
+in pledge
+in pledge to
+let it be resolved
+mum's the word
+oral promise
+orally promise
+orally promised
+orally promises
+orally promising
+pledge
+pledge-bound
+pledge !POSSESSIVEPRONOUN support
+pledge for
+pledge her
+pledge her honor
+pledge her word
+pledge his
+pledge his honor
+pledge his word
+pledge of
+pledge of secrecy
+pledge support for
+pledge the health of
+pledge their
+pledge their honor
+pledge their word
+pledge to
+pledge to duty
+pledge your
+pledge your honor
+pledge your word
+pledged
+pledged !POSSESSIVEPRONOUN support
+pledged for
+pledged her
+pledged her honor
+pledged her word
+pledged his
+pledged his honor
+pledged his word
+pledged secrecy
+pledged support for
+pledged their
+pledged their honor
+pledged their word
+pledged to
+pledged to duty
+pledged your
+pledged your honor
+pledged your word
+pledges
+pledges !POSSESSIVEPRONOUN support
+pledges for
+pledges her
+pledges her honor
+pledges her word
+pledges his
+pledges his honor
+pledges his word
+pledges of
+pledges of secrecy
+pledges support for
+pledges their
+pledges their honor
+pledges their word
+pledges to
+pledges to duty
+pledges your
+pledges your honor
+pledges your word
+pledging
+pledging !POSSESSIVEPRONOUN support
+pledging for
+pledging her
+pledging her honor
+pledging her word
+pledging his
+pledging his honor
+pledging his word
+pledging secrecy
+pledging support for
+pledging their
+pledging their honor
+pledging their word
+pledging to
+pledging to duty
+pledging your
+pledging your honor
+pledging your word
+promise-bound
+promise-crammed
+promise-fed
+promise-led
+promise-making
+promise-performing
+promise bound
+promise crammed
+promise fed
+promise her hand
+promise her hand in marriage
+promise in marriage
+promise no
+promise not
+promise to
+promise to be
+promised her hand
+promised her hand in marriage
+promised in marriage
+promised to
+promised to be
+promised to her
+promised to him
+promised to me
+promised to them
+promised to us
+promised to you
+promisee
+promisees
+promiser
+promisers
+promises her hand
+promises her hand in marriage
+promises in marriage
+promises to
+promises to be
+promising her hand
+promising her hand in marriage
+promising in marriage
+promising to
+promising to be
+promissory
+resolve that
+resolve to
+resolved that
+resolved to
+resolves that
+resolves to
+resolving that
+resolving to
+solemnly promise
+tacit promise
+tacitly promise
+tacitly promised
+tacitly promises
+tacitly promising
+the pledge
+the pledges
+their pledge
+their pledges
+their promises
+thing given as a pledge
+things given as a pledge
+with a pledge
+with her pledge
+with his pledge
+with the pledge
+with their pledge
+you will never be asked
+you will never be expected
+you will never be forced
+you will never have to
+you will not have to
+your pledge
+your pledges
+your promises

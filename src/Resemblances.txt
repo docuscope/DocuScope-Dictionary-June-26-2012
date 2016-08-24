@@ -1,0 +1,1978 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+-like
+-looking
+!APPEAR !DETERMINER same
+!APPEAR identical
+!AUX !DETERMINER dead ringer
+!AUX !DETERMINER dead ringer for
+!AUX !DETERMINER SPITTING IMAGE OF
+!AUX just like
+!AUX like
+!AUX like !DETERMINER
+!AUX like !POSSESSIVEPRONOUN
+!AUX like arms
+!AUX like stars
+!AUX spitting image
+!AUX spitting image of
+!AUX USED LIKE
+!AUX USED LIKE !DETERMINER
+!AUX very much like
+!BEAR !DETERMINER resemblance
+!BEAR !DETERMINER RESEMBLENCE
+!BEAR !DETERMINER striking RESEMBLENCE
+!BEAR !DETERMINER strikng resemblance
+!BEAR resemblance
+!COME across as
+!COME off as
+!COME off like
+!CONTINGENTMODAL pretend
+!CONTINGENTMODAL pretend not to
+!CONTINGENTMODAL pretend not to be
+!CONTINGENTMODAL pretend to
+!DETERMINER carbon copy of
+!DETERMINER closest thing to
+!DETERMINER closest thing to !DETERMINER
+!DETERMINER color of
+!DETERMINER color of !DETERMINER
+!DETERMINER dead ringer for
+!DETERMINER disguise
+!DETERMINER facsimile
+!DETERMINER guise
+!DETERMINER like
+!DETERMINER like of
+!DETERMINER likeness for
+!DETERMINER likeness to
+!DETERMINER little bit like
+!DETERMINER mirror image of
+!DETERMINER mirror images
+!DETERMINER mirror images of
+!DETERMINER perfect facsimile
+!DETERMINER perfect likeness
+!DETERMINER portrayal of
+!DETERMINER semblance
+!DETERMINER semblance of
+!DETERMINER shape of
+!DETERMINER shape of !DETERMINER
+!DETERMINER similar
+!DETERMINER similarly
+!DETERMINER size of
+!DETERMINER size of !DETERMINER
+!DETERMINER spit and image of
+!DETERMINER spitting image of
+!DETERMINER striking parallel
+!DETERMINER striking parallel with
+!DETERMINER texture of
+!DETERMINER texture of !DETERMINER
+!DRAW !DETERMINER character from
+!DRAW !DETERMINER character from real life
+!DRAW !DETERMINER characters from
+!DRAW !DETERMINER characters from real life
+!DRAW !POSSESSIVEPRONOUN character from
+!DRAW !POSSESSIVEPRONOUN character from real life
+!DRAW !POSSESSIVEPRONOUN characters from
+!DRAW !POSSESSIVEPRONOUN characters from real life
+!EAT LIKE !DETERMINER BIRD
+!EAT LIKE !DETERMINER HORSE
+!FAVOR !POSSESSIVEPRONOUN father in looks
+!FAVOR !POSSESSIVEPRONOUN in looks
+!FAVOR !POSSESSIVEPRONOUN lookswise
+!FAVOR !POSSESSIVEPRONOUN mother in looks
+!FIND !PRONOUNOBJECTIVE !DETERMINER most
+!FIND !PRONOUNOBJECTIVE !DETERMINER very
+!FIND !PRONOUNOBJECTIVE like
+!FIND !PRONOUNOBJECTIVE much like
+!FIND !PRONOUNOBJECTIVE not unlike
+!FIND !PRONOUNOBJECTIVE to be
+!GO like
+!GO like !DETERMINER bat out of hell
+!GO like !DETERMINER flash
+!GO like !DETERMINER shot
+!GO like !DETERMINER streak of lightning
+!GO like !DETERMINER wind
+!GO like greased lightning
+!GO like hot cakes
+!GO like lightning
+!GO round like !DETERMINER horse in !DETERMINER mill
+!HAVE !DETERMINER familiar ring
+!HAVE !DETERMINER look of
+!LOOK !DETERMINER like
+!LOOK !DETERMINER little
+!LOOK !DETERMINER lot like
+!LOOK !DETERMINER same
+!LOOK !DETERMINER tad
+!LOOK and acts like
+!LOOK and acts much like
+!LOOK and sounds like
+!LOOK and sounds much like
+!LOOK as
+!LOOK as if
+!LOOK as though
+!LOOK close to
+!LOOK every inch
+!LOOK every inch !DETERMINER part
+!LOOK every inch part
+!LOOK hurt
+!LOOK identical
+!LOOK just like
+!LOOK just like !DETERMINER
+!LOOK kind of like
+!LOOK like
+!LOOK much like
+!LOOK on as
+!LOOK so
+!LOOK something like
+!LOOK something look
+!LOOK sort of like
+!LOOK to resemble
+!LOOK upon as
+!LOOK very much like
+!MAKE !PRONOUNOBJECTIVE seem
+!MAKE as if
+!MAKE for something like
+!MAKE for something resembling
+!MAKE her look like
+!MAKE him look like
+!MAKE it as if
+!MAKE it look
+!MAKE it look as !DETERMINER
+!MAKE it look as if
+!MAKE it look like
+!MAKE me look like
+!MAKE out as
+!MAKE OUT AS IF
+!MAKE them look like
+!MAKE us look like
+!MAKE you look like
+!PERFORM as
+!REMIND !PRONOUNOBJECTIVE of !DETERMINER
+!SET down as
+!TAKE !DETERMINER likeness
+!TAKE !DETERMINER likeness to
+!TAKE !PRONOUNOBJECTIVE as
+!TAKE !PRONOUNOBJECTIVE as being
+!TAKE !PRONOUNOBJECTIVE FOR DEAD
+!TAKE AFTER !POSSESSIVEPRONOUN brother
+!TAKE AFTER !POSSESSIVEPRONOUN brothers
+!TAKE after !POSSESSIVEPRONOUN father
+!TAKE AFTER !POSSESSIVEPRONOUN grandfather
+!TAKE after !POSSESSIVEPRONOUN grandmother
+!TAKE after !POSSESSIVEPRONOUN mother
+!TAKE after !POSSESSIVEPRONOUN sister
+!TAKE after !POSSESSIVEPRONOUN sisters
+!TAKE after her in !DETERMINER department of
+!TAKE after him in !DETERMINER department of
+!TAKE after my
+!TAKE after our
+!TAKE after your
+!TAKE on !DETERMINER decidedly
+. it is like
+. it was like
+about as
+absolute likeness
+act !DETERMINER part
+act as
+act as !DETERMINER cathartic
+act as feeder
+act as foil
+act like
+acted !DETERMINER part
+acting !DETERMINER part
+acting like
+acts !DETERMINER part
+acts like
+acts like !DETERMINER
+acts much like
+affinities between
+affinities of
+affinities with
+affinity between
+affinity of
+affinity with
+after !POSSESSIVEPRONOUN kind
+after my kind
+after our kind
+after their kind
+after your kind
+akin
+akin to
+alikeness
+along !DETERMINER broad lines of
+along !DETERMINER line of
+along !DETERMINER lines
+along !DETERMINER lines of
+always was and will
+an analogy with
+analagous
+analagous to
+analagously
+ancient as
+and !DETERMINER like
+aniline-like
+animal-like
+animalism
+animalisms
+animalistic
+animally
+anything like
+ape-like
+apelike
+apish
+apishly
+apishness
+appear as
+appeared as
+appearing as
+appears as
+arborescent
+art-like
+as !DETERMINER duck
+as !DETERMINER kind of
+as !DETERMINER lamb
+as !DETERMINER sort of
+as acted
+as acted.
+as deaf as
+as deaf as !DETERMINER door
+as deaf as !DETERMINER post
+as deaf as an adder
+as do
+as hard as nails
+as if
+as if !DETERMINER
+as if !MOTIONPREP
+as if !VPARTICLE
+as if he were !DETERMINER
+as if I were !DETERMINER
+as if in prayer
+as if it was
+as if it was !DETERMINER
+as if it were
+as if it were !DETERMINER
+as if she were !DETERMINER
+as if they were !DETERMINER
+as if this is
+as if this was
+as if this were
+as if to
+as if you were !DETERMINER
+As in
+as large
+as large as
+as like
+as like !DETERMINER
+as loud as
+as much fun as
+as peas in !DETERMINER pod
+as red as
+as safe as
+as seen as
+as small
+as small as
+as so many
+as statues
+as strong as
+as stubborn as
+as subtle
+as subtle as
+as those of
+as those of !DETERMINER
+as two peas
+as two peas in !DETERMINER pod
+bald as
+bald as !DETERMINER
+bald as !DETERMINER coot
+bald as an egg
+baleful as
+balm-like
+bare as
+based on real characters
+based on real event
+beadlike
+beaklike
+bear !DETERMINER likeness
+bear !DETERMINER likeness to
+bear !DETERMINER resemblance
+bear !DETERMINER similarity
+bearing !DETERMINER !DETERMINER similarity
+bearing !DETERMINER likeness
+bearing !DETERMINER likeness to
+bearing !DETERMINER resemblance
+bearing !DETERMINER resemblance to
+bears !DETERMINER !DETERMINER similarity
+bears !DETERMINER likeness
+bears !DETERMINER likeness to
+bears !DETERMINER resemblance
+bears !DETERMINER resemblance to
+beelike
+big as
+birdlike
+black as
+black as !DETERMINER crow
+black as coal
+black as ebony
+black as ink
+black as midnight
+black as night
+black as pitch
+blind as
+bold as
+bold as !DETERMINER lion
+bold as brass
+bonelike
+bore !DETERMINER likeness
+bore !DETERMINER likeness to
+bore !DETERMINER resemblance
+bore !DETERMINER resemblance to
+bore !DETERMINER similarity
+bore !DETERMINER striking likeness
+bore !DETERMINER striking resemblance
+bore !DETERMINER striking similarity
+boxlike
+brasslike
+bright as
+brittle as
+brittle as glass
+broad as
+brown as
+brown as !DETERMINER berry
+built like
+built like !DETERMINER
+burst like
+burst like !DETERMINER bubble
+burst like !DETERMINER thunderbolt
+burst like !DETERMINER thunderclap
+bursted like
+bursted like !DETERMINER bubble
+bursted like !DETERMINER thunderbolt
+bursted like !DETERMINER thunderclap
+bursting like
+bursting like !DETERMINER bubble
+bursting like !DETERMINER thunderbolt
+bursting like !DETERMINER thunderclap
+bursts like
+bursts like !DETERMINER bubble
+bursts like !DETERMINER thunderbolt
+bursts like !DETERMINER thunderclap
+busy as
+busy as !DETERMINER
+busy as !DETERMINER beaver
+busy as !DETERMINER bee
+by all appearances
+by analogy
+by the same token
+calflike
+calm as
+calm as !DETERMINER mill pond
+came across as
+came as !DETERMINER
+came over as
+camouflage as
+camouflaged as
+camouflages as
+camouflaging as
+can come off like
+canvaslike
+chainlike
+cheap as
+cheap as dirt
+cherrylike
+child-like
+childlike
+childlikeness
+childly
+chip of !DETERMINER old block
+chip off !DETERMINER old block
+christ-like
+churchlike
+churchliness
+churchly
+churchy
+clean as
+clear as
+clerkliness
+clerkly
+close as
+close facsimile
+close imitation
+close in appearance
+close in appearance to
+close in looks
+close likeness
+close replica
+close reproduction
+close resemblance
+close study
+cocky as
+cold as
+cold as marble
+come across as
+come as !DETERMINER
+come over as
+come to stand for
+comes across as
+comes as !DETERMINER
+comes over as
+comfortable as
+coming across as
+coming as !DETERMINER
+coming over as
+comme deux gouttes d'eau
+common as
+common thread
+common threads
+commonalities
+commonality
+commonly mistaken for
+conceited as
+cool as
+copied after
+copies after
+copy after
+copying after
+crazy as
+crooked as
+crow like !DETERMINER cock
+crow like !DETERMINER rooster
+crowed like !DETERMINER cock
+crowed like !DETERMINER rooster
+crowing like !DETERMINER cock
+crowing like !DETERMINER rooster
+crows like !DETERMINER cock
+crows like !DETERMINER rooster
+cut from !DETERMINER same cloth as
+dead as
+dead ringer
+dead ringer for
+dead ringers
+dead ringers for
+deaf as
+decided resemblance
+decided resemblances
+depict !DETERMINER
+depicted as
+depiction of
+depictions of
+depicts !DETERMINER
+diamantine
+did something between !DETERMINER
+didn't look like
+didn't look like !DETERMINER kind who
+didn't look like !DETERMINER sort who
+didn't look like !DETERMINER type who
+didn't look much like
+disguise as
+disguised as
+disguises as
+disguising as
+does something between !DETERMINER
+doglike
+domelike
+dove-like
+dovelike
+drawn from real characters
+drawn from real events
+dressed as
+dressed as !DETERMINER
+drunk as
+dry as
+dull as
+duty as !DETERMINER
+easily mistaken for
+effigies
+effigy
+emulate
+emulated as
+emulated for
+emulated from
+emulated through
+emulated with
+emulates
+emulating
+emulating !DETERMINER
+emulation
+emulation of
+emulations
+emulative
+emulator
+emulators
+equated !PRONOUNOBJECTIVE with
+equating !PRONOUNOBJECTIVE with
+every inch
+every inch !DETERMINER part
+everything's just like
+exact likeness
+exactly !DETERMINER sort of
+exactly alike
+exactly as
+exactly like
+exciting as
+exhibit !REFLEXIVEPRONOUN as
+exhibit myself as
+exhibit ourselves as
+exhibit yourself as
+exhibit yourselves as
+exhibited !REFLEXIVEPRONOUN as
+exhibited myself as
+exhibited ourselves as
+exhibited yourself as
+exhibited yourselves as
+exhibiting !REFLEXIVEPRONOUN as
+exhibiting myself as
+exhibiting ourselves as
+exhibiting yourself as
+exhibiting yourselves as
+exhibits myself as
+exhibits ourselves as
+exhibits yourself as
+exhibits yourselves as
+eyelike
+facsimile
+facsimiles
+faint resemblance
+faint resemblances
+fairish
+family likeness
+family likenesses
+fan-like
+fat as !DETERMINER
+fat as !DETERMINER pork hog
+fat as !DETERMINER porpoise
+fat as !DETERMINER quail
+fat as bacon
+fat as brawn
+fat as butter
+faux
+feels like !DETERMINER
+fine as
+firm as !DETERMINER stone
+firm as Gibraltar
+fist-like
+fist like
+fit as
+flat as
+flat as !DETERMINER
+flat as !DETERMINER billiard table
+flat as !DETERMINER board
+flat as !DETERMINER bowling green
+flat as !DETERMINER cake
+flat as !DETERMINER flounder
+flat as !DETERMINER pancake
+flat as !DETERMINER tennis court
+for like
+found her almost as
+found her as
+found him almost as
+found him as
+found them almost as
+found them as
+frequently mistaken for
+fresh as
+funny as
+gall-like
+gaudy as
+gaudy as !DETERMINER
+gay as !DETERMINER lark
+gemlike
+gentle as
+gentle as !DETERMINER
+gives !DETERMINER impression of !DETERMINER
+goatlike
+gobiods
+gobioid
+good as
+gooselike
+governess-like
+governess like
+graceful as
+gruff as
+gypsy-like
+half-alike
+happy as
+hard as
+hard as !DETERMINER rock
+hard as nails
+hard as stone
+has looked something like
+he's just like
+he seems
+heavy as lead
+high as
+hoarse as
+horse-like
+horse like
+horselike
+hot as !DETERMINER
+human-like
+humanlike
+hungry as
+imagine it as
+imagine it to be
+imagined it as
+imagined it to be
+imagines it as
+imagines it to be
+imagining it as
+imagining it to be
+impersonate
+impersonated as
+impersonated for
+impersonated from
+impersonates
+impersonating
+impersonation
+impersonations
+impress !PRONOUNOBJECTIVE as
+impressed !PRONOUNOBJECTIVE as
+impresses !PRONOUNOBJECTIVE as
+impressing !PRONOUNOBJECTIVE as
+in !DETERMINER depiction
+in !DETERMINER depiction of
+in !DETERMINER form of !DETERMINER
+in !DETERMINER guise
+in !DETERMINER guise of
+in !DETERMINER guise of !DETERMINER
+in !DETERMINER manner
+in !DETERMINER portrayal
+in !DETERMINER portrayal of
+in !DETERMINER semblance
+in !DETERMINER semblance of
+in !DETERMINER semblances
+in !DETERMINER semblances of
+in !DETERMINER vein of !DETERMINER
+indicted as
+innocent as
+is just like
+is like
+is reminiscent of
+is very much like
+it's also like
+it's also similar to
+it's just like
+it's like
+it is also like
+it is just like
+it is like
+it is shades of
+it looks as if
+it smacks of
+it sounded like
+it sounds like
+it takes on !DETERMINER decidedly
+jellylike
+joint-like
+just as !DETERMINER
+just as if !DETERMINER
+just as if !MOTIONPREP
+just as if !VPARTICLE
+just as in
+just as it looked
+just as it looks
+just as it resembles
+just like !DETERMINER
+just like !DETERMINER others
+just like !QUESTION
+just like another
+just like it resembles
+just like others
+just not as
+just not so
+kind of look
+kind of look that
+kinglike
+knew !PRONOUNOBJECTIVE as !DETERMINER
+knifelike
+know !PRONOUNOBJECTIVE as !DETERMINER
+knowing !PRONOUNOBJECTIVE as !DETERMINER
+knows !PRONOUNOBJECTIVE as !DETERMINER
+ladylikeness
+large as
+leatherlike
+life-like
+life-rendering
+life-size
+life-sized
+life as !DETERMINER
+life size
+lifelike
+lifelike-image
+lifelike-images
+lifelike image
+lifelike images
+lifelikeness
+light as
+light as !DETERMINER
+light as !DETERMINER feather
+light as air
+light as any wind that blows
+light as day
+light as gossamer
+lightning-like
+like---but oh how different
+like-eyed
+like-fashioned
+like-featured
+like-looking
+like-made
+like-sex
+like-shaped
+like-sized
+like !DETERMINER
+like !DETERMINER bat
+like !DETERMINER bat out of hell
+like !DETERMINER blue streak
+like !DETERMINER bolt
+like !DETERMINER bolt from !DETERMINER blue
+like !DETERMINER book
+like !DETERMINER bull
+like !DETERMINER bump
+like !DETERMINER Colossus
+like !DETERMINER figure
+like !DETERMINER figure out of
+like !DETERMINER flash
+like !DETERMINER furnace
+like !DETERMINER horse in !DETERMINER mill
+like !DETERMINER house afire
+like !DETERMINER house on fire
+like !DETERMINER lamb
+like !DETERMINER leech
+like !DETERMINER lord
+like !DETERMINER man
+like !DETERMINER others
+like !DETERMINER prune
+like !DETERMINER rock
+like !DETERMINER rock of Gibraltar
+like !DETERMINER sailor
+like !DETERMINER scared rabbit
+like !DETERMINER shot out of
+like !DETERMINER shot out of hell
+like !DETERMINER sieve
+like !DETERMINER sitting duck
+like !DETERMINER soldier
+like !DETERMINER streak
+like !DETERMINER thunderclap
+like !DETERMINER trooper
+like all creation
+like all forty
+like an open book
+like an oven
+like another
+like anything
+like arms
+like as not
+like blazes
+like buckets in !DETERMINER well
+like calf
+like dough
+like figures
+like for like
+like grains of sand
+like greased lightening
+like greased lightning
+like he
+like he !AUX
+like hell I will
+like it's
+like it's another
+like it !AUX
+like it is
+like it is another
+like lambs
+like lambs to !DETERMINER slaughter
+like lambs to slaughter
+like life
+like metal
+like new
+like one possessed
+like others who
+like parchment
+like putty
+like putty in your hands
+like real life
+like rubber
+like sardines in !DETERMINER can
+like she
+like she !AUX
+like shooting fish in !DETERMINER barrel
+like sieves
+like sin
+like sitting ducks
+like sixty
+like so
+like so many
+like something
+like stars
+like steel
+like sweet bells jangled
+like Swiss cheese
+like taking candy from !DETERMINER baby
+like that of
+like that of !DETERMINER
+like they
+like they !AUX
+like this
+like two drops of water
+like two peas
+like two peas in !DETERMINER pod
+like veal
+like water
+like water off !DETERMINER duck's back
+like wax
+liken
+liken !DETERMINER
+liken it to
+liken it to !DETERMINER
+liken to
+likened
+likened !DETERMINER
+likened it to
+likened it to !DETERMINER
+likeness
+likeness of
+likeness to
+likenesses
+likening
+likening !DETERMINER
+likening it to
+likening it to !DETERMINER
+likens
+likens !DETERMINER
+likens it to
+likens it to !DETERMINER
+likes of
+liking it to
+liking it to !DETERMINER
+liplike
+living as !DETERMINER
+look-!DETERMINER-like
+look-alike
+look-alikes
+lookalike
+lookalikes
+looked something like
+machine-like
+machinelike
+mammal-like
+mammal resembling
+mammals resembling
+manlike type
+manlike types
+marked resemblance
+marked resemblances
+may appear !DETERMINER little
+may appear as
+may appear like
+may appear slightly
+may look like
+may pretend
+may pretend not to
+may pretend not to be
+may pretend to
+may seem !DETERMINER little
+may seem as
+may seem like
+may seem slightly
+may sound
+may sound slightly
+meek as
+mimeses
+mimesis
+mimetic
+mimetically
+mimic
+mimicries
+mimicry
+mimics
+mineral-like
+mirror-like
+mirror !DETERMINER
+mirrored
+mirroring
+mirroring !DETERMINER
+mirrors !DETERMINER
+mistaken for all !DETERMINER time
+monkeylike
+moonlike
+much as
+much like
+much like !DETERMINER
+much like !QUESTION
+naked as
+near-resembling
+near likeness
+near likenesses
+needlelike
+net-like
+net like
+netlike
+not all that different
+not all that different from
+not unlike
+numerous as
+numerous as !DETERMINER sands
+numerous as !DETERMINER stars
+nutlike
+nutty as
+object resembling
+objects resembling
+old as
+old as adam
+only !DETERMINER replica of
+only !DETERMINER shadow of
+only !DETERMINER skeleton of
+only an imitation
+only an imitation of
+organ resembling
+organs resembling
+painterly
+pale as
+paralleling
+parklike
+part resembling
+parts resembling
+passing resemblance
+patient as
+pattern !PRONOUNOBJECTIVE after
+pattern !REFLEXIVEPRONOUN
+pattern !REFLEXIVEPRONOUN after
+pattern after
+patterned !PRONOUNOBJECTIVE after
+patterned !REFLEXIVEPRONOUN
+patterned !REFLEXIVEPRONOUN after
+patterned after
+patterning !PRONOUNOBJECTIVE after
+patterning !REFLEXIVEPRONOUN
+patterning !REFLEXIVEPRONOUN after
+patterning after
+patterns !PRONOUNOBJECTIVE after
+patterns !REFLEXIVEPRONOUN
+patterns !REFLEXIVEPRONOUN after
+patterns after
+peas in !DETERMINER pod
+pebble-like
+pennately
+perfect likeness
+perfect likeness to
+perfect likenesses
+performance as !DETERMINER
+person resembling
+persons resembling
+phony as
+pigged
+pigging
+piggish in
+pinnation
+plantlike
+play like
+played like
+playing like
+plays like
+plays like !DETERMINER
+pleased as !DETERMINER
+pleuropneumonia-like
+plucked-looking
+pome-like
+poor as
+portray
+portrayal
+portrayal of
+portrayals
+portrayals of
+portrayed
+portrayed as
+portraying
+portrays
+pose as
+pose like
+posed as
+posed like
+poses as
+poses like
+posing as
+posing like
+precisely !DETERMINER sort of
+present as
+presented as
+presenting as
+presents as
+proportional to
+puff like
+puff like !DETERMINER grampus
+puffed like
+puffed like !DETERMINER grampus
+puffing like
+puffing like !DETERMINER grampus
+puffs like
+puffs like !DETERMINER grampus
+pure as
+quasi accident
+quasi acquaintance
+quasi actor
+quasi adjective
+quasi adjustment
+quasi admiration
+quasi adoption
+quasi advantage
+quasi adverb
+quasi advice
+quasi advocate
+quasi affection
+quasi agreement
+quasi alarm
+quasi alliance
+quasi alumnus
+quasi amateur
+quasi amendment
+quasi amusement
+quasi angel
+quasi animal
+quasi answer
+quasi apology
+quasi appeal
+quasi application
+quasi appointment
+quasi appreciation
+quasi approval
+quasi architect
+quasi argument
+quasi aristocracy
+quasi aristocrat
+quasi army
+quasi arrangement
+quasi art
+quasi artist
+quasi aspiration
+quasi asset
+quasi assignment
+quasi assistance
+quasi assurance
+quasi asylum
+quasi athlete
+quasi attachment
+quasi attack
+quasi attainment
+quasi attempt
+quasi attendant
+quasi attention
+quasi attorney
+quasi auditor
+quasi author
+quasi authority
+quasi baby
+quasi ballot
+quasi bank
+quasi banker
+quasi bankruptcy
+quasi banquet
+quasi baptism
+quasi bargain
+quasi basis
+quasi battle
+quasi beginner
+quasi belief
+quasi beneficiary
+quasi benevolence
+quasi biography
+quasi bird
+quasi blessing
+quasi blockade
+quasi blunder
+quasi body
+quasi broker
+quasi brother
+quasi calamity
+quasi caller
+quasi cancellation
+quasi candidate
+quasi candor
+quasi captain
+quasi cause
+quasi celebration
+quasi certificate
+quasi champion
+quasi charity
+quasi cheer
+quasi chemistry
+quasi circulation
+quasi citizen
+quasi civilization
+quasi clairvoyance
+quasi client
+quasi climax
+quasi club
+quasi co-operation
+quasi collapse
+quasi collateral
+quasi collection
+quasi collector
+quasi college
+quasi colloquial
+quasi combat
+quasi comedy
+quasi comfort
+quasi command
+quasi compact
+quasi competition
+quasi competitor
+quasi compliance
+quasi compliment
+quasi comprehension
+quasi compromise
+quasi concern
+quasi concession
+quasi conclusion
+quasi conference
+quasi confession
+quasi confinement
+quasi confirmation
+quasi conflict
+quasi conformance
+quasi congratulation
+quasi congress
+quasi conjunction
+quasi connection
+quasi conquest
+quasi conscience
+quasi consent
+quasi consequence
+quasi consideration
+quasi consignment
+quasi consolation
+quasi consolidation
+quasi constitution
+quasi construction
+quasi consulatation
+quasi consumption
+quasi contempt
+quasi contest
+quasi continent
+quasi continuation
+quasi contract
+quasi contrast
+quasi contribution
+quasi control
+quasi convenience
+quasi convention
+quasi conversation
+quasi conveyance
+quasi conviction
+quasi cook
+quasi copula
+quasi corporateness
+quasi corporation
+quasi correction
+quasi council
+quasi coupon
+quasi court
+quasi courtesy
+quasi cousin
+quasi craft
+quasi creation
+quasi credit
+quasi creditor
+quasi crime
+quasi crisis
+quasi criticism
+quasi cultivation
+quasi culture
+quasi currency
+quasi customer
+quasi damage
+quasi debt
+quasi decision
+quasi declaration
+quasi decoration
+quasi dedication
+quasi default
+quasi defeat
+quasi defiance
+quasi deficit
+quasi definition
+quasi dejection
+quasi delegate
+quasi delict
+quasi demand
+quasi democrat
+quasi deposit
+quasi depreciation
+quasi depression
+quasi deputy
+quasi despair
+quasi destination
+quasi destruction
+quasi detention
+quasi development
+quasi devil
+quasi devotion
+quasi diamond
+quasi difference
+quasi dinner
+quasi diplomacy
+quasi disadvantage
+quasi disappeance
+quasi disaster
+quasi discipline
+quasi discovery
+quasi discrimination
+quasi disgrace
+quasi disgust
+quasi dismissal
+quasi distress
+quasi distribution
+quasi diversion
+quasi division
+quasi dominion
+quasi donation
+quasi doubt
+quasi drama
+quasi earnings
+quasi easement
+quasi economy
+quasi education
+quasi election
+quasi emperor
+quasi emphasis
+quasi employment
+quasi endorsement
+quasi enemy
+quasi enforcement
+quasi engagement
+quasi enrollment
+quasi entertainment
+quasi enthusiasm
+quasi envy
+quasi error
+quasi escape
+quasi estimation
+quasi evidence
+quasi exchange
+quasi exclusion
+quasi excuse
+quasi executive
+quasi exertion
+quasi exile
+quasi expectation
+quasi expenditure
+quasi expense
+quasi experience
+quasi expert
+quasi explanation
+quasi export
+quasi exposure
+quasi expression
+quasi fact
+quasi factor
+quasi factory
+quasi faculty
+quasi failure
+quasi faith
+quasi farewell
+quasi farmer
+quasi fascination
+quasi favor
+quasi fee
+quasi fiction
+quasi flight
+quasi force
+quasi friend
+quasi fulfillment
+quasi gem
+quasi genius
+quasi gentleman
+quasi gift
+quasi glory
+quasi graduate
+quasi grief
+quasi growth
+quasi guarantee
+quasi guest
+quasi guilt
+quasi handicap
+quasi hardship
+quasi harm
+quasi health
+quasi heir
+quasi help
+quasi hero
+quasi hesitation
+quasi historian
+quasi history
+quasi holiday
+quasi honor
+quasi horror
+quasi identification
+quasi ignorance
+quasi illness
+quasi import
+quasi improvement
+quasi incentive
+quasi inclination
+quasi increase
+quasi indifference
+quasi inducement
+quasi indulgence
+quasi inference
+quasi information
+quasi inheritance
+quasi initiation
+quasi injury
+quasi injustice
+quasi innocence
+quasi inquiry
+quasi insight
+quasi inspection
+quasi inspiration
+quasi installation
+quasi institution
+quasi instruction
+quasi insult
+quasi integrity
+quasi intention
+quasi interest
+quasi interference
+quasi interview
+quasi introduction
+quasi invasion
+quasi investigation
+quasi invitation
+quasi invoice
+quasi judge
+quasi judgment
+quasi justice
+quasi justification
+quasi kindred
+quasi king
+quasi knowledge
+quasi labor
+quasi lady
+quasi lament
+quasi league
+quasi legacy
+quasi legality
+quasi legislation
+quasi liability
+quasi liberty
+quasi limit
+quasi literature
+quasi loan
+quasi lord
+quasi loss
+quasi luxury
+quasi magic
+quasi maintenance
+quasi majority
+quasi management
+quasi manager
+quasi market
+quasi masterpiece
+quasi maximum
+quasi melancholy
+quasi member
+quasi memory
+quasi mercy
+quasi merit
+quasi message
+quasi method
+quasi millionaire
+quasi minimum
+quasi minister
+quasi miracle
+quasi misery
+quasi mishap
+quasi missionary
+quasi monopoly
+quasi mystery
+quasi navy
+quasi need
+quasi neglect
+quasi negligence
+quasi neighbor
+quasi neutrality
+quasi news
+quasi nobleman
+quasi nomination
+quasi notice
+quasi novel
+quasi obedience
+quasi objection
+quasi objective
+quasi obligation
+quasi observance
+quasi observation
+quasi obstacle
+quasi occupation
+quasi offense
+quasi offer
+quasi official
+quasi omission
+quasi opponent
+quasi opposition
+quasi optimist
+quasi orator
+quasi outrage
+quasi owner
+quasi ownership
+quasi painter
+quasi panic
+quasi paradise
+quasi pardon
+quasi participation
+quasi partisan
+quasi partner
+quasi patron
+quasi payment
+quasi penalty
+quasi perfection
+quasi person
+quasi perusal
+quasi philosopher
+quasi pity
+quasi plea
+quasi pleasure
+quasi pledge
+quasi plenty
+quasi poem
+quasi policy
+quasi politician
+quasi possession
+quasi poverty
+quasi power
+quasi praise
+quasi preference
+quasi prejudice
+quasi preparation
+quasi prepositional
+quasi pressure
+quasi prestige
+quasi prevention
+quasi principal
+quasi principle
+quasi prisoner
+quasi privilege
+quasi problem
+quasi product
+quasi profit
+quasi progress
+quasi prohibition
+quasi promise
+quasi prophecy
+quasi proposal
+quasi prosecution
+quasi prosperity
+quasi protection
+quasi provocation
+quasi punishment
+quasi pupil
+quasi purchase
+quasi purity
+quasi pursuit
+quasi qualification
+quasi quarantine
+quasi quarrel
+quasi quotation
+quasi reality
+quasi realization
+quasi reason
+quasi rebellion
+quasi receipt
+quasi recognition
+quasi recollection
+quasi reconciliation
+quasi record
+quasi recreation
+quasi reduction
+quasi reference
+quasi refinement
+quasi reform
+quasi refusal
+quasi registration
+quasi rejection
+quasi relief
+quasi religion
+quasi remedy
+quasi reminder
+quasi remittance
+quasi remorse
+quasi renewal
+quasi rent
+quasi repair
+quasi replacement
+quasi reply
+quasi report
+quasi representative
+quasi request
+quasi requirement
+quasi rescue
+quasi residence
+quasi resident
+quasi resistance
+quasi response
+quasi restoration
+quasi result
+quasi retirement
+quasi revolution
+quasi reward
+quasi rival
+quasi romance
+quasi safety
+quasi sagacity
+quasi saint
+quasi sale
+quasi salvation
+quasi sanction
+quasi sarcasm
+quasi satisfaction
+quasi savings
+quasi scarcity
+quasi scholar
+quasi science
+quasi search
+quasi sentence
+quasi sentiment
+quasi seriousness
+quasi service
+quasi settlement
+quasi severalty
+quasi shortage
+quasi signature
+quasi sincerity
+quasi skill
+quasi slander
+quasi socialist
+quasi soldier
+quasi solution
+quasi sonnet
+quasi sovereign
+quasi space
+quasi specialist
+quasi sphere
+quasi spirit
+quasi sport
+quasi standard
+quasi starvation
+quasi statesman
+quasi strike
+quasi student
+quasi subject
+quasi submission
+quasi success
+quasi suggestion
+quasi supervision
+quasi support
+quasi suppression
+quasi sympathy
+quasi system
+quasi teacher
+quasi temperance
+quasi testimony
+quasi thanks
+quasi threat
+quasi toleration
+quasi tradition
+quasi tragedy
+quasi translation
+quasi trial
+quasi triumph
+quasi trustee
+quasi truth
+quasi tyranny
+quasi union
+quasi unity
+quasi university
+quasi usufruct
+quasi utility
+quasi vacation
+quasi valuation
+quasi value
+quasi verdict
+quasi victim
+quasi victory
+quasi vigilance
+quasi violation
+quasi violence
+quasi virtue
+quasi vocation
+quasi volunteer
+quasi wager
+quasi war
+quasi warrant
+quasi weakling
+quasi wealth
+quasi whisper
+quasi wisdom
+quasi witness
+quasi wonder
+quasi worship
+quasi zeal
+quay-like
+queer as
+quick as
+quiet as
+rapier-like
+red as
+red as !DETERMINER
+red as !DETERMINER beet
+red as !DETERMINER hot coal
+red as !DETERMINER live coal
+red as !DETERMINER lobster
+red as !DETERMINER turkey-cock
+red as blood
+red as fire
+related to and resembling
+remarkably like
+remotely like
+replica
+replicas
+represent !DETERMINER scene
+represent themselves as
+represented !DETERMINER scene
+representing !DETERMINER scene
+represents !DETERMINER scene
+represents herself !DETERMINER
+represents himself as
+resemblance
+resemblances
+resemble
+resemble pearls
+resemble sugar
+resembled
+resembled pearls
+resembled sugar
+resembles
+resembles !DETERMINER
+resembles pearls
+resembles sugar
+resembling
+resembling !DETERMINER
+resembling !DETERMINER kind of
+resembling !DETERMINER sort of
+resembling pearls
+resembling sort of
+resembling sugar
+responsibilities as !DETERMINER
+right out of !DETERMINER
+ringer for
+role as !DETERMINER
+saw !PRONOUNOBJECTIVE as
+saw it as
+saw it as !DETERMINER
+sawlike
+scarce as
+see !PRONOUNOBJECTIVE as
+see as
+see it as
+see it as !DETERMINER
+seeing !PRONOUNOBJECTIVE as
+seeing as
+seeing it as
+seeing it as !DETERMINER
+seem as
+seem like
+seemed as
+seemed like
+seeming as
+seeming like
+seems as
+seems like
+SEEMS LIKE !DETERMINER LAST PERSON
+seems to take after
+seen as
+sees !PRONOUNOBJECTIVE as
+sees as
+sees it as
+sees it as !DETERMINER
+semblable
+semblables
+semblably
+semblance
+semblance of
+semblances
+semblances of
+shades like
+shades resembling
+shadowlike
+share !DETERMINER same
+shared !DETERMINER same
+shares !DETERMINER same
+sharing !DETERMINER same
+sharp as
+sharp as !DETERMINER
+sharp as !DETERMINER needle
+sharp as !DETERMINER razor
+sharp as !DETERMINER two-edged sword
+sharp as broken glass
+she's just like
+she seems
+should look like
+show up as
+showed up as
+showing up as
+shows up as
+sick as
+sick as !DETERMINER
+silent as
+sill-like
+silly as
+similar in
+similar in appearance
+similar in look to
+similar to hops
+similar with
+similarities to
+simile with
+similes with
+simulacra
+simulacrum
+simulant
+simulants
+simular
+simulars
+simulate
+simulated for
+simulated in
+simulated on
+simulated with
+simulates
+simulating
+simulation
+simulations
+simulative
+slick as
+slippery as
+slow as
+sly as
+slyphlike
+smack like
+smacks like
+smell like
+smell like !DETERMINER
+smelled like
+smelled like !DETERMINER
+smelling like
+smelling like !DETERMINER
+smells like
+smells like !DETERMINER
+smoke like !DETERMINER
+smoke like !DETERMINER chimney
+smoke like !DETERMINER furnace
+smoked like !DETERMINER chimney
+smoked like !DETERMINER furnace
+smokes like !DETERMINER chimney
+smokes like !DETERMINER furnace
+smoking like !DETERMINER chimney
+smoking like !DETERMINER furnace
+smooth as
+smooth as !DETERMINER baby's ass
+smooth as !DETERMINER billiard ball
+smooth as glass
+snail-likeness
+snail-likness
+snakelike
+snug as
+so resembles
+so very much resembles
+sober as
+soft as
+soft as !DETERMINER kiss
+soft as !DETERMINER sigh
+soft as clay
+soft as dough
+soft as putty
+soft as silk
+solid as
+some striking parallels with
+something close to
+something close to !DETERMINER
+something like
+something like that
+something like this
+sort of like
+sort of like !DETERMINER
+sort of look
+sort of look that
+sound as if
+sound as like
+sound like
+sound similar
+sounded like
+sounded similar
+sounding like
+sounding similar
+sounds like
+sounds much like
+sounds similar
+sour as
+spit-and-image
+spit and image
+spit and images of
+spit image
+spit images
+spittin image
+spittin image of
+spittin images
+spittin images of
+spitting-image
+spitting-images
+spitting image
+spitting image of
+spitting images
+spitting images of
+squill-like
+stall-like
+stand as straight
+standing as straight
+stands as straight
+startling-resemblance
+startling-resemblances
+startling resemblance
+startling resemblances
+steady as
+step-like
+step like
+sticklike
+stiff as
+stood as straight
+straight as
+straight as !DETERMINER
+straight as an edge
+straight out of !DETERMINER
+striking-likeness
+striking likeness
+striking parallel with
+striking parallels
+striking parallels with
+striking resemblance
+striking resemblances
+strong as
+strong as !DETERMINER horse
+strong as !DETERMINER lion
+strong as an ox
+strong as brandy
+strong as flesh and blood
+strong as strong
+stubborn as
+stubborn as !DETERMINER mule
+student-like
+style !PRONOUNOBJECTIVE after
+style !REFLEXIVEPRONOUN after
+styled !PRONOUNOBJECTIVE after
+styled !REFLEXIVEPRONOUN after
+styles !PRONOUNOBJECTIVE after
+styles !REFLEXIVEPRONOUN after
+styling !PRONOUNOBJECTIVE after
+styling !REFLEXIVEPRONOUN after
+such-like
+such like
+suchlike
+suggest something like
+suggested !DETERMINER resemblance
+suggesting !DETERMINER resemblance
+sweet as
+swift as
+sylph-like
+sylphlike
+taken as !DETERMINER
+taste like !DETERMINER
+tasted like !DETERMINER
+tastes like !DETERMINER
+tasting like !DETERMINER
+that suggests !DETERMINER
+then as now
+then, as now
+then, as now,
+they seem
+thick as
+thin as !DETERMINER
+thin as !DETERMINER lath
+thin as !DETERMINER rail
+thing resembling
+things resembling
+think like
+thinking like
+thinks like
+though !DETERMINER portrayal of
+thought like
+tiger-like
+tight as
+to be like her
+to be like him
+to be like them
+to behave like
+torch-like
+torchlike
+torpedo-like
+torrent-like
+tough as
+tough as leather
+tripe-like
+tripe-visaged
+true as
+ugly as
+uncommonly-like
+uncommonly like
+under !DETERMINER disguise
+under !DETERMINER guise of !DETERMINER
+under !POSSESSIVEPRONOUN apparent
+under !POSSESSIVEPRONOUN disguise
+under !POSSESSIVEPRONOUN seeming
+under cover as
+vague resemblance
+vague similarities
+vague similarity
+vaguely-similar
+vaguely similar
+vegetable-like
+verge to
+verge toward
+verge toward !DETERMINER
+verged to
+verged toward
+verged toward !DETERMINER
+verges to
+verges toward
+verges toward !DETERMINER
+verging to
+verging toward
+verging toward !DETERMINER
+verisimilar
+verisimilitude
+verisimilitudes
+very-like
+very like
+very much like
+view it as !DETERMINER
+viewed it as !DETERMINER
+viewing it as !DETERMINER
+views it as !DETERMINER
+vulgar-like
+warm as
+was and will
+was and will be
+was looking something like
+was shades of
+was, is, and will be
+weak as
+wet as
+which suggests !DETERMINER
+whirl like !DETERMINER dervish
+whirled like !DETERMINER dervish
+whirling like !DETERMINER dervish
+whirls like !DETERMINER dervish
+white as
+white as !DETERMINER lily
+white as !DETERMINER sheet
+white as snow
+will look similar
+wise as
+wisplike
+witchlike
+with !DETERMINER look of
+with !DETERMINER portrayal of
+with like
+wormish
+wormlike
+wraithlike
+wreathlike
+zichel

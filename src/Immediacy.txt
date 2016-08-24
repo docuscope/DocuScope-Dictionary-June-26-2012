@@ -1,0 +1,1437 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !HEADDET day's
+!AUX !HEADDET month's
+!AUX !HEADDET week's
+!AUX !HEADDET year's
+!AUX afoot
+!AUX alive and kicking
+!AUX alive and well
+!AUX around right here
+!AUX at hand
+!AUX available right here
+!AUX best known
+!AUX best known for
+!AUX best remembered
+!AUX best remembered for
+!AUX just now
+!AUX live
+!AUX live from
+!AUX live in
+!AUX news
+!AUX now
+!AUX now !DETERMINER
+!AUX now currently
+!AUX now extinct
+!AUX now in !DETERMINER air
+!AUX now upon
+!AUX on hand
+!AUX present
+!AUX remembered
+!AUX remembered for
+!AUX right now
+!AUX ripe
+!AUX seen right here
+!AUX survived by
+!AUX upon
+!COME right from
+!COME right to
+!CUT directly to
+!DETERMINER blow-by-blow
+!DETERMINER current
+!DETERMINER current generation
+!DETERMINER current times
+!DETERMINER currently
+!DETERMINER immediacy of
+!DETERMINER immediate
+!DETERMINER living
+!DETERMINER living and breathing
+!DETERMINER matter of concern
+!DETERMINER moment has come
+!DETERMINER new area
+!DETERMINER new business
+!DETERMINER new firm
+!DETERMINER newly
+!DETERMINER nonce
+!DETERMINER nonces
+!DETERMINER now
+!DETERMINER now generation
+!DETERMINER now look
+!DETERMINER now thing
+!DETERMINER play-by-play
+!DETERMINER present !TIMEFRAME
+!DETERMINER present age
+!DETERMINER present day
+!DETERMINER present juncture
+!DETERMINER present junctures
+!DETERMINER present moment
+!DETERMINER present moments
+!DETERMINER present occasion
+!DETERMINER present occasions
+!DETERMINER present time
+!DETERMINER present times
+!DETERMINER ready
+!DETERMINER recent past
+!DETERMINER smell of powder
+!DETERMINER spanking-new
+!DETERMINER time !AUX now
+!DETERMINER time !AUX ripe
+!DETERMINER time being now
+!DETERMINER time now
+!DETERMINER times now
+!DETERMINER very moment
+!DETERMINER wink of an eye
+!DETERMINER winks of an eye
+!DO it offhand
+!DO offhand
+!GET fresh
+!GET hep
+!GET hep about
+!GET hep to
+!GO on now
+!GO on right !HEADDET moment
+!GO on right now
+!HAVE currency
+!HAVE effective today
+!HAVE in hand
+!HAVE right in hand
+!HEADDET !AUX !DETERMINER !TIMEOFDAY
+!HEADDET !AUX !DETERMINER moment
+!HEADDET !AUX !DETERMINER time
+!HEADDET !AUX news
+!HEADDET !TIMEFRAME
+!HEADDET !TIMEOFDAY
+!HEADDET aft
+!HEADDET air
+!HEADDET AM
+!HEADDET bank and shoal of time
+!HEADDET big
+!HEADDET day
+!HEADDET day's
+!HEADDET day and age
+!HEADDET day and time
+!HEADDET decade's
+!HEADDET goodly frame
+!HEADDET hour's
+!HEADDET instant
+!HEADDET minute
+!HEADDET moment
+!HEADDET month's
+!HEADDET morning
+!HEADDET music
+!HEADDET night
+!HEADDET one
+!HEADDET pendent world
+!HEADDET PM
+!HEADDET point
+!HEADDET quintessence of dust
+!HEADDET scepter'd isle
+!HEADDET seat of Mars
+!HEADDET second
+!HEADDET segment's
+!HEADDET single
+!HEADDET size
+!HEADDET stage
+!HEADDET time
+!HEADDET time around
+!HEADDET very !MONTH
+!HEADDET very !TIMEFRAME
+!HEADDET very day
+!HEADDET very instant
+!HEADDET very minute
+!HEADDET very moment
+!HEADDET very second
+!HEADDET way
+!HEADDET week's
+!HEADDET world
+!HEADDET year's
+!MAKE an offhand
+!POSSESSIVEPRONOUN !TIMEFRAME !AUX come
+!SPEAK OFF !DETERMINER CUFF
+!WASTE no time
+. !HEADDET day's
+. !HEADDET moment
+. !HEADDET month's
+. !HEADDET week's
+. !HEADDET year's
+. here !AUX
+. here !AUX !DETERMINER
+about !HEADDET
+act on !DETERMINER spur of !DETERMINER moment
+acted on !DETERMINER spur of !DETERMINER moment
+acting on !DETERMINER spur of !DETERMINER !TIMEFRAME
+acts on !DETERMINER spur of !DETERMINER moment
+afoot
+after now
+alert for !DETERMINER
+alert for !DETERMINER moment
+all-new
+all !DETERMINER time new
+all at once
+an impromptu
+and here
+and now
+are live
+are live with
+as !ROYALWE speak
+as !ROYALWE speak !HEADDET
+as !ROYALWE type this
+as !ROYALWE witnessed firsthand
+as !ROYALWE write !HEADDET
+as !ROYALWE write this
+as he witnessed firsthand
+as if it were happening now
+as it stands right now
+as now
+as now happens
+as nowadays
+AS OF !HEADDET
+as of !HEADDET !TIMEFRAME
+as of !HEADDET afternoon
+as of !HEADDET day
+as of !HEADDET evening
+as of !HEADDET minute
+as of !HEADDET moment
+as of !HEADDET morning
+as of !HEADDET time
+as of !HEADDET very
+as of !HEADDET very moment
+as of now
+as of today
+as of tommorrow
+As of yesterday
+as recently
+as recently as
+as she witnessed firsthand
+as tends to happen now
+as they now were
+as they witnessed firsthand
+as we have now come to expect
+as we now see
+as we see now
+as we speak
+as we witnessed firsthand
+at-!DETERMINER-moment
+at-hand
+at !DETERMINER double
+at !DETERMINER drop of !DETERMINER
+at !DETERMINER drop of !DETERMINER hat
+at !DETERMINER drop of a hat
+at !DETERMINER glance
+at !DETERMINER instant
+at !DETERMINER mere drop of !DETERMINER hat
+at !DETERMINER moment
+at !DETERMINER point of death
+at !DETERMINER present time
+at !DETERMINER same instant
+at !DETERMINER same moment
+at !DETERMINER time !ROYALWE write !HEADDET
+at !DETERMINER time I am writing !HEADDET
+at !DETERMINER very present
+at !DETERMINER very same moment
+at !HEADDET
+at !HEADDET instant
+at !HEADDET juncture
+at !HEADDET moment
+at !HEADDET phase
+at !HEADDET point
+at !HEADDET point in time
+at !HEADDET stage
+at !HEADDET stage of
+at !HEADDET time
+at !HEADDET time of day
+at !HEADDET very moment
+at hand
+at once
+at one fell swoop
+at one jump
+at point
+at present
+at the ready
+baked fresh
+baked fresh from
+based on !DETERMINER current
+based on current
+be at hand
+be current
+be currently
+be on hand
+be present
+be right over
+be right up
+be right with !PRONOUNOBJECTIVE
+be right with me
+be right with us
+be right with you
+before it's too late
+before it is too late
+before you can say
+beginning now
+being here
+being new
+blow-by-blow
+breaking news right now
+breaking right now
+breaking story right now
+brief moment
+brief moments
+but !DETERMINER moment was finally here
+but here
+but now
+but until now
+by now
+clear and present
+coffee's up
+concurrently
+current
+current account
+current accounts
+current age
+current ages
+current asset
+current assets
+current circumstance
+current circumstances
+current cost
+current costs
+current expenses
+current generation
+current generations
+current juncture
+current junctures
+current liabilities
+current moment
+current moments
+current news
+current occasion
+current occasions
+current of fashion
+current of ideas
+current of thought
+current price
+current prices
+current pulse
+current quotation
+current rate
+current rates
+current ripple
+current ripples
+current saying
+current sayings
+current situation
+current situations
+current time
+current times
+current word
+current words
+current yield
+currently
+currently !AUX now
+currently has
+currently it's
+currently it !AUX
+currently new
+cut on !DETERMINER dime
+cuts on !DETERMINER dime
+cutting on !DETERMINER dime
+dash of !DETERMINER pen
+dashes of !DETERMINER pen
+DEAD IN HER TRACKS
+DEAD IN HIS TRACKS
+DEAD IN MY TRACKS
+DEAD IN OUR TRACKS
+DEAD IN THEIR TRACKS
+deal with it directly
+dealing with it directly
+deals with it directly
+dealt with it directly
+did it unseen
+dinner's served
+dinner is served
+direct from
+direct from !DETERMINER
+direct to
+directly
+directly at
+directly past
+directly with
+down to !DETERMINER second
+eftsoon
+eftsoons
+even as I speak
+even as we speak
+even now
+even now,
+even to !HEADDET day
+even today
+ever since
+exist today
+existing as we speak
+existing today
+exists today
+extemporaneously
+extemporarily
+extempore
+extra current
+feel like only yesterday
+feeling like only yesterday
+feels like only yesterday
+felt like only yesterday
+finally here
+first-hand
+first-handed
+first hand
+firsthand
+firsthand knowledge
+firsthanded
+flagrante delicto
+flash around
+flashed around
+flashes around
+flashing around
+food's ready
+food's up
+for !DETERMINER brief moment
+for !DETERMINER nonce
+for !HEADDET !DAY
+for !HEADDET moment
+for !HEADDET occasion
+for us moderns
+fresh from
+fresh from !DETERMINER irons
+fresh from !DETERMINER stove
+fresh in
+fresh in !POSSESSIVEPRONOUN mind
+fresh in my mind
+fresh in our mind
+fresh in our minds
+fresh in your mind
+fresh in your minds
+fresh off
+fresh off !DETERMINER boat
+fresh off !DETERMINER heels
+fresh off !DETERMINER irons
+fresh off !DETERMINER stove
+fresh out
+freshly
+from-!DETERMINER-hip
+From !DETERMINER headlines
+from !DETERMINER hip
+from !DETERMINER word 'go'
+from !POSSESSIVEPRONOUN own mouth
+from here in
+from here on
+from here out
+from me to you
+from my own mouth
+from now on in
+from our own mouths
+from your own mouth
+from your own mouths
+full and immediate
+good now
+grub's on
+grub's up
+grub up
+happening now
+hark
+hark to
+harked
+harked to
+harken
+harkened
+harkening
+harkens
+harking
+harking to
+harks
+harks to
+he is live
+he is live with
+he is survived by
+hearken
+hearkened
+hearkening
+hearkens
+heartbeat away
+heartbeats away
+held to !HEADDET day
+here's
+here's good luck
+here's looking at
+here's mud in
+here's to absent friends
+here-hence
+here and now
+here comes
+here comes !DETERMINER
+here comes !POSSESSIVEPRONOUN
+here comes another moment
+here is
+here live
+here we had
+here we have
+hereafter,
+hereafter, !DETERMINER
+hereat
+heredes
+heres
+hic et nunc
+hic et ubique
+hoc est
+hold to !HEADDET day
+holding to !HEADDET day
+holds to !HEADDET day
+hot off !DETERMINER
+hot off !DETERMINER fire
+hot off !DETERMINER griddle
+hot off !DETERMINER press
+hot off !DETERMINER spit
+hot on !DETERMINER trail
+hot on !DETERMINER trail of
+hot tip
+hot tips
+however until now
+I am live
+I am live with
+immediacies
+immediacy
+immediate
+immediate action
+immediate actions
+immediate attention
+immediate attentions
+immediately
+immediately began
+immediately begins
+immediately prevailing
+immediateness
+impromptu
+impromptus
+improvisation
+improvisational
+improvisations
+improvise
+improvised as
+improvised on
+improvised with
+improvises
+improvising
+improvisor
+improvisors
+impulsively
+in-hand
+in !DETERMINER blink of an eye
+in !DETERMINER glance
+in !DETERMINER heartbeat
+in !DETERMINER last
+in !DETERMINER last big wave
+in !DETERMINER moment
+IN !DETERMINER moment OF
+in !DETERMINER more recent
+in !DETERMINER more recent experiment
+in !DETERMINER present
+in !DETERMINER same breadth
+in !DETERMINER same breath
+in !DETERMINER second
+in !DETERMINER trice; in one's tracks
+in !DETERMINER twinkling of !DETERMINER bedpost
+in !DETERMINER twinkling of an eye
+in !DETERMINER very present
+in !DETERMINER very same breath
+in !DETERMINER very same moment
+in !DETERMINER wink of an eye
+in !HEADDET day
+in !HEADDET day and age
+in !HEADDET day and time
+in !HEADDET last
+in !HEADDET last big wave
+in !HEADDET place
+in !HEADDET time
+in !HEADDET vicinity
+in a time of need
+in all directions at once
+in force now
+in force right now
+in here as I speak
+in here as we speak
+in here now
+in here today
+in less than no time
+in mid-sentence
+in one's tracks
+in one feel swoop
+in one fell swoop
+in our present
+in recent moment
+in recent times
+in recent years
+in these days
+in these times
+in time of need
+in today's
+in today's society
+instancies
+instancy
+instant
+instantaneity
+instantaneous
+instantaneously
+instantaneousness
+instanter
+instantly
+instants
+interrupt !PRONOUNOBJECTIVE mid-sentence
+interrupted !PRONOUNOBJECTIVE mid-sentence
+interrupting !PRONOUNOBJECTIVE mid-sentence
+interrupts !PRONOUNOBJECTIVE mid-sentence
+into it unseen
+it's !NUMS1TO100 moment earlier
+it's !NUMS1TO100 moment later
+it's currently
+it's friday
+it's monday
+it's now
+IT'S NOW !MONTH
+IT'S NOW !TIMEOFDAY
+IT'S NOW LUNCHTIME
+IT'S NOW RAINING
+it's now time
+it's now time to
+it's saturday
+it's the autumn
+it's the spring
+it's the summer
+it's the winter
+it's thursday
+it's time
+it's tuesday
+it's wednesday
+it !AUX !HEADDET moment
+it !AUX currently
+it !AUX high time
+it !AUX now time
+it !AUX time
+it seems like today
+it seems like yesterday
+just !DETERMINER couple of moment ago
+just !DETERMINER last !NUMS1TO100 moment
+just !HEADDET once
+just !VERBED
+just !VERBING
+just about time for
+just across !DETERMINER street
+just around !DETERMINER corner
+just as !DETERMINER clock
+just as !POSSESSIVEPRONOUN clock
+just as !POSSESSIVEPRONOUN watch ticked
+just as he was
+just as I was
+just as it was
+just as she was
+just as they were
+just as we speak
+just as we were
+just as you were
+just at !DETERMINER stroke of
+just been
+just here
+just in !DETERMINER last few moment
+just in !DETERMINER last moment
+just in hand
+just in time to
+just last !DAY
+just last moment
+just next door
+just now
+JUST ON !DETERMINER HORIZON
+just out
+just recently
+just surfaced
+JUST THEN
+just today
+just under !DETERMINER wire
+just when
+just yesterday
+know it firsthand
+latterly
+less than no time
+like !DETERMINER shot
+like !DETERMINER streak of lightning
+like !DETERMINER thief in !DETERMINER night
+like !DETERMINER thunderbolt
+like it happened !HEADDET morning
+like it happened yesterday
+like just today
+live-front
+live-front switchboard
+live-front switchboards
+live-sawed
+live-virus
+live-viruses
+live ball
+live each moment
+live footage
+live from
+live music
+live program
+live programs
+Live report
+Live reports
+live show
+live shows
+live tallies
+live tally
+live television
+lived each moment
+lives each moment
+living being
+living beings
+living death
+living deaths
+living each moment
+living force
+living forces
+living fossil
+living fossils
+living image
+living images
+living issue
+living issues
+living language
+living languages
+living machine
+living machines
+living matter
+living matters
+living nature
+living natures
+living picture
+living pictures
+living pledge
+living pledges
+living rock
+living rocks
+living sapphires
+living soul
+living souls
+livings in
+matter at hand
+matter of concern
+matters at hand
+matters of concern
+modern-day
+modern day
+moment
+moment's
+moment's notice
+momently
+momentness
+more recent
+most recent
+most recent of
+most recently of
+most reverend
+mot d'ordre
+new all !DETERMINER time
+new area
+new areas
+new business
+new challenge
+new challenges
+new everyday
+new firm
+new firms
+new from
+new from !DETERMINER irons
+new from !DETERMINER stove
+NEW HIRE
+new hires
+new kid
+new kid on !DETERMINER block
+new off
+new off !DETERMINER irons
+new off !DETERMINER stove
+new one
+new one everyday
+new ones
+new ones everyday
+new opportunities
+new opportunity
+new option
+new options
+new parking lot
+new parking lots
+new position
+new positions
+new road
+new roads
+NEW TO !HEADDET
+NEW TO ALL !HEADDET
+newest-of-!DETERMINER-new
+newest of !DETERMINER new
+newfangled contraption
+newfangled contraptions
+newfangled device
+newfangled devices
+newfangled expression
+newfangled expressions
+newfound
+newly-rich
+newly come
+no sooner said than done
+nonce
+not like now
+nouveau
+nouveaux
+now
+now's !DETERMINER time
+now-a-day
+now-a-days
+now-accumulated
+now-being
+now-big
+now-borne
+now-classic
+now-dead
+now-existing
+now-fallen
+now-full
+now-known
+now-live
+now-look
+now-looks
+now-lost
+now-neglected
+now-waning
+now lived
+now lives
+now living
+now with
+of-!DETERMINER-moment
+of !DETERMINER moment
+of !DETERMINER sudden
+of !HEADDET moment
+of !HEADDET music
+of late
+off-!DETERMINER-cuff
+off-!DETERMINER-hip
+off-!DETERMINER-top-of-my-head
+off-guarded
+off-hand
+off-handed
+off-handedly
+off !DETERMINER cuff
+off !DETERMINER hip
+off !DETERMINER top of !DETERMINER head
+off !DETERMINER top of !POSSESSIVEPRONOUN head
+off !DETERMINER top of !POSSESSIVEPRONOUN heads
+off !DETERMINER top of my head
+off !DETERMINER top of our head
+off !DETERMINER top of our heads
+off !DETERMINER top of your head
+off he goes
+off I go
+off it goes
+off she goes
+off they go
+off we go
+offhand
+offhand comment
+offhand position
+offhand positions
+offhand remark
+offhand shot
+offhand shots
+offhanded
+offhandedly
+offhandedness
+on-!DETERMINER-moment
+on-!DETERMINER-spot
+on !DETERMINER cuff
+on !DETERMINER dime
+on !DETERMINER double
+on !DETERMINER minute's notice
+on !DETERMINER moment
+on !DETERMINER moment's notice
+on !DETERMINER spur of !DETERMINER moment
+on !HEADDET !DAY
+on current
+on impact
+on point
+once !DETERMINER bell rings
+once !DETERMINER game is over
+once !DETERMINER light changes
+once !DETERMINER light hits
+once !DETERMINER plane lands
+once !DETERMINER train arrives
+once !PRONOUNNOMINAL
+once above
+once below
+once beneath
+once I
+once over !DETERMINER
+once we
+one moment's
+only just
+only now
+Out of !DETERMINER headlines
+packaged fresh
+pales by comparison
+person-to-person
+person-to-person call
+person-to-person calls
+person-to-persons
+piano-subito
+piano subito
+play-by-play
+plump in !DETERMINER middle
+point-blank
+point salience
+point salient
+present-age
+present-day
+present-minded
+present-time
+present age
+present ages
+present circumstance
+present circumstances
+present juncture
+present junctures
+present minded
+present moment
+present moments
+present occasion
+present occasions
+present situation
+present time
+present times
+present value
+present values
+presentday
+pressing issue
+pressing issues
+presto
+quick as lightening
+ready-armed
+ready-beaten
+ready-bent
+ready-braced
+ready-built
+ready-coined
+ready-cooked
+ready-cut
+ready-dressed
+ready-for-wear
+ready-formed
+ready-furnished
+ready-grown
+ready-handed
+ready-made
+ready-mades
+ready-mix
+ready-mixed
+ready-mounted
+ready-penned
+ready-prepared
+ready-reference
+ready-sanded
+ready-sensitized
+ready-shapen
+ready-stance
+ready-stand
+ready-starched
+ready-to-eat
+ready-to-wear
+ready-tongued
+ready-typed
+ready-winged
+ready-wit
+ready-wits
+ready-witted
+ready-wittedly
+ready-wittedness
+ready-worded
+ready-written
+ready about
+ready at hand
+ready box
+ready boxes
+ready money
+ready monies
+ready pen
+ready pens
+ready reckoner
+ready reckoners
+ready replies
+ready reply
+ready retort
+ready retorts
+ready roofing
+ready roofings
+ready room
+ready rooms
+ready to eat.
+ready wit
+ready wits
+readymade
+real soon
+recent
+recent past
+Report live
+report live from
+reported live
+Reporting live
+reporting live from
+reports live
+reports live from
+right-away
+right-with
+right !HEADDET minute
+right !HEADDET moment
+right !HEADDET second
+right about now
+right about that afternoon
+right about that day
+right about that evening
+right about that month
+right about that morning
+right about that time
+right about that week
+right after
+right along there with
+RIGHT AT
+right at !DETERMINER point
+right at !DETERMINER point of
+right at !DETERMINER point of articulation
+right at !DETERMINER point of convergence
+right at !DETERMINER point of difference
+right at !DETERMINER point of flight
+right at !DETERMINER point of utterance
+right at !DETERMINER points of articulation
+right at !DETERMINER points of convergence
+right at !DETERMINER points of difference
+right at !DETERMINER points of flight
+right at !DETERMINER points of utterance
+right at !DETERMINER time
+right at that point
+RIGHT AWAY
+right back to
+right before
+right before her eyes
+right before his eyes
+right before my eyes
+right before their eyes
+right before your eyes
+right beyond
+Right from !DETERMINER headlines
+right here
+right in !DETERMINER act
+right in !DETERMINER act of
+right in hand
+right next
+right now
+right off !DETERMINER bat
+right off !DETERMINER reel
+right on !DETERMINER point
+right on !DETERMINER spot
+right out of !DETERMINER headlines
+right then
+right when
+rip from !DETERMINER headlines
+ripe idea
+ripe ideas
+ripped-from-!DETERMINER-headlines
+ripped from !DETERMINER headlines
+ripping from !DETERMINER headlines
+rips from !DETERMINER headlines
+rough-and-readiness
+rough-and-ready
+running appointment
+running appointments
+running engagement
+running engagements
+running fight
+running fights
+running fire
+running fires
+running meeting
+running meetings
+said it directly
+said today
+sat here
+saw at !DETERMINER glance
+saw at once
+saw it firsthand
+say it directly
+say today
+saying it directly
+saying today
+says it directly
+says today
+see at !DETERMINER glance
+see at once
+seeing at !DETERMINER glance
+seeing at once
+sees at !DETERMINER glance
+sees at once
+seize !DETERMINER present !TIMEFRAME
+seized !DETERMINER present !TIMEFRAME
+seizes !DETERMINER present !TIMEFRAME
+seizing !DETERMINER present !TIMEFRAME
+set upon
+sets upon
+setting upon
+she is live
+she is live with
+she is survived by
+short moment
+short moments
+sight unseen
+sit here
+sits here
+sitting here
+sitting right here
+sitting right there
+slap-bang
+slap-dab
+sneak up upon
+sneaking up upon
+sneaks up upon
+snuck up upon
+something's afoot
+sound of !HEADDET music
+span-new
+spang-new
+spanking-new
+spanking new
+spark-instant
+spark instant
+sparked-instant
+sparked instant
+sparking-instant
+sparking instant
+sparks-instant
+sparks instant
+SPEAK OFFHANDEDLY
+SPEAKING OFFHANDEDLY
+SPEAKS OFFHANDEDLY
+SPOKE OFFHANDEDLY
+spontaneities
+spontaneity
+spontaneous
+spontaneously
+spontaneously burst
+spontaneously burst into
+spur-of-!DETERMINER-moment
+spur-of-!DETERMINER-moment decision
+spur-of-!DETERMINER-moment decisions
+spur-of-!DETERMINER-moment response
+spur-of-!DETERMINER-moment responses
+spur-off-!DETERMINER-moment
+spur of !DETERMINER moment
+stand today
+standing-matter
+standing-matters
+standing-order
+standing-orders
+standing appointment
+standing appointments
+standing engagement
+standing engagements
+standing fight
+standing fights
+standing fires
+standing matter
+standing matters
+standing meeting
+standing meetings
+standing today
+stands today
+startingly
+startle
+startle !PRONOUNOBJECTIVE
+startle !VPARTICLE
+startled !PRONOUNOBJECTIVE to
+startled to
+startled to hear
+startled with
+startles
+startles !PRONOUNOBJECTIVE
+startles !VPARTICLE
+startling
+startling !PRONOUNOBJECTIVE
+startling !VPARTICLE
+startlingly
+step right up
+stepped right up
+stepping right up
+steps right up
+stet
+still-available
+still-fresh
+still-pending
+still-potent
+still-standing
+still-twisting
+still !VERBSTEM now
+still available
+still fresh
+still now
+still ongoing
+still pending
+still potent
+still standing
+still standing order
+still standing orders
+still twisting
+stood today
+stop right
+stop right cold
+stop right dead
+stop right dead in !POSSESSIVEPRONOUN tracks
+STOP right DEAD IN HER TRACKS
+STOP right DEAD IN HIS TRACKS
+STOP right DEAD IN MY TRACKS
+STOP right DEAD IN OUR TRACKS
+STOP right DEAD IN THEIR TRACKS
+stop right dead in your tracks
+stopped right
+stopped right cold
+stopped right dead
+stopped right dead in !POSSESSIVEPRONOUN tracks
+STOPPED right DEAD IN HER TRACKS
+STOPPED right DEAD IN HIS TRACKS
+STOPPED right DEAD IN MY TRACKS
+STOPPED right DEAD IN OUR TRACKS
+STOPPED right DEAD IN THEIR TRACKS
+stopped right dead in your tracks
+stopping right
+stopping right cold
+stopping right dead
+stopping right dead in !POSSESSIVEPRONOUN tracks
+STOPPING right DEAD IN HER TRACKS
+STOPPING right DEAD IN HIS TRACKS
+stopping right dead in my tracks
+stopping right dead in our tracks
+STOPPING right DEAD IN THEIR TRACKS
+stopping right dead in your tracks
+stops right
+stops right cold
+stops right dead
+stops right dead in !POSSESSIVEPRONOUN tracks
+STOPS right DEAD IN HER TRACKS
+STOPS right DEAD IN HIS TRACKS
+stops right dead in my tracks
+stops right dead in our tracks
+STOPS right DEAD IN THEIR TRACKS
+stops right dead in your tracks
+straight-away
+straight-out to
+straight-up
+straight-up-and-down
+straight away
+straight from
+straight from !DETERMINER
+straight from !DETERMINER headlines
+straight of out
+straight off
+straight out
+straight out of
+straight past
+straight through
+straight to !DETERMINER
+straight to !DETERMINER mark
+straight to !DETERMINER marks
+straight up
+straight up-and-downness
+straight up and down
+subito
+sudden-death
+sudden action
+sudden actions
+sudden death
+sudden expression
+sudden expressions
+suddenly
+suddenly and abruptly
+suddenly and without warning
+tally-ho
+tally-hoed
+tally-hoeing
+tally-hoes
+tallyho
+tallyhoed
+tallyhoeing
+tallyhoes
+that !AUX currently being
+that !AUX now being
+That is the moment
+That is the very moment
+that now
+that now with
+that was then !HEADDET !AUX now
+the case at hand
+the place at hand
+the time at hand
+then and there
+there and then
+There are moments
+There is a moment
+these
+these !TIMEOFDAY
+these days
+these minutes
+these moment
+these moments
+these months
+these weeks
+these years
+these,
+these;
+they !AUX survived by
+they are live
+they are live with
+this-way-ward
+this-worldian
+this-worldliness
+this-worldly
+this-worldness
+this day
+this minute
+this moment
+this month
+this week
+this year
+this,
+this.
+this;
+threw away !DETERMINER prepared text
+threw away !DETERMINER speech
+throw away !DETERMINER prepared text
+throw away !DETERMINER speech
+throwing away !DETERMINER prepared text
+throwing away !DETERMINER speech
+throws away !DETERMINER prepared text
+throws away !DETERMINER speech
+till now
+time now
+times now
+to-day
+to-night
+to-year
+to !DETERMINER minute
+to !DETERMINER moment
+to !DETERMINER second
+to !HEADDET day
+to !HEADDET very day
+to be now
+today
+today's
+today's !DETERMINER day
+today's headline
+today's headlines
+today !AUX
+tonight's
+toute a l'heure
+toute a l heure
+trendy
+uno saltu
+unprompted
+unrehearsed
+unscripted
+until !HEADDET point
+until !HEADDET time
+until just now
+until today
+up-to-date
+up-to-dately
+up-to-dateness
+up-to-datish
+up-to-datishness
+up-to-the-minute
+up and leave
+up and quit
+up came
+up come
+up comes
+up coming
+up it goes
+up sprang
+up spring
+up springing
+up springs
+up till now
+up to now
+up to the minute
+up to the moment
+up to the moments
+up to the very minute
+up to the very moment
+up to the very moments
+up until now
+upon !HEADDET bank and shoal of time
+upon her
+upon him
+upon me
+upon them
+upon us
+Very moment
+Very moments
+very recent
+was news
+we're now
+we're now about to
+we're now going
+we are live
+we are live with
+went into it sight unseen
+went into it unseen
+WHERE WE !AUX NOW
+WHERE WE LIVE NOW
+which !AUX currently being
+which !AUX now being
+will be right along
+will be right back
+will be right near
+will be right off
+will be right past
+will be RIGHT THROUGH
+will be RIGHT TOWARD
+will be RIGHT UP
+will be right with
+will from now on
+wing it
+winged it
+winging it
+wings it
+with !DETERMINER spontaneity
+WITH a START
+with a sudden start
+with an impromptu
+with these,
+with these.
+with these;
+with this,
+with this.
+with this;
+within !DETERMINER moment
+within !DETERMINER wink of an eye
+without further delay
+working document
+working documents
+working draft
+working drafts
+working drawing
+working drawings
+working message
+working messages
+working notes
+working point
+working points
+working sketch
+working sketches
+working strength

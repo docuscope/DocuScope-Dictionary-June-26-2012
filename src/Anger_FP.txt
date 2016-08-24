@@ -1,0 +1,1615 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX an attack against my
+!AUX an attack against my very
+!AUX an attack against our
+!AUX an attack against our very
+!BRING it on myself
+!BRING it on ourselves
+!BRING it upon myself
+!BRING it upon ourselves
+!BRING on myself
+!BRING on ourselves
+!BRING some of it on myself
+!BRING some of it on ourselves
+!BURN me up
+!BURN us up
+!DETERMINER only thank-you !ROYALWE get
+!DETERMINER victims were our brothers and sisters
+!FEED me !DETERMINER line
+!FEED us !DETERMINER line
+!GET me angry
+!GET me exercised
+!GET me exercised over
+!GET me hostile
+!GET me mad
+!GET me up in arms
+!GET me very angry
+!GET my dander up
+!GET my gorge up
+!GET my Irish up
+!GET my mad up
+!GET on my nerves
+!GET our dander up
+!GET our gorge up
+!GET our Irish up
+!GET our mad up
+!GET under my skin
+!GET under our skin
+!GET us angry
+!GET us hostile
+!GET us in this mess
+!GET us mad
+!GET us up in arms
+!GET us very angry
+!GIVE me !DETERMINER conniption
+!GIVE me !DETERMINER conniption fit
+!GIVE me umbrage
+!GIVE us umbrage
+!HAVE been accosting me
+!HAVE been accosting us
+!HAVE been bothering me
+!HAVE been bothering us
+!HAVE no concern for me
+!HAVE no concern for us
+!HAVE pulled me into !DETERMINER war
+!HAVE pulled me into war
+!HAVE pulled us into !DETERMINER war
+!HAVE pulled us into war
+!HOLD it over my head that
+!HOLD it over our heads that
+!MAKE me !DETERMINER most angry
+!MAKE me !DETERMINER most enraged
+!MAKE me !DETERMINER most mad
+!MAKE me angry
+!MAKE me furious
+!MAKE me hot under !DETERMINER collar
+!MAKE me livid
+!MAKE me mad
+!MAKE me mad about
+!MAKE me mad about !DETERMINER
+!MAKE me mad about !PRONOUNOBJECTIVE
+!MAKE me mad about them
+!MAKE me mad about you
+!MAKE me mad as
+!MAKE me mad as !DETERMINER
+!MAKE me mad as !DETERMINER buck
+!MAKE me mad as !DETERMINER cut snake
+!MAKE me mad as !DETERMINER hatter
+!MAKE me mad as !DETERMINER hornet
+!MAKE me mad as !DETERMINER March hare
+!MAKE me mad as !DETERMINER wet hen
+!MAKE me mad as hell
+!MAKE me mad as hell about
+!MAKE me mad at
+!MAKE me madder
+!MAKE me maddest
+!MAKE me most mad
+!MAKE me really mad
+!MAKE me see red
+!MAKE me so mad
+!MAKE me the angriest
+!MAKE me the maddest
+!MAKE me the most mad
+!MAKE my blood boil
+!MAKE our blood boil
+!MAKE us angry
+!MAKE us hot under !DETERMINER collar
+!MAKE us livid
+!MAKE us mad
+!MAKE us mad about
+!MAKE us mad about !DETERMINER
+!MAKE us mad about !PRONOUNOBJECTIVE
+!MAKE us mad about them
+!MAKE us mad about you
+!MAKE us mad as
+!MAKE us mad as !DETERMINER
+!MAKE us mad as !DETERMINER buck
+!MAKE us mad as !DETERMINER cut snake
+!MAKE us mad as !DETERMINER hatter
+!MAKE us mad as !DETERMINER hornet
+!MAKE us mad as !DETERMINER March hare
+!MAKE us mad as !DETERMINER wet hen
+!MAKE us mad as hell
+!MAKE us mad as hell about
+!MAKE us mad at
+!MAKE us madder
+!MAKE us maddest
+!MAKE us most mad
+!MAKE us see red
+!MAKE us so mad
+!MAKE us the maddest
+!MAKE us the most mad
+!MUSTSHOULD anger us
+!MUSTSHOULD be !DETERMINER wake-up call for us
+!MUSTSHOULD enrage us
+!MUSTSHOULD infuriate us
+!MUSTSHOULD offended us
+!MUSTSHOULD pay for what !ROYALWE did
+!PULL me into war
+!PULL us into war
+!PUSH me to !DETERMINER edge
+!PUSH us to !DETERMINER edge
+!QUESTION !ROYALWE !MUSTSHOULD have done
+!QUESTION gives me !DETERMINER right
+!QUESTION gives us !DETERMINER right
+!QUESTION will it take before !ROYALWE do something about it
+!RAISE my choler
+!RAISE my costs
+!RAISE my dander
+!RAISE my gorge
+!RAISE my hackles
+!RAISE my hand against
+!RAISE my voice against
+!RAISE our choler
+!RAISE our dander
+!RAISE our gorge
+!RAISE our hackles
+!RAISE our hand against
+!RAISE our voice against
+!REACH !DETERMINER limit of my patience
+!REACH !DETERMINER limit of our patience
+!REACH !DETERMINER limits of my patience
+!REACH !DETERMINER limits of our patience
+!RIP me off
+!RIP us off
+!ROYALWE !AUX put off by
+!ROYALWE !AUX put off with
+!ROYALWE !GET angry
+!ROYALWE !GET angry at
+!ROYALWE !MUSTSHOULD !ROYALWE not
+!ROYALWE !MUSTSHOULD berate
+!ROYALWE !MUSTSHOULD have done something
+!ROYALWE !MUSTSHOULD have taken !DETERMINER stand !ROYALWE are taking now many years ago
+!ROYALWE !MUSTSHOULD never have
+!ROYALWE !MUSTSHOULD punish
+!ROYALWE !TAKE umbrage
+!ROYALWE allowed too many
+!ROYALWE am being framed
+!ROYALWE am getting beside ourselves with anger
+!ROYALWE are all bent out of shape
+!ROYALWE are angry
+!ROYALWE are angry at ourselves
+!ROYALWE are annoyed
+!ROYALWE are antagonistic
+!ROYALWE are antipathetic
+!ROYALWE are boiling with anger
+!ROYALWE are damn mad
+!ROYALWE are disburbed that
+!ROYALWE are disturbed about
+!ROYALWE are enflamed in anger
+!ROYALWE are engulfed in anger
+!ROYALWE are enraged at
+!ROYALWE are exasperated
+!ROYALWE are fed up
+!ROYALWE are fed up to here with
+!ROYALWE are fed up to the teeth with
+!ROYALWE are fed up with
+!ROYALWE are fit to be tied
+!ROYALWE are flushing with indignation
+!ROYALWE are fuming
+!ROYALWE are furious
+!ROYALWE are furious at
+!ROYALWE are going beserk with anger
+!ROYALWE are going beside ourselves with anger
+!ROYALWE are growing hot under the collar
+!ROYALWE are having !DETERMINER conniption fit
+!ROYALWE are having !DETERMINER cow
+!ROYALWE are hot and bothered
+!ROYALWE are indignant
+!ROYALWE are infuriated
+!ROYALWE are irate
+!ROYALWE are irate at
+!ROYALWE are keenly angry
+!ROYALWE are livid
+!ROYALWE are living with rage
+!ROYALWE are mad
+!ROYALWE are miffed at
+!ROYALWE are more mad than anything
+!ROYALWE are most pissed at
+!ROYALWE are mostly pissed at
+!ROYALWE are outraged
+!ROYALWE are overflowing with anger
+!ROYALWE are paying for it
+!ROYALWE are paying for it with
+!ROYALWE are pissed
+!ROYALWE are put off by
+!ROYALWE are put off with
+!ROYALWE are royally pissed
+!ROYALWE are seething
+!ROYALWE are steamed
+!ROYALWE berate
+!ROYALWE blame
+!ROYALWE blame it on
+!ROYALWE blew !DETERMINER fuse
+!ROYALWE blew !DETERMINER gasket
+!ROYALWE can't forgive
+!ROYALWE can't forgive or forget
+!ROYALWE can't help but be mad at
+!ROYALWE can't imagine anyone doing such a thing
+!ROYALWE can't stand
+!ROYALWE cannot forgive
+!ROYALWE cannot forgive or forget
+!ROYALWE cannot stand !DETERMINER !IDEA
+!ROYALWE caused ourselves
+!ROYALWE caved in
+!ROYALWE could have done something about it
+!ROYALWE crabbed at
+!ROYALWE deeply resent
+!ROYALWE did feel angry
+!ROYALWE did feel furious
+!ROYALWE did feel mad
+!ROYALWE didn't appreciate
+!ROYALWE didn't appreciate being blown off
+!ROYALWE didn't have the balls
+!ROYALWE didn't have the decency
+!ROYALWE didn't have the guts
+!ROYALWE disdain
+!ROYALWE do not think it's appropriate
+!ROYALWE do not think it's right
+!ROYALWE do not trust
+!ROYALWE do resent
+!ROYALWE don't have the balls
+!ROYALWE don't have the decency
+!ROYALWE don't have the guts
+!ROYALWE don't think it's appropriate
+!ROYALWE don't think it's right
+!ROYALWE don't trust
+!ROYALWE feel absolute contempt
+!ROYALWE feel as if I've been personally attacked
+!ROYALWE feel as if we've been personally attacked
+!ROYALWE feel contempt
+!ROYALWE feel contempt for
+!ROYALWE feel personally violated
+!ROYALWE feel rancor
+!ROYALWE feel really angry
+!ROYALWE feel violated
+!ROYALWE felt absolute contempt
+!ROYALWE felt contempt
+!ROYALWE felt contempt for
+!ROYALWE felt really angry
+!ROYALWE find it bothering
+!ROYALWE find it exasperating
+!ROYALWE find it infuriating
+!ROYALWE find it maddening
+!ROYALWE find maddening
+!ROYALWE find most maddening
+!ROYALWE found it bothering
+!ROYALWE found myself crabbing
+!ROYALWE found ourselves crabbing
+!ROYALWE fumed
+!ROYALWE fumed about
+!ROYALWE fumed at
+!ROYALWE fumed on about
+!ROYALWE get angry
+!ROYALWE glowered with anger
+!ROYALWE got angry
+!ROYALWE grew angry
+!ROYALWE grew hot under the collar
+!ROYALWE grinded out my words
+!ROYALWE grinded out the words
+!ROYALWE grow angry
+!ROYALWE grumbled
+!ROYALWE had a full head of rage
+!ROYALWE had to bite my tongue
+!ROYALWE had to bite our tongues
+!ROYALWE had to clench my teeth
+!ROYALWE had to clench our teeth
+!ROYALWE had to grumble
+!ROYALWE had to tell !PRONOUNOBJECTIVE over and over again
+!ROYALWE had to tell them over and over again
+!ROYALWE have a bee in my bonnet
+!ROYALWE have a bee in our bonnet
+!ROYALWE have a good mind to
+!ROYALWE have a grievance
+!ROYALWE have been given !DETERMINER runaround
+!ROYALWE have been given the runaround
+!ROYALWE have been mad at
+!ROYALWE have contempt
+!ROYALWE have contempt for
+!ROYALWE have grievances
+!ROYALWE have had it up to here
+!ROYALWE have no compassion
+!ROYALWE have no empathy
+!ROYALWE have no mercy
+!ROYALWE have no pity
+!ROYALWE have no regard for
+!ROYALWE have no respect for
+!ROYALWE have no respect towards
+!ROYALWE have no sympathy
+!ROYALWE have to deal with
+!ROYALWE have to grumble
+!ROYALWE have zero tolerance for
+!ROYALWE hold contempt
+!ROYALWE hold contempt for
+!ROYALWE hold no respect for
+!ROYALWE huffed about
+!ROYALWE let ourselves down
+!ROYALWE let too many
+!ROYALWE let too many people into the country
+!ROYALWE live with rage
+!ROYALWE looked about wildly
+!ROYALWE looked PLAINTIVELY
+!ROYALWE muttered peevishly
+!ROYALWE need not to be so
+!ROYALWE need not to be such
+!ROYALWE need to be taken out
+!ROYALWE need to berate
+!ROYALWE need to even the score
+!ROYALWE need to hit back
+!ROYALWE need to punish
+!ROYALWE need to strike back
+!ROYALWE only disdain
+!ROYALWE ought to berate
+!ROYALWE ought to punish
+!ROYALWE resent
+!ROYALWE said gruffly
+!ROYALWE said half-angrily
+!ROYALWE said half-annoyed
+!ROYALWE said half-contemptuously
+!ROYALWE said huffily
+!ROYALWE said huffy with anger
+!ROYALWE said in a grudging tone
+!ROYALWE said in a huffed voice
+!ROYALWE said with grudging anger
+!ROYALWE scowled
+!ROYALWE see justice coming
+!ROYALWE seethed
+!ROYALWE spat out my words
+!ROYALWE spat out our words
+!ROYALWE spit out our words
+!ROYALWE sputtered angrily
+!ROYALWE stormed out
+!ROYALWE strongly resent
+!ROYALWE stuck out my chin defiantly
+!ROYALWE stuck out our chins defiantly
+!ROYALWE take offense
+!ROYALWE take offense at
+!ROYALWE take umbrage
+!ROYALWE think the persons responsible !MUSTSHOULD be punished
+!ROYALWE threw it back in !POSSESSIVEPRONOUN face
+!ROYALWE truly disdain
+!ROYALWE want to kill
+!ROYALWE wanted to kill
+!ROYALWE was enflamed in anger
+!ROYALWE was engulfed in anger
+!ROYALWE was exasperated
+!ROYALWE was flushed with indignation
+!ROYALWE was framed
+!ROYALWE was full of angry piss and vinegar
+!ROYALWE was fuming
+!ROYALWE was furious
+!ROYALWE was growing hot under the collar
+!ROYALWE was grumpy
+!ROYALWE was hemorrhaging anger
+!ROYALWE was hot and bothered
+!ROYALWE was indignant
+!ROYALWE was infuriated
+!ROYALWE was irate
+!ROYALWE was irate at
+!ROYALWE was keenly angry
+!ROYALWE was livid
+!ROYALWE was mad
+!ROYALWE was miffed
+!ROYALWE was most mad
+!ROYALWE was mostly pissed
+!ROYALWE was steamed
+!ROYALWE was upset to discover
+!ROYALWE was upset to find out
+!ROYALWE was upset to learn
+!ROYALWE went ballistic
+!ROYALWE went up in arms
+!ROYALWE were enflamed in anger
+!ROYALWE were engulfed in anger
+!ROYALWE were exasperated
+!ROYALWE were flushed with indignation
+!ROYALWE were framed
+!ROYALWE were full of angry piss and vinegar
+!ROYALWE were growing hot under the collar
+!ROYALWE were grumpy
+!ROYALWE were hemorrhaging anger
+!ROYALWE were hot and bothered
+!ROYALWE were indignant
+!ROYALWE were infuriated
+!ROYALWE were irate
+!ROYALWE were irate at
+!ROYALWE were keenly angry
+!ROYALWE were livid
+!ROYALWE were miffed
+!ROYALWE were more mad than anything
+!ROYALWE were mostly pissed
+!ROYALWE were mostly pissed at
+!ROYALWE were steamed
+!ROYALWE were upset to discover
+!ROYALWE were upset to find out
+!ROYALWE were upset to learn
+!ROYALWE will !GET even
+!ROYALWE will !GET even with
+!ROYALWE will !GIVE !PRONOUNOBJECTIVE !DETERMINER dressing-down
+!ROYALWE will !GIVE !PRONOUNOBJECTIVE !DETERMINER taste of !POSSESSIVEPRONOUN own medicine
+!ROYALWE will !GIVE it to !PRONOUNOBJECTIVE good
+!ROYALWE will never forgive
+!ROYALWE will not help in !DETERMINER greater way those that have fought and sweated in our
+!RUFFLE my feathers
+!RUFFLE our feathers
+!SEE my home abused
+!SEE our homes abused
+!TAKE advantage of me
+!TAKE advantage of my
+!TAKE advantage of my generosity
+!TAKE advantage of my good will
+!TAKE advantage of my graciousness
+!TAKE advantage of my kindness
+!TAKE advantage of my trust
+!TAKE advantage of our
+!TAKE advantage of our country's good will
+!TAKE advantage of our country's graciousness
+!TAKE advantage of our country's leniency
+!TAKE advantage of our freedoms
+!TAKE advantage of our generosity
+!TAKE advantage of our good will
+!TAKE advantage of our graciousness
+!TAKE advantage of our kindness
+!TAKE advantage of our leniency
+!TAKE advantage of us
+!TAKE jobs from us
+!THROW away my life
+!THROW away our lives
+!THROW it back in my face
+!THROW it back in our face
+!TURN !POSSESSIVEPRONOUN back on me
+!TURN !POSSESSIVEPRONOUN back on us
+!TURN !POSSESSIVEPRONOUN backs on me
+!TURN !POSSESSIVEPRONOUN backs on us
+!TURN around and stab me in the back
+!TURN around and stab us in the back
+!WORK myself into !DETERMINER lather
+!WORK ourselves into !DETERMINER lather
+"These people don't care about their own, let alone us"
+. how dare !ROYALWE
+. shame on
+. shame on !PRONOUNOBJECTIVE
+. shame on me
+. shame on them
+. shame on us
+abandon me
+abandon us
+abandoned me
+abandoned us
+abandoning me
+abandoning us
+abandons me
+abandons us
+all !DETERMINER thanks !ROYALWE get back
+all !ROYALWE get back is abuse
+and again I am expected
+and again I am told
+and how was my generosity returned
+and how was my kindness returned
+and how was our generosity returned
+and how was our kindness returned
+and yet again I am told
+and yet again I was told
+and yet again we are expected
+and yet again we are told
+and yet I am expected
+and yet we are expected
+and yet we are told
+anger me
+anger us
+angered me
+angered us
+angering me
+angering us
+angers me
+angers us
+anti-social segments of our society
+are being unfairly
+are being unfairly lost
+are being unfairly lost now
+at my maddest
+at our maddest
+attack me unfairly
+attack my family
+attack on our homeland
+attack our families
+attack our homeland
+attack us on our homeland
+attack us unfairly
+attacked me unfairly
+attacked my family
+attacked on our homeland
+attacked our families
+attacked our homeland
+attacked us on our homeland
+attacked us unfairly
+attacking me unfairly
+attacking my family
+attacking on our homeland
+attacking our families
+attacking our homeland
+attacking us on our homeland
+attacking us unfairly
+attacks me unfairly
+attacks my family
+attacks on our homeland
+attacks our families
+attacks our homeland
+attacks us on our homeland
+attacks us unfairly
+berate myself
+berate ourselves
+berated myself
+berated ourselves
+berates myself
+berates ourselves
+berating myself
+berating ourselves
+beside myself with anger
+betray me
+betray us
+betrayed me
+betrayed us
+betraying me
+betraying us
+betrays me
+betrays us
+blew my cool
+blew my fuse
+blew my gasket
+blew our cool
+blew our fuse
+blew our gasket
+blow my cool
+blow my fuse
+blow my gasket
+blow our cool
+blow our fuse
+blow our gasket
+blowing my cool
+blowing my fuse
+blowing my gasket
+blowing our cool
+blowing our fuse
+blowing our gasket
+blows my cool
+blows my fuse
+blows our cool
+blows our fuse
+blows our gasket
+boss me around
+boss us around
+bossed me around
+bossed us around
+bosses me around
+bosses us around
+bossing me around
+bossing us around
+bother me
+bother us
+bothered me
+bothered us
+bothering me to
+bothering us
+bothers me
+bothers us
+burn me
+burn me up
+burn us
+burn us up
+burned me
+burned me up
+burned us
+burned us up
+burning me
+burning me up
+burning us
+burning us up
+burns me
+burns me up
+burns us
+burns us up
+by not protecting us
+can kiss my ass
+can kiss my butt
+can you possibly imagine how angry !ROYALWE
+carried on against me
+cheat me
+cheat us
+cheated me
+cheated us
+cheating me
+cheating us
+cheats me
+cheats us
+choose to ignore me
+choose to ignore us
+chooses to ignore me
+chooses to ignore us
+choosing to ignore me
+choosing to ignore us
+chose to ignore me
+chose to ignore us
+clipped my words
+clipped our words
+committed against me
+committed against us
+consume in my anger
+consume in our anger
+consumed in my anger
+consumed in our anger
+consumes in my anger
+consumes in our anger
+consuming in my anger
+consuming in our anger
+desert me
+desert us
+deserted me
+deserted us
+deserting me
+deserting us
+deserts me
+deserts us
+did !ROYALWE learn anything
+did !ROYALWE really accomplish
+did !ROYALWE really accomplish what !ROYALWE set out to do
+did not care what I wanted
+did not care what we wanted
+did not protect our borders the way he !MUSTSHOULD have
+did not protect our borders the way she !MUSTSHOULD have
+did not protect our borders the way they !MUSTSHOULD have
+did not respect me
+did not respect us
+didn't care what I wanted
+didn't care what we wanted
+didn't respect me
+didn't respect us
+direct my anger
+direct our anger
+directing my anger
+directing our anger
+directs my anger
+directs our anger
+displeased me
+displeased us
+displeases me
+displeases us
+displeasing me
+displeasing us
+disrespect to me
+disrespect to us
+doesn't care what I want
+doesn't care what we want
+doesn't respect me
+doesn't respect us
+enrage me
+enrage us
+enraged me
+enraged us
+enrages me
+enrages us
+enraging me
+enraging us
+exhaust our patience
+exhausted my patience
+exhausted our patience
+exhausting my patience
+exhausting our patience
+exhausts my patience
+exhausts our patience
+expend my anger
+expend my anger on
+expend our anger
+expend our anger on
+expended my anger
+expended my anger on
+expended our anger
+expended our anger on
+expending my anger
+expending my anger on
+expending our anger
+expending our anger on
+expends my anger
+expends my anger on
+expends our anger
+expends our anger on
+express my anger
+express our anger
+expressed my anger
+expressed our anger
+expresses my anger
+expresses our anger
+expressing my anger
+expressing our anger
+frustrated with the world
+gave away many of our national secrets
+gave away many of our secrets
+gave away our national secrets
+gave away our secrets
+give away many of our national secrets
+give away many of our secrets
+give away our national secrets
+give away our secrets
+gives away many of our national secrets
+gives away many of our secrets
+gives away our national secrets
+gives away our secrets
+giving away many of our national secrets
+giving away many of our secrets
+giving away our national secrets
+giving away our secrets
+had !ROYALWE not allowed
+had !ROYALWE not let
+had !ROYALWE not permitted
+have !ROYALWE learned nothing
+he let us down
+how dare !ROYALWE
+how little I have learned
+how little we have learned
+how pathetically little I have learned
+how pathetically little we have learned
+hurt my !GEOREGION
+hurt our !GEOREGION
+hurting my !GEOREGION
+hurting our !GEOREGION
+hurts my !GEOREGION
+hurts our !GEOREGION
+I'd have no mercy
+I'd like to kill
+I'll get back at
+I'll get even
+I'll get even with
+I'll never forgive
+I'm also disgusted at
+I'm also disgusted by
+I'm angry
+I'm angry at
+I'm angry at myself
+I'm boiling with anger
+I'm dealing with
+I'm disgusted at
+I'm disgusted by
+I'm disturbed about
+I'm disturbed that
+I'm fed up
+I'm fed up to here with
+I'm fed up to the teeth with
+I'm fit to be tied
+I'm fuming
+I'm furious
+I'm furious at
+I'm furious with
+I'm just anger
+I'm just mad
+I'm mad
+I'm miffed
+I'm more mad than anything
+I'm most angered
+I'm most angry
+I'm most mad
+I'm only angry
+I'm only angry for
+I'm overflowing with anger
+I'm p.o.-ed
+I'm p.o. ed
+I'm perturbed
+I'm pissed
+I'm pissed-off
+I'm pissed off
+I'm plain fed up
+I'm pretty pissed-off
+I'm pretty pissed off
+I'm quite angry
+I'm really pissed-off
+I'm really pissed off
+I'm royally p.o. -ed
+I'm royally pissed
+I'm royally ticked off
+I'm so mad
+I'm steamed
+I'm ticked off
+I'm very angry
+I'm very pissed
+I've been given !DETERMINER runaround
+I've been given the runaround
+I've been harmed
+I've been personally attacked
+I've been violated
+I've been wronged
+I almost blew up
+I also am disgusted at
+I also am disgusted by
+I also hate to see
+I am all bent out of shape
+I am angered
+I am angry
+I am angry at myself
+I am annoyed
+I am antagonistic
+I am antipathetic
+I am boiling with anger
+I am damn mad
+I am dealing with
+I am disgusted at
+I am disgusted by
+I am disturbed about
+I am disturbed that
+I am disturbed to
+I am enflamed in anger
+I am engulfed in anger
+I am enraged
+I am enraged at
+I am exasperated
+I am exercised about
+I am exercised over
+I am fed up
+I am fed up to here with
+I am fed up to the teeth with
+I am fed up with
+I am feeling anger
+I am feeling angry
+I am fit to be tied
+I am flushing with indignation
+I am fuming
+I am furious
+I am furious at
+I am getting beside myself with anger
+I am going berserk with anger
+I am going beside myself with anger
+I am growing hot under the collar
+I am having !DETERMINER conniption fit
+I am having !DETERMINER cow
+I am hot and bothered
+I am indignant
+I am infuriated
+I am irate
+I am irate at
+I am irked
+I am just anger
+I am just mad
+I am keenly angry
+I am livid
+I am living with rage
+I am mad
+I am miffed at
+I am more mad than anything
+I am most angered
+I am most angry
+I am most mad
+I am most pissed at
+I am mostly pissed at
+I am nettled
+I am offended
+I am outraged
+I am overflowing with anger
+I am pissed
+I am pissed-off
+I am pissed off
+I am pretty pissed-off
+I am pretty pissed off
+I am put off by
+I am put off with
+I am quite angry
+I am really mad
+I am really pissed-off
+I am really pissed off
+I am royally pissed
+I am royally ticked off
+I am seething
+I am steamed
+I am ticked off
+I am very angry
+I am very pissed
+I blew up
+I did nothing to deserve
+I do not think it's appropriate
+I do not think it's fair
+I do not think it's right
+I don't think it's appropriate
+I don't think it's fair
+I don't think it's right
+I felt totally violated
+I felt violated
+I hate when
+I have no mercy
+I know that I'm just as deserving
+I know that I'm just as qualified
+I must exact retribution
+I sure am pissed
+I work too hard
+I would have no mercy
+I would like to go and just kill
+I would like to go and just kill those involved
+I would like to go and kill
+if I have to, I will take legal steps
+if I have to, I will take steps legally
+if our government spent the money going after the terrorists that they spent going after Bill Gates
+in my anger
+in my angered
+in my angered huff
+in my contempt
+in my contempt for
+in my contempt of
+in my fume
+in my fuming
+in my rage
+in my raging
+in my snit of anger
+in our anger
+in our angered
+in our angered huff
+in our contempt
+in our contempt for
+in our contempt of
+in our fume
+in our fuming
+in our rage
+in our raging
+in our snit of anger
+infuriate me
+infuriate us
+infuriated me
+infuriated us
+infuriates me
+infuriates us
+infuriating me
+infuriating us
+instead of guaranteeing our
+instead of making sure !ROYALWE are safe
+instead of making sure !ROYALWE were safe
+invade my
+invade my world
+invade our
+invade some part of my world
+invaded my
+invaded my world
+invaded our
+invaded some part of my world
+invades my
+invades my world
+invades our
+invades some part of my world
+invading my
+invading my world
+invading our
+invading some part of my world
+irk me
+irked me
+irking me
+irks me
+irritate me
+irritate us
+irritated me
+irritated us
+irritates me
+irritates us
+irritating me
+irritating us
+irritation crossing my face
+irritation crossing our face
+is what really burns me up
+is what really burns us up
+is what really makes me angry
+is what really makes me mad
+is what really makes us angry
+is what really makes us mad
+it !AUX awful for me to have to
+it !AUX awful for us to have to
+It angers me
+it bothers me
+it bothers me that
+it bothers us
+it bothers us that
+it burns me
+it burns us
+it enrages me
+it enrages us
+it made me mad
+it made me madder
+it made me maddest
+it made me the maddest
+it made us mad
+it made us madder
+it made us maddest
+it makes me furious
+it makes me mad
+it makes us furious
+it makes us mad
+it raised my blood pressure
+it raised our blood pressure
+it raises my blood pressure
+it raises our blood pressure
+it was awful for me to have to
+it was awful for us to have to
+jUst arbitrarily use my plans
+just burns me up
+just let us down
+killing people just like us Americans
+lie to me
+lie to my face
+lie to us
+lied to me
+lied to my face
+lied to us
+lies to me
+lies to my face
+lies to us
+look what happened to me
+look what has happened to us
+lying to me
+lying to my face
+lying to us
+mad/upset
+made us so mad
+make to guilty ones pay
+making us so mad
+maybe !ROYALWE wouldn't be experiencing all !DETERMINER problems
+maybe !ROYALWE wouldn't have all !DETERMINER problems
+mind my own business
+mind our own business
+minded my own business
+minded our own business
+minding my own business
+minding our own business
+minds my own business
+minds our own business
+mock my
+mock our
+mocked my
+mocked our
+mocking my
+mocking our
+mocks my
+mocks our
+MUSTSHOULD! be beaten
+MUSTSHOULD! be punished
+my accusation
+my angered
+my blood is boiling
+my blood was boiling
+my bloody
+my brow knitted
+my brow knitted in anger
+my brows knitted
+my contempt
+my contempt for
+my deep contempt
+my disgusted resignation
+my display of anger
+my disregard for
+my exasperated
+my exasperation
+my exploding anger
+my explosion of anger
+my eye rake !DETERMINER room in anger
+my eyes blazing murderously
+my eyes bulging from their sockets
+my eyes narrowed with contempt
+my eyes raked !DETERMINER room
+my eyes raking !DETERMINER room
+my eyes sharpening
+my face flushing with indignation
+my face lit with bitter triumph
+my face pinched
+my face tight
+my face turned purple
+my face turned red
+my face turned red then purple
+my face turning red
+my face turns purple
+my fit of anger
+my flaring nostrils
+my grumpiness
+my guttural rasp
+my indignation
+my long-simmering anger
+my loved ones suffered
+my maddest
+my most mad
+my plaintive
+my rage
+my rage at
+my rages
+my rages at
+my show of anger
+my snit of anger
+NEED! killing
+nettle me
+nettle us
+nettled me
+nettled us
+nettles me
+nettles us
+nettlesome to me
+nettling me
+nettling us
+nobody is scared for us
+not protecting us
+of my anger
+of our anger
+offend me
+offend us
+offended me
+offended us
+offending me
+offending us
+offends me
+offends us
+our accusation
+our anger
+our anger at
+our angered
+our blood is boiling
+our blood was boiling
+our bloody
+our brow knitted in anger
+our brows knitted
+our brows knitted in anger
+our contempt
+our contempt for
+our deep contempt
+our disgusted resignation
+our display of anger
+our disregard for
+our exasperated
+our exasperation
+our exploding anger
+our explosion of anger
+our eye rake !DETERMINER room in anger
+our eyes blazing murderously
+our eyes bulging from their sockets
+our eyes narrowed with contempt
+our eyes raked !DETERMINER room
+our eyes raking !DETERMINER room
+our eyes sharpening
+our face flushing with indignation
+our face lit with bitter triumph
+our face pinched
+our face tight
+our face turned purple
+our face turned red
+our face turned red then purple
+our face turning red
+our face turns purple
+our fit of anger
+our flaring nostrils
+our grumpiness
+our guttural rasps
+our indignation
+our long-simmering anger
+our loved ones suffered
+our maddest
+our most mad
+our plaintive
+our rage
+our rage at
+our rages
+our rages at
+our show of anger
+our snit of anger
+perpetrate against me
+perpetrate against us
+perpetrate on me
+perpetrate on us
+perpetrated against me
+perpetrated against us
+perpetrated on me
+perpetrated on us
+perpetrates against me
+perpetrates against us
+perpetrates on me
+perpetrates on us
+perpetrating against me
+perpetrating against us
+perpetrating on me
+perpetrating on us
+piss me off
+piss us off
+pissed me off
+pissed OBJECTWE! off
+pissed us off
+pisses me off
+pisses OBJECTWE! off
+pisses us off
+pissing me off
+pissing us off
+pop my cork
+pop our corks
+promise more than !ROYALWE can deliver
+promised more than !ROYALWE can deliver
+promises more than !ROYALWE can deliver
+promising more than !ROYALWE can deliver
+question my integrity
+question my professionalism
+question our integrity
+question our professionalism
+questioned my integrity
+questioned my professionalism
+questioned our integrity
+questioned our professionalism
+questioning my integrity
+questioning my professionalism
+questioning our integrity
+questioning our professionalism
+questions my integrity
+questions my professionalism
+questions our integrity
+questions our professionalism
+rankle me
+rankle us
+rankled me
+rankled us
+rankles me
+rankles us
+rankling me
+rankling us
+Raped our freedom
+rather than guaranteeing my
+rather than guaranteeing our
+really burns me up
+really burns us up
+really makes me angry
+really makes me mad
+really makes us angry
+really makes us mad
+robbed from me
+robbed from us
+ROYALWE! just want to capture
+ROYALWE! really resent
+ROYALWE! resent
+ROYALWE! will not stand for this
+sacrificed the best years of my life
+sacrificed the best years of our life
+scream my head off at !PRONOUNOBJECTIVE for
+scream our heads off at !PRONOUNOBJECTIVE for
+screamed my head off at !PRONOUNOBJECTIVE for
+screamed our heads off at !PRONOUNOBJECTIVE for
+screaming my head off at !PRONOUNOBJECTIVE for
+screaming our heads off at !PRONOUNOBJECTIVE for
+screams my head off at !PRONOUNOBJECTIVE for
+screams our heads off at !PRONOUNOBJECTIVE for
+screw me up
+screw us up
+screwed me
+screwed me up
+screwed us
+screwed us up
+screwing me up
+screwing us up
+screws me up
+screws us up
+shame on me
+shame on us
+she let us down
+should have protected me
+should have protected us
+shuts !DETERMINER door in my face
+shuts !DETERMINER door in our face
+shuts !DETERMINER door in our faces
+shuts !DETERMINER eyes of my mind
+shuts !DETERMINER eyes of our mind
+shuts my eyes to
+shuts my mind
+shuts myself down
+shuts our eyes to
+shuts our minds
+sit on my ass
+sit on my butt
+sit on my duff
+sit on our ass
+sit on our butt
+sit on our duff
+sits on my ass
+sits on my butt
+sits on my duff
+sits on my hands
+sits on our ass
+sits on our butt
+sits on our duff
+sits on our hands
+sitting on my ass
+sitting on my butt
+sitting on my duff
+sitting on my hands
+sitting on our ass
+sitting on our butt
+sitting on our duff
+sitting on our hands
+so mad !ROYALWE !MODAL
+spat out my words
+spat out our words
+spew out my words
+spew out our words
+spewed out my words
+spewed out our words
+spewing out my words
+spewing out our words
+spews out my words
+spews out our words
+spit out my words
+spit out our words
+spits out my words
+spits out our words
+spitting out my words
+spitting out our words
+spurn me
+spurn us
+spurned me
+spurned us
+spurning me
+spurning us
+spurns me
+spurns us
+stab me in the back
+stab us in the back
+stabbed me in the back
+stabbed us in the back
+stabbing me in the back
+stabbing us in the back
+stabs me in the back
+stabs us in the back
+steal from me
+stealing from me
+steals from me
+stir my bile
+stirred my bile
+stirring my bile
+stirs my bile
+stole from me
+stolen from me
+stolen from us
+strike out against me
+strike out against us
+strikes out against me
+strikes out against us
+striking out against me
+striking out against us
+struck out against me
+struck out against us
+taken away from me
+taken away from us
+taken from me for no good reason
+taken from us for no good reason
+terrible acts against me
+terrible acts against us
+that has befallen me
+that has befallen us
+the way !ROYALWE !MUSTSHOULD have
+These people don't care about their own, let alone us
+These people take advantage of all our
+they let us down
+they simply used me
+they simply used us
+they used me
+they used us
+tick me off
+tick us off
+ticked me off
+ticked us off
+ticking me off
+ticking us off
+ticks me off
+ticks us off
+to ask me at this late date
+to ask me now to do this is
+to ask us at this late date
+to ask us now to do this is
+unfair to me
+unfair to us
+unwilling to protect me
+unwilling to protect our
+unwilling to protect us
+use their freedoms to attack me
+use their freedoms to attack us
+use these freedoms to attack me
+use these freedoms to attack us
+use those freedoms to attack me
+use those freedoms to attack us
+used their freedoms to attack me
+used their freedoms to attack us
+used these freedoms to attack me
+used these freedoms to attack us
+used those freedoms to attack me
+used those freedoms to attack us
+uses their freedoms to attack me
+uses their freedoms to attack us
+uses these freedoms to attack me
+uses these freedoms to attack us
+uses those freedoms to attack me
+uses those freedoms to attack us
+using their freedoms to attack me
+using their freedoms to attack us
+using these freedoms to attack me
+using these freedoms to attack us
+using those freedoms to attack me
+using those freedoms to attack us
+vent my anger
+vent my choler
+vent my rancor
+vent my spleen
+vent our anger
+vent our choler
+vent our rancor
+vent our spleen
+vented my anger
+vented my choler
+vented my rancor
+vented my spleen
+vented our anger
+vented our choler
+vented our rancor
+vented our spleen
+venting my anger
+venting my choler
+venting my rancor
+venting my spleen
+venting our anger
+venting our choler
+venting our rancor
+venting our spleen
+vents my anger
+vents my choler
+vents my rancor
+vents my spleen
+vents our anger
+vents our choler
+vents our rancor
+vents our spleen
+vexed me
+vexes me
+vexing me
+vitriol against
+vitriols against
+wage against me
+wage against us
+waged against me
+waged against us
+wages against me
+wages against us
+waging against me
+waging against us
+we'd have no mercy
+we'd like to kill
+we'll get even
+we'll get even with
+we'll never forgive
+we're also disgusted at
+we're also disgusted by
+we're angry
+we're boiling with anger
+we're dealing with
+we're disgusted at
+we're disgusted by
+we're disturbed about
+we're disturbed that
+we're fed up
+we're fed up to here with
+we're fed up to the teeth with
+we're fit to be tied
+we're fuming
+we're furious
+we're furious at
+we're furious with
+we're mad
+we're mad at
+we're mad at ourselves
+we're miffed
+we're overflowing with anger
+we're p.o.-ed
+we're p.o. ed
+we're perturbed
+we're pissed
+we're plain fed up
+we're royally p.o. -ed
+we're royally pissed
+we're royally ticked off
+we're steamed
+we're ticked off
+we're very angry
+we've been given !DETERMINER runaround
+we've been given the runaround
+we've been harmed
+we've been personally attacked
+we've been violated
+we've been wronged
+we've gotten ourselves into !DETERMINER mess
+we've gotten ourselves into such !DETERMINER mess
+we almost blew up
+we also are disgusted at
+we also are disgusted by
+we are disgusted at
+we are disgusted by
+we are disturbed to
+we are very angry
+we blew up
+we did nothing to deserve
+we do not think it's appropriate
+we do not think it's fair
+we do not think it's right
+we don't think it's appropriate
+we don't think it's fair
+we don't think it's right
+We gave them trust and freedom and what did they give us?
+we hate when
+we have no mercy
+we know that we're just as deserving
+we know that we're just as qualified
+we must exact retribution
+we work too hard
+we would have no mercy
+what !ROYALWE !AUX anger
+what !ROYALWE !AUX pissed
+what !ROYALWE am angry
+what !ROYALWE am pissed about
+what have !ROYALWE done about them
+what have !ROYALWE ever done
+what is happening to our
+what is happening to us
+what makes me !DETERMINER most mad
+what makes me angrier
+what makes me angriest
+what makes me angry
+what makes me feel angrier
+what makes me feel angriest
+what makes me feel angry
+what makes me mad
+what makes me mad !DETERMINER most
+what makes me most angry
+what makes us angrier
+what makes us angriest
+what makes us angry
+what makes us feel angrier
+what makes us feel angriest
+what makes us feel angry
+what makes us most angry
+what really burns me up
+what really burns us up
+what really makes me angry
+what really makes me mad
+what really makes us angry
+what really makes us mad
+what sort of thanks did !ROYALWE get
+what sort of thanks do !ROYALWE ever
+what sort of thanks do !ROYALWE get
+what thanks did !ROYALWE get
+what thanks do !ROYALWE ever
+what thanks do !ROYALWE get
+what thanks have !ROYALWE ever
+whatever !ROYALWE damn well please
+while biting my tongue
+while biting our tongues
+who did this to me
+who did this to our country
+who did this to our great nation
+who did this to us
+why !MUSTSHOULD !ROYALWE have to
+with my accusation
+with my teeth clenched
+with my tongue bit
+with our accusation
+with our teeth clenched
+with our tongues bit
+without even letting me know
+without even letting us know
+without even telling me
+without even telling us
+without the considerateness to tell me
+without the considerateness to tell us
+without the decency to say to my face
+without the decency to say to our face
+without the decency to tell me
+without the decency to tell us
+without the gusts to tell us
+without the guts to tell me
+wouldn't give me !DETERMINER time of day
+wouldn't give us !DETERMINER time of day
+yell my head off at !PRONOUNOBJECTIVE for
+yell our heads off at !PRONOUNOBJECTIVE for
+yelled my head off at !PRONOUNOBJECTIVE for
+yelled our heads off at !PRONOUNOBJECTIVE for
+yelling my head off at !PRONOUNOBJECTIVE for
+yelling our heads off at !PRONOUNOBJECTIVE for
+yells my head off at !PRONOUNOBJECTIVE for
+yells our heads off at !PRONOUNOBJECTIVE for

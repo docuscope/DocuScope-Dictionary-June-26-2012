@@ -1,0 +1,462 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !PRONOUNNOMINAL
+!AUX !PRONOUNNOMINAL for
+!AUX !PRONOUNNOMINAL to
+!AUX !PRONOUNNOMINAL up for
+!AUX it
+!AUX it about
+!AUX it that
+!AUX that so?
+!AUX we
+!AUX we up for
+!DO !PRONOUNNOMINAL
+!DO !PRONOUNNOMINAL wish to
+!DO !ROYALWE
+!DO !ROYALWE still need
+!DO we
+!MODAL !INDEFINITEADDRESSEE have to
+!MODAL !INDEFINITEADDRESSEE want to
+!MODAL !INDEFINITEADDRESSEE wish to
+!MODAL !PRONOUNNOMINAL
+!MODAL !PRONOUNNOMINAL have to
+!MODAL !PRONOUNNOMINAL want to
+!MODAL !PRONOUNNOMINAL wish to
+!MODAL it
+!MODAL it be
+!MODAL it be that
+!MODAL it go
+!MODAL it have
+!MODAL we
+!NEGQUESTION !PRONOUNNOMINAL
+!NEGQUESTION !PRONOUNNOMINAL be
+!QUESTION !AUX
+!QUESTION !AUX  !POSSESSIVEPRONOUN
+!QUESTION !AUX  the
+!QUESTION !AUX  the correct way to
+!QUESTION !AUX  the easiest way to
+!QUESTION !AUX  the right way to
+!QUESTION !AUX !PRONOUNNOMINAL
+!QUESTION !AUX we
+!QUESTION !AUX we supposed to
+!QUESTION !AUX your rudder
+!QUESTION /what
+!QUESTION ?
+!QUESTION am I supposed to
+!QUESTION and when did
+!QUESTION and where did
+!QUESTION and why did
+!QUESTION became of
+!QUESTION best to
+!QUESTION better to
+!QUESTION better to do than
+!QUESTION boots it
+!QUESTION bout !PRONOUNOBJECTIVE
+!QUESTION cares
+!QUESTION cares?
+!QUESTION did
+!QUESTION did !PRONOUNNOMINAL
+!QUESTION do
+!QUESTION do !PRONOUNNOMINAL
+!QUESTION do !PRONOUNNOMINAL get for
+!QUESTION do !PRONOUNNOMINAL have
+!QUESTION do !ROYALWE
+!QUESTION do !ROYALWE do if
+!QUESTION do !ROYALWE get for
+!QUESTION do !ROYALWE get off
+!QUESTION do !ROYALWE go
+!QUESTION do !ROYALWE go !QUESTION
+!QUESTION do !ROYALWE learn
+!QUESTION do !ROYALWE log-on
+!QUESTION do !ROYALWE stop
+!QUESTION do we have
+!QUESTION does
+!QUESTION does !PRONOUNNOMINAL get for
+!QUESTION does !PRONOUNNOMINAL have
+!QUESTION does it
+!QUESTION does it get
+!QUESTION does it have
+!QUESTION does one
+!QUESTION else
+!QUESTION else !AUX  new
+!QUESTION else !MODAL
+!QUESTION else !MODAL !PRONOUNNOMINAL
+!QUESTION else !MODAL !PRONOUNNOMINAL have to
+!QUESTION else do
+!QUESTION else do !PRONOUNNOMINAL
+!QUESTION else do !PRONOUNNOMINAL have
+!QUESTION good
+!QUESTION happened to
+!QUESTION happens if !ROYALWE
+!QUESTION happens when
+!QUESTION happens when !ROYALWE
+!QUESTION has
+!QUESTION has !PRONOUNNOMINAL
+!QUESTION has !PRONOUNNOMINAL not
+!QUESTION has access
+!QUESTION has ever
+!QUESTION have
+!QUESTION have !PRONOUNNOMINAL
+!QUESTION have !PRONOUNNOMINAL not
+!QUESTION if !ROYALWE don't want to be
+!QUESTION if !ROYALWE have trouble
+!QUESTION if !ROYALWE run into trouble
+!QUESTION if it
+!QUESTION isn't
+!QUESTION isn't nowadays
+!QUESTION isn't these days
+!QUESTION it
+!QUESTION knew?
+!QUESTION knows?
+!QUESTION matter
+!QUESTION matters
+!QUESTION measures
+!QUESTION message !AUX
+!QUESTION more deserving
+!QUESTION more qualified
+!QUESTION of it
+!QUESTION oh !QUESTION
+!QUESTION order of
+!QUESTION savings
+!QUESTION signatures
+!QUESTION survey
+!QUESTION surveying
+!QUESTION then
+!QUESTION think
+!QUESTION time
+!QUESTION time !AUX  it
+!QUESTION to turn
+!QUESTION to turn to
+!QUESTION type of
+!QUESTION types
+!QUESTION types of
+!QUESTION varieties
+!QUESTION was it
+!QUESTION was?
+!QUESTION were/are
+!QUESTION were?
+, !AUX  there
+, !AUX there
+, !MODAL !PRONOUNNOMINAL
+, !MODAL !ROYALWE
+, !MODAL it
+, !MODAL we
+, guess !QUESTION
+, was there
+, were there
+. !AUX  !PRONOUNNOMINAL
+. !AUX  it
+. !AUX  it fair
+. !AUX  it fair that
+. !AUX  my
+. !AUX  something
+. !AUX  the
+. !AUX  there
+. !AUX !DETERMINER
+. !AUX it
+. !AUX there
+. !AUX this
+. !MODAL
+. !MODAL  !PRONOUNNOMINAL be
+. !MODAL !DETERMINER
+. !MODAL !INDEFINITEADDRESSEE
+. !MODAL !PRONOUNNOMINAL
+. !MODAL the !INDEFINITEADDRESSEE
+. !MODAL there
+. !NEGQUESTION
+. !NEGQUESTION !DETERMINER
+. !NEGQUESTION !PRONOUNNOMINAL
+. !NEGQUESTION !PRONOUNNOMINAL be
+. !QUESTION
+. !QUESTION !AUX
+. !QUESTION !AUX  not
+. !QUESTION !MODAL
+. !QUESTION ,
+. !QUESTION did
+. !QUESTION didn't
+. !QUESTION do
+. !QUESTION do !PRONOUNNOMINAL have
+. !QUESTION does !PRONOUNNOMINAL have
+. !QUESTION does it have
+. !QUESTION had
+. !QUESTION has
+. !QUESTION must
+. !QUESTION ought
+. !QUESTION savings
+. !QUESTION was
+. !QUESTION were all
+. !QUESTION were the
+. but !AUX  it
+. but does anyone know
+. but does anyone know !QUESTION
+. but does anyone really know
+. but does anyone really know !QUESTION
+. couldst
+. did
+. didst
+. do
+. do !PRONOUNNOMINAL
+. do !ROYALWE
+. do we
+. does
+. does !PRONOUNNOMINAL
+. does anyone know
+. does anyone know !QUESTION
+. does anyone really know
+. does anyone really know !QUESTION
+. doesn't
+. doesn't !DETERMINER
+. dost
+. doth
+. guess !QUESTION
+. had
+. has
+. has !DETERMINER
+. have
+. have !DETERMINER
+. have !ROYALWE
+. have the
+. have we
+. haven't
+. how're
+. how's
+. was there
+. were there
+. WERE they ABLE TO
+. what're
+. what's
+. what's to
+. what's to say
+. what,
+. when're
+. when's
+. when,
+. whence
+. whence do
+. where're
+. where's
+. where,
+. whither
+. whither do
+. why
+. why're
+. why's
+. why all the
+. why were the
+. why,
+: !MODAL
+: !MODAL !DETERMINER
+: did
+: do !PRONOUNNOMINAL
+: do we
+: does
+: how
+: what
+: what's
+: what's !DETERMINER
+: when does
+: where
+: who
+: why
+; !AUX  there
+; !AUX there
+; !MODAL
+; !MODAL !DETERMINER
+; !NEGQUESTION
+; !NEGQUESTION !DETERMINER
+; !NEGQUESTION !PRONOUNNOMINAL
+; !NEGQUESTION !PRONOUNNOMINAL be
+; !QUESTION didn't
+; but !AUX  it
+; did
+; so just !QUESTION
+; was there
+; were there
+; what's
+; what's !DETERMINER
+; what's to
+?
+am !ROYALWE
+am !ROYALWE really to
+am !ROYALWE to
+am on !POSSESSIVEPRONOUN side
+ask if !PRONOUNNOMINAL would like
+asked if !PRONOUNNOMINAL would like
+asking if !PRONOUNNOMINAL would like
+asks if !PRONOUNNOMINAL would like
+at what time
+but does anyone know
+but does anyone know !QUESTION
+but does anyone really know
+but does anyone really know !QUESTION
+can a
+can the
+did !PRONOUNNOMINAL
+did !PRONOUNNOMINAL have to
+did !PRONOUNNOMINAL mind that
+did !PRONOUNNOMINAL want to
+did !PRONOUNNOMINAL wish to
+did anyone
+does !INDEFINITEADDRESSEE have to
+does !INDEFINITEADDRESSEE want to
+does !INDEFINITEADDRESSEE wish to
+does !PRONOUNNOMINAL have to
+does !PRONOUNNOMINAL want to
+does !PRONOUNNOMINAL wish to
+does anyone know
+does anyone know !QUESTION
+does anyone really know
+does anyone really know !QUESTION
+does it have
+does it have to be
+Does it not
+does my
+Doesn?t it
+had !PRONOUNNOMINAL known
+had !ROYALWE known
+had we known
+had we so
+hasn't !PRONOUNNOMINAL
+hast
+have !PRONOUNNOMINAL
+have !ROYALWE
+have there been
+have there ever
+have we
+haven't !PRONOUNNOMINAL
+how'd
+how're
+how's
+how's !DETERMINER
+how's for a
+how's it going
+how's things
+is there a seat for me
+is there hope
+isn't it
+isn't that a
+isn't that right
+isn't that so
+just !QUESTION did
+just !QUESTION do
+just !QUESTION does
+just !QUESTION happened
+just !QUESTION has
+n'est-ce pas
+ready?
+see?
+so !QUESTION
+so !QUESTION ?
+so !QUESTION about
+so !QUESTION come
+so !QUESTION does
+so !QUESTION else
+so !QUESTION else !AUX
+so !QUESTION else !AUX  new
+so just !QUESTION
+So there!
+so there.
+so what?
+so when?
+so where?
+so why?
+the result?
+was anything left
+was it done
+was it necessary
+was something left
+were there !DETERMINER
+were there any
+were there not
+were they intending
+were we taking
+were we taking care
+what'
+what'd
+what're
+what's
+what's !DETERMINER
+what's !POSSESSIVEPRONOUN take on
+what's for a
+what's in it for
+what's in it for !PRONOUNOBJECTIVE
+what's in it for me
+what's in it for one
+what's in it for us
+what's the best
+what's the big word
+what's the cheapest
+what's the diff
+what's the difference
+what's the easiest
+what's the fastest
+what's the least expensive
+what's the most effective
+what's the shortest
+what's to say that
+what's up
+what's with
+what's with !PRONOUNOBJECTIVE
+what've
+what-is-it
+whatcha
+whatcha doing
+whatever became of
+whatever happened to
+when'd
+when're
+when?
+where'd
+where'll
+where're
+where's
+where've
+which side !AUX
+which side has
+which side were
+who'd
+who're
+who's
+who's to say
+who's to say !QUESTION
+who's to say that
+who's who
+who-does-what
+who-whoop
+whom better to
+why
+why'd
+why're
+why !MODAL !ROYALWE want
+why aren't
+why can't
+why cannot
+why couldn't
+why didn't
+why don't
+why me lord?
+why mightn't
+why not
+why not bring
+why not come
+why not look into
+why not make
+why not prepare
+why not see
+why not talk
+why not try to
+why not walk
+why oh why
+why oughtn't
+why shouldn't
+why wasn't
+why weren't
+why won't
+why wouldn't
+why yes
+why?
+wie geht's
+with whom !MODAL !ROYALWE
+won't !ROYALWE

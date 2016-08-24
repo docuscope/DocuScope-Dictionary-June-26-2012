@@ -1,0 +1,1756 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!GIVE it a few more turns
+!GIVE it a turn
+!TEAR !DETERMINER strip
+!TEAR !DETERMINER strip off
+!TEAR along !DETERMINER perforation
+!TEAR back with !YOU
+!TEAR back with a
+!TEAR it off with !YOU
+!TEAR it off with a
+, click
+, press
+, press select
+, select !DETERMINER
+. !TEAR !DETERMINER
+. !TEAR along
+. !TEAR off
+. !TEAR out
+. always stand !MOTIONPREP
+. bend
+. carefully
+. carefully fold
+. clasp !YOU
+. clasping !YOU
+. click
+. close down
+. clutch !DETERMINER
+. continue doing this
+. cut about
+. cut along
+. cutting along
+. drag !DETERMINER
+. drag !YOU
+. draw
+. drop !DETERMINER
+. drop !YOU
+. drop it
+. drop it on
+. dry completely
+. dry completely before proceeding
+. file !DETERMINER
+. Fill it out
+. find !DETERMINER
+. find a
+. firmly place
+. fish out
+. fold !DETERMINER
+. fold it
+. fold this
+. folding it
+. following !DETERMINER line
+. following !DETERMINER traced line
+. gently squeeze
+. gently tap on
+. grab !DETERMINER
+. grab a
+. grasp !DETERMINER
+. guide !DETERMINER
+. hand it over
+. head for
+. hit !DETERMINER
+. hit on
+. hit on !DETERMINER
+. hold !DETERMINER
+. hold !DETERMINER !HUMANPART
+. hold !YOU
+. hold !YOU !HUMANPART
+. hold !YOU tongue
+. hold still
+. hold still for
+. hold this crease
+. insert
+. inserting
+. keep !DETERMINER thread tight
+. keep !YOU !HUMANPART
+. keep !YOU arms
+. keep !YOU attention on
+. keep !YOU eyes
+. keep !YOU eyes shut
+. keep !YOU feet
+. keep !YOU hands
+. keep !YOU head
+. keep heading
+. keep moist
+. keep you eyes closed
+. keeping !YOU eyes closed
+. keeping !YOU eyes shut
+. knot
+. label
+. lay
+. layer
+. lift !DETERMINER
+. loosen !DETERMINER
+. lower !DETERMINER
+. make !DETERMINER fold
+. make !YOU index finger
+. make !YOU thumb
+. make !YOU way across
+. make !YOU way through
+. make a mark
+. make large cuts
+. make small cuts
+. make small nips
+. making a mark
+. match !DETERMINER bottom edges
+. match !DETERMINER edges
+. match !DETERMINER top edges
+. matching !DETERMINER edges
+. matching !DETERMINER top edges
+. matchng !DETERMINER bottom edges
+. measure
+. now bring
+. now fold
+. open !DETERMINER book
+. open up !DETERMINER
+. peel
+. peel off
+. pick up
+. place !YOU feet
+. place !YOU feet carefully
+. place all
+. place it
+. place this
+. position !DETERMINER
+. position !YOU
+. position it !MOTIONPREP
+. press
+. press !DETERMINER
+. press on
+. press select
+. press with
+. prick
+. pricking
+. proceed from
+. proceed to
+. push !DETERMINER needle
+. pushing !DETERMINER needle
+. put !YOU
+. put a dash
+. put a pinch
+. put on
+. raise !YOU
+. remove
+. repeat
+. roll !DETERMINER
+. salt to taste
+. salt well
+. save as
+. scoop
+. select !DETERMINER
+. set !YOU
+. set it down
+. set it on
+. sew
+. sew along
+. sew around
+. sla!DETERMINERr it !MOTIONPREP
+. sla!DETERMINERr it !MOTIONPREP thick
+. speed up
+. start !DETERMINER needle
+. steady !DETERMINER
+. step right up
+. straighten !DETERMINER
+. stretch !DETERMINER tab
+. tap on
+. tearing along
+. thread
+. threading
+. throw !YOU
+. throw off
+. tighten !DETERMINER
+. tighten !YOU
+. trace
+. trace along
+. trace around
+. trace over
+. tuck
+. twist clockwise
+. twist counterclockwise
+. twist in the direction
+. undelete !DETERMINER
+. unfold
+. unpin
+. untie
+. use !YOU
+. use both hands
+. using both hands
+. while holding
+. with !DETERMINER remaining fingers
+. with !DETERMINER ruler
+. with !YOU finger
+. with !YOU hand
+. with !YOU hands
+. with !YOU index finger
+. with !YOU index fingers
+. with !YOU left finger
+. with !YOU left fingers
+. with !YOU left foot
+. with !YOU left hand
+. with !YOU left index finger
+. with !YOU left leg
+. with !YOU palm
+. with !YOU palms
+. with !YOU right finger
+. with !YOU right fingers
+. with !YOU right foot
+. with !YOU right hand
+. with !YOU right index fingers
+. with !YOU right leg
+. with !YOU ruler
+. with a few clicks
+. with a few mouse clicks
+. with both hands
+. with one hand
+. with two hands
+. wrap
+. wrap !DETERMINER
+. zoom !MOTIONPREP
+; click
+; save as
+add !NUMS1TO100 teaspoons
+add 1 tablespoon
+add 1 teaspoon
+add a pinch
+add one tablespoon
+add one teaspoon
+add some
+add until full
+always use a
+and select !DETERMINER
+as you roll
+as you slowly tap on
+as you tap on
+assemble !DETERMINER
+at this point remove
+baste it with
+baste lightly
+be sure to tuck
+begin by !MOVING
+brush lightly
+buff with
+buff with a
+cake it with
+carefully wrap !DETERMINER
+cast !YOU !HUMANPART
+cast !YOU !HUMANPART down
+clasp !DETERMINER
+click !DETERMINER
+click !YOU
+click and drag
+click here
+click into
+click on
+click on !DETERMINER
+close !DETERMINER
+clutch !DETERMINER
+clutch !YOU
+coat it with
+do this by rolling
+double click !DETERMINER
+doubleclick !DETERMINER
+drag and click
+drop your shoulders
+easy does it
+extend !YOU
+extending !YOU
+file !YOU
+fill in all
+fill out !DETERMINER
+follow !DETERMINER links
+follow !DETERMINER procedure above
+gently drag
+gently drop
+gently insert
+gently press
+gently pull
+gently steady
+gently tap on
+give !YOU attention to
+give !YOU close attention to
+grab !YOU
+grasp !YOU
+grip !DETERMINER
+grip !YOU
+guide !YOU
+hands off!
+hands up!
+Heads-up!
+highlight !DETERMINER desired
+hop to it
+initial !DETERMINER form
+initial it in !DETERMINER lower right
+initial on !DETERMINER dotted line
+insert !DETERMINER
+insert !YOU
+insert two drops
+just !TEAR out
+just drop !DETERMINER
+just leaf through it
+just lift !YOU
+just peel it off
+just rest !YOU
+just rip out
+just tap on !DETERMINER
+just twist
+just walk
+leaf through it
+leaf through it at !YOU leisure
+leaf through it!
+lift !YOU
+lift and insert
+lightly drag
+lightly press
+lightly tap on
+lower !YOU !HUMANPART
+lower your shoulder
+lower your shoulders
+moisten it with
+mop !YOU
+move !DETERMINER
+move !YOU
+move !YOU !HUMANPART
+move cautiously
+move down !DETERMINER menu
+move down !DETERMINER menus
+move forward please
+move up !DETERMINER menu
+move up !DETERMINER menus
+moved back please
+peel back !DETERMINER
+peel it back
+peel it off
+peeled it off
+peeling it off
+peels it off
+pinch !DETERMINER
+pinch !YOU
+place !NUMS1to100 drops
+place !NUMS1to100 or !NUMS1to100
+place !YOU
+place !YOU !HUMANPART
+place two drops
+please click !DETERMINER
+please click !YOU
+please click on
+please clutch !DETERMINER
+please clutch !YOU
+please drag !DETERMINER
+please drag !YOU
+please drop !DETERMINER
+please drop !YOU
+please fill out !DETERMINER
+please grasp !DETERMINER
+please grasp !YOU
+please grip !DETERMINER
+please grip !YOU
+please guide !DETERMINER
+please guide !YOU
+please hold !DETERMINER
+please hold !YOU
+please lift !DETERMINER
+please lift !YOU
+please lower !DETERMINER
+please lower !YOU !HUMANPART
+please move !DETERMINER
+please move !YOU
+please move back
+please move forward
+please pinch !DETERMINER
+please pinch !YOU
+please press !DETERMINER
+please press !YOU
+please pull !DETERMINER
+please pull !YOU
+please push !DETERMINER
+please push !YOU
+please push on
+please put !DETERMINER
+please put !YOU
+please run !YOU
+please set !DETERMINER
+please set !YOU
+please squeeze !DETERMINER
+please squeeze !YOU
+please step
+please step forward
+please step right up
+position !YOU
+position !YOU !HUMANPART
+press firmly
+press hard
+pull !DETERMINER
+pull !YOU
+pull each strand
+pull firmly
+pull hard
+push !DETERMINER
+push !YOU
+push on
+put two drops
+quickly tap on
+raise !YOU hand
+relax your muscles
+release the clutch
+remove and dispose
+repeat removing
+rinse thoroughly
+rinse until dry
+rip it out with !YOU
+rip it out with a
+rotate !DETERMINER
+rub it with
+run !YOU
+run !YOU pointer finger
+sand !DETERMINER area
+save !DETERMINER file
+save into !DETERMINER
+scroll down
+scroll left
+scroll right
+scroll to
+scroll up
+select !DETERMINER button
+select !DETERMINER desired
+shake !DETERMINER container
+shake !YOU !HUMANPART
+shake gently
+shake well
+shush !YOU mouth
+slow it down
+slowly tap on
+smear it with
+squeeze !DETERMINER
+squeeze !YOU
+squeeze hard
+squeeze on
+squint !YOU eyes
+stand up and see if
+start by !MOVING
+steady !YOU
+steady !YOU !HUMANPART
+stir till
+stir until
+swallow in one gulp
+sweep !YOU
+take !DETERMINER approved form
+take !DETERMINER end of !DETERMINER
+take !YOU finger
+take !YOU hand
+take !YOU left finger
+take !YOU right finger
+take !YOU right hand
+take a cup
+take orally
+tap on !DETERMINER
+try tapping on
+try to tap on
+tuck !DETERMINER
+turn !YOU
+turn one rotation
+turn over on !YOU
+turn over to
+twist !DETERMINER
+twist !DETERMINER cap
+twist !YOU
+twist firmly
+twist hard
+twist on !DETERMINER
+under this procedure
+unwind !DETERMINER
+walk right
+walk straight
+wet !DETERMINER surface
+while ambling
+while ambulating
+while arching
+while arcing
+while bending
+while binging
+while biting
+while bleeding
+while blinking
+while blowing
+while bobbing
+while bolting
+while boosting
+while bouncing
+while bowing
+while braiding
+while brandishing
+while bruising
+while brushing
+while budging
+while bumping
+while burying
+while bustling
+while capering
+while careening
+while caressing
+while carrying
+while carving
+while cascading
+while cavorting
+while charging
+while chattering
+while chatting
+while chewing
+while chirping
+while chiseling
+while chittering
+while chomping
+while chopping
+while chugging
+while churning
+while circling
+while circumambulating
+while clamping
+while clanging
+while clanking
+while Clasping
+while clawing
+while clenching
+while clicking
+while clinging
+while clinking
+while closing
+while clutching
+while Cradling
+while crashing
+while crawling
+while creasing
+while creeping
+while crinkling
+while criss-crossing
+while crocheting
+while cropping
+while crouching
+while cruising
+while crumbling
+while crumpling
+while crushing
+while crying
+while cuddling
+while curling
+while dallying
+while dancing
+while dangling
+while darning
+while darting
+while dashing
+while daubing
+while dawdling
+while devouring
+while dilly-dallying
+while Dipping
+while disinterring
+while diving
+while doddering
+while dodging
+while doffing
+while doodling
+while dousing
+while dowsing
+while dozing
+while dragging
+while draping
+while drenching
+while dribbling
+while drifting
+while drilling
+while drinking
+while dripping
+while driving
+while drooling
+while drooping
+while drowsing
+while drubbing
+while ducking
+while dunking
+while dusting
+while eating
+while elbowing
+while encircling
+while exhaling
+while falling
+while faltering
+while farting
+while feinting
+while fidgeting
+while fingering
+while flapping
+while flashing
+while fleeing
+while flexing
+while flickering
+while flinching
+while fling
+while flinging
+while flipping
+while flittering
+while flitting
+while floating
+while flooding
+while flouncing
+while flowing
+while fluttering
+while flying
+while fondling
+while frisking
+while frolicing
+while frolicking
+while frowing
+while frowning
+while fumbling
+while gaiting
+while galloping
+while galumphing
+while gamboling
+while gaping
+while gashing
+while gazing
+while germinating
+while getting up
+while gibbering
+while glancing
+while glaring
+while gliding
+while glinting
+while glissading
+while globe-trotting
+while glowering
+while gnashing
+while gnawing
+while gnoshing
+while gobbling
+while goose-stepping
+while gorging
+while gouging
+while grabbing
+while grasping
+while grating
+while grazing
+while grimacing
+while grinding
+while grinning
+while gripping
+while growling
+while grumbling
+while grunting
+while gulping
+while gurgling
+while gushing
+while gusting
+while guzzling
+while gyrating
+while hacking
+while hammering
+while hanching
+while hauling
+while heaving
+while hedging
+while hefting
+while herding
+while hibernating
+while hiking
+while hissing
+while hitchhiking
+while hitting
+while hobbling
+while hoisting
+while holding
+while honking
+while hooting
+while hopping
+while howling
+while huddling
+while huffing
+while hugging
+while humming
+while humping
+while hunching
+while hunkering
+while hurdling
+while hurling
+while hurrying
+while hurtling
+while hushing
+while hustling
+while imbibing
+while inching
+while inhaling
+while jabbing
+while jangling
+while jaunting
+while jerking
+while jiggling
+while jingling
+while jogging
+while jolting
+while jotting
+while jouncing
+while jousting
+while joyriding
+while jumping
+while kicking
+while kissing
+while kneading
+while kneeing
+while kneeling
+while knitting
+while knocking
+while knotting
+while lacerating
+while Lacquering
+while lagging
+while laminating
+while lancing
+while Lapping
+while laughing
+while launching
+while laying
+while leaking
+while leaning
+while leaping
+while leaving !DETERMINER
+while licking
+while lifting
+while lilting
+while limping
+while lingering
+while lisping
+while lobbing
+while lodging
+while loitering
+while lolling
+while looming
+while loping
+while lounging
+while luffing
+while lugging
+while lunging
+while lurching
+while lurking
+while lying
+while maiming
+while maneuvering
+while mangling
+while mashing
+while massaging
+while masticating
+while mauling
+while meandering
+while melting
+while moping
+while moseying
+while mounting
+while moving
+while mowing
+while muffling
+while mumbling
+while murmuring
+while muzzling
+while napping
+while navigating
+while nestling
+while nibbling
+while nicking
+while nodding
+while noshing
+while numbing
+while nuzzling
+while oozing
+while opening
+while pacing
+while paddling
+while palming
+while palpitating
+while panning
+while Parachuting
+while parading
+while paring
+while parrying
+while pattering
+while Paving
+while pawing
+while peeking
+while peeling
+while peeping
+while percolating
+while perspiring
+while petting
+while piercing
+while pillioning
+while pinching
+while pining
+while Piping
+while Pirouetting
+while pissing
+while pitching
+while pivoting
+while plodding
+while plowing
+while plunging
+while poking
+while polluting
+while pouncing
+while pounding
+while pouting
+while prancing
+while pressing
+while primping
+while prodding
+while promenading
+while propeling
+while propellering
+while propelling
+while propping
+while protruding
+while prowling
+while pruning
+while prying
+while puckering
+while pulling
+while pullulating
+while pulsating
+while pummeling
+while pumping
+while punching
+while pushing
+while puttering
+while quaffing
+while quaking
+while quarantining
+while quavering
+while quivering
+while racing
+while ransaking
+while rappeling
+while rapping
+while rasping
+while rattling
+while ravaging
+while rebounding
+while recoiling
+while reeling
+while relaxing
+while resonating
+while reveling
+while reverberating
+while ricocheting
+while riffling
+while rifling
+while rinsing
+while ripping
+while roaming
+while roaring
+while rollicking
+while rolling
+while romping
+while rotating
+while rousing
+while rubbing
+while ruffling
+while rumbling
+while rummaging
+while rumpling
+while running
+while rupturing
+while rushing
+while rustling
+while sagging
+while sailing
+while sapping
+while sauntering
+while scampering
+while scanning
+while scavenging
+while schrunching
+while scooting
+while scorchng
+while scouring
+while scrambling
+while scramming
+while scraping
+while scratching
+while scrawling
+while screaming
+while screeching
+while screwing
+while scribbling
+while scrounging
+while scrubbing
+while scruffing
+while scrunching
+while scuffing
+while scuffling
+while scurrying
+while scuttling
+while searing
+while seeping
+while seesawing
+while seething
+while seizing
+while severing
+while sewing
+while shackling
+while shaking
+while shambling
+while shampooing
+while shaving
+while shearing
+while shimmering
+while shimmying
+while shivering
+while shoving
+while showering
+while shriveling
+while shuffling
+while sidling
+while sighing
+while sight-seeing
+while sinking
+while sipping
+while sitting
+while sizzling
+while skating
+while skedaddling
+while skinning
+while skipping
+while skittering
+while skulking
+while slamming
+while slanting
+while slapping
+while slashing
+while sli!DETERMINERring
+while slicing
+while sliding
+while slinging
+while slinking
+while slipping
+while slitting
+while slobbering
+while slogging
+while sloshing
+while slouching
+while slurping
+while smacking
+while smashing
+while smearing
+while smelling
+while smiling
+while snaking
+while snapping
+while snarling
+while sneaking
+while snoozing
+while snoring
+while snorting
+while snuggling
+while soaking
+while soaring
+while soothing
+while sparkling
+while spewing
+while spilling
+while spinning
+while spitting
+while splashing
+while splitting
+while spraying
+while springing
+while sprinting
+while sprouting
+while spurting
+while sputtering
+while spying
+while squashing
+while Squatting
+while squeezing
+while squinting
+while squirming
+while squirting
+while squishing
+while stabbing
+while staggering
+while stalking
+while stampeding
+while staring
+while startling
+while stealing-away
+while steam-rolling
+while stomping
+while stooping
+while straggling
+while straying
+while stretching
+while striding
+while stroking
+while strolling
+while strutting
+while stumbling
+while stuttering
+while sucking
+while surging
+while swaddling
+while swaggering
+while swallowing
+while swarming
+while swathing
+while swaying
+while swerving
+while swigging
+while swilling
+while swimming
+while swinging
+while swirling
+while swishing
+while swiveling
+while swooning
+while taking-off
+while tamping
+while tapping
+while tarrying
+while tasting
+while tearing
+while teetering
+while thrashing
+while throbbing
+while throwing
+while thrumming
+while thrusting
+while thumping
+while thwacking
+while tilting
+while tip-toeing
+while toddling
+while tolling
+while toppling
+while tossing
+while tottering
+while touching
+while towing
+while traipses
+while traipsing
+while tramping
+while trampling
+while transcribing
+while traveling
+while trawling
+while treading
+while trembling
+while trimming
+while tripping
+while trooping
+while trotting
+while trudging
+while trundling
+while tugging
+while tumbling
+while turning
+while tussling
+while twiddling
+while twirling
+while twisting
+while unflinching
+while unhinging
+while vacuuming
+while vaulting
+while venturing
+while vibrating
+while waddling
+while wading
+while wafting
+while wagging
+while wailing
+while walking
+while walloping
+while wambling
+while wandering
+while warbling
+while washing
+while waving
+while weaving
+while wedging
+while weeping
+while welling
+while whiffing
+while whirling
+while whirring
+while whispering
+while whistle-stopping
+while Whizzing
+while wiffing
+while wiffling
+while wiggling
+while wiggling while holding
+while wincing
+while winging over
+while winking
+while wiping
+while wobbling
+while writhing
+while yanking
+while yapping
+while yelling
+while yelping
+while you are ambling
+while you are ambulating
+while you are arching
+while you are arcing
+while you are bending
+while you are binging
+while you are biting
+while you are bleeding
+while you are blinking
+while you are blowing
+while you are bobbing
+while you are bolting
+while you are boosting
+while you are bouncing
+while you are bowing
+while you are braiding
+while you are brandishing
+while you are bruising
+while you are brushing
+while you are budging
+while you are bumping
+while you are burying
+while you are bustling
+while you are capering
+while you are careening
+while you are caressing
+while you are carrying
+while you are carving
+while you are cascading
+while you are cavorting
+while you are charging
+while you are chattering
+while you are chatting
+while you are chewing
+while you are chirping
+while you are chiseling
+while you are chittering
+while you are chomping
+while you are chopping
+while you are chugging
+while you are churning
+while you are circling
+while you are circumambulating
+while you are clamping
+while you are clanging
+while you are clanking
+while you are clasping
+while you are clawing
+while you are clenching
+while you are clicking
+while you are clinging
+while you are clinking
+while you are closing
+while you are clutching
+while you are Cradling
+while you are crashing
+while you are crawling
+while you are creasing
+while you are creeping
+while you are crinkling
+while you are criss-crossing
+while you are crocheting
+while you are cropping
+while you are crouching
+while you are cruising
+while you are crumbling
+while you are crumpling
+while you are crushing
+while you are crying
+while you are cuddling
+while you are curling
+while you are dallying
+while you are dancing
+while you are dangling
+while you are darning
+while you are darting
+while you are dashing
+while you are daubing
+while you are dawdling
+while you are devouring
+while you are dilly-dallying
+while you are Dipping
+while you are disinterring
+while you are diving
+while you are doddering
+while you are dodging
+while you are doffing
+while you are doodling
+while you are dousing
+while you are dowsing
+while you are dozing
+while you are dragging
+while you are draping
+while you are drenching
+while you are dribbling
+while you are drifting
+while you are drilling
+while you are drinking
+while you are dripping
+while you are driving
+while you are drooling
+while you are drooping
+while you are drowsing
+while you are drubbing
+while you are ducking
+while you are dunking
+while you are dusting
+while you are eating
+while you are elbowing
+while you are encircling
+while you are exhaling
+while you are falling
+while you are faltering
+while you are farting
+while you are feinting
+while you are fidgeting
+while you are fingering
+while you are flapping
+while you are flashing
+while you are fleeing
+while you are flexing
+while you are flickering
+while you are flinching
+while you are fling
+while you are flinging
+while you are flipping
+while you are flittering
+while you are flitting
+while you are floating
+while you are flooding
+while you are flouncing
+while you are flowing
+while you are fluttering
+while you are flying
+while you are fondling
+while you are frisking
+while you are frolicing
+while you are frolicking
+while you are frowing
+while you are frowning
+while you are fumbling
+while you are gaiting
+while you are galloping
+while you are galumphing
+while you are gamboling
+while you are gaping
+while you are gashing
+while you are gazing
+while you are germinating
+while you are gibbering
+while you are glancing
+while you are glaring
+while you are gliding
+while you are glinting
+while you are glissading
+while you are globe-trotting
+while you are glowering
+while you are gnashing
+while you are gnawing
+while you are gnoshing
+while you are gobbling
+while you are goose-stepping
+while you are gorging
+while you are gouging
+while you are grabbing
+while you are grasping
+while you are grating
+while you are grazing
+while you are grimacing
+while you are grinding
+while you are grinning
+while you are gripping
+while you are growling
+while you are grumbling
+while you are grunting
+while you are gulping
+while you are gurgling
+while you are gushing
+while you are gusting
+while you are guzzling
+while you are gyrating
+while you are hacking
+while you are hammering
+while you are hanching
+while you are hauling
+while you are heaving
+while you are hedging
+while you are hefting
+while you are herding
+while you are hibernating
+while you are hiking
+while you are hissing
+while you are hitchhiking
+while you are hobbling
+while you are hoisting
+while you are holding
+while you are honking
+while you are hooting
+while you are hopping
+while you are howling
+while you are huddling
+while you are huffing
+while you are hugging
+while you are humming
+while you are humping
+while you are hunching
+while you are hunkering
+while you are hurdling
+while you are hurling
+while you are hurrying
+while you are hurtling
+while you are hushing
+while you are hustling
+while you are imbibing
+while you are inching
+while you are inhaling
+while you are jabbing
+while you are jangling
+while you are jaunting
+while you are jerking
+while you are jiggling
+while you are jingling
+while you are jogging
+while you are jolting
+while you are jotting
+while you are jouncing
+while you are jousting
+while you are joyriding
+while you are jumping
+while you are kicking
+while you are kissing
+while you are kneading
+while you are kneeing
+while you are kneeling
+while you are knitting
+while you are knocking
+while you are knotting
+while you are lacerating
+while you are Lacquering
+while you are lagging
+while you are laminating
+while you are lancing
+while you are Lapping
+while you are laughing
+while you are launching
+while you are laying
+while you are leaking
+while you are leaning
+while you are leaping
+while you are licking
+while you are lifting
+while you are lilting
+while you are limping
+while you are lingering
+while you are lisping
+while you are lobbing
+while you are lodging
+while you are loitering
+while you are lolling
+while you are looming
+while you are loping
+while you are lounging
+while you are luffing
+while you are lugging
+while you are lunging
+while you are lurching
+while you are lurking
+while you are lying
+while you are maiming
+while you are maneuvering
+while you are mangling
+while you are mashing
+while you are massaging
+while you are masticating
+while you are mauling
+while you are meandering
+while you are melting
+while you are moping
+while you are moseying
+while you are mounting
+while you are moving
+while you are mowing
+while you are muffling
+while you are mumbling
+while you are murmuring
+while you are muzzling
+while you are napping
+while you are navigating
+while you are nestling
+while you are nibbling
+while you are nicking
+while you are nodding
+while you are noshing
+while you are numbing
+while you are nuzzling
+while you are oozing
+while you are opening
+while you are pacing
+while you are paddling
+while you are palming
+while you are palpitating
+while you are panning
+while you are Parachuting
+while you are parading
+while you are paring
+while you are parrying
+while you are pattering
+while you are Paving
+while you are pawing
+while you are peeking
+while you are peeling
+while you are peeping
+while you are percolating
+while you are perspiring
+while you are petting
+while you are piercing
+while you are pillioning
+while you are pinching
+while you are pining
+while you are Piping
+while you are Pirouetting
+while you are pissing
+while you are pitching
+while you are pivoting
+while you are plodding
+while you are plowing
+while you are plunging
+while you are poking
+while you are polluting
+while you are pouncing
+while you are pounding
+while you are pouting
+while you are prancing
+while you are pressing
+while you are primping
+while you are prodding
+while you are promenading
+while you are propeling
+while you are propellering
+while you are propelling
+while you are propping
+while you are protruding
+while you are prowling
+while you are pruning
+while you are prying
+while you are puckering
+while you are pulling
+while you are pullulating
+while you are pulsating
+while you are pummeling
+while you are pumping
+while you are punching
+while you are pushing
+while you are puttering
+while you are quaffing
+while you are quaking
+while you are quarantining
+while you are quavering
+while you are quivering
+while you are racing
+while you are ransaking
+while you are rappeling
+while you are rapping
+while you are rasping
+while you are rattling
+while you are ravaging
+while you are rebounding
+while you are recoiling
+while you are reeling
+while you are relaxing
+while you are resonating
+while you are reveling
+while you are reverberating
+while you are ricocheting
+while you are riffling
+while you are rifling
+while you are rinsing
+while you are ripping
+while you are roaming
+while you are roaring
+while you are rollicking
+while you are rolling
+while you are romping
+while you are rotating
+while you are rousing
+while you are rubbing
+while you are ruffling
+while you are rumbling
+while you are rummaging
+while you are rumpling
+while you are running
+while you are rupturing
+while you are rushing
+while you are rustling
+while you are sagging
+while you are sailing
+while you are sapping
+while you are sauntering
+while you are scampering
+while you are scanning
+while you are scavenging
+while you are schrunching
+while you are scooting
+while you are scorchng
+while you are scouring
+while you are scrambling
+while you are scramming
+while you are scraping
+while you are scratching
+while you are scrawling
+while you are screaming
+while you are screeching
+while you are screwing
+while you are scribbling
+while you are scrounging
+while you are scrubbing
+while you are scruffing
+while you are scrunching
+while you are scuffing
+while you are scuffling
+while you are scurrying
+while you are scuttling
+while you are searing
+while you are seeping
+while you are seesawing
+while you are seething
+while you are seizing
+while you are severing
+while you are sewing
+while you are shackling
+while you are shaking
+while you are shambling
+while you are shampooing
+while you are shaving
+while you are shearing
+while you are shimmering
+while you are shimmying
+while you are shivering
+while you are shoving
+while you are showering
+while you are shriveling
+while you are shuffling
+while you are sidling
+while you are sighing
+while you are sight-seeing
+while you are sinking
+while you are sipping
+while you are sitting
+while you are sizzling
+while you are skating
+while you are skedaddling
+while you are skinning
+while you are skipping
+while you are skittering
+while you are skulking
+while you are slamming
+while you are slanting
+while you are slapping
+while you are slashing
+while you are sli!DETERMINERring
+while you are slicing
+while you are sliding
+while you are slinging
+while you are slinking
+while you are slipping
+while you are slitting
+while you are slobbering
+while you are slogging
+while you are sloshing
+while you are slouching
+while you are slumbering
+while you are slurping
+while you are smacking
+while you are smashing
+while you are smearing
+while you are smelling
+while you are smiling
+while you are snaking
+while you are snapping
+while you are snarling
+while you are sneaking
+while you are snoozing
+while you are snoring
+while you are snorting
+while you are snuggling
+while you are soaking
+while you are soaring
+while you are soothing
+while you are sparkling
+while you are spewing
+while you are spilling
+while you are spinning
+while you are spitting
+while you are splashing
+while you are splitting
+while you are spraying
+while you are springing
+while you are sprinting
+while you are sprouting
+while you are spurting
+while you are sputtering
+while you are spying
+while you are squashing
+while you are Squatting
+while you are squeezing
+while you are squinting
+while you are squirming
+while you are squirting
+while you are squishing
+while you are stabbing
+while you are staggering
+while you are stalking
+while you are stampeding
+while you are staring
+while you are startling
+while you are stealing-away
+while you are steam-rolling
+while you are stomping
+while you are stooping
+while you are straggling
+while you are straying
+while you are stretching
+while you are striding
+while you are stroking
+while you are strolling
+while you are strutting
+while you are stumbling
+while you are stuttering
+while you are sucking
+while you are surging
+while you are swaddling
+while you are swaggering
+while you are swallowing
+while you are swarming
+while you are swathing
+while you are swaying
+while you are swerving
+while you are swigging
+while you are swilling
+while you are swimming
+while you are swinging
+while you are swirling
+while you are swishing
+while you are swiveling
+while you are swooning
+while you are taking-off
+while you are tamping
+while you are tapping
+while you are tarrying
+while you are tasting
+while you are tearing
+while you are teetering
+while you are thrashing
+while you are throbbing
+while you are throwing
+while you are thrumming
+while you are thrusting
+while you are thumping
+while you are thwacking
+while you are tilting
+while you are tip-toeing
+while you are toddling
+while you are tolling
+while you are toppling
+while you are tossing
+while you are tottering
+while you are touching
+while you are towing
+while you are traipses
+while you are traipsing
+while you are tramping
+while you are trampling
+while you are transcribing
+while you are traveling
+while you are trawling
+while you are treading
+while you are trembling
+while you are trimming
+while you are tripping
+while you are trooping
+while you are trotting
+while you are trudging
+while you are trundling
+while you are tugging
+while you are tumbling
+while you are turning
+while you are tussling
+while you are twiddling
+while you are twirling
+while you are twisting
+while you are unflinching
+while you are unhinging
+while you are vacuuming
+while you are vaulting
+while you are venturing
+while you are vibrating
+while you are waddling
+while you are wading
+while you are wafting
+while you are wagging
+while you are wailing
+while you are walking
+while you are walloping
+while you are wambling
+while you are wandering
+while you are warbling
+while you are washing
+while you are waving
+while you are weaving
+while you are wedging
+while you are weeping
+while you are welling
+while you are whiffing
+while you are whirling
+while you are whirring
+while you are whispering
+while you are whistle-stopping
+while you are Whizzing
+while you are wiffing
+while you are wiffling
+while you are wiggling
+while you are wiggling while you are holding
+while you are wincing
+while you are winging over
+while you are winking
+while you are wiping
+while you are wobbling
+while you are writhing
+while you are yanking
+while you are yapping
+while you are yelling
+while you are yelping
+while you are zipping
+while you are zooming
+while zipping
+while zooming
+wiggle !YOU !HUMANPART
+you drop it
+you drop it on
+you have now formed
+you should leaf thorugh it
+you should try tapping on
+you start by
+you start by opening
+you start by selecting
+you start by turning on

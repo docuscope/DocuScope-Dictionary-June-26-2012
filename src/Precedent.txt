@@ -1,0 +1,106 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER first ever
+!AUX !DETERMINER first ever to
+!AUX !DETERMINER first time
+!AUX !DETERMINER first time ever
+!BREAK the barrier
+!BREAK the barriers
+!BREAK with !DETERMINER past
+!DETERMINER first affordable
+!DETERMINER first and still !DETERMINER best
+!DETERMINER first at
+!DETERMINER first automatic
+!DETERMINER first big
+!DETERMINER first comprehensive
+!DETERMINER first cost-effective
+!DETERMINER first day of !DETERMINER rest of your life
+!DETERMINER first feasible
+!DETERMINER first fully
+!DETERMINER first great
+!DETERMINER first human
+!DETERMINER first man
+!DETERMINER first named
+!DETERMINER first navigable
+!DETERMINER first originator
+!DETERMINER first originators
+!DETERMINER first person
+!DETERMINER first person to
+!DETERMINER first to
+!DETERMINER first woman
+!DETERMINER first year that
+!DETERMINER first year when
+!MAKE history
+!ROYALWE HAVE never before
+. the first Saudi
+a first,
+a one-of-a-kind
+among !DETERMINER first
+among !DETERMINER very first
+became !DETERMINER first
+become !DETERMINER first
+becomes !DETERMINER first
+becoming !DETERMINER first
+before now have never
+before now have not seen
+Being the first to
+first-ever
+first examined by
+first great
+first investigated by
+first researched by
+first studied by
+First time ever
+first time in America's history
+first time in American history
+first time in history
+first understood by
+for !DETERMINER first time
+for !DETERMINER first time in !NUMS1TO100 !TIMEFRAME
+for !DETERMINER very first
+for !DETERMINER very first time
+go beyond anything that came before
+goes beyond anything that came before
+going beyond anything that came before
+In her first
+In his first
+In its first
+In our first
+In their first
+introduced the first
+introduced the very first
+it's never been before
+it's only !DETERMINER !RANKNUMBER time
+it had been only !DETERMINER !RANKNUMBER time
+of firsts
+only !DETERMINER !RANKNUMBER time
+past master
+past masters
+precedent-making
+precedent-setting
+precedent breaking
+precedent condition
+precedent conditions
+precedent setting
+precendent-breaking
+than ever before
+than ever before had
+than has ever
+than has ever been
+THAN IS EVER LIKELY AGAIN
+The first female
+The first females
+The first Saudi
+The first time ever
+The first to
+The first woman
+The first women
+Unique
+Unique event
+Unique events
+unmatched before now
+unmatched since
+unmatched since before
+unmatched until now

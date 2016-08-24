@@ -1,0 +1,8481 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !TRANSFORM into
+!AUX !TURN into
+!AUX becoming
+!AUX made into
+!AUX MAINTAINED BY
+!AUX on !DETERMINER turn
+!AUX with child
+!BEAR huckleberry
+!BREAK !DETERMINER back of
+!BREAK !DETERMINER back of !DETERMINER
+!BREAK !DETERMINER bank
+!BREAK !DETERMINER fall
+!BREAK !DETERMINER fast
+!BREAK !DETERMINER habit
+!BREAK !DETERMINER HABIT OF
+!BREAK !POSSESSIVEPRONOUN fast
+!BREAK !PRONOUNOBJECTIVE IN
+!BREAK !YOU fast
+!BREAK back
+!BREAK bean
+!BREAK boundary
+!BREAK bounds
+!BREAK bulk
+!BREAK cover
+!BREAK even
+!BREAK flour
+!BREAK for
+!BREAK forth
+!BREAK front
+!BREAK in
+!BREAK iron
+!BREAK IT IN
+!BREAK it off
+!BREAK it up
+!BREAK loose
+!BREAK LOOSE FROM
+!BREAK my fast
+!BREAK of !DETERMINER
+!BREAK of serve
+!BREAK off
+!BREAK off from
+!BREAK open
+!BREAK our fast
+!BREAK through
+!BREAK with
+!BRING !DETERMINER action
+!BRING !DETERMINER anchor home
+!BRING !DETERMINER case before !DETERMINER bar
+!BRING !DETERMINER case before !DETERMINER court
+!BRING !DETERMINER mind to bear upon
+!BRING !DETERMINER total
+!BRING !DETERMINER total to
+!BRING !PRONOUNOBJECTIVE OUT
+!BRING !PRONOUNOBJECTIVE TO
+!BRING !PRONOUNOBJECTIVE under
+!BRING !PRONOUNOBJECTIVE UP
+!BRING about !DETERMINER detente
+!BRING attention to
+!BRING back
+!BRING back to earth
+!BRING back to memory
+!BRING before
+!BRING by !DETERMINER lee
+!BRING by !DETERMINER wind
+!BRING face to face with
+!BRING forth
+!BRING forth !DETERMINER
+!BRING forward
+!BRING home !DETERMINER bacon
+!BRING home to
+!BRING in
+!BRING in !DETERMINER harvest
+!BRING in !DETERMINER indictment
+!BRING in !DETERMINER verdict
+!BRING in !DETERMINER verdict of not guilty
+!BRING in !DETERMINER wind
+!BRING in question
+!BRING into !DETERMINER limelight
+!BRING into !DETERMINER open
+!BRING into !DETERMINER wind
+!BRING into analogy
+!BRING into comparison
+!BRING into court
+!BRING into disorder
+!BRING into focus
+!BRING into play
+!BRING into relation with
+!BRING into view
+!BRING it down
+!BRING it to !DETERMINER end
+!BRING it to !DETERMINER halt
+!BRING IT TO !DETERMINER HEAD
+!BRING it to !POSSESSIVEPRONOUN attention
+!BRING it to !PRONOUNOBJECTIVE attention
+!BRING it to consciousness
+!BRING it up
+!BRING it up for
+!BRING it up for consideration
+!BRING it up for review
+!BRING it up to
+!BRING low
+!BRING national attention to
+!BRING nationwide attention to
+!BRING near
+!BRING off !DETERMINER wind
+!BRING on !DETERMINER wind
+!BRING out
+!BRING OUT !DETERMINER SUBJECT OF
+!BRING out in bold relief
+!BRING out in high relief
+!BRING out in strong relief
+!BRING through
+!BRING to
+!BRING to !DETERMINER bar
+!BRING to !DETERMINER block
+!BRING to !DETERMINER boiling point
+!BRING to !DETERMINER end
+!BRING to !DETERMINER front
+!BRING to !DETERMINER gallows
+!BRING to !DETERMINER ground
+!BRING to !DETERMINER halt
+!BRING to !DETERMINER happy issue
+!BRING to !DETERMINER stand
+!BRING to !DETERMINER standstill
+!BRING to !DETERMINER stop
+!BRING to !DETERMINER understanding
+!BRING to account
+!BRING to attention
+!BRING to bay
+!BRING to bear
+!BRING to bear upon
+!BRING to birth
+!BRING to book
+!BRING to completion
+!BRING to effect
+!BRING to life
+!BRING TO LIGHT
+!BRING to maturity
+!BRING to notice
+!BRING to nought
+!BRING to recollection
+!BRING to test
+!BRING to trial
+!BRING to view
+!BRING together
+!BRING tumbling down
+!BRING under !DETERMINER hammer
+!BRING under control
+!BRING up
+!BRING up !DETERMINER
+!BRING up by hand
+!BRING up for investigation
+!BRING up short
+!BRING upon
+!BUILD !DETERMINER stately rime
+!BUILD !YOU house upon !DETERMINER rock
+!BUILD in
+!BUILD into
+!BUILD pipelines
+!BUILD pipelines to
+!BUILD up !DETERMINER
+!BUILD up !DETERMINER stock
+!BUILD up an inventory
+!BURN !DETERMINER hole in !POSSESSIVEPRONOUN pocket
+!BURN at
+!BURN down
+!BURN to
+!BURN up !POSSESSIVEPRONOUN mortgage
+!CATCH up to
+!CATCH up with
+!CHANGE !DETERMINER appearance of
+!CHANGE !DETERMINER bearing
+!CHANGE !DETERMINER face of
+!CHANGE !DETERMINER heading
+!CHANGE !DETERMINER look of
+!CHANGE !DETERMINER nature
+!CHANGE !DETERMINER nature of
+!CHANGE !DETERMINER preponderance
+!CHANGE !DETERMINER SUBJECT
+!CHANGE !POSSESSIVEPRONOUN allegiance
+!CHANGE !POSSESSIVEPRONOUN colors
+!CHANGE !POSSESSIVEPRONOUN identity
+!CHANGE !POSSESSIVEPRONOUN mind
+!CHANGE !POSSESSIVEPRONOUN note
+!CHANGE !POSSESSIVEPRONOUN song
+!CHANGE !POSSESSIVEPRONOUN tune
+!CHANGE !POSSESSIVEPRONOUN ways
+!CHANGE color
+!CHANGE course
+!CHANGE down
+!CHANGE for
+!CHANGE for !DETERMINER better
+!CHANGE for !DETERMINER worse
+!CHANGE front
+!CHANGE gear
+!CHANGE hands
+!CHANGE house
+!CHANGE how
+!CHANGE into
+!CHANGE into something different
+!CHANGE of allegiance
+!CHANGE of commitment
+!CHANGE of conviction
+!CHANGE of heart
+!CHANGE of life
+!CHANGE of loyalty
+!CHANGE of mind
+!CHANGE of one thing for another
+!CHANGE of pace
+!CHANGE of venue
+!CHANGE off
+!CHANGE over
+!CHANGE ownership
+!CHANGE place
+!CHANGE places with
+!CHANGE residence
+!CHANGE round
+!CHANGE sides
+!CHANGE to !DETERMINER former state
+!CHANGE to something different
+!CHANGE up
+!CHANGE with !DETERMINER times
+!CLEAN !DETERMINER
+!CLEAN !PRONOUNOBJECTIVE up
+!CLEAN out
+!CLEAN up !DETERMINER
+!CLEAN up !MOTIONPREP
+!CLEAN up !POSSESSIVEPRONOUN
+!CLEAN up !PRONOUNOBJECTIVE
+!CLEAN up all round
+!CLEAN with !PRONOUNOBJECTIVE
+!COME down in price
+!COME from
+!COME from an unexpected quarter
+!COME from behind
+!COME into !DETERMINER world
+!COME into being
+!COME into effect
+!COME into existence
+!COME loose
+!COME on
+!COME out of retirement
+!COME to !DETERMINER
+!COME to !DETERMINER !IDEA
+!COME to !DETERMINER front
+!COME to !DETERMINER scratch
+!COME to !DETERMINER stop
+!COME to anchor
+!COME to assume
+!COME to be
+!COME TO BE KNOWN AS
+!COME to believe
+!COME to cold steel
+!COME to grips with
+!COME to hand
+!COME to hear of it
+!COME to know
+!COME to light
+!COME to man's estate
+!COME to maturity
+!COME to one
+!COME to pass
+!COME to realize
+!COME to recognize
+!COME to represent
+!COME to see that
+!COME to think
+!COME to understand
+!COME true
+!COME upon !DETERMINER stage
+!CROSS over to
+!DETERMINER !CHANGE
+!DETERMINER !TRANSFORM
+!DETERMINER acquisition of
+!DETERMINER ascension
+!DETERMINER ascension of
+!DETERMINER assuming of
+!DETERMINER breakdown of
+!DETERMINER catechized
+!DETERMINER changed
+!DETERMINER clabbered
+!DETERMINER cleansed
+!DETERMINER colonized
+!DETERMINER combining of
+!DETERMINER combining of solute and solvent
+!DETERMINER commandeered
+!DETERMINER consolidated
+!DETERMINER creation of
+!DETERMINER elevation
+!DETERMINER elevations
+!DETERMINER EVOLUTION OF
+!DETERMINER fall off from
+!DETERMINER growing number
+!DETERMINER growing numbers
+!DETERMINER GROWTH OF
+!DETERMINER historical worm turns
+!DETERMINER other shoe !DROP
+!DETERMINER reduced
+!DETERMINER regenerator
+!DETERMINER regenerators
+!DETERMINER restoration
+!DETERMINER restorations
+!DETERMINER revaluation of
+!DETERMINER revaluations of
+!DETERMINER risen
+!DETERMINER risens
+!DETERMINER sea change
+!DETERMINER sharp surge in
+!DETERMINER stand-down
+!DETERMINER surge in
+!DETERMINER surge of
+!DETERMINER thinner
+!DETERMINER turned-on
+!DETERMINER worm turns
+!DIG !PRONOUNOBJECTIVE OUT OF
+!DIG !REFLEXIVEPRONOUN OUT OF
+!DIG at
+!DIG into
+!DIG MYSELF OUT OF
+!DIG OURSELVES OUT OF
+!DIG OUT
+!DIG OUT !DETERMINER
+!DIG out from
+!DIG OUT OF !DETERMINER
+!DIG up
+!DIG up !DETERMINER past
+!DO it up brown
+!DROP !DETERMINER number
+!DROP in !DETERMINER number
+!DROP in number
+!DROP in temperature
+!DROP number
+!DROP out from
+!DROP out of
+!DROP to
+!DROP weight
+!ENTER into possession
+!FALL in price
+!FALL into !POSSESSIVEPRONOUN  hold
+!FALL into !POSSESSIVEPRONOUN grip
+!FALL into !YOU grip
+!FALL into !YOU hold
+!FALL into my grip
+!FALL into my hold
+!FALL into our grip
+!FALL into our hold
+!FALL off from
+!FALL off in
+!FALL under !POSSESSIVEPRONOUN  influence
+!FALL under !YOU influence
+!FALL under my influence
+!FALL under our influence
+!FIX up
+!GATHER flesh
+!GET !DETERMINER control of
+!GET !DETERMINER leverage
+!GET !DETERMINER power
+!GET !DETERMINER power into !POSSESSIVEPRONOUN hands
+!GET !DETERMINER power into !YOU hands
+!GET !DETERMINER power into my hands
+!GET !DETERMINER power into our hands
+!GET !PRONOUNOBJECTIVE cleaned up
+!GET !PRONOUNOBJECTIVE out of !POSSESSIVEPRONOUN system
+!GET !PRONOUNOBJECTIVE out of !YOU system
+!GET !PRONOUNOBJECTIVE out of my system
+!GET !PRONOUNOBJECTIVE out of our system
+!GET !PRONOUNOBJECTIVE up to speed
+!GET !REFLEXIVEPRONOUN cleaned up
+!GET acquainted
+!GET acquainted with
+!GET acquired
+!GET back
+!GET back in
+!GET back in shape
+!GET busy
+!GET chilled
+!GET cold
+!GET control
+!GET control of
+!GET darker
+!GET established
+!GET even louder
+!GET even softer
+!GET fainter
+!GET fixed
+!GET hot
+!GET in !DETERMINER family way
+!GET into
+!GET into !POSSESSIVEPRONOUN  hold
+!GET into !POSSESSIVEPRONOUN  possession
+!GET into !POSSESSIVEPRONOUN grip
+!GET into !YOU grip
+!GET into !YOU hold
+!GET into !YOU possession
+!GET into my grip
+!GET into my hold
+!GET into my possession
+!GET into our grip
+!GET into our hold
+!GET into our possession
+!GET lighter
+!GET louder
+!GET me up to speed
+!GET more
+!GET myself cleaned up
+!GET noisier
+!GET noisy
+!GET older
+!GET on top
+!GET ourselves cleaned up
+!GET out of
+!GET out of commission
+!GET over with
+!GET pickled
+!GET plastered
+!GET poorer
+!GET religion
+!GET rich
+!GET richer
+!GET shet
+!GET shet of
+!GET shut of
+!GET slimmer
+!GET softer
+!GET something out of !POSSESSIVEPRONOUN system
+!GET something out of !YOU system
+!GET something out of my system
+!GET something out of our system
+!GET square
+!GET stronger
+!GET thinner
+!GET tired
+!GET under !POSSESSIVEPRONOUN  influence
+!GET under !YOU influence
+!GET under my influence
+!GET under our influence
+!GET up to speed
+!GET us up to speed
+!GET warm
+!GET weaker
+!GET wind-up
+!GET wind up
+!GIVE rise
+!GIVE surcease
+!GO back to being
+!GO beddy-bye
+!GO deaf
+!GO deep
+!GO deep into
+!GO DIM
+!GO foreign
+!GO from this
+!GO into effect
+!GO into retirement
+!GO native
+!GO night-night
+!GO off !DETERMINER air
+!GO off to sleep
+!GO on !DETERMINER diet
+!GO on !DETERMINER drunk
+!GO on !DETERMINER spending spree
+!GO on !DETERMINER spree
+!GO on welfare
+!GO public
+!GO QUIET
+!GO SILENT
+!GO straight
+!GO through !DETERMINER change
+!GO to !DETERMINER happy hunting grounds
+!GO to grass
+!GO to law
+!GO to press
+!GO to rack and manger
+!GO to rest
+!GO to sleep
+!GO up
+!GO up and up
+!GO up in !POSSESSIVEPRONOUN lines
+!GO up in my lines
+!GO up in our lines
+!GO up in price
+!GO up on !POSSESSIVEPRONOUN lines
+!GO up on my lines
+!GO up on our lines
+!GROW bright
+!GROW cold
+!GROW dark
+!GROW dear
+!GROW dearer
+!GROW dim
+!GROW fast
+!GROW fat
+!GROW from
+!GROW hair
+!GROW into
+!GROW larger
+!GROW light
+!GROW like !DETERMINER weed
+!GROW lush
+!GROW on
+!GROW over
+!GROW rank
+!GROW red
+!GROW rich
+!GROW so fast
+!GROW thick
+!GROW to
+!GROW together
+!HAND over !DETERMINER
+!HAND over !DETERMINER power
+!HAND over !DETERMINER reigns
+!HAND over !POSSESSIVEPRONOUN
+!HAVE !DETERMINER turn for
+!HAVE !PRONOUNOBJECTIVE cleaned up
+!HAVE !REFLEXIVEPRONOUN cleaned up
+!HAVE BECOME
+!HAVE BECOME !DETERMINER
+!HAVE become common
+!HAVE become commonplace
+!HAVE BECOME KEY
+!HAVE cut !POSSESSIVEPRONOUN  wisdom teeth
+!HAVE cut !POSSESSIVEPRONOUN eyeteeth
+!HAVE cut !YOU eyeteeth
+!HAVE cut !YOU wisdom teeth
+!HAVE cut my eyeteeth
+!HAVE cut my wisdom teeth
+!HAVE cut our eyeteeth
+!HAVE cut our wisdom teeth
+!HAVE myself cleaned up
+!HAVE ourselves cleaned up
+!HAVE swelled from
+!INTENSIFY
+!INTENSIFY !DETERMINER
+!INTENSIFY !DETERMINER !PROBLEM
+!INTENSIFY !POSSESSIVEPRONOUN
+!LOSE heat
+!LOSE weight
+!MAKE !DETERMINER radical change
+!MAKE !PRONOUNOBJECTIVE UP
+!MAKE change
+!MAKE changes
+!MAKE changes to
+!MAKE immaterial
+!MAKE inroads
+!MAKE into
+!MAKE into !DETERMINER
+!MAKE into soap
+!MAKE it tame
+!MAKE lavish
+!MAKE over
+!MAKE over into
+!MAKE some changes
+!MAKE tepid
+!MAKE up as
+!OPEN !DETERMINER light
+!OPEN !DETERMINER lock
+!OPEN negotiations
+!OPEN negotiations with
+!OPEN UP
+!OPEN up !DETERMINER
+!PAY down on
+!PUT off !DETERMINER track
+!PUT on
+!PUT ON !DETERMINER
+!PUT on !DETERMINER acid
+!PUT on !DETERMINER agenda
+!PUT on !DETERMINER air
+!PUT on !DETERMINER alert
+!PUT on !DETERMINER allowance
+!PUT on !DETERMINER back burner
+!PUT on !DETERMINER big
+!PUT on !DETERMINER block
+!PUT on !DETERMINER brakes
+!PUT on !DETERMINER business basis
+!PUT on !DETERMINER business footing
+!PUT on !DETERMINER dog
+!PUT on !DETERMINER drag
+!PUT on !DETERMINER drive for
+!PUT on !DETERMINER even keel
+!PUT on !DETERMINER feed bag
+!PUT on !DETERMINER gloves with
+!PUT on !DETERMINER grill
+!PUT on !DETERMINER harbor furl
+!PUT on !DETERMINER high
+!PUT on !DETERMINER important
+!PUT on !DETERMINER Index
+!PUT on !DETERMINER large
+!PUT on !DETERMINER map
+!PUT on !DETERMINER market
+!PUT on !DETERMINER new man
+!PUT on !DETERMINER retired list
+!PUT on !DETERMINER ritz
+!PUT on !DETERMINER scales
+!PUT on !DETERMINER shelf
+!PUT on !DETERMINER show
+!PUT on !DETERMINER soft pedal
+!PUT on !DETERMINER stage
+!PUT on !DETERMINER stand
+!PUT on !DETERMINER style
+!PUT on !DETERMINER table
+!PUT on !DETERMINER track
+!PUT on hold
+!PUT on ice
+!PUT on immortality
+!PUT on more speed
+!PUT on mourning
+!PUT on paper
+!PUT on parole
+!PUT on report
+!PUT on tape
+!PUT on to
+!PUT on to something hot
+!PUT on weight
+!PUT one on
+!PUT one on guard
+!PUT option
+!PUT options
+!PUT options on !DETERMINER table
+!PUT our priorities in order
+!PUT ourselves between disputants
+!PUT ourselves down
+!PUT ourselves down for
+!PUT ourselves forward
+!PUT ourselves in !DETERMINER hands of
+!PUT ourselves in !DETERMINER spot
+!PUT ourselves in another's shoes
+!PUT ourselves out
+!PUT ourselves out of !DETERMINER way
+!PUT ourselves out of court
+!PUT ourselves outside of
+!PUT ourselves upon !DETERMINER
+!PUT out
+!PUT out !DETERMINER
+!PUT out !DETERMINER alert
+!PUT out at interest
+!PUT out bag and baggage
+!PUT out buds
+!PUT out leaves
+!PUT out of !DETERMINER way
+!PUT out of action
+!PUT out of breath
+!PUT out of commission
+!PUT out of court
+!PUT out of existence
+!PUT out of face
+!PUT out of reach
+!PUT out of sight
+!PUT out to grass
+!PUT out to sea
+!RAISE !DETERMINER cost
+!RAISE !DETERMINER costs
+!RAISE !DETERMINER price
+!RAISE !DETERMINER prices
+!RAISE !DETERMINER ticket price
+!RAISE !DETERMINER ticket prices
+!RAISE from a little boy
+!RAISE from a little girl
+!RAISE from a little kitten
+!RAISE from a little puppy
+!REDUCE !DETERMINER price
+!RUN dry
+!RUN end on
+!RUN it up from
+!RUN it up to
+!SING !DETERMINER DIFFERENT TUNE
+!TAKE !DETERMINER NEW TURN
+!TAKE !DETERMINER offense
+!TAKE !DETERMINER turn for
+!TAKE !DETERMINER weight off
+!TAKE office
+!TAKE shape
+!TOUCH IT UP
+!TOUCH up
+!TRANSFORM into
+!TRANSFORM over to
+!TURN !DETERMINER about face
+!TURN !DETERMINER back upon
+!TURN !DETERMINER balance
+!TURN !DETERMINER corner on
+!TURN !DETERMINER corner on !POSSESSIVEPRONOUN
+!TURN !DETERMINER corner on !POSSESSIVEPRONOUN disease
+!TURN !DETERMINER corner on !POSSESSIVEPRONOUN illness
+!TURN !DETERMINER corner on !YOU
+!TURN !DETERMINER corner on !YOU disease
+!TURN !DETERMINER corner on !YOU illness
+!TURN !DETERMINER corner on my
+!TURN !DETERMINER corner on my disease
+!TURN !DETERMINER corner on my illness
+!TURN !DETERMINER corner on our
+!TURN !DETERMINER corner on our disease
+!TURN !DETERMINER corner on our illness
+!TURN !DETERMINER HEAT UP
+!TURN !DETERMINER point of
+!TURN !DETERMINER scale
+!TURN !DETERMINER scales
+!TURN !DETERMINER shoulder
+!TURN !DETERMINER sign
+!TURN !DETERMINER stitch
+!TURN !DETERMINER tables
+!TURN !DETERMINER TABLES ON
+!TURN !DETERMINER tables upon
+!TURN !DETERMINER tide
+!TURN !DETERMINER trick
+!TURN !POSSESSIVEPRONOUN away
+!TURN !POSSESSIVEPRONOUN coat
+!TURN !PRONOUNOBJECTIVE OUT
+!TURN !PRONOUNOBJECTIVE UP
+!TURN acid
+!TURN around
+!TURN AROUND AND !PASTCLAIMING
+!TURN aside
+!TURN aside from
+!TURN aside provocation
+!TURN away from
+!TURN chilly
+!TURN cold
+!TURN color
+!TURN file
+!TURN for
+!TURN from
+!TURN her into
+!TURN him into
+!TURN hot
+!TURN in
+!TURN informer
+!TURN into
+!TURN into !DETERMINER
+!TURN into !DETERMINER opposite
+!TURN into money
+!TURN inward to God
+!TURN inward to religion
+!TURN it around
+!TURN it off
+!TURN it ON
+!TURN it over
+!TURN it over to
+!TURN IT TO !POSSESSIVEPRONOUN ADVANTAGE
+!TURN king's evidence
+!TURN LIVID
+!TURN loose
+!TURN me away
+!TURN me into
+!TURN meter
+!TURN my coat
+!TURN of !DETERMINER cards
+!TURN of !DETERMINER screw
+!TURN of !DETERMINER table
+!TURN of !DETERMINER tables
+!TURN of !DETERMINER tide
+!TURN of events
+!TURN of expression
+!TURN of work
+!TURN off
+!TURN off !DETERMINER juice
+!TURN off !DETERMINER light
+!TURN on
+!TURN on !DETERMINER dime
+!TURN on !DETERMINER light
+!TURN on !DETERMINER offensive
+!TURN on !DETERMINER tap
+!TURN ON !DETERMINER WATERWORKS
+!TURN on !POSSESSIVEPRONOUN heel
+!TURN on to
+!TURN our coat
+!TURN OUT
+!TURN out bag and baggage
+!TURN out doors
+!TURN out of doors
+!TURN out that way
+!TURN over !DETERMINER
+!TURN over !POSSESSIVEPRONOUN
+!TURN over !PRONOUNOBJECTIVE
+!TURN over information
+!TURN over stock
+!TURN point
+!TURN points
+!TURN queen's
+!TURN queen's evidence
+!TURN state's evidence
+!TURN swords into plowshares
+!TURN that around
+!TURN them into
+!TURN to
+!TURN to !DETERMINER
+!TURN to !DETERMINER lake
+!TURN to !DETERMINER right-about
+!TURN to !DETERMINER sea
+!TURN to !DETERMINER side
+!TURN to !POSSESSIVEPRONOUN
+!TURN TO !POSSESSIVEPRONOUN ADVANTAGE
+!TURN to !PRONOUNOBJECTIVE
+!TURN to account
+!TURN to good account
+!TURN to ice
+!TURN to profit
+!TURN to stone
+!TURN to use
+!TURN topsy-turvy
+!TURN turtle
+!TURN under
+!TURN up
+!TURN UP !DETERMINER
+!TURN UP !POSSESSIVEPRONOUN NOSE
+!TURN up one's face
+!TURN up trumps
+!TURN us away
+!TURN us into
+!TURN warm
+!TURN white
+!TURN yellow
+!TURN you into
+!WORK !DETERMINER change
+!WORK up from
+!WORK up to
+, to this.
+abatement
+abatement of
+abatement of differences
+abatements
+abatements of
+abridgement
+abridgements
+abridgment
+abridgments
+abrupt change in
+abrupt changes in
+abrupt emergence
+abrupt emergences
+absolutize
+absolutized
+absolutizes
+absolutizing
+absorption
+absorptions
+accelerate
+accelerated
+accelerates
+accelerating
+acceleration
+accelerative
+acceleratory
+accelerting
+accession to power
+accessorize
+accessorized
+accessorizes
+accessorizing
+acclimate
+acclimated
+acclimates
+acclimating
+acclimation
+acclimatization
+acclimatize
+acclimatized
+acclimatizes
+acclimatizing
+accrementition
+accrescent
+accrete
+accreted
+accretes
+accreting
+accretive
+acculturize
+acculturized
+acculturizes
+acculturizing
+accumulation
+accumulation of
+accumulation of fat
+accumulation of fats
+accumulations
+accumulations of
+accumulative
+accumulatively
+accumulativeness
+accumulator
+accumulators
+acescent
+acidification
+acidifications
+acidulate
+acidulated
+acidulates
+acidulating
+acidulation
+acidulations
+acierate
+acierated
+acierates
+acierating
+acquired character
+acquired characteristic
+acquired epilepsy
+acquired immunity
+acquired syphilis
+acquired taste
+acquired tolerance
+acquisition of
+acquisition of knowledge
+acrobatic evolutions
+act of lowering
+act of rising
+action falling
+action rising
+activate
+activates
+activating
+activation
+activation of
+activations
+actualization
+actualize
+actualized
+actualizes
+actualizing
+actuate
+actuated
+actuates
+actuating
+actuation
+actuations
+acuminate
+acuminated
+acuminates
+acuminating
+acylate
+acylated
+acylates
+acylating
+adaptation
+adaptations
+add support to
+add supports to
+added support to
+added supports to
+adding support to
+adding supports to
+addition of salt
+adds support to
+adds supports to
+adsorption
+adsorption of
+adsorptive
+advection
+advections
+advent
+advent of
+advents
+aematogenesis
+aematopoieses
+aematoses
+aematosis
+aemolyses
+aemolysis
+aerate
+aerated
+aerates
+aerating
+aerification
+aerifications
+aerified
+aerifies
+aerify
+aerifying
+aerosolize
+aerosolized
+aerosolizes
+aerosolizing
+aetheticize
+aetheticized
+aetheticizes
+aetheticizing
+afforest
+afforested
+afforesting
+afforests
+affranchise
+affranchised
+affranchises
+affranchising
+age-harden
+age-hardened
+age-hardening
+age-out
+age hardening
+age out
+age toward
+aged-out
+aged out
+aged toward
+ages-out
+ages out
+ages toward
+aging-out
+aging out
+aging toward
+albumenize
+albumenized
+albumenizes
+albumenizing
+alchemize
+alchemized
+alchemizes
+alchemizing
+alcoholize
+alcoholized
+alcoholizes
+alcoholizing
+alkalified
+alkalifies
+alkalify
+alkalifying
+alkalinize
+alkalinized
+alkalinizes
+alkalinizing
+alkalization
+alkalizations
+alkalize
+alkalized
+alkalizes
+alkalizing
+alkylate
+alkylated
+alkylates
+alkylating
+alkylation
+alkylations
+alphabetization
+alphabetize
+alphabetized
+alphabetizes
+alphabetizing
+aluminize
+aluminized
+aluminizes
+aluminizing
+aluminothermy
+americanize
+americanized
+americanizes
+americanizing
+ammoniate
+ammoniated
+ammoniates
+ammoniating
+ammonification
+ammonifications
+ammonified
+ammonifies
+ammonify
+ammonifying
+amortise
+amortised
+amortises
+amortising
+amortization
+amortizations
+amortizement
+amortizements
+amplified
+amplifies
+amplify
+amplifying
+amylolyses
+amylolysis
+anaesthetization
+anaesthetize
+anaesthetized
+anaesthetizes
+anaesthetizing
+anagrammatize
+anagrammatized
+anagrammatizes
+anagrammatizing
+anamorphosis
+anastomose
+anastomosed
+anastomoses
+anastomosing
+anastomosis
+anatomization
+anatomizations
+anatomize
+anatomized
+anatomizes
+anatomizing
+and became
+and become
+and becomes
+and becoming
+anesthetization
+anesthetize
+anesthetized
+anesthetizes
+anesthetizing
+anglicanize
+anglicisation
+anglicise
+anglicised
+anglicising
+anglicism
+anglicization
+anglicize
+anglicized
+anglicizes
+anglicizing
+anglification
+anglified
+anglify
+anglifying
+angulate
+animalize
+animalized
+animalizes
+animalizing
+ankylose
+ankylosed
+ankyloses
+ankylosing
+ankylosis
+ankylostomiasis
+anneal
+annealed
+annealing
+anneals
+annexation
+annexations
+annexure
+annexures
+annualize
+annualized
+annualizes
+annualizing
+annul
+annulled
+annulling
+annulment
+annulments
+annuls
+anonymization
+anonymizations
+anonymize
+anonymizes
+anthologize
+anthologized
+anthologizes
+anthologizing
+anthropomorphism
+anthropomorphize
+anthropomorphized
+anthropomorphizes
+anthropomorphizing
+anthropomorphosis
+antisepticize
+antisepticized
+antisepticizes
+antisepticizing
+apostrophize
+apostrophized
+apostrophizes
+apostrophizing
+apportionment to
+apprise in
+apprise in value
+apprised in
+apprised in value
+apprises in
+apprises in value
+apprising in
+apprising in value
+are !DETERMINER making of
+are becoming
+are changed from
+are changed into
+are changed to
+arose from
+arterialize
+arterialized
+arterializes
+arterializing
+asexual fission
+asexualize
+asexualized
+asexualizes
+asexualizing
+asphalted
+asphalting
+asphalts
+assimilation
+assimilator
+assimilators
+assimilatory
+assume !DETERMINER guise of
+assume !DETERMINER identity of
+assume !DETERMINER offensive
+assumed !DETERMINER guise of
+assumed !DETERMINER identity of
+assumed !DETERMINER offensive
+assumes !DETERMINER guise of
+assumes !DETERMINER identity of
+assumes !DETERMINER offensive
+assuming !DETERMINER guise of
+assuming !DETERMINER identity of
+assuming !DETERMINER offensive
+assurgency
+asunder
+at !DETERMINER declining rate
+at !DETERMINER rate
+at !DETERMINER rate which
+at an increasing rate
+ate it all up
+atomization
+atomize
+atomized
+atomizer
+atomizers
+atomizes
+atomizing
+attemper
+attempered
+attempering
+attempers
+attenuant
+attenuants
+attune
+attune to
+attunement
+attunements
+attunes
+attunes to
+attuning
+attuning to
+augment
+augmentation
+augmentations
+augmentative
+augmentatives
+augmented
+augmented !DETERMINER
+augmenter
+augmenters
+augmenting
+augments
+aurified
+aurifies
+aurify
+aurifying
+automatize
+automatized
+automatizes
+automatizing
+azotize
+azotized
+azotizes
+azotizing
+baccofied
+balloon into
+ballooned
+ballooned into
+ballooning into
+balloons into
+barometer falling
+barometer rising
+basified
+basifies
+basify
+basifying
+be !DETERMINER making of
+be caught out
+beast into
+beasted
+beasted into
+beasting
+beasting into
+beasts into
+becalm
+becalmed
+becalming
+becalms
+became
+became !DETERMINER
+became !DETERMINER accepted way
+became !DETERMINER byword
+became !DETERMINER foundation
+became !DETERMINER new way
+became !DETERMINER priority
+became !DETERMINER torch
+became !DETERMINER torch to take up
+became accustomed to
+became commonplace
+became gel-like
+became independent
+became known
+became less
+became more
+became putrid
+became so
+became tepid
+became too big for
+become
+become !DETERMINER
+become !DETERMINER byword
+become !DETERMINER foundation
+become !DETERMINER habit
+become !DETERMINER member
+become !DETERMINER priority
+become !DETERMINER rage
+become !DETERMINER torch
+become !DETERMINER torch to take up
+become accustomed to
+become acquainted with
+become adept in
+become airborne
+become alive to
+become an appendage of
+become an individual
+become angry
+become attached to
+become awake to
+become aware of
+become bankrupt
+become bound to
+become commomplace
+become conscious of
+become conversant with
+become defunct
+become disordered
+become enamored
+become engaged
+become excited
+become exhausted
+become extinct
+become familiar with
+become fashionable
+become fixed
+become gel-like
+become higher
+become independent
+become informed
+become insolvent
+become known
+become larger
+become less
+become lost to sight
+become manifest
+become more
+become nervous
+become obsolete
+become of
+become old
+become one
+become overweight
+become popular
+become public
+become pulverized
+become putrid
+become red
+become shallow
+become sick
+become so
+become sponsor for
+become suicidal
+become tepid
+become too big for
+become unintoxicated
+become versed in
+become visible
+become void
+become weak
+become well-versed in
+becomes
+becomes !DETERMINER
+becomes !DETERMINER byword
+becomes !DETERMINER foundation
+becomes !DETERMINER priority
+becomes !DETERMINER torch
+becomes !DETERMINER torch to take up
+becomes accustomed to
+becomes commonplace
+becomes gel-like
+becomes independent
+becomes known
+becomes less
+becomes more
+becomes putrid
+becomes so
+becomes tepid
+becomes too big for
+becoming
+becoming !DETERMINER
+becoming !DETERMINER byword
+becoming !DETERMINER foundation
+becoming !DETERMINER priority
+becoming !DETERMINER torch
+becoming !DETERMINER torch to take up
+becoming accustomed to
+becoming commonplace
+becoming gel-like
+becoming independent
+becoming known
+becoming less
+becoming more
+becoming putrid
+becoming so
+becoming tepid
+becoming too big for
+bedew
+bedewed
+bedewing
+bedews
+bedim
+bedimmed
+bedimming
+bedims
+BEEF !REFLEXIVEPRONOUN UP
+beef up
+beefed-up
+beefed up
+beefing-up
+beefing up
+beefs up
+begat
+beget
+begets
+begetting
+begotten
+besprent
+bestir
+bestirred
+bestirring
+bestirs
+biggen
+biggened
+biggening
+biggens
+biologically synthesize
+biologically synthesized
+biologically synthesizes
+biologically synthesizing
+bituminize
+bituminized
+bituminizes
+bituminizing
+blacken
+blackened
+blackener
+blackeners
+blackening
+blackens
+blue !DETERMINER
+blued !DETERMINER
+blues !DETERMINER
+bluing
+blur !DETERMINER boundaries
+blur !DETERMINER boundaries between
+blurred !DETERMINER boundaries
+blurred !DETERMINER boundaries between
+blurring !DETERMINER boundaries
+blurring !DETERMINER boundaries between
+blurs !DETERMINER boundaries
+blurs !DETERMINER boundaries between
+boarded-up
+boarder-up
+boarder up
+boardered up
+boardering up
+boarders-up
+boarders up
+boarding-up
+bombardments
+bone-development
+bone !DETERMINER
+bone development
+bone up
+bone up on
+boned
+boned !DETERMINER
+boned up
+boned up on
+bones !DETERMINER
+bones up
+bones up on
+boning !DETERMINER
+boning up
+boning up on
+boomed
+bourgeon
+bourgeoned
+bourgeoning
+bourgeons
+bowdlerization
+Bowdlerize
+bowdlerized
+bowdlerizes
+bowdlerizing
+brandying
+break-off
+break-through
+breakdowns of
+brecciate
+brecciated
+brecciates
+brecciating
+breeding ground for
+breeding place for
+brighten
+brightened
+brightened-up
+brightener
+brighteners
+brightening
+brightening-up
+brightens
+brightens-up
+brighter and brighter
+brine !DETERMINER
+brined
+brines
+bringer-up
+bringing-up
+brining
+broaden
+broadened
+broadening
+broadens
+brought up to learn
+browning
+browning !MOTIONPREP
+buckram !DETERMINER
+buckram !MOTIONPREP
+buckram !POSSESSIVEPRONOUN
+buckram !PRONOUNOBJECTIVE
+buckramed
+buckramed !DETERMINER
+buckramed !MOTIONPREP
+buckramed !POSSESSIVEPRONOUN
+buckramed !PRONOUNOBJECTIVE
+buckraming
+buckraming !DETERMINER
+buckraming !MOTIONPREP
+buckraming !POSSESSIVEPRONOUN
+buckraming !PRONOUNOBJECTIVE
+buckrams !DETERMINER
+buckrams !MOTIONPREP
+buckrams !POSSESSIVEPRONOUN
+buckrams !PRONOUNOBJECTIVE
+building-up
+builds-up
+bureaucratization
+bureaucratize
+bureaucratized
+bureaucratizes
+bureaucratizing
+burst into bloom
+burst upon
+burst upon one
+bursting into bloom
+bursting upon
+bursting upon one
+bursts into bloom
+bursts upon
+by osmosis
+calcifies
+calcify
+calcifying
+calcination
+calcinations
+calcine
+calcined
+calcines
+calcining
+callosities
+callosity
+calmative
+calmatives
+canalization
+canalizations
+cannibalize
+cantonize
+cantonized
+cantonizes
+cantonizing
+capacitate
+capacitated
+capitalization
+capitalizations
+caponize
+caponized
+caponizes
+caponizing
+capsulate
+capsulated !DETERMINER
+capsulated !MOTIONPREP
+capsulated !POSSESSIVEPRONOUN
+capsulated !PRONOUNOBJECTIVE
+capsulation
+capsulations
+carbinating
+carbolize
+carbolized
+carbolizes
+carbolizing
+carbonate !DETERMINER
+carbonate !POSSESSIVEPRONOUN
+carbonate !PRONOUNOBJECTIVE
+carbonated with
+carbonates !DETERMINER
+carbonates !POSSESSIVEPRONOUN
+carbonates !PRONOUNOBJECTIVE
+carbonating !DETERMINER
+carbonating !POSSESSIVEPRONOUN
+carbonating !PRONOUNOBJECTIVE
+carbonation
+carbonization
+carbonize
+carbonized
+carbonizer
+carbonizers
+carbonizes
+carbonizing
+carburet
+carburets
+carburetted
+carburetting
+carburize
+carburized
+carburizes
+carburizing
+carnalize
+carnalized
+carnalizes
+carnified
+carnifies
+carnify
+carnifying
+cartelize
+cartelized
+cartelizes
+cartelizing
+caseate
+caseated
+caseates
+caseating
+caseation
+caseations
+casefied
+casefies
+casefy
+casefying
+catabolism
+catabolisms
+catalyze
+catalyzed with
+catalyzes
+catalyzing
+catechize
+catechizes
+catechizing
+catenate
+catholicize
+catholicized
+catholicizes
+catholicizing
+caught-out
+cauterization
+cauterizations
+cauterized !DETERMINER
+cementation
+cementations
+centralization
+centralizations
+centralize
+centralized around
+centralized by !DETERMINER
+centralized on
+centralizes
+centralizing
+centuplicate
+centuplicated
+centuplicates
+centuplicating
+chaemeleoned
+chameleon into
+chameleoning
+chameleons into
+change
+change-house
+change-over
+change-speed
+change-up
+change !DETERMINER
+change !DETERMINER world
+change !POSSESSIVEPRONOUN
+change !POSSESSIVEPRONOUN tune
+change !PRONOUNOBJECTIVE
+change course
+change from
+change hands
+change in
+change in !DETERMINER
+change in its
+change in momentum
+change into
+change over
+change over from
+change over into
+change over to
+change to
+change to sound
+change with
+changed !DETERMINER tune
+changed !DETERMINER way
+changed !DETERMINER world
+changed !POSSESSIVEPRONOUN tune
+changed !PRONOUNOBJECTIVE deeply
+changed !PRONOUNOBJECTIVE profoundly
+changed course
+changed from
+changed hands
+changed in
+changed in !DETERMINER
+changed into
+changed over
+changed over from
+changed over into
+changed over to
+changed to
+changement de pied
+changements de pied
+changes
+changes !DETERMINER
+changes !DETERMINER world
+changes !POSSESSIVEPRONOUN
+changes !POSSESSIVEPRONOUN  tune
+changes !PRONOUNOBJECTIVE
+changes course
+changes from
+changes hands
+changes in
+changes in !DETERMINER
+changes in its
+changes in momentum
+changes into
+changes over
+changes over from
+changes over into
+changes over to
+changes to
+changes to sounds
+changes with
+changing
+changing !DETERMINER
+changing !DETERMINER world
+changing !POSSESSIVEPRONOUN
+changing !POSSESSIVEPRONOUN tune
+changing !PRONOUNOBJECTIVE
+changing course
+changing from
+changing hands
+changing in
+changing in !DETERMINER
+changing into
+changing note
+changing over
+changing over from
+changing over into
+changing over to
+changing to
+changing tone
+Channel into
+Channeled into
+Channeling into
+channelize
+channelized
+channelizes
+channelizing
+Channels into
+charge up
+charged up
+charges up
+cheapen
+cheapened
+cheapening
+cheapenings
+cheapens
+chelate
+chelated
+chelates
+chelating
+chemical breakdown
+chemical breakdowns
+chemisorb
+chemisorbed
+chemisorbing
+chemisorbs
+chemosorb
+chemosorbed
+chemosorbing
+chemosorbs
+chlorinate
+chlorinated !DETERMINER
+chlorinates
+chlorinating
+chlorination
+chlorinator
+chlorinators
+chloroform !DETERMINER
+chloroformed !DETERMINER
+chloroforming
+chloroforms !DETERMINER
+christianize
+christianized
+Christianizes
+christianizing
+cicatrize
+cicatrized
+cicatrizes
+cicatrizing
+cinchonize
+cinchonized
+cinchonizes
+cinchonizing
+circularization
+circularize
+circularized
+circularizes
+circularizing
+circumfusion
+citified
+citifies
+citify
+citifying
+clabber up
+clabbered up
+clabbering
+clabbering up
+clabbers
+clabbers up
+clarification
+clarifications
+classicize
+classicized
+classicizes
+classicizing
+clean up !DETERMINER
+cleaned up !DETERMINER
+cleaning up !DETERMINER
+cleans up !DETERMINER
+cleanse
+cleansed by !DETERMINER
+cleansed with !DETERMINER
+cleanses
+cleansing
+coagulation
+coagulations
+coagulator
+coagulators
+coal !DETERMINER
+coaled
+coaling
+coals !DETERMINER
+coarsen
+coarsened
+coarsening
+coarsens
+cocainize
+cocainized
+cocainizes
+cocainizing
+cockneyfied
+cockneyfy
+cockneyfying
+collectivization
+collectivize
+collectivized
+collectivizes
+collectivizing
+colonization
+colonize
+colonized with
+colonizes
+colonizing
+color-up
+color up
+colored-up
+colored up
+coloring-up
+coloring up
+colorize
+colorized
+colorizes
+colorizing
+colors-up
+colors up
+combine-with
+combined with
+combines with
+combining of
+combining of solute and solvent
+combining with
+commandeer
+commandeered with
+commandeering
+commandeers
+commercialization
+commercialize
+commercialized by
+commercializes
+commercializing
+communalize
+communalized
+communalizes
+communalizing
+communization
+communize
+communized
+communizes
+communizing
+commutate
+commutated
+commutates
+commutating
+commutation
+commutations
+compartmentalization
+compartmentalize
+compartmentalized
+compartmentalizes
+compartmentalizing
+compound
+compounded from
+compounding
+compounds
+computerization
+computerize
+computerizes
+computerizing
+conceptualization
+conceptualizations
+concretion
+concretions
+concretize
+concretized
+concretizes
+concretizing
+condense
+condensed
+condenser
+condensers
+condenses
+condensible
+condensing
+confer !DETERMINER status of
+conferred !DETERMINER status of
+conferring !DETERMINER status of
+confers !DETERMINER status of
+congeal into
+congealed into
+congealing into
+congeals into
+coning
+consolidate
+consolidates
+consolidating
+consolidation
+consolidation with
+consolidations
+consolidations with
+constitutionalization
+constitutionalizations
+consubstantiate
+consubstantiated
+consubstantiates
+consubstantiating
+consubstantiation
+consubstantiations
+containerization
+containerize
+containerized
+containerizes
+containerizing
+contextualization
+contextualizations
+continued to move with !DETERMINER times
+conventionalize
+conventionalized
+conventionalizes
+conventionalizing
+converge into
+converge with
+converged into
+converged with
+convergence
+convergency
+converges into
+converges with
+converging into
+converging with
+conversion
+conversion into
+conversional
+conversions
+conversions into
+convert
+convert into
+convert to
+convert to bone
+convert to use
+converted
+converted into
+converted to
+converted to bone
+converted to use
+converting
+converting into
+converting to
+converting to bone
+converting to use
+converts
+converts into
+converts to bone
+converts to use
+copolymerize
+copolymerized
+copolymerizes
+copolymerizing
+coppered !DETERMINER
+coppered !POSSESSIVEPRONOUN
+coppered !PRONOUNOBJECTIVE
+coppering
+coppers !DETERMINER
+coppers !POSSESSIVEPRONOUN
+coppers !PRONOUNOBJECTIVE
+corporatize
+corporatized
+corporatizes
+corporatizing
+countrified
+countrifies
+countrify
+countrifying
+countryfied
+creaser
+creasers
+creation
+creation of
+creations
+creepage
+creepages
+crescendo
+crescendoed
+crescendoing
+crescendos
+crested
+cresting
+crests
+cricifixion
+crumble into dust
+crumble to dust
+crumbled into dust
+crumbled to dust
+crumbles into dust
+crumbles to dust
+crumbling into dust
+crumbling to dust
+crystallization
+crystallize
+crystallized
+crystallizer
+crystallizers
+crystallizes
+crystallizing
+cumulate
+cumulation
+cumulations
+customize
+customized
+customizes
+customizing
+cut-down
+cut-downs
+cutinize
+cutinized
+cutinizes
+cutinizing
+darkener
+darkeners
+darker and darker
+de-aerate
+de-aereate
+de-afforest
+de-articulate
+de-articulation
+de-christianize
+de-educate
+de-electrify
+de-electrization
+de-electrize
+de-emanate
+de-emanation
+de-emphases
+de-emphasis
+de-emphasize
+de-emphasized
+de-emphasizing
+de-emulsibility
+de-emulsify
+de-emulsivity
+de-energize
+de-escalate
+de-escalation
+de-ethicization
+de-ethicize
+de-excite
+de-excited
+de-exciting
+de-ice
+de-icer
+de-insularize
+de-nettle
+de-ossify
+de-pauperize
+de-prestige
+de-russianize
+de-saxonize
+de-semiticize
+de-Stalinization
+de-Stalinize
+de-Stalinized
+de-Stalinizing
+deaccent
+deaccented
+deaccenting
+deaccents
+deactivate
+deactivated
+deactivates
+deactivating
+deactivation
+deactivations
+deactivator
+deactivators
+deaden
+deaden !DETERMINER pain
+deadened
+deadened !DETERMINER pain
+deadener
+deadeners
+deadening
+deadening !DETERMINER pain
+deadens
+deadens !DETERMINER pain
+deafen
+deafened
+deafens
+deaminate
+deaminated
+deaminates
+deaminating
+deaminize
+deaminized
+deaminizes
+deaminizing
+debarkation
+debarkations
+debone
+deboned
+debones
+deboning
+debowel
+deboweled
+deboweling
+debowels
+debur
+deburr
+deburred
+deburring
+deburrs
+deburs
+decaffeinate
+decaffeinated !DETERMINER
+decaffeinates
+decaffeinating
+decalcification
+decalcified
+decalcifies
+decalcify
+decalcifying
+decalcomania
+decalcomanias
+decalescence
+decarbonate
+decarbonated
+decarbonates
+decarbonating
+decarbonize
+decarbonized
+decarbonizes
+decarbonizing
+decarburize
+decarburized
+decarburizes
+decarburizing
+decays
+decease
+deceases
+deceasing
+decelerate
+decelerated
+decelerates
+decelerating
+deceleration
+decelerations
+decelerator
+decelerators
+decentralise
+decentralises
+decentralising
+decentralization
+decentralizations
+decimalization
+decimalize
+decimalized
+decimalizes
+decimalizing
+declass
+declassed
+declasses
+declassification
+declassifications
+declassing
+declaw
+declawed
+declawing
+declaws
+declining rate
+declining rates
+decoke
+decoked
+decokes
+decoking
+decolonize
+decolonized
+decolonizes
+decolonizing
+decolorize
+decolorized
+decolorizes
+decolorizing
+decommissioned
+decommissions
+decompensation
+decompensations
+decomposer
+decomposers
+decomposition
+decompositions
+decompound
+decompounded
+decompounding
+decompounds
+decompress
+decompressed
+decompresses
+decompressing
+decompression
+decompressions
+decondition
+decongest
+decongestive
+deconstruction
+decontamination
+decontaminations
+decorticate
+decorticated
+decorticates
+decorticating
+decortication
+decrease
+decrease in
+decrease in size
+decrease in temperature
+decrease of
+decrease of temperature
+decreased
+decreased in size
+decreased in temperature
+decreases
+decreases in
+decreases in size
+decreases in temperature
+decreases of
+decreases of temperature
+decreasing
+decreasing in size
+decreasing in temperature
+decreasingly
+decrement
+decrement of
+decrements
+decrements of
+decriminalization
+decriminalizations
+decriminalized
+decryption
+decuple
+decurrent
+decurrented
+decurrenting
+decurrents
+dedifferentiate
+dedifferentiated
+dedifferentiates
+dedifferentiating
+dedifferentiation
+deepen
+deepened
+deepening
+deepens
+deeper into
+deescalate
+deescalated
+deescalates
+deescalating
+defang
+defanged
+defanging
+defangs
+defat
+defating
+defats
+defatted
+defeather
+defeathered
+defeathering
+defeathers
+defibrillate
+defibrillated
+defibrillates
+defibrillating
+defibrillation
+defibrillator
+defibrillators
+deflea
+defleaed
+defleaing
+defleas
+deflection
+deflections
+deflective
+deflector
+deflectors
+deflesh
+defleshed
+defleshes
+defleshing
+defloration
+deflorations
+defoam
+defoamed
+defoaming
+defoams
+defocus
+defocused
+defocuses
+defocusing
+defog
+defogged
+defogger
+defoggers
+defogging
+defogs
+defoliant
+defoliants
+defoliate
+defoliated
+defoliates
+defoliating
+defoliation
+defoliations
+defoliator
+defoliators
+deforest
+deforested
+deforesting
+deforests
+defragmenter
+defuzz
+defuzzed
+defuzzes
+defuzzing
+degas
+degases
+degassed
+degasses
+degassing
+degauss
+degaussed
+degausses
+degaussing
+degerm
+degermed
+degerming
+degerms
+deglaze
+deglazed
+deglazes
+deglazing
+deglutination
+deglutinations
+deglutition
+deglycerolize
+deglycerolized
+deglycerolizes
+deglycerolizing
+degrease
+degreased
+degreases
+degreasing
+degress
+degressed
+degresses
+degression
+degressions
+degressive
+degressives
+degrit
+degrits
+degritted
+degritting
+degut
+dehair
+dehaired
+dehairing
+dehairs
+dehead
+deheaded
+deheading
+deheads
+dehisce !DETERMINER
+dehisced !DETERMINER
+dehiscence
+dehiscent
+dehisces !DETERMINER
+dehiscing !DETERMINER
+dehorn
+dehorned
+dehorning
+dehorns
+dehull
+dehulled
+dehulling
+dehulls
+dehumidification
+dehumidified
+dehumidifies
+dehumidify
+dehumidifying
+dehusk
+dehusked
+dehusking
+dehusks
+dehydrogenate
+dehydrogenated
+dehydrogenates
+dehydrogenating
+dehydrogenation
+dehypnotize
+dehypnotized
+dehypnotizes
+dehypnotizing
+deice
+deiced
+deicer
+deicers
+deices
+deicing
+deindustrialization
+deink
+deinked
+deinking
+deinks
+deinstitutionalization
+deinstitutionalizations
+delaminate
+delaminated
+delaminates
+delaminating
+delamination
+delaminations
+deletion
+deletions
+delint
+delinted
+delinting
+delints
+deliquesce
+deliquesced
+deliquesces
+deliquescing
+delitescence
+delitescent
+delocalize
+delocalized
+delocalizes
+delocalizing
+delouse
+deloused
+delouses
+delousing
+demagnetization
+demagnetize
+demagnetized
+demagnetizer
+demagnetizers
+demagnetizes
+demagnetizing
+demagnification
+demasculinize
+demasculinized
+demasculinizes
+demasculinizing
+demast
+demasted
+demasting
+demasts
+dematerializations
+dematerialize
+dematerialized
+dematerializes
+dematerializing
+demilitarization
+demilitarize
+demilitarized
+demilitarizes
+demilitarizing
+demineralization
+demineralize
+demineralized
+demineralizes
+demineralizing
+demission
+demissioned
+demissioning
+demissions
+demist
+demisted
+demister
+demisters
+demisting
+demists
+demob
+demobbed
+demobbing
+demobilisation
+demobilise
+demobilises
+demobilising
+demobilization
+demobilizations
+demobilize
+demobilized
+demobilizes
+demobilizing
+demobs
+democratization
+democratize
+democratized
+democratizes
+democratizing
+demodulate
+demodulated
+demodulates
+demodulating
+demodulation
+demodulations
+demodulator
+demodulators
+demoted
+demulsification
+demulsified
+demulsifier
+demulsifiers
+demulsifies
+demulsify
+demulsifying
+demystification
+demythologization
+denationalization
+denationalizations
+denationalize
+denationalized
+denationalizes
+denationalizing
+denaturalization
+denaturalize
+denaturalized
+denaturalizes
+denaturalizing
+denaturant
+denaturants
+denature
+denatured
+denatures
+denaturing
+denazified
+denazifies
+denazify
+denazifying
+denitrate
+denitrated
+denitrates
+denitrating
+denitrified
+denitrifies
+denitrify
+denitrifying
+densification
+densifications
+densified
+densifies
+densify
+densifying
+deoxidization
+deoxidize
+deoxidized
+deoxidizes
+deoxidizing
+deoxygenate
+deoxygenated
+deoxygenates
+deoxygenating
+departmentalization
+departmentalize
+departmentalized
+departmentalizes
+departmentalizing
+dephlogisticate
+dephlogisticated
+dephlogisticates
+dephlogisticating
+dephosphorize
+dephosphorized
+dephosphorizes
+dephosphorizing
+depolarization
+depolarize
+depolarized
+depolarizes
+depolarizing
+depolymerize
+depolymerized
+depolymerizes
+depolymerizing
+depopulate
+depopulated
+depopulates
+depopulating
+depopulation
+depressurization
+depressurizations
+depressurize
+depressurized
+depressurizes
+depressurizing
+deprogram
+deprogrammed
+deprogrammer
+deprogrammers
+deprogramming
+deprograms
+deputation
+deputations
+depute
+deputed
+deputes
+deputing
+deradicalize
+deradicalized
+deradicalizes
+deradicalizing
+derat
+deration
+derationed
+derationing
+derations
+derats
+deratted
+deratting
+deregulate
+deregulated
+deregulated !DETERMINER
+deregulates
+deregulating
+deregulation
+deregulations
+deregulator
+deregulators
+deregulatory
+derequisition
+derequisitioned
+derequisitioning
+derequisitions
+deressing
+derestricted
+derib
+deribbed
+deribbing
+deribs
+derind
+derinded
+derinding
+derinds
+desalinate
+desalinated
+desalinates
+desalinating
+desalination
+desalinization
+desalinizations
+desalinize
+desalinized
+desalinizes
+desalinizing
+desalt
+desalted
+desalting
+desalts
+descale
+descaled
+descales
+descaling
+desegregate
+desegregated
+desegregates
+desegregating
+desegregation
+deselect
+deselected
+deselecting
+deselects
+desensitization
+desex
+desexed
+desexes
+desexing
+desexualize
+desexualized
+desexualizes
+desexualizing
+desiccator
+desiccators
+desorb
+desorbed
+desorbing
+desorbs
+desprout
+desprouted
+desprouting
+desprouts
+despumate !DETERMINER
+despumated !DETERMINER
+despumates !DETERMINER
+despumating !DETERMINER
+destarch
+destarched
+destarching
+destraches
+destress
+destressed
+destresses
+destressing
+desulphurize
+desulphurized
+desulphurizes
+desulphurizing
+desynchronize
+desynchronized
+desynchronizes
+desynchronizing
+detassel
+detasseled
+detasseling
+detassels
+detoxicate
+detoxicated
+detoxicates
+detoxicating
+detoxification
+detoxified
+detoxifies
+detoxify
+detoxifying
+detribalize
+detribalized
+detribalizes
+detribalizing
+detrition
+detritions
+detruncate
+detruncated
+detruncates
+detruncating
+detumescence
+detumescences
+detune
+detuned
+detunes
+detuning
+devaluate
+devaluated
+devaluates
+devaluating
+devaluation
+devaluations
+devalue
+devalued
+devalues
+devaluing
+devein
+deveined
+deveining
+deveins
+develop
+develop !DETERMINER
+develop !DETERMINER class
+develop !POSSESSIVEPRONOUN
+develop !PRONOUNOBJECTIVE
+develop from !DETERMINER
+develop into !DETERMINER
+developed
+developed !DETERMINER class
+developed from
+developed from !DETERMINER
+developed into !DETERMINER
+developed on
+developed out of
+developing
+developing !DETERMINER
+developing !DETERMINER class
+developing !POSSESSIVEPRONOUN
+developing !PRONOUNOBJECTIVE
+developing from !DETERMINER
+developing into !DETERMINER
+develops
+develops !DETERMINER
+develops !DETERMINER class
+develops !POSSESSIVEPRONOUN
+develops !PRONOUNOBJECTIVE
+develops from !DETERMINER
+develops into !DETERMINER
+devitrification
+devitrifications
+devitrified
+devitrifies
+devitrify
+devitrifying
+devoice !DETERMINER
+devoiced !DETERMINER
+devoices !DETERMINER
+devoicing !DETERMINER
+dewater
+dewatered
+dewatering
+dewaters
+dewax
+dewaxed
+dewaxes
+dewaxing
+deworm
+dewormed
+deworming
+deworms
+dezincification
+diagenesis
+diagenetic
+diageotropic
+diageotropism
+diageotropisms
+dialogize
+dialogized
+dialogizes
+dialogizing
+dialyse
+dialysed
+dialyses !DETERMINER
+dialysing
+dialyze
+dialyzed
+dialyzes
+dialyzing
+diazotization
+diazotizations
+diazotize
+diazotized
+diazotizes
+diazotizing
+diffusion
+digitalization
+digitalize
+digitalized
+digitalizes
+digitalizing
+digitization
+digitize
+digitized
+digitizer
+digitizers
+digitizes
+digitizing
+dilatation
+dilatations
+diminishment
+diminishments
+diminution
+diminution of
+diminutions
+diphthongize
+diphthongized
+diphthongizes
+diphthongizing
+disaggregate
+disaggregated
+disaggregates
+disaggregating
+disannul
+disannulled
+disannulling
+disannulment
+disannulments
+disannuls
+disappeared without trace
+disarticulate
+disarticulated
+disarticulates
+disarticulating
+disarticulations
+disarticulator
+disarticulators
+disbud
+disbudded
+disbudding
+disbuds
+discorporate
+discorporated
+discorporates
+discorporating
+disforest
+disforested
+disforesting
+disforests
+disincarnate
+disinfection
+disinfections
+disintegration
+disintegrations
+dislimn
+dislimned
+dislimnnig
+dislimns
+dismast
+dismasted
+dismasting
+dismastment
+dismasts
+dispersal
+dispersals
+dispersant
+dispersants
+dispersedly
+disperses
+dispersing
+dispersion
+dispersions
+dissilience
+dissimilate
+dissimilated
+dissimilates
+dissimilating
+dissimilation
+dissimulate
+dissimulated
+dissimulates
+dissimulating
+dissimulation
+dissimulations
+dissimulative
+dissimulator
+dissimulators
+dissipate
+dissipater
+dissipaters
+dissipates
+dissipating
+dissipation
+dissipations
+dissipative
+distil
+distill
+distillation
+distillations
+distilled
+distilled !DETERMINER
+distilling
+distills
+distils
+distribution to
+divergence
+divination
+divinations
+divinize
+divinized
+divinizes
+divinizing
+dogmatize
+dogmatized
+dogmatizes
+dogmatizing
+dollarization
+dollarizations
+dollarize
+dollarized
+dollarizes
+dollarizing
+domesticate
+domesticated
+domesticates
+domesticating
+domiciliation
+doming
+double-strength
+double !DETERMINER
+double over
+doubled
+doubled !DETERMINER
+doubled over to
+doubles !DETERMINER
+doubles over
+doubling
+doubling !DETERMINER
+doubling over
+doublings
+down-trending
+down trend
+down trends
+downscale
+downscaled
+downscales
+downscaling
+downsize
+downsized
+downsized !DETERMINER
+downsizes
+downsizing
+dressed-up
+dresses up
+dresssed up
+dried !MOTIONPREP
+dried up !DETERMINER
+dried up !POSSESSIVEPRONOUN
+dries !MOTIONPREP
+dries up
+drop to
+drops to
+dry !MOTIONPREP
+dry up
+drying !MOTIONPREP
+drying up
+dull !DETERMINER pain
+dulled !DETERMINER pain
+dulling !DETERMINER pain
+dulls !DETERMINER pain
+duplicate
+duplicated
+duplicates
+duplicating
+duplication
+duplications
+duplicative
+duplicator
+duplicators
+dwindle
+dwindled
+dwindles
+dwindling
+dwindling number
+dwindling numbers
+dwindling percentage
+dwindling percentages
+dye !POSSESSIVEPRONOUN
+dyed
+dyeing
+dyes !POSSESSIVEPRONOUN
+dynamiting
+eat it all up
+eaten-up
+eaten by worms
+eating it all up
+eats it all up
+ebbed from !DETERMINER
+ebbed to !DETERMINER
+ebbed toward !DETERMINER
+ebonize
+ebonized
+ebonizes
+ebonizing
+eburnate
+eburnated
+eburnates
+eburnating
+eburnation
+eburnations
+eclosion
+eclosions
+ecological development
+ecological developments
+economic boom
+economic booms
+economic bust
+economic busts
+economize
+economized
+economizes
+economizing
+edge back down
+edge back up
+edge down
+edge up
+edged back down
+edged back up
+edged down
+edged up
+edges back down
+edges back up
+edges down
+edges up
+edging back down
+edging back up
+edging down
+edging up
+edit down
+edit it down
+edit it out
+edit out
+edited down
+edited it down
+edited it out
+edited out
+editing down
+editing it down
+editing it out
+editing out
+edits down
+edits it down
+edits it out
+edits out
+educe
+educed
+educes
+educing
+eduction
+eductions
+eductive
+eductives
+edulcorate
+edulcorated
+edulcorates
+edulcorating
+eightfold
+elasticize
+elasticized
+elasticizes
+elasticizing
+electrification
+electrifications
+electrolyse
+electrolysed
+electrolyses
+electrolyses !DETERMINER
+electrolysing
+electrolysis
+electrolyze
+electrolyzed
+electrolyzes
+electrolyzing
+electroplate
+electroplated
+electroplates
+electroplating
+elutriate
+elutriated
+elutriates
+elutriating
+elutriation
+elutriations
+eluviate
+eluviated
+eluviates
+eluviating
+eluviation
+eluviations
+embowel
+emboweled
+emboweling
+embowels
+embrowing
+embrown
+embrowned
+embrowns
+emend
+emendate
+emendated
+emendates
+emendating
+emendation
+emendations
+emendatory
+emended
+emending
+emends
+emerge as
+EMERGE from
+emerge into
+emerged as
+EMERGED from
+emerged into
+emergence
+emergence of
+emergences
+emergences of
+emerges as
+EMERGES from
+emerges into
+emerging as
+EMERGING from
+emerging into
+emersion
+emersions
+emptied of
+empties of
+empty of
+emptying of
+empurple
+empurples
+emulsification
+emulsified
+emulsifier
+emulsifiers
+emulsifies
+emulsify
+emulsifying
+enamel !DETERMINER
+enameled !DETERMINER
+enameling
+enamels !DETERMINER
+encarnalize
+encarnalized
+encarnalizes
+encarnalizing
+encorcel
+encorceled
+encorceling
+encorcels
+encrimson
+encrimsoned
+encrimsoning
+encrimsons
+enculturation
+endosmosis
+endosmotic
+endostosis
+energizer
+energizers
+enfleurage
+Enforce by
+Enforced by
+Enforces by
+Enforcing by
+engineer !DETERMINER
+engineered
+engineering
+engineers !DETERMINER
+engraftation
+engraftations
+engraftment
+engraftments
+enlarge
+enlarge into
+enlarged
+enlarged into
+enlargement
+enlargements
+enlarger
+enlargers
+enlarges
+enlarges into
+enlarging
+enlarging into
+enlist in
+enlisted in
+enlisting in
+enlists in
+enroll into
+enrolled into
+enrolling into
+enrolls into
+ensilage !DETERMINER
+ensilaged
+ensilages
+ensilaging
+ensile
+ensiled
+ensiles
+ensiling
+ensorcell !PRONOUNOBJECTIVE
+ensorcelled !PRONOUNOBJECTIVE
+ensorcelling !PRONOUNOBJECTIVE
+ensorcells !PRONOUNOBJECTIVE
+Enter !DETERMINER mainstream
+enter office
+Entered !DETERMINER mainstream
+entered office
+Entering !DETERMINER mainstream
+entering office
+Enters !DETERMINER mainstream
+enters office
+enthrone
+enthroned
+enthronement
+enthronements
+enthrones
+enthroning
+entitle
+entitled
+entitlement
+entitlements
+entitles
+entitling
+entomologize
+entomologized
+entomologizes
+entomologizing
+enucleate
+enucleated
+enucleates
+enucleating
+envenom
+envenomed
+envenoming
+envenoms
+epigenesis
+epigentically
+epigrammatize
+epigrammatized
+epigrammatizes
+epigrammatizing
+equalization
+equalizations
+equalize
+equalized
+equalizer
+equalizers
+equalizes
+equalizing
+equilibrate
+equilibrated
+equilibrates
+equilibrating
+equilibration
+equilibrations
+erasion
+erasions
+erythropoiesis
+escalate
+escalated
+escalates
+escalating
+escalation
+escalation of
+escalations
+escalatory
+escarp !DETERMINER
+escarped
+escarping
+escarps
+espalier !DETERMINER
+espaliered
+espaliering
+espaliers !DETERMINER
+esterified
+esterifies
+esterify
+esterifying
+etch away
+etched away
+etches away
+etching away
+eternalize
+eternalized
+eternalizes
+eternalizing
+eternize
+eternized
+eternizes
+eternizing
+etheralize
+etheralized
+etheralizes
+etheralizing
+etherealize
+etherealized
+etherealizes
+etherealizing
+etherified
+etherify
+etherize
+etherized
+etherizes
+etherizing
+etiolate
+etiolated
+etiolates
+etiolating
+etymologize
+etymologized
+etymologizes
+etymologizing
+euhemerize
+euhemerized
+euhemerizes
+euhemerizing
+eunuchize
+eunuchized
+eunuchizes
+eunuchizing
+evangelization
+evangelizations
+evangelize
+evangelized
+evangelizes
+evangelizing
+evaporate
+evaporated
+evaporates
+evaporating
+evaporation
+evaporations
+evaporative
+evaporator
+evaporators
+even-up
+evener-up
+eveners-up
+eventuate
+eventuate in
+eventuated
+eventuated in
+eventuates
+eventuates in
+eventuating
+eventuating in
+eventuation
+eventuation in
+evolution
+evolution of
+evolutionarily
+evolutionary
+evolutionary change
+evolutionary changes
+evolutionary trend
+evolutionary trends
+evolutionism
+evolutions
+evolve
+evolve into
+evolved
+evolved into
+evolvement
+evolvements
+evolves
+evolves into
+evolving
+evolving into
+excrescence into
+excrescences into
+excrescent
+exorcize
+exorcized
+exorcizes
+expand
+expand !POSSESSIVEPRONOUN consciousness
+expand !YOU consciousness
+expand my consciousness
+expand our consciousness
+expanded
+expanded !POSSESSIVEPRONOUN consciousness
+expanded !YOU consciousness
+expanded my consciousness
+expanded our consciousness
+expander
+expanders
+expanding
+expanding !POSSESSIVEPRONOUN consciousness
+expanding !YOU consciousness
+expanding economies
+expanding economy
+expanding my consciousness
+expanding our consciousness
+expanding universe
+expanding universes
+expands
+expands !POSSESSIVEPRONOUN consciousness
+expands !YOU consciousness
+expands my consciousness
+expands our consciousness
+expansion
+expansion of
+expansions
+expansions of
+expectoration
+expectorations
+expertize
+expertized
+expertizes
+expertizing
+exsanguination
+exsanguinations
+exsanguinations transfusion
+exsanguinations transfusions
+exsanguino transfusion
+exsanguino transfusions
+exsiccate
+exsiccated
+exsiccates
+exsiccating
+exsiccations
+extenuate
+extenuated
+extenuates
+extenuating !DETERMINER
+extenuation
+extenuations
+extenuator
+extenuators
+exteriorization
+exteriorizations
+exteriorize
+exteriorized
+exteriorizing
+externalization
+externalizations
+externalize
+externalized
+externalizes
+externalizing
+extinct
+extinction
+extinctions
+extinctive
+extinguish
+extinguished
+extinguishes
+extinguishing
+face-lift on
+face-lift to
+face-lifted
+face-lifting
+face-lifts
+face lift
+face lifts
+factorization
+factorizations
+factorize
+factorized
+factorizes
+factorizing
+fall-in
+fall-off
+fallen-off
+fallen off
+falling action
+falling barometer
+fallings
+familiarization
+familiarizations
+familiarize
+familiarize !DETERMINER
+familiarize !PRONOUNOBJECTIVE
+familiarize !REFLEXIVEPRONOUN
+familiarize myself
+familiarize ourselves
+familiarize with
+familiarize yourself
+familiarize yourselves
+familiarized
+familiarized !DETERMINER
+familiarized !PRONOUNOBJECTIVE
+familiarized !REFLEXIVEPRONOUN
+familiarized myself
+familiarized ourselves
+familiarized with
+familiarized yourself
+familiarized yourselves
+familiarizes
+familiarizes !DETERMINER
+familiarizes !PRONOUNOBJECTIVE
+familiarizes !REFLEXIVEPRONOUN
+familiarizes myself
+familiarizes ourselves
+familiarizes with
+familiarizes yourself
+familiarizes yourselves
+familiarizing
+familiarizing !DETERMINER
+familiarizing !PRONOUNOBJECTIVE
+familiarizing !REFLEXIVEPRONOUN
+familiarizing myself
+familiarizing ourselves
+familiarizing with
+familiarizing yourself
+familiarizing yourselves
+faradize
+faradized
+faradizes
+faradizing
+fasciate
+fasciated
+fasciates
+fasciating
+fatten
+fatten on
+fatten up
+fatten upon
+fattened
+fattened on
+fattened up
+fattened upon
+fattening
+fattening on
+fattening up
+fattening upon
+fattens
+fattens on
+fattens up
+fattens upon
+fatting
+fatting up
+fatty degeneration
+fatty degenerations
+fecundate
+fecundated
+fecundates
+fecundating
+federalize
+federalized
+federalizes
+federalizing
+federate
+federated
+federates
+federating
+fell-off
+felling
+fells-off
+feminization
+feminizations
+feminize
+feminized
+feminizes
+feminizing
+fertilize
+fertilized
+fertilizer
+fertilizers
+fertilizes
+fertilizing
+fetation
+fetations
+feudalize
+feudalized
+feudalizes
+feudalizing
+fibrinolysis
+fibrinolytic
+fibrose !DETERMINER
+fibrosed
+fibroses into
+fibrosing
+filter from
+filter into
+filtered from
+filtered into
+filtering from
+filtering into
+filters from
+filters into
+finalization
+finalizations
+finalize
+finalized
+finalizes
+finalizing
+firm !DETERMINER
+firm !POSSESSIVEPRONOUN
+firm !PRONOUNOBJECTIVE
+firmed
+firmed !DETERMINER
+firmed !POSSESSIVEPRONOUN
+firmed !PRONOUNOBJECTIVE
+firmed up
+firming
+firming !DETERMINER
+firming !POSSESSIVEPRONOUN
+firming up
+firmnig !PRONOUNOBJECTIVE
+firms !DETERMINER
+firms !POSSESSIVEPRONOUN
+firms !PRONOUNOBJECTIVE
+fitting change
+fitting changes
+fivefold
+fix up
+fixed up
+fixes up
+fixing up
+flatted
+flattener
+flatteners
+fledge
+fledged
+fledges
+fledging
+fletch
+fletched
+fletches
+fletching
+flocculate
+flocculated
+flocculates
+flocculating
+flocculation
+flue-cure
+flue-cured
+flue-curing
+fluidization
+fluidize
+fluidized
+fluidizes
+fluidizing
+fluoridate
+fluoridated
+fluoridates
+fluoridating
+fluoridation
+fluorinate
+fluorinated
+fluorinates
+fluorinating
+fluorination
+fluorinations
+foetation
+foetations
+folding, faulting, and uplift
+fomentation
+fomentations
+for !DETERMINER change
+for her to grow up
+for him to grow up
+for them to grow up
+for us to grow up
+for you to grow up
+form bone
+form into
+formalization
+formalizations
+formalize
+formalized
+formalizer
+formalizers
+formalizes
+formalizing
+formed bone
+formed into
+forming bone
+forming into
+forms bone
+forms into
+formularize
+formularized
+formularizes
+formularizing
+formulate
+formulated
+formulates
+formulating
+formulize
+formulized
+formulizes
+formulizing
+fossilization
+fossilize
+fossilizes
+fossilizing
+fourfold
+fractionalization
+fractionalizations
+fractionalize
+fractionalized
+fractionalizes
+fractionalizing
+fractionate
+fractionated
+fractionates
+fractionating
+fractionation
+fractionations
+fractioned
+fractioning
+fractionize
+fractionizes
+fractionizing
+fragmenting
+fragmentize
+fragmentized
+fragmentizes
+fragmentizing
+fraternization
+fraternize
+fraternized
+fraternizes
+fraternizing
+freeze shut
+freezes shut
+fresh up
+freshed up
+freshen up
+freshened up
+freshening up
+freshens up
+freshes up
+freshing up
+from !DETERMINER emergence
+from rags to riches
+frondescence
+frontogenesis
+frontolysis
+froze shut
+fructification of
+fructifications
+fundamental change
+fundamental change in
+furbish
+furbish up
+furbished
+furbished up
+furbishes
+furbishes up
+furbishing
+furbishing up
+gain !DETERMINER weight
+gain flesh
+gain from
+gain ground on
+gain in
+gain to
+gain upon
+gain weight
+gained !DETERMINER weight
+gained flesh
+gained ground on
+gained on
+gained upon
+gained weight
+gaining !DETERMINER weight
+gaining flesh
+gaining ground on
+gaining on
+gaining upon
+gaining weight
+gains !DETERMINER weight
+gains flesh
+gains ground on
+gains upon
+gains weight
+galvanization
+galvanizations
+galvanize
+galvanized
+galvanized effort
+galvanized efforts
+galvanized into action
+galvanizes
+galvanizing
+gametic fusion
+gametic fusions
+gametogeneses
+gametogenesis
+gamogeneses
+gamogenesis
+gasification
+gasified
+gasifies
+gasify
+gasifying
+gastrulation
+gastrulations
+gelate
+gelated
+gelates
+gelatinate
+gelatinated
+gelatinates
+gelatinating
+gelating
+gelatinize
+gelatinized
+gelatinizes
+gelatinizing
+gelation
+gelations
+gemination
+geminations
+gentrification
+gentrified
+gentrifies
+gentrify
+gentrifying
+geologize
+geologized
+geologizes
+geologizing
+geometrize
+geometrized
+geometrizes
+geometrizing
+germinate
+germinated
+germinates
+germinating
+germination
+germinations
+get-acquainted
+get-acquainted with
+get-tough
+get access
+get back into !DETERMINER saddle
+get into !DETERMINER saddle
+get spiffed up
+get unstuck
+gets access
+gets back into !DETERMINER saddle
+gets into !DETERMINER saddle
+gets spiffed up
+gets unstuck
+getting access
+getting back into !DETERMINER saddle
+getting into !DETERMINER saddle
+getting spiffed up
+getting unstuck
+gib !DETERMINER
+gib !MOTIONPREP
+gib !POSSESSIVEPRONOUN
+gib !PRONOUNOBJECTIVE
+gibbed
+gibbed !DETERMINER
+gibbed !MOTIONPREP
+gibbed !POSSESSIVEPRONOUN
+gibbed !PRONOUNOBJECTIVE
+gibbing
+gibbing !DETERMINER
+gibbing !MOTIONPREP
+gibbing !POSSESSIVEPRONOUN
+gibbing !PRONOUNOBJECTIVE
+gibs !DETERMINER
+gibs !MOTIONPREP
+gibs !POSSESSIVEPRONOUN
+gibs !PRONOUNOBJECTIVE
+gild !DETERMINER
+gild !POSSESSIVEPRONOUN
+gild !PRONOUNOBJECTIVE
+gilded !DETERMINER
+gilded !POSSESSIVEPRONOUN
+gilded !PRONOUNOBJECTIVE
+gilding !DETERMINER
+gilding !POSSESSIVEPRONOUN
+gilding !PRONOUNOBJECTIVE
+gilds !DETERMINER
+gilds !POSSESSIVEPRONOUN
+gilds !PRONOUNOBJECTIVE
+gin up
+ginned up
+ginning up
+gins up
+give !DETERMINER status of
+given !DETERMINER status of
+gives !DETERMINER status of
+giving !DETERMINER status of
+glaciate
+glaciated
+glaciates
+glaciating
+globalization
+globalizations
+globalize
+globalizes
+glomeration
+glomerations
+gluconeogeneses
+gluconeogenesis
+gluttonize into
+gluttonized into
+gluttonizes into
+gluttonizing into
+glycerinate
+glycerinated
+glycerinates
+glycerinating
+glycerolize
+glycerolized
+glycerolizes
+glycerolizing
+glycogeneses
+glycogenesis
+glycolyses
+glycolysis
+glyconeogeneses
+glyconeogenesis
+go-slow
+go-slows
+goldbeat
+goldbeating
+goldbeats
+gone from being !DETERMINER
+got access
+got back into !DETERMINER saddle
+got into !DETERMINER saddle
+got spiffed up
+got unstuck
+gourmandize
+gourmandized
+gourmandizes
+gourmandizing
+gradate
+gradated
+gradates
+gradating
+gradation
+gradational
+gradationally
+gradations
+gradual aborptions
+gradual absorption
+gradual carrying
+gradual change
+gradual changes
+gradual lifting
+graduate
+graduate into
+graduate to
+graduated into
+graduated to
+graduated to become
+graduates
+graduates into
+graduates to
+graduating into
+graduating to
+grain !DETERMINER
+grained
+graining
+grains !DETERMINER
+grangerize
+grangerized
+grangerizes
+grangerizing
+granulate
+granulated !DETERMINER
+granulates
+granulating
+granulation
+granulations
+granulator
+granulators
+granulize
+granulized
+granulizes
+granulizing
+graphitization
+graphitizations
+graphitize
+graphitized
+graphitizes
+graphitizing
+greaten
+greatened
+greatening
+greatens
+grew dark
+grew into
+grew out
+grew to be !DETERMINER
+grew to seed
+grind to dust
+grind to powder
+grinded to dust
+grinded to power
+grinding to dust
+grinding to powder
+grinds to dust
+grinds to powder
+ground to dust
+ground to powder
+grow dark
+grow darker
+grow into
+grow old
+grow older
+grow out
+grow out of
+grow to be !DETERMINER
+grow to seed
+grow up
+grow up to
+grow up to become
+growing
+growing !DETERMINER
+growing dark
+growing degree-day
+growing into
+growing like !DETERMINER mushroom
+growing lists of
+growing lush
+growing number
+growing numbers
+growing old
+growing older
+growing out
+growing out of
+growing pains
+growing point
+growing rank
+growing to be !DETERMINER
+growing to seed
+growing up
+growing up to
+growing up to become
+grown-up
+grown-upness
+grown man
+grown men
+grown old
+grown up
+grown up with
+grown woman
+grown women
+grows !DETERMINER
+grows dark
+grows darker
+grows into
+grows old
+grows older
+grows out
+grows out of
+grows to be !DETERMINER
+grows to seed
+grows up
+grows up to
+grows up to become
+growth
+growth and change
+GROWTH FORWARD
+growth in
+growth of
+GROWTH RISING
+GROWTH TOWARD
+GROWTH UP
+growths
+growths of
+groze
+grozed
+grozes
+had been becoming
+haematogenesis
+haematopoieses
+haematoses
+haematosis
+haemolyses
+haemolysis
+half-petrified
+halogenate
+halogenated
+halogenates
+halogenating
+halogenation
+halogenations
+haploses
+haplosis
+harden
+hardened
+hardened into !DETERMINER
+hardened to
+hardening
+hardening of
+hardening of !DETERMINER
+hardens
+hardied
+hardied-up
+hardied up
+hardies-up
+hardies up
+hardy-up
+hardy !DETERMINER
+hardy up
+hardying
+hardying-up
+hardying up
+has been becoming
+Has now moved to
+hash up
+hashed up
+hashes up
+hashing up
+have been becoming
+he's becoming
+heat-up
+heat up
+heated-up
+heated up
+heathenize
+heathenizes
+heathenizing
+heating-up
+heating up
+heats-up
+heats up
+heeathenized
+heighten
+heightened
+heightening
+heightens
+hematogenesis
+hematopoieses
+hematoses
+hematosis
+hemimetabolic
+hemimetabolus
+hemolyses
+hemolysis
+hennaed
+hennaing
+heterogeneses
+heterogenesis
+heterolyses
+heterolysis
+heteromorphoses
+heteromorphosis
+hets up
+hetted up
+hetting up
+hierarchize
+hierarchized
+hierarchizes
+hierarchizing
+high-grown
+histodialyses
+histodialysis
+histogeneses
+histogenesis
+histogenetic
+histogenetically
+histogenic
+histogenically
+histolyses
+histolysis
+historical worm turns
+historicize
+historicized
+historicizes
+hog !DETERMINER keel
+hog !DETERMINER plank
+hogged !DETERMINER keel
+hogged !DETERMINER plank
+hogging !DETERMINER keel
+hogging !DETERMINER plank
+hogs !DETERMINER keel
+hogs !DETERMINER plank
+homogeneses
+homogenesis
+homogenize
+homogenized
+homogenizes
+homogenizing
+homologize
+homologized
+homologizes
+homologizing
+housebreak
+housebreaking
+housebreaks
+humidified
+humidifies
+humidify
+humidifying
+hundredfold
+hyalinization
+hybridization
+hybridizations
+hybridize
+hybridized
+hybridizes
+hybridizing
+hydration
+hydrations
+hydrogenate
+hydrogenated !DETERMINER
+hydrogenates
+hydrogenating
+hydrogenation
+hydrogenize
+hydrogenizes
+hydrogenizing
+hydrogenolyses
+hydrogenolysis
+hydrolyses
+hydrolysis
+hydrolytic
+hydrolyze
+hydrolyzed
+hydrolyzes
+hydrolyzing
+hyperkeratosis
+hyperkeratotic
+hypermetamorphoses
+hypermetamorphosis
+hypnagogic
+hypnagogics
+hyposensitize
+hyposensitized
+hyposensitizes
+hyposensitizing
+hypostatization of
+hypostatizations
+hypostatize
+hypostatized
+hypostatizes
+hypostatizing
+hysterectomize
+hysterectomized
+hysterectomizes
+hysterectomizing
+I'm becoming
+ice melt
+idylicized
+illegalize
+illegalized
+illegalizes
+illegalizing
+illuviation
+illuviations
+immaterialise
+immaterialize
+immediate family
+immediate neighbor
+immediate neighbors
+immobilize
+immobilized
+immobilizes
+immobilizing
+immortalize
+immortalize !DETERMINER
+immortalized
+immortalized !DETERMINER
+immortalizes
+immortalizes !DETERMINER
+immortalizing
+immortalizing !DETERMINER
+immunization
+immunizations
+immunize
+immunized
+immunizes
+immunizing
+impacted on
+in !DETERMINER growing number
+in !DETERMINER reversal
+in becoming !DETERMINER
+in reverse
+inactivate
+inactivated
+inactivates
+inactivating
+inactivation
+incalescent
+incarnate
+incarnated
+incarnates
+incarnating
+incarnation
+incarnations
+incasement
+incasements
+incorporation into
+incorporations into
+incrassate
+incrassated
+incrassates
+incrassating
+increase
+increase !DETERMINER
+increase !DETERMINER need
+increase in
+increase in size
+increase in temperature
+increase of
+increase of temperature
+increase twist
+increased
+increased !DETERMINER
+increased !DETERMINER need
+increased in size
+increased in temperature
+increased twist
+increaser
+increasers
+increases
+increases !DETERMINER
+increases !DETERMINER need
+increases in
+increases in size
+increases in temperature
+increases of
+increases of temperature
+increases twist
+increasing
+increasing !DETERMINER
+increasing !DETERMINER need
+increasing in size
+increasing in temperature
+increasing twist
+increasingly
+increment
+increment of
+incremental
+incrementally
+incremented
+incrementing
+increments
+increments of
+incubate
+incubated
+incubates
+incubating
+individualization
+industrialization
+industrialize
+industrialized
+industrializes
+industrializing
+inebriate
+inebriated !POSSESSIVEPRONOUN
+inebriated !PRONOUNOBJECTIVE
+inebriates
+inebriating
+inebriation
+inebriations
+inebriety
+inflate
+inflate prices
+inflated
+inflated !DETERMINER
+inflated prices
+inflates
+inflates prices
+inflating
+inflating prices
+inflationary spiral
+inflationary spirals
+inflationary trend
+inflationary trends
+inflator
+inflators
+inflorescent
+information explosion
+information explosions
+infuscate
+infuscated
+infuscates
+infuscating
+ingraftation
+ingraftations
+ingraftment
+ingraftments
+ingrowing
+ingrown
+inhumation
+inhumations
+inject in
+injected in
+injecting in
+injects in
+innervate
+innervated
+innervated !DETERMINER
+innervates
+innervating
+innerve
+innerved
+innerves
+innerving
+inosculate
+inosculated
+inosculates
+inosculating
+inroads
+inroads into
+insalivate
+insalivated
+insalivates
+insalivating
+insalivation
+insalivations
+inseminate
+inseminated
+inseminates
+inseminating
+insemination
+inseminations
+inseminator
+inseminators
+inspissate
+inspissated
+inspissates
+inspissating
+instauration
+intenerate
+intenerated
+intenerates
+intenerating
+intensification
+intensifications
+intensified
+intensifier
+intensifiers
+intensifies
+intensify
+intensifying
+interest ebbed
+intergrade
+intergraded
+intergrades
+intergrading
+internalization
+interspersion
+into !DETERMINER
+into !DETERMINER area of
+into !DETERMINER background
+into !DETERMINER bargain
+into !DETERMINER dust
+into !DETERMINER exchange
+into !DETERMINER field of
+into !DETERMINER fortune
+into !DETERMINER ground
+into !DETERMINER limelight
+into !DETERMINER past
+into !DETERMINER web
+into !DETERMINER wind
+into !DETERMINER wind's eye
+into !POSSESSIVEPRONOUN
+into !POSSESSIVEPRONOUN  possession
+into !YOU hands
+into !YOU possession
+into commission
+into my possession
+into our possession
+into power
+into with both feet
+inward osmosis
+iodinate
+iodinated
+iodinates
+iodinating
+iodination
+iodine absorption
+iodine absorptions
+iodize
+iodized
+iodizes
+iodizing
+ionization
+ionizations
+ionize
+ionized
+ionizes
+ionizing
+iridize
+iridized
+iridizes
+iridizing
+iris-in
+iris-out
+is !DETERMINER making of
+is becoming
+is changed from
+is changed into
+is changed to
+isochronize
+isochronized
+isochronizes
+isochronizing
+it all down
+it all over
+it all up
+it became
+it came to pass
+jacking-up
+jargonize
+jargonized
+jargonizes
+jargonizing
+jell into
+jelled into
+jellified
+jellifies
+jellify
+jellifying
+jelling into
+jells into
+Jump into another state
+Jumped into another state
+Jumping into another state
+Jumps into another state
+karyokineses
+karyokinesis
+karyolyses
+karyolysis
+kenogeneses
+kenogenesis
+keratinize
+keratinized
+keratinizes
+keratinizing
+key up
+keyed up !DETERMINER
+keying up
+keys up
+kick over
+kicked over
+kicking over
+kicks over
+king-becoming
+kit out
+kits out
+kitted out
+kitting out
+kyanise
+kyanised
+kyanises
+kyanising
+kyanize
+kyanized
+kyanizes
+kyanizing
+kyanzing
+labefaction
+labefactions
+labor turnover
+labor turnovers
+laicize
+laicized
+laicizes
+laicizing
+land-boom
+land-booms
+land-nationalization
+land-nationalizations
+land boom
+land booms
+land nationalization
+land nationalizations
+lapidified
+lapidifies
+lapidify
+lapidifying
+large change
+large changes
+laxation
+laxations
+leave office
+leaved
+leaves office
+leaving office
+left office
+legalization
+legalizations
+legalize
+legalized
+legalizes
+legalizing
+legitimatize
+legitimatized
+legitimatizes
+legitimatizing
+lemmatization
+lemmatize
+lemmatized
+lemmatizes
+lemmatizing
+lengthen
+lengthened
+lengthening
+lengthening of !DETERMINER sound
+lengthening of !DETERMINER word
+lengthenings
+lengthenings of !DETERMINER sound
+lengthenings of !DETERMINER word
+lengthens
+less and less
+lessen
+lessened
+lessening
+lessens
+levigate
+levigated
+levigates
+levigating
+liberalization
+liberalizations
+liberalize
+liberalized
+liberalizes
+liberalizing
+lick into shape
+licked into shape
+licking into shape
+licks into shape
+life-altering
+life-changing
+life altering
+life changing
+light adaptation
+lighten
+lighten one of
+lightened
+lightened one of
+lightener
+lighteners
+lightening !DETERMINER
+lightening !POSSESSIVEPRONOUN
+lightening !PRONOUNOBJECTIVE
+lightening her
+lightening my
+lightening one of
+lightening our
+lightens
+lightens one of
+lignified
+lignifies
+lignify
+lignifying
+liquate
+liquated
+liquates
+liquating
+liquefaction
+liquefactions
+liquefied
+liquefier
+liquefiers
+liquefies
+liquefy
+liquefying
+liquesce
+liquesced
+liquesces
+liquescing
+liquidation
+liquidations
+liquidator
+liquidators
+liquidize
+liquidized
+liquidizer
+liquidizers
+liquidizes
+liquidizing
+liquor-up
+liquor up
+liquored-up
+liquored up
+liquoring-up
+liquoring up
+liquors-up
+liquors up
+liven vivificate
+liven vivificates
+liven vivificating
+livened vivificated
+lobotomize
+lobotomized
+lobotomizes
+lobotomizing
+localization
+localizations
+localize
+localized
+localizer
+localizers
+localizes
+localizing
+locking-up
+locks-up
+logicize
+logicized
+logicizew
+logicizing
+loosen
+loosen !DETERMINER purse strings
+loosen up
+loosened
+loosened !DETERMINER purse strings
+loosened up
+loosening
+loosening !DETERMINER purse strings
+loosening up
+loosens
+loosens !DETERMINER purse strings
+loosens up
+loricate !DETERMINER
+loricated !DETERMINER
+loricates !DETERMINER
+loricating !DETERMINER
+lose !DETERMINER weight
+lose weight
+loses !DETERMINER weight
+loses weight
+losing !DETERMINER weight
+losing weight
+loss from
+loss in
+loss to
+lost !DETERMINER weight
+lost weight
+lower !DETERMINER
+lower !POSSESSIVEPRONOUN
+lower !POSSESSIVEPRONOUN note
+lower !PRONOUNOBJECTIVE
+lower my note
+lower our note
+lowercasing
+lowered
+lowered !DETERMINER
+lowered !POSSESSIVEPRONOUN
+lowered !POSSESSIVEPRONOUN note
+lowered !PRONOUNOBJECTIVE
+lowered my note
+lowered our note
+lowering
+lowering !DETERMINER
+lowering !POSSESSIVEPRONOUN
+lowering !POSSESSIVEPRONOUN note
+lowering !PRONOUNOBJECTIVE
+lowering my note
+lowering our note
+lowers
+lowers !DETERMINER
+lowers !POSSESSIVEPRONOUN
+lowers !POSSESSIVEPRONOUN note
+lowers !PRONOUNOBJECTIVE
+lowers my note
+lowers our note
+luteinize
+luteinized
+luteinizes
+luteinizing
+lyophilize
+lyophilized
+lyophilizes
+lyophilizing
+lyse
+lysed
+lysing
+lysis
+macadamize
+macadamized
+macadamizes
+macadamizing
+macerate
+macerated
+macerates
+macerating
+maceration
+macerations
+magnetization
+magnetize
+magnetized
+magnetizer
+magnetizers
+magnetizes
+magnetizing
+magnification
+magnifications
+magnified
+magnifier
+magnifiers
+magnifies
+magnify
+magnifying
+makeover
+makeovers
+malmed
+malming
+malt !DETERMINER
+malted !DETERMINER
+malting
+malts !DETERMINER
+man-changed
+marage
+maraged
+maraged-steel
+maraged steel
+marageing
+marageing alloy
+marageing alloys
+marageing steel
+marages
+maraging
+maraging alloy
+maraging alloys
+maraging steel
+marble !DETERMINER
+marbled !DETERMINER
+marbleize
+marbleized
+marbleizes
+marbleizing
+marbles !DETERMINER
+marbling
+marbling !DETERMINER
+margin up
+marginalization
+marginalizations
+margined up
+margining up
+margins declined from
+margins rose from
+margins up
+mark-down
+mark-up
+mark-ups
+Mark !DETERMINER change
+mark down
+mark up
+marked-down
+marked-up
+Marked !DETERMINER change
+marked down
+marked up
+Marking !DETERMINER change
+marking down
+marking up
+Marks !DETERMINER change
+marks down
+marks up
+married off
+marries off
+marry off
+marrying off
+martyrize
+martyrized
+martyrizes
+martyrizing
+masculinization
+materialization
+materializations
+materialize
+materialized
+materializes
+materializing
+matronize
+matronized
+matronizes
+matronizing
+maturate
+maturated
+maturates
+maturating
+maturation
+maturational
+maturations
+matured
+maturing
+maximization
+maximize
+maximized
+maximizes
+maximizing
+meaningful change
+meaningful changes
+mechanization
+mechanizations
+mechanize
+mechanized
+mechanizes
+mechanizing
+mediatize
+mediatized
+mediatizes
+mediatizing
+medicate
+medicated
+medicates
+medicating
+meioses
+meiosis
+melt into one
+melted into one
+melting into one
+melting of ice
+melts into one
+mercerization
+mercerize
+mercerized
+mercerizes
+mercerizing
+merchandised
+merchandized
+mercuralize
+mercuralized
+mercuralizes
+mercuralizing
+mercurate
+mercurated
+mercurates
+mercurating
+mercuration
+mercurations
+mercurialize
+mercurialized
+mercurializes
+mercurializing
+merge into
+merge with
+merged
+merged into
+merged with
+merger
+merger of
+merger with
+mergers
+mergers of
+mergers with
+merges into
+merges with
+merging into
+merging with
+merry-andrewize
+merry-andrewized
+merry-andrewizes
+merry-andrewizing
+metabolize
+metabolized
+metabolizes
+metabolizing
+metachromatism
+metageneses
+metagenesis
+metallize
+metallized
+metallizes
+metallizing
+metamorphic
+metamorphism
+metamorphisms
+metamorphose
+metamorphosed
+metamorphoses
+metamorphosing
+metamorphosis
+metamorphous
+metastases
+metastasis
+metastasize over
+metastasized over
+metastasizes over
+metastasizing over
+metathesize
+metathesized
+metathesizes
+metathesizing
+methodize
+methodized
+methodizes
+methodizing
+methylated
+methylating
+metrified
+metrifies
+metrify
+metrifying
+mickled
+mickling
+micro-manipulate
+micro-manipulated
+micro-manipulates
+micro-manipulating
+microminiaturize
+microminiaturized
+microminiaturizes
+microminiaturizing
+militarize
+militarized
+militarizes
+militarizing
+mineralize
+mineralized
+mineralizes
+mineralizing
+miniaturization
+miniaturizations
+miniaturize
+miniaturized
+miniaturizes
+miniaturizing
+minified
+minifies
+minify
+minifying
+minimization
+minimizations
+minimize
+minimized
+minimizes
+minimizing
+mioses
+miosis
+mix alcohol with
+mix food with
+mixed alcohol with
+mixed food with
+mixes alcohol with
+mixes food with
+mixing alcohol with
+mixing food with
+modernization
+modernizations
+modernize
+modernized
+modernizer
+modernizers
+modernizes
+modernizing
+modification
+modification to
+modifications
+modifications to
+modularize
+modularized
+modularizes
+modularizing
+moisturize
+moisturized
+moisturizer
+moisturizers
+moisturizes
+moisturizing
+molt
+molted
+molting
+molts
+momentum change
+momentum changes
+momentum shift
+momentum shifts
+mongrelize
+mongrelized
+mongrelizes
+mongrelizing
+monumentalize
+monumentalized
+monumentalizes
+monumentalizing
+more than doubled
+more than tripled
+morph
+morphed
+morphing
+morphogeneses
+morphogenesis
+morphs
+mortification of !DETERMINER flesh
+mortified !DETERMINER flesh
+mortified !POSSESSIVEPRONOUN flesh
+mortified !YOU flesh
+mortified herself
+mortified himself
+mortified my flesh
+mortified myself
+mortified our flesh
+mortified ourselves
+mortified themselves
+mortified yourself
+mortifies !DETERMINER flesh
+mortifies !POSSESSIVEPRONOUN flesh
+mortifies !YOU flesh
+mortifies herself
+mortifies himself
+mortifies my flesh
+mortifies myself
+mortifies our flesh
+mortifies ourselves
+mortifies themselves
+mortifies yourself
+mortify !DETERMINER flesh
+mortify !POSSESSIVEPRONOUN flesh
+mortify !YOU flesh
+mortify herself
+mortify himself
+mortify my flesh
+mortify myself
+mortify our flesh
+mortify ourselves
+mortify themselves
+mortify yourself
+mortifying !DETERMINER flesh
+mortifying !POSSESSIVEPRONOUN flesh
+mortifying !YOU flesh
+mortifying herself
+mortifying himself
+mortifying my flesh
+mortifying myself
+mortifying our flesh
+mortifying ourselves
+mortifying themselves
+mortifying yourself
+motorization
+motorizations
+motorize
+motorized
+motorizes
+motorizing
+moult
+moulted
+moulting
+moults
+mount !DETERMINER throne
+mounted !DETERMINER throne
+mounting !DETERMINER throne
+mounts !DETERMINER throne
+move with times
+moves with times
+moving wih !DETERMINER times
+muckled
+muckling
+multiplied
+multiplied !DETERMINER
+multiplied !DETERMINER millions
+multiplied !MOTIONPREP
+multiplied !POSSESSIVEPRONOUN
+multiplied !PRONOUNOBJECTIVE
+multiplied by !DETERMINER hundreds
+multiplied by !DETERMINER tens
+multiplied by !DETERMINER thousands
+multiplies
+multiplies !DETERMINER
+multiplies !DETERMINER millions
+multiplies !MOTIONPREP
+multiplies !POSSESSIVEPRONOUN
+multiplies !PRONOUNOBJECTIVE
+multiplies by !DETERMINER hundreds
+multiplies by !DETERMINER tens
+multiplies by !DETERMINER thousands
+multiply
+multiply !DETERMINER
+multiply !DETERMINER millions
+multiply !MOTIONPREP
+multiply !POSSESSIVEPRONOUN
+multiply !PRONOUNOBJECTIVE
+multiply by !DETERMINER hundreds
+multiply by !DETERMINER tens
+multiply by !DETERMINER thousands
+multiplying
+multiplying !DETERMINER
+multiplying !DETERMINER millions
+multiplying !MOTIONPREP
+multiplying !POSSESSIVEPRONOUN
+multiplying !PRONOUNOBJECTIVE
+multiplying by !DETERMINER hundreds
+multiplying by !DETERMINER tens
+multiplying by !DETERMINER thousands
+mummification
+mummified
+mummifies
+mummify
+mummifying
+municipalize
+municipalized
+municipalizes
+municipalizing
+mushroom into
+mushroom to
+mushroomed
+mushroomed into
+mushroomed to
+mushrooming
+mushrooming into
+mushrooming to
+mushrooms into
+mushrooms to
+mutant
+mutants
+mutate
+mutated
+mutated form
+mutated forms
+mutates
+mutating
+mutation
+mutational
+mutations
+mutative
+mutualize
+mutualized
+mutualizes
+mutualizing
+narcotize
+narcotized
+narcotizes
+narcotizing
+narrow to !DETERMINER short
+narrowed to !DETERMINER short
+narrowing gap
+narrowing gaps
+narrowing to !DETERMINER short
+narrows to !DETERMINER short
+nationalization
+nationalizations
+nationalize
+nationalized
+nationalizes
+nationalizing
+natural development
+natural developments
+natural growth
+natural growths
+naturalization
+naturalizations
+naturalize
+naturalized
+naturalizes
+naturalizing
+naturally growing
+nearly doubled
+nearly quadrupled
+nearly tripled
+neaten
+neatened
+neatening
+neatens
+nebulize
+nebulized
+nebulizes
+neologize
+neologized
+neologizes
+neologizing
+neoterize
+neoterized
+neoterizes
+neoterizing
+neurogenesis
+neutralization
+neutralizations
+neutralize
+neutralized
+neutralizer
+neutralizers
+neutralizes
+neutralizing
+nigrescent
+nigrified
+nigrifies
+nigrify
+nigrifying
+ninefold
+nitride !DETERMINER
+nitrided
+nitrides !DETERMINER
+nitriding
+nitrogenize
+nitrogenized
+nitrogenizes
+nitrogenizing
+noise abatement
+noise abatements
+nomadize
+nomadized
+nomadizes
+nomadizing
+normalization
+normalizations
+normalize
+normalized
+normalizes
+normalizing
+novelize
+novelized
+novelizes
+novelizing
+nubulizing
+objectification
+objectifications
+objectified
+objectifies
+objectify
+objectifying
+obnubilate
+obnubilated
+obnubilates
+obnubilating
+obtund
+obtunded
+obtunding
+obtunds
+obvert
+obverted
+obverting
+obverts
+officer !DETERMINER
+officered
+officering
+officers !DETERMINER
+on !DETERMINER ascendant
+on !DETERMINER decrease
+on !DETERMINER descendant
+on !DETERMINER downturn
+on !DETERMINER increase
+on !DETERMINER rise
+on !DETERMINER sharp downturn
+on !DETERMINER sharp upturn
+on !DETERMINER wane
+on an upturn
+on catalyzed
+onization
+onizations
+onize
+onized
+onizes
+onizing
+oogeneses
+oogenesis
+open up !DETERMINER
+opened up !DETERMINER
+opening up !DETERMINER
+opens up !DETERMINER
+opsonize
+opsonized
+opsonizes
+opsonizing
+option-renewal
+option-renewals
+option renewal
+option renewals
+organ swell
+organ swells
+organizational break-up
+organizational break-ups
+organogeneses
+organogenesis
+orogeneses
+orogenesis
+orogenic
+orogenically
+orogenies
+orogeny
+orthographize
+orthographized
+orthographizes
+orthographizing
+osmose
+osmosed
+osmoses
+osmosing
+osmosis
+osmotic
+osteogeneses
+osteogenesis
+osteoses
+osteosis
+ostoses
+ostosis
+out of commission
+outgrew
+outgrew !POSSESSIVEPRONOUN
+outgrown
+outputted
+overhaul
+overhauled
+overhauling
+overhauls
+oxidate
+oxidated
+oxidates
+oxidating
+oxidization
+oxidizations
+oxidize
+oxidized
+oxidizer
+oxidizers
+oxidizes
+oxidizing
+oxygenate
+oxygenated
+oxygenates
+oxygenating
+oxygenation
+oxygenic
+oxygenize
+oxygenized
+oxygenizes
+oxygenizing
+ozonize
+ozonized
+ozonizes
+ozonizing
+ozonolyses
+ozonolysis
+paganize
+paganized
+paganizes
+paganizing
+paid down
+palace-revolution
+palace-revolutions
+palace revolution
+palace revolutions
+palatalize
+palatalized
+palatalizes
+palatalizing
+palingeneses
+palingenesis
+palletize
+palletized
+palletizes
+palletizing
+panelize
+panelized
+panelizes
+parallelize
+parallelized
+parallelizes
+parallelizing
+parenthesize
+parenthesized
+parenthesizes
+parenthesizing
+parley into
+parleyed into
+parleying into
+parleys into
+particularization
+particularize
+particularized
+particularizes
+particularizing
+pass into
+pass into !DETERMINER hands
+pass into !POSSESSIVEPRONOUN hands
+pass into !YOU hands
+pass into my hands
+pass into our hands
+pass over from
+pass over to
+pass to
+passage from
+passage toward
+passages from
+passages toward
+passed into
+passed into !DETERMINER hands
+passed into !POSSESSIVEPRONOUN hands
+passed into !YOU hands
+passed into my hands
+passed into our hands
+passed over from
+passed over to
+passes into
+passes into !DETERMINER hands
+passes into !POSSESSIVEPRONOUN hands
+passes into !YOU hands
+passes into my hands
+passes into our hands
+passes over from
+passes to
+passing into
+passing into !DETERMINER hands
+passing into !POSSESSIVEPRONOUN hands
+passing into !YOU hands
+passing into my hands
+passing into our hands
+passing over from
+passing over to
+pasteurization
+pasteurize
+pasteurized
+pasteurized !DETERMINER
+pasteurizer
+pasteurizers
+pasteurizes
+pasteurizing
+pastoralize
+pastoralized
+pastoralizes
+pastoralizing
+patinate
+patinated !DETERMINER
+patinates
+patinating
+pay down
+paying down
+pays down
+peak out
+peak out at
+peaked
+peaked out
+peaked out at
+peaking
+peaking out
+peaking out at
+peaks out
+peaks out at
+pectize
+pectized
+pectizes
+pectizing
+pecularized
+pecularizes
+pecularizing
+peculiarize
+pedestrianize
+pedestrianized
+pedestrianizes
+pedestrianizing
+pejoration
+pejorations
+peptize
+peptized
+peptizes
+peptizing
+peptonize
+peptonizes
+peptonizing
+permutation
+permutations
+permute
+permuted
+permutes
+permuting
+peroxidize
+peroxidized
+peroxidizes
+peroxidizing
+personified
+perturbation
+perturbations
+petrifaction
+petrifactions
+phagocytoses
+phagocytosis
+phagocytotic
+phosphatize
+phosphatized
+phosphatizes
+phosphatizing
+photodisintegration
+photodisintegrations
+photolyses
+photolysis
+photophosphorylation
+photophosphorylations
+photosensitize
+photosensitized
+photosensitizes
+photosensitizing
+photosyntheses
+photosynthesis
+photosynthesize
+photosynthesized
+photosynthesizes
+phylogeneses
+phylogenesis
+phylogentically derived
+phytogeneses
+phytogenesis
+pickle !DETERMINER
+pickle !POSSESSIVEPRONOUN
+pickle !PRONOUNOBJECTIVE
+pickled !DETERMINER
+pickled !POSSESSIVEPRONOUN
+pickled !PRONOUNOBJECTIVE
+pickles !DETERMINER
+pickles !POSSESSIVEPRONOUN
+pickles !PRONOUNOBJECTIVE
+pickling
+pickling !DETERMINER
+pickling !POSSESSIVEPRONOUN
+pickling !PRONOUNOBJECTIVE
+planation
+planations
+planish
+planished
+planishes
+planishing
+plasma transfusion
+plasma transfusions
+plasmolyses
+plasmolysis
+plasmolytic
+plasmolytically
+plastic operation
+plastic operations
+plastic surgeries
+plastic surgery
+plasticize
+plasticized
+plasticizer !DETERMINER
+plasticizers !DETERMINER
+plasticizes
+plasticizing
+platinize
+platinized
+platinizes
+platinizing
+pluralize
+pluralized
+pluralizes
+pluralizing
+poised for changed
+police-up
+police up
+policed-up
+policed up
+polices-up
+polices up
+policing-up
+policing up
+polish up
+polished up
+polishes up
+polishing up
+politicization
+politicizations
+politicize
+politicized
+politicizes
+politicizing
+pollinization
+pollinizations
+pollinize
+pollinized
+pollinizer
+pollinizers
+pollinizes
+pollinizing
+polymerization
+polymerizations
+polymerize
+polymerized
+polymerizes
+polymerizing
+polyposis
+popularization
+popularizations
+potentiate
+potentiated
+potentiates
+potentiating
+power-off
+power-on
+power off
+power on !DETERMINER
+powered-off
+powered-on
+powered off
+powered on
+powering-off
+powering-on
+powering off
+powering on
+powers-off
+powers-on
+powers off
+powers on !DETERMINER
+prang up
+pranged up
+pranging up
+prangs up
+precipitation hardening
+precipitation hardenings
+pressure gain
+pressure loss
+pressurization
+pressurize
+pressurized
+pressurizes
+pressurizing
+prettied-up
+prettied up
+pretties-up
+pretties up
+prettification
+prettifications
+prettified
+prettifies
+prettify
+prettifying
+pretty-up
+pretty up
+prettying-up
+prettying up
+price-cut
+price-cuts
+price-cutter
+price-cutting
+price-enhancing
+price-lowering
+price-raising
+price-reducing
+price cut
+price cuts
+price decreases
+price expansion
+price expansions
+price fall
+price hike
+price hikes
+price increase
+price reduction
+price reductions
+price rise
+prim up
+primmed up
+primming up
+prims up
+prioritize
+prioritizes
+prioritizing
+privateered
+privateering
+privatize
+privatize !DETERMINER
+privatized
+privatized !DETERMINER
+privatizes
+privatizes !DETERMINER
+privatizing
+privatizing !DETERMINER
+process by means of which
+process by which
+process from which
+process in which
+process of mountain formation
+process through which
+processes of mountain formations
+procreate
+procreated
+procreates
+procreating
+procreation
+procreative
+procreator
+procreators
+procurance
+procurances
+procuration
+procurations
+procurement
+procurements
+produce monsters
+produced monsters
+produces monsters
+producing monsters
+products declined from
+products rose from
+professionalization
+professionalizations
+professionalize
+professionalized
+professionalizes
+professionalizing
+profits declined from
+profits ebbed
+profits rose from
+progression
+progressions
+progressive
+progressively
+progressiveness
+proliferate
+proliferated
+proliferates
+proliferating
+proliferation
+proliferations
+prolongate
+prolongated
+prolongates
+prolongating
+prolongation
+prolongations
+prompt change
+prompt closing
+prompt opening
+prompted change
+prompted closing
+prompted opening
+prompting change
+prompting closing
+prompting opening
+prompts change
+prompts closing
+prompts opening
+propagate
+propagated
+propagates
+propagating
+propagation
+propagator
+propagators
+prophylax
+prophylaxed
+prophylaxes
+prophylaxing
+proselytism
+proselytisms
+proselytize
+proselytize !DETERMINER
+proselytize !POSSESSIVEPRONOUN
+proselytize !PRONOUNOBJECTIVE
+proselytized
+proselytized !DETERMINER
+proselytized !POSSESSIVEPRONOUN
+proselytized !PRONOUNOBJECTIVE
+proselytizes
+proselytizes !DETERMINER
+proselytizes !POSSESSIVEPRONOUN
+proselytizes !PRONOUNOBJECTIVE
+proselytizing
+proselytizing !DETERMINER
+proselytizing !POSSESSIVEPRONOUN
+proselytizing !PRONOUNOBJECTIVE
+protoindustrialization
+protoindustrializations
+psychogeneses
+psychogenesis
+psychologize
+psychologized
+psychologizes
+psychologizing
+puddingize
+puddingized
+puddingizes
+puddingizing
+pulver
+pulvered
+pulvering
+pulverization
+pulverize
+pulverized
+pulverized !DETERMINER
+pulverizer
+pulverizers
+pulverizes
+pulverizing !DETERMINER
+pulvers
+pumicing
+pump up
+pumped up
+pumping up
+pumps up
+pupate
+pupated
+pupates
+pupating
+pupation
+pupations
+pustulate
+pustulated
+pustulates
+pustulating
+putrefaction
+putrefactive
+pyogenesis
+pyrolize
+pyrolized
+pyrolizes
+pyrolizing
+pyrolyses
+pyrolysis
+quadruped
+quadrupeds
+quadruple
+quadruple !DETERMINER
+quadrupled
+quadrupled !DETERMINER
+quadruples
+quadruples !DETERMINER
+quadruplicate
+quadruplicated
+quadruplicates
+quadruplicating
+quadrupling
+quadrupling !DETERMINER
+quantize
+quantized
+quantizes
+quantizing
+quick change
+quick changes
+quicken
+quickened
+quickening
+quickens
+quieten
+quietened
+quietening
+quietens
+quintuple
+quintupled
+quintuples
+quintuplicate
+quintuplicated
+quintuplicates
+quintuplicating
+quintupling
+radical
+radical change
+radical changes
+radicalization
+radicalizations
+radicalize
+radicalized
+radicalized !DETERMINER
+radicalizes
+radicalizing
+radioactivate
+radioactivated
+radioactivates
+radioactivating
+radiolysis
+rage-subduing
+rage-swelling
+rage-transported
+rags-to-riches
+raising of temperature
+raising of temperatures
+ramp-up
+ramp up
+ramped-up
+ramped up
+ramping-up
+ramping up
+ramps-up
+ramps up
+rapid-changings
+rarefaction
+rarefactions
+RATCHET UP
+ratcheted up
+RATCHETING UP
+RATCHETS UP
+reabsorption
+reabsorption of
+reabsorptions
+reabsorptions of
+reach boiling point
+reached boiling point
+reaches boiling point
+reaching boiling point
+reacquire !DETERMINER
+reacquired !DETERMINER
+reacquires !DETERMINER
+reacquiring !DETERMINER
+rebirth
+reborn
+rebuild
+rebuilding
+rebuilds
+rebuilt
+recalesce
+recalesced
+recalescence
+recalescence point
+recalescence points
+recalesces
+recalescing
+reconceptualization
+reconceptualized
+recrystallize
+recrystallized
+recrystallizes
+recyrstallize
+recyrstallized
+recyrstallizes
+recyrstallizing
+redden
+reddened
+reddening
+reddens
+redistribute !DETERMINER
+redistributed !DETERMINER
+redistributes !DETERMINER
+redistributing !DETERMINER
+redistribution of
+redistributions of
+redox
+reduce
+reduce !DETERMINER temperature
+reduce to
+reduce to elements
+reduce to essentials
+reduce to order
+reduce to unity
+reduce to writing
+Reduce urge
+reduce weight
+reduced
+reduced !DETERMINER
+reduced !DETERMINER temperature
+reduced to
+reduced to elements
+reduced to essentials
+reduced to order
+reduced to unity
+reduced to writing
+Reduced urges
+reduced weight
+reducer
+reducers
+reduces
+reduces !DETERMINER temperature
+reduces to
+reduces to elements
+reduces to essentials
+reduces to order
+reduces to unity
+reduces to writing
+Reduces urges
+reduces weight
+reducing
+reducing !DETERMINER temperature
+reducing to
+reducing to elements
+reducing to essentials
+reducing to order
+reducing to unity
+reducing to writing
+Reducing urges
+reducing weight
+reduction
+reduction in
+reduction of
+reduction of armaments
+reduction of expenses
+reduction of government spending
+reduction of spending
+reduction of temperature
+reduction to
+reduction to ashes
+reduction to dust
+reduction to elements
+reduction to parts
+reduction to powder
+reductionism
+reductionist
+reductions
+reductions in
+reductions of
+reductions of armaments
+reductions of expenses
+reductions of government spending
+reductions of spending
+reductions of temperature
+reductions to
+reductions to ashes
+reductions to dust
+reductions to elements
+reductions to parts
+reductions to powder
+reenforce
+reenforced !DETERMINER
+reenforces
+reenforcing
+refeminizatino
+refrigerant
+refrigerants
+refrigerate
+refrigerated
+refrigerated !DETERMINER
+refrigerates
+refrigerating
+refrigeration
+refurbishment
+refurbishments
+regeneracies
+regeneracy
+regeneration
+regenerations
+regenerator
+regenerators
+regionalize
+regionalized
+regionalizes
+regionalizing
+regularization
+regularize
+regularized
+regularizes
+regularizing
+reification
+reifications
+reified
+reifies
+reify
+reifying
+reincarnate
+reincarnates
+reincarnating
+reincarnation
+reincarnations
+reindustrialization
+reindustrializations
+relativize
+relativized
+relativizes
+relativizing
+reliction
+relictions
+remasculinization
+rematerialize
+rematerialized
+rematerializes
+rematerializing
+remerged
+removal of
+removals of
+renewal
+renewals
+renovate
+renovated
+renovates
+renovating
+renovation
+renovations
+reproduce
+reproduced
+reproduces
+reproducing
+republicanize
+republicanized
+republicanizes
+republicanizing
+reshape !DETERMINER
+reshaped !DETERMINER
+reshapes !DETERMINER
+reshaping !DETERMINER
+reshuffle !DETERMINER
+reshuffles !DETERMINER
+reshuffling !DETERMINER
+resign from
+resignation
+resignation of
+resignations
+resignations of
+resigned from
+resigns from
+resolutive
+resolutives
+resolve into
+resolve itself into
+resolve upon
+resolved into
+resolved itself into
+resolved upon
+resolves into
+resolves itself into
+resolves upon
+resolving into
+resolving itself into
+resolving upon
+respersion
+resurge
+resurged
+resurgence
+resurgences
+resurgent
+resurgently
+resurges
+resurging
+retire from !DETERMINER world
+retire into !DETERMINER shade
+retired from !DETERMINER world
+retired into !DETERMINER shade
+retirement
+retirement from office
+retirements
+retirements from office
+retires from !DETERMINER world
+retires into !DETERMINER shade
+retiring from !DETERMINER world
+retiring into !DETERMINER shade
+retreating market
+retreating markets
+retrogradation
+retrogradations
+retrograde !DETERMINER
+retrograded !DETERMINER
+retrogrades !DETERMINER
+retrograding !DETERMINER
+return to dust
+return to life
+returned to dust
+returned to life
+returning to dust
+returning to life
+returns to dust
+returns to life
+reversal
+reversals
+reverse
+reverses
+reversing
+reversion
+reversion to
+reversionary
+reversions
+reversions to
+revertant
+revertants
+revet
+revets
+revetted
+revetting
+revoice
+revoiced
+revoices
+revoicing
+revolutionaries
+revolutionary
+revolutionary's
+revolutionarys'
+riches-to-rags
+rightsize
+rightsized
+rightsizes
+rightsizing
+rigidified
+rigidifies
+rigidify
+rigidifying
+ripen
+ripen into
+ripened
+ripened into
+ripening
+ripening into
+ripens
+ripens into
+rising barometer
+rising market
+rising markets
+rising price
+rising prices
+rising rate
+rising rates
+rite of passage
+rites of passage
+ritualisation
+ritualisations
+ritualization
+ritualizations
+ritualize
+ritualized
+ritualizes
+ritualizing
+robotize
+robotized
+robotizes
+robotizing
+romanticise
+romanticised
+romanticises
+romanticising
+romanticize
+romanticized
+romanticizes
+romanticizing
+routinize
+routinized
+routinizes
+routinizing
+rubberise
+rubberised
+rubberises
+rubberising
+rubberize
+rubberized
+rubberizes
+rubberizing
+rube faction
+rube factions
+rubefaction
+rubefactions
+rubricate
+rubricated
+rubricates
+rubricating
+rubrication
+rubrications
+run-up
+ruralize
+ruralized
+ruralizes
+ruralizing
+rust together
+rusted together
+rusting together
+rusts together
+saccharified
+saccharifies
+saccharify
+saccharifying
+sales declined from
+sales rose from
+salified
+salifies
+salify
+salifying
+salinize
+salinized
+salinizes
+salinizing
+sallow !DETERMINER
+sallow !MOTIONPREP
+sallow !POSSESSIVEPRONOUN
+sallowed
+sallowed !DETERMINER
+sallowed !MOTIONPREP
+sallowed !POSSESSIVEPRONOUN
+sallowing
+sallowing !DETERMINER
+sallowing !MOTIONPREP
+sallowing !POSSESSIVEPRONOUN
+sallows !DETERMINER
+sallows !MOTIONPREP
+sallows !POSSESSIVEPRONOUN
+salsified
+salsifies
+salsify !DETERMINER
+salsifying
+salt out into
+salted out into
+salting out into
+salts out into
+saponification
+saponifications
+saponified
+saponifies
+saponify
+saponifying
+saprogenc
+saprogenicity
+scale-down
+scale-up
+scale back
+scale back from
+scale back on
+scale back to
+scale down
+SCALE DOWN from
+scale off
+scaled-down
+scaled back
+scaled back from
+scaled back on
+scaled back to
+scaled down
+scaled off
+scales back
+scales back from
+scales back on
+scales back to
+scales down
+SCALES DOWN from
+scales off
+scaling-down
+scaling-up
+scaling back
+scaling back from
+scaling back on
+scaling back to
+scaling down
+SCALING DOWN from
+scaling off
+scaling up
+schematise
+schematised
+schematises
+schematising
+schematize !DETERMINER
+schematized !DETERMINER
+schematizes !DETERMINER
+schematizing !DETERMINER
+schreinerize
+schreinerized
+schreinerizes
+schreinerizing
+scorfication
+scorifications
+scorified
+scorifies
+scorify
+scorifying
+sea change
+sea changes
+sea changes in
+sectarianize
+sectarianized
+sectarianizes
+sectarianizing
+sectionalize
+sectionalized
+sectionalizes
+sectionalizing
+secularization
+secularizations
+secularize
+secularized
+secularizes
+secularizing
+secundize
+secundized
+secundizes
+secundizing
+secure !DETERMINER engines
+secure !DETERMINER main induction
+secure !POSSESSIVEPRONOUN object
+secure !YOU object
+secure my object
+secure our object
+secured !DETERMINER engines
+secured !DETERMINER main induction
+secured !POSSESSIVEPRONOUN object
+secured !YOU object
+secured my object
+secured our object
+secures !DETERMINER engines
+secures !DETERMINER main induction
+secures !POSSESSIVEPRONOUN object
+secures !YOU object
+secures my object
+secures our object
+securing !DETERMINER engines
+securing !DETERMINER main induction
+securing !POSSESSIVEPRONOUN object
+securing !YOU object
+securing my object
+securing our object
+securitization
+securitizations
+seed growth
+seed growths
+seize !DETERMINER crown
+seize !DETERMINER initiative
+seize !DETERMINER throne
+seize power
+seize quartier
+seize stuff
+seized !DETERMINER crown
+seized !DETERMINER initiative
+seized !DETERMINER throne
+seized power
+seized quartier
+seized stuff
+seizes !DETERMINER crown
+seizes !DETERMINER initiative
+seizes !DETERMINER throne
+seizes power
+seizes quartier
+seizes stuff
+seizing !DETERMINER crown
+seizing !DETERMINER initiative
+seizing !DETERMINER throne
+seizing power
+seizing quartier
+seizing stuff
+seizure of
+seizure of power
+seizures of
+seizures of power
+self-demagnetizing
+semination
+seminations
+send to !DETERMINER bottom
+send to !DETERMINER top
+send to sleep
+sending to !DETERMINER bottom
+sending to !DETERMINER top
+sending to sleep
+sends to !DETERMINER bottom
+sends to !DETERMINER top
+sends to sleep
+sensitization
+sensitize
+sensitized
+sensitizes
+sent to !DETERMINER bottom
+sent to !DETERMINER top
+sent to sleep
+sentimentalization
+septifragal-dehiscence
+septifragal dehiscence
+septuplicate !DETERMINER
+septuplicated
+septuplicates !DETERMINER
+septuplicating
+serialization
+serializations
+serialize
+serialized
+serializes
+serializing
+serve to dissolve
+serve to relax
+served to dissolve
+served to relax
+serves to dissolve
+serves to relax
+serving to dissolve
+serving to relax
+sevenfold
+sextupled
+sextuplicate !DETERMINER
+sextuplicated
+sextuplicates !DETERMINER
+sextuplicating
+sextupling
+sexual fission
+sexualize
+sexualized
+sexualizes
+sexualizing
+shake-up in
+shake-ups
+shake all over
+shake it up
+shake off
+shake off !DETERMINER yoke
+shake on it
+shake out !DETERMINER cramps
+shake up
+shaken
+shaken-up
+shakes all over
+shakes it up
+shakes off
+shakes off !DETERMINER yoke
+shakes on it
+shakes up
+shaking all over
+shaking it up
+shaking off
+shaking off !DETERMINER yoke
+shaking on it
+shaped out
+shaped out !DETERMINER course
+sharpen
+sharpen !DETERMINER distinction
+sharpen !DETERMINER wits
+sharpen !YOU tools
+sharpened !DETERMINER distinction
+sharpened !DETERMINER wits
+sharpened !YOU tools
+sharpening
+sharpening !DETERMINER distinction
+sharpening !DETERMINER wits
+sharpening !YOU tools
+sharpens
+sharpens !DETERMINER distinction
+sharpens !DETERMINER wits
+sharpens !YOU tools
+she's becoming
+shet
+shift !DETERMINER bid
+shift !DETERMINER control
+shift !DETERMINER status of
+shift away
+shift away from
+shift ballast
+shift for
+shift for !REFLEXIVEPRONOUN
+shift for myself
+shift for ourselves
+shift for yourself
+shift from
+shift gear
+shift gears
+shift gears from
+shift gears to
+shift in momentum
+shift into !DETERMINER
+shift into !POSSESSIVEPRONOUN
+shift marriage
+shift of
+shift of structure
+shift of tense
+shift rooms
+shift to
+shift with
+shifted
+shifted !DETERMINER control
+shifted !DETERMINER status of
+shifted away
+shifted away from
+shifted ballasts
+shifted for
+shifted for !REFLEXIVEPRONOUN
+shifted for myself
+shifted for ourselves
+shifted for yourself
+shifted from
+shifted gear
+shifted gears
+shifted gears from
+shifted gears to
+shifted into !DETERMINER
+shifted into !POSSESSIVEPRONOUN
+shifted rooms
+shifted to
+shifted with
+shifting
+shifting !DETERMINER control
+shifting !DETERMINER status of
+shifting away
+shifting away from
+shifting ballast
+shifting course
+shifting courses
+shifting cultivation
+shifting cultivations
+shifting for
+shifting for !REFLEXIVEPRONOUN
+shifting for myself
+shifting for ourselves
+shifting for yourself
+shifting from
+shifting gear
+shifting gears
+shifting gears from
+shifting gears to
+shifting into !DETERMINER
+shifting into !POSSESSIVEPRONOUN
+shifting rooms
+shifting time
+shifting times
+shifting to
+shifting use
+shifting uses
+shifting with
+shifts !DETERMINER control
+shifts !DETERMINER status of
+shifts away
+shifts away from
+shifts ballast
+shifts for
+shifts for !REFLEXIVEPRONOUN
+shifts for myself
+shifts for ourselves
+shifts for yourself
+shifts from
+shifts gear
+shifts gears
+shifts gears from
+shifts gears to
+shifts in momentum
+shifts into !DETERMINER
+shifts into !POSSESSIVEPRONOUN
+shifts of
+shifts rooms
+shifts to
+shifts with
+shook-up
+shook all over
+shook it up
+shook off
+shook off !DETERMINER yoke
+shook on it
+shorten
+shortened
+shortening
+shortening !DETERMINER
+shortening of !DETERMINER sound
+shortening of !DETERMINER word
+shortenings
+shortenings of !DETERMINER sound
+shortenings of !DETERMINER word
+shortens
+shrank
+Shrank back
+shrank from
+shrank to
+shrink
+Shrink back
+shrinkage
+shrinkages
+shrinking
+Shrinking back
+shrinking of
+shrinkings of
+shrinks
+shrinks !DETERMINER
+Shrinks back
+sign away forever
+sign over
+signalization
+signalizations
+signalize
+signalized
+signalizes
+signalizing
+signed away forever
+signed over
+significant change
+significant changes
+signing away forever
+signing over
+signs away forever
+signs over
+silicified !DETERMINER
+silicified into
+silicifies
+silicify
+silver-reduction
+silver reduction
+silver reductions
+simonize
+simonized
+simonizes
+simonizing
+singularize
+singularized
+singularizes
+singularizing
+sixfold
+skeletonize
+skeletonized
+skeletonizes
+skeletonizing
+skin-shift
+skin-shifted
+skin-shifter
+skin-shifters
+skin-shifting
+skin-shifts
+skinnies down
+skinny down
+skinnyed down
+skinnying down
+sky-rocketed
+slack up
+slacked up
+slacken
+slacken off
+slackened
+slackened off
+slackening
+slackening off
+slackens
+slackens off
+slacking up
+slacks up
+slave-enlarging
+slenderize
+slenderized
+slenderizes
+slenderizing
+slim down
+slime thickening
+slimmin
+slimming
+slimming down
+slims
+slims down
+sloganize
+sloganized
+sloganizes
+slow-down
+slow change
+slow changes
+slow down
+slowdown in
+slowdown of
+slowdowns in
+slowdowns of
+slowed-down
+slowed down
+slowing-down
+slowing down
+slows-down
+slows down
+small change
+small changes
+smarten
+smarten up
+smartened
+smartened up
+smartening
+smartening up
+smartens
+smartens up
+smoothen
+smoothened
+smoothening
+smoothens
+smoothers
+snap out of it
+snapped out of it
+snapping out of it
+snaps out of it
+soar in thermals
+soared in thermals
+soaring in thermals
+soars in thermals
+social evolution
+social evolutions
+soften
+soften !DETERMINER
+soften up
+softened
+softened !DETERMINER
+softened up
+softening
+softening !DETERMINER
+softening up
+softens
+softens !DETERMINER
+softens up
+solarize
+solarizes
+solarizing
+solarzied
+solemnization
+solemnize
+solemnized
+solemnizes
+solemnizing
+solidified
+solidifies
+solidify
+solidifying
+solmization
+solmizations
+solubilize
+solubilized
+solubilizes
+solubilizing
+solvate
+solvated
+solvates
+solvating
+solvolysis
+somatization
+somatizations
+sped-up
+sped up
+speechified
+speechifies
+speechify
+speechifying
+speed-up
+speed reducer
+speed reducers
+speed up
+speeding-up
+speeding up
+speeds-up
+speeds up
+spiculate !DETERMINER
+spiculated !DETERMINER
+spiculates !DETERMINER
+spiculating !DETERMINER
+spiff up for
+spiffed up for
+spiffing up for
+spiffs up for
+spin off !DETERMINER
+spinning off !DETERMINER
+spins off !DETERMINER
+spiritualise
+spiritualised
+spiritualises
+spiritualising
+spiritualization
+spiritualize
+spiritualized
+spiritualizes
+spiritualizing
+sporogenesis
+sporulate
+sporulated
+sporulates
+sporulating
+spreading
+springboarded to
+springboarding to
+spun-off
+spun off !DETERMINER
+spur growth
+spur growth in
+spurred growth
+spurred growth in
+spurring growth
+spurring growth in
+spurs growth
+spurs growth in
+stabilizer
+stabilizers
+staminodies
+staminody
+stand-down
+stand down
+stand downs
+standardize
+standardize !DETERMINER
+standardized !DETERMINER
+standardizes
+standardizes !DETERMINER
+standardizing
+standardizing !DETERMINER
+standing-down
+standing down
+stands-down
+Start moving and change
+state-changing
+steam up
+steams up
+steepen
+steepened
+steepening
+steepens
+step into !DETERMINER fortune
+step into !DETERMINER limelight
+step up !DETERMINER ladder
+stepped into !DETERMINER fortune
+stepped into !DETERMINER limelight
+stepped up !DETERMINER ladder
+stepping into !DETERMINER fortune
+stepping into !DETERMINER limelight
+stepping up !DETERMINER ladder
+steps into !DETERMINER fortune
+steps into !DETERMINER limelight
+steps up !DETERMINER ladder
+sterilisation
+sterilisations
+sterilise
+sterilised
+sterilises
+sterilising
+sterilization
+sterilizations
+sterilize
+sterilized
+sterilizer
+sterilizers
+sterilizes
+sterilizing
+stiffen
+stiffen !DETERMINER
+stiffen !POSSESSIVEPRONOUN
+stiffen !YOU
+stiffen my
+stiffen our
+stiffended
+stiffened
+stiffened !DETERMINER
+stiffened !POSSESSIVEPRONOUN
+stiffened !YOU
+stiffened my
+stiffened our
+stiffener
+stiffeners
+stiffening
+stiffening !DETERMINER
+stiffening !POSSESSIVEPRONOUN
+stiffening !YOU
+stiffening my
+stiffening our
+stiffens
+stiffens !DETERMINER
+stiffens !POSSESSIVEPRONOUN
+stiffens !YOU
+stiffens my
+stiffens our
+stimulu-induced changes
+stimulus-induced change
+stir up !DETERMINER
+stirs up !DETERMINER
+stock-watering
+stock change
+stock changes
+stock up
+stock watering
+stocked up
+stocking up
+stocks up
+stoke up
+stoke up on
+stoked up
+stoked up on
+stokes up
+stokes up on
+stoking up
+stoking up on
+stood-down
+stood down
+stop blowing
+stop up
+stopped blowing
+stoppered
+stoppering
+stopping up
+stops blowing
+stops up
+stouten
+stouten up
+stoutened
+stoutened up
+stoutening
+stoutening up
+stoutens
+stoutens up
+straighten
+straightened
+straightening
+straightens
+strain hardening
+strain hardenings
+stratification
+stratifications
+stratified
+stratified !DETERMINER
+stratifies
+stratify
+stratifying
+strenghtened
+strenghthenings
+strength change
+strength changes
+strengthen
+strengthened
+strengthening
+strengthening lead
+strengthening leads
+strengthens
+strenthening card
+strenthening cards
+stridulate
+stridulated
+stridulates
+stridulating
+strobilation
+strobilations
+structuralize
+structuralized
+structuralizes
+structuralizing
+stylization
+stylizations
+stylize
+stylized
+stylizes
+stylizing
+suberize
+suberized
+suberizes
+suberizing
+subjectified
+subjectifies
+subjectify
+subjectifying
+subminiaturization
+subminiaturizations
+subminiaturize
+subminiaturized
+subminiaturizes
+subminiaturizing
+subordinated
+subordinating
+subordination
+subordination of
+subordinations
+subordinations of
+subsere
+subseres
+subside
+subsided
+subsides
+subsiding
+subsidized
+substantial decrease
+substantial decreases
+substantial increase
+substantial increases
+substantialise
+substantialised
+substantialises
+substantialising
+substantialize
+substantialized
+substantializes
+substantializing
+substantivize
+substantivized
+substantivizes
+substantivizing
+subsumption
+subsumptions
+subtilisation
+subtilisations
+subtilization
+subtilizations
+suburbanize
+suburbanized
+suburbanizes
+suburbanizing
+succeed to !DETERMINER throne
+succeeded to !DETERMINER throne
+succeeding to !DETERMINER throne
+succeeds to !DETERMINER throne
+sudden change in
+sudden changes in
+sudden development in
+sudden developments in
+suddenly vanish into thin air
+suddenly vanished into thin air
+suddenly vanishes into thin air
+suddenly vanishing into thin air
+suffumigate
+suffumigated
+suffumigates
+suffumigating
+sugar-destroying
+sulfatize
+sulfatized
+sulfatizes
+sulfatizing
+sulfurate
+sulfurated
+sulfurates
+sulfurating
+sulfurete
+sulfureted
+sulfuretes
+sulfureting
+sulfurt
+sulfurted
+sulfurting
+sulfurts
+sulphurize
+sulphurized
+sulphurizes
+sulphurizing
+sum to
+summed to
+summerize
+summerized
+summerizes
+summerizing
+summing to
+sums to
+supersize
+supersized !DETERMINER
+supersizes
+supersizing
+surge into
+surge of
+surged into
+surges into
+surges of
+surging into
+swaled
+swaling
+swarded
+swarding
+sweat-off
+sweat off
+sweated-off
+sweated off
+sweating-off
+sweating off
+sweats-off
+sweats off
+sweeten !DETERMINER kitty
+sweetened !DETERMINER kitty
+sweetens !DETERMINER kitty
+sweetnening !DETERMINER kitty
+swell
+swell !DETERMINER
+swell !DETERMINER ranks
+swell !DETERMINER ranks of
+swell from
+swell it
+swelled
+swelled !DETERMINER
+swelled !DETERMINER ranks
+swelled !DETERMINER ranks of
+swelled it
+swelling !DETERMINER
+swelling !DETERMINER ranks
+swelling !DETERMINER ranks of
+swelling from
+swelling it
+swells !DETERMINER
+swells !DETERMINER ranks
+swells !DETERMINER ranks of
+swells from
+swells it
+syllabicate
+syllabicated
+syllabicates
+syllabicating
+syllabication
+syllabification
+syllabifications
+syllabified
+syllabifies
+syllabify
+syllabifying
+syllabize
+syllabized
+syllabizes
+syllabizing
+syllogize
+syllogized
+syllogizes
+syllogizing
+symmetrize
+symmetrized
+symmetrizes
+symmetrizing
+synaereses
+synaeresis
+synapse from
+synapse to
+synapses from
+synapses to
+synapsis
+sync
+synced
+synch
+synched
+synching
+synchronise
+synchronised
+synchronises
+synchronising
+synchronization
+synchronizations
+synchronize
+synchronized
+synchronizer
+synchronizers
+synchronizes
+synchronizing
+synchs
+syncing
+syncope
+syncopes
+syncretisation
+syncretisations
+syncretise
+syncretised
+syncretises
+syncretising
+syncretization
+syncretizations
+syncretize
+syncretized
+syncretizes
+syncretizing
+syncs
+synereses
+syneresis
+syngamy !DETERMINER
+syngeneses
+syngenesis
+syngenetic
+synonymize
+synonymized
+synonymizes
+synonymizing
+synthesize biologically
+synthesized biologically
+synthesizes biologically
+synthesizing biologically
+systematic desensitization
+systematic desensitizations
+systematise
+systematised
+systematises
+systematising
+systematize
+systematized
+systematizer
+systematizers
+systematizes
+systematizing
+systemization
+systemize
+systemized
+systemizes
+systemizing
+tabularize
+tabularized
+tabularizes
+tabularizing
+tail off
+tailed off
+tailing off
+tails off
+take !DETERMINER new twist
+take up nitrogen
+taken off
+takes !DETERMINER new twist
+takes up nitrogen
+taking !DETERMINER new twist
+taking up nitrogen
+tame-grown
+tank-up
+tank up
+tanked-up
+tanked up
+tanking-up
+tanking up
+tanks-up
+tanks up
+tauten
+tautened
+tautening
+tautens
+tautologize
+tautologized
+tautologizes
+tautologizing
+telegenesis
+teletransport
+teletransported
+teletransporting
+teletransports
+tellurize
+tellurized
+tellurizes
+tellurizing
+temporalize
+temporalized
+temporalizes
+temporalizing
+tend downwards
+tend upward
+tended downwards
+tended upward
+tenderization
+tenderizations
+tenderize
+tenderized
+tenderizes
+tenderizing
+tending downwards
+tending upward
+tends downwards
+tends upward
+tenebrificate
+tenebrificated
+tenebrificates
+tenebrificating
+tenfold
+tenotomize
+tenotomized
+tenotomizes
+tenotomizing
+tenure !DETERMINER
+tenure !POSSESSIVEPRONOUN
+tenure !PRONOUNOBJECTIVE
+tenured
+tenured !DETERMINER
+tenured !POSSESSIVEPRONOUN
+tenured !PRONOUNOBJECTIVE
+tenures !DETERMINER
+tenures !POSSESSIVEPRONOUN
+tenures !PRONOUNOBJECTIVE
+tenuring !DETERMINER
+tenuring !POSSESSIVEPRONOUN
+tenuring !PRONOUNOBJECTIVE
+tepefied
+tepefies
+tepefy
+tepefying
+teratogenesis
+terminate !DETERMINER account
+terminated !DETERMINER account
+terminates !DETERMINER account
+terminating !DETERMINER account
+terrasse
+terrassed
+terrasses
+terrassing
+territorialize
+territorialized
+territorializes
+territorializing
+tetanize
+tetanized
+tetanizes
+tetanizing
+thaw out
+thawed out
+thawing out
+thaws out
+theatricalize
+theatricalized
+theatricalizes
+theatricalizing
+theologize
+theologized
+theologizes
+theologizing
+theomorphize
+theomorphized
+theomorphizes
+theomorphizing
+there !AUX !DETERMINER letup
+there !AUX !DETERMINER surge in
+thermalling
+thermite process
+thermite processes
+thermo-harden
+thermo-hardened
+thermo-hardening
+thermo-hardens
+thermocoagulate
+thermocoagulated
+thermocoagulates
+thermocoagulating
+thermocoagulation
+thermocoagulations
+thermocoagulative
+thermoform !DETERMINER
+thermoformed
+thermoforming !DETERMINER
+thermoforms !DETERMINER
+thermogeneses
+thermogenesis
+thermoharden
+thermohardened
+thermohardening
+thermohardens
+thermolyses
+thermolysis
+thermosynthesis
+they're becoming
+thicken
+thickened
+thickener of
+thickeners of
+thickening
+thickening and hardening
+thickening or hardening
+thickenings
+thickens
+thin !DETERMINER
+thin away
+thin down
+thin off
+thin out
+thinned
+thinned away
+thinned down
+thinned off
+thinned out
+thinners
+thinning
+thinning away
+thinning down
+thinning off
+thinning out
+thins
+thins !DETERMINER
+thins away
+thins down
+thins off
+thins out
+thousandfold
+threefold
+thrust augmentation
+thrust augmentations
+thrust augmenter
+thrust augmenters
+tighten
+tighten !DETERMINER purse strings
+tighten !POSSESSIVEPRONOUN belt
+tighten !POSSESSIVEPRONOUN belts
+tighten my belt
+tighten our belt
+tighten our belts
+tightened
+tightened !DETERMINER purse strings
+tightened !POSSESSIVEPRONOUN  belts
+tightened !POSSESSIVEPRONOUN belt
+tightened my belt
+tightened our belt
+tightened our belts
+tightening
+tightening !DETERMINER purse strings
+tightening !POSSESSIVEPRONOUN belt
+tightening !POSSESSIVEPRONOUN r belts
+tightening my belt
+tightening our belt
+tightening our belts
+tightens
+tightens !DETERMINER purse strings
+tightens !POSSESSIVEPRONOUN belt
+tightens !POSSESSIVEPRONOUN r belts
+tightens my belt
+tightens our belt
+tightens our belts
+tin !DETERMINER
+tin pest
+tin pests
+tin plague
+tin plagues
+tinned !DETERMINER
+tinning
+tinning !DETERMINER
+tins !DETERMINER
+tipping point
+tipping points
+tissue-building
+tissue-changing
+tissue-destroying
+tissue-forming
+tissue-producing
+tissue-secreting
+tissue change
+tissue changes
+titivate
+titivated
+titivates
+titivating
+titivation
+titrate
+titrated
+titrates
+titrating
+tittivate
+tittivated
+tittivates
+tittivating
+to bring change
+to bring changes
+to grow up
+to hand over
+to make change
+to make changes
+to shards
+to shreds
+to smithereens
+to splinters
+to tatters
+to this.
+toilet atomizer
+toilet atomizers
+tokenize
+tokenized
+tokenizes
+tokenizing
+tone-down
+tone-up
+tone up
+toned-down
+toned-up
+toned up
+tones-down
+tones-up
+tones up
+toning-down
+toning-up
+toning up
+took !DETERMINER new twist
+took up nitrogen
+tool temper
+tooled temper
+tooled tempers
+tooling temper
+tools temper
+torrefied
+torrefies
+torrefy
+torrefying
+totalizator
+totalizators
+totalize
+totalized
+totalizer
+totalizers
+totalizes
+totalizing
+totalizor
+totalizors
+touch-up
+toughen
+toughened
+toughening
+toughens
+toward !DETERMINER conglomeration
+toward conglomerations
+trade increase
+trade increases
+trade reduction
+trade reductions
+traditionalize
+traditionalized
+traditionalizes
+traditionalizing
+train to be !DETERMINER
+training to be !DETERMINER
+trains to be !DETERMINER
+tranquilize
+tranquilized
+tranquilizes
+tranquilizing
+tranquillize
+tranquillized
+tranquillizes
+tranquillizing
+transduce
+transduced
+transduces
+transducing
+transduction
+transductions
+transfiguration
+transfigurations
+transfigure
+transfigured
+transfigures
+transfiguring
+transform
+transform into
+transform into !DETERMINER
+transformation
+transformation of
+transformation of !DETERMINER
+transformational
+transformations
+transformations of
+transformations of !DETERMINER
+transformative
+transformative impact
+transformative impacts
+transformed
+transformed into
+transformed into !DETERMINER
+transformer
+transformers
+transforming
+transforming into
+transforming into !DETERMINER
+transforms
+transforms into
+transforms into !DETERMINER
+transistorize
+transistorized
+transistorizes
+transistorizing
+transition point
+transition points
+transmade
+transmake
+transmakes
+transmaking
+transmateriation
+transmateriations
+transmentation
+transmethylation
+transmethylations
+transmew
+transmewed
+transmewing
+transmews
+transmigure
+transmigured
+transmigures
+transmiguring
+transmodified
+transmodifies
+transmodify
+transmodifying
+transmogrification
+transmogrifications
+transmogrified
+transmogrifies
+transmogrify
+transmogrifying
+transmorphism
+transmorphisms
+transmould
+transmoulded
+transmoulding
+transmoulds
+transmue
+transmued
+transmues
+transmutability
+transmutable
+transmutably
+transmutation
+transmutations
+transmute
+transmuted
+transmutes
+transmuting
+transubstantiate
+transubstantiated
+transubstantiates
+transubstantiating
+transubstantiation
+transvalue
+transvalued
+transvalues
+transvaluing
+treansmentations
+treble !DETERMINER
+treble !POSSESSIVEPRONOUN
+trebled
+trebled !DETERMINER
+trebled !POSSESSIVEPRONOUN
+trebles !DETERMINER
+trebles !POSSESSIVEPRONOUN
+trebling
+trebling !DETERMINER
+trebling !POSSESSIVEPRONOUN
+trebly
+trend downward
+trend upwards
+trended downward
+trended upwards
+trending downward
+trending upwards
+trends downward
+trends upwards
+trichinize
+trichinized
+trichinizes
+trichinizing
+trim-up
+trim-ups
+trim !DETERMINER
+trim !POSSESSIVEPRONOUN
+trim her
+trim our
+trim to
+trim up
+trimmed
+trimmed !DETERMINER
+trimmed !POSSESSIVEPRONOUN
+trimmed !PRONOUNOBJECTIVE
+trimmed her
+trimmed our
+trimmed to
+trimmed up
+trimming !DETERMINER
+trimming !POSSESSIVEPRONOUN
+trimming !PRONOUNOBJECTIVE
+trimming her
+trimming our
+trimming to
+trimming up
+trims !DETERMINER
+trims !POSSESSIVEPRONOUN
+trims her
+trims our
+trims to
+trims up
+triple
+triple !DETERMINER
+tripled
+tripled !DETERMINER
+triples
+triples !DETERMINER
+triplication
+triplications
+tripling
+tripling !DETERMINER
+triturate !DETERMINER
+triturated !DETERMINER
+triturates !DETERMINER
+triturating !DETERMINER
+trituration
+triturations
+trolleyize
+trolleyized
+trolleyizes
+trolleyizing
+tropicalize
+tropicalized
+tropicalizes
+tropicalizing
+true up
+trued up
+trues up
+truing up
+truss up
+trussed up
+trusses up
+trussing up
+tubulate !DETERMINER
+tubulated !DETERMINER
+tubulates !DETERMINER
+tubulating !DETERMINER
+tune-down
+tune-off
+tune-up
+tune down
+tune off
+tune up
+tuned-down
+tuned-off
+tuned-up
+tuned down
+tuned off
+tuned up
+tunes-down
+tunes-off
+tunes-up
+tunes down
+tunes off
+tunes up
+tuning-down
+tuning-off
+tuning-up
+tuning down
+tuning off
+tuning up
+turn-around
+turn-arounds
+turn her into
+turn him into
+turn me into
+turn them into
+turn us into
+turn you into
+turnabout
+turnabouts
+turnaround
+turnarounds
+turned-back
+turned-down
+turned-in
+turned-off
+turned-out
+turned-over
+turned-up from
+turned-up to
+turning-point
+turning-points
+turnings
+turnover
+turnover in
+turnover of
+turnovers
+turnovers in
+turnovers of
+twofold
+underdrain
+underdrained
+underdraining
+underdrains
+undergo
+undergo !DETERMINER
+undergo !DETERMINER change
+undergo an eclipse
+undergo deprivation
+undergo diffusion
+undergo privation
+undergo schooling
+undergo treatment
+undergoes
+undergoes !DETERMINER
+undergoes !DETERMINER change
+undergoes an eclipse
+undergoes deprivation
+undergoes diffusion
+undergoes privation
+undergoes schooling
+undergoes treatment
+undergoing
+undergoing !DETERMINER
+undergoing !DETERMINER change
+undergoing an eclipse
+undergoing deprivation
+undergoing diffusion
+undergoing privation
+undergoing schooling
+undergoing treatment
+undergone !DETERMINER change
+underwent !DETERMINER
+underwent !DETERMINER change
+underwent an eclipse
+underwent change
+underwent deprivation
+underwent diffusion
+underwent privation
+underwent schooling
+underwent treatment
+undid
+undo
+undoes
+undoing !DETERMINER
+uniformize
+uniformized
+uniformizes
+uniformizing
+unijugate
+unijugates
+uninstall
+uninstalled
+uninstalling
+uninstalls
+unionise
+unionised
+unionises
+unionising
+unionization
+unionizations
+unionize
+unionized
+unionizes
+unionizing
+unite with
+united with
+unites with
+uniting with
+unitization
+unitizations
+unitize
+unitized !DETERMINER
+unitizes
+unitizing
+universalize
+universalized
+universalizes
+universalizing
+unlive
+unlived
+unlives
+unliving
+unmake !DETERMINER
+unmakes !DETERMINER
+unmaking !DETERMINER
+unpeople
+unpeopled !DETERMINER
+unpeoples
+unpeopling
+unsex !DETERMINER
+unsexed !DETERMINER
+unsexes !DETERMINER
+unsexing !DETERMINER
+unstaple
+unstapled !DETERMINER
+unstaples
+unstapling
+unstick
+unsticked
+unsticking
+unsticks
+unstiffen
+unstiffening
+unstiffens
+unstop
+unstop !DETERMINER
+unstopped !DETERMINER
+unstopper
+unstopper !POSSESSIVEPRONOUN ears
+unstopper !YOU ears
+unstopper my ears
+unstopper our ears
+unstoppered
+unstoppered !POSSESSIVEPRONOUN ears
+unstoppered !YOU ears
+unstoppered my ears
+unstoppered our ears
+unstoppering
+unstoppering !POSSESSIVEPRONOUN ears
+unstoppering !YOU ears
+unstoppering my ears
+unstoppering our ears
+unstoppers
+unstoppers !POSSESSIVEPRONOUN ears
+unstoppers !YOU ears
+unstoppers my ears
+unstoppers our ears
+unstopping
+unstopping !DETERMINER
+unstops
+unstops !DETERMINER
+unstuck !DETERMINER
+unsubstantialise
+unsubstantialize
+untongue-tied
+up-setter
+up-setters
+up-trending
+up into
+up trend
+up trends
+upsetter
+upsetters
+upsize
+upsized
+upsizes
+upsizing
+upsurge
+upsurges
+upswing
+upswings
+uptake
+uptakes
+uptaking
+urbanization
+urbanize
+urbanized !DETERMINER
+urbanizes
+urbanizing
+vacuolization
+vanishing fraction
+vanishing fractions
+vapor !DETERMINER
+vapored
+vaporescence
+vaporescent
+vaporific
+vaporing
+vaporize
+vaporized
+vaporizer
+vaporizers
+vaporizes
+vaporizing
+vapors !DETERMINER
+vassalize
+vassalized
+vassalizes
+vassalizing
+velarize
+velarized
+velarizes
+velarizing
+verbalization
+verbalizations
+vermiculate !DETERMINER
+vermiculated !DETERMINER
+vermiculates
+vermiculating
+vermiculation
+vermiculations
+vermination
+verminations
+vernalization
+vernalizations
+vernalize
+vernalized
+vernalizes
+vernalizing
+versification
+versifications
+versified
+versifier
+versifiers
+versifies
+versify
+versifying
+virescence
+vitrification
+vitrifications
+vitrified
+vitrifies
+vitrify
+vitrifying
+vitriolize
+vitriolized
+vitriolizes
+vitriolizing
+vivificate !DETERMINER
+vivificate !POSSESSIVEPRONOUN
+vivificated !DETERMINER
+vivificated !POSSESSIVEPRoNOUN
+vivificates !DETERMINER
+vivificates !POSSESSIVEPRONOUN
+vivificating !DETERMINER
+vivificating !POSSESSIVEPRONOUN
+vivification of
+vivifications of
+volcanize
+volcanized
+volcanizes
+volcanizing
+vowel mutation
+vowel mutations
+vulcanization
+vulcanize
+vulcanized
+vulcanizer
+vulcanizers
+vulcanizes
+vulcanizing
+vulgarisation
+vulgarisations
+vulgarise
+vulgarised
+vulgarises
+vulgarising
+vulgarization
+vulgarizations
+vulgarize
+vulgarized
+vulgarizes
+vulgarizing
+war boom
+war booms
+warm !DETERMINER blood
+Warm up
+warmed !DETERMINER blood
+Warmed up
+warming !DETERMINER blood
+Warming up
+warms !DETERMINER blood
+Warms up
+we're becoming
+wealth-getting
+wealth-yielding
+wealth getting
+wealth yielding
+wean off of
+weaned off of
+weaning off of
+weans off of
+weather-front formation
+weather-front formations
+weatherize
+weatherized
+weatherizes
+weatherizing
+weatherproof
+weatherproofed
+weatherproofing
+weatherproofs
+weigh-down
+weigh down
+weighed-down
+weighed down
+weighing-down
+weighing down
+weighs-down
+weighs down
+westernization
+westernizations
+westernize
+westernized
+westernizes
+westernizing
+whet !DETERMINER
+whets
+whets !DETERMINER
+whetted
+whetted !DETERMINER
+whetting
+whetting !DETERMINER
+whip her in
+whip herself into shape
+whip him in
+whip himself into shape
+whip into
+whip into !DETERMINER
+whip me in
+whip myself into shape
+whip ourselves into shape
+whip them in
+whip themselves into shape
+whip us in
+whip you in
+whip yourself into shape
+whipped her in
+whipped herself into shape
+whipped him in
+whipped himself into shape
+whipped into
+whipped into !DETERMINER
+whipped me in
+whipped myself into shape
+whipped ourselves into shape
+whipped them in
+whipped themselves into shape
+whipped us in
+whipped you in
+whipped yourself into shape
+whipping-up
+whipping her in
+whipping herself into shape
+whipping him in
+whipping himself into shape
+whipping into
+whipping into !DETERMINER
+whipping me in
+whipping myself into shape
+whipping ourselves into shape
+whipping them in
+whipping themselves into shape
+whipping up !DETERMINER
+whipping us in
+whipping you in
+whipping yourself into shape
+whips her in
+whips herself into shape
+whips him in
+whips himself into shape
+whips into
+whips into !DETERMINER
+whips me in
+whips myself into shape
+whips ourselves into shape
+whips them in
+whips themselves into shape
+whips us in
+whips you in
+whips yourself into shape
+whiten
+whitened
+whitening
+whitens
+widen
+widened
+widening
+widens
+wilting percentage
+wilting percentages
+win !DETERMINER battle
+win !DETERMINER bays
+wind up
+winding up
+winds up
+winning !DETERMINER battle
+winning !DETERMINER bays
+winnow-out
+winnow out
+winnowed-out
+winnowed out
+winnowing-out
+winnowing out
+wins !DETERMINER battle
+wins !DETERMINER bays
+winterization
+winterizations
+winterize
+winterized
+winterizes
+winterizing
+wise to
+wise up
+wise up !DETERMINER
+wise up !MOTIONPREP
+wise up !POSSESSIVEPRONOUN
+wise up !PRONOUNOBJECTIVE
+wise up about
+wised to
+wised up
+wised up !DETERMINER
+wised up !MOTIONPREP
+wised up !POSSESSIVEPRONOUN
+wised up !PRONOUNOBJECTIVE
+wised up about
+wises to
+wises up
+wises up !DETERMINER
+wises up !MOTIONPREP
+wises up !POSSESSIVEPRONOUN
+wises up !PRONOUNOBJECTIVE
+wises up about
+wising to
+wising up
+wising up !DETERMINER
+wising up !MOTIONPREP
+wising up !POSSESSIVEPRONOUN
+wising up !PRONOUNOBJECTIVE
+wising up about
+with !DETERMINER decreasing
+with !DETERMINER diversely growing
+with !DETERMINER growing
+with an increasing
+with carbonated
+with catalyzed
+wive
+wived
+wiving
+won !DETERMINER battle
+won !DETERMINER bays
+wooding
+Work up
+worked-up
+Worked up
+working-up
+Working up
+works-up
+Works up
+world-altering
+world-changing
+world-cleansing
+world-commanding
+world-connecting
+world-conquering
+world-constituted
+world-contracting
+world-controlling
+world-converting
+world-creating
+world-delivering
+world-directing
+world-discovering
+world-distributed
+world-dominating
+world-encircling
+world-enlarging
+world-enveloping
+world-expanding
+world-forming
+world-girdling
+world-governing
+world-joining
+world-leveling
+world-linking
+world-melting
+world-moving
+world-occupying
+world-ordering
+world-organizing
+world-overcoming
+world-overthrowing
+world-producing
+world-ruling
+world-uniting
+worm turns
+youthanize
+youthanized
+youthanizes
+youthanizing
+youthen
+youthening
+youthens
+zinced
+zincified
+zincing
+zincked
+zincking
+zincs

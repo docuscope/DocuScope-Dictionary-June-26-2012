@@ -1,0 +1,235 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!DECIDE for yourself
+!DECIDE if you !AUX to
+!DECIDE whether you !AUX to
+!QUESTION must be considered is that
+, consider
+, make sure to
+, note
+, note that
+, note the
+, observe that
+, so tell me
+, think of !DETERMINER
+, think of the
+. bear in mind
+. bear in mind that
+. consider
+. consider !DETERMINER
+. decide for yourself
+. imagine !DETERMINER
+. imagine that
+. just !DETERMINER reminder that
+. just imagine
+. just imagine !DETERMINER
+. keep in mind
+. keep in mind that
+. listen up
+. listen,
+. look above
+. look at it this way
+. look below
+. look for
+. look to
+. look, assume
+. look, consider
+. look, imagine
+. look, pretend
+. look, suppose
+. note !DETERMINER
+. note that
+. note the
+. note, though
+. notice !DETERMINER
+. notice !QUESTION
+. notice that
+. now consider
+. now suppose
+. observe that
+. picture !DETERMINER
+. picture in !YOU mind
+. picture to yourself
+. plan to
+. plan to be
+. so tell me
+. suppose !DETERMINER
+. suppose !QUESTION !YOU
+. suppose !YOU
+. suppose for !DETERMINER moment
+. suppose now
+. suppose that
+. supposing that
+. think !QUESTION !YOU
+. think !QUESTION it
+. think !QUESTION it !MAY
+. think !QUESTION it !MAY have
+. think !QUESTION it !MAY have been
+. think about
+. think about !DETERMINER
+. think about !QUESTION !YOU
+. think about !QUESTION to
+. think of
+. think of !DETERMINER
+. think of all
+. think of her
+. think of her as
+. think of him
+. think of him as
+. think of me
+. think of me as
+. think of myself
+. think of ourselves
+. think of the
+. think of them as
+. think of us
+. think of us as
+. think of yourself
+. think of yourselves as
+. this is just !DETERMINER reminder that
+. try to look at it this way
+. when you think of
+; so tell me
+assume you
+consider !DETERMINER
+consider !QUESTION
+consider !QUESTION it
+consider !QUESTION it !MAY
+consider !QUESTION it !MAY have
+consider !QUESTION it !MAY have been
+consider !YOU options
+consider as an example
+consider as an illustration
+consider as illustration
+consider by way of
+consider for
+consider for !DETERMINER moment
+consider for an example
+consider for an illustration
+consider for now
+consider now
+consider that
+consider the example
+consider the examples of
+consider this
+focus !YOU mind
+focus !YOU thoughts
+go figure
+go wonder
+I remind the reader
+imagine !DETERMINER
+imagine !YOU
+imagine !YOU in !POSSESSIVEPRONOUN place
+imagine !YOU in !POSSESSIVEPRONOUN shoes
+imagine for !DETERMINER moment
+imagine that !YOU
+imagine that we are
+imagine that you
+imagine that you are
+imagine this
+imagine yourself
+it cuts both ways
+it seems reasonable to assert
+it seems reasonable to conclude
+it seems reasonable to posit
+it seems reasonable to suppose
+it seems reasonable to think
+just consider !DETERMINER
+just imagine
+just imagine !DETERMINER
+just picture !DETERMINER
+just suppose
+just suppose !DETERMINER
+let's assume
+let's suppose
+let us assume
+let us consider
+let us imagine
+let us suppose
+look at the example
+look at the example of
+note, though
+note, though, that
+now assume that
+now consider
+now consider !DETERMINER
+now consider for !DETERMINER moment
+now consider that
+now imagine
+now imagine !DETERMINER
+now picture !DETERMINER
+now suppose
+now suppose !DETERMINER
+now suppose that
+one can imagine
+one has to pay attention to the fact
+one need only consider that
+one need only think of
+one should
+one should assert
+one should be able to
+one should be able to appreciate
+one should be able to realize
+one should be able to see that
+one should consider
+one should posit
+one should say
+one should suppose
+one should think
+one should think better of
+one should think better than to
+one should want
+picture in !YOU mind
+picture this
+please consider !QUESTION
+please consider that
+please note
+please note that
+pretend that !YOU
+pretend that we are
+pretend that you
+pretend that you are
+suppose !YOU
+suppose that !YOU
+suppose that we are
+suppose that you
+suppose that you are
+suppose this
+the most important thing to consider
+the most important thing to keep in mind
+the most important thing to note
+the most important thing to remember is
+the reader must keep in mind
+the reader must not forget
+the reader must remember
+the reader must remind him or herself
+the reader needs to keep in mind
+the thing to keep in mind is
+the thing to note is
+the thing to remember is
+we need to remind ourselves
+we note
+we remind the reader
+when you think about it
+when you think of
+you !CONTINGENTMODAL !DECIDE
+you !CONTINGENTMODAL !DECIDE if
+you !CONTINGENTMODAL !DECIDE on
+you !CONTINGENTMODAL argue
+you !CONTINGENTMODAL judge
+you !CONTINGENTMODAL judge on
+you may !DECIDE
+you may !DECIDE if
+you may !DECIDE on
+you may argue
+you may consider
+you may imagine
+you may judge
+you may judge on
+you may note
+you may notice
+you may suppose
+you may think
+you need only think about

@@ -1,0 +1,3901 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX DECIDING
+!AUX EXPECTING !DETERMINER
+!AUX FAMILIAR WITH
+!AUX FATHOMING
+!AUX HASHING OVER
+!AUX inattentive toward
+!AUX inattentive towards
+!AUX mesmerized
+!AUX SEEING TO IT THAT
+!AUX surprised
+!AUX thinking
+!AUX THINKING IT THROUGH
+!BEAR in mind
+!BRING to mind
+!BRING up memories
+!BRING up old memories
+!BUILD !DETERMINER sense
+!BUILD arguments
+!CALL before !DETERMINER mind's eye
+!CALL to !DETERMINER mind's eye
+!CALL to mind
+!CALL to notice
+!CANCOULD be dreaming up
+!CANCOULD count up
+!CANCOULD dream up
+!CANCOULD feel
+!CANCOULD feel !DETERMINER
+!CANCOULD gather that
+!CANCOULD image
+!CANCOULD imagine
+!CANCOULD only dream
+!CANCOULD picture
+!CANCOULD picture !DETERMINER
+!CANCOULD picture !POSSESSIVEPRONOUN
+!CANCOULD picture !PRONOUNOBJECTIVE
+!CANCOULD realize
+!CANCOULD seem
+!CANCOULD sense
+!CANCOULD sense !DETERMINER
+!CANCOULD speculate
+!CANCOULD want to
+!CARRY around in !POSSESSIVEPRONOUN head
+!CARRY in !POSSESSIVEPRONOUN thoughts
+!CARRY in your thoughts
+!CATCH !DETERMINER drift
+!CATCH !DETERMINER DRIFT from
+!CATCH !DETERMINER drift of
+!CATCH !DETERMINER drift of !DETERMINER
+!CATCH !DETERMINER reverie
+!CATCH !DETERMINER thought
+!CATCH !DETERMINER thoughts
+!CATCH !POSSESSIVEPRONOUN drift
+!CATCH !REFLEXIVEPRONOUN
+!CATCH in !DETERMINER reverie
+!CATCH on that
+!CATCH ON TO
+!CATCH our drift
+!CATCH wind
+!CATCH wind of
+!CATCH your drift
+!CLAIM  !POSSESSIVEPRONOUN mind
+!CLAIM  !POSSESSIVEPRONOUN thoughts
+!CLAIM !POSSESSIVEPRONOUN mind
+!CLAIM !POSSESSIVEPRONOUN thoughts
+!CLAIM your mind
+!CLAIM your thoughts
+!COME into !DETERMINER thinking
+!COME into !POSSESSIVEPRONOUN mind
+!COME into consciousness
+!COME out of !POSSESSIVEPRONOUN reverie
+!COME out of !POSSESSIVEPRONOUN trance
+!COME out of your reverie
+!COME out of your trance
+!COME to !DETERMINER focus
+!COME to mind
+!COME up with
+!COME up with !DETERMINER
+!CROSS !POSSESSIVEPRONOUN mind
+!CROSS !POSSESSIVEPRONOUN minds
+!CROSS !POSSESSIVEPRONOUN thoughts
+!CROSS our minds
+!CROSS your mind
+!DECIDE !DETERMINER !BAD
+!DECIDE !DETERMINER !GOOD
+!DETERMINER belief
+!DETERMINER concocted
+!DETERMINER conjured
+!DETERMINER conscious
+!DETERMINER consciousness
+!DETERMINER consciousness of
+!DETERMINER detached feeling
+!DETERMINER dome of thought
+!DETERMINER domes of thought
+!DETERMINER dream
+!DETERMINER dreams
+!DETERMINER dress of thought
+!DETERMINER dress of thoughts
+!DETERMINER dresses of thought
+!DETERMINER dresses of thoughts
+!DETERMINER memories
+!DETERMINER memory
+!DETERMINER mind
+!DETERMINER mind's eye
+!DETERMINER mind?s
+!DETERMINER MINDS
+!DETERMINER minds of
+!DETERMINER minds?
+!DETERMINER reckoning of
+!DETERMINER thinking
+!DETERMINER thinkings
+!DETERMINER thought
+!DETERMINER thought of
+!DETERMINER thought that
+!DETERMINER thoughts
+!DETERMINER view of
+!DETERMINER views of
+!DETERMINER WONDER OF
+!DROP from your thoughts
+!ENTER !POSSESSIVEPRONOUN MIND
+!ENTER !POSSESSIVEPRONOUN MINDS
+!ENTER !POSSESSIVEPRONOUN thinking
+!ENTER into !DETERMINER feelings of
+!ENTER into !DETERMINER spirit of
+!ENTER into !DETERMINER thought
+!ENTER into !POSSESSIVEPRONOUN views
+!ENTER into our views
+!ENTER into your views
+!ENTER with !DETERMINER will
+!ENTER your mind
+!FEEL
+!FEEL !DETERMINER
+!FEEL !DETERMINER way
+!FEEL !QUESTION
+!FEEL as if
+!FEEL IT IN !POSSESSIVEPRONOUN BONES
+!FEEL LIKE HAVING
+!FEEL of
+!FILL !POSSESSIVEPRONOUN head
+!FILL !POSSESSIVEPRONOUN heads
+!FIND !PRONOUNOBJECTIVE !DETERMINER
+!FIX !DETERMINER blame for
+!FIX !DETERMINER burden of
+!FIX !DETERMINER mind on
+!FIX !DETERMINER mind upon
+!FIX !DETERMINER thoughts on
+!FIX !DETERMINER thoughts upon
+!FIX !POSSESSIVEPRONOUN attention
+!FIX !POSSESSIVEPRONOUN gaze
+!FIX !POSSESSIVEPRONOUN mind
+!FIX !POSSESSIVEPRONOUN mind on
+!FIX !POSSESSIVEPRONOUN mind upon
+!FIX !POSSESSIVEPRONOUN position
+!FIX !POSSESSIVEPRONOUN thoughts
+!FIX !POSSESSIVEPRONOUN thoughts on
+!FIX !POSSESSIVEPRONOUN thoughts upon
+!FIX in !DETERMINER memory
+!FIX in !DETERMINER mind
+!FIX in memory
+!FIX ON
+!FIX upon
+!FIX your attention
+!FIX your gaze
+!FIX your mind on
+!FIX your mind upon
+!FIX your position
+!FIX your thoughts
+!FIX your thoughts on
+!FIX your thoughts upon
+!FLIRT WITH !DETERMINER thought
+!FORM !DETERMINER OPINION
+!GATHER !POSSESSIVEPRONOUN thoughts
+!GATHER that
+!GATHER that for yourself
+!GATHER to !REFLEXIVEPRONOUN
+!GATHER to yourself
+!GATHER your thoughts
+!GET !DETERMINER drift
+!GET !DETERMINER drift of
+!GET !DETERMINER feeling
+!GET !DETERMINER picture
+!GET !DETERMINER ROUGH IDEA ABOUT
+!GET !DETERMINER rough thought
+!GET !DETERMINER ROUGH thought ABOUT
+!GET !DETERMINER ROUGH thought OF
+!GET !POSSESSIVEPRONOUN drift
+!GET into !POSSESSIVEPRONOUN head
+!GET into !POSSESSIVEPRONOUN mind
+!GET into your grasp
+!GET into your head
+!GET it into !POSSESSIVEPRONOUN head
+!GET it into your head
+!GET it through !POSSESSIVEPRONOUN head
+!GET our drift
+!GET through !POSSESSIVEPRONOUN head
+!GET your drift
+!GIVE !DETERMINER feeling of
+!GIVE !DETERMINER feelings of
+!GIVE attention
+!GIVE attention to
+!GIVE it !DETERMINER lot of thought
+!GIVE it much thought
+!GO along with !DETERMINER idea
+!GO along with it
+!GO back to consider
+!GO back to rethink
+!GO through !POSSESSIVEPRONOUN head
+!GO through one's head
+!GO through your head
+!HAVE !DETERMINER clear
+!HAVE !DETERMINER clear destination
+!HAVE !DETERMINER clear destination in mind
+!HAVE !DETERMINER clear direction
+!HAVE !DETERMINER clear direction in mind
+!HAVE !DETERMINER clear goal
+!HAVE !DETERMINER clear goal in mind
+!HAVE !DETERMINER clear purpose
+!HAVE !DETERMINER clear purpose in mind
+!HAVE !DETERMINER clear reason
+!HAVE !DETERMINER clear reason in mind
+!HAVE !DETERMINER clear sense
+!HAVE !DETERMINER clear sense in mind
+!HAVE !DETERMINER clear thought
+!HAVE !DETERMINER clear thought in mind
+!HAVE !DETERMINER FEELING
+!HAVE !DETERMINER FEELING ABOUT
+!HAVE !DETERMINER FEELING THAT
+!HAVE !DETERMINER funny feeling
+!HAVE !DETERMINER hunch
+!HAVE !DETERMINER hunch about
+!HAVE !DETERMINER hunch that
+!HAVE !DETERMINER impression
+!HAVE !DETERMINER inkling
+!HAVE !DETERMINER intimation
+!HAVE !DETERMINER LOW-DOWN ON
+!HAVE !DETERMINER reverie
+!HAVE !DETERMINER ROUGH thought
+!HAVE !DETERMINER ROUGH thought ABOUT
+!HAVE !DETERMINER ROUGH thought OF
+!HAVE !DETERMINER thought
+!HAVE constructions on
+!HAVE in !POSSESSIVEPRONOUN head
+!HAVE in !POSSESSIVEPRONOUN mind
+!HAVE in contemplation
+!HAVE in mind
+!HAVE in mind that
+!HAVE in your head
+!HAVE in your mind
+!HAVE IT OFF !POSSESSIVEPRONOUN CHEST
+!HAVE IT ON !POSSESSIVEPRONOUN MIND
+!HAVE IT OUT OF !POSSESSIVEPRONOUN HEAD
+!HAVE IT OUT OF !POSSESSIVEPRONOUN MIND
+!HAVE more in mind
+!HAVE more in mind than
+!HAVE more in mind that
+!HAVE on !POSSESSIVEPRONOUN mind
+!HAVE on your mind
+!HAVE SOMETHING IN MIND
+!HAVE thoughts
+!HAVE thoughts about
+!HIT ON !DETERMINER thought
+!HIT upon
+!HIT upon !DETERMINER idea
+!HIT upon !DETERMINER notion
+!HIT upon !DETERMINER thought
+!HOLD !DETERMINER belief
+!HOLD !DETERMINER idea
+!HOLD !DETERMINER position
+!HOLD !DETERMINER thought
+!HOLD !DETERMINER view
+!HOLD fast to !DETERMINER idea
+!HOLD in !DETERMINER thoughts
+!HOLD in mind
+!KEEP !PRONOUNOBJECTIVE IN MIND
+!KEEP hoping
+!KEEP in mind
+!KEEP thinking
+!KICK about !DETERMINER thought
+!KICK around !DETERMINER thought
+!KICK around thought
+!LET !DETERMINER feeling
+!LET !DETERMINER feeling go
+!LET !POSSESSIVEPRONOUN imagination riot
+!LET !POSSESSIVEPRONOUN imagination run riot
+!LET !POSSESSIVEPRONOUN imagination run wild
+!LET !POSSESSIVEPRONOUN mind wander
+!LET !POSSESSIVEPRONOUN thoughts wander
+!LET that feeling
+!LET that feeling go
+!LOOK into
+!LOOK into !DETERMINER thought
+!LOSE in amazement
+!LOSE in thought
+!LOSE in wonder
+!LOSE to
+!LOSE to all sense of honor
+!LOSE to sight
+!LOSE to view
+!MAKE !DETERMINER mental note
+!MAKE !DETERMINER mental note of
+!MAKE !POSSESSIVEPRONOUN choices
+!MAKE !POSSESSIVEPRONOUN MIND UP
+!MAKE !POSSESSIVEPRONOUN selections
+!MAKE of it
+!MAKE up !POSSESSIVEPRONOUN mind
+!PICK up on the thought
+!POSSESSIVEPRONOUN AWARENESS OF
+!POSSESSIVEPRONOUN AWARENESS THAT
+!POSSESSIVEPRONOUN COGNIZANCE OF
+!POSSESSIVEPRONOUN focus on
+!POSSESSIVEPRONOUN imagination
+!POSSESSIVEPRONOUN imagining
+!POSSESSIVEPRONOUN imaginings
+!POSSESSIVEPRONOUN leaning
+!POSSESSIVEPRONOUN leanings
+!POSSESSIVEPRONOUN memories
+!POSSESSIVEPRONOUN memory
+!POSSESSIVEPRONOUN mind
+!POSSESSIVEPRONOUN minds
+!POSSESSIVEPRONOUN perception
+!POSSESSIVEPRONOUN perception that
+!POSSESSIVEPRONOUN perceptions
+!POSSESSIVEPRONOUN perceptions that
+!POSSESSIVEPRONOUN reckoning
+!POSSESSIVEPRONOUN RECOGNITION THAT
+!POSSESSIVEPRONOUN UNDERSTANDING
+!POSSESSIVEPRONOUN UNDERSTANDING OF
+!POSSESSIVEPRONOUN view of
+!POSSESSIVEPRONOUN views of
+!PRONOUNNOMINAL have in mind
+!PUT in !DETERMINER trance
+!PUT into thought
+!PUT it out of !POSSESSIVEPRONOUN minds
+!PUT it out of !POSSESSIVEPRONOUN thoughts
+!PUT it out of your mind
+!PUT it out of your thoughts
+!PUT out of !POSSESSIVEPRONOUN head
+!PUT out of !POSSESSIVEPRONOUN mind
+!PUT out of !POSSESSIVEPRONOUN thoughts
+!PUT out of your head
+!PUT out of your mind
+!PUT out of your thoughts
+!RAISE to mind
+!RUN in !DETERMINER head
+!RUN in !DETERMINER mind
+!RUN in !POSSESSIVEPRONOUN head
+!RUN in !POSSESSIVEPRONOUN mind
+!RUN in your head
+!RUN in your mind
+!RUN through !DETERMINER head
+!RUN through !DETERMINER mind
+!RUN through !POSSESSIVEPRONOUN head
+!RUN through !POSSESSIVEPRONOUN mind
+!RUN through !POSSESSIVEPRONOUN minds
+!RUN through your head
+!RUN through your mind
+!SEE !DETERMINER difference
+!SEE !DETERMINER distinction
+!SEE !DETERMINER dream
+!SEE !DETERMINER vision
+!SEE alone
+!SEE both side
+!SEE both sides
+!SEE both sides of !DETERMINER issue
+!SEE both sides of !DETERMINER question
+!SEE but
+!SEE but one of
+!SEE distinctively
+!SEE fit
+!SEE herself
+!SEE himself
+!SEE in !DETERMINER special light
+!SEE in !POSSESSIVEPRONOUN mind
+!SEE in one's mind
+!SEE in perspective
+!SEE in your mind
+!SEE into
+!SEE it
+!SEE it !AUX
+!SEE it !AUX !DETERMINER
+!SEE it !POSSESSIVEPRONOUN way
+!SEE it in !DETERMINER new light
+!SEE it in !DETERMINER special light
+!SEE it in its true colors
+!SEE it in perspective
+!SEE it your way
+!SEE nuance
+!SEE nuances
+!SEE only
+!SEE only one of
+!SEE only one side
+!SEE right through
+!SEE shades
+!SEE shades of
+!SEE themselves
+!SEE things
+!SEE through !DETERMINER
+!SEE through !PRONOUNOBJECTIVE
+!SEE through us
+!SEE through your
+!SEE visions
+!SEE visions and dreams
+!SEE WHETHER
+!SEE which way !DETERMINER cat jumps
+!SEE which way !DETERMINER land lies
+!SEE which way !DETERMINER wind blows
+!SEE with
+!SEE with half !DETERMINER eye
+!SET !POSSESSIVEPRONOUN mind
+!SET !POSSESSIVEPRONOUN mind about
+!SET !POSSESSIVEPRONOUN mind on
+!SET !POSSESSIVEPRONOUN mind upon
+!SET !POSSESSIVEPRONOUN thoughts on
+!SET your mind upon
+!SET your minds to
+!SET your thoughts on
+!STRIKE !DETERMINER mind
+!STRIKE !POSSESSIVEPRONOUN mind
+!STRIKE !PRONOUNOBJECTIVE as
+!STRIKE many of !PRONOUNOBJECTIVE as
+!STRIKE many of !YOU as
+!STRIKE many of us as
+!STRIKE on !DETERMINER thought
+!STRIKE some of !PRONOUNOBJECTIVE as
+!STRIKE some of !YOU as
+!STRIKE upon !DETERMINER thought
+!TAKE !DETERMINER decision
+!TAKE !DETERMINER thought
+!TAKE !DETERMINER WHILE TO SINK IN
+!TAKE !POSSESSIVEPRONOUN thought
+!TAKE cognizance of
+!TAKE IT SERIOUSLY
+!TAKE note
+!TAKE notice
+!TAKE thought of
+!TAKE up !POSSESSIVEPRONOUN thoughts
+!TAKE wind
+!TAKE wind of
+!THINK about
+!THINK that it !AUX
+!THINK that it !AUX !DETERMINER
+!THROW !POSSESSIVEPRONOUN thinking
+!THROW !POSSESSIVEPRONOUN thoughts
+!TURN !DETERMINER mind to
+!TURN !DETERMINER thoughts to
+!TURN !POSSESSIVEPRONOUN mind to
+!TURN !POSSESSIVEPRONOUN minds to
+!TURN !POSSESSIVEPRONOUN thoughts to
+!TURN of mind
+absorbed attention
+absorbed attentions
+absorbed in thought
+across !POSSESSIVEPRONOUN mind
+across your mind
+across your minds
+afterimage
+afterimages
+aftersensation
+aftersensations
+air castle
+air castles
+alone sees
+apparition
+apparitional
+apparitions
+apperceive
+apperceived
+apperceives
+apperceiving
+apperception
+appreciate !QUESTION
+appreciate how much
+appreciated !QUESTION
+appreciated how much
+APPRECIATED THAT
+appreciates !QUESTION
+appreciates how much
+appreciating !QUESTION
+appreciating how much
+APPREHEND THAT
+APPREHENDED THAT
+APPREHENDING THAT
+APPREHENDS THAT
+are inattentive toward
+are inattentive towards
+are surprised
+arose in !DETERMINER mind
+arose to mind
+arouse
+aroused
+arouses
+arousing
+ascertain
+ascertainable
+ascertainableness
+ascertainably
+ascertained
+ascertaining
+ascertainment
+ascertainments
+ascertains
+assume
+assumed
+assumedly
+assumes
+assuming
+assumption
+assumptions
+assumptive
+attention wandered
+awake !DETERMINER dead
+awake !DETERMINER doubt
+awake !DETERMINER echoes
+awake !DETERMINER suspicion
+awake to life immortal
+awaked !DETERMINER dead
+awaked !DETERMINER doubt
+awaked !DETERMINER echoes
+awaked !DETERMINER suspicion
+awaked to life immortal
+awaken !DETERMINER memory
+awaken !DETERMINER mind
+awaken !DETERMINER thought
+awaken !DETERMINER thoughts
+awakened !DETERMINER memory
+awakened !DETERMINER mind
+awakened !DETERMINER thought
+awakened !DETERMINER thoughts
+awakening !DETERMINER memory
+awakening !DETERMINER mind
+awakening !DETERMINER thought
+awakening !DETERMINER thoughts
+awakening in
+awakenings
+awakens !DETERMINER memory
+awakens !DETERMINER mind
+awakens !DETERMINER thought
+awakens !DETERMINER thoughts
+awakens in
+awakes
+awakes !DETERMINER dead
+awakes !DETERMINER doubt
+awakes !DETERMINER echoes
+awakes !DETERMINER suspicion
+awakes to life immortal
+awaking !DETERMINER dead
+awaking !DETERMINER doubt
+awaking !DETERMINER echoes
+awaking !DETERMINER suspicion
+awaking in
+awaking to life immortal
+aware
+aware of
+aware of !DETERMINER
+aware of !QUESTION
+aware that
+awareness
+awareness for
+awareness of
+awareness that
+awares
+awe-awakening
+awe-bound
+awe-commanding
+awe-compelling
+awe-filled
+awe-inspired
+awe-inspiring
+awe-inspiringly
+awe-stricken
+awe-strike
+awe-struck
+aweless
+awes
+bat about
+bat about !DETERMINER thought
+bat around
+bat around !DETERMINER thought
+bats about
+bats about !DETERMINER thought
+bats around
+bats around !DETERMINER thought
+batted about
+batted about !DETERMINER thought
+batted around
+batted around !DETERMINER thought
+batting about
+batting about !DETERMINER thought
+batting around
+batting around !DETERMINER thought
+BE COGNIZANT OF
+be feeling no pain
+be surprised
+be taken by surprise
+BEING UNDERSTOOD
+belie-ve
+belief
+BELIEF TO
+beliefs
+BELIEFS TO
+believe
+believe !PRONOUNOBJECTIVE to be
+believe anything
+believe at !DETERMINER drop of !DETERMINER hat
+believe it had
+believe it has
+BELIEVE THAT
+BELIEVE TO
+BELIEVED
+believed !PRONOUNOBJECTIVE to be
+believed it had
+BELIEVED THAT
+BELIEVED THAT TO
+BELIEVER TO
+BELIEVERS TO
+BELIEVES
+believes !PRONOUNOBJECTIVE to be
+believes it had
+believes it has
+BELIEVES THAT
+BELIEVES THAT TO
+BELIEVES TO
+BELIEVING
+believing !PRONOUNOBJECTIVE to be
+believing it has
+BELIEVING THAT
+BELIEVING THAT TO
+BELIEVING TO
+BELIVES
+BELIVES TO
+bend !DETERMINER mind
+bend !DETERMINER mind to
+bend !DETERMINER mind upon
+bend !DETERMINER thoughts to
+bend !POSSESSIVEPRONOUN thoughts to
+bend our mind
+bend our mind to
+bend our mind upon
+bend our thoughts to
+bend to your yoke
+bend your mind
+bend your mind to
+bend your mind upon
+bend your thoughts to
+bending !DETERMINER mind
+bending !DETERMINER mind to
+bending !DETERMINER mind upon
+bending !DETERMINER thoughts to
+bending !POSSESSIVEPRONOUN mind
+bending !POSSESSIVEPRONOUN mind to
+bending !POSSESSIVEPRONOUN mind upon
+bending !POSSESSIVEPRONOUN thoughts to
+bending our mind
+bending our mind to
+bending our mind upon
+bending our thoughts to
+bending your mind
+bending your mind to
+bending your mind upon
+bending your thoughts to
+bends !DETERMINER mind
+bends !DETERMINER mind to
+bends !DETERMINER mind upon
+bends !DETERMINER thoughts to
+bends !POSSESSIVEPRONOUN mind
+bends !POSSESSIVEPRONOUN mind to
+bends !POSSESSIVEPRONOUN mind upon
+bends !POSSESSIVEPRONOUN thoughts to
+bends our mind
+bends our mind to
+bends our mind upon
+bends our thoughts to
+bends your mind
+bends your mind to
+bends your mind upon
+bends your thoughts to
+bent !DETERMINER mind
+bent !DETERMINER mind to
+bent !DETERMINER mind upon
+bent !DETERMINER thoughts to
+bent !POSSESSIVEPRONOUN mind
+bent !POSSESSIVEPRONOUN mind to
+bent !POSSESSIVEPRONOUN mind upon
+bent !POSSESSIVEPRONOUN thoughts to
+bent our mind
+bent our mind to
+bent our mind upon
+bent our thoughts to
+bent your mind
+bent your mind to
+bent your mind upon
+bent your thoughts to
+BETHINK
+BETHINKING
+BETHINKS
+BETHOUGHT
+blank on
+blank out
+blanked on
+blanked out
+blanking on
+blanking out
+blanks on
+blanks out
+brainstorm
+brainstormed
+brainstorming
+brainstorms
+brood
+brood about
+brood over
+brooded
+brooded about
+brooded over
+brooding
+brooding about
+brooding over
+broods
+broods about
+broods over
+buried in thought
+burn into memory
+burned into memories
+burned into memory
+burning into memories
+burning into memory
+burns into memory
+burst upon !DETERMINER thought
+burst upon !DETERMINER view
+bursted upon !DETERMINER thought
+bursted upon !DETERMINER view
+bursting upon !DETERMINER thought
+bursting upon !DETERMINER view
+bursts upon !DETERMINER thought
+bursts upon !DETERMINER view
+by !POSSESSIVEPRONOUN reckoning
+calculate on
+calculate upon
+calculated on
+calculated upon
+calculates on
+calculates upon
+calculating on
+calculating upon
+carefully concocted
+cense that
+censed that
+censes that
+censing that
+cerebrate
+cerebrated
+cerebrates
+cerebrating
+cerebration
+chew !DETERMINER cud over
+chew !POSSESSIVEPRONOUN cud
+chew !POSSESSIVEPRONOUN cud over
+chew over
+chew your cud
+chew your cud over
+chewed !DETERMINER cud over
+chewed !POSSESSIVEPRONOUN cud
+chewed !POSSESSIVEPRONOUN cud over
+chewed over
+chewed your cud
+chewed your cud over
+chewing !DETERMINER cud over
+chewing !POSSESSIVEPRONOUN cud
+chewing !POSSESSIVEPRONOUN cud over
+chewing over
+chewing your cud
+chewing your cud over
+chews  !POSSESSIVEPRONOUN cud
+chews  !POSSESSIVEPRONOUN cud over
+chews !DETERMINER cud over
+chews over
+chews your cud
+chews your cud over
+chimera
+chimeras
+chimeric
+chimerical
+chimerically
+cleave to !DETERMINER line
+cleave to !DETERMINER thought
+cleave to !DETERMINER thought of
+cleaved to !DETERMINER line
+cleaved to !DETERMINER thought
+cleaved to !DETERMINER thought of
+cleaves to !DETERMINER line
+cleaves to !DETERMINER thought
+cleaves to !DETERMINER thought of
+cleaving to !DETERMINER line
+cleaving to !DETERMINER thought
+cleaving to !DETERMINER thought of
+cling to !DETERMINER belief
+cling to !DETERMINER hope
+cling to !DETERMINER idea
+cling to !DETERMINER notion
+cling to !DETERMINER thought
+clinging to !DETERMINER belief
+clinging to !DETERMINER hope
+clinging to !DETERMINER idea
+clinging to !DETERMINER notion
+clinging to !DETERMINER thought
+clings to !DETERMINER belief
+clings to !DETERMINER hope
+clings to !DETERMINER idea
+clings to !DETERMINER notion
+clings to !DETERMINER thought
+clung to !DETERMINER belief
+clung to !DETERMINER hope
+clung to !DETERMINER idea
+clung to !DETERMINER notion
+clung to !DETERMINER thought
+cogitable
+cogitate
+cogitated
+cogitates
+cogitating
+cogitation
+cogitations
+cogitative
+cogitator
+cogitators
+COGNIZANCE
+COGNIZANCE OF
+COGNIZANT
+COGNIZANT OF
+cognize
+cognizes
+cognizing
+collect !POSSESSIVEPRONOUN thoughts
+collect your thoughts
+collected !POSSESSIVEPRONOUN thoughts
+collected your thoughts
+collecting !POSSESSIVEPRONOUN thoughts
+collecting your thoughts
+collects !POSSESSIVEPRONOUN thoughts
+collects your thoughts
+commit !PRONOUNOBJECTIVE to
+commit to
+commitment to
+commitments to
+compass about
+compassed about
+compasses about
+compassing about
+compete for
+competed for
+competes for
+competing for
+COMPREHEND
+COMPREHEND THAT
+COMPREHEND THAT TO
+COMPREHEND TO
+comprehended
+COMPREHENDED THAT
+COMPREHENDED THAT TO
+COMPREHENDING
+COMPREHENDING THAT
+COMPREHENDING THAT TO
+COMPREHENDING TO
+comprehends
+COMPREHENDS THAT
+COMPREHENDS THAT TO
+COMPREHENDS to
+comprehension
+comprehension of
+comtemplativa
+conation
+conations
+conative
+conceivability
+conceivable that
+conceivableness
+CONCEIVE
+CONCEIVE THAT
+CONCEIVE THAT to
+CONCEIVE to
+CONCEIVED THAT
+CONCEIVED THAT to
+conceiver
+conceivers
+CONCEIVES
+CONCEIVES THAT
+CONCEIVES THAT to
+CONCEIVES to
+CONCEIVING
+CONCEIVING THAT
+CONCEIVING THAT to
+CONCEIVING to
+CONCENTRATE
+concentrate !DETERMINER mind
+concentrate !DETERMINER thoughts
+CONCENTRATE ON
+CONCENTRATE ON to
+CONCENTRATE to
+concentrate upon
+CONCENTRATED
+concentrated !DETERMINER mind
+concentrated !DETERMINER thoughts
+concentrated on
+CONCENTRATED ON to
+CONCENTRATED to
+concentrated upon
+CONCENTRATES
+concentrates !DETERMINER mind
+concentrates !DETERMINER thoughts
+CONCENTRATES ON
+CONCENTRATES ON to
+CONCENTRATES to
+concentrates upon
+CONCENTRATING
+concentrating !DETERMINER mind
+concentrating !DETERMINER thoughts
+concentrating on
+CONCENTRATING ON to
+CONCENTRATING to
+concentrating upon
+concentration on
+concentration wandered
+concentrations on
+concentrator
+concentrators
+CONCEPTION
+CONCEPTION to
+conceptional
+conceptions
+conceptive
+conceptualize
+conceptualized !DETERMINER thought
+conceptualized about
+conceptualizes
+conceptualizing
+concoct
+concocted about
+concocted from
+concocted with
+concocting
+concocts
+confabulate
+confabulated
+confabulates
+confabulating
+confabulation
+confabulations
+confabulator
+confabulators
+confabulatory
+CONJECTURE to
+CONJECTURED THAT to
+CONJECTURES to
+conjecturing
+conjuration
+conjurations
+conjure
+conjure !DETERMINER spirits
+conjure spirits
+conjure up
+conjure up !DETERMINER vision
+conjure up spirits
+conjured !DETERMINER spirits
+conjured about
+conjured from
+conjured spirits
+conjured up
+conjured up !DETERMINER vision
+conjured up spirits
+conjured with
+conjures
+conjures !DETERMINER spirits
+conjures spirits
+conjures up
+conjures up !DETERMINER vision
+conjures up spirits
+conjuring
+conjuring !DETERMINER spirits
+conjuring spirits
+conjuring up
+conjuring up !DETERMINER vision
+conscious
+CONSCIOUS ABOUT
+CONSCIOUS OF
+conscious of your place
+conscious self
+consciously
+consciousness
+consciousness of
+consider !REFLEXIVEPRONOUN
+CONSIDER to
+CONSIDERATION to
+CONSIDERATIONS to
+considered !REFLEXIVEPRONOUN
+CONSIDERED THAT to
+CONSIDERED to
+considering !REFLEXIVEPRONOUN
+considers !REFLEXIVEPRONOUN
+CONSIDERS THAT to
+CONSIDERS to
+conspectus
+conspectuses
+construct it as
+constructed it as
+constructing it as
+constructions on
+constructs it as
+construe
+construed about
+construed for
+construed from
+construed in
+construed on
+construed toward
+construed towards
+construed with
+construes
+construing
+contemplate !DETERMINER future
+contemplate !POSSESSIVEPRONOUN future
+CONTEMPLATE to
+contemplated !DETERMINER future
+contemplated !POSSESSIVEPRONOUN future
+CONTEMPLATED ON to
+CONTEMPLATED THAT to
+CONTEMPLATED to
+CONTEMPLATES THAT to
+CONTEMPLATES to
+CONTEMPLATING
+contemplation
+contemplations
+contemplative
+contemplatively
+contemplativeness
+contemplator
+contemplators
+control !POSSESSIVEPRONOUN anger
+control !POSSESSIVEPRONOUN emotions
+control !POSSESSIVEPRONOUN feelings
+control anger
+control feelings
+control moods
+controling !POSSESSIVEPRONOUN anger
+controling !POSSESSIVEPRONOUN emotions
+controling !POSSESSIVEPRONOUN feelings
+controlled !POSSESSIVEPRONOUN anger
+controlled !POSSESSIVEPRONOUN emotions
+controlled !POSSESSIVEPRONOUN feelings
+controls !POSSESSIVEPRONOUN anger
+controls !POSSESSIVEPRONOUN emotions
+controls !POSSESSIVEPRONOUN feelings
+convey !DETERMINER impression of
+conveyed !DETERMINER impression of
+conveying !DETERMINER impression of
+conveys !DETERMINER impression of
+conviction about
+conviction toward
+conviction towards
+convictions about
+convictions towards
+coquet with !DETERMINER thought
+coquets with !DETERMINER thought
+coquetted with !DETERMINER thought
+coquetting with !DETERMINER thought
+cotton on
+cottoned on
+cottoning on
+cottons on
+counted up
+counter-intuitive
+counter intuitive
+counting up
+counts up
+cushiony feeling
+DAWN ON
+dawn on !PRONOUNOBJECTIVE
+dawn upon !PRONOUNOBJECTIVE
+DAWNED ON
+dawned on !PRONOUNOBJECTIVE
+dawned upon !PRONOUNOBJECTIVE
+DAWNING ON
+dawning on !PRONOUNOBJECTIVE
+dawning upon !PRONOUNOBJECTIVE
+DAWNS ON
+dawns on !PRONOUNOBJECTIVE
+dawns upon !PRONOUNOBJECTIVE
+day-dream
+day-dreamed
+day-dreaming
+day-dreams
+day-mare
+day-mares
+daydream
+daydreamed
+daydreaming
+daydreams
+daymare
+daymares
+DECIDE
+DECIDE ON
+decided about
+decided concerning
+DECIDED in
+DECIDED ON
+DECIDED THAT
+decided toward
+decided towards
+decided with
+DECIDES
+DECIDES ON
+DECIDES THAT
+DECIDING
+DECIDING ON
+DECIDING THAT
+decision
+decisional
+decisions
+deep in contemplation
+deep in thought
+delineate in !DETERMINER imagination
+delineated in !DETERMINER imagination
+delineates in !DETERMINER imagination
+delineating in !DETERMINER imagination
+delirious from
+depths of thinking
+depths of thought
+DESIRE THAT
+DESIRED THAT
+DESIRES THAT
+desultory thoughts
+detached feeling
+detect
+detect !DETERMINER
+DETECT THAT
+detectably
+detected about
+detected at
+detected concerning
+detected for
+detected from
+detected in
+detected on
+DETECTED THAT
+detected with
+detectible
+DETECTING
+detecting !DETERMINER
+DETECTING THAT
+detection
+detections
+detects
+detects !DETERMINER
+DETECTS THAT
+devisal
+devisals
+devise
+devise !DETERMINER
+devise !POSSESSIVEPRONOUN
+devise !PRONOUNOBJECTIVE
+devise on
+devise with
+devised on
+devised with
+devised with !DETERMINER
+devised with !POSSESSIVEPRONOUN
+devised with !PRONOUNOBJECTIVE
+devises
+devises !DETERMINER
+devises !POSSESSIVEPRONOUN
+devises !PRONOUNOBJECTIVE
+devises on
+devises with
+devising
+devising !DETERMINER
+devising !POSSESSIVEPRONOUN
+devising !PRONOUNOBJECTIVE
+devising on
+devising with
+devisor
+devisors
+direct !DETERMINER mind
+direct !DETERMINER mind upon
+direct !POSSESSIVEPRONOUN mind
+direct !POSSESSIVEPRONOUN mind upon
+directed !DETERMINER mind
+directed !DETERMINER mind upon
+directed !POSSESSIVEPRONOUN mind
+directed !POSSESSIVEPRONOUN mind upon
+directing !DETERMINER mind
+directing !DETERMINER mind upon
+directing !POSSESSIVEPRONOUN mind
+directing !POSSESSIVEPRONOUN mind upon
+directs !DETERMINER mind
+directs !DETERMINER mind upon
+directs !POSSESSIVEPRONOUN mind
+directs !POSSESSIVEPRONOUN mind upon
+DISCERN
+discerned
+DISCERNS
+dismiss from !DETERMINER mind
+dismiss from !DETERMINER thoughts
+dismiss from !POSSESSIVEPRONOUN mind
+dismiss from !POSSESSIVEPRONOUN thoughts
+dismiss from your mind
+dismiss from your thoughts
+dismissed from !DETERMINER mind
+dismissed from !DETERMINER thoughts
+dismissed from !POSSESSIVEPRONOUN mind
+dismissed from !POSSESSIVEPRONOUN thoughts
+dismissed from your mind
+dismissed from your thoughts
+dismisses from !DETERMINER mind
+dismisses from !DETERMINER thoughts
+dismisses from !POSSESSIVEPRONOUN mind
+dismisses from !POSSESSIVEPRONOUN thoughts
+dismisses from your mind
+dismisses from your thoughts
+dismissing from !DETERMINER mind
+dismissing from !DETERMINER thoughts
+dismissing from !POSSESSIVEPRONOUN mind
+dismissing from !POSSESSIVEPRONOUN thoughts
+dismissing from your mind
+dismissing from your thoughts
+divert !DETERMINER mind
+divert !DETERMINER thoughts
+divert !POSSESSIVEPRONOUN attention
+divert !POSSESSIVEPRONOUN mind
+diverted !DETERMINER mind
+diverted !DETERMINER thoughts
+diverted !POSSESSIVEPRONOUN attention
+diverted !POSSESSIVEPRONOUN mind
+diverting !DETERMINER mind
+diverting !DETERMINER thoughts
+diverting !POSSESSIVEPRONOUN attention
+diverting !POSSESSIVEPRONOUN mind
+diverts !DETERMINER mind
+diverts !DETERMINER thoughts
+diverts !POSSESSIVEPRONOUN attention
+diverts !POSSESSIVEPRONOUN mind
+divine !DETERMINER
+divine !POSSESSIVEPRONOUN
+divine your
+divined !DETERMINER
+divined !POSSESSIVEPRONOUN
+divined your
+divines !DETERMINER
+divines !POSSESSIVEPRONOUN
+divines your
+divining !DETERMINER
+divining !POSSESSIVEPRONOUN
+divining your
+dome of thought
+dome of thoughts
+domes of thought
+domes of thoughts
+drawing into memory
+drawn into memory
+draws into memory
+dream
+dream about
+dream and vision
+dream of
+dream of !DETERMINER day
+dream that
+dreamed about
+dreamed of !DETERMINER
+dreamed of !DETERMINER day
+dreamed that
+dreamer
+dreamers
+dreaming about
+DREAMING OF !DETERMINER
+dreaming of !DETERMINER day
+dreaming that
+dreams about
+dreams and visions
+DREAMS OF !DETERMINER
+dreams of !DETERMINER day
+dreams that
+dreamt about
+DREAMT OF
+dreamt that
+dreamt up
+dreamworld
+dreamworlds
+drive from !POSSESSIVEPRONOUN thoughts
+drive from your thoughts
+drives from !POSSESSIVEPRONOUN thoughts
+drives from your thoughts
+driving from !POSSESSIVEPRONOUN thoughts
+driving from your thoughts
+drove from !POSSESSIVEPRONOUN thoughts
+drove from your thoughts
+drum it up
+drum up
+drum up !DETERMINER thought
+drum up something
+drummed it up
+drummed up
+drummed up !DETERMINER
+drummed up !DETERMINER thought
+drumming it up
+drumming up
+drumming up !DETERMINER thought
+drums it up
+drums up
+drums up !DETERMINER thought
+elect to
+elected to
+electing to
+electively
+elects to
+embalm in !DETERMINER memory
+embalm in memory
+embalmed in !DETERMINER memory
+embalmed in memory
+embalming in !DETERMINER memory
+embalming in memory
+embalms in !DETERMINER memory
+embalms in memory
+embrace !DETERMINER belief
+embrace !DETERMINER thought
+embrace reality
+embraced !DETERMINER belief
+embraced !DETERMINER thought
+embraced reality
+embraces !DETERMINER belief
+embraces !DETERMINER thought
+embraces reality
+embracing !DETERMINER belief
+embracing !DETERMINER thought
+embracing reality
+engage !DETERMINER mind
+engage !DETERMINER thoughts
+engage thought
+engaged !DETERMINER mind
+engaged !DETERMINER thoughts
+engaged in thought
+engages !DETERMINER mind
+engages !DETERMINER thoughts
+engaging !DETERMINER mind
+engaging !DETERMINER thoughts
+engaging in thought
+engross
+engross !DETERMINER mind
+engross !DETERMINER thoughts
+engross in
+engross in thought
+engrossed
+engrossed !DETERMINER mind
+engrossed !DETERMINER thoughts
+engrossed in
+engrossed in thought
+engrosses
+engrosses !DETERMINER mind
+engrosses !DETERMINER thoughts
+engrosses in
+engrosses in thought
+engrossing
+engrossing !DETERMINER mind
+engrossing !DETERMINER thoughts
+engrossing in
+engrossing in thought
+engrossment
+enquire
+enquired
+enquirer
+enquirers
+enquires
+enquiries
+enquiring
+enquiringly
+enquiry
+entertain !DETERMINER belief
+entertain !DETERMINER feeling
+entertain !DETERMINER inner man
+ENTERTAIN !DETERMINER thought
+entertain thought
+entertain thought of
+entertained !DETERMINER belief
+entertained !DETERMINER feeling
+entertained !DETERMINER inner man
+entertained !DETERMINER thought
+entertained thought
+entertained thought of
+entertaining !DETERMINER belief
+entertaining !DETERMINER feeling
+entertaining !DETERMINER inner man
+entertaining !DETERMINER thought
+entertaining thought
+entertaining thought of
+entertains !DETERMINER belief
+entertains !DETERMINER feeling
+entertains !DETERMINER inner man
+entertains !DETERMINER thought
+entertains thought
+entertains thought of
+enthrone !POSSESSIVEPRONOUN own
+envisioning !DETERMINER
+enwrap !DETERMINER thoughts
+enwrapped !DETERMINER thoughts
+enwrapped your attention
+enwrapping !DETERMINER thoughts
+enwraps !DETERMINER thoughts
+erase from !DETERMINER memory
+erase from !POSSESSIVEPRONOUN memory
+erase from your memory
+erased from !DETERMINER memory
+erased from !POSSESSIVEPRONOUN memory
+erased from your memory
+erases from !DETERMINER memory
+erases from !POSSESSIVEPRONOUN memory
+erases from your memory
+erasing from !DETERMINER memory
+erasing from !POSSESSIVEPRONOUN memory
+erasing from your memory
+evocating
+evocation
+evocations
+evocative
+evocatively
+evocativeness
+evoke
+evoke !DETERMINER feeling
+evoke !DETERMINER image
+evoke images
+evoked
+evoked !DETERMINER feeling
+evoked !DETERMINER image
+evoked images
+evokes
+evokes !DETERMINER feeling
+evokes !DETERMINER image
+evokes images
+evoking
+evoking !DETERMINER feeling
+evoking !DETERMINER image
+evoking images
+EXAMINATION OF
+EXPRESSED CURIOSITY ABOUT
+eye wander
+eyes wandered
+fade away from !DETERMINER memory
+fade like !DETERMINER dream
+faded away from !DETERMINER memory
+faded like !DETERMINER dream
+fades away from !DETERMINER memory
+fades like !DETERMINER dream
+fading away from !DETERMINER memory
+fading like !DETERMINER dream
+fancied
+fancied that
+fancies
+fancies that
+FANCIFUL
+fancifully
+fancifulness
+fancy that
+fancying
+fancying that
+fantasm
+FANTASY
+FANTASY !AUX
+fantom
+fantom-like
+fantom like
+fantomlike
+fantoms
+far from !DETERMINER thoughts
+far from !DETERMINER thoughts of
+FATHOM
+fathom deep within
+FATHOM HOW
+FATHOM THAT
+fathomable
+FATHOMED
+fathomed deep within
+FATHOMED HOW
+FATHOMED THAT
+FATHOMING
+fathoming deep within
+FATHOMING HOW
+FATHOMING THAT
+fathoms
+fathoms deep within
+FATHOMS HOW
+FATHOMS THAT
+feelingly
+feelings
+feelings of
+feelings of detachment
+feelings submerged
+feelings submersed
+feelings towards
+ferret
+FERRET OUT
+FERRET OUT OF !PRONOUNOBJECTIVE
+ferreted
+ferreted out
+FERRETED OUT OF !PRONOUNOBJECTIVE
+ferreting
+ferreting out
+FERRETING OUT OF !PRONOUNOBJECTIVE
+ferrets
+FERRETS OUT
+FERRETS OUT OF !PRONOUNOBJECTIVE
+FIGURE !PRONOUNOBJECTIVE OUT
+figure in !DETERMINER mind
+FIGURE IN !POSSESSIVEPRONOUN
+figure in !POSSESSIVEPRONOUN mind
+figure in your mind
+FIGURE ON
+FIGURE OUT
+FIGURE OUT HOW
+figure this out
+figure to !REFLEXIVEPRONOUN
+figure to yourself
+figure up
+FIGURED
+figured in !DETERMINER mind
+FIGURED IN !POSSESSIVEPRONOUN
+figured in !POSSESSIVEPRONOUN mind
+figured in your mind
+FIGURED OUT
+figured this out
+figured to !REFLEXIVEPRONOUN
+figured to yourself
+figured up
+FIGURES !PRONOUNOBJECTIVE OUT
+figures in !DETERMINER mind
+FIGURES IN !POSSESSIVEPRONOUN
+figures in !POSSESSIVEPRONOUN mind
+figures in your mind
+FIGURES ON
+FIGURES OUT
+FIGURES OUT HOW
+figures this out
+figures to !REFLEXIVEPRONOUN
+figures to yourself
+figures up
+FIGURING
+FIGURING !PRONOUNOBJECTIVE OUT
+figuring in !DETERMINER mind
+FIGURING IN !POSSESSIVEPRONOUN
+figuring in !POSSESSIVEPRONOUN mind
+figuring in your mind
+FIGURING ON
+FIGURING OUT
+FIGURING OUT HOW
+figuring this out
+figuring to !REFLEXIVEPRONOUN
+figuring to yourself
+figuring up
+file and forget
+filed and forgot
+files and forgets
+filing and forgetting
+finally sank in
+finally sink in
+finally sinking in
+finally sinks in
+fixate
+fixate on
+fixated
+fixated on
+fixates
+fixates on
+fixating
+fixating on
+fixation
+fixation on
+fixations
+fixations on
+flash across !DETERMINER mind
+flash across !POSSESSIVEPRONOUN mind
+flash across your mind
+flashed across !DETERMINER mind
+flashed across !POSSESSIVEPRONOUN mind
+flashed across your mind
+flashes across !DETERMINER mind
+flashes across !POSSESSIVEPRONOUN mind
+flashes across your mind
+flashing across !DETERMINER mind
+flashing across !POSSESSIVEPRONOUN mind
+flashing across your mind
+flight of ideas
+FLIGHTS OF !DETERMINER IMAGINATION
+FLIGHTS OF FANCY
+flow of ideas
+flow of thought
+flow of thoughts
+FLUMMOXED HOW
+focus !DETERMINER mind on
+focus !DETERMINER thoughts on
+focus !POSSESSIVEPRONOUN mind
+focus !POSSESSIVEPRONOUN minds
+focus !POSSESSIVEPRONOUN thought
+focus !POSSESSIVEPRONOUN thoughts
+focus attention
+focus on
+FOCUS ON !DETERMINER
+focus through
+focus through !DETERMINER
+focus upon
+focused !DETERMINER mind on
+focused !DETERMINER thoughts on
+focused !POSSESSIVEPRONOUN mind
+focused !POSSESSIVEPRONOUN minds
+focused !POSSESSIVEPRONOUN thought
+focused !POSSESSIVEPRONOUN thoughts
+focused attention
+FOCUSED IN THOUGHT
+FOCUSED IN THOUGHT to
+FOCUSED ON
+focused on !DETERMINER
+FOCUSED to
+focused upon
+focuses !DETERMINER mind on
+focuses !DETERMINER thoughts on
+focuses !POSSESSIVEPRONOUN mind
+focuses !POSSESSIVEPRONOUN minds
+focuses !POSSESSIVEPRONOUN thought
+focuses !POSSESSIVEPRONOUN thoughts
+focuses attention
+focuses on
+focuses on !DETERMINER
+focuses upon
+focusing !DETERMINER mind on
+focusing !DETERMINER thoughts on
+focusing !POSSESSIVEPRONOUN mind
+focusing !POSSESSIVEPRONOUN minds
+focusing !POSSESSIVEPRONOUN thought
+focusing !POSSESSIVEPRONOUN thoughts
+focusing attention
+FOCUSING ON
+focusing on !DETERMINER
+FOCUSING ON to
+focusing through
+focusing through !DETERMINER
+focusing upon
+force !POSSESSIVEPRONOUN  thoughts from
+force your thoughts from
+forced !POSSESSIVEPRONOUN thoughts from
+forced your thoughts from
+forces !POSSESSIVEPRONOUN thoughts from
+forces your thoughts from
+forcing !POSSESSIVEPRONOUN thoughts from
+forcing your thoughts from
+formication
+formications
+foster !DETERMINER belief
+foster !DETERMINER idea
+foster in !DETERMINER mind
+fostered !DETERMINER belief
+fostered !DETERMINER idea
+fostered in !DETERMINER mind
+fostering !DETERMINER belief
+fostering !DETERMINER idea
+fostering in !DETERMINER mind
+fosters !DETERMINER belief
+fosters !DETERMINER idea
+fosters in !DETERMINER mind
+free thought
+free thoughts
+from reveries
+funny feeling
+gain !DETERMINER impression
+gained !DETERMINER impression
+gaining !DETERMINER impression
+gains !DETERMINER impression
+gather that
+gathered that
+gathering that
+gathers that
+gauge that
+gauged that
+gauges that
+gauging that
+glean
+glean !POSSESSIVEPRONOUN
+gleaned
+gleaned !POSSESSIVEPRONOUN
+gleaning
+gleaning !POSSESSIVEPRONOUN
+gleaning of
+gleanings
+gleanings of
+gleanings of !POSSESSIVEPRONOUN
+gleanings that
+gleans
+glom
+glom on
+glom that
+glommed
+glommed on
+glommed that
+glomming
+glomming on
+glomming that
+gloms
+gloms on
+gloms that
+gone feeling
+gone feelings
+gone out of !POSSESSIVEPRONOUN recollection
+gone out of !POSSESSIVEPRONOUN recollections
+gone out of your recollection
+gone out of your recollections
+grab !DETERMINER thoughts
+grabbed !DETERMINER thoughts
+grabbing !DETERMINER thoughts
+grabs !DETERMINER thoughts
+grasp !DETERMINER meaning
+grasp !DETERMINER thought
+grasp mentally
+grasped !DETERMINER meaning
+grasped !DETERMINER thought
+grasped mentally
+grasping !DETERMINER meaning
+grasping !DETERMINER thought
+grasping mentally
+grasps !DETERMINER meaning
+grasps !DETERMINER thought
+grasps mentally
+grave it in !POSSESSIVEPRONOUN mind
+graved it in !POSSESSIVEPRONOUN mind
+graves it in !POSSESSIVEPRONOUN mind
+graving it in !POSSESSIVEPRONOUN mind
+GUESS THAT
+GUESSED THAT
+GUESSES THAT
+GUESSING THAT
+half-belief
+half-believed
+half-believing
+half believe
+half believed
+half believes
+half believing
+hallucinate
+hallucinated
+hallucinates
+hallucinating
+hallucination
+hallucinations
+hallucinatory
+hallucinosis
+hanker
+hanker after
+hankered
+hankered after
+hankerer
+hankerers
+hankering
+hankering after
+hankerings
+hankers
+hankers after
+harbor !DETERMINER design
+harbor !DETERMINER feeling
+harbor !DETERMINER idea
+harbor feeling
+harbored !DETERMINER design
+harbored !DETERMINER feeling
+harbored !DETERMINER idea
+harbored feeling
+harboring !DETERMINER design
+harboring !DETERMINER feeling
+harboring !DETERMINER idea
+harboring feeling
+harbors !DETERMINER design
+harbors !DETERMINER feeling
+harbors !DETERMINER idea
+harbors feeling
+HASHED IT OVER
+he can see himself
+he elects to
+he thinks
+he thought
+head-spinning
+heading-swimming
+hear that
+heard that
+hearing that
+hears that
+heavy thinking
+heavy thoughts
+HEED
+HEEDED
+HEEDING
+HEEDS
+held to !DETERMINER belief
+held to !DETERMINER idea
+held to !DETERMINER notion
+hep-on
+hep-to
+hep on
+hep to
+hepped
+hepped-to
+hepped on
+hepped to
+hepping
+hepping-to
+hepping to
+highly-colored imagination
+highly colored imagination
+hold to !DETERMINER belief
+hold to !DETERMINER idea
+hold to !DETERMINER notion
+holding to !DETERMINER belief
+holding to !DETERMINER idea
+holding to !DETERMINER notion
+holds to !DETERMINER belief
+holds to !DETERMINER idea
+holds to !DETERMINER notion
+hunch
+hypnoses
+hypnosis
+hypnotic
+hypnotic-trance
+hypnotic-trances
+hypnotic trance
+hypnotic trances
+hypnotically
+hypnotize
+hypnotized
+hypnotizes
+hypnotizing
+ideas !AUX gestating
+ideas gestated
+ideate
+ideated
+ideates
+ideating
+ideation
+ideations
+idiosyncrasies of thought
+idiosyncrasy of thought
+illusion
+illusions
+imageless thought
+imageless thoughts
+imaginable
+imaginarily
+imaginariness
+imaginary
+imagination
+imaginations
+imagine
+imagined
+IMAGINED THAT
+IMAGINES
+IMAGINES THAT
+imagining
+imagining of
+IMAGINING THAT
+imaginings
+imaginings of
+immerse in thought
+immersed in thought
+immerses in thought
+immersing in thought
+impinge on !DETERMINER consciousness
+impinge on !POSSESSIVEPRONOUN consciousness
+impinge on your consciousness
+impinged on !DETERMINER consciousness
+impinged on !POSSESSIVEPRONOUN consciousness
+impinged on your consciousness
+impinges on !DETERMINER consciousness
+impinges on !POSSESSIVEPRONOUN consciousness
+impinges on your consciousness
+impinging on !DETERMINER consciousness
+impinging on !POSSESSIVEPRONOUN consciousness
+impinging on your consciousness
+impression toward
+impression towards
+impressions toward
+impressions towards
+in !DETERMINER belief
+in !DETERMINER delirium
+in !DETERMINER dream
+in !DETERMINER idea
+in !DETERMINER imagination
+in !DETERMINER mediations
+in !DETERMINER meditation
+in !DETERMINER memories
+in !DETERMINER memory
+in !DETERMINER mind
+in !DETERMINER minds
+IN !DETERMINER MINDS OF
+in !DETERMINER prayer
+in !DETERMINER prayers
+in !DETERMINER reverie
+in !DETERMINER thinking
+in !DETERMINER thought
+in !DETERMINER thoughts
+in !DETERMINER trance
+in !POSSESSIVEPRONOUN estimation
+in !POSSESSIVEPRONOUN imagination
+in !POSSESSIVEPRONOUN memories
+in !POSSESSIVEPRONOUN memory
+in !POSSESSIVEPRONOUN own mind
+in !POSSESSIVEPRONOUN own minds
+in !POSSESSIVEPRONOUN thoughts
+in conception
+in conceptions
+in conceptions of
+in contemplating
+in contemplation
+in contemplation of
+in dreams
+in formulation
+in memory
+in mind
+in rapt attention
+in reflection
+in theory
+in thought
+in view of !DETERMINER thought
+in your memories
+in your memory
+in your own mind
+inclinable
+inclination
+inclinational
+inclinations
+incogitable
+incogitables
+infer
+inferred
+inferring
+infers
+infix in !POSSESSIVEPRONOUN mind
+infix in !POSSESSIVEPRONOUN minds
+infixed in !POSSESSIVEPRONOUN mind
+infixed in !POSSESSIVEPRONOUN minds
+infixes in !POSSESSIVEPRONOUN mind
+infixes in !POSSESSIVEPRONOUN minds
+infixing in !POSSESSIVEPRONOUN mind
+infixing in !POSSESSIVEPRONOUN minds
+inkle
+inkle of
+inkling
+inkling of
+inklings
+inklings of
+inly
+inmost
+inscribe in !DETERMINER memory
+inscribe in memory
+inscribe yourself
+inscribe yourselves
+inscribed !REFLEXIVEPRONOUN
+inscribed in !DETERMINER memory
+inscribed in memory
+inscribed yourself
+inscribed yourselves
+inscribes !REFLEXIVEPRONOUN
+inscribes in !DETERMINER memory
+inscribes in memory
+inscribes yourself
+inscribes yourselves
+inscribing !REFLEXIVEPRONOUN
+inscribing in !DETERMINER memory
+inscribing in memory
+inscribing yourself
+inscribing yourselves
+intellect
+intellection
+intellections
+intellective
+intellectively
+intellects
+intellectualization
+intellectualizations
+intellectualize
+intellectualized
+intellectualizes
+intellectualizing
+intellectually
+intellectualness
+INTEND THAT
+INTENDED THAT
+INTENDING THAT
+INTENDS THAT
+INTENT
+INTENT THAT
+INTENT UPON
+intention
+INTENTION THAT
+intentional
+intentionally
+intentioned
+intentions
+intently
+intentness
+intents
+interest wandered
+internal mind
+internal representation
+internal representations
+interpret
+interpretability
+interpretable
+interpretably
+interpretation
+interpretational
+interpretations
+interpretative
+interpretatively
+interpreted about
+interpreted for
+interpreted from
+interpreted in
+interpreted on
+interpreted to
+interpreted with
+interpreting
+interpretive
+interpretively
+interprets
+intimate knowledge
+intimate understanding
+intimist
+intimists
+into !DETERMINER mind
+into !DETERMINER mind of
+into !DETERMINER minds
+into !DETERMINER minds of
+into !POSSESSIVEPRONOUN memories
+into !POSSESSIVEPRONOUN memory
+into believing
+into thinking
+into your memories
+into your memory
+introspect
+introspected about
+introspected for
+introspected from
+introspected in
+introspected on
+introspected with
+introspecting
+introspection
+introspections
+introspective
+introspectively
+introspectiveness
+introspects
+intuit
+intuited about
+intuited at
+intuited for
+intuited from
+intuited on
+intuited through
+intuited with
+intuiting
+intuition
+intuitional
+intuitionism
+intuitions
+intuitive
+intuitively
+intuitiveness
+intuits
+inwardly
+inwardness
+it appears that
+it crossed  !POSSESSIVEPRONOUN mind
+it crossed !POSSESSIVEPRONOUN mind
+it crossed !POSSESSIVEPRONOUN minds
+it crossed our minds
+it crossed your mind
+it seemed
+it seems
+it seems that
+it thinks
+IT WAS MADE APPARENT TO
+it would appear that
+it would seem that
+jog !DETERMINER memories
+jog !DETERMINER memory
+jog !POSSESSIVEPRONOUN memories
+jog !POSSESSIVEPRONOUN memory
+jog memories
+jog memory
+jog your memories
+jog your memory
+jogged !DETERMINER memories
+jogged !DETERMINER memory
+jogged !POSSESSIVEPRONOUN memories
+jogged !POSSESSIVEPRONOUN memory
+jogged memories
+jogged memory
+jogged your memories
+jogged your memory
+jogging !DETERMINER memories
+jogging !DETERMINER memory
+jogging !POSSESSIVEPRONOUN memories
+jogging !POSSESSIVEPRONOUN memory
+jogging memories
+jogging memory
+jogging your memories
+jogging your memory
+jogs !DETERMINER memories
+jogs !DETERMINER memory
+jogs !POSSESSIVEPRONOUN memories
+jogs !POSSESSIVEPRONOUN memory
+jogs memories
+jogs memory
+jogs your memories
+jogs your memory
+judge
+judge !DETERMINER
+judge !POSSESSIVEPRONOUN
+judge !PRONOUNOBJECTIVE
+JUDGE THAT
+judged !DETERMINER
+judged !POSSESSIVEPRONOUN
+judged !PRONOUNOBJECTIVE
+JUDGED THAT
+judgement on
+judgements on
+judges
+judges !DETERMINER
+judges !POSSESSIVEPRONOUN
+judges !PRONOUNOBJECTIVE
+JUDGES THAT
+JUDGES WHETHER
+JUDGING
+judging !DETERMINER
+judging !POSSESSIVEPRONOUN
+judging !PRONOUNOBJECTIVE
+judging by
+JUDGING THAT
+JUDGING WHETHER
+JUDGMENT
+judgment on
+JUDGMENTS
+judgments on
+JUST HAVE THIS FEELING
+kenned
+kenning
+kens
+kick !DETERMINER thought around
+kicked !DETERMINER thought around
+kicking !DETERMINER thought around
+kicks !DETERMINER thought around
+knew of
+know of
+knowing of
+knows of
+LEAD TO !DETERMINER thought
+LEADING TO !DETERMINER thought
+LEADS TO !DETERMINER thought
+lean toward !DETERMINER thought
+leaned to
+leaned toward !DETERMINER thought
+leaning to
+leaning toward !DETERMINER thought
+leanings
+leanings toward
+leans toward !DETERMINER thought
+LED TO !DETERMINER thought
+left mesmerized
+LET IT SINK IN
+like !DETERMINER dream
+like dreams
+load !DETERMINER mind
+load !DETERMINER mind with
+load !POSSESSIVEPRONOUN mind
+load !POSSESSIVEPRONOUN mind with
+load !POSSESSIVEPRONOUN minds
+load !POSSESSIVEPRONOUN minds with
+load your mind
+load your mind with
+lodge in !DETERMINER mind
+lodge in !POSSESSIVEPRONOUN mind
+lodge in your mind
+lodged in !DETERMINER mind
+lodged in !POSSESSIVEPRONOUN mind
+lodged in your mind
+lodges in !DETERMINER mind
+lodges in !POSSESSIVEPRONOUN mind
+lodges in your mind
+lodging in !DETERMINER mind
+lodging in !POSSESSIVEPRONOUN mind
+lodging in your mind
+longed
+longing
+longings
+LOST IN !DETERMINER REVERIE
+LOST IN THOUGHT
+made delirious with
+MAKING !POSSESSIVEPRONOUN MIND UP
+marshal !POSSESSIVEPRONOUN thought
+marshal !POSSESSIVEPRONOUN thoughts
+marshal your thought
+marshal your thoughts
+marshaled !POSSESSIVEPRONOUN thought
+marshaled !POSSESSIVEPRONOUN thoughts
+marshaled your thought
+marshaled your thoughts
+marshaling !POSSESSIVEPRONOUN thought
+marshaling !POSSESSIVEPRONOUN thoughts
+marshaling your thought
+marshaling your thoughts
+marshals !POSSESSIVEPRONOUN thought
+marshals !POSSESSIVEPRONOUN thoughts
+marshals your thought
+marshals your thoughts
+master !POSSESSIVEPRONOUN feelings
+master your feelings
+mastered !POSSESSIVEPRONOUN feelings
+mastered your feelings
+mastering !POSSESSIVEPRONOUN feelings
+mastering your feelings
+masters !POSSESSIVEPRONOUN feelings
+masters your feelings
+may seem
+meditate
+meditate about
+meditate on
+meditate over
+meditate upon
+meditated
+meditated about
+meditated on
+meditated over
+meditated upon
+meditates
+meditates about
+meditates on
+meditates over
+meditates upon
+meditating
+meditating about
+meditating on
+meditating over
+meditating upon
+meditation
+meditations
+meditations about
+meditations on
+meditative
+meditatively
+memoried
+memorization
+memorizations
+memorize
+memorized
+memorizes
+memorizing
+memory
+mental
+mental-effort
+mental-efforts
+mental-image
+mental-impression
+mental-impressions
+mental-labor
+mental-labors
+mental-linking
+mental-linkings
+mental-object
+mental-objects
+mental-outlook
+mental-outlooks
+mental-picture
+mental-pictures
+mental-poise
+mental-presentation
+mental-presentations
+mental-process
+mental-processes
+mental-representation
+mental-representations
+mental-set
+mental-sets
+mental effort
+mental efforts
+mental grasp
+mental grasps
+mental image
+mental images
+mental impression
+mental impressions
+mental labor
+mental labors
+mental linking
+mental linkings
+mental note
+mental notes
+mental outlook
+mental outlooks
+mental picture
+mental pictures
+mental poise
+mental presentation
+mental presentations
+mental process
+mental processes
+mental representation
+mental representations
+mental set
+mentalities
+mentality
+mentality of
+mentally
+mentally-grasped
+mentally grasp
+mentally grasped
+mentally grasping
+mentally grasps
+mentally note
+mentally noted
+mentally notes
+mentally noting
+mentally represent
+mentally represented
+mentally represents
+mentis
+mesmeric
+mesmerism
+mesmerisms
+mesmerize
+mesmerized
+mesmerizes
+mesmerizing
+mezmorize
+mezmorized
+mezmorizes
+mezmorizing
+might seem
+might want to
+mind's
+mind's-eye
+mind's eye
+mind's eyes
+mind-eye
+mind-set
+mind-sets
+mind !AUX wondering
+mind of !POSSESSIVEPRONOUN own
+mind of your own
+mind out
+minded !POSSESSIVEPRONOUN own
+minded out
+minded your own
+mindful about
+mindful of
+MINDFUL THAT
+mindful to
+minding of !POSSESSIVEPRONOUN own
+minding of your own
+minding out
+minds'
+minds'-eye
+minds of !POSSESSIVEPRONOUN own
+minds of your own
+minds out
+minds wandered
+minds?
+MOST FIND !PRONOUNOBJECTIVE
+much-engrossed
+much-pondering
+much engrossed
+much pondering
+MULL
+MULL OVER
+MULLED OVER
+MULLING
+MULLING OVER
+MULLS
+MULLS OVER
+MUSE
+MUSE ABOUT
+muse on
+muse on other things
+MUSE OVER
+muse upon
+mused
+mused about
+mused on
+mused on other things
+mused upon
+muses
+muses on
+muses upon
+musical thought
+musical thoughts
+MUSING
+musing about
+musing on
+musing on other things
+musing upon
+musingly
+musings
+mystical experience
+mystical experiences
+mystical intuition
+mystical intuitions
+natural impulse
+natural impulses
+natural instinct
+natural instincts
+needed to let it sink in
+needing to let it sink in
+negative hallucination
+negative hallucinations
+not attending to
+not to be attending to
+note down
+noted down
+notes down
+NOTICE
+notice that
+noticed about
+noticed at
+noticed concerning
+noticed for
+noticed from
+noticed in
+NOTICED on
+noticed that
+noticed with
+NOTICES
+notices that
+NOTICING
+NOTICING THAT
+noticting that
+NOTING
+noting down
+notion
+notional
+notionally
+notions
+numb feeling
+numb feelings
+nurse !DETERMINER idea
+nursed !DETERMINER idea
+nurses !DETERMINER idea
+nursing !DETERMINER idea
+nurture !DETERMINER belief
+nurture !DETERMINER feeling
+nurture !DETERMINER hope
+nurture !DETERMINER idea
+nurture feelings
+nurtured !DETERMINER belief
+nurtured !DETERMINER feeling
+nurtured !DETERMINER hope
+nurtured !DETERMINER idea
+nurtured feelings
+nurtures !DETERMINER belief
+nurtures !DETERMINER feeling
+nurtures !DETERMINER hope
+nurtures !DETERMINER idea
+nurtures feelings
+nurturing !DETERMINER belief
+nurturing !DETERMINER feeling
+nurturing !DETERMINER hope
+nurturing !DETERMINER idea
+nurturing feelings
+occupied !DETERMINER attention
+occupied !DETERMINER mind
+occupied !DETERMINER mind with
+occupied !DETERMINER thoughts
+occupied !DETERMINER thoughts with
+occupied !POSSESSIVEPRONOUN attention
+occupied !POSSESSIVEPRONOUN mind
+occupied !POSSESSIVEPRONOUN mind with
+occupied !POSSESSIVEPRONOUN minds
+occupied !POSSESSIVEPRONOUN minds with
+occupied !POSSESSIVEPRONOUN thoughts
+occupied !POSSESSIVEPRONOUN thoughts with
+occupied our attention
+occupied our mind
+occupied our mind with
+occupied our minds
+occupied our minds with
+occupied our thoughts
+occupied our thoughts with
+occupied your attention
+occupied your mind
+occupied your mind with
+occupied your thoughts
+occupied your thoughts with
+occupies !DETERMINER attention
+occupies !DETERMINER mind
+occupies !DETERMINER mind with
+occupies !DETERMINER thoughts
+occupies !DETERMINER thoughts with
+occupies !POSSESSIVEPRONOUN attention
+occupies !POSSESSIVEPRONOUN mind
+occupies !POSSESSIVEPRONOUN mind with
+occupies !POSSESSIVEPRONOUN minds
+occupies !POSSESSIVEPRONOUN minds with
+occupies !POSSESSIVEPRONOUN thoughts
+occupies !POSSESSIVEPRONOUN thoughts with
+occupies our attention
+occupies our mind
+occupies our mind with
+occupies our thoughts
+occupies our thoughts with
+occupies your attention
+occupies your mind
+occupies your mind with
+occupies your thoughts
+occupies your thoughts with
+occupy !DETERMINER attention
+occupy !DETERMINER mind
+occupy !DETERMINER mind with
+occupy !DETERMINER thoughts
+occupy !DETERMINER thoughts with
+occupy !POSSESSIVEPRONOUN attention
+occupy !POSSESSIVEPRONOUN mind
+occupy !POSSESSIVEPRONOUN mind with
+occupy !POSSESSIVEPRONOUN minds
+occupy !POSSESSIVEPRONOUN minds with
+occupy !POSSESSIVEPRONOUN thoughts
+occupy !POSSESSIVEPRONOUN thoughts with
+occupy our attention
+occupy our mind
+occupy our mind with
+occupy our minds
+occupy our thoughts
+occupy our thoughts with
+occupy your attention
+occupy your mind
+occupy your mind with
+occupy your thoughts
+occupy your thoughts with
+occupying !DETERMINER attention
+occupying !DETERMINER mind
+occupying !DETERMINER mind with
+occupying !DETERMINER thoughts
+occupying !DETERMINER thoughts with
+occupying !POSSESSIVEPRONOUN attention
+occupying !POSSESSIVEPRONOUN mind
+occupying !POSSESSIVEPRONOUN mind with
+occupying !POSSESSIVEPRONOUN minds
+occupying !POSSESSIVEPRONOUN minds with
+occupying !POSSESSIVEPRONOUN thoughts
+occupying !POSSESSIVEPRONOUN thoughts with
+occupying our attention
+occupying our mind
+occupying our mind with
+occupying our minds
+occupying our thoughts
+occupying our thoughts with
+occupying your attention
+occupying your mind
+occupying your mind with
+occupying your thoughts
+occupying your thoughts with
+OCCUR TO
+occur to !DETERMINER mind
+occur to !POSSESSIVEPRONOUN mind
+occur to !POSSESSIVEPRONOUN minds
+occur to !PRONOUNOBJECTIVE
+OCCURED TO
+occurred to
+occurred to !DETERMINER mind
+occurred to !POSSESSIVEPRONOUN mind
+occurred to !POSSESSIVEPRONOUN minds
+occurred to !PRONOUNOBJECTIVE
+occurred to your mind
+OCCURRING TO
+occurring to !DETERMINER mind
+occurring to !POSSESSIVEPRONOUN mind
+occurring to !POSSESSIVEPRONOUN minds
+occurring to !PRONOUNOBJECTIVE
+occurring to your mind
+occurs to
+occurs to !DETERMINER mind
+occurs to !POSSESSIVEPRONOUN mind
+occurs to !POSSESSIVEPRONOUN minds
+occurs to !PRONOUNOBJECTIVE
+occurs to your mind
+of !DETERMINER imagination
+of !DETERMINER memories
+of !DETERMINER memory
+of detachment
+of feeling
+of imagination
+of thinking
+of thought
+of thoughts
+off-center thinking
+off-center thought
+off-center thoughts
+old memories
+old memory
+ON !DETERMINER MIND
+ON !DETERMINER MIND OF
+on !DETERMINER thought of
+on !POSSESSIVEPRONOUN mind
+on !POSSESSIVEPRONOUN minds
+on further reflection
+on our mind
+on our minds
+on reflection
+one's self
+oneiric
+or so it seems
+out in !POSSESSIVEPRONOUN reckoning
+out in your reckoning
+out of !DETERMINER mind
+out of !DETERMINER minds
+paid heed
+paid heed to
+paid mind to
+paid strict attention
+palpably feel
+palpably feeling
+palpably feels
+palpably felt
+partial awareness
+partly aware
+pass in !DETERMINER mind
+pass in !DETERMINER thoughts
+pass through !POSSESSIVEPRONOUN head
+pass through !POSSESSIVEPRONOUN heads
+pass through !POSSESSIVEPRONOUN mind
+pass through !POSSESSIVEPRONOUN minds
+pass through your head
+pass through your mind
+passed in !DETERMINER mind
+passed in !DETERMINER thoughts
+passed through !POSSESSIVEPRONOUN head
+passed through !POSSESSIVEPRONOUN heads
+passed through !POSSESSIVEPRONOUN mind
+passed through !POSSESSIVEPRONOUN minds
+passed through your head
+passed through your mind
+passes in !DETERMINER mind
+passes in !DETERMINER thoughts
+passes through !POSSESSIVEPRONOUN head
+passes through !POSSESSIVEPRONOUN heads
+passes through !POSSESSIVEPRONOUN mind
+passes through !POSSESSIVEPRONOUN minds
+passes through your head
+passes through your mind
+passing in !DETERMINER mind
+passing in !DETERMINER thoughts
+passing through !POSSESSIVEPRONOUN head
+passing through !POSSESSIVEPRONOUN heads
+passing through !POSSESSIVEPRONOUN mind
+passing through !POSSESSIVEPRONOUN minds
+passing through your head
+passing through your mind
+pay heed
+pay heed to
+pay mind to
+pay strict attention
+paying heed
+paying heed to
+paying mind to
+paying strict attention
+pays heed
+pays heed to
+pays mind to
+pays strict attention
+peg !PRONOUNOBJECTIVE for
+pegged !PRONOUNOBJECTIVE for
+pegging !PRONOUNOBJECTIVE for
+penchant
+penchants
+penetrate into !DETERMINER mind
+penetrated into !DETERMINER mind
+penetrates into !DETERMINER mind
+penetrating into !DETERMINER mind
+pensive
+pensively
+pensiveness
+pent-up in !DETERMINER memories
+pent-up in !DETERMINER memory
+pent-up in !POSSESSIVEPRONOUN memory
+pent-up in memory
+pent-up in your memories
+pent-up in your memory
+pent up in memories
+perceivable
+perceivably
+perceive
+PERCEIVE THAT
+PERCEIVED
+PERCEIVED THAT
+perceiver
+perceivers
+PERCEIVES
+PERCEIVES THAT
+PERCEIVING
+PERCEIVING THAT
+percept
+perceptibility
+perceptible
+perceptibly
+perception
+perception of
+perception that
+perceptional
+perceptions
+perceptions of
+perceptions that
+percepts
+perceptual
+perceptually
+perpend
+perpended
+perpending
+perpends
+perplex
+perplex about
+perplexes
+perplexes about
+phantasm
+phantasma
+phantasmagoria
+phantasmagorias
+phantasmagoric
+phantasmagory
+phantasmal
+phantasmals
+phantasmic
+phantasms
+phantasy
+phantom
+phantom-like
+phantom like
+phantom of !DETERMINER mind
+phantomlike
+phantoms
+phantoms of !DETERMINER mind
+philosophies
+philosophize
+philosophize about
+philosophized about
+philosophized about !DETERMINER
+philosophizes
+philosophizes about
+philosophizing
+philosophizing about
+physical desire
+physical desires
+physical longing
+physical longings
+picture !DETERMINER
+picture !POSSESSIVEPRONOUN
+picture !PRONOUNOBJECTIVE
+picture in !POSSESSIVEPRONOUN mind
+picture in !POSSESSIVEPRONOUN minds
+picture to herself
+picture to himself
+picture to themselves
+pictured in !POSSESSIVEPRONOUN mind
+pictured in !POSSESSIVEPRONOUN minds
+pictured to herself
+pictured to himself
+pictured to themselves
+pictures !DETERMINER
+pictures !POSSESSIVEPRONOUN
+pictures !PRONOUNOBJECTIVE
+pictures in !POSSESSIVEPRONOUN mind
+pictures in !POSSESSIVEPRONOUN minds
+pictures to herself
+pictures to himself
+pictures to themselves
+picturing !DETERMINER
+picturing !POSSESSIVEPRONOUN
+picturing !PRONOUNOBJECTIVE
+picturing in !POSSESSIVEPRONOUN mind
+picturing in !POSSESSIVEPRONOUN minds
+picturing to herself
+picturing to himself
+picturing to themselves
+pop in !POSSESSIVEPRONOUN head
+pop in !POSSESSIVEPRONOUN heads
+pop in my head
+pop in your head
+pop into !POSSESSIVEPRONOUN head
+pop into your head
+popped in !POSSESSIVEPRONOUN head
+popped in !POSSESSIVEPRONOUN heads
+popped in my head
+popped in your head
+popped into !POSSESSIVEPRONOUN head
+popped into your head
+popping in !POSSESSIVEPRONOUN head
+popping in !POSSESSIVEPRONOUN heads
+popping in my head
+popping in your head
+popping into !POSSESSIVEPRONOUN head
+popping into your head
+pops in !POSSESSIVEPRONOUN head
+pops in !POSSESSIVEPRONOUN heads
+pops in my head
+pops in your head
+pops into !POSSESSIVEPRONOUN head
+pops into your head
+portray in !DETERMINER mind
+portrayed in !DETERMINER mind
+portraying in !DETERMINER mind
+portrays in !DETERMINER mind
+pray that
+prayed that
+praying that
+prays that
+preconception
+preconceptions
+PREFER
+prefer that
+preferred that
+preferred to believe
+PREFERRED TO think
+PREFERRING
+preferring that
+PREFERS
+prefers that
+prehension of
+prehensions of
+preoccupation
+preoccupations
+preoccupied
+preoccupies
+preoccupy
+preoccupying
+prepossess by
+prepossess with
+prepossessed by
+prepossessed with
+prepossesses by
+prepossesses with
+prepossessing by
+prepossessing with
+prepossession by
+prepossession with
+prepossessions by
+prepossessions with
+prescind
+prescinded
+prescinding
+prescinds
+present itself to !DETERMINER mind
+present itself to !DETERMINER thoughts
+present to !DETERMINER mind
+presented itself to !DETERMINER mind
+presented itself to !DETERMINER thoughts
+presented to !DETERMINER mind
+presenting itself to !DETERMINER mind
+presenting itself to !DETERMINER thoughts
+presenting to !DETERMINER mind
+presents itself to !DETERMINER mind
+presents itself to !DETERMINER thoughts
+presents to !DETERMINER mind
+pretend
+pretend that
+pretended
+pretended that
+pretending
+pretending that
+pretends
+pretends that
+privacies
+private aim
+private aims
+private consideration
+private considerations
+private fabrication
+private fabrications
+private judgment
+private judgments
+private knowledge
+private knowledges
+private matter
+private matters
+private understanding
+private understandings
+proclivities
+proclivity
+push from !POSSESSIVEPRONOUN thoughts
+push from your thoughts
+PUSH IT OUT OF !POSSESSIVEPRONOUN HEAD
+PUSH IT OUT OF !POSSESSIVEPRONOUN MIND
+pushed from !POSSESSIVEPRONOUN thoughts
+pushed from your thoughts
+pushes from !POSSESSIVEPRONOUN thoughts
+pushes from your thoughts
+pushing from !POSSESSIVEPRONOUN thoughts
+pushing from your thoughts
+race through !DETERMINER mind
+RACE THROUGH !POSSESSIVEPRONOUN MIND
+race through your mind
+raced through !DETERMINER mind
+RACED THROUGH !POSSESSIVEPRONOUN MIND
+raced through your mind
+races through !DETERMINER mind
+RACES THROUGH !POSSESSIVEPRONOUN MIND
+races through your mind
+racing through !DETERMINER mind
+racing through !POSSESSIVEPRONOUN mind
+racing through our mind
+racing through your mind
+RACK !POSSESSIVEPRONOUN BRAIN
+RACKED !POSSESSIVEPRONOUN BRAIN
+RACKING !POSSESSIVEPRONOUN BRAIN
+RACKS !POSSESSIVEPRONOUN BRAIN
+ratiocinate
+ratiocinated
+ratiocinates
+ratiocinating
+ratiocination
+ratiocinations
+ratiocinative
+rationalize
+rationalized
+rationalizes
+rationalizing
+reach !DETERMINER decision
+reach !POSSESSIVEPRONOUN decision
+REACH FOR !DETERMINER ANSWER
+reach our decision
+reached !DETERMINER decision
+reached !POSSESSIVEPRONOUN decision
+REACHED FOR !DETERMINER ANSWER
+reached our decision
+reaches !DETERMINER decision
+reaches !POSSESSIVEPRONOUN decision
+REACHES FOR !DETERMINER ANSWER
+reaches our decision
+reaching !DETERMINER decision
+reaching !POSSESSIVEPRONOUN decision
+REACHING FOR !DETERMINER ANSWER
+reaching our decision
+READING !POSSESSIVEPRONOUN MIND
+READS !POSSESSIVEPRONOUN MIND
+realization
+REALIZATION HAVING TO DO WITH
+REALIZATION THAT
+realizations
+REALIZATIONS HAVING TO DO WITH
+REALIZATIONS THAT
+REALIZE
+realized about
+realized for
+realized from
+REALIZED in
+realized on
+realized to
+realized with
+REALIZES
+REALIZING
+recall having
+recall knowledge of
+recall to mind
+recalled having
+recalled knowledge of
+recalled to mind
+recalling having
+recalling to mind
+recalls having
+recalls knowledge of
+recalls to mind
+receive !DETERMINER impression
+received !DETERMINER impression
+receives !DETERMINER impression
+receiving !DETERMINER impression
+recess of !DETERMINER memory
+recess of memory
+recesses of !DETERMINER heart
+recesses of !DETERMINER memory
+recesses of !DETERMINER mind
+recesses of !DETERMINER soul
+recesses of !DETERMINER spirit
+recesses of memory
+reckon
+reckon among
+reckon in
+reckon on
+reckon up
+reckon up to
+reckon with
+reckoned
+reckoned among
+reckoned in
+reckoned on
+reckoned up
+reckoned up to
+reckoned with
+reckoning
+reckoning among
+reckoning in
+reckoning on
+reckoning up
+reckoning up to
+reckoning with
+reckonings
+reckons
+reckons among
+reckons in
+reckons on
+reckons up
+reckons up to
+reckons with
+RECOGNIZE
+RECOGNIZE !PRONOUNOBJECTIVE FOR !QUESTION !PRONOUNNOMINAL !AUX
+RECOGNIZE THAT
+RECOGNIZED THAT
+RECOGNIZES
+RECOGNIZES !PRONOUNOBJECTIVE FOR !QUESTION !PRONOUNNOMINAL !AUX
+RECOGNIZES THAT
+RECOGNIZING
+RECOGNIZING !PRONOUNOBJECTIVE FOR !QUESTION !PRONOUNNOMINAL !AUX
+RECOGNIZING THAT
+recur to !DETERMINER mind
+recurred to !DETERMINER mind
+recurring to !DETERMINER mind
+recurs to !DETERMINER mind
+reflect about
+reflect on
+reflect over
+reflect upon
+reflected about
+reflected on
+reflected over
+reflected upon
+reflecting about
+reflecting on
+reflecting over
+reflecting upon
+reflection about
+reflection of
+reflection on
+reflection that
+reflections about
+reflections of
+reflections on
+reflections that
+reflective about
+reflective on
+reflective that
+reflectively
+reflectively about
+reflectively on
+reflectively that
+reflectiveness
+reflectiveness on
+reflectiveness that
+reflectivness about
+reflects about
+reflects on
+reflects over
+reflects upon
+refresh !POSSESSIVEPRONOUN memories
+refresh !POSSESSIVEPRONOUN memory
+refresh your memory
+refreshes !POSSESSIVEPRONOUN memories
+refreshes !POSSESSIVEPRONOUN memory
+refreshes your memory
+refreshing !POSSESSIVEPRONOUN memories
+refreshing !POSSESSIVEPRONOUN memory
+refreshing your memory
+regard
+regard !DETERMINER
+regard !POSSESSIVEPRONOUN
+regard !PRONOUNOBJECTIVE
+regard !PRONOUNOBJECTIVE with
+regard as
+regarded !DETERMINER
+regarded !POSSESSIVEPRONOUN
+regarded !PRONOUNOBJECTIVE
+regarded !PRONOUNOBJECTIVE with
+regarding !POSSESSIVEPRONOUN take on
+regarding !PRONOUNOBJECTIVE with
+regarding as
+regards !DETERMINER
+regards !POSSESSIVEPRONOUN
+regards !PRONOUNOBJECTIVE
+regards !PRONOUNOBJECTIVE with
+regards as
+remembrance
+remembrances
+represent in !DETERMINER mind
+represent mentally
+represented in !DETERMINER mind
+represented mentally
+representing in !DETERMINER mind
+representing mentally
+represents in !DETERMINER mind
+represents mentally
+retain !DETERMINER memory of
+retain in !DETERMINER thoughts
+retained !DETERMINER memory of
+retained in !DETERMINER thoughts
+retaining !DETERMINER memory of
+retaining in !DETERMINER thoughts
+retains !DETERMINER memory of
+retains in !DETERMINER thoughts
+rethink
+rethinking
+rethinks
+retreat into !POSSESSIVEPRONOUN mind
+retreat into !POSSESSIVEPRONOUN thoughts
+retreat into your mind
+retreat into your thoughts
+retreated into !POSSESSIVEPRONOUN mind
+retreated into !POSSESSIVEPRONOUN thoughts
+retreated into your mind
+retreated into your thoughts
+retreating into !POSSESSIVEPRONOUN mind
+retreating into !POSSESSIVEPRONOUN thoughts
+retreating into your mind
+retreating into your thoughts
+retreats into !POSSESSIVEPRONOUN mind
+retreats into !POSSESSIVEPRONOUN thoughts
+retreats into your mind
+retreats into your thoughts
+return to mind
+return to reality
+returned to mind
+returned to reality
+returning to mind
+returning to reality
+returns to mind
+returns to reality
+reverie
+reveries
+revery
+revise !POSSESSIVEPRONOUN thoughts
+revise your thoughts
+revised !POSSESSIVEPRONOUN thoughts
+revised your thoughts
+revises !POSSESSIVEPRONOUN thoughts
+revises your thoughts
+revising !POSSESSIVEPRONOUN thoughts
+revising your thoughts
+revolve in !DETERMINER mind
+revolve in !POSSESSIVEPRONOUN mind
+revolve in !POSSESSIVEPRONOUN minds
+revolve in our minds
+revolve in your mind
+revolved in !DETERMINER mind
+revolved in !POSSESSIVEPRONOUN mind
+revolved in !POSSESSIVEPRONOUN minds
+revolved in our minds
+revolved in your mind
+revolves in !DETERMINER mind
+revolves in !POSSESSIVEPRONOUN mind
+revolves in !POSSESSIVEPRONOUN minds
+revolves in our minds
+revolves in your mind
+revolving in !DETERMINER mind
+revolving in !POSSESSIVEPRONOUN mind
+revolving in !POSSESSIVEPRONOUN minds
+revolving in our minds
+revolving in your mind
+RINGING !DETERMINER BELL FOR !PRONOUNOBJECTIVE
+RINGS !DETERMINER BELL FOR !PRONOUNOBJECTIVE
+rise in !DETERMINER mind
+rise to mind
+risen in !DETERMINER mind
+rises in !DETERMINER mind
+rising in !DETERMINER mind
+rising to mind
+rose in !DETERMINER mind
+rose to mind
+rub up on
+rubbed up on
+rubbing up on
+rubs up on
+sank into !DETERMINER head
+sank into !DETERMINER mind
+sank into !POSSESSIVEPRONOUN head
+sank into !POSSESSIVEPRONOUN heads
+sank into !POSSESSIVEPRONOUN mind
+sank into !POSSESSIVEPRONOUN minds
+sank into your head
+sank into your mind
+sappy feeling
+sappy feelings
+scope out !DETERMINER thought
+scoped out !DETERMINER thought
+scopes out !DETERMINER thought
+scoping out !DETERMINER thought
+seem to !SEE
+seem to be
+seem to have
+seemed that
+seemed to
+seemed to !SEE
+seeming to see
+seems that
+seems to
+seems to be
+seems to have
+seems to see
+self-consciously
+self-feeling
+self-ignited feeling
+self-ignited feelings
+semi-conscious
+semiaware
+semiawareness
+semicoma
+semicomas
+semicomatose
+semiconscious
+semiconsciously
+semiconsciousness
+sense !POSSESSIVEPRONOUN
+sense !PRONOUNOBJECTIVE
+sense !QUESTION
+sense it
+sense that
+sensed
+sensed it
+sensed that
+senses it
+senses that
+sensibilities
+sensibility
+sensing
+sensing it
+sensing that
+sensitivities
+sexual desire
+sexual desires
+sexual longing
+sexual longings
+sexual urge
+sexual urges
+she can see herself
+she elects to
+she thinks
+she thought
+sink in !DETERMINER mind
+sink into !DETERMINER head
+sink into !DETERMINER mind
+sink into !POSSESSIVEPRONOUN head
+sink into !POSSESSIVEPRONOUN heads
+sink into !POSSESSIVEPRONOUN mind
+sink into !POSSESSIVEPRONOUN minds
+sink into your head
+sink into your mind
+sinking into !DETERMINER head
+sinking into !DETERMINER mind
+sinking into !POSSESSIVEPRONOUN head
+sinking into !POSSESSIVEPRONOUN heads
+sinking into !POSSESSIVEPRONOUN mind
+sinking into !POSSESSIVEPRONOUN minds
+sinking into your head
+sinking into your mind
+sinks into !DETERMINER head
+sinks into !DETERMINER mind
+sinks into !POSSESSIVEPRONOUN head
+sinks into !POSSESSIVEPRONOUN heads
+sinks into !POSSESSIVEPRONOUN mind
+sinks into !POSSESSIVEPRONOUN minds
+sinks into your head
+sinks into your mind
+sought about
+sought at
+sought from
+sought with
+spinning-head
+spinning head
+stamp in !DETERMINER memories
+stamp in !DETERMINER memory
+stamp in !POSSESSIVEPRONOUN memories
+stamp in !POSSESSIVEPRONOUN memory
+stamp in your memories
+stamp in your memory
+stamp on !POSSESSIVEPRONOUN memories
+stamp on !POSSESSIVEPRONOUN memory
+stamped in !DETERMINER memories
+stamped in !DETERMINER memory
+stamped in !POSSESSIVEPRONOUN memories
+stamped in !POSSESSIVEPRONOUN memory
+stamped in your memories
+stamped in your memory
+stamped on !POSSESSIVEPRONOUN memories
+stamped on !POSSESSIVEPRONOUN memory
+stamping in !DETERMINER memories
+stamping in !DETERMINER memory
+stamping in !POSSESSIVEPRONOUN memories
+stamping in !POSSESSIVEPRONOUN memory
+stamping in your memories
+stamping in your memory
+stamping on !POSSESSIVEPRONOUN memories
+stamping on !POSSESSIVEPRONOUN memory
+stamps in !DETERMINER memories
+stamps in !DETERMINER memory
+stamps in !POSSESSIVEPRONOUN memories
+stamps in !POSSESSIVEPRONOUN memory
+stamps in your memories
+stamps in your memory
+stamps on !POSSESSIVEPRONOUN memories
+stamps on !POSSESSIVEPRONOUN memory
+states of mind
+Stay with !PRONOUNOBJECTIVE !DETERMINER most
+Stay with !YOU !DETERMINER most
+Stayed with !PRONOUNOBJECTIVE !DETERMINER most
+Stayed with !YOU !DETERMINER most
+Staying with !PRONOUNOBJECTIVE !DETERMINER most
+Staying with !YOU !DETERMINER most
+Stays with !PRONOUNOBJECTIVE !DETERMINER most
+Stays with !YOU !DETERMINER most
+stew on it
+stewed on it
+stewing on it
+stews on it
+Stick in !POSSESSIVEPRONOUN mind
+Stick in your mind
+Sticking in !POSSESSIVEPRONOUN mind
+Sticking in your mind
+Sticks in !POSSESSIVEPRONOUN mind
+Sticks in your mind
+stir !DETERMINER feelings
+stir feelings
+stirred !DETERMINER feelings
+stirred feelings
+stirring !DETERMINER feelings
+stirring feelings
+stirs !DETERMINER feelings
+stirs feelings
+stop to consider
+stop to think
+stop to think about
+stopped to consider
+stopped to think
+stopped to think about
+stopping to consider
+stopping to think
+stopping to think about
+stops to consider
+stops to think
+stops to think about
+store in !DETERMINER mind
+store in !POSSESSIVEPRONOUN mind
+store in our mind
+store in our minds
+store in your mind
+store in your minds
+stored in !DETERMINER mind
+stored in !POSSESSIVEPRONOUN mind
+stored in our mind
+stored in our minds
+stored in your mind
+stored in your minds
+stores in !DETERMINER mind
+stores in !POSSESSIVEPRONOUN mind
+stores in our mind
+stores in our minds
+stores in your mind
+stores in your minds
+storing in !DETERMINER mind
+storing in !POSSESSIVEPRONOUN mind
+storing in our mind
+storing in our minds
+storing in your mind
+storing in your minds
+stream-of-consciousness
+stream of consciousness
+streams of consciousness
+stretch of !DETERMINER imagination
+strike on !DETERMINER thought
+striker of poses
+strikers of poses
+Stuck in !POSSESSIVEPRONOUN mind
+Stuck in our minds
+Stuck in your mind
+stuff !DETERMINER mind
+stuff !DETERMINER mind with
+stuff !POSSESSIVEPRONOUN mind
+stuff !POSSESSIVEPRONOUN mind with
+stuff your mind
+stuff your mind with
+stuffed !DETERMINER mind
+stuffed !DETERMINER mind with
+stuffed !POSSESSIVEPRONOUN mind
+stuffed !POSSESSIVEPRONOUN mind with
+stuffed your mind
+stuffed your mind with
+stuffing !DETERMINER mind
+stuffing !DETERMINER mind with
+stuffing !POSSESSIVEPRONOUN mind
+stuffing !POSSESSIVEPRONOUN mind with
+stuffing your mind
+stuffing your mind with
+stuffs !DETERMINER mind
+stuffs !DETERMINER mind with
+stuffs !POSSESSIVEPRONOUN mind
+stuffs !POSSESSIVEPRONOUN mind with
+stuffs your mind
+stuffs your mind with
+stupefaction from
+stupefactions from
+stuporous
+stuporously
+stuporousness
+style-conscious
+style-consciousness
+subconscious drive
+subconscious drives
+subconscious knowledge
+subconscious knowledges
+subconscious mind
+subconscious minds
+subconscious perception
+subconscious perceptions
+subconscious self
+subconscious selves
+subconscious urge
+subconscious urges
+subconsciousness
+subdelirious
+subdelirium
+submerge !POSSESSIVEPRONOUN feelings
+submerge your feelings
+submerged !POSSESSIVEPRONOUN feelings
+submerged feeling
+submerged feelings
+submerged thought
+submerged thoughts
+submerged your feelings
+submergence of feeling
+submergence of feelings
+submerges !POSSESSIVEPRONOUN feelings
+submerges your feelings
+submerging !POSSESSIVEPRONOUN feelings
+submerging your feelings
+submerse !POSSESSIVEPRONOUN feelings
+submerse your feelings
+submersed !POSSESSIVEPRONOUN feelings
+submersed feeling
+submersed feelings
+submersed your feelings
+submerses !POSSESSIVEPRONOUN feelings
+submerses your feelings
+submersing !POSSESSIVEPRONOUN feelings
+submersing your feelings
+submersion of feeling
+submersion of feelings
+SURPRISE
+SURPRISED
+SURPRISED !PRONOUNOBJECTIVE
+SURPRISED HERSELF
+SURPRISED HIMSELF
+SURPRISED THEMSELVES
+SURPRISES
+SURPRISING
+surprising way
+surprising ways
+surreptitioiusly
+surreptitious
+surreptitiousness
+sweven
+swevens
+swimming of !DETERMINER head
+swimmings of !DETERMINER head
+tablet of !DETERMINER memory
+tablets of !DETERMINER memory
+taken by surprise
+tell !PRONOUNOBJECTIVE apart
+tell apart
+tell one thing from another
+tell us apart
+telling !PRONOUNOBJECTIVE apart
+telling apart
+telling one thing from another
+telling us apart
+tells !PRONOUNOBJECTIVE apart
+tells apart
+tells one thing from another
+tells us apart
+tender feeling
+tender feelings
+tender passion
+tender passions
+that feeling
+that feeling of
+these feelings
+these feelings of
+they can see themselves
+they think
+they thought
+thing imagined
+things imagined
+THINK
+think !POSSESSIVEPRONOUN
+think !POSSESSIVEPRONOUN way through
+think !QUESTION
+think about
+think about !DETERMINER
+think about how to
+THINK BETTER OF
+think he might as well
+think how it
+think how it !MAY
+think how it !MAY have
+think in
+think it over
+THINK OF
+think our way through
+think out
+think out loud
+think over
+think she might as well
+think so
+think subconsciously
+THINK THAT
+think through
+think unconsciously
+think up
+thinkable
+THINKING
+thinking !POSSESSIVEPRONOUN
+thinking !POSSESSIVEPRONOUN way through
+thinking !QUESTION
+thinking about
+thinking about !DETERMINER
+thinking about how to
+THINKING BETTER OF
+thinking he might as well
+thinking how it
+thinking how it !MAY
+thinking how it !MAY have
+thinking in
+thinking it over
+THINKING OF
+thinking our way through
+thinking out
+thinking out loud
+thinking over
+thinking she might as well
+thinking so
+thinking subconsciously
+THINKING THAT
+thinking through
+thinking unconsciously
+thinking up
+THINKS
+thinks !POSSESSIVEPRONOUN
+thinks !POSSESSIVEPRONOUN way through
+thinks !QUESTION
+thinks about
+thinks about !DETERMINER
+thinks about how to
+THINKS BETTER OF
+thinks he might as well
+thinks how it
+thinks how it !MAY
+thinks how it !MAY have
+thinks in
+thinks it
+thinks it over
+thinks of
+thinks our way through
+thinks out
+thinks out loud
+thinks over
+thinks she might as well
+thinks so
+thinks subconsciously
+THINKS THAT
+thinks through
+THINKS TWICE BEFORE
+thinks unconsciously
+thinks up
+this feeling
+this feeling of
+those feelings
+those feelings of
+THOUGHT
+thought-read
+thought-reading
+thought !AUX
+thought !POSSESSIVEPRONOUN
+thought !POSSESSIVEPRONOUN way through
+thought !QUESTION
+thought about
+thought about !DETERMINER
+thought about how to
+thought he might as well
+thought how it
+thought how it !MAY
+thought how it !MAY have
+thought in
+thought it
+THOUGHT IT OUT
+thought it over
+THOUGHT IT UP
+thought of
+thought our way through
+thought out
+THOUGHT OUT LOUD
+thought over
+thought she might as well
+thought so
+thought subconsciously
+THOUGHT THAT
+thought through
+thought unconsciously
+thought up
+thoughts
+thoughts !AUX
+thoughts !TURN
+thoughts about
+thoughts of
+through !DETERMINER mind
+through !POSSESSIVEPRONOUN mind
+through your mind
+time to sink in
+to !DETERMINER mind
+to !DETERMINER minds
+to !DETERMINER thought
+to !DETERMINER thoughts
+to be attending to
+to sink in !POSSESSIVEPRONOUN head
+to sink in !POSSESSIVEPRONOUN heads
+to sink in your head
+to think of
+to understand
+told !PRONOUNOBJECTIVE apart
+told apart
+told one thing from another
+told us apart
+took wind
+took wind of
+train of ideas
+train of thought
+trains of ideas
+trains of thought
+trance
+trance of
+trance speaking
+trance state
+trance writing
+tranced
+trances
+trances of
+trancing
+treasure up in !DETERMINER heart
+treasure up in !DETERMINER memory
+treasure up in !POSSESSIVEPRONOUN hearts
+treasure up in !POSSESSIVEPRONOUN memories
+treasure up in our hearts
+treasure up in our memories
+treasure up in your hearts
+treasure up in your memories
+treasured up in !DETERMINER heart
+treasured up in !DETERMINER memory
+treasured up in !POSSESSIVEPRONOUN hearts
+treasured up in !POSSESSIVEPRONOUN memories
+treasured up in !PRONOUNOBJECTIVE hearts
+treasured up in our hearts
+treasured up in our memories
+treasured up in your hearts
+treasured up in your memories
+treasures up in !DETERMINER heart
+treasures up in !DETERMINER memory
+treasures up in !POSSESSIVEPRONOUN hearts
+treasures up in !POSSESSIVEPRONOUN memories
+treasures up in our hearts
+treasures up in our memories
+treasures up in your hearts
+treasures up in your memories
+treasuring up in !DETERMINER heart
+treasuring up in !DETERMINER memory
+treasuring up in !POSSESSIVEPRONOUN hearts
+treasuring up in !POSSESSIVEPRONOUN memories
+treasuring up in our hearts
+treasuring up in our memories
+treasuring up in your hearts
+treasuring up in your memories
+tumble through !DETERMINER mind
+tumble through !POSSESSIVEPRONOUN mind
+tumble through !POSSESSIVEPRONOUN minds
+tumble through our minds
+tumbled through !DETERMINER mind
+tumbled through !POSSESSIVEPRONOUN mind
+tumbled through !POSSESSIVEPRONOUN minds
+tumbled through our minds
+tumbles through !DETERMINER mind
+tumbles through !POSSESSIVEPRONOUN mind
+tumbles through !POSSESSIVEPRONOUN minds
+tumbles through our minds
+tumbling through !DETERMINER mind
+tumbling through !POSSESSIVEPRONOUN mind
+tumbling through !POSSESSIVEPRONOUN minds
+tumbling through our minds
+twinge of conscience
+twinges of conscience
+twitch of conscience
+twitches of conscience
+unaroused
+unconscious of !DETERMINER
+UNDER !DETERMINER BELIEF
+under wraps
+understand
+understand !DETERMINER
+understand !DETERMINER nuts and bolts
+understand better
+understand by
+understand that
+understanding
+understanding !DETERMINER
+UNDERSTANDING !DETERMINER EFFECTS OF
+understanding !DETERMINER nuts and bolts
+understanding better
+understanding by
+understanding that
+understands
+understands !DETERMINER
+understands !DETERMINER nuts and bolts
+understands better
+understands by
+understands that
+understood
+understood !DETERMINER
+understood !DETERMINER nuts and bolts
+understood better
+understood by
+understood that
+unlearn
+unlearned
+unlearning
+unlearns
+unlearnt
+unshared
+unshared belief
+unshared conviction
+unwittingly
+view with !DETERMINER mind's eye
+viewed with !DETERMINER mind's eye
+viewing with !DETERMINER mind's eye
+views with !DETERMINER mind's eye
+vision of
+visions of
+vivacities of imagination
+vivacity of imagination
+waking dream
+waking dreams
+wandering atttention
+wandering interest
+wandering mind
+wandering minds
+wanderingly
+Want !DETERMINER say
+want !DETERMINER say-over
+want !DETERMINER say-so
+want !DETERMINER say over
+want in
+want out
+want out of town
+wanted-right-hand
+Wanted !DETERMINER say
+wanted !DETERMINER say-over
+wanted !DETERMINER say-so
+wanted !DETERMINER say over
+wanted about
+wanted from
+wanted in
+wanted out
+wanted out of town
+wanted with
+wanting
+Wanting !DETERMINER say
+wanting !DETERMINER say-over
+wanting !DETERMINER say-so
+wanting !DETERMINER say over
+wanting in
+wanting out
+wanting out of town
+wanting that
+wanting to fly in !DETERMINER air
+wants
+Wants !DETERMINER say
+wants !DETERMINER say-over
+wants !DETERMINER say-so
+wants !DETERMINER say over
+wants in
+wants out
+wants out of town
+wants that
+was able to gather that
+wean !POSSESSIVEPRONOUN thoughts from
+wean our thoughts from
+wean your thoughts from
+weaned !POSSESSIVEPRONOUN thoughts from
+weaned your thoughts from
+weaning !POSSESSIVEPRONOUN thoughts from
+weaning your thoughts from
+weans !POSSESSIVEPRONOUN thoughts from
+weans your thoughts from
+ween
+weened
+weening
+weens
+weigh up
+weighed up
+weighing up
+weighs up
+went back over !DETERMINER thought
+whirl !DETERMINER mind
+whirls !DETERMINER mind
+will-o'-the-wisp
+will-o-a-wisps
+will o' the wisp
+wis
+wise-cracks
+wise-passiveness
+wise crack
+wise expression
+wise expressions
+wise fool
+wise fools
+wise guy
+wise guys
+wise passiveness
+wish it on
+wish on
+wish on !POSSESSIVEPRONOUN
+wish on !PRONOUNOBJECTIVE
+wish on herself
+wish on himself
+wish on themselves
+wish on yourself
+wished it on
+wished on
+wished on !POSSESSIVEPRONOUN
+wished on !PRONOUNOBJECTIVE
+wished on herself
+wished on himself
+wished on themselves
+wished on yourself
+wishes it on
+wishes on
+wishes on !POSSESSIVEPRONOUN
+wishes on !PRONOUNOBJECTIVE
+wishes on herself
+wishes on himself
+wishes on themselves
+wishes on yourself
+wishful belief
+wishful beliefs
+wishful thinker
+wishful thought
+wishful thoughts
+wishiness
+wishing it on
+wishing on
+wishing on !POSSESSIVEPRONOUN
+wishing on !PRONOUNOBJECTIVE
+wishing on herself
+wishing on himself
+wishing on themselves
+wishing on yourself
+wishly
+wishyness
+wissed
+wisses
+wissing
+wist
+with !DETERMINER feeling
+with !DETERMINER imagination
+with !DETERMINER mind's eye
+WITH !DETERMINER VIEW that
+with !POSSESSIVEPRONOUN imagination
+WITH !PRONOUNOBJECTIVE IN MIND
+with feelings
+WITH THAT IN MIND
+WITH THIS IN MIND
+within !POSSESSIVEPRONOUN POINT OF VIEW
+witting
+wittingly
+wittings
+wonner
+wonnered
+wonnering
+wonners
+woolgather
+woolgathered
+woolgatherer
+woolgatherers
+woolgathers
+yearn
+yearned
+yearning
+yearningly
+yearnings
+yearns
+your memories
+your memory
+your minds
+your reckoning

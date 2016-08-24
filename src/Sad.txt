@@ -1,0 +1,2501 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+--gone forever
+-gone forever
+!AUX bereft
+!AUX bereft of
+!AUX grieving
+!AUX hopeless
+!AUX left without
+!AUX sad !MOTIONPREP
+!AUX sad about
+!AUX without hope
+!BREAK into tears
+!BRING profound sorrow
+!BRING to tears
+!COME to an untimely death
+!COME to an untimely end
+!DRAW tears
+!DRIVE to despair
+!DRIVE to the brink of despair
+!FALL into despair
+!FALL sobbing
+!FEEL all alone
+!FEEL alone
+!FEEL apart
+!FEEL ashamed of !REFLEXIVEPRONOUN
+!FEEL ashamed of yourself
+!FEEL bad
+!FEEL bad about
+!FEEL bad for
+!FEEL bad over
+!FEEL badly
+!FEEL badly about
+!FEEL badly for
+!FEEL badly for the children
+!FEEL badly for the parents
+!FEEL broken
+!FEEL broken about
+!FEEL broken over
+!FEEL broken up
+!FEEL broken up about
+!FEEL busted
+!FEEL busted up
+!FEEL busted up about
+!FEEL busted up over
+!FEEL criticized
+!FEEL defeated
+!FEEL depressed
+!FEEL desolate
+!FEEL disconnected
+!FEEL disgrace
+!FEEL down
+!FEEL dragged down
+!FEEL dragged out
+!FEEL for the
+!FEEL for the children
+!FEEL for the families
+!FEEL for the parents
+!FEEL forced
+!FEEL grief
+!FEEL helpless and sad
+!FEEL hopelessly all alone
+!FEEL hurt about
+!FEEL hurt as a result of
+!FEEL hurt by
+!FEEL hurt from
+!FEEL hurt with
+!FEEL injured
+!FEEL isolated
+!FEEL licked
+!FEEL lost
+!FEEL low
+!FEEL mortified
+!FEEL out of place
+!FEEL pained
+!FEEL personally hurt
+!FEEL powerless
+!FEEL put off
+!FEEL quite bad
+!FEEL quite badly
+!FEEL quite badly about
+!FEEL remorse
+!FEEL rootless
+!FEEL ruth
+!FEEL sad
+!FEEL sad about
+!FEEL sad and helpless
+!FEEL sad and isolated
+!FEEL sad and miserable
+!FEEL sad for
+!FEEL sadness
+!FEEL sadness for
+!FEEL small
+!FEEL so bad for
+!FEEL so sad
+!FEEL so sad about
+!FEEL so sad for
+!FEEL so sorry
+!FEEL so sorry for
+!FEEL sorrow
+!FEEL sorrow for
+!FEEL sorry for
+!FEEL subdued
+!FEEL the loss
+!FIND herself with no place to
+!FIND herself with nothing to
+!FIND herself with nowhere to
+!FIND himself with no place to
+!FIND himself with nothing to
+!FIND himself with nowhere to !FIND themselves with no place to
+!FIND themselves with nothing
+!FIND themselves with nowhere to
+!FIND yourself with no place to
+!FIND yourself with nothing
+!FIND yourself with nowhere to
+!FIND yourselves with no place to
+!FIND yourselves with nothing
+!FIND yourselves with nowhere to
+!GET sad
+!GIVE sorrow
+!GIVE sorrow words
+!GIVE sorrowful
+!GIVE up all hope
+!GIVE up hope
+!GIVE way to tears
+!GO through life deprived
+!GO through life without
+!GO through life without their parents
+!GO through so much
+!GROW sad
+!HAVE !POSSESSIVEPRONOUN children taken away
+!HAVE !POSSESSIVEPRONOUN families taken away
+!HAVE !POSSESSIVEPRONOUN parents taken away
+!HAVE a missing
+!HAVE great poignancy
+!HAVE no chance to better
+!HAVE no chance to escape
+!HAVE no chance to get out
+!HAVE no chance to improve
+!HAVE no child left
+!HAVE no children left
+!HAVE no close friends
+!HAVE no family
+!HAVE no family left
+!HAVE no hope
+!HAVE no one in !POSSESSIVEPRONOUN life
+!HAVE no one to relate to
+!HAVE no one to talk to
+!HAVE no one to turn to
+!HAVE no one to whom to turn
+!HAVE no parent
+!HAVE no parent left
+!HAVE no parents
+!HAVE no parents left
+!HAVE no relatives left
+!HAVE our children taken away
+!HAVE our families taken away
+!HAVE our parents taken away
+!HAVE poignancies
+!HAVE poignancy
+!HAVE to endure
+!HAVE to endure hardship
+!HAVE to go through life without their parents
+!HAVE to go through so much
+!HAVE to live deprived
+!HAVE to live deprived of
+!HAVE to live out the remainder of !POSSESSIVEPRONOUN life
+!HAVE to live out the remainder of !POSSESSIVEPRONOUN life without
+!HAVE to live out the remainder of !POSSESSIVEPRONOUN lives
+!HAVE to live out the remainder of !POSSESSIVEPRONOUN lives without
+!HAVE to live out the remainder of your life
+!HAVE to live out the remainder of your life without
+!HAVE to live out the rest of !POSSESSIVEPRONOUN life
+!HAVE to live out the rest of !POSSESSIVEPRONOUN life without
+!HAVE to live out the rest of !POSSESSIVEPRONOUN lives
+!HAVE to live out the rest of !POSSESSIVEPRONOUN lives without
+!HAVE to live out the rest of your life
+!HAVE to live out the rest of your life without
+!HAVE to live the remainder of !POSSESSIVEPRONOUN life
+!HAVE to live the remainder of !POSSESSIVEPRONOUN life without
+!HAVE to live the remainder of !POSSESSIVEPRONOUN lives
+!HAVE to live the remainder of !POSSESSIVEPRONOUN lives without
+!HAVE to live the remainder of your life
+!HAVE to live the remainder of your life without
+!HAVE to live the rest of !POSSESSIVEPRONOUN life
+!HAVE to live the rest of !POSSESSIVEPRONOUN life without
+!HAVE to live the rest of !POSSESSIVEPRONOUN lives
+!HAVE to live the rest of !POSSESSIVEPRONOUN lives without
+!HAVE to live the rest of your life
+!HAVE to live the rest of your life without
+!HAVE to say good-bye
+!HAVE to say good-bye for the last time
+!HAVE to suffer
+!HOLD great poignance
+!HOLD out little hope
+!HOLD out no hope
+!HOLD poignance
+!HOLD poignancy
+!LEAVE behind broken families
+!LEAVE behind devastation
+!LEAVE behind orphans
+!LEAVE behind widows
+!LEAVE behind widows and orphans
+!LEAVE broken
+!LEAVE broken families
+!LEAVE orphans
+!LEAVE parentless
+!LEAVE widows
+!LEAVE widows and orphan behind
+!LEAVE widows and orphans
+!LEAVE widows and orphans behind
+!LIVE !DETERMINER dog's life
+!LIVE cut short
+!LIVE lost
+!LIVE of people !AUX cut short
+!LIVE taken much too soon
+!LIVE taken too soon
+!LIVE that !AUX lost
+!LIVE that were lost
+!LIVE the rest of !POSSESSIVEPRONOUN life without !POSSESSIVEPRONOUN dad
+!LIVE the rest of !POSSESSIVEPRONOUN life without !POSSESSIVEPRONOUN mom
+!LIVE the rest of !POSSESSIVEPRONOUN life without !POSSESSIVEPRONOUN parents
+!LIVE were lost
+!LOOK for !POSSESSIVEPRONOUN loved ones
+!LOSE !POSSESSIVEPRONOUN beloved husband
+!LOSE !POSSESSIVEPRONOUN beloved wife
+!LOSE !POSSESSIVEPRONOUN best friend
+!LOSE !POSSESSIVEPRONOUN best friends
+!LOSE !POSSESSIVEPRONOUN child
+!LOSE !POSSESSIVEPRONOUN children
+!LOSE !POSSESSIVEPRONOUN companion
+!LOSE !POSSESSIVEPRONOUN dear husband
+!LOSE !POSSESSIVEPRONOUN dear wife
+!LOSE !POSSESSIVEPRONOUN families
+!LOSE !POSSESSIVEPRONOUN family
+!LOSE !POSSESSIVEPRONOUN family members
+!LOSE !POSSESSIVEPRONOUN father
+!LOSE !POSSESSIVEPRONOUN fathers
+!LOSE !POSSESSIVEPRONOUN friend
+!LOSE !POSSESSIVEPRONOUN friends
+!LOSE !POSSESSIVEPRONOUN kid
+!LOSE !POSSESSIVEPRONOUN kids
+!LOSE !POSSESSIVEPRONOUN last chance
+!LOSE !POSSESSIVEPRONOUN life
+!LOSE !POSSESSIVEPRONOUN lives
+!LOSE !POSSESSIVEPRONOUN lives for nothing
+!LOSE !POSSESSIVEPRONOUN loved ones
+!LOSE !POSSESSIVEPRONOUN mother
+!LOSE !POSSESSIVEPRONOUN mothers
+!LOSE !POSSESSIVEPRONOUN parent
+!LOSE !POSSESSIVEPRONOUN parents
+!LOSE !POSSESSIVEPRONOUN way of life
+!LOSE a best friend
+!LOSE a child
+!LOSE a close friend
+!LOSE a family
+!LOSE a family member
+!LOSE a father
+!LOSE a friend
+!LOSE a friend or family member
+!LOSE a future
+!LOSE a kid
+!LOSE a loved one
+!LOSE a member of !POSSESSIVEPRONOUN family
+!LOSE a mother
+!LOSE a parent
+!LOSE a person that he loved
+!LOSE a person that I loved
+!LOSE a person that she loved
+!LOSE a person that they loved
+!LOSE a person that we loved
+!LOSE a person that you loved
+!LOSE a person whom he loved
+!LOSE a person whom I loved
+!LOSE a person whom she loved
+!LOSE a person whom they loved
+!LOSE a person whom we loved
+!LOSE a person whom you loved
+!LOSE a way of life
+!LOSE all hope
+!LOSE basic necessities
+!LOSE children
+!LOSE each other
+!LOSE everything
+!LOSE faith
+!LOSE family
+!LOSE family members
+!LOSE forever
+!LOSE freedoms
+!LOSE friends
+!LOSE happiness
+!LOSE heart
+!LOSE her life
+!LOSE his life
+!LOSE hope
+!LOSE kids
+!LOSE lightheartedness
+!LOSE loved ones
+!LOSE out on
+!LOSE out with
+!LOSE so many
+!LOSE so many lives
+!LOSE so many loved ones
+!LOSE so many people
+!LOSE some special
+!LOSE someone
+!LOSE someone !PRONOUNNOMINAL love
+!LOSE someone !PRONOUNNOMINAL loved
+!LOSE someone !PRONOUNNOMINAL loves
+!LOSE someone I love
+!LOSE someone loved by
+!LOSE someone one loves
+!LOSE someone that he loved
+!LOSE someone that I loved
+!LOSE someone that she loved
+!LOSE someone that they loved
+!LOSE someone that we loved
+!LOSE someone that you loved
+!LOSE someone whom he loved
+!LOSE someone whom I loved
+!LOSE someone whom she loved
+!LOSE someone whom they loved
+!LOSE someone whom we loved
+!LOSE someone whom you loved
+!LOSE someone you love
+!LOSE something
+!LOSE strength
+!LOSE that part of happiness
+!LOSE that spring in !POSSESSIVEPRONOUN step
+!LOSE that spring in your step
+!LOSE the business
+!LOSE the chance
+!LOSE the day
+!LOSE the future
+!LOSE the opportunity
+!LOSE the will
+!LOSE the will to live
+!LOSE their lives
+!LOSE touch with each other
+!LOSE touch with one another
+!LOSE your families
+!LOSE your family
+!LOSE your last chance
+!LOSE your way of life
+!LOSE zest
+!LOSE zest for life
+!MAKE !POSSESSIVEPRONOUN cry
+!MAKE !POSSESSIVEPRONOUN sad
+!MAKE him cry
+!MAKE him sad
+!MAKE parentless
+!MAKE sad
+!MAKE sad work of
+!MAKE them sad
+!MAKE you sad
+!NEG bury !POSSESSIVEPRONOUN dead
+!NEG even bury !POSSESSIVEPRONOUN dead
+!NEG have a father anymore
+!NEG have a father or mother anymore
+!NEG have a mother anymore
+!NEG have a parent anymore
+!POSSESSIVEPRONOUN loss
+!POSSESSIVEPRONOUN tears
+!PRONOUNNOMINAL !AUX abandoned
+!PRONOUNNOMINAL !AUX left on their own without help
+!PRONOUNNOMINAL !AUX left without help
+!STRIKE A SAD CHORD
+!TAKE a toll on !POSSESSIVEPRONOUN families
+!TAKE a toll on !POSSESSIVEPRONOUN family
+!TAKE thousands of innocent lives
+!THROW !POSSESSIVEPRONOUN hands up in despair
+!TRY to pick up the pieces
+!TRY to put her life back together
+!TRY to put his life back together
+!TRY to put their lives back together
+. it's a shame
+. it !AUX a shame
+. it !AUX sad
+a depressing scale
+a friend in need
+a great loss
+a life deprived
+a life without
+a minor form of despair
+a missing child
+a missing parent
+a sadder and a wiser
+a significant loss
+abandoned in the world
+alienated from
+alienated from family
+alienated from friends
+all alone
+all alone in the world
+all tears
+all the babies born after the attacks who will never know their fathers
+all the babies born after the attacks who will never know their mothers
+All the children who do not have a parent
+all the children who were left without parents !AUX heartbreaking
+ALL THE FAMILIES WITHOUT FATHERS AND MOTHERS
+all the innocent people who were killed
+all the lives lost
+all the lives that were lost
+all the lost lives
+all those people who had no way out
+alone in the world
+amount of lives that were lost
+an innocent life taken
+an irreplaceable loss
+appear crestfallen
+appear crushed
+appeared crestfallen
+appeared crushed
+appearing crestfallen
+appearing crushed
+appears crestfallen
+appears crushed
+ashamed of
+ashamed of !REFLEXIVEPRONOUN
+ashamed of yourself
+awful tragedy
+babies have no mother
+babies without mothers
+bereft families
+bereft of a child
+bereft of a parent
+bereft so much suffering on the part of so many people
+big loss
+big losses
+blink back tears
+blinked back tears
+blinking back tears
+blinks back tears
+bodies that will never be identified
+bodies which will never be identified
+break down and cry
+break into tears
+breaking down and crying
+breaking into tears
+breaks down and cries
+breaks into tears
+bright futures WAS! ended
+bright futures were ended
+broke down and cried
+broken families
+broken family
+broken homes
+burden with sorrow
+burdened with sorrow
+burdening with sorrow
+burdens with sorrow
+buried !POSSESSIVEPRONOUN loved ones
+buried alive
+buried alive in the rubble
+buried your loved ones
+buries !POSSESSIVEPRONOUN loved ones
+buries alive
+buries your loved ones
+burst into tears
+bursting into tears
+bursts into tears
+bury !POSSESSIVEPRONOUN loved ones
+bury alive
+bury your loved ones
+burying !POSSESSIVEPRONOUN loved ones
+burying alive
+burying your loved ones
+can't comprehend the loss
+can't do anything with
+can't get out of bed
+can't imagine the grief
+can't imagine the horror
+can't imagine the pain
+can't imagine the sorrow
+can't imagine the terrible
+can't imagine what he must be going through
+can't imagine what she must be going through
+can't imagine what they must be going through
+can't imagine what you must be going through
+can't so much as
+CANCOULD! not say good by to !POSSESSIVEPRONOUN families
+CANCOULD! not say good by to there families
+CANCOULD! not say good bye to !POSSESSIVEPRONOUN families
+CANCOULD! not say good bye to there families
+CANCOULD! not say goodbye to !POSSESSIVEPRONOUN families
+CANCOULD! not say goodbye to there families
+cannot get out of bed
+cannot imagine the grief
+cannot imagine the horror
+cannot imagine the pain
+cannot imagine the sorrow
+cannot imagine the terrible
+cannot imagine what he must be going through
+cannot imagine what she must be going through
+cannot imagine what they must be going through
+cannot imagine what you must be going through
+cannot so much as
+cause death and injury
+caused death and injury
+causes death and injury
+causing death and injury
+cave of despair
+child left behind
+child left without
+child somewhere that will never feel their mother's or father's arms around them again
+child somewhere who will never experience
+child somewhere who will never feel
+child somewhere who will never feel her mother's or father's arms around her again
+child somewhere who will never feel their mother's or father's arms around her
+child somewhere who will never feel their mother's or father's arms around him
+child who cannot understand why Mommy or Daddy has disappeared
+child will never come home
+children's that will grow up without !POSSESSIVEPRONOUN parents
+children !AUX dying
+children !AUX starving
+children always pay for any mistakes
+children always pay for the mistakes
+children dying
+children had !POSSESSIVEPRONOUN parents taken away
+children hoping !POSSESSIVEPRONOUN parents will come home
+children hoping that !POSSESSIVEPRONOUN parents will come home
+children left behind
+children left without
+children losing at least one parent
+Children losing their parents
+children lost at least one parent
+children of the victims
+children praying !POSSESSIVEPRONOUN parents will come home
+children praying that !POSSESSIVEPRONOUN parents will come home
+children starving
+children that !AUX killed or hurt
+children that !AUX left without a parent
+children that AUX killed or hurt
+children that had !POSSESSIVEPRONOUN parents taken away
+children that have lost parents
+Children that lose a parent
+children that lost !POSSESSIVEPRONOUN parents
+children that lost their parents and have no one to turn to
+children that lost there parents
+children that must grow up without their loved ones
+Children that were born after that tragedy that will never know their father
+children that were killed or hurt
+children that will grow up without !POSSESSIVEPRONOUN parents
+children that will grow up without a parent
+children that will grow up without their father
+children that will grow up without their fathers
+children that will grow up without their mother
+children that will grow up without their mothers
+children that will grow up without their parents
+children who !AUX killed or hurt
+children who are left without a parent
+children who AUX killed or hurt
+children who don't have !POSSESSIVEPRONOUN parents
+children who don't have !POSSESSIVEPRONOUN parents anymore
+children who don't have their parents anymore
+children who had !POSSESSIVEPRONOUN parents taken away
+Children who have lost parents
+Children who lose a parent
+children who lost !POSSESSIVEPRONOUN parents
+children who lost a parent
+children who lost a parent or both parents
+children who lost both parents
+children who lost their parents
+children who lost their parents and have no one to turn to
+children who lost there parents
+children who must grow up without their loved ones
+children who were killed or hurt
+children who will grow up deprived
+children who will grow up lacking
+children who will grow up not having one parent
+children who will grow up starved for
+children who will grow up without
+children who will grow up without !POSSESSIVEPRONOUN parents
+children who will grow up without parents
+children who will not have a Dad or Mom
+children who will not have a mom or dad
+children whom !AUX killed or hurt
+children whom AUX killed or hurt
+children whom had !POSSESSIVEPRONOUN parents taken away
+children whom lost !POSSESSIVEPRONOUN parents
+children whom lost there parents
+children whom were killed or hurt
+children whom will grow up without !POSSESSIVEPRONOUN parents
+children will grow up without
+children will grow up without !POSSESSIVEPRONOUN parents
+children will grow up without a mother or a father
+children will grow up without parents
+children will grow up without proper
+children will never come home
+collapse sobbing
+collapses sobbing
+collapsing sobbing
+completely abandoned
+comprehend the loss
+comprehended the loss
+comprehending the loss
+comprehends the loss
+continue to suffer
+continued to suffer
+continues to suffer
+continuing to suffer
+cope with it all
+coped with it all
+copes with it all
+coping with it all
+could't stop thinking about the poor
+could not so much as
+couldn't get the awful scenes to go way
+couldn't say good by to !POSSESSIVEPRONOUN families
+couldn't say good by to there families
+couldn't say good bye to !POSSESSIVEPRONOUN families
+couldn't say good bye to there families
+couldn't say goodbye to !POSSESSIVEPRONOUN families
+couldn't say goodbye to there families
+couldn't so much as
+couldn't stop thinking about the awful
+couldn't stop thinking about those pathetic
+couldn't stop thinking about those poor
+countless loss
+countless losses
+country's loss
+crestfallen eyes
+crestfallen looks
+cried about it
+cried over it
+cries about it
+cries over it
+cruelty toward each other
+crushed look on !POSSESSIVEPRONOUN face
+crushed look on your face
+crushed to death
+cry about it
+cry over it
+crying about it
+crying over it
+deal with the sorrow
+dealing with the sorrow
+deals with the sorrow
+dealt with the sorrow
+death of many innocent people
+deaths of many innocent people
+deeo remorse
+deep despair
+deeply despaired
+deeply felt bad
+deeply felt bad for
+deeply hurt
+deeply hurt !POSSESSIVEPRONOUN feelings
+deeply hurted
+deeply hurting !POSSESSIVEPRONOUN feelings
+deeply hurts
+deeply hurts !POSSESSIVEPRONOUN feelings
+deeply missed
+deeply pained
+deeplying hurting
+depth of despair
+depth of misery
+depth of sorrow
+depths of despair
+depths of misery
+depths of sorrow
+desolate feeling
+desolate feelings
+despair of
+despaired of
+despairing of
+despairs of
+desperate lack
+desperate loss
+desperate losses
+desperate need
+desperate needs
+destined to be unhappy
+destroy so many innocent lives
+destroyed so many innocent lives
+destroying so many innocent lives
+destroys so many innocent lives
+destruction on a depressing scale
+destruction on such a horrible scale
+devastating
+devastating loss
+devastating loss of innocent lives
+devastating loss of life
+devastating loss of thousands of innocent lives
+devastating losses
+devastating losses of innocent lives
+devastating losses of life
+devastating losses of thousands of innocent lives
+devastating to live through
+devastating to see
+devastating to watch
+devastatingly sad
+did not take the time to say I LOVE YOU
+didn't take the time to say I LOVE YOU
+die a painful death
+died a terrible death
+died believing they were safe
+difficult to bear.
+difficult to endure.
+difficult to take.
+dire need
+dire need for
+dire needs
+dire problem
+dire straights
+dire straits
+dissolve in tears
+dissolve into tears
+dissolved in tears
+dissolved into tears
+dissolves in tears
+dissolves into tears
+dissolving in tears
+dissolving into tears
+distraught over
+do not have anything to look forward to
+does not have anything to look for
+doleful dumps
+doleful look
+doleful looks
+don't have anything to look forward to
+don't see an end to the problem
+downing !POSSESSIVEPRONOUN sorrow
+downing !POSSESSIVEPRONOUN sorrows
+downing sorrow
+downing sorrows
+downing your sorrow
+downing your sorrows
+draw tears from the eyes
+drive to despair
+drives to despair
+driving to despair
+drove to despair
+drown !POSSESSIVEPRONOUN sorrows
+drowning !POSSESSIVEPRONOUN sorrow
+drowning !POSSESSIVEPRONOUN sorrows
+drowning sorrow
+drowning sorrows
+drowning your sorrow
+drowning your sorrows
+dying in the hundreds
+dying in the thousands
+elegiac
+elegiacs
+elegies
+enormous loss
+enormous loss of life
+enormous losses
+enormous losses of life
+even cried
+express sorrow
+expressed sorrow
+expresses sorrow
+expressing sorrow
+face life alone
+faced life alone
+faces life alone
+facing life alone
+fading hope
+fading hopes
+families being torn apart
+families bereft
+families destroyed
+families disrupted
+families left behind to start over
+families that have lost loved ones
+families that lost a loved one
+families that lost loved ones
+families that were cut
+families that were torn apart
+families torn apart
+families were cut
+families were torn apart
+families who have lost loved ones
+families who have lost someone they loved
+family he left behind
+family she left behind
+family they left behind
+family we left behind
+family you left behind
+father or mother who will never hold their child again
+father who will never hold his child again
+father will never come home
+feeling of loss
+feelings of loss
+filth-ridden conditions
+filthy conditions
+fleeing hope
+fleeing hopes
+FOR THE LIVES LOST
+for the very last time
+forlorn hope
+forlorn hopes
+forlorn of
+form of despair
+freedom has been lost
+freedoms have been lost
+friends he left behind
+FRIENDS LEFT BEHIND
+friends she left behind
+friends suffered
+friends they left behind
+friends torn apart
+friends we left behind
+friends you left behind
+friendships destroyed
+friendships disrupted
+friendships torn apart
+from loneliness
+full of remorse
+fully abandoned
+gloomy about !DETERMINER
+gloomy Gus
+gloomy outlook
+gloomy outlooks
+gone for good
+gone forever
+gone in an instant
+gone without warning
+gratuitous loss
+great loss
+great loss of innocent lives
+great losses
+great losses of innocent lives
+grief dulled
+grief oppressed
+grieve !POSSESSIVEPRONOUN loss
+grieve for
+grieve in private
+grieve over
+grieve the loss
+grieve with
+grieved !POSSESSIVEPRONOUN loss
+grieved for
+grieved over
+grieved the loss
+grieved with
+grieves !POSSESSIVEPRONOUN loss
+grieves for
+grieves in private
+grieves over
+grieves the loss
+grieves with
+grieving !POSSESSIVEPRONOUN loss
+GRIEVING FAMILY MEMBERS A
+GRIEVING FAMILY MEMBERS AND FRIENDS LEFT BEHIND
+grieving for
+GRIEVING friends
+grieving in private
+grieving loved ones
+grieving over
+grieving the loss
+grieving with
+grievous bodily harm
+grievous bodily harms
+grow up without ever knowing !POSSESSIVEPRONOUN parent or parents
+grow up without ever knowing !POSSESSIVEPRONOUN parents
+had empathy
+had he lived
+had she lived
+had they lived
+hard to bear
+hard to endure.
+hard to take.
+has great poignance
+hate for people that they don't know
+hated people that they don't know
+hates people that they don't know
+hating people that they don't know
+have no choice but say good-bye
+have remorse
+he never had a chance
+he would have been !NUMS1TO100
+he would have been !NUMS1TO100 years old
+heart-rending story
+heart-wrenching story
+heart aches
+heart break for
+heart break over
+heart breaking for
+heart breaking over
+heart breaks for
+heart breaks over
+heart broke
+heart broke over
+heart hearts
+heart pining
+heart pinings
+heart rending
+heart sank
+heart sick
+heart sickening
+heart sink
+heart sinking
+heart sinks
+heart stood still
+heart wrenching
+heart wrenching story
+HEARTBREAK OF THE PEOPLE LEFT BEHIND
+heartbreaking
+heartbroken in two
+heartfelt grief
+heartsick about
+heavy hearted
+helpless to
+helpless to do anything
+helpless to do anything about it
+helplessness of the passengers on the planes
+hope !AUX fading
+hope !AUX fleeting
+hope fading
+hope fleeting
+hopeless of goodness over evil
+hopes !AUX fading
+hopes !AUX fleeting
+hopes and dreams were tragically altered
+hopes fading
+horrendous loss of life
+horrible loss
+horrible losses
+horrible manner
+horrible situation
+horrible situations
+horrible waste
+horrible way
+horrible ways
+how awful
+how sad
+how terrible
+how terrible for
+how they may have died
+how you deal with the sorrow
+howl in grief
+howled in grief
+howling in grief
+howls in grief
+huge loss
+huge losses
+human beings have no respect for each other
+human beings have no respect for one another
+hurt !POSSESSIVEPRONOUN loved ones
+hurt does not go away
+hurt on the job
+hurting !POSSESSIVEPRONOUN loved ones
+hurting your loved ones
+hurts !POSSESSIVEPRONOUN loved ones
+hurts do not go away
+hurts your loved ones
+I lost
+imagine what he must be going through
+imagine what I am going through
+imagine what she must be going through
+imagine what they must be going through
+imagine what we !AUX going through
+imagine what you must be going through
+in despair
+in despair of
+in desperate need
+in dire need
+in dire need of
+in dire straights
+in emotional pain
+in grief
+in parentless
+in pity for
+in pity for !POSSESSIVEPRONOUN
+in pity for him
+in pity for them
+in such a horrible manner
+in tears
+in the doldrums
+in the doleful
+in the dumps
+in the hope of staying alive
+incredible loss
+incredible losses
+innocent !LIVE lost
+innocent !LIVE taken
+innocent !LIVE that !AUX lost
+innocent !LIVE that were lost
+innocent Americans killed
+innocent Americans who were killed
+innocent and defenseless
+innocent and defenseless people
+innocent and unsuspecting
+innocent bystander
+innocent bystanders
+innocent casualties
+innocent civilians
+innocent civilians' lives
+innocent life that was lost
+innocent lives lost
+innocent lives that were lost
+innocent loss of life
+INNOCENT PEOPLE SAYING THEIR LAST PRAYER
+innocent people that die
+innocent people who die
+innocent persons who died
+innocent suffer for
+innocent suffered for
+innocent suffered from
+innocent suffering for
+innocent suffering from
+innocent suffers for
+innocent suffers from
+innocent victims in need
+innocents suffer from
+into despair
+into the throe
+into the throes
+irreplaceable loss
+irreplaceable losses
+irretrievability
+irretrievable
+irretrievable loss
+irretrievable losses
+irretrievableness
+irretrievably gone
+irretrievably lost
+isolated from family
+isolated from friends
+it's a shame
+it's all over for !POSSESSIVEPRONOUN
+it's all over for him
+it's all over for me
+it's all over for our
+it's all over for them
+it's all over for us
+it's all over for you
+it's sad
+it's the last time he will ever
+it's the last time it will ever
+it's the last time she will ever
+it's the last time they will ever
+it's the last time we will ever
+it's the last time you will ever
+it !AUX a shame
+it !AUX painful
+it !AUX sad
+it !AUX so sad
+It !AUX so sad and senseless
+it !AUX with great sadness
+it !AUX with heartfelt sadness
+it pains
+it pains me
+it was always so crowded and now it's empty
+it will unfortunately be the last time
+just minding !POSSESSIVEPRONOUN own business and then they were gone
+just minding !POSSESSIVEPRONOUN own business and they were gone
+just shattered the American Dream
+just too much to bear
+just tragic
+just unbearable
+keen distress
+keen for !POSSESSIVEPRONOUN loss
+keen for our loss
+keen of
+keened about
+keened for
+keened for !POSSESSIVEPRONOUN loss
+keened for our losing
+keened with
+keening about
+keening for
+keening for !POSSESSIVEPRONOUN loss
+keening for our loss
+keening with
+keens about
+keens for
+keens for !POSSESSIVEPRONOUN loss
+keens for our loss
+keens of
+keens with
+killed on the job
+knew he was going to die
+knew she was going to die
+knew they were going to die
+knew you were going to die
+knowing he was going to die
+knowing she was going to die
+knowing they were going to die
+knowing you were going to die
+knowing you will never see your loved ones again
+knows he was going to die
+knows she was going to die
+knows they were going to die
+knows you were going to die
+lack basic necessities
+lack in basic necessities
+lack sanitary conditions
+lack sanitation
+lack the necessities
+lack the opportunity
+lacked  in basic necessities
+lacked basic necessities
+lacked sanitary conditions
+lacked sanitation
+lacked the necessities
+lacked the opportunity
+lacking basic necessities
+lacking in basic necessities
+lacking sanitary conditions
+lacking sanitation
+lacking the necessities
+lacking the opportunity
+lacks basic necessities
+lacks in basic necessities
+lacks sanitary conditions
+lacks sanitation
+lacks the necessities
+lacks the opportunity
+laden with sorrow
+lament for
+lament with
+lamented for
+lamented from
+lamented in
+lamented on
+lamented with
+lamenting for
+lamenting with
+laments for
+laments with
+leave cold and dry
+leave many children orphans
+leave many children without fathers
+leave many children without mothers
+leave many children without parents
+leave many husbands without wives
+leave many orphaned children
+leave many wives without husbands
+leaves cold and dry
+leaves many children orphans
+leaves many children without fathers
+leaves many children without mothers
+leaves many children without parents
+leaves many husbands without wives
+leaves many orphaned children
+leaves many wives without husbands
+leaving cold and dry
+leaving many children orphans
+leaving many children without fathers
+leaving many children without mothers
+leaving many children without parents
+leaving many husbands without wives
+leaving many orphaned children
+leaving many wives without husbands
+leaving widows and orphan behind
+left behind so many loved ones
+left behind to cope
+left behind to cope with it
+left behind to cope with it all
+left behind to deal with it
+left behind to pick up the pieces
+left cold and dry
+left many children orphans
+left many children without fathers
+left many children without mothers
+left many children without parents
+left many husbands without wives
+left many orphaned children
+left many wives without husbands
+left so many loved ones
+left without parents
+life alone
+life cut short
+life shattered
+life taken much too soon
+life taken too soon
+life was lost
+light-heartedness has been stolen
+lightheartedness has been stolen
+little anyone could have done
+little hope
+live the rest of !POSSESSIVEPRONOUN life without !POSSESSIVEPRONOUN dad
+live the rest of !POSSESSIVEPRONOUN life without !POSSESSIVEPRONOUN mom
+live the rest of !POSSESSIVEPRONOUN life without !POSSESSIVEPRONOUN parents
+lived the rest of !POSSESSIVEPRONOUN life without !POSSESSIVEPRONOUN dad
+lived the rest of !POSSESSIVEPRONOUN life without !POSSESSIVEPRONOUN mom
+lived the rest of !POSSESSIVEPRONOUN life without !POSSESSIVEPRONOUN parents
+lives being taken so soon
+lives deprived
+lives ruined
+lives shattered
+lives that were lost
+lives without
+living the rest of !POSSESSIVEPRONOUN life without !POSSESSIVEPRONOUN dad
+living the rest of !POSSESSIVEPRONOUN life without !POSSESSIVEPRONOUN mom
+living the rest of !POSSESSIVEPRONOUN life without !POSSESSIVEPRONOUN parents
+loneliness !VPARTICLE
+lonely end
+lonely ends
+lonely heart
+lonely hearts
+lonesome end
+lonesome ends
+look crestfallen
+look crushed
+Look of despair
+Look of sadness
+looked crestfallen
+looked crushed
+looking crestfallen
+looking crushed
+looks crestfallen
+looks crushed
+Looks of despair
+loose that part of happiness
+lose !POSSESSIVEPRONOUN best friend
+lose !POSSESSIVEPRONOUN loved one
+lose !POSSESSIVEPRONOUN loved ones
+lose a loved one
+lose faith
+lose faith in
+lose loved ones
+lose of lives
+lose one the best friends
+lose that gladness
+lose that happiness
+lose that joy
+lose that lightheartedness
+lose that part of gladness
+lose that part of happiness
+lose that part of joy
+lose that part of lightheartedness
+lose your best friend
+lose your loved ones
+loses !POSSESSIVEPRONOUN best friend
+loses !POSSESSIVEPRONOUN loved one
+loses !POSSESSIVEPRONOUN loved ones
+loses a loved one
+loses faith
+loses faith in
+loses loved ones
+loses one of the best friends
+loses that gladness
+loses that happiness
+loses that joy
+loses that lightheartedness
+loses that part of gladness
+loses that part of happiness
+loses that part of joy
+loses that part of lightheartedness
+loses your best friend
+loses your loved ones
+losing !POSSESSIVEPRONOUN best friend
+losing !POSSESSIVEPRONOUN loved one
+losing !POSSESSIVEPRONOUN loved ones
+losing a loved one
+losing faith
+losing faith in
+losing loved ones
+losing one of the best friends
+losing that gladness
+losing that happiness
+losing that joy
+losing that lightheartedness
+losing that part of gladness
+losing that part of happiness
+losing that part of joy
+losing that part of lightheartedness
+losing your best friend
+losing your loved ones
+loss and destruction
+loss by the families
+loss of
+loss of a legend
+loss of American lives
+loss of Americans
+loss of business
+loss of businesses
+loss of consciousness
+loss of epic proportion
+loss of face
+loss of families
+loss of family
+loss of heart
+loss of human life
+loss of innocence
+loss of innocent life
+loss of innocent lives
+loss of innocent people
+loss of jobs
+loss of life
+loss of lives
+loss of lives of innocent people
+loss of loved ones
+loss of many lives
+LOSS OF PEOPLE
+loss of precious life
+loss of property
+loss of so many
+loss of so many gifted people
+loss of so many innocent
+loss of so many innocent individuals
+loss of so many innocent lives
+loss of so many innocent people
+Loss of so many lives
+loss of such
+loss of the loved ones
+loss of valued
+loss to !POSSESSIVEPRONOUN
+loss to him
+loss to me
+loss to them
+loss to us
+loss to you
+losses of jobs
+losses of so many lives
+lost !POSSESSIVEPRONOUN best friend
+lost !POSSESSIVEPRONOUN loved one
+lost !POSSESSIVEPRONOUN loved ones
+lost a close friend
+lost a loved one
+lost a parent or both parents
+lost almost 2000 innocent lives
+lost almost 3000 innocent lives
+lost almost 6000 innocent lives
+lost faith
+lost faith in
+lost freedom
+lost freedoms
+lost from the attack
+lost from the attacks
+lost her life
+lost his life
+lost in the attack
+lost in the attacks
+lost loved ones
+lost one of the best friends
+lost opportunity
+lost over 2000 innocent lives
+lost over 3000 innocent lives
+lost over 6000 innocent lives
+lost someone they loved
+lost that gladness
+lost that happiness
+lost that joy
+lost that lightheartedness
+lost that part of gladness
+lost that part of happiness
+lost that part of joy
+lost that part of lightheartedness
+lost their lives
+lost there lives for nothing
+LOST TWO FRIENDS
+lost your best friend
+lost your loved ones
+loved one !AUX lost
+loved one was lost
+loved ones he left behind
+loved ones killed
+loved ones killed by !POSSESSIVEPRONOUN own countrymen
+loved ones she left behind
+loved ones starved
+loved ones starved by !POSSESSIVEPRONOUN own countrymen
+loved ones suffered
+loved ones they left behind
+loved ones we left behind
+loved ones who !AUX suffering
+loved ones who are suffering
+loved ones you left behind
+made them cry
+man's inhumanity to man
+man of sorrows
+many lives lost
+many people lost
+massive loss
+massive loss of human life
+massive losses
+massive losses of human life
+me not returning home
+melancholic person
+melancholic persons
+melted to tears
+miserable and lonely
+miserable death
+miserable deaths
+miss !POSSESSIVEPRONOUN children
+miss !POSSESSIVEPRONOUN parents
+miss a child
+miss a parent
+miss out on happiness
+miss the opportunity for
+missed !POSSESSIVEPRONOUN children
+missed !POSSESSIVEPRONOUN parents
+missed a child
+missed a parent
+missed out on happiness
+missed the opportunity for
+misses out on happiness
+misses the opportunity for
+missing !POSSESSIVEPRONOUN children
+missing !POSSESSIVEPRONOUN parents
+missing a child
+missing a loved on
+missing a parent
+missing child
+missing children
+missing families
+missing family
+missing loved ones
+missing out on happiness
+missing the opportunity for
+mother or father will never come home
+mother who will never hold her child again
+mother will never come home
+mourn for
+mourn the loss
+mourned !DETERMINER
+mourned !POSSESSIVEPRONOUN
+mourned !PRONOUNOBJECTIVE
+mourned for
+mourned the loss
+mourning for
+mourning the loss
+mourns for
+mourns the loss
+must be having to endure
+must be having to suffer
+must cope with it all
+must now be enduring
+must now be going through
+must now be suffering
+must say good-bye
+muttered sadly
+Needless loss of life
+never !HAVE A day Of peace
+never able to walk again
+never again to experience
+never again to hear
+never again to see
+never again to smell
+never again to taste
+never again to touch
+never again will he experience
+never again will he hear
+never again will he know
+never again will he see
+never again will he smell
+never again will he taste
+never again will I experience
+never again will I hear
+never again will I know
+never again will I see
+never again will I smell
+never again will I taste
+never again will she experience
+never again will she hear
+never again will she know
+never again will she see
+never again will she smell
+never again will she taste
+never again will they experience
+never again will they hear
+never again will they know
+never again will they see
+never again will they smell
+never again will they taste
+never again will we experience
+never again will we hear
+never again will we know
+never again will we see
+never again will we smell
+never again will we taste
+never again will you experience
+never again will you hear
+never again will you know
+never again will you see
+never again will you smell
+never again will you taste
+never be happy again
+never benefit from
+never benefits from
+never benefitted from
+never benefitting from
+never can be as comfortable
+never coming home
+never enjoy
+never enjoyed
+never enjoying
+never enjoys
+Never ever to be seen again
+never experience
+never get the chance
+never got the chance
+never got the chance to say I love you
+never got the chance to say we love you
+never got the time
+never got the time to say I love you
+never got the time to say we love you
+never had a chance
+never had a real chance
+never had the chance
+never had the opportunity
+never had the time
+never have a chance
+never having a chance
+never having an opportunity
+never having the opportunity
+never hearing
+never hold !POSSESSIVEPRONOUN child again
+never hold !POSSESSIVEPRONOUN hand
+never kiss
+never kissed
+never kissed again
+never kisses
+never kissing
+never know !POSSESSIVEPRONOUN brother's
+never know !POSSESSIVEPRONOUN brothers
+never know !POSSESSIVEPRONOUN children
+never know !POSSESSIVEPRONOUN daughter
+never know !POSSESSIVEPRONOUN daughter's
+never know !POSSESSIVEPRONOUN daughters'
+never know !POSSESSIVEPRONOUN families
+never know !POSSESSIVEPRONOUN father's
+never know !POSSESSIVEPRONOUN fathers
+never know !POSSESSIVEPRONOUN fathers'
+never know !POSSESSIVEPRONOUN mother's
+never know !POSSESSIVEPRONOUN mothers
+never know !POSSESSIVEPRONOUN mothers'
+never know !POSSESSIVEPRONOUN parent's
+never know !POSSESSIVEPRONOUN parents
+never know !POSSESSIVEPRONOUN parents'
+never know !POSSESSIVEPRONOUN sister's
+never know !POSSESSIVEPRONOUN sisters
+never know !POSSESSIVEPRONOUN son
+never know !POSSESSIVEPRONOUN son's
+never know !POSSESSIVEPRONOUN sons'
+never know what it's like
+never knowing that he would not return home
+never knowing that I would not return home
+never knowing that she would not return home
+never knowing that they would not return home
+never knowing that we would not return home
+never more
+never more to
+never more to experience
+never more to hear
+never more to see
+never more to smell
+never more to taste
+never more to touch
+never more will he experience
+never more will he hear
+never more will he know
+never more will he see
+never more will he smell
+never more will he taste
+never more will she experience
+never more will she hear
+never more will she know
+never more will she see
+never more will she smell
+never more will she taste
+never more will they experience
+never more will they hear
+never more will they know
+never more will they see
+never more will they smell
+never more will they taste
+never more will you experience
+never more will you hear
+never more will you know
+never more will you see
+never more will you smell
+never more will you taste
+never see !POSSESSIVEPRONOUN again
+never see him again
+never see it again
+never see them again
+never see there loved ones again
+never see us again
+never see you again
+never seeing
+never seeing !POSSESSIVEPRONOUN loved ones again
+never seeing their loved ones again
+never smelling
+never tasting
+never the chance
+never to be heard from
+never to be heard from again
+never to be kissed
+never to be seen again
+never to give it to the one they loved
+never to hug !POSSESSIVEPRONOUN children again
+never to hug !POSSESSIVEPRONOUN daughter again
+never to hug !POSSESSIVEPRONOUN daughters again
+never to hug !POSSESSIVEPRONOUN son again
+never to hug !POSSESSIVEPRONOUN sons again
+never to hug their children again
+never to know
+never to know love again
+never to love again
+never to return home
+never to return home again
+never to see
+never to see !POSSESSIVEPRONOUN again
+never to see again
+never to see him again
+never to see home again
+never to see their families again
+never to see their family again
+never to see them
+never to see them again
+never to see you again
+never touching
+no chance to say good-bye
+no chance to say good bye
+no funeral to say goodbye
+no help
+no help at all
+no hope
+no hope left
+no longer have a husband
+no longer have a wife
+no longer have their mother or father
+no more chance to say
+no more life
+no more time to say
+no more to experience
+no more to hear
+no more to see
+no more to smell
+no more to taste
+no more to touch
+no one to depend on
+no one to help
+no one to pray for
+no one to pray for !POSSESSIVEPRONOUN
+no one to pray for him
+no one to pray for me
+no one to pray for them
+no one to pray for us
+no one to pray for you
+no one to turn to
+no one to whom to turn
+no one wants !POSSESSIVEPRONOUN
+no one wants him
+no one wants them
+no one wants us
+no one will take !POSSESSIVEPRONOUN
+no one will take him
+no one will take me
+no one will take them
+no one will take you
+no sadder sight
+no sadder sight than
+no sanitary conditions
+no sanitation
+nobody to turn to
+nobody to whom to turn
+not being able to place the bodies into a grave
+not have one or two parents around
+not have one parent
+not have one parent around
+not have the chance to say good-bye
+not have two parents
+not have two parents around
+not knowing that he would not return home
+not knowing that I would not return home
+not knowing that she would not return home
+not knowing that they would not return home
+not knowing that we would not return home
+nothing sadder
+nothing to look forward to
+now its all over for them
+of despair
+of grief
+of sorrow
+of sorrows
+on the edge of tears
+one last time
+opportunity lost
+Ordinary people going about their everyday routines senselessly taken from us
+our loss
+our never returning home
+out of opportunities
+out of opportunity
+outpouring of grief
+outpouring of sorrow
+outrage and despair
+over the tragedy
+overwhelming futility
+overwhelming loss
+overwhelming loss of life
+overwhelming losses
+overwhelming losses of life
+Pain that the families feel
+pained at
+pained by
+pained from
+pained with
+painful deaths
+painful reminder of
+painful reminders of
+painfully heart-breaking
+painfully sad
+painfully tragic
+parent not only WAS! never coming home
+parent WAS! never coming home
+parent will never come home
+parents not only WAS! never coming home
+parents WAS! never coming home
+Parents who have lost Children
+parents who will never see their children again
+parents will never come home
+people !AUX dying
+people !AUX starving
+people !AUX suffering
+people in need
+people jumping out of the buildings
+people never to return home
+People not caring about other people
+people not caring for other people
+people not caring for others
+people starved
+People suffered
+people that lost friends
+people that lost friends and loved ones
+people that lost loved ones
+people who called their loved ones to say good-bye
+people who didn't get to see their loved ones
+people who didn't have a chance
+people who died who had not done harm to others
+people who lost friends
+people who lost friends and loved ones
+people who lost loved ones
+personal sorrow
+personal sorrows
+personally lose
+personally loses
+personally losing
+personally lost
+pine away
+pine for
+pined away
+pined for
+pines away
+pines for
+pining away
+pining aways
+pining for
+pining of
+pinings of
+pity for
+plain sad
+plunge !POSSESSIVEPRONOUN into despair
+plunge !POSSESSIVEPRONOUN into sorrow
+plunge him into despair
+plunge him into sorrow
+plunge in grief
+plunge into despair
+plunge into grief
+plunge into sorrow
+plunge them into despair
+plunge them into sorrow
+plunge you into despair
+plunge you into sorrow
+plunged !POSSESSIVEPRONOUN into despair
+plunged !POSSESSIVEPRONOUN into sorrow
+plunged him into despair
+plunged him into sorrow
+plunged in grief
+plunged into grief
+plunged into sorrow
+plunged them into despair
+plunged them into sorrow
+plunged you into despair
+plunged you into sorrow
+plunges !POSSESSIVEPRONOUN into despair
+plunges !POSSESSIVEPRONOUN into sorrow
+plunges him into despair
+plunges him into sorrow
+plunges in grief
+plunges into grief
+plunges into sorrow
+plunges them into despair
+plunges them into sorrow
+plunges you into despair
+plunges you into sorrow
+plunging !POSSESSIVEPRONOUN into despair
+plunging !POSSESSIVEPRONOUN into sorrow
+plunging him into despair
+plunging him into sorrow
+plunging in grief
+plunging into grief
+plunging into sorrow
+plunging them into despair
+plunging them into sorrow
+plunging you into despair
+plunging you into sorrow
+poor children
+poor hapless
+poor innocent
+poor innocent victim
+poor innocent victims
+poor innocents
+poor victims
+premature death
+premature deaths
+profound loss
+profound sorrow
+rather sad
+real tragedy
+real trauma
+real UNFORTUNATE
+really be sad
+really feel bad about
+really feel bad over
+reduce to tears
+reduced to tears
+reduces to tears
+reducing to tears
+relations torn apart
+relationships destroyed
+relationships disrupted
+relationships torn apart
+relatives he left behind
+relatives she left behind
+relatives they left behind
+relatives we left behind
+relatives you left behind
+remorse of conscience
+ripped from !POSSESSIVEPRONOUN loved ones
+ROYALWE! are no longer an innocent nation
+ROYALWE! have lost so many people
+ROYALWE! lost so many people
+rue !DETERMINER
+rue !POSSESSIVEPRONOUN
+rue !PRONOUNOBJECTIVE
+rue over
+rued !DETERMINER
+rued !POSSESSIVEPRONOUN
+rued !PRONOUNOBJECTIVE
+rued over
+rued the day
+rueing the day
+rues !DETERMINER
+rues !POSSESSIVEPRONOUN
+rues !PRONOUNOBJECTIVE
+rues over
+rues the day
+ruing !DETERMINER
+ruing !POSSESSIVEPRONOUN
+ruing !PRONOUNOBJECTIVE
+ruing over
+ruing the day
+ruth for
+sad and helpless
+sad and lonely
+sad and miserable
+sad and pained
+sad case
+sad cases
+sad disappointment
+sad disappointments
+sad fact
+sad fate
+sad fates
+sad for
+sad for the families
+sad for the families left behind
+sad for the families of the innocent victims
+sad loss of innocence
+sad of heart
+sad person
+sad persons
+sad sack
+sad sack of shit
+sad sacks
+sad sight
+sad state
+sad state of affairs
+sad that
+sad time
+sad times
+sad to
+sad to learn
+sad to say
+sad to think
+sad work
+saddened by
+sadder and wiser
+sadder sight
+saddest aspect
+saddest aspects
+sadly bereft
+sadly bereft of
+sadly forgotten
+sadness for
+saw !POSSESSIVEPRONOUN lose that happiness
+saw !POSSESSIVEPRONOUN lose that part of happiness
+saw him lose that happiness
+saw him lose that part of happiness
+saw them lose that happiness
+saw them lose that part of happiness
+saw you lose that happiness
+saw you lose that part of happiness
+see !POSSESSIVEPRONOUN lose that happiness
+see !POSSESSIVEPRONOUN lose that part of happiness
+see him lose that happiness
+see him lose that part of happiness
+see them lose that happiness
+see them lose that part of happiness
+see you lose that happiness
+see you lose that part of happiness
+seeing !POSSESSIVEPRONOUN lose that happiness
+seeing !POSSESSIVEPRONOUN lose that part of happiness
+seeing him lose that happiness
+seeing him lose that part of happiness
+seeing the people jump out of the top floors
+seeing them lose that happiness
+seeing them lose that part of happiness
+seeing you lose that happiness
+seeing you lose that part of happiness
+sees !POSSESSIVEPRONOUN lose that happiness
+sees !POSSESSIVEPRONOUN lose that part of happiness
+sees him lose that happiness
+sees him lose that part of happiness
+sees them lose that happiness
+sees them lose that part of happiness
+sees you lose that happiness
+sees you lose that part of happiness
+sense bereaving
+sense of despair
+sense of loss
+senseless loss
+senseless loss of life
+senseless loss of lives
+senseless losses
+senses bereaving
+sensing bereaving
+separated from !POSSESSIVEPRONOUN loved ones
+shatter !POSSESSIVEPRONOUN dreams
+shatter the dream
+shatter the dreams
+shatter your dreams
+shattered !POSSESSIVEPRONOUN dreams
+shattered the dream
+shattered the dreams
+shattered your dreams
+shattering !POSSESSIVEPRONOUN dreams
+shattering the dream
+shattering the dreams
+shattering your dreams
+shatters !POSSESSIVEPRONOUN dreams
+shatters the dream
+shatters the dreams
+shatters your dreams
+she never had a chance
+she would have been !NUMS1TO100
+she would have been !NUMS1TO100 years old
+shed tears
+shedding a tear
+shedding tears
+sheds a tear
+sheds tears
+sheer lonliness
+sick of man's cruelty
+sick of the cruelty
+significant loss
+significant losses
+sink into despair
+sinking !POSSESSIVEPRONOUN soul
+sinking feeling
+sinking feelings
+sinking heart
+sinking hearts
+sinking into despair
+sinking your soul
+sinks !POSSESSIVEPRONOUN soul
+sinks into despair
+sinks your soul
+small a chance
+small chance of making it
+small chance of surviving
+small chances of making it
+small chances of surviving
+so many broken homes
+so many children had their parents taken away
+so many dead
+so many deaths
+so many families !AUX left alone without
+so many families !AUX left alone without their loved ones
+so many families !AUX left alone without their loved ones around them
+so many families !AUX left without
+so many had to die
+so many human lives lost
+so many innocent lives
+so many innocent people had to die
+so many kids lost a parent
+so many kids lost their fathers
+so many kids lost their mothers
+so many kids lost their mothers and fathers
+so many kids lost their parents
+so many lives
+so many lives being destroyed
+so many lives being disrupted
+So many lives being effected
+So many lives being impacted
+so many lives being torn apart
+so many lives lost
+so many lives were changed for no purpose
+SO MANY PEOPLE WHO WERE UNHARMED GRIEVED
+so much suffering
+so much suffering on the part of
+so sad
+so sad as
+so small a chance of making it
+so small a chance of surviving
+so sorry for
+sob on
+sob story
+sobbed about
+sobbed at
+sobbed for
+sobbed from
+sobbed in
+sobbed on
+sobbed with
+sobbing hard
+sobbing on
+sobered !POSSESSIVEPRONOUN
+sobered by
+sobered him
+sobered them
+sobered with
+sobered you
+sobering effect
+sobering effects
+sobering idea
+sobering ideas
+sobering thought
+sobering thoughts
+sobs on
+some poignancy
+sorely lack
+sorely lacked
+sorely lacking
+sorely lacks
+sorely need
+sorrow for
+sorrow of
+sorrow over
+sorrow with
+sorrowed for
+sorrowed over
+sorrowed with
+sorrowful father
+sorrowful fathers
+sorrowful mother
+sorrowful mothers
+sorrowful tree
+sorrowing for
+sorrowing over
+sorrowing with
+sorrows for
+sorrows of
+sorrows over
+sorrows with
+sorry about that
+sorry for
+sorry for yourself
+sorry lot
+sorry plight
+sorry plights
+sorry sight
+sorry state
+sorry states
+state of grief
+stolen from !POSSESSIVEPRONOUN loved ones
+such a small chance
+such a waste of good people
+suffer from loneliness
+suffer from this tragedy
+suffer horrendously
+suffer loneliness
+suffer so much
+suffered and died
+suffered from loneliness
+suffered from this tragedy
+suffered horrendously
+suffered loneliness
+Suffered So Much
+suffering from loneliness
+suffering from this tragedy
+suffering horrendously
+suffering loneliness
+suffering so much
+suffers from loneliness
+suffers from this tragedy
+suffers horrendously
+suffers loneliness
+suicidal despair
+sunken feeling
+sunken feelings
+taken from me
+taken from us
+tear of heartache
+tear of pain
+tear of regret
+tear of sadness
+tearful face
+tearful faces
+tearful look
+tearful looks
+tears bursting
+tears of
+tears of heartache
+tears of pain
+tears of regret
+tears of sadness
+teary eyed
+terrible death
+terrible deaths
+terrible for
+terrible loss
+terrible loss of life
+terrible losses
+terrible waste
+terrible wastes
+terribly lonely
+that's sad
+that I have lost
+that I lost
+that same day they became orphans
+that same day they became widows
+that so many had to die
+that there !AUX no hope
+that they will never know
+that we have lost
+that we lost
+the children of the victims
+the children who don't have !POSSESSIVEPRONOUN parents
+the children who don't have !POSSESSIVEPRONOUN parents anymore
+the constant reminders
+the death of all those
+the death of all those people
+the destruction of those beautiful buildings
+the doldrums
+the dolefuls
+The effect on the orphans
+The effect on the widowers and orphans
+the effect on the widows
+the face of he who died
+the face of she who died
+the faces of those who died
+the families' losses
+the families of the victims
+the families of those killed in the attack
+The families that lost someone
+The family that lost someone
+the futility of it all
+the great loss
+the great losses
+the hopelessness
+the horrible way !PRONOUNNOMINAL died
+the innocent people who were killed
+the irreplaceable losses
+the lives of innocent
+the lives of innocent civilians
+the lives that were lost
+the loneliness
+the loneliness in
+the loss
+the loss of
+the loss of life
+the loss of lives of innocent people
+the loss of so many
+the loss of so many innocent
+the loss of so many innocent individuals
+the loss of so many innocent lives
+the loss of so many innocent people
+The loss of so many lives
+the loved ones of the innocent victims
+the loved ones of the victims
+the man of sorrows
+the neglected
+the number of lives lost
+the number of lives that were lost
+the opportunity passed by
+the people who !AUX missing all seem so young
+the people who !AUX missing and they all seem so young
+the poignance
+the poor and neglected
+the poor children
+The Poor Families
+the poor parents
+the sad
+The sad part
+the sad thing
+the saddest
+the saddest thing
+the saddist thing
+the sheer futility
+the sorrowful father
+the sorrowful fathers
+the sorrowful mother
+the sorrowful mothers
+the thing making me most sad
+the thing making us most sad
+the woman of sorrows
+the world lost
+THERE !AUX CHILDREN LEFT WITHOUT PARENTS
+there !AUX no hope
+there !AUX nothing anyone can do
+there was nothing !PRONOUNNOMINAL could do
+there was nothing anyone could do
+there would be no funeral to say goodbye
+these people had to experience
+they became orphans
+they became widows
+They never had a chance
+they will never know
+think of the victims
+thinking of the victims
+thinks of the victims
+this terrible tragedy
+this tragedy
+thought of the victims
+thoughts of me not going home
+thoughts of the affected people not going home
+thoughts of us not going home
+through absolutely no fault of !POSSESSIVEPRONOUN own
+through no fault of !POSSESSIVEPRONOUN own
+through tears of heartache
+through tears of pain
+through tears of regret
+through tears of sadness
+to be buried alive in the rubble
+to bury !POSSESSIVEPRONOUN loved ones
+to bury your loved ones
+to grieve
+to grieve the loss
+to tears
+toll on !POSSESSIVEPRONOUN families
+toll on !POSSESSIVEPRONOUN family
+toll on our families
+toll on our family
+tolls on !POSSESSIVEPRONOUN families
+tolls on !POSSESSIVEPRONOUN family
+too many people lost
+too many victims
+too much to bare
+torn from !POSSESSIVEPRONOUN loved ones
+touched by the loss
+touched by the loss of family
+touched by the losses
+touched by the losses of family
+tragic event
+tragic events
+Tragic for
+tragic loss
+tragic loss of life
+tragic loss of lives
+tragic loss of property
+tragic losses
+tragic waste
+tragic waste of life
+tragic waste of lives
+tragic wastes
+tragically altered
+tragically for
+tremendous loss
+tremendous loss of life
+tremendous losses
+tremendous losses of life
+two big, beautiful buildings !AUX not there anymore
+unbearable to
+unsuspected loss
+unsuspected losses
+unsuspecting and innocent
+unsuspecting loss
+UNSUSPECTING LOSSES
+untimely death
+untimely deaths
+untimely end
+untimely ends
+us not returning home
+utter despair
+utter lonliness
+vale of tears
+very unfortunate
+victim's families
+victim's family
+victims' families
+victims in need
+visit upon
+visited upon
+visiting upon
+visits upon
+wail of woe
+wail of woes
+WAS! suffering
+waste of human beings
+waste of human life
+waste of human lives
+we're sorry
+we're sorry for
+we're sorry for all
+we've lost a way of life
+we !AUX by ourselves
+we have been abandoned
+we have lost
+we lost
+we never had a chance
+we were upset
+weep for
+weep over
+weep with
+weep with them that weep
+weeping and gnashing of teeth
+weeping for
+weeping over
+weeping with
+weeping with them that weep
+weeps for
+weeps over
+weeps with
+weeps with them that weep
+wept for
+wept over
+wept with
+wept with them that weep
+what can you really do
+what can you really do about it
+WHEN THE DAY WAS OVER THEY WERE ORPHANS
+WHEN THE DAY WAS OVER THEY WERE widows
+who !AUX forced to go through life
+who !HAVE lost someone !PRONOUNNOMINAL loved
+who did not have the chance to say I love you
+who did not have the chance to say we love you
+who did not take the time to say I love you
+who did not take the time to say we love you
+who didn't have a chance
+who has forever lost
+who has lost forever
+who have forever lost
+who have lost forever
+who have lost someone they loved
+who have no close friends
+who have no family
+who have no one to turn to
+who have no one to whom to turn
+who were being ripped apart
+who were being torn apart
+who were ripped apart
+who were torn apart
+who will be forced to go through life
+who will have to go through life
+who will never again experience
+who will never again feel
+who will never again know
+who will never see !POSSESSIVEPRONOUN children
+who will never see !POSSESSIVEPRONOUN children again
+who will never see !POSSESSIVEPRONOUN families
+who will never see !POSSESSIVEPRONOUN families again
+who will never see !POSSESSIVEPRONOUN parents
+who will never see !POSSESSIVEPRONOUN parents again
+wife and babies have no father
+wife and babies without fathers
+Will anybody every be happy again?
+will anyone be happy again
+will anyone ever be happy again
+will be deeply missed
+will be missed
+will be missing a child
+will be missing a confidant
+will be missing a family member
+will be missing a friend
+will be missing a parent
+will be missing a relative
+will be missing someone to talk to
+will be much missed
+will be truly missed
+will go without
+will grow up deprived
+will grow up dispossessed
+will grow up unloved
+will grow up unwanted
+will have to learn to do without
+will have to learn to live without
+will miss
+will never again have
+will never again know
+will never again see
+will never be able to replace those lost
+will never enjoy it again
+will never experience it again
+will never have a hope
+will never have again
+will never have the chance
+will never have the hope
+will never have the opportunity
+will never hear it again
+will never know !POSSESSIVEPRONOUN father
+will never know !POSSESSIVEPRONOUN fathers
+will never know !POSSESSIVEPRONOUN mother
+will never know !POSSESSIVEPRONOUN mothers
+will never know !POSSESSIVEPRONOUN parents
+will never know it again
+will never know what kind of person their mother or father were
+will never play it again
+will never replace those lost
+will never see !POSSESSIVEPRONOUN brother again
+will never see !POSSESSIVEPRONOUN brothers again
+will never see !POSSESSIVEPRONOUN children
+will never see !POSSESSIVEPRONOUN children again
+will never see !POSSESSIVEPRONOUN families
+will never see !POSSESSIVEPRONOUN families again
+will never see !POSSESSIVEPRONOUN loved ones again
+will never see !POSSESSIVEPRONOUN parents
+will never see !POSSESSIVEPRONOUN parents again
+will never see !POSSESSIVEPRONOUN siblings again
+will never see !POSSESSIVEPRONOUN sister again
+will never see !POSSESSIVEPRONOUN sisters again
+will never see it again
+will never smell it again
+will never taste it again
+will never touch it again
+will still be lost
+will will never again
+with downcast eyes
+with emotional pain
+with great sadness
+with grief
+with more loss of lives
+with no chance of ever
+with no one to turn to
+with no one to whom to turn
+with sad
+with suffering
+with sullen mouth
+with tearful eyes
+with tears
+with tears in eyes
+with tears in your eyes
+without !POSSESSIVEPRONOUN daddy's
+without !POSSESSIVEPRONOUN dads
+without !POSSESSIVEPRONOUN mom's
+without !POSSESSIVEPRONOUN moms
+without a member of !POSSESSIVEPRONOUN family
+without a shred of hope
+without any chance
+without any chance to
+without any chance to know
+without any chance to know why
+without ever being able to walk
+without ever experiencing
+without ever getting a chance
+without ever getting the chance
+without ever having a chance
+without ever having the chance
+without ever hearing
+without ever knowing
+without ever knowing a life
+without ever seeing
+without ever seeing dad again
+without ever seeing dad or mom again
+without ever seeing mom again
+without ever seeing their dad or mom again
+without ever smelling
+without ever tasting
+without ever touching
+without food
+without happiness
+without hope
+without love
+without means
+without sanitary conditions
+without sanitation
+without shelter
+without the chance
+without the chance to say !POSSESSIVEPRONOUN good-byes
+without the chance to say !POSSESSIVEPRONOUN good byes
+without the chance to say good-bye
+without the chance to say good bye
+without the chance to say your good-byes
+without the chance to say your good byes
+without the hope
+without the necessities
+without their love ones around
+without their loved ones around
+without there love ones around
+without there loved ones around
+wives who were pregnant and had their children alone
+woefully unpolished
+would never see !PRONOUNOBJECTIVE again
+would never see him again
+would never see it again
+would never see them again
+would never see you again
+wrested from !POSSESSIVEPRONOUN loved ones
+wretched situation
+wretched situations
+you !AUX helpless
+you have lost control
+you never had a chance

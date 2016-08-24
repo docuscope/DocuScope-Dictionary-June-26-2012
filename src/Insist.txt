@@ -1,0 +1,1508 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER necessity
+!AUX !DETERMINER necessity of
+!AUX !DETERMINER prescription for
+!AUX clearly warranted
+!AUX definitely warranted
+!AUX imperative
+!AUX necessities
+!AUX necessities of
+!AUX prescriptions for
+!AUX prescripts for
+!AUX supposed
+!AUX supposed to
+!AUX supposed to have
+!AUX warranted
+!DETERMINER !MUSTSHOULD
+!DETERMINER !MUSTSHOULD for
+!DETERMINER !MUSTSHOULD for !YOU
+!DETERMINER !MUSTSHOULD for !YOU to !DECIDE
+!DETERMINER !MUSTSHOULD for your decision
+!DETERMINER !OUGHTNEED for
+!DETERMINER !OUGHTNEED to
+!DETERMINER necessary
+!HAVE !DETERMINER obligation
+!HAVE !DETERMINER obligation to
+!HAVE got to
+!HAVE to
+!HAVE to be
+!HAVE to bear in mind
+!HAVE to keep in mind
+!HAVE to put !POSSESSIVEPRONOUN feet down
+!HAVE to put !POSSESSIVEPRONOUN foot down
+!HAVE to put his foot down
+!HAVE to put my foot down
+!HAVE to put our foot down
+!HAVE to put your foot down
+!HAVE to stick up for
+!HAVE to take into account
+!HEADDET ought to be
+!HOLD !PRONOUNOBJECTIVE to
+!HOLD !PRONOUNOBJECTIVE to !DETERMINER high standard
+!HOLD !PRONOUNOBJECTIVE to !DETERMINER higher standard
+!HOLD me to
+!HOLD me to !DETERMINER high standard
+!HOLD me to !DETERMINER higher standard
+!HOLD us to
+!HOLD us to !DETERMINER high standard
+!HOLD us to !DETERMINER higher standard
+!MAKE !DETERMINER demand for
+!MAKE demands for
+!MAKE demands on
+!MAKE imperative
+!MAKE incumbent
+!MAKE IT !POSSESSIVEPRONOUN BUSINESS TO
+!MUSTSHOULD
+!MUSTSHOULD !BRING it to your attention
+!MUSTSHOULD !DECIDE
+!MUSTSHOULD !DECIDE if !ROYALWE !AUX to
+!MUSTSHOULD !DECIDE if he !AUX to
+!MUSTSHOULD !DECIDE if I am to
+!MUSTSHOULD !DECIDE if she !AUX to
+!MUSTSHOULD !DECIDE if they !AUX to
+!MUSTSHOULD !DECIDE on
+!MUSTSHOULD !MAKE do with
+!MUSTSHOULD !PRESSUREVERB
+!MUSTSHOULD !REFUTE
+!MUSTSHOULD adjudicate
+!MUSTSHOULD also
+!MUSTSHOULD always
+!MUSTSHOULD always be
+!MUSTSHOULD answer
+!MUSTSHOULD answer for
+!MUSTSHOULD answer to
+!MUSTSHOULD argue
+!MUSTSHOULD ascertain
+!MUSTSHOULD authorize
+!MUSTSHOULD be !DETERMINER
+!MUSTSHOULD be !DETERMINER act
+!MUSTSHOULD be able to
+!MUSTSHOULD be bearing in mind
+!MUSTSHOULD be defended
+!MUSTSHOULD be enduring
+!MUSTSHOULD be expected
+!MUSTSHOULD be expected to
+!MUSTSHOULD be going through
+!MUSTSHOULD be masochistic
+!MUSTSHOULD be no more than
+!MUSTSHOULD be reckoned with
+!MUSTSHOULD be tolerated
+!MUSTSHOULD be vacating
+!MUSTSHOULD bear in mind
+!MUSTSHOULD believe
+!MUSTSHOULD carry up to
+!MUSTSHOULD certainly be
+!MUSTSHOULD compass
+!MUSTSHOULD conclude
+!MUSTSHOULD constantly
+!MUSTSHOULD deal with
+!MUSTSHOULD do better
+!MUSTSHOULD do better than that
+!MUSTSHOULD face !DETERMINER music
+!MUSTSHOULD feel
+!MUSTSHOULD fight !DETERMINER inertia
+!MUSTSHOULD get
+!MUSTSHOULD give !PRONOUNOBJECTIVE pause
+!MUSTSHOULD give !YOU notice
+!MUSTSHOULD give !YOU pause
+!MUSTSHOULD give me pause
+!MUSTSHOULD give us pause
+!MUSTSHOULD go on
+!MUSTSHOULD haul up to
+!MUSTSHOULD have !DETERMINER limit of
+!MUSTSHOULD have !DETERMINER minimum of
+!MUSTSHOULD have !POSSESSIVEPRONOUN way
+!MUSTSHOULD have his way
+!MUSTSHOULD have known
+!MUSTSHOULD have known better
+!MUSTSHOULD have known it was coming
+!MUSTSHOULD have known of
+!MUSTSHOULD have let well enough alone
+!MUSTSHOULD have my way
+!MUSTSHOULD have needed to vacate
+!MUSTSHOULD have no more than
+!MUSTSHOULD have our way
+!MUSTSHOULD have somehow
+!MUSTSHOULD have the capability
+!MUSTSHOULD have up to
+!MUSTSHOULD have vacated
+!MUSTSHOULD hear from
+!MUSTSHOULD hold up to
+!MUSTSHOULD insist on
+!MUSTSHOULD insist that
+!MUSTSHOULD item
+!MUSTSHOULD items
+!MUSTSHOULD judge
+!MUSTSHOULD judge !PRONOUNOBJECTIVE on !POSSESSIVEPRONOUN merits
+!MUSTSHOULD judge !PRONOUNOBJECTIVE on !POSSESSIVEPRONOUN own merits
+!MUSTSHOULD judge !PRONOUNOBJECTIVE on his merits
+!MUSTSHOULD judge !PRONOUNOBJECTIVE on his own merits
+!MUSTSHOULD judge !YOU on your merits
+!MUSTSHOULD judge !YOU on your own merits
+!MUSTSHOULD judge me on my merits
+!MUSTSHOULD judge me on my own merits
+!MUSTSHOULD judge on !POSSESSIVEPRONOUN own merit
+!MUSTSHOULD judge on !POSSESSIVEPRONOUN own merits
+!MUSTSHOULD judge us on our merits
+!MUSTSHOULD judge us on our own merits
+!MUSTSHOULD keep your
+!MUSTSHOULD know
+!MUSTSHOULD let
+!MUSTSHOULD LET !PRONOUNOBJECTIVE KNOW
+!MUSTSHOULD level with
+!MUSTSHOULD make
+!MUSTSHOULD meet the expectation that
+!MUSTSHOULD never
+!MUSTSHOULD never have depended on
+!MUSTSHOULD no
+!MUSTSHOULD not
+!MUSTSHOULD not abide
+!MUSTSHOULD not abide by
+!MUSTSHOULD not be
+!MUSTSHOULD not be confused with
+!MUSTSHOULD not be doing what !ROYALWE !AUX doing
+!MUSTSHOULD not be doing what !YOU !AUX doing
+!MUSTSHOULD not be doing what he !AUX doing
+!MUSTSHOULD not be doing what she !AUX doing
+!MUSTSHOULD not be doing what they !AUX doing
+!MUSTSHOULD not have
+!MUSTSHOULD not have exceeded
+!MUSTSHOULD not have kept faith in
+!MUSTSHOULD not have relied on
+!MUSTSHOULD not have relied upon
+!MUSTSHOULD not have swore by
+!MUSTSHOULD not have sworn by
+!MUSTSHOULD not have trusted
+!MUSTSHOULD not let
+!MUSTSHOULD not let !PRONOUNOBJECTIVE
+!MUSTSHOULD not sit well
+!MUSTSHOULD not sit well with
+!MUSTSHOULD offset
+!MUSTSHOULD pay !DETERMINER piper
+!MUSTSHOULD pay attention to
+!MUSTSHOULD prescript
+!MUSTSHOULD press
+!MUSTSHOULD prevail on
+!MUSTSHOULD prevail over
+!MUSTSHOULD prove that
+!MUSTSHOULD push up to
+!MUSTSHOULD put out
+!MUSTSHOULD put up with
+!MUSTSHOULD read for
+!MUSTSHOULD reading for
+!MUSTSHOULD really
+!MUSTSHOULD really expect.
+!MUSTSHOULD recall
+!MUSTSHOULD refer
+!MUSTSHOULD replace
+!MUSTSHOULD resign
+!MUSTSHOULD resolve
+!MUSTSHOULD somehow have
+!MUSTSHOULD stand
+!MUSTSHOULD stand firmly
+!MUSTSHOULD stand firmly behind
+!MUSTSHOULD stop
+!MUSTSHOULD take steps to
+!MUSTSHOULD tell
+!MUSTSHOULD TELL !PRONOUNOBJECTIVE
+!MUSTSHOULD think
+!MUSTSHOULD think long and hard
+!MUSTSHOULD think long and hard about
+!MUSTSHOULD think long and hard before
+!MUSTSHOULD to !DECIDE
+!MUSTSHOULD try to
+!MUSTSHOULD vacate
+!MUSTSHOULD want
+!MUSTSHOULD want to
+!MUSTSHOULD WELL
+!MUSTSHOULD withdraw
+!MUSTSHOULD yield
+!OUGHTNEED
+!OUGHTNEED !DETERMINER
+!OUGHTNEED !DETERMINER ruler
+!OUGHTNEED !MUSTSHOULD
+!OUGHTNEED !POSSESSIVEPRONOUN
+!OUGHTNEED !PRONOUNOBJECTIVE
+!OUGHTNEED !REFUTE
+!OUGHTNEED also to
+!OUGHTNEED answer
+!OUGHTNEED answer to
+!OUGHTNEED be
+!OUGHTNEED carefully
+!OUGHTNEED carefully to
+!OUGHTNEED never
+!OUGHTNEED no
+!OUGHTNEED not
+!OUGHTNEED not !PRONOUNNOMINAL for once
+!OUGHTNEED not be
+!OUGHTNEED not have to
+!OUGHTNEED not to be
+!OUGHTNEED not to be disputed
+!OUGHTNEED prescribe
+!OUGHTNEED probably to
+!OUGHTNEED proof
+!OUGHTNEED support
+!OUGHTNEED supporting
+!OUGHTNEED TO
+!OUGHTNEED to act
+!OUGHTNEED to act decisively
+!OUGHTNEED to act immediately
+!OUGHTNEED to act now
+!OUGHTNEED to adjudicate
+!OUGHTNEED to admit
+!OUGHTNEED to admit the truth
+!OUGHTNEED to agree
+!OUGHTNEED to also
+!OUGHTNEED to answer
+!OUGHTNEED to answer to
+!OUGHTNEED to be stopped
+!OUGHTNEED to believe
+!OUGHTNEED to capitulate
+!OUGHTNEED to carefully
+!OUGHTNEED to concede
+!OUGHTNEED to do so
+!OUGHTNEED to keep it that way
+!OUGHTNEED to keep still about
+!OUGHTNEED to keep still until
+!OUGHTNEED to keep still!
+!OUGHTNEED to keep your
+!OUGHTNEED to level with
+!OUGHTNEED to press
+!OUGHTNEED to prevail on
+!OUGHTNEED to prevail over
+!OUGHTNEED to stand firmly
+!OUGHTNEED to stand firmly behind
+!OUGHTNEED to stop
+!OUGHTNEED to take advantage of
+!OUGHTNEED to want to
+!OUGHTNEED translation
+!POSSESSIVEPRONOUN demand
+!POSSESSIVEPRONOUN demand for
+!POSSESSIVEPRONOUN demands
+!POSSESSIVEPRONOUN demands for
+!PRESSUREVERB !YOU to
+!PRESSUREVERB that !YOU
+!PRONOUNNOMINAL !OUGHTNEED to
+!PRONOUNNOMINAL !OUGHTNEED to agree
+!PRONOUNNOMINAL !OUGHTNEED to speak out against
+!PRONOUNNOMINAL shall take whatever steps !AUX necessary
+!QUESTION !ROYALWE !MUSTSHOULD
+!QUESTION !ROYALWE !OUGHTNEED to
+!QUESTION it !MUSTSHOULD be
+!ROYALWE !AUX not to
+!ROYALWE !AUX recommending
+!ROYALWE !AUX recommending that
+!ROYALWE !MUSTSHOULD
+!ROYALWE !MUSTSHOULD !DECIDE
+!ROYALWE !MUSTSHOULD !PRESSUREVERB
+!ROYALWE !MUSTSHOULD act
+!ROYALWE !MUSTSHOULD adjudicate
+!ROYALWE !MUSTSHOULD affirm
+!ROYALWE !MUSTSHOULD agree
+!ROYALWE !MUSTSHOULD argue
+!ROYALWE !MUSTSHOULD ascertain
+!ROYALWE !MUSTSHOULD assert
+!ROYALWE !MUSTSHOULD assess
+!ROYALWE !MUSTSHOULD attest
+!ROYALWE !MUSTSHOULD aver
+!ROYALWE !MUSTSHOULD avow
+!ROYALWE !MUSTSHOULD be
+!ROYALWE !MUSTSHOULD be patient
+!ROYALWE !MUSTSHOULD be sure to
+!ROYALWE !MUSTSHOULD believe
+!ROYALWE !MUSTSHOULD claim
+!ROYALWE !MUSTSHOULD commit to
+!ROYALWE !MUSTSHOULD conclude
+!ROYALWE !MUSTSHOULD confess
+!ROYALWE !MUSTSHOULD contend
+!ROYALWE !MUSTSHOULD counter-act
+!ROYALWE !MUSTSHOULD cut back from
+!ROYALWE !MUSTSHOULD cut back on
+!ROYALWE !MUSTSHOULD decide
+!ROYALWE !MUSTSHOULD declaim
+!ROYALWE !MUSTSHOULD declare
+!ROYALWE !MUSTSHOULD defend
+!ROYALWE !MUSTSHOULD define
+!ROYALWE !MUSTSHOULD deliberate
+!ROYALWE !MUSTSHOULD determine
+!ROYALWE !MUSTSHOULD divulge
+!ROYALWE !MUSTSHOULD do so
+!ROYALWE !MUSTSHOULD educate
+!ROYALWE !MUSTSHOULD exercise patience
+!ROYALWE !MUSTSHOULD fess up to
+!ROYALWE !MUSTSHOULD fight for
+!ROYALWE !MUSTSHOULD go on
+!ROYALWE !MUSTSHOULD have
+!ROYALWE !MUSTSHOULD have patience
+!ROYALWE !MUSTSHOULD hear from
+!ROYALWE !MUSTSHOULD identify
+!ROYALWE !MUSTSHOULD insist
+!ROYALWE !MUSTSHOULD insist on
+!ROYALWE !MUSTSHOULD judge
+!ROYALWE !MUSTSHOULD know better
+!ROYALWE !MUSTSHOULD know that
+!ROYALWE !MUSTSHOULD make the !CLAIM
+!ROYALWE !MUSTSHOULD nix
+!ROYALWE !MUSTSHOULD no longer
+!ROYALWE !MUSTSHOULD not
+!ROYALWE !MUSTSHOULD not agree that
+!ROYALWE !MUSTSHOULD not assert that
+!ROYALWE !MUSTSHOULD not avow that
+!ROYALWE !MUSTSHOULD not believe that
+!ROYALWE !MUSTSHOULD not let
+!ROYALWE !MUSTSHOULD not let !PRONOUNOBJECTIVE
+!ROYALWE !MUSTSHOULD not think that
+!ROYALWE !MUSTSHOULD note
+!ROYALWE !MUSTSHOULD now define
+!ROYALWE !MUSTSHOULD now identity
+!ROYALWE !MUSTSHOULD now try to
+!ROYALWE !MUSTSHOULD observe
+!ROYALWE !MUSTSHOULD posit
+!ROYALWE !MUSTSHOULD preach
+!ROYALWE !MUSTSHOULD proclaim
+!ROYALWE !MUSTSHOULD profess
+!ROYALWE !MUSTSHOULD pronounce
+!ROYALWE !MUSTSHOULD question the
+!ROYALWE !MUSTSHOULD reassess
+!ROYALWE !MUSTSHOULD reconsider
+!ROYALWE !MUSTSHOULD reevaluate
+!ROYALWE !MUSTSHOULD replace
+!ROYALWE !MUSTSHOULD resolve
+!ROYALWE !MUSTSHOULD resolve to
+!ROYALWE !MUSTSHOULD say
+!ROYALWE !MUSTSHOULD show patience
+!ROYALWE !MUSTSHOULD state
+!ROYALWE !MUSTSHOULD suggest
+!ROYALWE !MUSTSHOULD summon
+!ROYALWE !MUSTSHOULD support
+!ROYALWE !MUSTSHOULD take another look
+!ROYALWE !MUSTSHOULD take responsibility for
+!ROYALWE !MUSTSHOULD think twice before
+!ROYALWE !MUSTSHOULD try to
+!ROYALWE !MUSTSHOULD want
+!ROYALWE !OUGHTNEED
+!ROYALWE !OUGHTNEED !DECIDE
+!ROYALWE !OUGHTNEED !YOU
+!ROYALWE !OUGHTNEED not
+!ROYALWE !OUGHTNEED not to
+!ROYALWE !OUGHTNEED reassess
+!ROYALWE !OUGHTNEED reconsider
+!ROYALWE !OUGHTNEED reevaluate
+!ROYALWE !OUGHTNEED take another look
+!ROYALWE !OUGHTNEED to
+!ROYALWE !OUGHTNEED to !DECIDE
+!ROYALWE !OUGHTNEED to !PLAY the devil's advocate
+!ROYALWE !OUGHTNEED to !READERFOCUS
+!ROYALWE !OUGHTNEED to !REFUTE
+!ROYALWE !OUGHTNEED to act
+!ROYALWE !OUGHTNEED to adjudicate
+!ROYALWE !OUGHTNEED to affirm
+!ROYALWE !OUGHTNEED to argue
+!ROYALWE !OUGHTNEED to ascertain
+!ROYALWE !OUGHTNEED to assert
+!ROYALWE !OUGHTNEED to assess
+!ROYALWE !OUGHTNEED to attest
+!ROYALWE !OUGHTNEED to aver
+!ROYALWE !OUGHTNEED to avow
+!ROYALWE !OUGHTNEED to believe
+!ROYALWE !OUGHTNEED to call into question
+!ROYALWE !OUGHTNEED to claim
+!ROYALWE !OUGHTNEED to commit to
+!ROYALWE !OUGHTNEED to conclude
+!ROYALWE !OUGHTNEED to confess
+!ROYALWE !OUGHTNEED to contend
+!ROYALWE !OUGHTNEED to decide
+!ROYALWE !OUGHTNEED to declaim
+!ROYALWE !OUGHTNEED to declare
+!ROYALWE !OUGHTNEED to defend
+!ROYALWE !OUGHTNEED to determine
+!ROYALWE !OUGHTNEED to divulge
+!ROYALWE !OUGHTNEED to judge
+!ROYALWE !OUGHTNEED to make the !CLAIM
+!ROYALWE !OUGHTNEED to object that
+!ROYALWE !OUGHTNEED to object to
+!ROYALWE !OUGHTNEED to observe
+!ROYALWE !OUGHTNEED to preach
+!ROYALWE !OUGHTNEED to proclaim
+!ROYALWE !OUGHTNEED to profess
+!ROYALWE !OUGHTNEED to pronounce
+!ROYALWE !OUGHTNEED to question the !CLAIM
+!ROYALWE !OUGHTNEED to resolve
+!ROYALWE !OUGHTNEED to resolve to
+!ROYALWE !OUGHTNEED to say
+!ROYALWE !OUGHTNEED to state
+!ROYALWE !OUGHTNEED to submit
+!ROYALWE !OUGHTNEED to suggest
+!ROYALWE !OUGHTNEED to support
+!ROYALWE !OUGHTNEED to take care of
+!ROYALWE !OUGHTNEED to think twice about
+!ROYALWE !OUGHTNEED to think twice before
+!ROYALWE !PRESSUREVERB !YOU to
+!ROYALWE !PRESSUREVERB that !YOU
+!ROYALWE !PRESSUREVERB to !YOU that
+!ROYALWE absolutely
+!ROYALWE cannot
+!ROYALWE expect !DETERMINER
+!ROYALWE expect !YOU
+!ROYALWE expect !YOU to
+!ROYALWE had better
+!ROYALWE HAD never
+!ROYALWE have every right
+!ROYALWE have every right to
+!ROYALWE have every right to have
+!ROYALWE have to affirm
+!ROYALWE have to argue
+!ROYALWE have to assert
+!ROYALWE have to attest
+!ROYALWE have to aver
+!ROYALWE have to avow
+!ROYALWE have to claim
+!ROYALWE have to contend
+!ROYALWE have to declaim
+!ROYALWE have to declare
+!ROYALWE have to defend
+!ROYALWE have to make the !CLAIM
+!ROYALWE have to note
+!ROYALWE have to observe
+!ROYALWE have to preach
+!ROYALWE have to proclaim
+!ROYALWE have to profess
+!ROYALWE have to pronounce
+!ROYALWE have to reassess
+!ROYALWE have to reconsider
+!ROYALWE have to reevaluate
+!ROYALWE have to remember
+!ROYALWE have to say
+!ROYALWE have to state
+!ROYALWE have to suggest
+!ROYALWE have to support
+!ROYALWE have to take another look
+!ROYALWE most certainly did
+!ROYALWE must find a way
+!ROYALWE must find a way to respond
+!ROYALWE mustn't
+!ROYALWE needn't
+!ROYALWE never once
+!ROYALWE ought
+!ROYALWE ought not
+!ROYALWE ought not agree that
+!ROYALWE ought not assert that
+!ROYALWE ought not avow that
+!ROYALWE ought not believe that
+!ROYALWE ought not think that
+!ROYALWE ought not to
+!ROYALWE ought not to agree that
+!ROYALWE ought not to assert that
+!ROYALWE ought not to avow that
+!ROYALWE ought not to believe that
+!ROYALWE ought not to think that
+!ROYALWE ought to
+!ROYALWE ought to think twice before
+!ROYALWE oughtn't
+!ROYALWE recommend
+!ROYALWE recommend that
+!ROYALWE recommended
+!ROYALWE recommended that
+!ROYALWE shall never
+!ROYALWE SHALL not
+!ROYALWE shouldn't
+!ROYALWE strongly endorse
+!ROYALWE were to leave immediately
+!ROYALWE were to vacate immediately
+!TAKE whatever steps !AUX necessary
+!TELL people to come
+!TELL people to leave
+!YOU !AUX called upon
+!YOU !AUX called upon to deliberate
+!YOU !AUX summoned
+!YOU !AUX to decide
+!YOU !MUSTSHOULD
+!YOU !MUSTSHOULD !PRESSUREVERB
+!YOU !MUSTSHOULD !REFUTE
+!YOU !MUSTSHOULD absolutely
+!YOU !MUSTSHOULD absolutely agree
+!YOU !MUSTSHOULD absolutely see
+!YOU !MUSTSHOULD adjudicate
+!YOU !MUSTSHOULD always be
+!YOU !MUSTSHOULD argue
+!YOU !MUSTSHOULD ascertain
+!YOU !MUSTSHOULD avoid
+!YOU !MUSTSHOULD be able to see that
+!YOU !MUSTSHOULD be able to understand that
+!YOU !MUSTSHOULD certainly
+!YOU !MUSTSHOULD certainly agree
+!YOU !MUSTSHOULD certainly see
+!YOU !MUSTSHOULD definitely
+!YOU !MUSTSHOULD definitely agree
+!YOU !MUSTSHOULD definitely see
+!YOU !MUSTSHOULD feel
+!YOU !MUSTSHOULD feel like
+!YOU !MUSTSHOULD judge
+!YOU !MUSTSHOULD judge !PRONOUNOBJECTIVE on !POSSESSIVEPRONOUN own merit
+!YOU !MUSTSHOULD judge !PRONOUNOBJECTIVE on !POSSESSIVEPRONOUN own merits
+!YOU !MUSTSHOULD judge a
+!YOU !MUSTSHOULD judge on !POSSESSIVEPRONOUN own merit
+!YOU !MUSTSHOULD judge on !POSSESSIVEPRONOUN own merits
+!YOU !MUSTSHOULD know
+!YOU !MUSTSHOULD let
+!YOU !MUSTSHOULD make
+!YOU !MUSTSHOULD replace
+!YOU !MUSTSHOULD resolve
+!YOU !MUSTSHOULD stand
+!YOU !OUGHTNEED
+!YOU !OUGHTNEED  to
+!YOU !OUGHTNEED to
+!YOU !OUGHTNEED to adjudicate
+!YOU !OUGHTNEED to argue
+!YOU !OUGHTNEED to ascertain
+!YOU !OUGHTNEED to assess
+!YOU !OUGHTNEED to avoid
+!YOU !OUGHTNEED to be
+!YOU !OUGHTNEED to believe
+!YOU !OUGHTNEED to buy
+!YOU !OUGHTNEED to conclude
+!YOU !OUGHTNEED to decide
+!YOU !OUGHTNEED to deliberate
+!YOU !OUGHTNEED to determine
+!YOU !OUGHTNEED to judge
+!YOU !OUGHTNEED to judge on !POSSESSIVEPRONOUN own merit
+!YOU !OUGHTNEED to judge on !POSSESSIVEPRONOUN own merits
+!YOU !OUGHTNEED to keep
+!YOU !OUGHTNEED to make
+!YOU !OUGHTNEED to resolve
+!YOU !OUGHTNEED to take care of
+!YOU !OUGHTNEED to vote
+!YOU absolutely !MUSTSHOULD
+!YOU absolutely !OUGHTNEED to
+!YOU are going to have to
+!YOU certainly !MUSTSHOULD
+!YOU certainly !MUSTSHOULD admit
+!YOU certainly !MUSTSHOULD agree
+!YOU certainly !MUSTSHOULD see
+!YOU certainly !OUGHTNEED
+!YOU certainly ought
+!YOU definitely !MUSTSHOULD
+!YOU definitely !MUSTSHOULD agree
+!YOU definitely !MUSTSHOULD see
+!YOU first !MUSTSHOULD
+!YOU had better
+!YOU have no choice but to
+!YOU have to
+!YOU have to answer to
+!YOU have to be
+!YOU have to think
+!YOU just have to
+!YOU ought
+!YOU ought to
+!YOU ought to tell
+!YOU ought to think about
+!YOU really
+!YOU really !MUSTSHOULD
+!YOU really !OUGHTNEED
+!YOU really !OUGHTNEED to
+!YOU really can
+!YOU really ought
+!YOU shall
+!YOU simply !MUSTSHOULD
+!YOU simply !OUGHTNEED to
+, should tackle
+. !YOU just have to
+. and do be
+. and do find !DETERMINER way to
+. and do make sure
+. and don't try
+. and don't you dare
+. and don't you dare try to
+. be content
+. do it for
+. do the
+. do the fair thing
+. do the right thing
+. do the unexpected
+. do the will of
+. do what
+. do what !AUX expected
+. do what !YOU !AUX told
+. do what !YOU can
+. do what !YOU choose
+. do what !YOU have to do
+. do what !YOU like
+. do what !YOU set out to do
+. do what lies in your power
+. do what you wish
+. do your best
+. do your bidding
+. do your bit
+. do your damndest
+. do your darndest
+. do your duty
+. do your heart good
+. do your level best
+. do your number
+. do your office
+. do your part
+. do your share
+. do your stuff
+. do your thing
+. do your utmost
+. don't forget !YOU
+. don't forget that !YOU
+. don't forget your
+. don't get !YOU
+. don't get caught up in
+. don't get into
+. don't get left behind
+. don't get left out
+. don't get mired down in
+. don't get yourself
+. don't go for
+. don't go out
+. don't grouse
+. don't hold your breath
+. don't keep
+. don't leave
+. don't let anyone
+. don't let anyone tell !YOU
+. don't let anyone tell !YOU different
+. don't let anyone tell !YOU otherwise
+. don't let it get !YOU down
+. don't let the bedbugs bite
+. don't mind !YOU
+. don't mind if !YOU
+. don't mind if !YOU do
+. don't put
+. don't quit
+. don't stop
+. don't take
+. don't think
+. don't think another second about it
+. don't think for !DETERMINER moment
+. don't utter
+. don't utter !DETERMINER word
+. don't utter !DETERMINER word of this
+. don't utter !DETERMINER word of this to anyone
+. don't utter !DETERMINER word to anyone
+. it !AUX imperative that
+. keep it down
+. make it happen
+. never say
+. there !MUSTSHOULD be
+. use this quickly
+; it !AUX imperative that
+about !DETERMINER !OUGHTNEED for
+absolute necessities
+absolute necessity
+absolutely !MUSTSHOULD
+absolutely !MUSTSHOULD !DECIDE
+absolutely !OUGHTNEED to
+absolutely !OUGHTNEED to !DECIDE
+act decisively
+act immediately
+act now
+act now before it's too late
+always keep
+and do be
+and quit yourselves
+and quit yourselves like
+and quit yourselves like men
+and rejoice with !PRONOUNOBJECTIVE that do rejoice
+and weep with !PRONOUNOBJECTIVE that weep
+anyone !MUSTSHOULD be
+are imperative
+are imperatives
+as !ROYALWE !MUSTSHOULD be
+as !YOU !MUSTSHOULD be
+as he !MUSTSHOULD be
+as it !MUSTSHOULD be
+as she !MUSTSHOULD be
+as they !MUSTSHOULD be
+assertedly
+be !DETERMINER !MUSTSHOULD for
+be it so
+be necessary
+be necessary to
+better be
+better damn well
+better damn well !DECIDE
+better get going
+can !PRONOUNNOMINAL for once
+can and !MUSTSHOULD
+can and often !MUSTSHOULD
+certainly !MUSTSHOULD
+changes that !MUSTSHOULD be
+changes that !MUSTSHOULD be made
+clamor for !DETERMINER
+clamored for !DETERMINER
+clamoring for !DETERMINER
+clamors for !DETERMINER
+damn well
+damn well better
+damn well better !DECIDE
+damn well better had
+damn well better have
+delenda est Carthago
+deliver !DETERMINER ultimatum
+delivered !DETERMINER ultimatum
+delivering !DETERMINER ultimatum
+delivers !DETERMINER ultimatum
+demand our attention
+demand that
+demand the release
+demand your attention
+demanded
+demanded our attention
+demanded that
+demanded the
+demanded the release
+demanded your attention
+demanding our attention
+demanding that
+demanding the
+demanding the release
+demanding your attention
+demands our attention
+demands that
+demands the
+demands the release
+demands your attention
+demands.
+do it decisively
+do it for once
+do it immediately
+do it now
+do it with immediacy
+don't forget to
+don't forget to !DECIDE
+don't waste another minute
+don't waste another minute before !DECIDE
+drill home
+drill home the point
+drilled home the point
+drilling home the point
+drills home the point
+entreatied for
+entreaties for
+entreaty for
+entreatying for
+everyone !MUSTSHOULD
+everyone !MUSTSHOULD be
+everyone should
+exhort
+exhortation
+exhortations
+exhortative
+exhortatory
+exhorted
+exhorter
+exhorters
+exhorting
+exhorts
+for once can
+for once let's
+for once oughtn't
+for once shouldn't
+for once.
+for once;
+get it in your head
+had best
+had best get
+had best get that
+had best take
+had better
+had better be
+had better get
+had better get that
+had better shape up
+had better still
+had better take
+had just better
+had still better
+Hard-pressed not to
+hard pressed not
+hard pressed not to
+hard pressed not to have !YOU !DECIDE
+have always maintained !DETERMINER
+have always maintained that
+have always maintained the
+have no intention to
+have to
+have to put !POSSESSIVEPRONOUN feet down
+have to put !PRONOUNOBJECTIVE foot down
+have to put his foot down
+have to put my foot down
+have to put our foot down
+have to put your foot down
+have to sink or swim
+have to stand by
+having to !POSSESSIVEPRONOUN my feet down
+having to !PRONOUNOBJECTIVE my foot down
+having to his my foot down
+having to his your foot down
+having to our my foot down
+having to put my foot down
+he'd better
+he'd better not
+he's got to
+he's got to be
+he's gotta
+he !AUX not to
+he !MUSTSHOULD
+he !MUSTSHOULD cut back from
+he !MUSTSHOULD have
+he !MUSTSHOULD hear from
+he !MUSTSHOULD insist on
+he !MUSTSHOULD insist that
+he !MUSTSHOULD take responsibility for
+he !OUGHTNEED to
+he !OUGHTNEED to take care of
+he had better
+he had to be
+he ought
+he ought to
+Here's my pitch
+Here's the pitch
+high-priorities
+high-priority
+high priorities
+high priority
+High time for
+hold still until
+hold still!
+how can we ever forget
+I'd be hard pressed
+I'd better
+I'd better not
+I'll have !DETERMINER
+I'll have !POSSESSIVEPRONOUN
+I'll have !PRONOUNOBJECTIVE
+I'll have to
+I !MUSTSHOULD advise readers
+I !MUSTSHOULD cut back from
+I !MUSTSHOULD cut back on
+I !MUSTSHOULD hear from
+I !MUSTSHOULD insist
+I !MUSTSHOULD insist on
+I !MUSTSHOULD insist that
+I !MUSTSHOULD warn readers
+I !OUGHTNEED to take care of
+I am not to
+I am recommending
+I am recommending that
+I beg
+I beg !YOU
+I beg !YOU to
+I beg of !YOU
+I beg that
+I beseech
+I beseech !YOU to
+I expect !DETERMINER
+I expect !YOU
+I expect !YOU to
+I had better
+I implore
+I implore !YOU to
+I implore that
+I insist
+I insist that
+I insist that !YOU
+I insist that it
+I plead
+I plead with !YOU
+I recommend
+I recommend that
+I recommended
+I recommended that
+I strongly recommend
+I strongly recommend !DETERMINER
+I strongly recommend that
+I urge
+I urge !YOU
+I urge !YOU to
+I urge !YOU to see that
+I want to !MAKE !DETERMINER pitch for
+I won't accept no for !DETERMINER answer
+I won't take no for !DETERMINER answer
+imperatively
+imperativeness
+impress on
+impress upon
+impressed on
+impressed upon
+impresses on
+impresses upon
+impressing on
+impressing upon
+in !MUSTSHOULD
+in !OUGHTNEED of !DETERMINER good
+insist
+insist on
+insist that !DETERMINER
+insist that !YOU
+insist that !YOU give close consideration
+insist that !YOU give consideration
+insist that !YOU give it your close consideration
+insist that !YOU make every effort
+insist that !YOU think about
+insist that !YOU think through
+insist that !YOU try
+insist that !YOU try to
+insist upon
+insisted on
+insisted that
+insisted that !DETERMINER
+insisted upon
+insistence
+insistences
+insistencies
+insistency
+insistent
+insistent and demanded
+insistent demand
+insistent demanding
+insistent demands
+insistently
+insisting
+insisting on
+insisting that !DETERMINER
+insisting upon
+insists
+insists on
+insists that !DETERMINER
+insists upon
+it's !DETERMINER !MUSTSHOULD
+it's absolutely necessary
+it's going to be
+it's got to
+it's got to be
+it's got to happen
+it's gotta
+it's gotta happen
+it's high time
+it's high time that !ROYALWE
+it's high time that !YOU
+it's high time that he
+it's high time that it
+it's high time that she
+it's high time that they
+it's high time to
+it's necessary that
+it's now time to !DECIDE
+it's recommended that
+it's supposed to
+it's time to
+it's time to !DECIDE
+it !AUX absolutely necessary
+it !AUX going to be
+it !AUX her duty
+it !AUX his duty
+it !AUX imperative that
+it !AUX imperative to
+it !AUX legitimate to ask
+it !AUX legitimate to ask if
+it !AUX my duty
+it !AUX necessary that
+it !AUX necessary to
+it !AUX necessitous
+it !AUX now time to
+it !AUX now time to !DECIDE
+it !AUX our duty
+it !AUX recommendable
+it !AUX supposed to
+it !AUX supposed to happen that way
+it !AUX the duty of
+it !AUX their duty
+it !AUX time to
+it !AUX time to !DECIDE
+it !AUX to be !DECIDE
+it !AUX your duty
+it !MUSTSHOULD
+it !MUSTSHOULD !OUGHTNEED be
+it !MUSTSHOULD be
+it !MUSTSHOULD be realized
+it !MUSTSHOULD be submitted
+it !MUSTSHOULD be understood
+it !MUSTSHOULD be withdrawn
+it !MUSTSHOULD follow
+it !MUSTSHOULD have
+it !MUSTSHOULD have its way
+it !MUSTSHOULD never
+it !MUSTSHOULD not
+it !MUSTSHOULD not be
+it !MUSTSHOULD probably
+it !OUGHTNEED
+it !OUGHTNEED !MUSTSHOULD be
+it !OUGHTNEED be
+it !OUGHTNEED not be
+it !OUGHTNEED not to
+it !OUGHTNEED to
+it !OUGHTNEED to be
+it !OUGHTNEED to be submitted
+it !OUGHTNEED to be withdrawn
+it better
+it has to
+it has to be
+it just !MUSTSHOULD not
+it just !OUGHTNEED not
+it just ought not
+it mustn't
+it mustn't be
+it needn't
+it ought
+it ought not
+it ought not to
+it ought to
+it ought to be
+it ought to be submitted
+it ought to be withdrawn
+it oughtn't
+it oughtn't be
+it shouldn't
+it shouldn't be
+itching for
+just !HAVE to be
+just !MUSTSHOULD
+just !OUGHTNEED
+just got to
+just has to
+just has to be
+just have to
+just keep
+list of demands
+lists of demands
+lobbied hard for
+lobbies hard for
+lobby hard for
+lobbying hard for
+mandatorily
+mandatoriness
+mandatory
+maun
+maun get
+may it be so
+might !PRONOUNNOMINAL for once
+much need
+much need for
+must-buy
+must-have
+must-item
+must-items
+must-look
+must-read
+must-see
+must-to-have
+mustn't
+mustn't actually
+mustn't do anything
+mustn't do anything about
+mustn't literally
+mustn't really
+mustn't simply
+necessarily require
+necessarily required
+necessarily requires
+necessarily requiring
+necessary for
+necessitate
+necessitated
+necessitates
+necessitating
+necessitation
+necessitations
+necessities
+necessitously
+necessitousness
+necessity
+necessity of
+NEED-be
+NEED-not
+NEED !DETERMINER
+need for explanations
+need to
+needing to
+needn't
+needn't do anything
+needn't do anything about
+needs to
+never keep
+never open
+never use
+No one should
+no question it !MUSTSHOULD be
+no uncertain terms
+nobody !MUSTSHOULD
+not about to let
+not about to let !YOU !DECIDE
+not going to
+not going to let !YOU !DECIDE
+not take 'no' for !DETERMINER answer
+of course !YOU can
+of course, !YOU can
+of demands
+of necessity
+one !MUSTSHOULD be
+one !MUSTSHOULD no longer
+one !MUSTSHOULD not attempt
+one !MUSTSHOULD question
+one can question
+one has to note
+one has to remember
+one has to take account of
+others !MUSTSHOULD be
+oughta
+oughtn't
+oughtn't do anything
+oughtn't do anything about
+out with it!
+perforce
+persist in
+persisted in
+persisting in
+persists in
+please do so
+please hold still
+prescribe
+prescribes
+prescribing
+prescription to
+prescriptions to
+prescriptively
+press !PRONOUNOBJECTIVE for
+press !PRONOUNOBJECTIVE to
+press !YOU
+press !YOU to
+press for !DETERMINER
+press hard on
+press hard upon
+press heavy on
+press me
+press me to
+press on
+press onward
+press upon
+press us
+press us to
+pressed !PRONOUNOBJECTIVE for
+pressed !PRONOUNOBJECTIVE to
+pressed !YOU
+pressed !YOU to
+pressed for !DETERMINER
+pressed hard on
+pressed hard upon
+pressed heavy on
+pressed me
+pressed me to
+pressed on
+pressed onward
+pressed upon
+pressed us
+pressed us to
+presses !PRONOUNOBJECTIVE for
+presses !PRONOUNOBJECTIVE to
+presses !YOU
+presses !YOU to
+presses for !DETERMINER
+presses hard on
+presses hard upon
+presses heavy on
+presses me
+presses me to
+presses on
+presses onward
+presses upon
+presses us
+presses us to
+pressing !PRONOUNOBJECTIVE for
+pressing !PRONOUNOBJECTIVE to
+pressing !YOU
+pressing !YOU to
+pressing for !DETERMINER
+pressing hard on
+pressing hard upon
+pressing heavy on
+pressing me
+pressing me to
+pressing on
+pressing onward
+pressing up
+pressing us
+pressing us to
+prevail over
+prevail upon
+prevailed over
+prevailing over
+prevailing upon
+prevails over
+prevails upon
+quit yourselves like
+really !MUSTSHOULD
+really !OUGHTNEED
+really !OUGHTNEED to
+recommendation that
+recommendations that
+recommendatory that
+refuse to hear "no" for !DETERMINER answer
+refuse to hear of
+remember to
+set !PRONOUNOBJECTIVE straight
+set us straight
+sets !PRONOUNOBJECTIVE straight
+sets us straight
+setting !PRONOUNOBJECTIVE straight
+setting us straight
+shall take whatever steps !AUX necessary
+she'd better
+she'd better not
+she's got to
+she's got to be
+she's gotta
+she !AUX not to
+she !MUSTSHOULD
+she !MUSTSHOULD hear from
+she !MUSTSHOULD insist that
+she !MUSTSHOULD take responsibility for
+she !OUGHTNEED to
+she !OUGHTNEED to take care of
+she had better
+she had to be
+she ought
+she ought to
+SHOULD've
+SHOULD-be
+should have been
+should only
+should stop
+shouldn't
+SHOULDn't !PRONOUNNOMINAL for once
+shouldn't ask for much
+shouldn't do anything
+shouldn't do anything about
+shouldn't even
+shouldn't simply
+shouldst
+simply !MUSTSHOULD
+simply !OUGHTNEED to
+simply has got to
+simply has to feel
+simply has to say
+simply have to feel
+simply have to say
+so be it
+so mote it be
+so move on
+so much need
+so quit
+so quit blaming
+so shall
+so shall it be
+supposed to
+supposed to have
+sure !YOU can
+sure, !YOU can
+TAKE !DETERMINER !DETERMINER bull by !DETERMINER horns
+take it or leave it!
+that !AUX the way it !AUX supposed to
+that !MUSTSHOULD be
+that !ROYALWE !AUX not to
+that !ROYALWE !MUSTSHOULD
+that !ROYALWE were to leave immediately
+that !ROYALWE were to vacate immediately
+that he !AUX not to
+that I am not to
+that it !MUSTSHOULD be !DETERMINER
+that it ought to be !DETERMINER
+that she !AUX not to
+that they !AUX not to
+the !OUGHTNEED for !PRONOUNOBJECTIVE
+the !OUGHTNEED for !YOU
+the !OUGHTNEED for it
+the !OUGHTNEED for me
+the !OUGHTNEED for us
+the !OUGHTNEED to
+the clear !OUGHTNEED
+the clear !OUGHTNEED for
+there !AUX !DETERMINER !OUGHTNEED for
+there !AUX !DETERMINER !OUGHTNEED to
+there !MUSTSHOULD be
+there !MUSTSHOULD be !DETERMINER
+there !MUSTSHOULD be !DETERMINER problem
+there !MUSTSHOULD be !DETERMINER reason
+there !MUSTSHOULD be !DETERMINER way
+there !MUSTSHOULD be !DETERMINER way for !YOU
+there !MUSTSHOULD be no
+there !MUSTSHOULD instead be
+there !MUSTSHOULD not be !DETERMINER
+there !MUSTSHOULD not be !DETERMINER problem
+there !MUSTSHOULD rather be
+there !OUGHTNEED to be
+there has to be !DETERMINER reason
+there has to be !DETERMINER way
+there is a need for
+there is a need for explanations
+there is so much need
+there ought to be
+there shouldn't be !DETERMINER
+there shouldn't be !DETERMINER problem
+these !MUSTSHOULD
+these !MUSTSHOULD not
+these !OUGHTNEED to
+these ought
+these ought to
+these shouldn't
+they'd better
+they'd better not
+they've got to
+they've got to be
+they've gotta
+they !AUX not to
+they !MUSTSHOULD
+they !MUSTSHOULD cut back from
+they !MUSTSHOULD cut back on
+they !MUSTSHOULD have
+they !MUSTSHOULD hear from
+they !MUSTSHOULD insist on
+they !MUSTSHOULD take responsibility for
+they !OUGHTNEED to
+they !OUGHTNEED to take care of
+they had better
+they had to be
+they have every right
+they have every right to
+they ought
+they ought to
+this !MUSTSHOULD
+this !MUSTSHOULD be
+this !MUSTSHOULD be offset
+this !MUSTSHOULD not
+this !MUSTSHOULD not be seen as
+this !OUGHTNEED to
+this ought
+this ought to
+this shouldn't
+those !MUSTSHOULD not
+those shouldn't
+time to fish or cut bait
+to !POSSESSIVEPRONOUN demands
+to force
+to my demands
+to our demands
+to the group's demands
+urge !POSSESSIVEPRONOUN along
+urge !PRONOUNOBJECTIVE along
+urge !YOU along
+urge along
+urge me along
+urge on that
+urge on to
+urge reasons for
+urge upon
+urge us along
+urged !POSSESSIVEPRONOUN along
+urged !PRONOUNOBJECTIVE along
+urged !YOU along
+urged along
+urged me along
+urged on that
+urged on to
+urged reasons for
+urged upon
+urged us along
+urges !POSSESSIVEPRONOUN along
+urges !PRONOUNOBJECTIVE along
+urges !YOU along
+urges along
+urges me along
+urges on that
+urges on to
+urges reasons for
+urges upon
+urges us along
+urging !POSSESSIVEPRONOUN along
+urging !PRONOUNOBJECTIVE along
+urging !YOU along
+urging along
+urging me along
+urging on that
+urging on to
+urging reasons for
+urging upon
+urging us along
+want !POSSESSIVEPRONOUN own way
+want his own way
+want it done
+want my own way
+want our own way
+wanted !POSSESSIVEPRONOUN own way
+wanted his own way
+wanted it done
+wanted my own way
+wanted our own way
+wanting !POSSESSIVEPRONOUN own way
+wanting his own way
+wanting it done
+wanting my own way
+wanting our own way
+wants !POSSESSIVEPRONOUN own way
+wants his own way
+wants it done
+wants my own way
+wants our own way
+we'd better
+we've got to
+we've got to be
+we've got to be careful
+we've got to be responsible
+what !MUSTSHOULD
+what !MUSTSHOULD be
+what !MUSTSHOULD not be
+WHAT !PRONOUNNOMINAL has to
+WHAT !PRONOUNNOMINAL has to do
+WHAT !PRONOUNNOMINAL have to
+WHAT !PRONOUNNOMINAL have to do
+what !YOU !MUSTSHOULD
+what !YOU !MUSTSHOULD know
+what !YOU !OUGHTNEED to
+what !YOU !OUGHTNEED to know
+what everyone !MUSTSHOULD know
+what everyone !OUGHTNEED
+what everyone will !OUGHTNEED to know
+WHAT I !MUSTSHOULD notify !YOU IS
+WHAT I !OUGHTNEED TO notify !YOU IS
+what is not to be
+what must not be
+what ought not be
+what ought to be
+what ought to be done
+what should not be
+what was not to be
+whatever steps !AUX necessary
+which !MUSTSHOULD be
+which very well !MUSTSHOULD be
+will have to
+will have to answer
+will have to answer to
+will have to make sure
+will just have to
+will not hear of
+with !DETERMINER !OUGHTNEED to
+with !DETERMINER strong !OUGHTNEED to
+with the !OUGHTNEED
+with the !OUGHTNEED for
+won't hear of
+won't take no for !DETERMINER answer
+Would be !CRAZY not to
+y'oughta
+ya'll gone have to
+ya gone have to
+ye shall
+yins gone have to
+You'd be !CRAZY not to
+You'd be !CRAZY not to !PRESSUREVERB
+You'd be !CRAZY not to act now
+you'd better
+you'd better not
+you've got to be
+you had better
+you have to

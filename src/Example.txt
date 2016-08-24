@@ -1,0 +1,342 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX a common example of
+!AUX a good example of
+!AUX a manifestation
+!AUX a perfect example
+!AUX a perfect example of
+!AUX an example of
+!AUX best exemplified
+!AUX carefully exemplified
+!AUX epitomizing
+!AUX exemplified
+!AUX illustrative
+!AUX manifestations
+!AUX nicely exemplified
+!AUX one of the examples
+!AUX the epitome
+!AUX the epitome of
+!DETERMINER !RANKNUMBER example
+!DETERMINER !RANKNUMBER instance
+!DETERMINER anecdote is
+!DETERMINER anecdote will
+!DETERMINER prototype for
+!DETERMINER prototype of
+!DETERMINER prototypic
+!TAKE !DETERMINER example
+!TAKE as an example
+!TAKE the examples of
+, among them a
+, among them the
+, for example
+, for example,
+, for instance,
+. among them specifcally
+. in the case
+. in the case that
+. in the case where
+. like the
+a case in point
+a common example
+a final example
+a good example
+a good example of
+a last example
+a representative example
+a sampling will serve to show
+a simple example
+a simple examples
+a specific example is
+a symbol of
+a useful example
+a useful illustration
+according to this example
+an example
+an example in support
+an example of
+An example of the use of this would be
+an example of this would be
+An example to
+an example to show
+and in the case of
+anecdote !MODAL
+anecdote about
+anecdotes !MODAL
+anecdotes about
+ANOTHER EXAMPLE
+another example is
+another example of
+another example to show
+are the cases
+as a case in point
+as a for instance,
+as a simple illustration
+as a simple illustration,
+as amplification
+as an example
+as an example in
+as an example of
+as an example,
+as an illustration
+as an illustration of
+as an instance
+as for example it is with
+as for instance,
+as in the case
+as in the case of
+as in the case with
+as in the example
+as in the example of
+as is the case
+as is the case when
+as is the case with
+as is the example
+as is the example of
+as is the example with
+as the case of the
+as was the case when
+as when !DETERMINER
+as when one
+be the case
+bespeak
+bespeaking
+bespeaks
+bespoke
+bespoken
+bespoken !DETERMINER
+betoken
+betoken !DETERMINER
+betokened
+betokening
+betokens
+by way of example
+by way of illustration
+case in point
+case in question
+case in which
+cases about which
+cases in point
+cases in question
+cases in which
+cases through which
+classic example
+classic instance
+concrete example
+concrete examples
+e.g.
+emblem
+emblem of
+emblematic
+emblematic of
+emblematical
+emblematically
+emblematize
+emblematized
+emblematizes
+emblematizing
+emblems
+embodied in
+embodied in the example
+embodies
+embodies in
+embodiment
+embodiment of
+embodiments
+embodiments of
+embody
+embody in
+embodying
+embodying in
+ensample
+ensample a
+ensample the
+ensampled
+ensamples
+ensamples a
+ensamples the
+ensampling
+epitome
+epitomes
+example of
+examples of
+Examples to
+exempla
+exemple
+exemples
+exempli causa
+exempli gratia
+exemplification
+exemplifications
+exemplificative
+exemplificatives
+exemplified
+exemplifies
+exemplify
+exemplifying
+exemplum
+exemplums
+following anecdote
+following anecdotes
+for example
+for example,
+For instance
+for instance,
+FOR USES SUCH AS
+foregoing examples
+here is yet another case
+here is yet another example
+here is yet another instance
+i. e.
+i.e.
+i.e.,
+illustrate the point
+illustrated the point
+illustrates the point
+illustrating the point
+illustrative
+in a second example
+in a second instance
+in a third example
+in a third instance
+in both cases
+in cases when
+in cases where
+in each case
+in many cases
+in many instances
+in most cases
+in one example
+in one instance
+in order to illustrate
+in some instances
+in such examples
+in such instances
+in that example
+IN THAT INSTANCE
+in the !RANKNUMBER example
+in the !RANKNUMBER instance
+in the case of
+in the case that
+in the example
+in the instance
+in these cases
+in these situations
+in this case
+in this example
+in this instance
+in this situation
+in this specific instance
+in various cases
+incarnation of
+incarnations of
+instance
+instance of
+instanced
+instances
+instances of
+instancing
+instantiate
+instantiated as
+instantiated in
+instantiated in the example
+instantiates
+instantiating
+instantiation
+instantiations
+is the case
+like the case when
+like the fact that
+like the time
+like the time when
+manifestation
+manifestations
+marker of
+markers of
+microcosm of
+microcosms of
+more representative is what happened
+more typical is what happened
+namely, for example
+one example in support
+one example to show
+other examples of
+par exemple
+paradigm-case
+paradigm-cases
+paradigm case
+paradigm cases
+particularly in the case of
+produce an example
+produce an instance
+produced an example
+produced an instance
+produces an example
+produces an instance
+producing an example
+producing an instance
+prototypic
+relevant example
+relevant examples
+relevant instance
+relevant instances
+some examples
+specific example
+specific examples
+such as for example
+such as for instance
+such as the case when
+such as the time when
+such as to
+such as what
+such as, for example
+such as, for instance
+such that
+such that !DETERMINER
+such that the
+symbolic of
+take the example of
+test-case
+test-cases
+test case
+test cases
+that epitomize
+that epitomized
+that epitomizes
+the best example
+the best example I know
+the case of
+the cases of
+the example
+the example of
+the examples of
+the last example
+THE MOST FAMILIAR EXAMPLE IS
+the most familiar examples are
+the simplest example
+there is !DETERMINER anecdote
+to give one example
+to illuminate with an example
+to illustrate
+to name a case
+to name an instance
+to offer one example
+to specify a case
+token of
+tokened of
+tokening of
+tokens of
+typical case
+typical cases
+typical example
+typical examples
+typicality
+typified
+typifies
+typify
+typifying
+which !AUX the epitomes
+which epitomize
+which epitomized
+which epitomizes

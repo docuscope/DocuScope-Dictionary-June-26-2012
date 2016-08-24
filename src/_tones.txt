@@ -1,0 +1,195 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+CLUSTER: Subjective_Register
+DIMENSION: First_Person
+LAT: FirstPer
+DIMENSION: FirstPerson_Personal
+LAT: SelfDisclosure
+LAT: SelfReluctance
+LAT: Autobio
+DIMENSION: Personal_Register
+LAT: PrivateThinking
+LAT: Disclosure
+LAT: Intensity
+LAT: Immediacy
+LAT: SubjectiveTime
+LAT: SubjectivePercept
+DIMENSION: Confidence
+LAT: Confidence
+DIMENSION: Uncertainty
+LAT: Uncertainty
+
+CLUSTER: Emotion
+DIMENSION: Positive_Emotion
+LAT: Positivity
+DIMENSION: Negative_Emotion
+LAT: Negativity
+LAT: Anger Anger_FP Anger_Words
+LAT: Fear Fear_FP Fear_Words
+LAT: Sad Sad_FP Sad_Words
+LAT: Reluctance
+LAT: Apology
+
+
+CLUSTER: Description
+DIMENSION: Sensory_Language
+LAT: SenseProperty
+LAT: SenseObject
+DIMENSION: Space_Movement
+LAT: SpaceRelation
+LAT: SceneShift
+LAT: Motions
+DIMENSION: Dialog_Orality
+LAT: DialogCues
+LAT: OralCues
+
+
+CLUSTER: Institutional_Register
+DIMENSION: Public_Sources
+LAT: In_Media
+LAT: CommonAuthorities
+DIMENSION: Public_Responsibility
+LAT: Responsibility Responsibility_FirstP Responsibility_SecondP Responsibility_ThirdP
+DIMENSION: Positive_Values
+LAT: StandardsPos
+LAT: Innovations
+DIMENSION: Negative_Values
+LAT: StandardsNeg
+
+
+CLUSTER: Academic_Register
+DIMENSION: Abstract_Thought
+LAT: AbstractConcepts
+LAT: CommunicatorRole
+LAT: LangRef
+DIMENSION: Citing_Others
+LAT: Precedent_Defending
+LAT: ReceivedPOV
+LAT: ConfirmedThght
+LAT: Citations
+LAT: Neg_Citation
+LAT: Repair_Citation
+LAT: Speculative_Citation
+LAT: Authoritative_Citation
+LAT: Contested_Citation
+LAT: Attack_Citation
+LAT: Quotation
+DIMENSION: Guide_thru_Complexity
+LAT: Metadiscourse
+
+
+
+CLUSTER: Future
+DIMENSION: Future
+LAT: ProjectAhead 
+LAT: PredictedFuture
+
+CLUSTER: Past
+DIMENSION: Past
+LAT: ProjectBack      
+LAT: Future_in_Past
+
+
+CLUSTER: Personal_Relations
+DIMENSION: Positive_Relations
+LAT: Promise
+LAT: Self_Promise
+LAT: Reassure
+LAT: Reinforce
+LAT: Acknowledge
+DIMENSION: Inclusive_Relations
+LAT: Inclusive
+DIMENSION: Negative_Relations
+LAT: Negative_Relation
+LAT: Confront
+
+CLUSTER: Reasoning
+DIMENSION: Constructive_Reasoning
+LAT: ReasonForward
+LAT: ReasonBackward
+LAT: DirectReasoning
+LAT: Support
+DIMENSION: Contingent_Reasoning
+LAT: Contingency
+DIMENSION: Oppositional_Reasoning
+LAT: DenyDisclaim
+LAT: Concessive
+LAT: Resistance
+
+CLUSTER: Interactive
+DIMENSION: Inquiry
+LAT: Curiosity
+LAT: Question
+LAT: Future_Question
+LAT: OpenQuery
+DIMENSION: AddressingOther
+LAT: DirectAddress
+LAT: Request
+LAT: FollowUp
+LAT: Feedback
+LAT: PosFeedback
+LAT: NegFeedback
+LAT: PriorKnowledge
+
+CLUSTER: Elaboration
+DIMENSION: GeneralExampleExcept
+LAT: Generalization
+LAT: Example
+LAT: Exceptions
+DIMENSION: Comparison
+LAT: Comparison
+LAT: Resemblances
+DIMENSION: Defining_Specifying
+LAT: Specifiers
+LAT: Definition
+LAT: Numbers
+
+CLUSTER: Reporting
+DIMENSION: Reporting_States
+LAT: ReportingStates 
+DIMENSION: Reporting_Events
+LAT: ReportingEvents 
+DIMENSION: Reporting_Process
+LAT: RecurringEvents
+LAT: GenericEvents
+LAT: Sequence
+LAT: MatureProcess
+LAT: Cause
+LAT: Consequence
+DIMENSION: Reporting_Change
+LAT: Transformation 
+LAT: Substitution
+LAT: Updates
+LAT: Precedent_Setting
+
+CLUSTER: Directing
+DIMENSION: Directives
+LAT: Imperative
+LAT: Procedures
+LAT: MoveBody
+LAT: ConfirmExperience
+LAT: ErrorRecovery
+DIMENSION: Insistence
+LAT: Insist
+
+CLUSTER: Narrative
+DIMENSION: Narrative_Verbs
+LAT: Narrative_Verbs
+DIMENSION: Time_Expressions
+LAT: TimeShift
+LAT: TimeDuration
+LAT: Biographical_Time
+LAT: TimeDate
+DIMENSION: Narrative_Background
+LAT: Aside
+
+CLUSTER: Character
+DIMENSION: PersonalPronoun
+LAT: PersonPronoun
+DIMENSION: Person_Attribution
+LAT: Positive_Attribution
+LAT: Negative_Attribution
+LAT: Neutral_Attribution
+DIMENSION: Person_Class
+LAT: PersonProperty
+

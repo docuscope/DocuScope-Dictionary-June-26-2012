@@ -1,0 +1,2986 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER absolute fact
+!AUX !DETERMINER decisive factor
+!AUX !DETERMINER decisive factors
+!AUX !DETERMINER fact
+!AUX !DETERMINER facts
+!AUX !DETERMINER one that counts
+!AUX !DETERMINER UNDISPUTED
+!AUX a guarantee
+!AUX a landslide
+!AUX a sealed
+!AUX a shoo-in
+!AUX a shoo in
+!AUX absolute
+!AUX absolute proof
+!AUX absolutely positively
+!AUX ACHIEVABLE
+!AUX all-out
+!AUX assured
+!AUX assured of
+!AUX assuredly
+!AUX bound to
+!AUX bound to be
+!AUX bucked up
+!AUX bucked up by
+!AUX cast in stone
+!AUX categorical
+!AUX categorically true
+!AUX certain
+!AUX certain about
+!AUX certainly
+!AUX clear
+!AUX clearly
+!AUX completely
+!AUX confident
+!AUX confidently
+!AUX convinced
+!AUX convinced that
+!AUX definite
+!AUX definitely clear
+!AUX definitive
+!AUX demonstrate
+!AUX distinct
+!AUX easy
+!AUX establish
+!AUX evident
+!AUX exceptionless
+!AUX exhaustive
+!AUX firm
+!AUX firm about
+!AUX firm that
+!AUX flatly
+!AUX in every degree true
+!AUX in the bag
+!AUX inconceivable
+!AUX indisputable
+!AUX indisputably
+!AUX indubitable
+!AUX indubitably
+!AUX inevitability
+!AUX inevitable
+!AUX inevitably
+!AUX invariably
+!AUX irrefutable
+!AUX irrefutably
+!AUX known as
+!AUX known by
+!AUX likely
+!AUX likely to be
+!AUX likely to go
+!AUX likely to have
+!AUX manifestly
+!AUX natural
+!AUX natural to
+!AUX no object
+!AUX no problem
+!AUX not in doubt
+!AUX now proved
+!AUX obtainable
+!AUX obvious
+!AUX obvious that
+!AUX obviously
+!AUX open-and-shut
+!AUX patent
+!AUX patently
+!AUX plain
+!AUX plainly
+!AUX positively
+!AUX proved
+!AUX quite clear
+!AUX quite firm
+!AUX relatively straightforward
+!AUX sealed in stone
+!AUX sealed up
+!AUX set on
+!AUX simply and purely
+!AUX straightforward
+!AUX strong
+!AUX sure to
+!AUX tenuous
+!AUX the solution to
+!AUX the thing.
+!AUX to some degree true
+!AUX trivial
+!AUX true
+!AUX unappealable
+!AUX unbending
+!AUX undiminished
+!AUX undivided
+!AUX undoubtedly
+!AUX unembarrassed
+!AUX unembarrassed by
+!AUX unequivocal
+!AUX unmistakable
+!AUX very likely
+!AUX without doubt
+!CANCOULD !PRESFACTIVES
+!CANCOULD ALSO !PRESFACTIVES
+!CANCOULD answer
+!CANCOULD apparently
+!CANCOULD bank on it
+!CANCOULD be identified with
+!CANCOULD bet !POSSESSIVEPRONOUN bottom dollar
+!CANCOULD bet your bottom dollar
+!CANCOULD confidently say
+!CANCOULD confirm
+!CANCOULD confirm that
+!CANCOULD control the situation
+!CANCOULD count on it
+!CANCOULD do
+!CANCOULD easily
+!CANCOULD feel !DETERMINER pulse of
+!CANCOULD feel it
+!CANCOULD give specifics
+!CANCOULD identify with
+!CANCOULD quite easily
+!CANCOULD rattle off
+!CANCOULD say categorically
+!CANCOULD say this with one voice
+!CANCOULD say with complete confidence
+!CANCOULD say with confidence
+!CANCOULD see at a glance
+!CANCOULD see it
+!CANCOULD smell it
+!CANCOULD take it to !DETERMINER bank
+!CANCOULD taste it
+!CANCOULD touch it
+!CARRY by acclamation
+!CAST in stone
+!COME to certainty
+!COME to proof
+!CONTINGENTMODAL quite easily
+!DETERMINER !IDEA !AUX that
+!DETERMINER !IDEA !AUX that !DETERMINER
+!DETERMINER absolute fact !AUX
+!DETERMINER absolute fact is
+!DETERMINER actualities
+!DETERMINER actualities are
+!DETERMINER actuality is
+!DETERMINER all-knowing look
+!DETERMINER answer !AUX
+!DETERMINER answer !AUX easy
+!DETERMINER answer !AUX simple
+!DETERMINER answer is
+!DETERMINER answer was
+!DETERMINER answers !AUX
+!DETERMINER answers !AUX simple
+!DETERMINER assured
+!DETERMINER axiom of
+!DETERMINER case !AUX closed
+!DETERMINER detail !AUX telling
+!DETERMINER detail was telling
+!DETERMINER die !AUX certainly cast
+!DETERMINER die !AUX clearly cast
+!DETERMINER die !AUX now cast
+!DETERMINER die are now cast
+!DETERMINER dreadnought
+!DETERMINER ease
+!DETERMINER ease with
+!DETERMINER ease with which
+!DETERMINER easy
+!DETERMINER evidence !AUX ample
+!DETERMINER evidence !AUX overwhelming
+!DETERMINER fact !AUX
+!DETERMINER fact !AUX that
+!DETERMINER fact of
+!DETERMINER fact of !DETERMINER matter
+!DETERMINER fact of !DETERMINER matter !AUX
+!DETERMINER fact of !DETERMINER matter !AUX that
+!DETERMINER fact remains that
+!DETERMINER fact that
+!DETERMINER fact that !DETERMINER
+!DETERMINER facts
+!DETERMINER facts are
+!DETERMINER facts are these
+!DETERMINER facts in !DETERMINER case
+!DETERMINER facts of
+!DETERMINER facts of !DETERMINER case
+!DETERMINER facts of !DETERMINER matter
+!DETERMINER factual basis of
+!DETERMINER foregone
+!DETERMINER guarantee
+!DETERMINER handwriting !AUX on !DETERMINER wall
+!DETERMINER honest to god truth
+!DETERMINER inevitable
+!DETERMINER know
+!DETERMINER knowing
+!DETERMINER matter !AUX closed
+!DETERMINER obvious
+!DETERMINER obvious fact that
+!DETERMINER obviousness
+!DETERMINER old dog at
+!DETERMINER old hand at
+!DETERMINER one that counts
+!DETERMINER plain truth
+!DETERMINER plain truth !AUX
+!DETERMINER plain truths
+!DETERMINER real actualities are
+!DETERMINER real actuality !AUX
+!DETERMINER real fact !AUX
+!DETERMINER realities
+!DETERMINER realities are
+!DETERMINER realities of
+!DETERMINER reality
+!DETERMINER reality !AUX
+!DETERMINER reality of
+!DETERMINER reality of !DETERMINER matter !AUX
+!DETERMINER right answer
+!DETERMINER right answers
+!DETERMINER shoe-in
+!DETERMINER simple conclusion !AUX
+!DETERMINER simple conclusions !AUX
+!DETERMINER simple fact
+!DETERMINER simple fact that
+!DETERMINER simple result !AUX
+!DETERMINER simple results !AUX
+!DETERMINER simple truth
+!DETERMINER simple truth !AUX
+!DETERMINER simple truth of
+!DETERMINER simple truths
+!DETERMINER simple truths of
+!DETERMINER sky's !DETERMINER limit
+!DETERMINER story !AUX this:
+!DETERMINER stubborn fact
+!DETERMINER subject !AUX closed
+!DETERMINER trivial
+!DETERMINER true
+!DETERMINER truth !AUX
+!DETERMINER truth be told
+!DETERMINER truth is,
+!DETERMINER truth of !DETERMINER matter
+!DETERMINER truth of !DETERMINER matter !AUX
+!DETERMINER truth that
+!DETERMINER unbleached truth
+!DETERMINER unblinking
+!DETERMINER very fact that
+!DETERMINER way it !AUX
+!DETERMINER way things are
+!DETERMINER writing's on !DETERMINER wall
+!DETERMINER writing !AUX on !DETERMINER wall
+!DO !DETERMINER trick.
+!DO know
+!FEEL confident
+!FEEL sure
+!FIND it easy
+!FIND it straightforward
+!FIND out
+!FIND out !QUESTION
+!FIND out about
+!FIND that
+!FIND that it
+!GET !DETERMINER fact
+!GET !DETERMINER fact that
+!GET !DETERMINER hang of it
+!GET !REFLEXIVEPRONOUN a sure deal
+!GET down cold
+!GET down pat
+!GET it down pat
+!GET it pegged down
+!GET myself a sure deal
+!GET on with life
+!GET ourselves a sure deal
+!GET yourself a sure deal
+!HAVE !PASTFACTIVES
+!HAVE a snowball's chance in hell
+!HAVE apparently
+!HAVE ascertained
+!HAVE been firm
+!HAVE confidence
+!HAVE confidence in
+!HAVE decided
+!HAVE deemed
+!HAVE determined
+!HAVE down cold
+!HAVE down pat
+!HAVE every appearance of
+!HAVE every indication of
+!HAVE every intention
+!HAVE every intention of
+!HAVE every sign of
+!HAVE firm ground
+!HAVE firm grounds
+!HAVE in !DETERMINER bag
+!HAVE in !POSSESSIVEPRONOUN eye
+!HAVE in !POSSESSIVEPRONOUN grasp
+!HAVE in !POSSESSIVEPRONOUN grip
+!HAVE in your eye
+!HAVE in your grasp
+!HAVE in your grip
+!HAVE IT all SEWED UP
+!HAVE IT all WRAPPED UP
+!HAVE it down
+!HAVE it down cold
+!HAVE it down off-pat
+!HAVE it down off pat
+!HAVE it down pat
+!HAVE it pegged down
+!HAVE IT SEWED UP
+!HAVE IT WRAPPED UP
+!HAVE judged
+!HAVE knowledge
+!HAVE knowledge of
+!HAVE learned it down pat
+!HAVE no doubt
+!HAVE no hesitation
+!HAVE no reservation about
+!HAVE no reservations
+!HAVE no reservations about
+!HAVE no second thoughts
+!HAVE no self-doubt
+!HAVE not !DETERMINER slightest doubt
+!HAVE one to know
+!HAVE proved
+!HAVE proved that
+!HAVE ruled
+!HAVE ruled on
+!HAVE something to say
+!HAVE that or nothing
+!HAVE the balls to
+!HAVE trust
+!HAVE trust in
+!HOLD fast in !DETERMINER belief
+!HOLD firm
+!HOLD firm in !DETERMINER belief
+!HOLD no doubt
+!KNOW !DETERMINER
+!KNOW !DETERMINER family well
+!KNOW !DETERMINER ins and out
+!KNOW !DETERMINER ropes
+!KNOW !DETERMINER score
+!KNOW !DETERMINER ways of !DETERMINER world
+!KNOW !POSSESSIVEPRONOUN ass from your elbow
+!KNOW !POSSESSIVEPRONOUN family well
+!KNOW !POSSESSIVEPRONOUN onions
+!KNOW !POSSESSIVEPRONOUN own mind
+!KNOW !POSSESSIVEPRONOUN stuff
+!KNOW !POSSESSIVEPRONOUN way about
+!KNOW !PRONOUNOBJECTIVE LIKE A BOOK
+!KNOW !PRONOUNOBJECTIVE well
+!KNOW a hawk from a handsaw
+!KNOW a little
+!KNOW a thing or two
+!KNOW A TRICK OR TWO
+!KNOW a trick worth two of that
+!KNOW again
+!KNOW all !DETERMINER answers
+!KNOW all !DETERMINER ins and outs
+!KNOW all !DETERMINER moves of !DETERMINER game
+!KNOW all !DETERMINER tricks
+!KNOW all !DETERMINER tricks of !DETERMINER trade
+!KNOW backwards
+!KNOW backwards and forwards
+!KNOW by heart
+!KNOW by rote
+!KNOW by sight
+!KNOW down to !DETERMINER ground
+!KNOW for certain
+!KNOW from !DETERMINER ground up
+!KNOW from A to Z
+!KNOW from alpha to omega
+!KNOW full well
+!KNOW HER BY SIGHT
+!KNOW HER PLACE
+!KNOW HIM BY SIGHT
+!KNOW HIS PLACE
+!KNOW how to deliver
+!KNOW HOW TO DO WITHOUT
+!KNOW inside out
+!KNOW instinctively
+!KNOW it-all
+!KNOW it !AUX
+!KNOW it !AUX !DETERMINER
+!KNOW IT ALL
+!KNOW it backwards and forwards
+!KNOW it by heart
+!KNOW it cold
+!KNOW it forwards and backwards
+!KNOW it from memory
+!KNOW IT IN !PRONOUNOBJECTIVE BONES
+!KNOW it inside out
+!KNOW it only too well
+!KNOW it without notes
+!KNOW like !DETERMINER back of your hand
+!KNOW like a book
+!KNOW THEIR PLACE
+!KNOW THEM BY SIGHT
+!KNOW well
+!KNOW what's happening
+!KNOW what's what
+!KNOW what !AUX happening
+!KNOW what it's all about
+!KNOW what was happening
+!KNOW when
+!KNOW when !PRONOUNNOMINAL have had enough
+!KNOW when you have had enough
+!KNOW which !AUX which
+!KNOW your ass from your elbow
+!KNOW your onions
+!KNOW your own mind
+!KNOW your stuff
+!KNOW your way about
+!MAKE it a point to
+!MAKE no doubt
+!MAKE no mistake
+!MAKE sure
+!PAPER !PRESFACTIVES
+!PAPER has !PASTFACTIVES
+!PAPER have !PASTFACTIVES
+!PRONOUNNOMINAL !CANCOULD !PRESFACTIVES
+!PRONOUNNOMINAL apparently
+!PRONOUNNOMINAL apparently !AUX
+!PRONOUNNOMINAL apparently !AUX to
+!PRONOUNNOMINAL apparently are
+!PRONOUNNOMINAL apparently are to
+!PRONOUNNOMINAL have proved
+!PRONOUNNOMINAL realize that
+!PRONOUNNOMINAL realize there was
+!PRONOUNNOMINAL realized that
+!PRONOUNNOMINAL realized there was
+!PRONOUNNOMINAL realizes that
+!PRONOUNNOMINAL realizes there was
+!PRONOUNNOMINAL realizing that
+!PRONOUNNOMINAL realizing there was
+!PRONOUNNOMINAL wrote !DETERMINER book on it
+!PROVIDE knowledge
+!PUT trust in
+!SEE as it really is
+!SEE as it really was
+!SEE it as it really
+!SEE it as it really is
+!SEE it as it really was
+!SEE it with her own eyes
+!SEE it with his own eyes
+!SEE it with their own eyes
+!SEE it with your own eyes
+!SEE that
+!SEE with her own eyes
+!SEE with his own eyes
+!SEE with their own eyes
+!SEE with your own eyes
+!SET in stone
+!SET store by
+!TAKE !PRONOUNOBJECTIVE AT !POSSESSIVEPRONOUN WORD
+!TAKE as demonstrated
+!TAKE as gospel truth
+!TAKE as proved
+!TAKE STRAIGHT FROM !DETERMINER HORSE'S MOUTH
+!YOU bet your
+!YOU bet your boots
+!YOU bet your life
+!YOU better believe it
+. !DETERMINER answer !AUX
+. actually
+. actually,
+. is it any wonder
+. is it any wonder that
+. this fact
+. what a
+. what a great
+. what a huge
+. what a terrific
+. what a wonderful
+100 percent guarantee
+100 percent guarantees
+100% unanimity
+a certainty that
+a certainty to
+a cinch of
+a convincing
+a detail was telling
+a done deal
+a dreadnought
+a dreadnought stamp
+a factual
+a firm believer
+a foregone
+a good bet
+a hands down
+a knowing
+a knowing look
+A known fact
+a land-slide
+a landslide
+a matter of course
+a natural
+a natural for
+a plan truth
+a push-in
+a shoe-in
+a shoo-in
+a shoo in
+a stubborn fact
+a sure
+a truth of
+a turkey-shoot
+a turkey shoot
+above question
+absolute
+absolute certainty
+absolute fact
+absolute indication
+absolutely
+absolutely !DETERMINER
+absolutely and positively
+absolutely certain
+absolutely clear
+absolutely positive
+absolutely sure
+absolutely true
+absoluteness
+absolutes
+abundantly apparent
+actualities
+actualities of
+actuality
+actuality of
+actually,
+affirmable true
+affirmably true
+afford proof
+afforded proof
+affording proof
+affords proof
+all-knowing look
+all along knew
+all but a done deal
+all but assumed
+all but assured
+all but done
+all knowing
+all sealed up
+all signed sealed and delivered
+almost certainly
+ample evidence
+amply apparent
+and !DETERMINER fact
+and !DETERMINER fact that
+and just about any other
+and just about every other
+and no mistake
+and no mistake about
+apodictic
+apparent
+apparent that
+apparent to anyone
+apparently
+apparently !CANCOULD
+apparently aim for
+apparently aim to
+apparently aimed for
+apparently aimed to
+apparently aims for
+apparently aims to
+apparently so
+apparentness
+are confident
+are sure
+are trained
+are unbent
+as !DETERMINER daylong
+as a duck takes to water
+as a duck to water
+as clearly
+as easy
+as easy as
+as easy as pie
+as every schoolboy knows
+as it obviously
+as it obviously !AUX
+as it really
+as it really is
+as it really was
+as it were a
+as plain as
+as plain as !CANCOULD be
+as plain as !DETERMINER truth
+as plain as day
+as plain as plain !CANCOULD be
+as predicted
+as sure
+as sure as
+as surely
+as surely as
+as they obviously
+as thought
+assertive
+assertively
+assertiveness
+assurance
+assurances
+assure
+assure of
+assure of !DETERMINER
+assure that
+assured
+assured faith
+assured of
+assured of !DETERMINER
+assured of success
+assured probity
+assured that
+assuredly
+assuredly so
+assuredness
+assures
+assures of
+assures of !DETERMINER
+assures that
+assuring
+assuring of
+assuring of !DETERMINER
+assuring that
+bald fact
+bald facts
+bank upon
+banked upon
+banking upon
+banks upon
+bare fact
+bare facts
+be !DETERMINER decisive factor
+be !DETERMINER one that counts
+be certain
+be certain about
+be easy
+be proved
+be sure
+became apparent to
+Became clear that
+become apparent to
+Become clear that
+becomes apparent to
+Becomes clear that
+becoming apparent to
+Becoming clear that
+believe without reservation
+believed without reservation
+believes without reservation
+believing without reservation
+bet dollars to doughnuts
+bet one dollars to doughnuts
+bet you dollars to doughnuts
+better than anyone
+beyond !DETERMINER shadow of a doubt
+beyond a doubt
+beyond a reasonable doubt
+beyond a shade of doubt
+beyond a shadow of a doubt
+beyond a shadow of doubt
+beyond all doubt
+beyond all question
+beyond any doubt
+beyond doubt
+beyond question
+bin a land slide
+bold
+boldly
+boldly talk about
+boldly talked about
+boldly talking about
+boldly talks about
+boldness
+bolster her
+bolster his
+bolster their
+bolstered her
+bolstered his
+bolstered their
+bolstering her
+bolstering his
+bolstering their
+bolsters her
+bolsters his
+bolsters their
+bound to be
+bound to discover
+bound to do it
+buck up !POSSESSIVEPRONOUN confidence
+bucked up !POSSESSIVEPRONOUN confidence
+bucking up !POSSESSIVEPRONOUN confidence
+bucks up !POSSESSIVEPRONOUN confidence
+by a land-slide
+by acclamation
+by all means
+can't change
+can't change the past
+can't do much about it
+can't fail
+can't fail at
+can't miss
+can't miss at
+cannot fail
+cannot fail at
+cannot miss
+cannot miss at
+case closed
+cast in bedrock
+casting in bedrock
+casts in bedrock
+categoric
+categorical
+categorically
+categorically true
+categoricalness
+cela saute aux yeux
+cert
+certain
+certain about
+certain and firm
+certain knowledge
+certain of
+certain of what
+certain person
+certain that
+certain to
+certainly
+certainly !DETERMINER case
+certainly and unavoidably
+certainly cast
+certainly did
+certainly do
+certainly no stranger to
+certainly not
+certainly saw to it
+certainly see to it
+certainly seeing to it
+certainly sees to it
+certainly so
+certainly true
+certainly,
+certainties
+certainty
+certainty about
+certifiable case
+certitude
+certitudes
+cinch
+cinch !DETERMINER
+cinch !POSSESSIVEPRONOUN
+cinch !PRONOUNOBJECTIVE
+cinched
+cinched !DETERMINER
+cinched !POSSESSIVEPRONOUN
+cinched !PRONOUNOBJECTIVE
+cincher
+cinchers
+cinches
+cinches !DETERMINER
+cinches !POSSESSIVEPRONOUN
+cinches !PRONOUNOBJECTIVE
+cinching
+cinching !DETERMINER
+cinching !POSSESSIVEPRONOUN
+cinching !PRONOUNOBJECTIVE
+clear about
+clear as day
+clear indication
+clear indications
+clear pattern
+clear patterns
+clear that
+clearcut
+clearly
+clearly cast
+clearly present
+clearly reveal
+clearly revealed
+clearly reveals
+clearly so
+clearly that
+clearly what
+clearly,
+clearly, these are
+clearly, this
+clearly, this is
+clinch it
+clinched it
+clincher
+clinchers
+clinches !DETERMINER
+clinches it
+clinching !DETERMINER
+clinching it
+clinchingly
+cocksure
+cocksurely
+cocksureness
+come as no surprise
+comes as no surprise
+comfortable about
+comfortable in !DETERMINER belief
+complete confidence
+complete trust
+complete trust in
+completely confident
+completely so
+conclusive
+conclusive argument
+conclusive evidence
+conclusively
+conclusively refuted
+conclusiveness
+concretely
+concreteness
+confidence for
+confidence in
+confidence of
+confidence toward
+confidence with
+confident about
+confident in
+confident in the belief
+confident in the feeling
+confident that
+confident with
+confidently
+confidently believe
+confidently expected
+confirm
+confirm !DETERMINER
+confirm !DETERMINER importance
+confirmable
+confirmation
+confirmation of
+confirmations
+confirmatories
+confirmatory
+confirmed
+confirmed !DETERMINER
+confirmedly
+confirmedness
+confirming
+confirming !DETERMINER
+confirms
+confirms !DETERMINER
+confirms !DETERMINER importance
+convince
+convince !YOU that
+convince herself
+convince himself
+convince myself
+convince ourselves
+convince that
+convince themselves
+convinced
+convinced !DETERMINER
+convinced !POSSESSIVEPRONOUN
+convinced !PRONOUNOBJECTIVE
+convinced herself
+convinced himself
+convinced myself
+convinced ourselves
+convinced that
+convinced themselves
+convinced yourself
+convinces
+convinces a
+convinces herself
+convinces himself
+convinces myself
+convinces ourselves
+convinces that
+convinces themselves
+convincing
+convincing evidence
+convincing herself
+convincing himself
+convincing myself
+convincing ourselves
+convincing performance
+convincing portrayal
+convincing portrayal of
+convincing that
+convincing themselves
+convincing yourself
+convincingly
+convincingly argue
+convincingly argued
+convincingly argues
+convincingly arguing
+convincingness
+couldn't miss
+count on it
+cut-and-dried
+cut and dried
+damning evidence
+de plano
+dead-set
+dead-set on
+dead-sure
+dead-sure giveaway
+dead-sure thing
+dead as a herring
+dead as mutton
+dead asleep
+dead blackout
+dead calm
+dead certain
+dead certainty
+dead duck
+dead ducks
+dead flat
+dead on
+dead on center
+dead on centre
+dead right
+dead set
+dead set at
+dead set for
+dead set on
+dead set to
+dead sure
+dead wrong
+decernibly
+decidedly
+decidedness
+decisive
+decisive factor
+decisive factors
+decisively
+decisiveness
+definite
+definite about
+definite toward
+definite towards
+definitely
+definitely so
+definiteness
+definitive
+definitive bond
+definitive host
+definitive plumage
+definitive work
+definitively
+definitively so
+definitiveness
+definitude
+demonstrable
+demonstrable existence
+demonstrable fact
+demonstrably
+demonstrably proved
+demonstrably shown
+demonstrably true
+demonstrate
+demonstrate !DETERMINER
+demonstrate that
+demonstrate to
+demonstrated
+demonstrated !DETERMINER
+demonstrated that
+demonstrates
+demonstrates !DETERMINER
+demonstrates that
+demonstrating
+demonstrating !DETERMINER
+demonstrating that
+demonstrating to
+demonstration
+demonstration of
+demonstrations
+demonstrations of
+demonstrative
+demonstratively
+demonstrativeness
+determinacy
+determinate
+determinately
+determinateness
+determination
+determinations
+determinative
+determinatively
+determinativeness
+determine
+determine on
+determine once for all
+determine upon
+determined on
+determined once for all
+determined upon
+determinedness
+determines
+determines on
+determines once for all
+determines upon
+determining
+determining on
+determining once for all
+determining upon
+deterministic
+deterministically
+did it hands down
+direct from !DETERMINER horse's mouth
+dismiss all doubt
+dismissed all doubt
+dismisses all doubt
+dismissing all doubt
+dispositive fact
+dispositive facts
+distinct
+distinct memory
+distinctly
+distinctly recall
+distinctly remember
+distinctness
+do know
+doctrinaire
+doctrinaires
+done deal
+doubtless
+doubtlessly
+doubtlessness
+down-pat
+down off-pat
+down off pat
+down pat
+downright
+drop-dead certain
+drop-dead sure
+ease with which
+easily
+easily accessible
+easily adjustable
+easily and immediately
+easily cut
+easily done
+easily knows
+easily maintained
+easily played
+easily understood
+easily worked
+easiness
+easy-to
+easy-to-settle
+easy as
+easy as ABC
+easy as apple pie
+easy as duck soup
+easy as falling off a log
+easy as rolling off a log
+easy path
+easy paths
+easy peasy
+easy target
+easy targets
+easy to do
+easy way
+easy ways
+ecce signum
+eliminate all doubt
+eliminated all doubt
+eliminates all doubt
+eliminating all doubt
+embolden
+emboldened
+emboldening
+emboldens
+endowment assurance
+endowment assurances
+ensure
+ensure that
+ensured fully
+ensured that
+ensures
+ensures that
+ensuring
+ensuring that
+erase all doubt
+erased all doubt
+erases all doubt
+erasing all doubt
+establish that
+established fact
+established facts
+established that
+establishes that
+establishing that
+every bit as
+every confidence
+every schoolboy knows
+every step of the way
+everything's coming up roses
+evident
+evident that
+evidently
+evincive
+evincively
+evinciveness
+exact account
+exact amount
+exact spot
+exactly
+explicitly
+fact-finding revealed
+fact finding revealed
+fact of
+fact of experience
+fact of life
+fact that
+facts are
+facts of
+facts of life
+facts that
+factual base
+factual bases
+factual information
+factuals
+fait accompli
+faits accomplis
+faits accomplish
+fast-anchored
+fast-grounded
+fast-rooted
+fast-rootedness
+fast-settled
+fast and easy
+feel unlicked
+feeling it in
+feeling unlicked
+feels unlicked
+felt it in
+felt unlicked
+few can doubt
+few doubt
+find out that
+find that
+finding out that
+finds out that
+firm-minded
+firm-nerved
+firm and certain
+firm and unwavering
+firm at
+firm belief
+firm belief in
+firm beliefs
+firm beliefs in
+firm believer
+firm believers
+firm control
+firm controls
+firm ground
+firm ground to
+firm ground to believe
+firm ground to think
+firm grounds
+firm hand
+firm hands
+firm hold
+firm holds
+firm in
+firm in !DETERMINER
+firm in !DETERMINER belief
+firm in !DETERMINER beliefs
+firm in !DETERMINER conviction
+firm in !DETERMINER convictions
+firm in !POSSESSIVEPRONOUN belief
+firm in !POSSESSIVEPRONOUN beliefs
+firm in !POSSESSIVEPRONOUN conviction
+firm in !POSSESSIVEPRONOUN convictions
+firm on
+firm price
+firm prices
+firm resolve
+firm toward
+firm with
+firmly
+firmly believe
+firmly believe that
+firmly believes
+firmly established
+firmly feel
+firmly feels
+firmly hold that
+firmly think
+firmly think that
+firmly thinks
+firmness
+firmness of
+firmness of mind
+firmness of spirit
+firmness toward
+fixities
+fixity
+flat out false
+flat out right
+flat out true
+flat out wrong
+fool-proof
+for a certainty
+for a fact
+for all !DETERMINER world it sure
+for as long as !PRONOUNNOMINAL needs it
+for as long as !PRONOUNNOMINAL wants it
+for certain
+for certainly
+for good reason
+for good reasons
+for granted
+for one and all
+for sure
+for sure there !AUX
+foregone
+foregone conclusion
+found out that
+found that !DETERMINER
+found that it
+from !DETERMINER fact finding
+from fact finding
+full-assured
+full confidence
+fully and openly
+fully ensured
+god knows what he !AUX doing
+good likelihood
+great chance
+greater likelihood than not
+guarantee
+guarantee !PRONOUNOBJECTIVE
+guarantee of
+guaranteed
+guaranteed !PRONOUNOBJECTIVE
+guaranteed not to
+guaranteed not to frizz
+guaranteeing
+guaranteeing !PRONOUNOBJECTIVE
+guarantees
+guarantees !PRONOUNOBJECTIVE
+guarantied
+guaranties
+guarantor
+guarantors
+guaranty
+guarantying
+had apparently
+had it down
+had it down cold
+had it in !DETERMINER bag
+Had no second thoughts
+had proven
+had something to say
+handily
+hands-down
+hands down
+handwriting-on-!DETERMINER-wall
+handwriting on !DETERMINER wall
+hard-and-fast
+hard-and-fastness
+has apparently
+has been firm
+has been unfluctuating
+has it down
+has it down cold
+has never wavered
+Has no second thoughts
+has not wavered
+has something to say
+has trust
+has trust in
+have a pleasant
+have been assured
+have no hesitation
+have proved
+haven't a shadow of doubt
+he can count on
+he can identify with
+he wrote !DETERMINER book on it
+held firmly to !DETERMINER belief
+here's !DETERMINER story
+heset on
+heunbent
+hold firmly to !DETERMINER belief
+holding firmly to !DETERMINER belief
+holds firmly to !DETERMINER belief
+hook, line, and sinker
+how easily
+how easy
+how easy !PRONOUNNOMINAL pulled it off
+how simple and easy
+ice !DETERMINER
+ice !DETERMINER game
+iced !DETERMINER
+iced !DETERMINER game
+ices !DETERMINER
+ices !DETERMINER games
+icing !DETERMINER
+icing !DETERMINER game
+if anything !AUX certain
+if anything !AUX certain about
+if anything !AUX certain in
+if anything !AUX certain it was
+if anything !AUX clear
+if anything !AUX clear about
+if anything !AUX clear in
+if anything !AUX clear it was
+if anything !AUX sure
+if anything !AUX sure about
+if anything !AUX sure in
+if anything !AUX sure it was
+immodest
+immodestly
+immodesty
+immutability
+immutable
+immutableness
+immutably
+impavid
+in !DETERMINER bag.
+in !DETERMINER know
+in !DETERMINER know about
+in a breeze
+in a cake-walk
+in a cakewalk
+in a knowing
+in a land-slide
+in a land slide
+in a run away
+in all but name
+in all likelihood
+in all probability
+in confirmation
+in countenance
+in no uncertain
+in no uncertain terms
+in no way can
+in one confident voice
+in plenty
+in plenty of
+in point of fact
+in undisguised
+inalterable
+inalterably
+inarguable
+inarguably
+incommutably
+incontestability
+incontestable
+incontestableness
+incontestably
+incontravertibilities
+incontravertibility
+incontravertible
+incontravertibleness
+incontravertibly
+incontrovertibilities
+incontrovertibility
+incontrovertible
+incontrovertibleness
+incontrovertibly
+inconvertibility
+inconvertible
+inconvertibleness
+inconvertibly
+Increasingly clear
+Increasingly clear that
+indelibly stamped
+indisputable
+indisputable-evidence
+indisputable evidence
+indisputable fact
+indisputable facts
+indisputably
+indisputably so
+indubitabilities
+indubitability
+indubitable
+indubitable that
+indubitableness
+indubitably
+indubitably so
+ineffably stamped
+ineluctable
+ineluctable consequence
+ineluctable consequences
+ineluctable result
+ineluctable results
+ineluctably
+ineludible
+inerrable
+inerrancy
+inerrant
+inescapable
+inescapable fact
+inescapable facts
+inescapably
+inevasible
+inevitabilities
+inevitability
+inevitability so
+inevitable
+inevitable accident
+inevitable accidents
+inevitable consequence
+inevitable consequences
+inevitable that
+inevitableness
+inevitably
+inevitably narrative
+inevitably narratives
+inflexible will
+inflexible wills
+inflexibly-willed
+inflexibly willed
+insure that
+insured that
+insures that
+insuring that
+into sharp relief
+invariably
+invariantly
+ironclad
+ironclad-reasoning
+ironclad agreement
+ironclad agreements
+ironclad guarantee
+ironclad oath
+ironclad oaths
+ironclad proof
+ironclad proofs
+ironclad ram
+ironclad rams
+ironclad reasoning
+ironclads
+irreducible and stubborn facts
+irreducible content
+irrefragability
+irrefragable
+irrefragableness
+irrefragably
+irrefutability
+irrefutable
+irrefutable logic
+irrefutably
+irrepressible optimist
+irrepressible optimists
+isn't in doubt
+isn't much to do about it
+it's !DETERMINER axiom of
+it's !DETERMINER way it is.
+it's a breeze
+it's a breeze to
+it's a good bet
+it's a good bet that
+it's a likely
+it's A Piece of cake
+it's a truth of
+it's as easy as that
+it's as plain as that
+it's as simple as that
+it's child's play
+it's clear sailing
+it's easy
+it's easy to
+it's exactly as !DETERMINER
+it's God's will
+it's hands down
+it's in !DETERMINER cards
+it's just as
+it's just as !DETERMINER
+it's just as it
+it's just child's play
+it's just what it takes
+it's kids' stuff
+it's likely
+it's pretty clear
+it's pretty clear that
+it's simple to
+it's straight from !DETERMINER horse's mouth
+it's telling that
+it's unanimous
+it !AUX !DETERMINER case
+it !AUX !DETERMINER case that
+it !AUX a likely
+it !AUX apparent
+it !AUX apparent that
+it !AUX apparent that to
+it !AUX bound to happen
+it !AUX bound to occur
+it !AUX certain
+it !AUX certain that
+it !AUX certainly
+it !AUX certainly true
+it !AUX child's play
+it !AUX clearly
+it !AUX definitely !DETERMINER case that
+it !AUX easy
+it !AUX easy for
+it !AUX easy to
+it !AUX easy to see
+it !AUX easy to see that
+it !AUX evident that
+IT !AUX EXACTLY
+IT !AUX EXACTLY WHAT
+it !AUX fairly certain
+it !AUX fated
+it !AUX for a fact
+it !AUX likely
+it !AUX likely that
+it !AUX manifest that
+it !AUX natural to
+it !AUX necessary
+it !AUX no wonder that
+it !AUX obvious
+it !AUX obvious that
+it !AUX obvious to
+it !AUX patent that
+it !AUX plain
+it !AUX plain that
+it !AUX pretty clear
+it !AUX pretty clear that
+it !AUX simple to
+it !AUX simply that
+it !AUX surely
+it !AUX that
+it !AUX undeniable
+it !AUX undeniable that
+it !AUX written
+it can't be denied
+it can't be doubted
+it cannot be denied
+it cannot be doubted
+it cannot but have been
+it cannot but have been otherwise
+it seems natural to
+it seems obvious that
+it seems right to
+it sure
+it sure does not feel
+it sure doesn't feel
+it sure doesn't seem
+it sure feels
+it sure seems
+it was hands down
+it will certainly
+it will definitely be
+iwis
+just !TAKE for granted
+just a turkey shoot
+just as !PRONOUNNOMINAL thought
+just as expected
+just as predicted
+just as sure as
+just as sure as he !AUX
+just as sure as she !AUX
+just as thought
+just as you thought
+just leave it to
+kid's stuff
+knew
+knew !DETERMINER whole truth
+knew !PRONOUNOBJECTIVE like !DETERMINER back of
+knew !PRONOUNOBJECTIVE like !DETERMINER palm of
+knew all along
+knew chapter and verse
+KNEW HOW
+knew it chapter and verse
+knew it in
+knew it off-pat
+knew it off pat
+knew that
+knew what
+know
+know !DETERMINER ropes
+know !DETERMINER score
+know !DETERMINER whole truth
+know !PRONOUNOBJECTIVE like !DETERMINER back of
+know !PRONOUNOBJECTIVE like !DETERMINER palm of
+know !QUESTION
+know all along
+know all too well
+know chapter and verse
+know exactly
+know exactly !QUESTION
+know full well
+KNOW HIM BY SIGHT
+KNOW HOW
+know it backwards and forwards
+know it by heart
+know it chapter and verse
+know it forwards and backwards
+know it from memory
+know it in
+know it inside out
+know it off-pat
+know it off pat
+know it only too well
+know it word for word
+know specifically
+know that
+know too well
+know well
+know what's what
+know what it
+know whereof
+KNOWING
+knowing !DETERMINER whole truth
+knowing !PRONOUNOBJECTIVE like !DETERMINER back of
+knowing !PRONOUNOBJECTIVE like !DETERMINER palm of
+knowing all along
+knowing chapter and verse
+KNOWING HOW
+knowing it by heart
+knowing it chapter and verse
+knowing it in
+knowing it off-pat
+knowing it off pat
+knowing it word for word
+knowing that
+knowing what
+knowingly
+knowingness
+known all along
+known by
+known by !DETERMINER name of
+known by every
+known by measurement
+known criminals
+known health hazards
+known quantities
+known quantity
+known results
+known risk factor
+known risk factors
+known situation
+known situations
+known territory
+known terrorists
+known throughout
+known to
+known to all
+known to be
+known to be dead and buried
+known to be dead and gone
+known to have
+known widely
+KNOWS
+knows !DETERMINER whole truth
+knows !PRONOUNOBJECTIVE like !DETERMINER back of
+knows !PRONOUNOBJECTIVE like !DETERMINER palm of
+knows all along
+knows chapter and verse
+KNOWS HOW
+knows it by heart
+knows it chapter and verse
+knows it off-pat
+knows it off pat
+knows it word for word
+knows that
+knows to
+knows what
+land-side defeat
+land-side victory
+landslide victory
+learn it down pat
+learned it down pat
+learning it down pat
+learns it down pat
+let it be made clear
+like a duck takes to water
+like a duck to water
+likelier than not
+likely
+likely that
+lion-bold
+lion-headed
+lion-thoughted
+made apparent to
+made it certain
+made manifest to
+made obvious to
+make it certain
+makes it certain
+makes it easy
+makes it easy to
+MAKES SURE
+making it certain
+MAKING SURE
+manifest
+manifest content
+manifest contents
+manifest destinies
+manifest destiny
+manifest that
+manifestative
+manifestly so
+matter of course
+meet boldly
+meeting boldly
+meets boldly
+mere child's play
+met boldly
+more certainly true
+more than anyone
+more than likely
+most assuredly
+most certainly
+most certainly !DETERMINER case
+most likely
+must accept the way it is
+must accept things
+nailed it down
+naked fact
+naked facts
+naked truth
+naked truths
+natural thing
+natural thing to happen
+natural things
+natural things to happen
+natural to
+naturally
+never allow
+never be
+never have
+never in doubt
+never ought
+never say
+never should
+never wavered
+never will
+never would
+no buts
+no buts about it
+no catch
+no chance
+no chance whatever
+no chance whatsoever
+no choice but
+no contest
+no doubt
+no doubt in !DETERMINER slightest
+no ifs
+no ifs, ands, or buts
+no one can deny
+no one can deny that
+no one can dispute
+no option but to embrace
+no options but
+no possibility
+no question
+no question about
+no question about it
+no question that
+no room for doubt
+no Second thoughts
+no two ways about it
+no uncertain
+no wonder
+no wonder that
+non-negotiable
+none could dispute
+nor is there any possibility
+nor was there any possibility
+not !DETERMINER slightest doubt
+not a chance in hell
+not a doubt
+not a hint of doubt
+not a shadow of a doubt
+not a shadow of doubt
+not a shred of doubt
+not a shred of evidence
+not a single doubt
+not a single hesitation
+not a trace of doubt
+not ashamed
+not at all uncertain
+not even close
+not hesitant
+not improbably
+not in doubt
+not subject to doubt
+not the slightest doubt
+not uncertain
+not wavered
+nothing but clear sailing
+nothing uncertain
+NOW KNOWS THAT
+now two ways about it
+obvious
+obvious clue
+obvious clues
+obviously
+obviously apparent
+obviously so
+obviousness
+of-fact
+of a certainty
+of a dreadnought stamp
+of fact
+of facts
+off-pat
+off pat
+offer with certainty
+omincience
+omnicient
+on !DETERMINER exact dot
+on !DETERMINER exact spot
+on !DETERMINER undeviating course
+on firm ground
+on firm grounds
+on her own ground
+on her own turf
+on his own ground
+on his own turf
+on sure
+on sure ground
+on target
+on their own ground
+on their own turf
+one sure
+only child's play
+open-and-shut
+open-and-shut case
+open her eyes to
+open his eyes to
+open their eyes to
+opened her eyes to
+opened his eyes to
+opened their eyes to
+opening her eyes to
+opening his eyes to
+opening their eyes to
+opens her eyes to
+opens his eyes to
+opens their eyes to
+or ever
+out of actual
+out of true
+overwhelming evidence
+overwhelming support
+overwhelmingly
+own ground
+own turf
+palpable
+palpably
+pat-hand
+pat-hands
+pat hand
+pat hands
+patencies
+patency
+patent that
+patently
+patently so
+patently true
+per simpliciter
+perceptible degree
+perfectly certain
+perfectly sure
+permanently
+place confidence in
+place reliance in
+place reliance on
+place trust in
+placed confidence in
+placed reliance in
+placed reliance on
+placed trust in
+places confidence in
+places reliance in
+places reliance on
+places trust in
+placing confidence in
+placing reliance in
+placing reliance on
+placing trust in
+plain-and-simple
+plain-faced truth
+plain-faced truths
+plain and simple truth
+plain as
+plain as !DETERMINER nose on your face
+plain as !DETERMINER truth
+plain as a pikestaff
+plain as can be
+plain as day
+plain fact
+plain facts
+plain for everyone
+plain for everyone to see
+plain sailing
+plain to anyone
+plain to be seen
+plain to see
+plainly
+plainly and simply
+plainly so
+plenary-indulgence
+plenary-indulgences
+plenary-inspiration
+plenary-inspirations
+plenary-power
+plenary-powers
+plenary-remission
+plenary-remissions
+plenary indulgence
+plenary indulgences
+plenary inspiration
+plenary inspirations
+plenary power
+plenary powers
+plenary remission
+plenary remissions
+plenipotentiary power
+plenipotentiary powers
+plenty of times
+plume herself for
+plume herself on
+plume himself for
+plume himself on
+plume myself for
+plume myself on
+plume ourselves for
+plume ourselves on
+plume themselves for
+plume themselves on
+plume yourself for
+plume yourself on
+plumed herself for
+plumed herself on
+plumed himself for
+plumed himself on
+plumed myself for
+plumed myself on
+plumed ourselves for
+plumed ourselves on
+plumed themselves for
+plumed themselves on
+plumed yourself for
+plumed yourself on
+plumes herself for
+plumes herself on
+plumes himself for
+plumes himself on
+plumes myself for
+plumes myself on
+plumes ourselves for
+plumes ourselves on
+plumes themselves for
+plumes themselves on
+plumes yourself for
+plumes yourself on
+pluming herself for
+pluming herself on
+pluming himself for
+pluming himself on
+pluming myself for
+pluming myself on
+pluming ourselves for
+pluming ourselves on
+pluming themselves for
+pluming themselves on
+pluming yourself for
+pluming yourself on
+plump fact
+plump facts
+point to !DETERMINER fact
+pointed to !DETERMINER fact
+pointing to !DETERMINER fact
+points to !DETERMINER fact
+positive about
+positive definiteness
+positive fact
+positive facts
+positive identification
+positive that
+positively
+positively identified
+positively identified as
+predictable error
+predictable errors
+predictable response
+predictable responses
+predictably
+PREORDAIN
+PREORDAIN TO
+PREORDAINED
+PREORDAINED TO
+PREORDAINING
+PREORDAINING TO
+preordainment
+preordains
+PREORDAINS TO
+pretty clear
+professionally trained
+proof
+proof of
+proof positive
+proofs
+provable fact
+provable facts
+prove
+prove !DETERMINER point
+prove !POSSESSIVEPRONOUN point
+prove !PRONOUNOBJECTIVE to be
+prove out that
+prove that
+PROVE THAT IT
+prove the point
+PROVE THEM
+prove to
+prove to be
+prove to be !DETERMINER
+prove to have
+prove true
+prove up
+prove your point
+proved
+proved !DETERMINER point
+proved !POSSESSIVEPRONOUN point
+proved !PRONOUNOBJECTIVE to be
+proved fact
+proved facts
+proved how
+proved out that
+proved that
+proved to
+proved to be
+proved to be !DETERMINER
+proved to have
+proved true
+proved up
+proved without a doubt
+proved without a doubt that
+proved your point
+proved,
+proved.
+proved;
+proven to
+proven true
+proven,
+proven.
+proven;
+proves
+proves !DETERMINER point
+proves !POSSESSIVEPRONOUN point
+proves !PRONOUNOBJECTIVE to be
+proves out that
+proves that
+PROVES THAT IT
+proves to
+proves to be
+proves to be !DETERMINER
+proves to have
+proves true
+proves up
+proves your point
+proving
+proving !DETERMINER point
+proving !POSSESSIVEPRONOUN point
+proving out that
+proving that
+proving that it
+proving to
+proving to be
+proving to be !DETERMINER
+proving to have
+proving true
+proving up
+proving your point
+put confidence
+put reliance in
+put trust in
+puts confidence
+puts reliance in
+puts trust in
+putting confidence in
+putting reliance in
+putting trust in
+quite certain
+quite clear
+quite concrete
+quite easily
+quite firm about
+quite firm on
+quite simple
+rather confident
+readily knows
+real detail
+real details
+real shoo-in
+real shoo in
+realise
+realises
+realising
+realize that
+realize there was
+realized that
+realized there was
+realizes that
+realizes there was
+realizing that
+realizing there was
+really knew
+really know
+really knowing
+really knows
+really opens your eyes to
+reasonably confident
+remain undiminished
+remain unembarrassed
+remain unshaken
+remained undiminished
+remained unembarrassed
+remained unshaken
+remaining undiminished
+remaining unembarrassed
+remaining unshaken
+remains undiminished
+remains unembarrassed
+remains unshaken
+remove all doubt
+removed all doubt
+removes all doubt
+removing all doubt
+rest in confidence
+rested in confidence
+resting in confidence
+rests in confidence
+right as rain
+right on !DETERMINER button
+right on !DETERMINER nose
+said what !PRONOUNNOMINAL mean
+said what you mean
+said with confidence
+salt firm
+salt firmly
+salted firmly
+sans appel
+sans doute
+say categorically
+say what !PRONOUNNOMINAL mean
+say what you mean
+say with certainty
+say with confidence
+saying what !PRONOUNNOMINAL mean
+saying what you mean
+saying with confidence
+says what !PRONOUNNOMINAL mean
+says what you mean
+says with confidence
+sealed deal
+sealed deals
+second-nature
+second nature
+secure about
+secure in
+secure in the belief
+secure in the knowledge
+secure with
+self-evident
+self-explanatory
+set mind
+set minds
+set on
+shall certainly
+sharp relief
+she can count on
+she can identify with
+she wrote !DETERMINER book on it
+sheer patencies
+sheer patency
+sheset on
+sheunbent
+shoo-in
+shoo in
+should make apparent
+show clearly
+show conclusively
+show expertise
+show her that
+show him that
+show it that
+show it to be
+show that
+show them that
+showed clearly
+showed conclusively
+showed expertise
+showed her that
+showed him that
+showed it that
+showed it to be
+showed that
+showed them that
+showed you that
+showing clearly
+showing conclusively
+showing expertise
+showing her that
+showing him that
+showing it that
+showing it to be
+showing that
+showing them that
+showing you that
+shows clearly
+shows conclusively
+shows expertise
+shows her that
+shows him that
+shows it that
+shows it to be
+shows that
+shows them that
+shows you that
+signally
+signed and sealed
+signed sealed and delivered
+signed, sealed and delivered
+simple and easy
+simple answer
+simple answers
+simple as ABC
+simple fact
+simple facts
+simple to do
+simple truth
+simple truths
+simpliciter
+simply
+simply !DETERMINER fact
+SIMPLY !DETERMINER FACT THAT
+simply !DETERMINER truth
+simply and purely
+simply be
+simply so
+skilled and confident
+sky's !DETERMINER limit
+slow but sure
+slowly but surely
+smack-dab
+smack-dab in !DETERMINER middle
+smacking of a certain
+small chance of that!
+small wonder
+small wonder that
+so-simple
+so clear
+so cocksure
+so easily
+so obvious
+so simple
+sober fact
+sober facts
+sober realities
+sober reality
+some detail was telling
+something easy
+something to it.
+something to it;
+soul-sure
+speak for itself
+speaking for itself
+SPEAKS FOR ITSELF
+specifically know
+spoke for itself
+stag-sure
+stag sure
+stag sure of
+stand !DETERMINER gaff
+stand a good chance
+stand a great chance
+stand convinced
+stand firm
+stand firmly
+stand firmly behind
+stand pat
+stand upon
+stand upon a course
+stand upon her rights
+stand upon his rights
+stand upon their rights
+stand upon your rights
+standing !DETERMINER gaff
+standing a good chance
+standing a great chance
+standing convinced
+standing firm
+standing firmly
+standing firmly behind
+standing pat
+standing upon
+standing upon a course
+standing upon her rights
+standing upon his rights
+standing upon their rights
+standing upon your rights
+stands !DETERMINER gaff
+stands a good chance
+stands a great chance
+stands convinced
+stands firm
+stands firmly
+stands firmly behind
+stands pat
+stands upon
+stands upon a course
+stands upon her rights
+stands upon his rights
+stands upon their rights
+stands upon your rights
+stark fact
+stark facts
+stark truth
+stark truths
+staunch and confident
+staunch in
+staunch in !DETERMINER
+staunchly and confidently
+staunchly confident
+stone ginger
+stone gingers
+stood !DETERMINER gaff
+stood a good chance
+stood a great chance
+stood convinced
+stood firm
+stood firmly
+stood firmly behind
+stood pat
+stood upon
+stood upon a course
+stood upon her rights
+stood upon his rights
+stood upon their rights
+stood upon your rights
+straight-forward
+straight-out
+straightforward
+straightforward and easy
+straightforward to do
+stubborn fact
+stubborn facts
+subjective certainties
+subjective certainty
+such !AUX
+such precisely !AUX
+sure
+sure-aimed
+sure-enough
+sure-footed
+sure-footedly
+sure-footedness
+sure-founded
+sure-grounded
+sure-handedly
+sure-headed
+sure-knowing
+sure-nosed
+sure-presaging
+sure-refuged
+sure-seeing
+sure-set
+sure-settled
+sure-slow
+sure-steeled
+sure !QUESTION
+sure about
+sure as !DETERMINER devil
+sure as anything
+sure as can be
+sure as death
+sure as death and taxes
+sure as fate
+sure as hell
+sure as shooting
+sure beats
+sure beats !DETERMINER
+sure bet
+sure bets
+sure card
+sure conclusion
+sure crop
+sure deal
+sure deals
+sure delivers !DETERMINER goods
+sure delivers on
+sure enough
+sure footedly
+sure footedness
+sure ground
+sure grounds
+sure loser
+sure never did
+sure never do
+sure of
+sure of !DETERMINER
+sure of !POSSESSIVEPRONOUN
+sure of !PRONOUNOBJECTIVE
+sure of !REFLEXIVEPRONOUN
+sure of myself
+sure of yourself
+sure sign
+sure signs
+sure success
+sure that
+sure thing
+sure things
+sure to
+sure toward
+sure winner
+sure wish
+surefire
+surefooted
+surefootedness
+surehanded
+surehandedly
+surely
+surely be
+surely could
+surely so
+surely would
+sureness
+surer
+surest
+surest thing you know
+sureties
+surety
+surety bond
+swear and affirm
+swear by bell
+swearing and affirming
+swearing by bell
+swears and affirms
+swears by bell
+swift and sure
+swore and affirmed
+swore by bell
+take as a matter of course
+take it as a matter of course
+take it on trust
+taken from actual
+takes as a matter of course
+takes it as a matter of course
+takes it on trust
+taking as a matter of course
+taking it as a matter of course
+taking it on trust
+tell-tale
+tell once and for all
+telling once and for all
+tells once and for all
+telltale
+tenuous about
+that's !DETERMINER end of !DETERMINER matter
+that's !DETERMINER idea
+that's !DETERMINER thing
+that's a breeze
+that's final
+that's for sure
+that's it
+that's just it
+that's kid's-stuff
+that's that
+that's the way it is
+that's what it amounts to
+that !AUX evident
+that !AUX so
+that be
+that buttons it up
+that clinches it
+that could never
+that could never have
+that could never have made
+that could never have made it
+that could never have made its way
+that precisely !AUX
+there's !DETERMINER
+there's absolutely
+there's absolutely no way
+there's just no way
+there's lots of
+there's no misunderstanding
+there's no two ways about it
+there's positively
+there's positively no way
+there !AUX a certainty
+there !AUX no chance
+there !AUX no doubt
+there !AUX no question
+there !AUX no question about it
+there !AUX no question but
+there !AUX no question that
+there !AUX no reason to doubt
+there !AUX not a shadow of doubt
+there !AUX simply going to be
+there can be no dispute
+there exists
+there exists a
+there is no controversy
+there is no debate
+there it !AUX
+there would certainly
+there would certainly be
+these precisely !AUX
+they are set on
+they are unbent
+they can count on
+they can identify with
+they have !PASTFACTIVES
+this !AUX kid's stuff
+this fact
+this precisely !AUX
+those are the bare facts
+those are the facts
+those precisely !AUX
+threw into sharp relief
+through thick and thin
+throw into sharp relief
+throwing into sharp relief
+throws into sharp relief
+thunder-fearless
+to !DETERMINER fact
+to !DETERMINER facts
+to a certainty
+to a perceptible degree
+to demonstrate
+to one and all
+to prove !DETERMINER point
+to really know
+to state !DETERMINER fact
+to state !DETERMINER facts
+to state !DETERMINER truth
+told once and for all
+too obvious to be overlooked
+took as a matter of course
+took it as a matter of course
+took it on trust
+tout court
+trivial to
+true bearing
+true bearings
+true being
+true beings
+true meaning
+true meanings
+true to
+true to !DETERMINER facts
+true to !DETERMINER letter
+true to !DETERMINER spirit
+true to form
+true to her colors
+true to his colors
+true to nature
+true to reality
+true to their colors
+true to type
+true to your colors
+truly so
+trust
+trust-bolstering
+trust-ingly
+trust-winning
+trust !POSSESSIVEPRONOUN gut
+trust for
+trust her
+trust her for
+trust her implicitly
+trust her to
+trust her word
+trust him
+trust him for
+trust him implicitly
+trust him to
+trust his word
+trust implicitly
+trust in
+trust in God
+trust it for
+trust it to
+trust of
+trust on
+trust that
+trust the word
+trust their word
+trust them
+trust them for
+trust them implicitly
+trust them to
+trust to
+trust to chance
+trust to luck
+trust unto
+trust upon
+trust you
+trust you for
+trust you implicitly
+trust you to
+trust your word
+trustable
+trusted
+trusted !POSSESSIVEPRONOUN gut
+trusted her word
+trusted his word
+trusted implicitly
+trusted in
+trusted in God
+trusted on
+trusted that
+trusted the word
+trusted their word
+trusted to
+trusted to change
+trusted to luck
+trusted unto
+trusted upon
+trusted your word
+trustful
+trustfully
+trustfulness
+trustier
+trusties
+trustiest
+trustily
+trustiness
+trusting
+trusting !POSSESSIVEPRONOUN gut
+trusting her word
+trusting his word
+trusting implicitly
+trusting in
+trusting in God
+trusting on
+trusting soul
+trusting souls
+trusting that
+trusting the word
+trusting their word
+trusting to
+trusting to change
+trusting to luck
+trusting unto
+trusting upon
+trusting your word
+trustingly
+trusts
+trusts !POSSESSIVEPRONOUN gut
+trusts her word
+trusts his word
+trusts implicitly
+trusts in
+trusts in God
+trusts on
+trusts that
+trusts the word
+trusts their word
+trusts to
+trusts to change
+trusts to luck
+trusts unto
+trusts upon
+trusts your word
+truth is,
+un-bowed
+un-bowing
+un-self-conscous
+un-selfconscious
+unalterable
+unalterably
+unambiguous
+unambiguously
+unambiguousness
+unanimity
+unanimous
+unanimously
+unanimously-elected
+unapolegetic
+unapolegetically
+unapologetic
+unapologetically
+unarguable
+unarguably
+unashamed
+unashamedly
+unassailability
+unassailable
+unassailably
+unavoidability
+unavoidable
+unbendable
+unbending
+unbending about
+unbending on
+unbending when it comes
+unbendingly
+unbent on
+unbleached truth
+unbleached truths
+unblinking
+unblinking-eye
+unblinking-eyes
+unblinking eye
+unblinking eyes
+unblinkingly
+unblush
+unblushed
+unblushed and unbowed
+unblushes
+unblushing
+unblushingly
+unblushingness
+unbow
+unbowed from
+unbowing
+unbows
+unbreakable bond
+unbreakable bonds
+unbreakably
+unchallengeable
+unchallenged
+unchangeably
+unchangingly
+unconditional
+unconditionally
+unconditioned
+uncontestable
+uncontested
+uncontroversial
+uncontrovertibly
+uncritical-acceptance
+uncritical-acceptance of
+uncritical-acceptances
+uncritical-acceptances of
+uncritical acceptance
+uncritical acceptance of
+uncritical acceptances
+uncritical acceptances of
+undaunted
+undebatable
+undeniable
+undeniable-fact
+undeniable-facts
+undeniable fact
+undeniable facts
+undeniably
+undeviating course
+undiminishing confidence
+undisguised
+undisputable
+undisputed
+undisputedly
+undoubted
+undoubtedly
+undoubting
+unembellished fact
+unembellished facts
+unembellished truth
+unembellished truths
+unequivocal
+unequivocally
+unescapable
+unfliching
+unflinchingly
+unfluctuating attitude
+unfluctuating attitudes
+ungrudging
+ungrudgingly
+unhesitant
+unhesitating
+unhesitatingly
+unimpeachable
+unimpeachably
+univocal
+univocally
+unmistakable
+unmistakable sign
+unmistakable signs
+unmistakably
+unmistaken
+unornamented fact
+unornamented facts
+unornamented truth
+unornamented truths
+unpolemical
+unpreventable
+unqualified
+unqualifiedly
+unqualifiedness
+unquestionable
+unquestionableness
+unquestionably
+unquestioned
+unquestioning
+unquestioning belief
+unquestioning believes
+unquestioningly
+unreservedly
+unselfconsciously
+unselfconsious
+unshakable
+unshakable nerve
+unshakable nerves
+unshakably
+unshakeable
+unshakeably
+unshaken
+unshaken confidence
+unshaken confidences
+unshaken in
+unshaking
+unshaking faith
+unshamed
+unsurprised
+unsurprising
+unsurprisingly
+unswerving
+unswerving attention
+unswerving attentions
+untentative
+unvarnished-truth
+unvarnished-truths
+unvarnished fact
+unvarnished facts
+unwavering
+unwavering in loyalty
+unwavering in purpose
+unwavering in resolve
+unwaveringly
+utmost assurance
+utmost confidence
+verily
+verily so
+very clear
+very concrete
+very confident
+very likely
+very simple
+very sure
+very sure-fire
+very tenuous about
+vividly demonstrate
+vividly demonstrated
+vividly demonstrates
+vividly demonstrating
+wake up to !DETERMINER truth
+wakes up to !DETERMINER truth
+waking up to !DETERMINER truth
+walkover
+walkovers
+was assured
+was not in doubt
+was strong
+wasn't in doubt
+well-known for their
+well-proved
+well-proven
+well understand
+well understanding
+well understands
+were firm
+were strong
+what has happened has happened
+what is known
+what was done is done
+whatever is going to happen will happen
+wholly convinced
+why guess at
+why marvel at
+why speculate about
+why wonder at
+will bank on it
+will be able to control the situation
+will convince you
+will convince yourself
+will not bend
+will not bend on
+win by daylight
+win easily
+win going away
+win hands down
+win in a canter
+win in a walk
+win in a waltz
+winning by daylight
+winning easily
+winning going way
+winning hands down
+winning in a canter
+winning in a walk
+winning in a waltz
+wins by daylight
+wins easily
+wins going away
+wins hands down
+wins in a canter
+wins in a walk
+wins in a waltz
+wist that
+with !DETERMINER full confidence
+with !DETERMINER knowledge of
+with !DETERMINER knowledge that
+with a confidence
+with a confident
+with a firmness
+with a knowing look
+with absolute confidence
+with certainty
+with confidence
+with ease
+with firmness
+with her own eyes
+with his own eyes
+with iron hands
+with knowing looks
+with no qualm
+with no qualms
+with one confident voice
+with or without
+with their own eyes
+with undisguised
+with your own eyes
+within !POSSESSIVEPRONOUN grasp
+within !POSSESSIVEPRONOUN reach
+within your grasp
+without !DETERMINER exception
+without !DETERMINER least doubt
+without a doubt
+without a question
+without a shadow of a doubt
+without a single doubt
+without any qualms
+without doubt
+without equivocation
+without exception
+without fail
+without faith
+without fear of contradiction
+without fear or favor
+without hesitation
+without question
+without reservation
+witting that
+woke up to !DETERMINER truth
+won't bend
+won't bend for
+won by daylight
+won going away
+won hands down
+won in a canter
+won in a walk
+won in a waltz
+won it hands down
+wot
+wot of
+would definitely
+would invariably
+would prove that
+would without fail
+wrote !DETERMINER book on it
+you're sure
+you are set on
+you are unbent
+you bet ya
+you bet your
+you bet!
+you bet.
+you can bet your bottom dollar
+you can count on it
+you can identify with
+you will be
+ywis

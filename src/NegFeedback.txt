@@ -1,0 +1,190 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX a pain
+!AUX a pain in the ass
+!AUX a pain in the butt
+!AUX a real pain
+!AUX entirely too
+!AUX still jarring to me
+!LEAVE much to be desired
+!LEAVE something to be desired
+. hogwash
+. hogwash!
+a brickback to
+a feature that would be helpful
+a feature that would help is
+are misleading
+brickback to
+brickbacks to
+but please do a better
+can't compete
+can you improve
+can you make a better product
+can you make it more
+can you make it more reliable
+can you make it so
+can you speed up
+could cause a backlash
+could cause havoc
+could create a backlash
+could you improve
+could you make it so
+couldn't you do better
+does it have to do that
+doesn't cut it
+doesn't measure it
+far from enjoyable
+far from happy
+far from idyllic
+far from nice
+far from pleasant
+far from wonderful
+hardly !DETERMINER
+hardly a chance
+hardly any
+hardly anything works
+hardly better than
+hardly different than before
+hardly different than it was before
+hardly ever
+hardly expect
+hardly like
+hardly possible
+hardly the thing
+have the interface
+have the management team
+have the program
+have the server
+have the system
+I did notice though
+I don't see any improvement
+I keep losing the
+I still don't get it
+I still don't prefer it
+I still don't think it's working
+I still don't understand how to use it
+I would like to be able to
+if you can improve
+if you can only
+if you could only
+is no excuse
+is still confusing to me
+It's got a long way to go
+it's hard to tell
+it's hardly better
+it gets annoying
+it gets annoying after
+it gets annoying to
+it keeps crashing
+it keeps losing my
+it still doesn't work
+it took me too long
+it was a pain
+it was frustrating
+it was more frustrating than
+it was over my head
+it was too hard for me
+kinda jarring
+much room for improvement
+must it have to do that
+my main complaint is
+my main problem is
+my only complaint is
+my only problem is
+my sole complaint is
+my sole problem is
+not great
+old enough to know better
+one thing I would like to see
+pain in the ass
+pain in the butt
+painful experience
+per your complaint
+per your concern
+room for improvement
+seems jarring
+seems kinda jarring
+should know better
+should know better than to
+so maybe if you
+so that you just
+so that you just have to
+something's wrong
+Still doesn't work
+Still doesn't work so fine
+Still doesn't work so well
+system doesn't tell you
+system might seem a little friendlier if
+that'd be just not fine
+that'd be just not good
+that'd be not good
+that'd be not great
+that'd be not just dandy
+that'll be just not fine
+that's a crock
+that's cheesy
+that's dirty pool
+that's gross
+that's hogwash
+that's just not good
+that's plain tripe
+that's the last straw
+that's the rub
+that can't cut it
+that really takes the cake
+that takes the cake
+that will be not good
+that won't cut it
+that would be helpful
+that would be not good
+that would be not great
+that would have been acceptable if
+that would have been ok if
+that would have been okay if
+that would have been tolerable if
+that would not be just dandy
+that would not be just fine
+that would not be just great
+the bad news is
+There's much room for improvement
+There's room for improvement
+there !AUX no excuse
+there !AUX no justification
+there !AUX room for improvement
+there can be no possible explanation
+there can be no possible justification
+there was this one time I wanted to
+this can't cut it
+this won't cut it
+this would have been acceptable if
+this would have been ok if
+this would have been okay if
+this would have been tolerable if
+this would make it easier
+this would reduce
+was so slow it was sad
+was so slow that
+We've got a long way to go
+went wrong?
+what a crock
+what went wrong?
+when you tell someone
+when you tell someone it's good to
+whenever I hit
+whenever I press
+why !AUX there so many steps just to
+would be a nice sanity check
+would be helpful
+would be much better if
+would be much more convenient if
+would be nice
+would make it easier
+would reduce
+you'd better be sure before you
+you had better be sure
+you just need to have
+you should think again about
+you should think better than to
+you should think twice before

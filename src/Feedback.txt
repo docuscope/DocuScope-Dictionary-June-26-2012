@@ -1,0 +1,98 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX normal
+!AUX typical
+. so do I.
+. so do they.
+. so do we.
+. so do you.
+. so does he.
+. so does she.
+alright
+are met with
+be met with
+de rien
+half-right
+here is my answer to your
+I'd have to say that
+I'll get back to you
+I'll speak to you
+I'll talk to you
+I can only answer for
+I think it will turn out ok
+I think it will turn out okay
+I think it will turn out well
+I think that overall
+I think that within
+I would say that
+if you ask me
+if you ask me then
+is met with
+it's hard to describe
+it's hard to say
+it doesn't seem to be
+it might be good for you to
+it seems missing a lot of
+it seems to be a good
+it should be a
+it should prove to be
+it took me by surprise
+it will turn out ok
+it will turn out okay
+it will turn out well
+it would be good for you to
+loud and clear
+normal.
+of course you can do it
+of course you may
+offhand I would say that
+Over all I think it is
+overall I think that
+per your question
+performance was better than
+Performance was better than I
+performance was worse than
+performance was worse than I
+seems good to me
+seems ok
+seems okay
+sounds good to me
+sounds ok
+sounds okay
+tell her as much
+tell him as much
+tell me as much
+tell them as much
+tell us as much
+tell you as much
+telling her as much
+telling him as much
+telling me as much
+telling them as much
+telling us as much
+telling you as much
+tells her as much
+tells him as much
+tells me as much
+tells them as much
+tells us as much
+tells you as much
+that'd be !DETERMINER
+that'd just be
+that'd just be !DETERMINER
+that's taken care of
+that's the way the ball bounces
+the response of
+the response was
+told her as much
+told him as much
+told me as much
+told them as much
+told us as much
+told you as much
+typical.
+was met with
+were met with
+you might think about

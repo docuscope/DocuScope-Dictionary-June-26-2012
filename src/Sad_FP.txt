@@ -1,0 +1,833 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!DETERMINER pain that has befallen me
+!DETERMINER pain that has befallen us
+!FEEL ashamed of myself
+!FEEL ashamed of ourselves
+!FIND myself with no place to
+!FIND myself with nothing to
+!FIND myself with nowhere to
+!FIND ourselves with no place to
+!FIND ourselves with nothing
+!FIND ourselves with nowhere to
+!HAVE my children taken away
+!HAVE my family taken away
+!HAVE my parents taken away
+!HAVE our children taken away
+!HAVE our families taken away
+!HAVE our parents taken away
+!HAVE to live out the remainder of my life
+!HAVE to live out the remainder of my life without
+!HAVE to live out the remainder of our lives
+!HAVE to live out the remainder of our lives without
+!HAVE to live out the rest of my life
+!HAVE to live out the rest of my life without
+!HAVE to live out the rest of our lives
+!HAVE to live out the rest of our lives without
+!HAVE to live the remainder of my life
+!HAVE to live the remainder of my life without
+!HAVE to live the remainder of our lives
+!HAVE to live the remainder of our lives without
+!HAVE to live the rest of my life
+!HAVE to live the rest of my life without
+!HAVE to live the rest of our lives
+!HAVE to live the rest of our lives without
+!LOSE a person that I loved
+!LOSE a person that we loved
+!LOSE a person whom I loved
+!LOSE a person whom we loved
+!LOSE my best friend
+!LOSE my child
+!LOSE my children
+!LOSE my family
+!LOSE my father
+!LOSE my fathers
+!LOSE my friend
+!LOSE my friend's
+!LOSE my kid
+!LOSE my kids
+!LOSE my last chance
+!LOSE my loved ones
+!LOSE my mother
+!LOSE my mothers
+!LOSE my parent
+!LOSE my parents
+!LOSE my way of life
+!LOSE our best friend
+!LOSE our child
+!LOSE our children
+!LOSE our families
+!LOSE our father
+!LOSE our fathers
+!LOSE our friend
+!LOSE our kid
+!LOSE our kids
+!LOSE our last chance
+!LOSE our loved ones
+!LOSE our mother
+!LOSE our mothers
+!LOSE our parent
+!LOSE our parents
+!LOSE our way of life
+!LOSE so many of our
+!LOSE so many of our own
+!LOSE some of my freedoms
+!LOSE some of our freedoms
+!LOSE someone I love
+!LOSE someone that I loved
+!LOSE someone that we loved
+!LOSE someone whom I loved
+!LOSE someone whom we loved
+!LOSE that spring in my step
+!LOSE that spring in our step
+!MAKE me cry
+!MAKE me even more sad
+!MAKE me feel so sorry
+!MAKE me feel so sorry for
+!MAKE me more sad
+!MAKE me sad
+!MAKE me the most sad
+!MAKE me the saddest
+!MAKE me upset
+!MAKE us cry
+!MAKE us even more sad
+!MAKE us feel so sorry
+!MAKE us feel so sorry for
+!MAKE us more sad
+!MAKE us sad
+!MAKE us the most sad
+!MAKE us the saddest
+!MAKE us upset
+!ROYALWE !AUX disturbed
+!ROYALWE !AUX done in
+!ROYALWE !AUX not living our lives as freely
+!ROYALWE !AUX profoundly sorry
+!ROYALWE !AUX sorry
+!ROYALWE !AUX sorry for
+!ROYALWE !AUX sorry that
+!ROYALWE agonize over whether
+!ROYALWE agonized over !DETERMINER
+!ROYALWE agonized over it for
+!ROYALWE agonized over whether !DETERMINER
+!ROYALWE can't do anything
+!ROYALWE can't do anything about it
+!ROYALWE can't imagine the grief
+!ROYALWE can't imagine the horror
+!ROYALWE can't imagine the pain
+!ROYALWE can't imagine the sorrow
+!ROYALWE can't imagine the terrible
+!ROYALWE cannot imagine the grief
+!ROYALWE cannot imagine the horror
+!ROYALWE cannot imagine the pain
+!ROYALWE cannot imagine the sorrow
+!ROYALWE cannot imagine the terrible
+!ROYALWE certainly miss
+!ROYALWE feel all broken up
+!ROYALWE feel all busted up
+!ROYALWE feel broken up
+!ROYALWE feel busted up
+!ROYALWE feel grief
+!ROYALWE feel saddest
+!ROYALWE find it sad
+!ROYALWE find it sadder
+!ROYALWE find it saddest
+!ROYALWE find it somewhat sad
+!ROYALWE find that it is sad
+!ROYALWE gave up so much
+!ROYALWE get sad
+!ROYALWE got sad
+!ROYALWE have lost a way of life
+!ROYALWE lost so many
+!ROYALWE lost so much
+!ROYALWE miss her
+!ROYALWE miss him
+!ROYALWE miss them
+!ROYALWE miss you
+!ROYALWE never had !DETERMINER chance
+!ROYALWE never have !DETERMINER chance
+!ROYALWE never learned from it
+!ROYALWE really feel bad about
+!ROYALWE really feel bad for
+!ROYALWE really feel bad over
+!ROYALWE really feel broken up
+!ROYALWE really feel busted up
+!ROYALWE really miss
+!ROYALWe think it's sad
+!ROYALWE think it is sad
+!ROYALWE think it sad
+!ROYALWE think that one of the sad
+!ROYALWE think that one of the sadder
+!ROYALWE think that one of the saddest
+!ROYALWE will lose
+!ROYALWE will never be as close
+!ROYALWE will never be as happy
+!ROYALWE will never be as open
+!ROYALWE will never be as trusting
+!TAKE a toll on my family
+!TAKE a toll on our family
+!TRY to put my life back together
+!TRY to put our lives back together
+"I cried,"
+allow me to offer my condolences
+befall me
+befall us
+befallen me
+befallen us
+befalling me
+befalling us
+befalls me
+befalls us
+befell me
+buried my loved ones
+buried our loved ones
+buries my loved ones
+buries our loved ones
+bury my loved ones
+bury our loved ones
+burying my loved ones
+burying our loved ones
+can't imagine what I am going through
+can't imagine what we are going through
+cannot imagine what I am going through
+cannot imagine what we are going through
+could get the awful image out of my mind
+could get the awful images out of my mind
+downing my sorrow
+downing my sorrows
+downing our sorrow
+downing our sorrows
+drowning my sorrow
+drowning my sorrows
+drowning our sorrow
+drowning our sorrows
+family we left behind
+friends we left behind
+how awful
+how sad
+how terrible
+hurt me
+hurt my
+hurt my feelings
+hurt my loved ones
+hurt our
+hurt our feelings
+hurt our loved ones
+hurt us
+hurt your loved ones
+hurting me
+hurting my
+hurting my feelings
+hurting my loved ones
+hurting our
+hurting our feelings
+hurting our loved ones
+hurting us
+hurts me
+hurts my
+hurts my feelings
+hurts my loved ones
+hurts our
+hurts our feelings
+hurts our loved ones
+hurts us
+I'm all broken up
+I'm all busted up
+I'm also sad
+I'm also sad that
+I'm also sad that this could happen
+I'm crushed
+I'm distraught
+I'm feeling horrible
+I'm feeling miserable
+I'm feeling terrible
+I'm grief-stricken
+I'm ill
+I'm ill about
+I'm ill over
+I'm just sad
+I'm miserable
+I'm more sad
+I'm most distraught
+I'm not happy
+I'm only sad
+I'm only sad for
+I'm quite sad
+I'm really sad
+I'm really sorry for
+I'm sad
+I'm sad that this could happen
+I'm sick
+I'm sick about
+I'm sick over
+I'm so crushed
+I'm so sad
+I'm sorry
+I'm sorry for
+I'm sorry for all
+I'm sorry that
+I'm very distraught
+I'm very sad
+I'm very sorry
+I'm very sorry about that
+I've lost a way of life
+I am aggreived
+I am also saddened
+I am crestfallen
+I am crushed
+I am distraught
+I am greiving
+I am grief-striken
+I am hurt
+I am in grief
+I am isolated
+I am just sad
+I am lonely
+I am lost
+I am miserable
+I am more sad
+I am most sad
+I am most saddened
+I am only sad for
+I am profoundly sorry
+I am quite sad
+I am sad
+I am sad for
+I am saddened
+I am sickened
+I am so sad
+I am so sad for
+I am sorry
+I am sorry for
+I am sorry to have to notify you
+I am sorry to notify you
+I am unhappy
+I am upset
+I am very distraught
+I am very distraught over
+I am very sad
+I can't bear
+I can't bear it
+I can't endure it
+I can't endure this
+I can't stop them
+I can't take it
+I can't take this
+I cannot bear
+I couldn't bear
+I couldn't take this
+I cried,
+I don't know how I will handle
+I don't know what I can do
+I feel aggrieved
+I feel all alone
+I feel alone
+I feel apart
+I feel ashamed of !REFLEXIVEPRONOUN
+I feel ashamed of myself
+I feel ashamed of ourselves
+I feel ashamed of yourself
+I feel bad
+I feel bad for
+I feel badly
+I feel badly about
+I feel badly for
+I feel badly for the children
+I feel badly for the parents
+I feel criticized
+I feel defeated
+I feel depressed
+I feel desolate
+I feel disconnected
+I feel disgrace
+I feel down
+I feel dragged out
+I feel for the families
+I feel forced
+I feel grief
+I feel helpless
+I feel hopelessly all alone
+I feel horrible
+I feel hurt
+I feel injured
+I feel isolated
+I feel licked
+I feel lost
+I feel low
+I feel more 'sadness'
+I feel more sad
+I feel mortified
+I feel most sad
+I feel of loss
+I feel out of place
+I feel pained
+I feel personally hurt
+I feel powerless
+I feel put off
+I feel really sad
+I feel remorse
+I feel rootless
+I feel ruth
+I feel sad
+I feel sad and helpless
+I feel sad and isolated
+I feel sad and miserable
+I feel sad for
+I FEEL SADDEST
+I feel sadness
+I feel sadness for
+I feel small
+I feel so sad
+I feel so sorry
+I feel so sorry for
+I feel sorrow
+I feel sorrow for
+I feel sorry for
+I feel subdued
+I feel terrible
+I feel the loss
+I feel the pain
+I felt aggrieved
+I felt all alone
+I felt alone
+I felt apart
+I felt ashamed of !REFLEXIVEPRONOUN
+I felt ashamed of myself
+I felt ashamed of ourselves
+I felt ashamed of yourself
+I felt bad
+I felt bad for
+I felt badly
+I felt badly about
+I felt badly for
+I felt badly for the children
+I felt badly for the parents
+I felt criticized
+I felt defeated
+I felt depressed
+I felt desolate
+I felt disconnected
+I felt disgrace
+I felt down
+I felt dragged out
+I felt forced
+I felt grief
+I felt helpless
+I felt hopelessly all alone
+I felt horrible
+I felt hurt
+I felt injured
+I felt isolated
+I felt licked
+I felt lost
+I felt low
+I felt more sad
+I felt mortified
+I felt most sad
+I felt of loss
+I felt out of place
+I felt pained
+I felt personally hurt
+I felt powerless
+I felt put off
+I felt really sad
+I felt remorse
+I felt rootless
+I felt ruth
+I felt sad
+I felt sad and helpless
+I felt sad and isolated
+I felt sad and miserable
+I felt sad for
+I felt saddest
+I felt sadness
+I felt sadness for
+I felt small
+I felt so sad
+I felt so sorry
+I felt so sorry for
+I felt sorrow
+I felt sorrow for
+I felt sorry for
+I felt subdued
+I felt terrible
+I felt the loss
+I felt the pain
+I find it sad
+I find it sad that
+I find it upsetting
+I find it very upsetting
+I get upset
+I have been abandoned
+I have lost
+I have lost hope
+I have lost joy
+I just can't bear it
+I just can't endure it
+I just can't endure this
+I just can't take it
+I lost
+I love you one last time
+I miss her
+I miss him
+I miss them
+I mourn
+I never had a chance
+I offer my condolences
+I really feel for
+I really miss
+I think about this tragedy all the time
+I think about this tragedy every day
+I was touched by the loss
+I was upset
+I will miss her
+I will miss him
+I will miss them
+I will mourn
+I will never know
+I will never see
+I wish I could make this a better world
+I wish I could make this world a better place
+I?m crushed
+I?m really sad
+I?m sad
+I?m so sad
+imagine what I am going through
+imagine what we are going through
+it's all over for me
+it's all over for our
+it's all over for us
+it's the last time we will ever
+it !AUX with great sadness that !ROYALWE learned
+it !AUX with great sadness that !ROYALWE learned of !DETERMINER death
+it !AUX with great sadness that I learned
+it !AUX with great sadness that I learned of !DETERMINER death
+it !AUX with heartfelt sadness that !ROYALWE
+it !AUX with heartfelt sadness that I learned
+it also makes me very sad
+it hurts me
+it hurts us
+it is painful
+it is sad that !ROYALWE
+it made me sad
+it made me unhappy
+it made us sad
+it made us unhappy
+it makes me sad
+it makes me sad to
+it makes me sad to know
+it makes me sad to see
+it makes us sad
+it makes us sad to
+it makes us sad to know
+it makes us sad to see
+it pains
+it pains me
+it saddens me
+keen for our loss
+keened for our losing
+keening for our loss
+keens for our loss
+knew I was going to die
+knew we were going to die
+knowing I was going to die
+knowing we were going to die
+knows I was going to die
+knows we were going to die
+let me offer my condolences
+lose my
+lose my best friend
+lose my loved ones
+lose our
+lose our best friend
+lose our loved ones
+loses my
+loses my best friend
+loses my loved ones
+loses our
+loses our best friend
+loses our loved ones
+losing my
+losing my best friend
+losing my loved ones
+losing our
+losing our best friend
+losing our loved ones
+loss to me
+loss to us
+lost my
+lost my best friend
+lost my loved ones
+lost our
+lost our best friend
+lost our loved ones
+loved ones we left behind
+made me most sad
+make me most sad
+makes me most sad
+making me most sad
+me not returning home
+my eyes filled with tears
+my feltings are hurt
+my freedom has been lost
+my freedoms have been lost
+my heart aches
+my heart hurts
+My heart is heavy
+my heartbreak
+my heartbroken
+my loneliness
+my lonely
+my losses
+my never returning home
+my personal sorrow
+my personal sorrows
+my sadness
+my sorrow
+my tears
+my unhappiness
+never again to experience my
+never again to experience our
+never again to hear my
+never again to hear our
+never again to see my
+never again to see our
+never again to smell my
+never again to smell our
+never again to taste my
+never again to taste our
+never again to touch my
+never again to touch our
+never again will I experience
+never again will I hear
+never again will I know
+never again will I see
+never again will I smell
+never again will I taste
+never again will we experience
+never again will we hear
+never again will we know
+never again will we see
+never again will we smell
+never again will we taste
+never got the chance to say I love you
+never got the chance to say we love you
+never got the time to say I love you
+never got the time to say we love you
+never knowing that I would not return home
+never knowing that we would not return home
+never more my
+never more our
+never more to experience my
+never more to experience our
+never more to hear my
+never more to hear our
+never more to see my
+never more to see our
+never more to smell my
+never more to smell our
+never more to taste my
+never more to taste our
+never more to touch my
+never more to touch our
+never more will I experience
+never more will I hear
+never more will I know
+never more will I see
+never more will I smell
+never more will I taste
+never more will we experience
+never more will we hear
+never more will we know
+never more will we see
+never more will we smell
+never more will we taste
+never see us again
+never to hug my children again
+never to hug my daughter again
+never to hug my son again
+never to hug our children again
+never to hug our daughters again
+never to hug our sons again
+never to return to my home
+never to return to our home
+never to see me again
+never to see my family again
+never to see my home again
+never to see our families again
+never to see our home again
+never to see us again
+no chance to say I'm sorry
+no chance to say I love you
+no chance to say we're sorry
+no chance to say we love you
+no more to experience my
+no more to experience our
+no more to hear my
+no more to hear our
+no more to see my
+no more to see our
+no more to smell my
+no more to smell our
+no more to taste my
+no more to taste our
+no more to touch my
+no more to touch our
+no one to pray for me
+no one to pray for us
+no one wants me
+no one wants us
+no one will take me
+no one will take us
+nobody to turn to and I am by myself
+not knowing that I would not return home
+not knowing that we would not return home
+offer my condolences
+offer our condolences
+our freedom has been lost
+our freedoms have been lost
+our loss
+our losses
+our mourning
+our never returning home
+our personal sorrow
+our personal sorrows
+our sorrow
+our tears
+plunge us into despair
+plunge us into sorrow
+plunged us into despair
+plunged us into sorrow
+plunges us into despair
+plunges us into sorrow
+plunging us into despair
+plunging us into sorrow
+relatives we left behind
+saw myself lose that happiness
+saw myself lose that part of happiness
+saw us lose that happiness
+saw us lose that part of happiness
+see myself lose that happiness
+see myself lose that part of happiness
+see us lose that happiness
+see us lose that part of happiness
+seeing myself lose that happiness
+seeing myself lose that part of happiness
+seeing us lose that happiness
+seeing us lose that part of happiness
+sees myself lose that happiness
+sees myself lose that part of happiness
+sees us lose that happiness
+sees us lose that part of happiness
+shatter my dreams
+shatter our dreams
+shattered my dreams
+shattered our dreams
+shattering my dreams
+shattering our dreams
+shatters my dreams
+shatters our dreams
+sinking my soul
+sinking our soul
+sinks my soul
+sinks our soul
+sobered me
+sobered us
+taken from me
+taken from us
+that I have lost
+that I lost
+that we have lost
+that we lost
+the thing making me most sad
+the thing making us most sad
+this tragedy won't leave my mind
+thoughts of me not going home
+thoughts of us not going home
+to bury my loved ones
+to bury our loved ones
+to lose so many of our own
+to my shame
+to my shame be it spoken
+to our shame
+to our shame be it spoken
+toll on our families
+toll on our family
+tolls on my family
+tolls on our families
+tolls on our family
+us not returning home
+visit upon me
+visit upon us
+visited upon me
+visited upon us
+visiting upon me
+visiting upon us
+visits upon me
+visits upon us
+we're all broken up
+we're all busted up
+We're crushed
+we're distraught
+We're so crushed
+we're sorry
+we're sorry for
+we're sorry for all
+we've lost a way of life
+we are by ourselves
+We are crestfallen
+We are crushed
+we are distraught
+we are most distraught
+we are very distraught
+we are very distraught over
+we can't stop all of them
+we can't stop them
+we feel for the families
+we get upset
+we have been abandoned
+we have lost
+we have lost our freedom
+we have lost some of our freedoms
+we lost
+we never had a chance
+we really feel for
+we were upset
+we will never have it again
+what makes me all the sadder
+what makes me most sad
+what makes me sad
+what makes me sadder
+what makes me saddest
+what makes me the saddest
+what makes us all the sadder
+what makes us most sad
+what makes us sad
+what makes us sadder
+what makes us saddest
+what makes us the saddest
+who did not have the chance to say I love you
+who did not have the chance to say we love you
+who did not take the time to say I love you
+who did not take the time to say we love you
+will never see my brother again
+will never see my brothers again
+will never see my children again
+will never see my loved ones again
+will never see my parents again
+will never see my siblings again
+will never see my sister again
+will never see my sisters again
+will never see our brother again
+will never see our brothers again
+will never see our children again
+will never see our loved ones again
+will never see our parents again
+will never see our siblings again
+will never see our sister again
+will never see our sisters again
+without the chance to say my good-byes
+without the chance to say my good byes
+without the chance to say our good-byes
+without the chance to say our good byes

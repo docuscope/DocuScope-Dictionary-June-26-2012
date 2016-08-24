@@ -1,0 +1,1567 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX off the hook
+!DETERMINER danger is past
+!DETERMINER only thing !YOU lack
+!DETERMINER only thing !YOU need
+!DETERMINER pleasure is all mine
+!DETERMINER pleasure is mine
+!DETERMINER relief of
+!DETERMINER relief of knowing
+!DO all !YOU !MODAL
+!DO all we can do
+!DO all we could do
+!DO everything !PRONOUNNOMINAL !CANCOULD
+!DO everything !YOU !CANCOULD
+!DO everything anybody !CANCOULD do
+!DO everything anyone !CANCOULD do
+!DO everything I !CANCOULD
+!DO everything we !CANCOULD
+!DO more good than bad
+!DO not give it a second thought
+!DO not give it another thought
+!FEEL !YOU anguish
+!FEEL !YOU pain
+!FEEL !YOU sorrow
+!FIND consolation
+!FIND consolation in
+!FIND peace in
+!FIND refuge in
+!FIND solace in
+!GIVE !PRONOUNOBJECTIVE assurance
+!GIVE !YOU assurance
+!GIVE an out
+!GIVE every assurance
+!GIVE me assurance
+!GIVE me every assurance
+!GIVE relief to
+!GIVE solace
+!GIVE us assurance
+!HAVE no qualm
+!HAVE no qualms
+!HAVE no qualms about
+!MAKE up with !YOU
+!PRONOUNOBJECTIVE work will long be remembered
+!PUT !POSSESSIVEPRONOUN mind at rest
+!PUT !POSSESSIVEPRONOUN mind at rest on
+!PUT !POSSESSIVEPRONOUN mind to rest on
+!PUT !YOU mind to rest on
+!PUT my mind at rest on
+!PUT our mind at rest on
+!ROYALWE have no problem
+!ROYALWE haven't any problem with
+!ROYALWE will do everything we can
+!TAKE care of it for !YOU
+!TAKE comfort in
+!TAKE consolation
+!TAKE consolation in
+!TAKE one step at a time
+!TAKE peace in
+!TAKE refuge in
+!TAKE solace in
+!YOU are assured
+!YOU are assured !DETERMINER
+!YOU are assured to
+!YOU are assured to be
+!YOU are assured to get
+!YOU are assured to have
+!YOU are in my prayers
+!YOU are in my thoughts
+!YOU are ok
+!YOU are okay
+!YOU baby can develop
+!YOU can't go wrong
+!YOU can't please everyone
+!YOU can always count on
+!YOU can be assured that
+!YOU can be comforted in
+!YOU can be comforted that
+!YOU can be happy that
+!YOU can be reassured
+!YOU can be rest assured
+!YOU can be sure it'll be okay
+!YOU can bet on it
+!YOU can count on
+!YOU can do
+!YOU can do that
+!YOU can do that too
+!YOU can rest
+!YOU can rest assure
+!YOU can rest assured
+!YOU can rest satisfied
+!YOU can rest with
+!YOU can rise above
+!YOU can surmount
+!YOU can survive
+!YOU can take courage from
+!YOU can take heart from
+!YOU couldn't have done better
+!YOU did everything !YOU could
+!YOU did nothing wrong
+!YOU did what !YOU could
+!YOU didn't miss much
+!YOU don't have to worry
+!YOU grief a little easier to bear
+!YOU grief easier to bear
+!YOU hang in there
+!YOU have !DETERMINER bravery
+!YOU have !DETERMINER courage
+!YOU have !DETERMINER fortitude
+!YOU have !DETERMINER support
+!YOU have a large group of well-wishers
+!YOU have courage
+!YOU have every right
+!YOU have every right to
+!YOU have fortitude
+!YOU have many well-wishers
+!YOU have my assurance
+!YOU have my assurance that
+!YOU have my complete assurance
+!YOU have my deep sympathies
+!YOU have my deep sympathy
+!YOU have my deepest sympathies
+!YOU have my deepest sympathy
+!YOU have my empathy
+!YOU have my full assurance
+!YOU have my full assurance that
+!YOU have my sympathy
+!YOU have my thoughts
+!YOU have my word
+!YOU have nothing to be afraid of
+!YOU have nothing to be scared of
+!YOU have nothing to fear
+!YOU have nothing to lose
+!YOU have our deep sympathies
+!YOU have our deep sympathy
+!YOU have our deepest sympathies
+!YOU have our deepest sympathy
+!YOU have our thoughts
+!YOU have well-wishers
+!YOU just have to hang in
+!YOU made no mistake
+!YOU may be reassured
+!YOU need not worry
+!YOU need to relax
+!YOU needn't worry
+!YOU ought to be reassured
+!YOU persistence
+!YOU precious baby can develop
+!YOU resolute courage
+!YOU secret is safe with me
+!YOU should be comforted
+!YOU should be reassured
+!YOU should feel better to know
+!YOU should feel good to know
+!YOU should find it reassuring
+!YOU shouldn't lose sleep over it
+!YOU sorrow a little easier to bear
+!YOU sorrow easier to bear
+!YOU spunk
+!YOU stamina
+!YOU usual spunk
+!YOU will adapt
+!YOU will adjust
+!YOU will be fine
+!YOU will be missed
+!YOU will be ok
+!YOU will be okay
+!YOU will do fine
+!YOU will do well
+!YOU will get beyond
+!YOU will get over
+!YOU will have !DETERMINER support
+!YOU will succeed
+. buck up,
+. calm down
+. cheer up,
+. don't hesitate to call me
+. don't lose faith
+. don't lose hope
+. ease !YOU
+. ease !YOU mind
+. get it off !YOU mind
+. get it out of !YOU mind
+. get it out of !YOU system
+. hang in there
+. hold !YOU head high
+. hold !YOU heads high
+. keep !DETERMINER faith
+. keep !YOU cool
+. keep !YOU faith
+. keep !YOU spirits high
+. keep !YOU spirits up
+. keep !YOU wits
+. keep !YOU wits about !YOU
+. keep calm
+. keep going
+. keep trucking
+. keep up !YOU spirits
+. never fear
+. please unburden yourself
+. put it out of !YOU mind
+. relax !YOU
+. relax !YOU mind
+. relieve !YOU mind
+. rest assured
+. rest assured that
+. take it easy
+. unbrace !YOU mind
+. unburden yourselves
+; never fear
+a lot of support
+a relief
+all !YOU need
+all !YOU need to do is
+all !YOU want
+all for !DETERMINER best
+all in one piece
+all is fine
+all is not lost
+all is okay
+all the support
+all you'll ever
+all you'll need
+allieviate !YOU
+allieviated !YOU
+allieviates !YOU
+allieviating !YOU
+anything you'd ever
+are !YOU fine?
+are !YOU ok?
+are !YOU okay?
+as good as new
+as he would have wanted !YOU
+as he would have wanted for !YOU
+as least then I was assured
+as least then we were assured
+as she would have wanted !YOU
+as she would have wanted for !YOU
+as they would have wanted !YOU
+as they would have wanted for !YOU
+assure !PRONOUNOBJECTIVE
+assure !PRONOUNOBJECTIVE that
+assure !YOU
+assure !YOU that
+assure me
+assure me that
+assure us
+assure us that
+assured !PRONOUNOBJECTIVE
+assured !PRONOUNOBJECTIVE that
+assured !YOU
+assured !YOU that
+assured me
+assured me that
+assured us
+assured us that
+assures !PRONOUNOBJECTIVE
+assures !PRONOUNOBJECTIVE that
+assures !YOU
+assures !YOU that
+assures me that
+assures us
+assures us that
+assuring !PRONOUNOBJECTIVE
+assuring !PRONOUNOBJECTIVE that
+assuring !YOU
+assuring !YOU that
+assuring me
+assuring me that
+assuring us
+assuring us that
+assuror
+assurors
+at least then I could be confident
+at least then I felt safe
+at least then we were assured
+back on !POSSESSIVEPRONOUN feet soon
+be assured
+be assured that
+be rest assured
+big relief to
+breathe a sigh of relief
+breathed a sigh of relief
+breathes a sigh of relief
+breathing a sigh of relief
+calm !DETERMINER anxiety
+calm !DETERMINER water
+calm !POSSESSIVEPRONOUN anxieties
+calm !POSSESSIVEPRONOUN anxiety
+calm !PRONOUNOBJECTIVE down
+calm !YOU
+calm !YOU down
+calm me down
+calm my anxieties
+calm my anxiety
+calm our anxieties
+calm our anxiety
+calm us
+calm us down
+calm your anxiety
+calmed !DETERMINER anxieties
+calmed !DETERMINER anxiety
+calmed !POSSESSIVEPRONOUN anxieties
+calmed !POSSESSIVEPRONOUN anxiety
+calmed !PRONOUNOBJECTIVE down
+calmed !YOU anxieties
+calmed !YOU anxiety
+calmed !YOU down
+calmed me down
+calmed my anxieties
+calmed my anxiety
+calmed our anxieties
+calmed our anxiety
+calmed us down
+calmed your anxiety
+calming !DETERMINER anxiety
+calming !DETERMINER water
+calming !POSSESSIVEPRONOUN anxieties
+calming !POSSESSIVEPRONOUN anxiety
+calming !PRONOUNOBJECTIVE down
+calming !YOU
+calming !YOU down
+calming me down
+calming my anxieties
+calming my anxiety
+calming our anxieties
+calming our anxiety
+calming us
+calming us down
+calming your anxiety
+calms !DETERMINER anxiety
+calms !DETERMINER waters
+calms !POSSESSIVEPRONOUN anxieties
+calms !POSSESSIVEPRONOUN anxiety
+calms !PRONOUNOBJECTIVE down
+calms !YOU down
+calms me down
+calms my anxieties
+calms my anxiety
+calms our anxieties
+calms our anxiety
+calms us down
+came to make up with !YOU
+can count on me
+can count on me to
+can expect finding comfort in
+can expect finding solace in
+can find comfort in
+can rest calm
+can rest easy
+come to bury !DETERMINER hatchet
+come to make peace
+come to make up with !YOU
+come to resolve differences
+comes to make up with !YOU
+comfort !PRONOUNOBJECTIVE
+comfort !YOU
+comfort me
+comfort us
+comfort you
+comforted !PRONOUNOBJECTIVE
+comforted !YOU
+comforted me
+comforted us
+comforted you
+comforting !PRONOUNOBJECTIVE
+comforting !YOU
+comforting me
+comforting us
+comforting you
+comforts !PRONOUNOBJECTIVE
+comforts !YOU
+comforts me
+comforts us
+comforts you
+coming to make up with !YOU
+consolable
+consolably
+consolation
+consolations
+consolatory
+console
+consoled by !DETERMINER
+consoled by !POSSESSIVEPRONOUN
+consoled from
+consoled with
+consoler
+consolers
+consoles
+consoling
+consolingly
+count on me to
+did everything !PRONOUNNOMINAL could
+did everything they could do
+did not mind
+did not mind !POSSESSIVEPRONOUN
+did not mind that
+didn't mind
+didn't mind !POSSESSIVEPRONOUN
+didn't mind that
+do not concern yourself
+do not mind
+do not mind !POSSESSIVEPRONOUN
+do not mind that
+do not take it personally
+do not trouble yourself
+do not worry yourself
+dodge !DETERMINER bullet
+dodged !DETERMINER bullet
+dodges !DETERMINER bullet
+dodging !DETERMINER bullet
+does not harm
+doesn't mind
+doesn't mind !POSSESSIVEPRONOUN
+doesn't mind that
+don't be troubled
+don't be worried
+don't bother to
+don't bother yourself
+don't concern yourself
+don't count yourself out
+don't discount yourself
+don't fret
+don't get !YOU back up
+don't hesitate to call me
+don't let it bother !YOU
+don't let it get to !YOU
+don't let it hurt !YOU
+don't let it trouble !YOU
+don't let this drag !YOU down
+don't lose !YOU head
+don't lose any sleep over it
+don't lose sleep over it
+don't mind
+don't mind !POSSESSIVEPRONOUN
+don't mind a bit
+don't mind at all
+don't mind in !DETERMINER least
+don't mind that
+don't sweat it
+don't take it personally
+don't trouble yourself
+don't want to bother !YOU
+don't want to trouble !YOU
+don't worry
+don't worry about
+don't worry about anything
+don't worry yourself about
+ease
+ease-off
+ease-up
+ease !DETERMINER discomfort
+ease !DETERMINER pain
+ease !DETERMINER suffering
+ease !POSSESSIVEPRONOUN mind
+ease !POSSESSIVEPRONOUN minds
+ease !YOU mind
+ease coughs
+ease her mind
+ease my mind
+ease off
+ease our minds
+ease up on me
+ease up with
+eased
+eased-off
+eased !DETERMINER discomfort
+eased !DETERMINER suffering
+Eased !POSSESSIVEPRONOUN mind
+Eased !POSSESSIVEPRONOUN minds
+eased !YOU mind
+eased coughs
+eased her mind
+Eased my mind
+eased off
+Eased our minds
+eased up on me
+eased up with
+easeful
+easefully
+easer
+easers
+eases
+eases-off
+eases-up
+eases !DETERMINER discomfort
+eases !DETERMINER pain
+eases !DETERMINER suffering
+eases !POSSESSIVEPRONOUN mind
+eases !POSSESSIVEPRONOUN minds
+eases !YOU mind
+eases coughs
+eases her mind
+Eases my mind
+eases off
+eases our minds
+eases up
+eases up on me
+eases up with
+easing
+easing-off
+easing-up
+easing !DETERMINER discomfort
+easing !DETERMINER pain
+easing !DETERMINER suffering
+Easing !POSSESSIVEPRONOUN mind
+easing !POSSESSIVEPRONOUN minds
+easing !YOU mind
+easing coughs
+Easing her mind
+easing my mind
+easing off
+easing our minds
+easing up
+easing up on me
+easing up with
+empathize with !YOU
+empathized with !YOU
+empathizes with !YOU
+empathizing with !YOU
+every assurance
+everything !YOU could want
+everything that can be done we will do
+everything will be all right
+everything will be fine
+evil will be destroyed
+extend my deep sympathies
+extend my deep sympathy
+extend my deepest sympathies
+extend my deepest sympathy
+extend my heartfelt sympathies
+extend my heartfelt sympathy
+extend our deepest sympathies
+extend our deepest sympathy
+extend our heartfelt sympathies
+extend our heartfelt sympathy
+extended my deep sympathies
+extended my deep sympathy
+extended my heartfelt sympathies
+extended my heartfelt sympathy
+extended our deepest sympathies
+extended our deepest sympathy
+extended our heartfelt sympathies
+extended our heartfelt sympathy
+extending my deep sympathies
+extending my deep sympathy
+extending my heartfelt sympathies
+extending my heartfelt sympathy
+extending our deepest sympathies
+extending our deepest sympathy
+extending our heartfelt sympathies
+extending our heartfelt sympathy
+extends my deep sympathies
+extends my deep sympathy
+extends my heartfelt sympathies
+extends my heartfelt sympathy
+extends our deepest sympathies
+extends our deepest sympathy
+extends our heartfelt sympathies
+extends our heartfelt sympathy
+feel better soon
+forgave
+forgave !YOU
+forgave yourself
+forget about it
+forgivable
+forgivably
+forgive
+forgive !YOU
+forgive and forget
+forgive yourself
+forgiven
+forgiveness
+forgiver
+forgivers
+forgives
+forgives !YOU
+forgives and forgets
+forgives yourself
+forgiving
+forgiving !YOU
+forgiving and forgetting
+forgiving yourself
+forgivingly
+full assurance
+full reassurance
+gardez la foi
+gave a sense of relief
+get well soon
+give !YOU a soothing
+give !YOU some soothing
+give !YOU some tea and sympathy
+give a sense of relief
+gives a sense of relief
+giving a sense of relief
+glad to hear
+going to be alright
+going to be fine
+going to be ok
+going to be okay
+gonna be fine
+great relief to
+happy to hear
+happy to hear that
+has my assurance
+has our assurance
+has our utmost assurance
+have my assurance
+have my assurances
+have my utmost assurance
+have my utmost assurances
+have to hang in there
+he will be fine
+he will be missed
+he will long be remembered
+his work will long be remembered
+how proud !YOU must be
+how terrible I feel about !YOU
+how terrible I feel that !YOU
+how terrible we feel about !YOU
+how terrible we feel that !YOU
+I'll be looking for !YOU to be back at work
+I'm fine
+I'm fine about
+I'm fine for
+I'm fine with
+I admire !YOU bravery
+I admire !YOU courage
+I always admired !YOU
+I always looked up to !YOU
+I am grateful to have known !YOU
+I am listening to !YOU
+I am ready to help any way we can
+I am ready to help in any way we can
+I am rooting for !YOU
+I am sure !YOU will adapt
+I am sure !YOU will adjust
+I am sure !YOU will do well
+I assure !YOU
+I believe in !YOU
+I can't see !DETERMINER illness holding !YOU down
+I do send my sincerest sympathies
+I do send my sincerest sympathy
+I don't mind a bit
+I empthathize with !YOU
+I encourage !YOU to
+I extend my heartfelt sympathies
+I extend my heartfelt sympathy
+I extend my sincere sympathies
+I extend my sincere sympathy
+I have always admired !YOU
+I have always looked up to !YOU
+I have always loved !YOU
+I have faith about !YOU
+I have faith in !YOU
+I have faith that !YOU
+I have no qualms
+I hear !YOU
+I hear ya
+I know !YOU are capable
+I know !YOU can
+I know !YOU will be able
+I know !YOU will be able to adjust
+I know !YOU will be brave
+I know !YOU will be strong
+I know what !YOU mean
+I know what I'm doing
+I love to do it
+I mourn !DETERMINER loss of !YOU
+I mourn !YOU loss
+I need !YOU here in !DETERMINER office
+I offer my heartfelt sympathies
+I offer my heartfelt sympathy
+I really love to do it
+I regretfully heard about !YOU recent loss
+I send my condolences
+I send my sympathies
+I send my sympathy
+I share !YOU grief
+I share !YOU personal grief
+I should assure !YOU
+I sympathize with !YOU
+I value !YOU
+I want to assure !YOU
+I want to encourage !YOU
+I want to reassure !YOU
+I was sorry to hear about
+I will always be !YOU close friend
+I will always remain !YOU close friend
+I will always remain close friends
+I will be fine
+I will do everything I can do
+I will feel !DETERMINER loss
+I will take care of it for !YOU
+I wish !YOU every success
+I wish !YOU great success
+I wish !YOU success
+if I can help !YOU
+if it's any consolation
+if there is anything I can do
+if there is anything I can do to help
+if there is anything I can do to help !YOU
+if there is anything we can do
+if there is anything we can do to help
+if we can do these or other things for !YOU
+if we can do this for !YOU
+if we can do this to make things easier
+If we can help !YOU
+if you have any concerns
+if you have any concerns or questions
+if you have any questions
+it'll be all right
+It'll be alright
+it'll be better than ever
+It'll be fine
+it'll be ok
+It'll be okay
+it's all right
+it's alright
+it's alright by me
+it's alright with me
+it's fine by me
+it's fine with me
+it's going to be ok
+it's going to be okay
+it's my pleasure
+it's ok
+it's ok by me
+it's ok with me
+it's okay
+it's okay by me
+it's okay with me
+it's quite alright
+it came none too late
+it came none too soon
+it is assured that !YOU
+it is with great sadness that I learned of !YOU
+it is with great sadness that we learned of !YOU
+it is with heartfelt sadness that I learned of !YOU
+it it is any consolation
+it may be consolation
+it may be small consolation
+it may be some consolation
+it shouldn't be hard
+it shouldn't be too hard
+it shouldn't be very hard
+it will be all right
+it will be alright
+it will be better than ever
+it will be fine
+it will be just fine
+it will be missed
+it will be ok
+it will be okay
+it will work out
+it will work out just fine
+it won't be difficult
+it won't be hard
+it won't be very difficult
+it won't be very hard
+join in this expression of sympathy
+joined in this expression of sympathy
+joining in this expression of sympathy
+joins in this expression of sympathy
+just forget about it
+just stay calm
+just stay cool
+know !YOU have a large group of well-wishers
+knowing !YOU courage
+knowing !YOU fortitude
+knowing !YOU fortitude and courage
+land on !POSSESSIVEPRONOUN feet soon
+land on my feet soon
+land on our feet soon
+land on your feet soon
+landed on !POSSESSIVEPRONOUN feet soon
+landed on my feet soon
+landed on our feet soon
+landed on your feet soon
+landing on !POSSESSIVEPRONOUN feet soon
+landing on my feet soon
+landing on our feet soon
+landing on your feet soon
+lands on !POSSESSIVEPRONOUN feet soon
+lands on my feet soon
+lands on our feet soon
+lands on your feet soon
+lessen !DETERMINER sorrow !YOU bear
+lessen !YOU sorrow
+lessened !DETERMINER sorrow !YOU bear
+lessened !YOU sorrow
+lessening !DETERMINER sorrow !YOU bear
+lessening !YOU sorrow
+lessens !DETERMINER sorrow !YOU bear
+lessens !YOU sorrow
+let's not concern ourselves with
+let's not worry
+let me assure !YOU
+let me assure !YOU that
+let me encourage !YOU
+let me encourage !YOU to
+let me give !YOU my full assurance
+let me know what I can do to help
+let me offer reassurance
+let me reassure
+let me reassure !YOU
+let us know what we can do to help
+let us not concern ourselves
+let us not worry
+love is with !YOU
+made sad by !DETERMINER death of !YOU
+make sure to keep !YOU head up
+may !YOU have !DETERMINER courage
+may !YOU have !DETERMINER strength
+may god bless
+may love be with !YOU
+may peace be with !YOU
+mean nothing by it
+meaning nothing by it
+means nothing by it
+meant nothing by it
+mourned by those of us
+mourned by us
+my full assurance
+my love is with !YOU
+my thoughts are with !YOU
+my utmost assurance
+need not mind
+no bother
+no bother at all
+no fine print
+no guts no glory
+no hard feelings
+no harm
+no harm done
+no inconvenience
+no inconvenience at all
+no injury
+no offense taken
+no one who knew !PRONOUNOBJECTIVE could ever forget
+no pain no gain
+no problem
+no problem a t'll
+no problem at all
+no problem exists
+no problem in !DETERMINER least
+no problem with
+no qualm
+no qualm about
+no qualms
+no qualms about
+no skin off !PRONOUNOBJECTIVE back
+no skin off !PRONOUNOBJECTIVE elbow
+no skin off !PRONOUNOBJECTIVE nose
+no skin off !YOU back
+no skin off !YOU elbow
+no skin off !YOU nose
+no skin off his back
+no skin off his elbow
+no skin off his nose
+no skin off my back
+no skin off my elbow
+no skin off my nose
+no skin off our backs
+no skin off our elbows
+no skin off our noses
+no skin off their backs
+no skin off their elbows
+no skin off their noses
+no stone will be left unturned
+no sweat
+no trouble
+no trouble at all
+no worries
+no worry
+no worse off
+none !DETERMINER worse
+none !DETERMINER worse for wear
+none in !DETERMINER least do I mind
+not a concern
+not a mistake
+not a problem
+not a worry
+not as bad
+not as bad as
+not as bad as all that
+not as bad as it
+not as bad as it seems
+not at all, it's my pleasure
+not hold it against !YOU
+not licked yet
+not so bad
+not to concern yourself
+not to trouble !YOU with
+not to worry
+not trouble !YOU head about
+not trouble !YOU head with
+not trouble yourself with
+not yet licked
+nothing amiss
+nothing is amiss
+nothing is wrong
+nothing to be concerned about
+nothing to worry about
+nothing ventured nothing gained
+nothing wrong
+now off the hook
+on !DETERMINER mend
+only a minor problem
+only minor problems
+ought not to mind
+ought to find comfort in
+ought to find solace in
+our loss is small compared to yours
+our love is with !YOU
+our thoughts are with !YOU
+out of !POSSESSIVEPRONOUN misery
+out of our misery
+pardon !YOU
+pardoned !YOU
+pardoning !YOU
+pardons !YOU
+please !STAY calm
+please accept my best wishes for a quick recovery
+please accept my condolences'
+please accept my sincere condolences
+please accept my sincere sympathies
+please accept my sincere sympathy
+please accept my sympathies
+please accept my sympathy
+please don't concern yourself
+please don't fear
+please don't think
+please don't worry
+please don't worry about
+please rest assured
+please rest assured that
+please understand that
+problem is minor
+problems are minor
+provide an out
+provided an out
+provides an out
+providing an out
+put !PRONOUNOBJECTIVE mind at ease
+put !PRONOUNOBJECTIVE mind at peace
+put !PRONOUNOBJECTIVE mind at rest
+put !YOU minds at ease
+put !YOU minds at peace
+put !YOU minds at rest
+put his mind at ease
+put his mind at peace
+put his mind at rest
+put my mind at ease
+put my mind at peace
+put my mind at rest
+put our minds at ease
+put our minds at peace
+put our minds at rest
+put their minds at ease
+put their minds at peace
+put their minds at rest
+puts !PRONOUNOBJECTIVE mind at ease
+puts !PRONOUNOBJECTIVE mind at peace
+puts !PRONOUNOBJECTIVE mind at rest
+puts !YOU minds at ease
+puts !YOU minds at peace
+puts !YOU minds at rest
+puts his mind at ease
+puts his mind at peace
+puts his mind at rest
+puts my mind at ease
+puts my mind at peace
+puts my mind at rest
+puts our minds at ease
+puts our minds at peace
+puts our minds at rest
+puts their minds at ease
+puts their minds at peace
+puts their minds at rest
+putting !PRONOUNOBJECTIVE mind at ease
+putting !PRONOUNOBJECTIVE mind at peace
+putting !PRONOUNOBJECTIVE mind at rest
+putting !YOU minds at ease
+putting !YOU minds at peace
+putting !YOU minds at rest
+putting his mind at ease
+putting his mind at peace
+putting his mind at rest
+putting my mind at ease
+putting my mind at peace
+putting my mind at rest
+putting our minds at ease
+putting our minds at peace
+putting our minds at rest
+putting their minds at ease
+putting their minds at peace
+putting their minds at rest
+quiet !POSSESSIVEPRONOUN anxiety
+quiet my anxiety
+quiet our anxiety
+quiet your anxiety
+quieted !POSSESSIVEPRONOUN anxiety
+quieted my anxiety
+quieted our anxiety
+quieted your anxiety
+quieting !POSSESSIVEPRONOUN anxiety
+quieting my anxiety
+quieting our anxiety
+quieting your anxiety
+quiets my anxiety
+quiets our anxiety
+re-assure
+re-assured
+re-assures
+re-assuring
+reaffirm
+reaffirmation
+reaffirmations
+reaffirmed
+reaffirming
+reaffirms
+reassure !PRONOUNOBJECTIVE
+reassure !YOU
+reassured !PRONOUNOBJECTIVE
+reassured !YOU
+reassured of
+reassured that
+reassures !PRONOUNOBJECTIVE
+reassures !YOU
+reassuring !PRONOUNOBJECTIVE
+reassuring !YOU
+recover from
+relax
+relax !POSSESSIVEPRONOUN mind
+relax !POSSESSIVEPRONOUN minds
+relax !YOU mind
+relax and enjoy
+relax and wind down
+relax in
+relax my mind
+relax our minds
+relax with
+relaxation
+relaxation of tension
+relaxation of tensions
+relaxations
+relaxations of tension
+relaxations of tensions
+relaxed !POSSESSIVEPRONOUN mind
+relaxed !POSSESSIVEPRONOUN minds
+relaxed !YOU mind
+relaxed about
+relaxed and enjoyed
+relaxed and winded down
+relaxed and wound down
+relaxed in
+relaxed my mind
+relaxed our minds
+relaxed with
+relaxedness
+relaxes !POSSESSIVEPRONOUN mind
+relaxes !POSSESSIVEPRONOUN minds
+relaxes !YOU mind
+relaxes and enjoys
+relaxes and winds down
+relaxes in
+relaxes my mind
+relaxes our minds
+relaxes with
+relaxing
+relaxing !POSSESSIVEPRONOUN mind
+relaxing !POSSESSIVEPRONOUN minds
+relaxing !YOU mind
+relaxing afternoon
+relaxing and enjoying
+relaxing and winding down
+relaxing day
+relaxing dinner
+relaxing evening
+relaxing in
+relaxing morning
+relaxing my mind
+relaxing our minds
+relaxing vacation
+relaxing weekend
+relaxing with
+relied on !POSSESSIVEPRONOUN good
+relief
+relief for
+relief to
+relies on !POSSESSIVEPRONOUN good
+relieve
+relieve !DETERMINER mind
+relieve !DETERMINER pain
+relieve !POSSESSIVEPRONOUN anxiety
+relieve !POSSESSIVEPRONOUN mind
+relieve !POSSESSIVEPRONOUN minds
+relieve !PRONOUNOBJECTIVE of concern
+relieve !PRONOUNOBJECTIVE of worry
+relieve !REFLEXIVEPRONOUN
+relieve !YOU
+relieve !YOU mind
+relieve !YOU of concern
+relieve !YOU of worry
+relieve me of concern
+relieve me of worry
+relieve my anxiety
+relieve my mind
+relieve our anxiety
+relieve our minds
+relieve stress
+relieve us of concern
+relieve us of worry
+relieve your anxiety
+relieve yourself
+relieved
+relieved !DETERMINER mind
+relieved !DETERMINER pain
+relieved !POSSESSIVEPRONOUN anxiety
+relieved !POSSESSIVEPRONOUN mind
+relieved !POSSESSIVEPRONOUN minds
+relieved !PRONOUNOBJECTIVE of concern
+relieved !PRONOUNOBJECTIVE of worry
+relieved !REFLEXIVEPRONOUN`
+relieved !YOU
+relieved !YOU mind
+relieved !YOU of concern
+relieved !YOU of worry
+relieved her mind
+relieved me of concern
+relieved me of worry
+relieved my anxiety
+relieved my mind
+relieved our anxiety
+relieved our minds
+relieved stress
+relieved that
+relieved to
+relieved to hear
+relieved to hear that
+relieved us of concern
+relieved us of worry
+relieved your anxiety
+relieved yourself
+relieves
+relieves !DETERMINER mind
+relieves !DETERMINER pain
+relieves !POSSESSIVEPRONOUN anxiety
+relieves !POSSESSIVEPRONOUN mind
+relieves !POSSESSIVEPRONOUN minds
+relieves !PRONOUNOBJECTIVE of concern
+relieves !PRONOUNOBJECTIVE of worry
+relieves !REFLEXIVEPRONOUN
+relieves !YOU
+relieves !YOU mind
+relieves !YOU of concern
+relieves !YOU of worry
+relieves her mind
+relieves me of concern
+relieves me of worry
+relieves my anxiety
+relieves my mind
+relieves our anxiety
+relieves our minds
+relieves stress
+relieves us of concern
+relieves us of worry
+relieves yourself
+relieving
+relieving !DETERMINER mind
+relieving !DETERMINER pain
+relieving !POSSESSIVEPRONOUN anxiety
+relieving !POSSESSIVEPRONOUN mind
+relieving !POSSESSIVEPRONOUN minds
+relieving !PRONOUNOBJECTIVE of concern
+relieving !PRONOUNOBJECTIVE of worry
+relieving !REFLEXIVEPRONOUN
+relieving !YOU
+relieving !YOU mind
+relieving !YOU of concern
+relieving !YOU of worry
+relieving her mind
+relieving me of concern
+relieving me of worry
+relieving my anxiety
+relieving my mind
+relieving our anxiety
+relieving our minds
+relieving stress
+relieving us of concern
+relieving us of worry
+relieving your anxiety
+relieving yourself
+rest-assured
+rest assured
+rest assured that
+sad from !DETERMINER death of !YOU
+saddened by !DETERMINER death of !YOU
+send !YOU my deepest sympathy
+sending !YOU my deepest sympathy
+sends !YOU my deepest sympathy
+sense of relief to hear
+sent !YOU my deepest sympathy
+set aside our differences
+set aside their differences
+sets aside our differences
+sets aside their differences
+setting aside our differences
+setting aside their differences
+settle !YOU
+settled !YOU
+settles !YOU
+settling !YOU
+share !YOU grief
+share !YOU sorrow
+share in !YOU grief
+share my sympathies with !YOU
+share my sympathy with !YOU
+shared !YOU grief
+shared !YOU sorrow
+shared in !YOU grief
+shared my sympathies with !YOU
+shared my sympathy with !YOU
+shares !YOU grief
+shares !YOU sorrow
+shares in !YOU grief
+shares my sympathies with !YOU
+shares my sympathy with !YOU
+sharing !YOU grief
+sharing !YOU sorrow
+sharing in !YOU grief
+sharing my sympathies with !YOU
+sharing my sympathy with !YOU
+sharing of grief
+sharing of sorrow
+sharing of sorrows
+she'll be apples
+she will be fine
+she will be missed
+she will long be remembered
+should find comfort in
+should find solace in
+should have no qualm about
+should not mind
+shouldn't mind
+sicut patribus sit Deus nobis
+sigh in relief
+sigh of relief
+sighed in relief
+sighing in relief
+sighs in relief
+sighs of relief
+so hang in there
+something to fall back on
+sooth !POSSESSIVEPRONOUN anxiety
+sooth my anxiety
+sooth our anxiety
+sooth your anxiety
+soothed !POSSESSIVEPRONOUN anxiety
+soothed my anxiety
+soothed our anxiety
+soothed your anxiety
+soothing-word
+soothing-words
+soothing !POSSESSIVEPRONOUN anxiety
+soothing my anxiety
+soothing our anxiety
+soothing your anxiety
+sooths !POSSESSIVEPRONOUN anxiety
+sooths my anxiety
+sooths our anxiety
+sorry to learn about !YOU
+sorry to learn of !YOU
+sorry to learn that !YOU
+sorry to read of !YOU
+spare yourself !DETERMINER grief
+spare yourself from
+spare yourself of
+still !POSSESSIVEPRONOUN anxiety
+still !POSSESSIVEPRONOUN concern
+still !POSSESSIVEPRONOUN fear
+still !YOU concern
+still !YOU fear
+still my anxiety
+still my concern
+still my fear
+still our anxiety
+still our concern
+still our fear
+still your anxiety
+stilled !POSSESSIVEPRONOUN anxiety
+stilled !POSSESSIVEPRONOUN concern
+stilled !POSSESSIVEPRONOUN fear
+stilled !YOU concern
+stilled !YOU fear
+stilled my anxiety
+stilled my concern
+stilled my fear
+stilled our anxiety
+stilled our concern
+stilled our fear
+stilled your anxiety
+stilling !POSSESSIVEPRONOUN anxiety
+stilling !POSSESSIVEPRONOUN concern
+stilling !POSSESSIVEPRONOUN fear
+stilling !YOU concern
+stilling !YOU fear
+stilling my anxiety
+stilling my concern
+stilling my fear
+stilling our anxiety
+stilling our concern
+stilling our fear
+stilling your anxiety
+stills !POSSESSIVEPRONOUN anxiety
+stills !POSSESSIVEPRONOUN concern
+stills !POSSESSIVEPRONOUN fear
+stills !YOU concern
+stills !YOU fear
+stills my anxiety
+stills my concern
+stills my fear
+stills our anxiety
+stills our concern
+stills our fear
+supplied an out
+supplies an out
+supply an out
+supplying an out
+support !YOU
+support from anyone
+support from everyone
+supported !YOU
+supporting !YOU
+supports !YOU
+sympathies to !YOU
+sympathies with !YOU
+sympathize with !YOU
+sympathized with !YOU
+sympathizes with !YOU
+sympathizing with !YOU
+sympathy is only a small consolation
+sympathy to !YOU
+sympathy with !YOU
+that's alright
+that's no problem
+that's ok
+that's okay
+that's quite alright
+that's really no bother at all
+their work will long be remembered
+there's no crisis
+there's no emergency
+there's no hurry
+there's no panic
+there's no pressure
+there's no problem
+there's no reason to fret
+there's no reason to panic
+there's no rush
+there are no strings attached
+there is no problem
+there is no problem at all
+There is not much need to worry
+there is nothing amiss
+there is nothing wrong
+there, there
+they will be fine
+they will be missed
+they will long be remembered
+things are fine
+things will be alright
+things will work out
+things will work out fine
+think nothing of it
+this expression of sympathy
+this is small consolation but
+this too shall pass
+through !POSSESSIVEPRONOUN support
+through my support
+through no fault of
+through our support
+to be reassured
+to bury !DETERMINER hatchet
+to calm !PRONOUNOBJECTIVE down
+to calm !YOU down
+to calm me down
+to calm us down
+to forgive
+to put aside our differences
+to set aside our differences
+understand !DETERMINER grief that !YOU are experiencing
+understand !DETERMINER grief that !YOU experience
+unlikely to be forgotten
+unlikely to be hurt
+unlikely to be injured
+unlikely to fail
+unlikely to fall
+unlikely to forget
+unlikely to hurt
+unlikely to injure
+unlikely to stumble
+us who share !YOU sorrow
+want !YOU to know how sorry I am
+want to tell !YOU how sorry I am
+we're getting there
+we all are rooting for !YOU
+we are doing everything we can do
+we are ready to help any way we can
+we are ready to help in any way we can
+we are rooting for !YOU
+we can always count on
+we can count on
+we can expect !DETERMINER best from !YOU
+we do send our sincerest sympathies
+we do send our sincerest sympathy
+we extend our heartfelt sympathies
+we extend our heartfelt sympathy
+we extend our sincere sympathies
+we extend our sincere sympathy
+we here are all rooting for !YOU
+we know what we're doing
+we mourn !DETERMINER loss of !YOU
+we mourn !YOU loss
+we need !YOU here in !DETERMINER office
+we offer our heartfelt sympathies
+we offer our heartfelt sympathy
+we send our condolences
+we send our sympathies
+we send our sympathy
+we share !YOU grief
+we share !YOU personal grief
+we value !YOU
+we were sorry to hear about
+we who share !YOU sorrow
+we will all feel !DETERMINER loss
+we will always be close friends
+we will always remain !YOU close friend
+we will feel !DETERMINER loss
+we will take care of it for !YOU
+what's wrong with doing it
+what a relief
+what do we have to lose?
+where is !DETERMINER danger?
+why not do it
+will be back on !POSSESSIVEPRONOUN feet
+will be fine
+will be ok
+will be okay
+will do everything we can
+will find comfort in
+will find solace in
+will not hold it against
+will not let !YOU down
+will propel !YOU to !DETERMINER top
+will take care of it for !YOU
+wish !YOU a full recovery
+wish to express my deepest sympathies
+wish to express my deepest sympathy
+wish to express my heartfelt sympathies
+wish to express my heartfelt sympathy
+wish to extend my heartfelt sympathies
+wish to extend my heartfelt sympathy
+wish to extend our heartfelt sympathies
+wish to extend our heartfelt sympathy
+wished !YOU a full recovery
+wishes !YOU full recovery
+wishing !YOU a full recovery
+with !YOU background,
+with !YOU education
+with !YOU experience
+with !YOU intelligence
+with !YOU patience
+with !YOU patient understanding
+with !YOU qualifications
+with !YOU smarts
+with !YOU training
+with !YOU understanding
+with !YOU wisdom
+with a sigh of relief
+with my full assurance
+with regret I heard about !YOU loss
+with regret I heard of !DETERMINER loss of !YOU
+with sincere regret I heard of !DETERMINER loss of !YOU
+won't hold it against
+won't let you down
+words that soothe
+words to soothe
+world-relieving
+would be about right
+would be approximately right
+would be close to accurate
+would be in !DETERMINER ballpark
+would be just about correct
+would be not far off
+would be not far wrong
+would not mind
+wouldn't mind
+you'll be all right
+you'll be fine
+you'll be ok
+you'll be okay
+you'll do great
+you're doing a good job
+you're fine
+you're getting closer
+you're getting there
+you're great and don't forget that
+you're more than okay
+you're okay
+you're wonderful and don't forget that
+you've nothing to fear
+you are deserving
+you are doing fine
+you are doing just fine
+you are fine
+you are getting closer
+you are getting there
+you are great
+you are justified
+you are more than ok
+you are more than okay
+you are most justified
+you are ok
+you deserve
+you don't have to
+you have nothing to fear
+you must not concern yourself
+you must not fear
+you must not worry
+you mustn't concern yourself
+you mustn't fear
+you mustn't worry
+you need not
+you needn't
+you needn't bother
+you needn't worry
+you will be all right
+you will be alright
+you will be correct
+you will be entitled
+you will be fine
+you will be justified
+you will be most deserving
+you will be most entitled
+you will be most justified
+you will be ok
+you will be okay
+you will come through fine
+you will get past this
+you will not be wrong
+you will pull through
+you will pull together
+you would be correct
+you would be deserving
+you would be entitled
+you would be justified
+you would be most correct
+you would be most entitled
+you would be most justified
+you would be right
+you would deserve
+you would not be wrong
+you wouldn't be wrong

@@ -1,0 +1,79 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!HAVE adjudicated
+!HAVE been !AUTHORITATIVELY discussed
+!HAVE been !DETERMINER long
+!HAVE been !DETERMINER long held
+!HAVE been accepted
+!HAVE been acknowledged
+!HAVE been agreed
+!HAVE been agreed that
+!HAVE been agreed to
+!HAVE been applied
+!HAVE been approved
+!HAVE been articulated
+!HAVE been asked
+!HAVE been asked to
+!HAVE been assessed
+!HAVE been assumed
+!HAVE been authorized
+!HAVE been believed
+!HAVE been briefed about
+!HAVE been briefed as to
+!HAVE been claimed
+!HAVE been concluded
+!HAVE been considered
+!HAVE been decided
+!HAVE been decided that
+!HAVE been deliberated
+!HAVE been developed
+!HAVE been enacted
+!HAVE been explored
+!HAVE been extensively
+!HAVE been extensively discussed
+!HAVE been extensively investigated
+!HAVE been extensively researched
+!HAVE been extensively reviewed
+!HAVE been extensively written about
+!HAVE been followed
+!HAVE been found
+!HAVE been handed down
+!HAVE been introduced
+!HAVE been investigated
+!HAVE been licensed
+!HAVE been long
+!HAVE been long held
+!HAVE been long supposed
+!HAVE been offered
+!HAVE been pegged down
+!HAVE been perfected
+!HAVE been practiced
+!HAVE been proposed
+!HAVE been proposed for
+!HAVE been provided by
+!HAVE been published
+!HAVE been pursued
+!HAVE been recognized
+!HAVE been refined
+!HAVE been settled in !DETERMINER following way
+!HAVE been studied
+!HAVE been thoroughly discussed
+!HAVE been understood
+!HAVE been unequaled
+!HAVE been unexampled
+!HAVE been unmatched
+!HAVE been widely discussed
+!HAVE been worked on
+!HAVE been worked out
+!HAVE been worked through
+!HAVE for !DETERMINER long time
+!HAVE for quite some time
+!HAVE for some time
+!HAVE long been
+!HAVE never been
+!HAVE not been
+!HAVE since been
+past master
+past masters

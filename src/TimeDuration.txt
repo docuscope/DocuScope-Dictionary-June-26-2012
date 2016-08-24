@@ -1,0 +1,5983 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX in !DETERMINER process of
+!AUX keeping
+!AUX on hold
+!AUX STILL !DETERMINER
+!AUX under construction
+!AUX well under way
+!BIGNUMBER of !TIMEFRAME after
+!BIGNUMBER of !TIMEFRAME before
+!BREAK of day
+!CLOSE FROM !DETERMINER !TIMEFRAME
+!CLOSE FROM !NUMS1TO12 P.M. TO !NUMS1TO12 a.M.
+!COME through
+!COME through it with
+!COME through with
+!DAY afternoon
+!DAY evening
+!DAY evenings
+!DAY morning
+!DAY mornings
+!DAY night
+!DETERMINER !NUMS1TO100 hundred !TIMEFRAME
+!DETERMINER !NUMS1TO100 hundredth !TIMEFRAME
+!DETERMINER !NUMS1TO100 thousand !TIMEFRAME
+!DETERMINER !TIMEFRAME
+!DETERMINER !TIMEFRAME AFTER
+!DETERMINER !TIMEFRAME and !DETERMINER day
+!DETERMINER !TIMEFRAME arrive
+!DETERMINER !TIMEFRAME away from
+!DETERMINER !TIMEFRAME BEFORE
+!DETERMINER !TIMEFRAME EARLIER
+!DETERMINER !TIMEFRAME in
+!DETERMINER !TIMEFRAME into
+!DETERMINER !TIMEFRAME into !DETERMINER
+!DETERMINER !TIMEFRAME LATER
+!DETERMINER !TIMEFRAME of
+!DETERMINER !TIMEFRAME OR TWO AFTER
+!DETERMINER !TIMEFRAME OR TWO BEFORE
+!DETERMINER !TIMEFRAME since
+!DETERMINER !TIMEFRAME that !DETERMINER
+!DETERMINER !TIMEFRAME when
+!DETERMINER 20s
+!DETERMINER 30s
+!DETERMINER 40s
+!DETERMINER 50s
+!DETERMINER 60s
+!DETERMINER 70s
+!DETERMINER 80s
+!DETERMINER 90s
+!DETERMINER afternoon
+!DETERMINER age of restoration
+!DETERMINER beginning of !DETERMINER end
+!DETERMINER better part of !DETERMINER
+!DETERMINER better part of !DETERMINER !TIMEFRAME
+!DETERMINER better part of !DETERMINER day
+!DETERMINER better part of !DETERMINER month
+!DETERMINER better part of !DETERMINER week
+!DETERMINER break of !TIMEFRAME
+!DETERMINER century's worth
+!DETERMINER chronically
+!DETERMINER couple !TIMEFRAME earlier
+!DETERMINER couple !TIMEFRAME later
+!DETERMINER course of
+!DETERMINER course of events
+!DETERMINER dawn
+!DETERMINER dawn's early light
+!DETERMINER dawn of day
+!DETERMINER day
+!DETERMINER day's worth
+!DETERMINER days of our !TIMEFRAME
+!DETERMINER days of our years
+!DETERMINER decade's worth
+!DETERMINER duration
+!DETERMINER duration of
+!DETERMINER durations
+!DETERMINER durations of
+!DETERMINER early !TIMEFRAME
+!DETERMINER eighties
+!DETERMINER end of !DETERMINER beginning
+!DETERMINER end of !DETERMINER movie
+!DETERMINER end of !DETERMINER show
+!DETERMINER entire !TIMEFRAME
+!DETERMINER entire afternoon
+!DETERMINER entire day
+!DETERMINER entire month
+!DETERMINER entire morning
+!DETERMINER entire stint
+!DETERMINER entire time
+!DETERMINER entire week
+!DETERMINER era of
+!DETERMINER evening
+!DETERMINER expiration
+!DETERMINER expirations
+!DETERMINER expiring
+!DETERMINER expiring !TIMEFRAME
+!DETERMINER expiring day
+!DETERMINER fall
+!DETERMINER few !TIMEFRAME
+!DETERMINER few !TIMEFRAME' drive
+!DETERMINER FEW !TIMEFRAME AFTER
+!DETERMINER few !TIMEFRAME away
+!DETERMINER FEW !TIMEFRAME BEFORE
+!DETERMINER few !TIMEFRAME drive
+!DETERMINER few !TIMEFRAME from
+!DETERMINER few !TIMEFRAME to
+!DETERMINER few minutes' drive
+!DETERMINER few minutes drive
+!DETERMINER fifties
+!DETERMINER forties
+!DETERMINER glancing
+!DETERMINER good bit of !MONTH
+!DETERMINER great depression
+!DETERMINER hitch in !DETERMINER army
+!DETERMINER hitch in !DETERMINER military
+!DETERMINER instant of
+!DETERMINER intervening !TIMEFRAME
+!DETERMINER last few !TIMEFRAME
+!DETERMINER last of !DETERMINER movie
+!DETERMINER last several !TIMEFRAME
+!DETERMINER lay over in
+!DETERMINER long course
+!DETERMINER long interval
+!DETERMINER long stint
+!DETERMINER long stretch of time
+!DETERMINER long time
+!DETERMINER longueur
+!DETERMINER longueurs
+!DETERMINER lot of !DAY
+!DETERMINER lot of !DETERMINER !TIMEFRAME
+!DETERMINER lot of !POSSESSIVEPRONOUN !DAY
+!DETERMINER lot of !POSSESSIVEPRONOUN !TIMEFRAME
+!DETERMINER lull in
+!DETERMINER millennia
+!DETERMINER millennium
+!DETERMINER minute
+!DETERMINER minute's worth
+!DETERMINER minutes between
+!DETERMINER moment's worth
+!DETERMINER moment to spare
+!DETERMINER month
+!DETERMINER month's worth
+!DETERMINER morn
+!DETERMINER morning
+!DETERMINER morns
+!DETERMINER night
+!DETERMINER night-time
+!DETERMINER night on !DETERMINER town
+!DETERMINER nineties
+!DETERMINER occasion of
+!DETERMINER pause
+!DETERMINER preparation time
+!DETERMINER remaining
+!DETERMINER rest of !DETERMINER !TIMEFRAME
+!DETERMINER restoration age
+!DETERMINER school !TIMEFRAME
+!DETERMINER season
+!DETERMINER season's
+!DETERMINER second's worth
+!DETERMINER seventies
+!DETERMINER short stint
+!DETERMINER sixties
+!DETERMINER space of !DETERMINER !TIMEFRAME
+!DETERMINER stand-over
+!DETERMINER stand over in
+!DETERMINER stint
+!DETERMINER stint as
+!DETERMINER stint in
+!DETERMINER teens
+!DETERMINER term at
+!DETERMINER thirties
+!DETERMINER time-lag
+!DETERMINER time between
+!DETERMINER time during
+!DETERMINER time in
+!DETERMINER time interval
+!DETERMINER time of preparations
+!DETERMINER time span
+!DETERMINER time within
+!DETERMINER time within which
+!DETERMINER times
+!DETERMINER times between
+!DETERMINER times during
+!DETERMINER times within
+!DETERMINER twenties
+!DETERMINER twilight
+!DETERMINER unbroken streak
+!DETERMINER undertaking lasting
+!DETERMINER undertaking lasting !NUMS1TO100 !TIMEFRAME
+!DETERMINER undertaking lasting some
+!DETERMINER undertaking of !NUMS1TO100 !TIMEFRAME
+!DETERMINER vacation time
+!DETERMINER very !TIMEFRAME
+!DETERMINER very !TIMEFRAME of
+!DETERMINER very !TIMEFRAME when
+!DETERMINER very afternoon
+!DETERMINER very day
+!DETERMINER very end of !DETERMINER show
+!DETERMINER very evening
+!DETERMINER very last of !DETERMINER movie
+!DETERMINER very month
+!DETERMINER very morning
+!DETERMINER very night
+!DETERMINER vespertine
+!DETERMINER week's worth
+!DETERMINER while
+!DETERMINER while after
+!DETERMINER while before
+!DETERMINER whole !TIMEFRAME
+!DETERMINER whole afternoon
+!DETERMINER whole day
+!DETERMINER whole month
+!DETERMINER whole morning
+!DETERMINER whole night
+!DETERMINER whole of !DAY
+!DETERMINER whole of !DETERMINER !TIMEFRAME
+!DETERMINER whole of !MONTH
+!DETERMINER whole time
+!DETERMINER whole week
+!DO !DETERMINER stint
+!DO !DETERMINER tour
+!DO !DETERMINER tour of duty
+!DO !DETERMINER turn
+!GET along in !TIMEFRAME
+!GET along in years
+!GO by
+!GO on !DETERMINER lot
+!GO on about
+!GO on around
+!GO on for
+!GO on for !DETERMINER long time
+!GO on for !TIMEFRAME
+!GO on for many !TIMEFRAME
+!GO on in !DETERMINER series
+!GO on in for
+!GO on,
+!GO unabated
+!HANG out for
+!HANG over for
+!HAVE !DETERMINER stand-over
+!HAVE !DETERMINER streak of
+!HAVE had it for
+!HAVE still not expired
+!HAVE until
+!HOLD !DETERMINER attention
+!HOLD !DETERMINER brief for
+!HOLD !DETERMINER card
+!HOLD !DETERMINER cards
+!HOLD !DETERMINER clearance sale
+!HOLD !DETERMINER close wind
+!HOLD !DETERMINER communication
+!HOLD !DETERMINER conference
+!HOLD !DETERMINER control
+!HOLD !DETERMINER conversation
+!HOLD !DETERMINER course
+!HOLD !DETERMINER court
+!HOLD !DETERMINER court over
+!HOLD !DETERMINER field
+!HOLD !DETERMINER funeral
+!HOLD !DETERMINER heading
+!HOLD !DETERMINER hearing
+!HOLD !DETERMINER helm
+!HOLD !DETERMINER market
+!HOLD !DETERMINER meeting
+!HOLD !DETERMINER meeting with
+!HOLD !DETERMINER meetings
+!HOLD !DETERMINER memory of
+!HOLD !DETERMINER middle course
+!HOLD !DETERMINER middle courses
+!HOLD !DETERMINER mirror up to nature
+!HOLD !DETERMINER note
+!HOLD !DETERMINER phone
+!HOLD !DETERMINER post
+!HOLD !DETERMINER posts
+!HOLD !DETERMINER press conference
+!HOLD !DETERMINER press conferences
+!HOLD !DETERMINER promptbook
+!HOLD !DETERMINER purse strings
+!HOLD !DETERMINER scales
+!HOLD !DETERMINER seance
+!HOLD !DETERMINER seances
+!HOLD !DETERMINER session
+!HOLD !DETERMINER sessions
+!HOLD !DETERMINER sitting
+!HOLD !DETERMINER sittings
+!HOLD !DETERMINER stage
+!HOLD !DETERMINER talk
+!HOLD !DETERMINER talk with
+!HOLD !DETERMINER wire
+!HOLD !POSSESSIVEPRONOUN course
+!HOLD !POSSESSIVEPRONOUN path
+!HOLD !POSSESSIVEPRONOUN peace
+!HOLD !POSSESSIVEPRONOUN sides
+!HOLD !POSSESSIVEPRONOUN tongue
+!HOLD !POSSESSIVEPRONOUN way
+!HOLD !PRONOUNOBJECTIVE there
+!HOLD forth without interruption
+!HOLD in solution
+!HOLD it there
+!HOLD me there
+!HOLD off
+!HOLD off from
+!HOLD on !DETERMINER course
+!HOLD onto
+!HOLD ONTO POWER
+!HOLD our path
+!HOLD our peace
+!HOLD our sides
+!HOLD our tongue
+!HOLD our way
+!HOLD over
+!HOLD over for
+!HOLD over until
+!HOLD over while
+!HOLD pattern
+!HOLD patterns
+!HOLD steady
+!HOLD steady for
+!HOLD through
+!HOLD through !DETERMINER
+!HOLD together
+!HOLD together for
+!HOLD up in !DETERMINER wash
+!HOLD us there
+!HOLD you there
+!KEEP
+!KEEP !DETERMINER account with
+!KEEP !DETERMINER appointment
+!KEEP !DETERMINER BALL ROLLING
+!KEEP !DETERMINER change
+!KEEP !DETERMINER course
+!KEEP !DETERMINER door open
+!KEEP !DETERMINER ear to !DETERMINER ground
+!KEEP !DETERMINER eye out for
+!KEEP !DETERMINER eye upon
+!KEEP !DETERMINER golden mean
+!KEEP !DETERMINER heading
+!KEEP !DETERMINER idea
+!KEEP !DETERMINER memory alive
+!KEEP !DETERMINER open house
+!KEEP !DETERMINER peace
+!KEEP !DETERMINER pot boiling
+!KEEP !DETERMINER wound open
+!KEEP !MOVE
+!KEEP !POSSESSIVEPRONOUN luff
+!KEEP !PRONOUNOBJECTIVE briefed
+!KEEP !PRONOUNOBJECTIVE for
+!KEEP !PRONOUNOBJECTIVE informed
+!KEEP !PRONOUNOBJECTIVE luff
+!KEEP !PRONOUNOBJECTIVE posted
+!KEEP !PRONOUNOBJECTIVE so
+!KEEP !PRONOUNOBJECTIVE steady
+!KEEP account of
+!KEEP accounts
+!KEEP afloat
+!KEEP alive
+!KEEP all
+!KEEP apace
+!KEEP apart
+!KEEP around
+!KEEP as !DETERMINER nest egg
+!KEEP aside
+!KEEP at
+!KEEP at !DETERMINER pace
+!KEEP at !DETERMINER pace with
+!KEEP at it
+!KEEP awake
+!KEEP bachelor quarters
+!KEEP banker's !TIMEFRAME
+!KEEP body and soul together
+!KEEP books
+!KEEP both feet on !DETERMINER ground
+!KEEP busy
+!KEEP buttoned up
+!KEEP by one
+!KEEP calm
+!KEEP churning out
+!KEEP clear of
+!KEEP close
+!KEEP close to
+!KEEP coming
+!KEEP company
+!KEEP cool
+!KEEP count of
+!KEEP dark
+!KEEP doing
+!KEEP doing it
+!KEEP doing that
+!KEEP driving
+!KEEP flocks and herds
+!KEEP going
+!KEEP hidden
+!KEEP hold
+!KEEP hold of
+!KEEP hold of !DETERMINER land
+!KEEP HOUSE
+!KEEP ideas afloat
+!KEEP in
+!KEEP in !DETERMINER background
+!KEEP in !DETERMINER middle of !DETERMINER road
+!KEEP in !DETERMINER right path
+!KEEP in bounds
+!KEEP in check
+!KEEP in contact with
+!KEEP in countenance
+!KEEP in custody
+!KEEP in detention
+!KEEP in formation
+!KEEP in hand
+!KEEP in ignorance
+!KEEP in line
+!KEEP in memory
+!KEEP in order
+!KEEP in practice
+!KEEP in reserve
+!KEEP in sight
+!KEEP in step
+!KEEP in store
+!KEEP in touch with
+!KEEP in view
+!KEEP in with
+!KEEP informed
+!KEEP intact
+!KEEP inviolate
+!KEEP it around
+!KEEP IT CLEAN
+!KEEP it crazy
+!KEEP it down
+!KEEP it going
+!KEEP it loud
+!KEEP it on
+!KEEP IT OPEN
+!KEEP it quiet
+!KEEP it soft
+!KEEP it that way
+!KEEP IT TO
+!KEEP it up
+!KEEP kosher
+!KEEP LATE !TIMEFRAME
+!KEEP making
+!KEEP me posted
+!KEEP moving
+!KEEP my luff
+!KEEP off and on
+!KEEP on
+!KEEP on falling
+!KEEP on hand
+!KEEP on snowing
+!KEEP open house
+!KEEP our luff
+!KEEP out
+!KEEP out of !DETERMINER way
+!KEEP out of !DETERMINER way of
+!KEEP out of sight
+!KEEP pace with
+!KEEP pointed
+!KEEP posted
+!KEEP remote from
+!KEEP safe
+!KEEP score
+!KEEP some
+!KEEP standing
+!KEEP station
+!KEEP strolling
+!KEEP subject
+!KEEP tab of
+!KEEP tally
+!KEEP time
+!KEEP time to
+!KEEP time with
+!KEEP TO
+!KEEP TO !DETERMINER
+!KEEP to !DETERMINER middle
+!KEEP to !DETERMINER middle path
+!KEEP to !DETERMINER middle way
+!KEEP TO !POSSESSIVEPRONOUN SCHEDULE
+!KEEP TO HER
+!KEEP together
+!KEEP track
+!KEEP track of
+!KEEP troth
+!KEEP under
+!KEEP under control
+!KEEP under cover
+!KEEP under observation
+!KEEP up
+!KEEP up !DETERMINER correspondence
+!KEEP up !DETERMINER fast pace
+!KEEP up !DETERMINER killing pace
+!KEEP up !DETERMINER memory of
+!KEEP up appearances
+!KEEP up on
+!KEEP up with
+!KEEP up with !DETERMINER Joneses
+!KEEP us posted
+!KEEP vigil
+!KEEP waiting until
+!KEEP walking
+!KEEP watch and ward
+!KEEP with
+!KEEP within
+!KEEP within bounds
+!KEEP within compass
+!KEEP within limits
+!KEEP within these walls
+!KEEP your luff
+!LAY day
+!LAY days
+!LAY over at
+!LIE dormant for
+!LIE dormant for more than
+!LIVE entirely
+!LIVE for !DETERMINER time in
+!MAKE !DETERMINER day of
+!MAKE !DETERMINER day of it
+!MAKE !DETERMINER night of
+!MAKE !DETERMINER night of it
+!MAKE !POSSESSIVEPRONOUN WAY THROUGH
+!MONTH arrives
+!NUMS1TO100 - !NUMS1TO100 !TIMEFRAME
+!NUMS1TO100 !MONTH past
+!NUMS1TO100 !TIMEFRAME
+!NUMS1TO100 !TIMEFRAME AFTER
+!NUMS1TO100 !TIMEFRAME AFTER !DETERMINER
+!NUMS1TO100 !TIMEFRAME AFTERWARDS
+!NUMS1TO100 !TIMEFRAME and counting
+!NUMS1TO100 !TIMEFRAME BEFORE
+!NUMS1TO100 !TIMEFRAME EARLIER
+!NUMS1TO100 !TIMEFRAME FOLLOWING
+!NUMS1TO100 !TIMEFRAME FOLLOWING !DETERMINER
+!NUMS1TO100 !TIMEFRAME have passed
+!NUMS1TO100 !TIMEFRAME LATER
+!NUMS1TO100 !TIMEFRAME of
+!NUMS1TO100 !TIMEFRAME of age
+!NUMS1TO100 !TIMEFRAME off
+!NUMS1TO100 !TIMEFRAME old
+!NUMS1TO100 !TIMEFRAME passed
+!NUMS1TO100 !TIMEFRAME past
+!NUMS1TO100 !TIMEFRAME prior
+!NUMS1TO100 !TIMEFRAME prior to
+!NUMS1TO100 !TIMEFRAME session
+!NUMS1TO100 !TIMEFRAME sessions
+!NUMS1TO100 !TIMEFRAME SUBSEQUENT TO
+!NUMS1TO100 !TIMEFRAME SUBSEQUENT TO !DETERMINER
+!NUMS1TO100 !TIMEFRAME till
+!NUMS1TO100 !TIMEFRAME to
+!NUMS1TO100 !TIMEFRAME to go
+!NUMS1TO100 !TIMEFRAME trip
+!NUMS1TO100 consecutive !TIMEFRAME
+!NUMS1TO100 DAYS AFTER
+!NUMS1TO100 DAYS AFTER !DETERMINER
+!NUMS1TO100 DAYS FOLLOWING
+!NUMS1TO100 DAYS FOLLOWING !DETERMINER
+!NUMS1TO100 days off
+!NUMS1TO100 DAYS SUBSEQUENT TO
+!NUMS1TO100 DAYS SUBSEQUENT TO !DETERMINER
+!NUMS1TO100 month-old
+!NUMS1TO100 MONTHS AFTER
+!NUMS1TO100 MONTHS AFTER !DETERMINER
+!NUMS1TO100 MONTHS FOLLOWING
+!NUMS1TO100 MONTHS FOLLOWING !DETERMINER
+!NUMS1TO100 MONTHS SUBSEQUENT TO
+!NUMS1TO100 MONTHS SUBSEQUENT TO !DETERMINER
+!NUMS1TO100 to !NUMS1TO100 !TIMEFRAME
+!NUMS1TO100 WEEKS AFTER
+!NUMS1TO100 WEEKS AFTER !DETERMINER
+!NUMS1TO100 WEEKS FOLLOWING
+!NUMS1TO100 WEEKS FOLLOWING !DETERMINER
+!NUMS1TO100 WEEKS SUBSEQUENT TO
+!NUMS1TO100 WEEKS SUBSEQUENT TO !DETERMINER
+!NUMS1TO100 YEARS AFTER
+!NUMS1TO100 YEARS AFTER !DETERMINER
+!NUMS1TO100 YEARS FOLLOWING
+!NUMS1TO100 YEARS FOLLOWING !DETERMINER
+!NUMS1TO100 years of age
+!NUMS1TO100 YEARS SUBSEQUENT TO
+!NUMS1TO100 YEARS SUBSEQUENT TO !DETERMINER
+!ONEDIGIT !TIMEFRAME AFTERWARDS
+!ONEDIGIT !TIMEFRAME BEFORE
+!ONEDIGIT !TIMEFRAME EARLIER
+!ONEDIGIT !TIMEFRAME LATER
+!OPEN FROM !DETERMINER !TIMEFRAME
+!OPEN FROM !NUMS1TO12 a.m. TO !NUMS1TO12 p.m.
+!POSSESSIVEPRONOUN days
+!POSSESSIVEPRONOUN entire stint
+!POSSESSIVEPRONOUN stint
+!POSSESSIVEPRONOUN streak
+!RANKNUMBER !TIMEFRAME running
+!RANKNUMBER complete !TIMEFRAME
+!RANKNUMBER full !TIMEFRAME
+!REMAIN
+!REMAIN anonymous
+!REMAIN at !DETERMINER distance
+!REMAIN at peace
+!REMAIN firm
+!REMAIN in !DETERMINER shade
+!REMAIN in your memory
+!REMAIN incommunicado
+!REMAIN motionless
+!REMAIN neutral
+!REMAIN on your hands
+!REMAIN over
+!REMAIN seated
+!REMAIN stable
+!REMAIN unexploited
+!REMAIN unfilled
+!REMAIN unmoved
+!REMAIN valid
+!RUN on in !DETERMINER groove
+!SERVE for
+!SERVE time
+!SPEND !DAY
+!SPEND !TIMEFRAME
+!SPEND autumns
+!SPEND summers
+!SPEND the night
+!SPEND winters
+!STRIKE through
+!STRIKE through it
+!TAKE !DETERMINER !TIMEFRAME
+!TAKE !DETERMINER break
+!TAKE !DETERMINER hitch in
+!TAKE !DETERMINER long time
+!TAKE !DETERMINER stint
+!TAKE !DETERMINER whole day
+!TAKE !NUMS1TO100 !TIMEFRAME
+!TAKE !POSSESSIVEPRONOUN BREAK
+!TAKE !TIMEFRAME
+!TAKE about !NUMS1TO100 !TIMEFRAME
+!TAKE FIVE
+!TAKE out !DETERMINER day
+!TAKE some time off
+!TIMEFRAME
+!TIMEFRAME !REMAIN
+!TIMEFRAME !REMAIN in
+!TIMEFRAME !REMAIN in !DETERMINER
+!TIMEFRAME AFTER
+!TIMEFRAME AFTERWARD
+!TIMEFRAME arrive
+!TIMEFRAME BEFORE
+!TIMEFRAME between
+!TIMEFRAME drive
+!TIMEFRAME earlier
+!TIMEFRAME from
+!TIMEFRAME from now
+!TIMEFRAME in
+!TIMEFRAME in !DETERMINER row
+!TIMEFRAME LATER
+!TIMEFRAME left
+!TIMEFRAME left in
+!TIMEFRAME left in !DETERMINER
+!TIMEFRAME long
+!TIMEFRAME of
+!TIMEFRAME of !MONTH
+!TIMEFRAME of age
+!TIMEFRAME of Sundays
+!TIMEFRAME on
+!TIMEFRAME on end
+!TIMEFRAME on ends
+!TIMEFRAME out
+!TIMEFRAME PASS
+!TIMEFRAME remain
+!TIMEFRAME remain in
+!TIMEFRAME remain in !DETERMINER
+!TIMEFRAME remained
+!TIMEFRAME remained in
+!TIMEFRAME remained in !DETERMINER
+!TIMEFRAME remaining
+!TIMEFRAME remaining in
+!TIMEFRAME remaining in !DETERMINER
+!TIMEFRAME since
+!TIMEFRAME straight
+!TIMEFRAME when
+!TIMEFRAME when !DETERMINER
+!TIMEFRAME when !POSSESSIVEPRONOUN
+!TIMEFRAME with
+!TIMEFRAME worth of
+!TIMEOFDAY arrives
+!TINTERVAL !DETERMINER !NUMS1TO100 !TIMEFRAME
+!TINTERVAL !DETERMINER !TIMEFRAME
+!TINTERVAL !DETERMINER century
+!TINTERVAL !DETERMINER day
+!TINTERVAL !DETERMINER decade
+!TINTERVAL !DETERMINER generation
+!TINTERVAL !DETERMINER half century
+!TINTERVAL !DETERMINER moment
+!TINTERVAL !DETERMINER month
+!TINTERVAL !DETERMINER week
+!TINTERVAL !ELEVENTHRUTEENS !TIMEFRAME
+!TINTERVAL !ELEVENTHRUTEENS !TIMEFRAME after
+!TINTERVAL !ELEVENTHRUTEENS !TIMEFRAME before
+!TINTERVAL !ELEVENTHRUTEENS !TIMEFRAME period
+!TINTERVAL !HYPHENNUMS1TO100 !TIMEFRAME
+!TINTERVAL !HYPHENNUMS1TO100 !TIMEFRAME after
+!TINTERVAL !HYPHENNUMS1TO100 !TIMEFRAME before
+!TINTERVAL !MONTH !MONTHNUM
+!TINTERVAL !MONTH !RANKNUMBER
+!TINTERVAL !NUMS1TO100 !TIMEFRAME
+!TINTERVAL !NUMS1TO100 days
+!TINTERVAL !NUMS1TO100 minutes
+!TINTERVAL !NUMS1TO100 months
+!TINTERVAL !NUMS1TO100 o'clock
+!TINTERVAL !NUMS1TO100 weeks
+!TINTERVAL !NUMS1TO100 years
+!TINTERVAL !ONEDIGIT !TIMEFRAME
+!TINTERVAL !ONEDIGIT !TIMEFRAME after
+!TINTERVAL !ONEDIGIT !TIMEFRAME before
+!TINTERVAL !ONEDIGIT !TIMEFRAME period
+!TINTERVAL !ONEDIGIT days
+!TINTERVAL !ONEDIGIT minutes
+!TINTERVAL !ONEDIGIT months
+!TINTERVAL !ONEDIGIT o'clock
+!TINTERVAL !ONEDIGIT weeks
+!TINTERVAL !ONEDIGIT years
+!TINTERVAL !TWODIGITS !ONEDIGIT !TIMEFRAME
+!TINTERVAL !TWODIGITS !ONEDIGIT !TIMEFRAME after
+!TINTERVAL !TWODIGITS !ONEDIGIT !TIMEFRAME before
+!TINTERVAL !TWODIGITS !ONEDIGIT !TIMEFRAME period
+!TINTERVAL !TWODIGITS !ONEDIGIT days
+!TINTERVAL !TWODIGITS !ONEDIGIT minutes
+!TINTERVAL !TWODIGITS !ONEDIGIT months
+!TINTERVAL !TWODIGITS !ONEDIGIT weeks
+!TINTERVAL !TWODIGITS !ONEDIGIT years
+!TINTERVAL !TWODIGITS !TIMEFRAME
+!TINTERVAL !TWODIGITS days
+!TINTERVAL !TWODIGITS minutes
+!TINTERVAL !TWODIGITS months
+!TINTERVAL !TWODIGITS o'clock
+!TINTERVAL !TWODIGITS weeks
+!TINTERVAL !TWODIGITS years
+!WORK !POSSESSIVEPRONOUN shift
+!WORK my shift
+!WORK our shift
+!WORK your shift
+, and as long as
+, and when
+, at !DETERMINER time when
+, at which time
+, for !DETERMINER few !TIMEFRAME past
+, for !TIMEFRAME
+, for a long time
+, for a long time to come
+, for many years
+, for that !TIMEFRAME
+, just at !DETERMINER time when
+, since !MONTH
+. as !DETERMINER
+. as long as
+. for decades
+. for many !TIMEFRAME
+. for many days
+. for many months
+. for many weeks
+. for many years
+. in !DETERMINER !TIMEFRAME
+. in !DETERMINER meantime
+. in !TIMEFRAME
+. in early
+. IN LESS THAN !NUMS1TO100 !TIMEFRAME
+. in the meantime
+. on !DETERMINER !TIMEOFDAY
+. until
+. when he
+. when she
+. when such
+. when they
+; as !DETERMINER time period
+1-day
+1-day-old
+1-hour
+1-minute
+1-second
+1-week
+1-year
+1 !TIMEFRAME old
+10-day
+10-day-old
+10-hour
+10-minute
+10-odd !TIMEFRAME
+10-second
+10-week
+10-year
+10 !TIMEFRAME old
+10 years old
+100-!TIMEFRAME-flood
+100-day-old
+100-hour
+100-minute
+100-odd !TIMEFRAME
+100-second
+100-week
+100-year
+101-day-old
+101-hour
+101-minute
+101-second
+101-week
+101-year
+102-day-old
+102-hour
+102-minute
+102-second
+102-week
+102-year
+103-day-old
+103-hour
+103-minute
+103-second
+103-week
+103-year
+104-day-old
+104-hour
+104-minute
+104-second
+104-week
+104-year
+105-day-old
+105-hour
+105-minute
+105-second
+105-week
+105-year
+106-hour
+106-minute
+106-second
+106-week
+106-year
+107-hour
+107-minute
+107-second
+107-week
+107-year
+108-hour
+108-minute
+108-second
+108-week
+108-year
+109-hour
+109-minute
+109-second
+109-week
+109-year
+10th-century
+10th anniversary
+10th century
+11-day
+11-day-old
+11-hour
+11-minute
+11-second
+11-week
+11-year
+110-hour
+110-minute
+110-second
+110-week
+110-year
+11th-century
+11th century
+12-day
+12-day-old
+12-hour
+12-minute
+12-second
+12-week
+12-year
+12th-century
+12th century
+13-day
+13-day-old
+13-hour
+13-minute
+13-second
+13-week
+13-year
+13th-century
+13th century
+14-day
+14-day-old
+14-hour
+14-minute
+14-second
+14-week
+14-year
+14th-century
+14th century
+15-day
+15-day-old
+15-hour
+15-minute
+15-odd  !TIMEFRAME
+15-odd !TIMEFRAME
+15-second
+15-week
+15-year
+15th-century
+15th century
+16-day
+16-day-old
+16-hour
+16-minute
+16-second
+16-week
+16-year
+16th-century
+16th century
+17-day
+17-day-old
+17-hour
+17-minute
+17-second
+17-week
+17-year
+17th-century
+17th century
+18-day
+18-day-old
+18-hour
+18-minute
+18-second
+18-week
+18-year
+18th-century
+18th century
+19-day
+19-day-old
+19-hour
+19-minute
+19-second
+19-week
+19-year
+1910s
+1920s
+1930s
+1940s
+1950s
+1960s
+1970s
+1980s
+1990s
+19th-century
+19th century
+1st-century
+1st century
+2-day
+2-day-old
+2-hour
+2-minute
+2-second
+2-week
+2-year
+2 !TIMEFRAME old
+2 years old
+20-day
+20-day-old
+20-hour
+20-minute
+20-odd !TIMEFRAME
+20-second
+20-week
+20-year
+20th-century
+20th anniversary
+20th century
+21-day
+21-day-old
+21-hour
+21-minute
+21-second
+21-week
+21-year
+22-day
+22-day-old
+22-hour
+22-minute
+22-second
+22-week
+22-year
+23-day
+23-day-old
+23-hour
+23-minute
+23-second
+23-week
+23-year
+24-day
+24-day-old
+24-hour
+24-minute
+24-second
+24-week
+24-year
+25-day
+25-day-old
+25-hour
+25-minute
+25-odd  !TIMEFRAME
+25-odd !TIMEFRAME
+25-second
+25-week
+25-year
+25th anniversary
+26-day
+26-day-old
+26-hour
+26-minute
+26-second
+26-week
+26-year
+27-day
+27-day-old
+27-hour
+27-minute
+27-second
+27-week
+27-year
+28-day
+28-day-old
+28-hour
+28-minute
+28-second
+28-week
+28-year
+29-day
+29-day-old
+29-hour
+29-minute
+29-second
+29-week
+29-year
+2nd-century
+2nd century
+3-day
+3-day-old
+3-hour
+3-minute
+3-second
+3-week
+3-year
+3 !TIMEFRAME old
+3 years old
+30-day
+30-day-old
+30-hour
+30-minute
+30-odd  !TIMEFRAME
+30-odd !TIMEFRAME
+30-second
+30-week
+30-year
+31-day-old
+31-hour
+31-minute
+31-second
+31-week
+31-year
+32-day-old
+32-hour
+32-minute
+32-second
+32-week
+32-year
+33-day-old
+33-hour
+33-minute
+33-second
+33-week
+33-year
+34-day-old
+34-hour
+34-minute
+34-second
+34-week
+34-year
+35-day-old
+35-hour
+35-minute
+35-odd  !TIMEFRAME
+35-odd !TIMEFRAME
+35-second
+35-week
+35-year
+36-day-old
+36-hour
+36-minute
+36-second
+36-week
+36-year
+37-day-old
+37-hour
+37-minute
+37-second
+37-week
+37-year
+38-day-old
+38-hour
+38-minute
+38-second
+38-week
+38-year
+39-day-old
+39-hour
+39-minute
+39-second
+39-week
+39-year
+3rd-century
+3rd century
+4-day
+4-day-old
+4-hour
+4-minute
+4-second
+4-week
+4-year
+4 !TIMEFRAME old
+4 years old
+40-day-old
+40-hour
+40-minute
+40-odd  !TIMEFRAME
+40-odd !TIMEFRAME
+40-second
+40-week
+40-year
+41-day-old
+41-hour
+41-minute
+41-second
+41-week
+41-year
+42-day-old
+42-hour
+42-minute
+42-second
+42-week
+42-year
+43-day-old
+43-hour
+43-minute
+43-second
+43-week
+43-year
+44-day-old
+44-hour
+44-minute
+44-second
+44-week
+44-year
+45-day-old
+45-hour
+45-minute
+45-odd  !TIMEFRAME
+45-odd !TIMEFRAME
+45-second
+45-week
+45-year
+46-day-old
+46-hour
+46-minute
+46-second
+46-week
+46-year
+47-day-old
+47-hour
+47-minute
+47-second
+47-week
+47-year
+48-day-old
+48-hour
+48-minute
+48-second
+48-week
+48-year
+49-day-old
+49-hour
+49-minute
+49-second
+49-week
+49-year
+4th-century
+4th century
+5-day
+5-day-old
+5-hour
+5-minute
+5-second
+5-week
+5-year
+5 !TIMEFRAME old
+5 years old
+50-day-old
+50-hour
+50-minute
+50-odd  !TIMEFRAME
+50-odd !TIMEFRAME
+50-second
+50-week
+50-year
+50th anniversary
+51-day-old
+51-hour
+51-minute
+51-second
+51-week
+51-year
+52-day-old
+52-hour
+52-minute
+52-second
+52-week
+52-year
+53-day-old
+53-hour
+53-minute
+53-second
+53-week
+53-year
+54-day-old
+54-hour
+54-minute
+54-second
+54-week
+54-year
+55-day-old
+55-hour
+55-minute
+55-odd  !TIMEFRAME
+55-odd !TIMEFRAME
+55-second
+55-week
+55-year
+56-day-old
+56-hour
+56-minute
+56-second
+56-week
+56-year
+57-day-old
+57-hour
+57-minute
+57-second
+57-week
+57-year
+58-day-old
+58-hour
+58-minute
+58-second
+58-week
+58-year
+59-day-old
+59-hour
+59-minute
+59-second
+59-week
+59-year
+5th-century
+5th century
+6-day
+6-day-old
+6-hour
+6-minute
+6-second
+6-week
+6-year
+6 !TIMEFRAME old
+6 years old
+60-day-old
+60-hour
+60-minute
+60-odd !TIMEFRAME
+60-second
+60-week
+60-year
+61-day-old
+61-hour
+61-minute
+61-second
+61-week
+61-year
+62-day-old
+62-hour
+62-minute
+62-second
+62-week
+62-year
+63-day-old
+63-hour
+63-minute
+63-second
+63-week
+63-year
+64-day-old
+64-hour
+64-minute
+64-second
+64-week
+64-year
+65-day-old
+65-hour
+65-minute
+65-odd  !TIMEFRAME
+65-odd !TIMEFRAME
+65-second
+65-week
+65-year
+66-day-old
+66-hour
+66-minute
+66-second
+66-week
+66-year
+67-day-old
+67-hour
+67-minute
+67-second
+67-week
+67-year
+68-day-old
+68-hour
+68-minute
+68-second
+68-week
+68-year
+69-day-old
+69-hour
+69-minute
+69-second
+69-week
+69-year
+6th-century
+6th century
+7-day
+7-day-old
+7-hour
+7-minute
+7-second
+7-week
+7-year
+7 !TIMEFRAME old
+7 years old
+70-day-old
+70-hour
+70-minute
+70-odd !TIMEFRAME
+70-second
+70-week
+70-year
+71-day-old
+71-hour
+71-minute
+71-second
+71-week
+71-year
+72-day-old
+72-hour
+72-minute
+72-second
+72-week
+72-year
+73-day-old
+73-hour
+73-minute
+73-second
+73-week
+73-year
+74-day-old
+74-hour
+74-minute
+74-second
+74-week
+74-year
+75-day-old
+75-hour
+75-minute
+75-odd  !TIMEFRAME
+75-odd !TIMEFRAME
+75-second
+75-week
+75-year
+75th anniversary
+76-day-old
+76-hour
+76-minute
+76-second
+76-week
+76-year
+77-day-old
+77-hour
+77-minute
+77-second
+77-week
+77-year
+78-day-old
+78-hour
+78-minute
+78-second
+78-week
+78-year
+79-day-old
+79-hour
+79-minute
+79-second
+79-week
+79-year
+7th-century
+7th century
+8-5
+8-day
+8-day-old
+8-hour
+8-minute
+8-second
+8-week
+8-year
+8 !TIMEFRAME old
+8 years old
+80-day-old
+80-hour
+80-minute
+80-odd  !TIMEFRAME
+80-odd !TIMEFRAME
+80-second
+80-week
+80-year
+81-day-old
+81-hour
+81-minute
+81-second
+81-week
+81-year
+82-day-old
+82-hour
+82-minute
+82-second
+82-week
+82-year
+83-day-old
+83-hour
+83-minute
+83-second
+83-week
+83-year
+84-day-old
+84-hour
+84-minute
+84-second
+84-week
+84-year
+85-day-old
+85-hour
+85-minute
+85-odd  !TIMEFRAME
+85-odd !TIMEFRAME
+85-second
+85-week
+85-year
+86-day-old
+86-hour
+86-minute
+86-second
+86-week
+86-year
+87-day-old
+87-hour
+87-minute
+87-second
+87-week
+87-year
+88-day-old
+88-hour
+88-minute
+88-second
+88-week
+88-year
+89-day-old
+89-hour
+89-minute
+89-second
+89-week
+89-year
+8th-century
+8th century
+9-5
+9-day
+9-day-old
+9-hour
+9-minute
+9-second
+9-week
+9-year
+9 !TIMEFRAME old
+9 years old
+90-day-old
+90-hour
+90-minute
+90-odd  !TIMEFRAME
+90-odd !TIMEFRAME
+90-second
+90-week
+90-year
+91-day-old
+91-hour
+91-minute
+91-second
+91-week
+91-year
+92-day-old
+92-hour
+92-minute
+92-second
+92-week
+92-year
+93-day-old
+93-hour
+93-minute
+93-second
+93-week
+93-year
+94-day-old
+94-hour
+94-minute
+94-second
+94-week
+94-year
+95-day-old
+95-hour
+95-minute
+95-odd  !TIMEFRAME
+95-odd !TIMEFRAME
+95-second
+95-week
+95-year
+96-day-old
+96-hour
+96-minute
+96-second
+96-week
+96-year
+97-day-old
+97-hour
+97-minute
+97-second
+97-week
+97-year
+98-day-old
+98-hour
+98-minute
+98-second
+98-week
+98-year
+99-day-old
+99-hour
+99-minute
+99-second
+99-week
+99-year
+9th-century
+9th century
+a-stay
+a-stay-of
+a-whiles
+abey
+abeyance
+abeyances
+abeyant
+abeyed
+abeying
+abeys
+abiding
+ABOUT !NUMS1TO100 !TIMEFRAME AFTER
+ABOUT !NUMS1TO100 !TIMEFRAME BEFORE
+abundant !TIMEFRAME
+academic !TIMEFRAME
+ack-emma
+ack emma
+acronycal
+acronychal
+across !MONTH
+adolescence
+aeon
+aeonian
+aeons
+aestival
+aestivate
+aestivated
+aestivates
+aestivating
+after !DETERMINER !TIMEFRAME of
+after !DETERMINER drenching rain
+after !DETERMINER storm
+after !DETERMINER thunderstorm
+after !MONTH
+AFTER !NUMS1TO100 !TIMEFRAME
+AFTER !NUMS1TO100 DAYS
+AFTER !NUMS1TO100 MONTHS
+after !NUMS1TO100 operations
+AFTER !NUMS1TO100 YEARS
+AFTER !ONEDIGIT !TIMEFRAME
+AFTER !ONEDIGIT YEARS
+after !TIMEFRAME
+after !TIMEFRAME of
+after it rains
+after storms
+afternoon-tea
+afternoon-teas
+afternoon-watch
+afternoon-watchs
+afternoon tea
+afternoon teas
+afternoon watch
+afternoon watchs
+age of
+ages
+ages of
+airtime
+all-!TIMEFRAME
+all-afternoon
+all-day
+all-evening
+all-month
+all-morning
+all-night
+all-nighter
+all-week
+all !DETERMINER !TIMEFRAME round
+all !DETERMINER day long
+all !DETERMINER livelong day
+all !DETERMINER while
+all !TIMEFRAME
+all !TIMEFRAME round
+all a.m.
+all afternoon
+all along !DETERMINER line
+all day
+all day !DAY
+all day long
+all day today
+all day yesterday
+all month
+all morning
+all night
+all nighter
+all of !DAY
+all of !DETERMINER !TIMEFRAME
+all of !MONTH
+all p.m.
+all week
+almost as soon as
+along in !TIMEFRAME
+along in years
+also term-time
+anabiosis
+and !QUESTION he
+and !QUESTION she
+and !QUESTION they
+and night
+and when he
+and when she
+and when they
+anestrum
+anestrus
+anoestrous
+anoestrum
+anoestrus
+antemeridian
+appeared  in early !RANKNUMBER century
+appeared in !DETERMINER middle of !DETERMINER !RANKNUMBER century
+appeared in !RANKNUMBER century
+appeared in late !RANKNUMBER century
+appointment
+appointments
+april's
+arvo
+as !DETERMINER !TIMEFRAME go on
+as !DETERMINER !TIMEFRAME goes on
+as !DETERMINER curtain raises
+as !DETERMINER curtain raises on
+as !DETERMINER curtains raise on
+as !PRONOUNNOMINAL
+as !PRONOUNNOMINAL !AUX
+as during !DETERMINER
+as he wakes up
+as I wake up
+as I write
+as it continued
+as it continued into
+as it dragged on
+as long as
+as she wakes up
+as the case dragged on
+as they !AUX
+as they wake up
+as time passes
+as we wake up
+as you wake up
+astronomical !TIMEFRAME
+at !DETERMINER equinox
+at !DETERMINER peak
+at !DETERMINER same time
+at !DETERMINER same time as
+AT !DETERMINER SAME TIME of
+at !DETERMINER single time
+at !DETERMINER stretch
+at !DETERMINER time when he
+at !DETERMINER time when she
+at !DETERMINER time when they
+at !DETERMINER time,
+at !DETERMINER time.
+at !DETERMINER time;
+at !NUMS1TO100 !TIMEFRAME
+at eight,
+at eighteen,
+at eighty-eight,
+at eighty-five,
+at eighty-four,
+at eighty-nine,
+at eighty-one,
+at eighty-seven,
+at eighty-six,
+at eighty-three,
+at eighty-two,
+at eighty,
+at eleven,
+at fifteen,
+at fifty-eight,
+at fifty-five,
+at fifty-four,
+at fifty-nine,
+at fifty-one,
+at fifty-seven,
+at fifty-six,
+at fifty-three,
+at fifty-two,
+at fifty,
+at five,
+at forty-eight,
+at forty-five,
+at forty-four,
+at forty-nine,
+at forty-one,
+at forty-seven,
+at forty-six,
+at forty-three,
+at forty-two,
+at forty,
+at four,
+at fourteen,
+at harvesting
+at high noon
+at mid-day
+at midnight
+at night-time
+at nine,
+at nineteen,
+at ninety-eight,
+at ninety-five,
+at ninety-four,
+at ninety-nine,
+at ninety-one,
+at ninety-seven,
+at ninety-six,
+at ninety-three,
+at ninety-two,
+at ninety,
+at one moment
+at one,
+at peak !TIMEFRAME
+at rest
+at seven,
+at seventeen,
+at seventy-eight,
+at seventy-five,
+at seventy-four,
+at seventy-nine,
+at seventy-one,
+at seventy-seven,
+at seventy-six,
+at seventy-three,
+at seventy-two,
+at seventy,
+at six,
+at sixteen,
+at sixty-eight,
+at sixty-five,
+at sixty-four,
+at sixty-nine,
+at sixty-one,
+at sixty-seven,
+at sixty-six,
+at sixty-three,
+at sixty-two,
+at sixty,
+at some length
+at sunset
+at ten,
+at thirteen,
+at thirty-eight,
+at thirty-five,
+at thirty-four,
+at thirty-nine,
+at thirty-one,
+at thirty-seven,
+at thirty-six,
+at thirty-three,
+at thirty-two,
+at thirty,
+at three,
+at twelve,
+at twenty-eight,
+at twenty-five,
+at twenty-four,
+at twenty-nine,
+at twenty-one,
+at twenty-seven,
+at twenty-six,
+at twenty-three,
+at twenty-two,
+at twenty,
+at two,
+at vespers
+augmented interval
+august's
+autumn
+autumn-time
+autumn quarter
+autumn quarters
+autumn time
+autumntime
+await judgment
+awaited judgment
+awaiting judgment
+awaits judgment
+awhile
+babyhoods
+base-!TIMEFRAME
+base-years
+base !TIMEFRAME
+base period
+base periods
+base years
+be finished in
+be there from
+bed-time
+bed-times
+bed time
+bedtime
+before !DETERMINER storm
+before storms
+between-maid
+between-maids
+between-time
+between-times
+between !DETERMINER time
+between !DETERMINER time of
+between !DETERMINER times
+between !DETERMINER times of
+between !NUMS1TO12 a.m. and !NUMS1TO12 p.m.
+between !NUMS1TO12 and !NUMS1TO12 !TIMEFRAME_P
+between !NUMS1TO12 and !NUMS1TO12 !TIMEFRAME_P per !TIMEFRAME_S
+between periods
+between times
+betweentime
+betweentimes
+betweenwhiles
+betwixt
+bide
+bide !POSSESSIVEPRONOUN time
+bided
+bided !POSSESSIVEPRONOUN time
+bides
+bides !POSSESSIVEPRONOUN time
+biding
+biding !POSSESSIVEPRONOUN time
+birth !TIMEFRAME
+bissextile !TIMEFRAME
+bissextile day
+borning day
+Break for dinner
+Break for lunch
+break of !TIMEFRAME
+Breaking for dinner
+Breaking for lunch
+Breaks for dinner
+Breaks for lunch
+breve rest
+brief discussion
+brief discussions
+brief run
+brief runs
+Broke for dinner
+Broke for lunch
+but !DETERMINER instant
+but for !DETERMINER !TIMEFRAME
+but for !DETERMINER day
+but for !DETERMINER few minutes
+but for !DETERMINER moment
+but for !DETERMINER month
+but for !DETERMINER week
+by !DAY
+by !MONTH
+by !MONTH !NUMS1TO100
+by !MONTH !RANKNUMBER
+by afternoon
+by day and by night
+by evening
+by morning
+by noon
+calendar !TIMEFRAME
+canicular days
+cave period
+centurial
+centuries past
+century-long
+century-old
+centurylong
+chain break
+chain breaks
+chain of events
+changeover
+changeovers
+china wedding anniversaries
+china wedding anniversary
+christmas
+chronaxie
+chronaxies
+chronic period
+chronic periods
+chronicity
+chronics
+chronon
+chronons
+chukker
+chukkers
+church !TIMEFRAME
+churr-owl
+churr owl
+cigarette break
+circumnutation
+circumnutations
+class day
+clearance time
+clearance times
+clock !NUMS1TO100 !TIMEFRAME
+clocked !NUMS1TO100 !TIMEFRAME
+clocking from
+clocking to
+clocks from
+close of day
+close of season
+close to !DETERMINER !TIMEFRAME
+cockcrow
+coffee break
+coffee breaks
+coffee morning
+coffeebreak
+coincide with !DETERMINER time
+coincided with !DETERMINER time
+coincides with !DETERMINER time
+coinciding with !DETERMINER time
+cold-time
+cold season
+coldtime
+college !TIMEFRAME
+college years
+coma vigil
+commendam
+common !TIMEFRAME
+composed throughout
+concert season
+consecutive !TIMEFRAME
+continuance
+continuances
+continuate
+continuated
+continuates
+continuating
+continuation
+continuations
+continuator
+continuators
+continue as
+continue on through
+continue to
+continued
+continued as
+continued fever
+continued on through
+continues
+continues as
+continues on through
+continuing
+continuing !DETERMINER
+continuing !MOTIONPREP
+continuing as
+continuing on through
+continuing to
+continuous-expansion
+continuous-wave
+convalesce
+convalesced
+convalesces
+convalescing
+cool !POSSESSIVEPRONOUN heals
+cool !POSSESSIVEPRONOUN heels
+cool our heels
+cool your heels
+cooled !POSSESSIVEPRONOUN heals
+cooled !POSSESSIVEPRONOUN heels
+cooled our heels
+cooled your heels
+cooling-off period
+cooling !POSSESSIVEPRONOUN heals
+cooling !POSSESSIVEPRONOUN heels
+cooling my heels
+cooling our heels
+cooling your heels
+cools !POSSESSIVEPRONOUN heals
+cools !POSSESSIVEPRONOUN heels
+cools our heels
+cools your heels
+coon's age
+coronation day
+coronation days
+corridor of time
+corridors of time
+couple of minutes
+cours
+course of things
+course of time
+cover !DETERMINER period
+cover !DETERMINER period from
+cover !DETERMINER period of
+cover !DETERMINER period of !TIMEFRAME
+covered !DETERMINER period
+covered !DETERMINER period from
+covered !DETERMINER period of
+covered !DETERMINER period of !TIMEFRAME
+covering !DETERMINER period
+covering !DETERMINER period from
+covering !DETERMINER period of
+covering !DETERMINER period of !TIMEFRAME
+covers !DETERMINER period
+covers !DETERMINER period from
+covers !DETERMINER period of
+covers !DETERMINER period of !TIMEFRAME
+crack of dawn
+crystal wedding anniversaries
+crystal wedding anniversary
+darg
+dargs
+dawn
+dawn's
+dawn's early light
+dawn's early lights
+dawn of day
+day
+day's
+day's-work
+day's close
+day's drive
+day's work
+day-around
+day-born
+day-break
+day-hired
+day-lasting
+day-lived
+day-long
+day-marked
+day-old
+day-peep
+day-time
+day in
+day in court
+day long
+day of atonement
+day of doom
+day of festivities
+day of rest
+day off
+day out
+day straight
+day time
+day to night
+daybreak
+daylong
+days
+days after
+days before
+days beyond recall
+days in
+days long
+days off
+days on
+days on end
+days out
+days straight
+dayslong
+daytime
+daytimes
+death !TIMEFRAME
+decade
+decade-old
+decades
+december's
+decennia
+decennium
+decenniums
+decline of day
+degree-day
+degree day
+der Tag
+diamond wedding anniversaries
+diamond wedding anniversary
+dies non
+dies non juridicus
+dies nons
+diestrual
+diestrum
+dinner-time
+dinner !TIMEFRAME
+dinner break
+dinner time
+dinnertime
+discrimination time
+dish night
+dollar-a-!TIMEFRAME
+drag on for
+drag on without
+dragged on for
+dragged on without
+dragging on for
+dragging on without
+drags on for
+drags on without
+drawn out between
+drawn out for
+dress rehearsal
+dress rehearsals
+drill day
+drill days
+drinking-up time
+drinking time
+dry season
+dry seasons
+durably
+durance
+duration
+duration of
+durations
+durations of
+durative
+during
+during !DETERMINER
+during !DETERMINER !RANKNUMBER century
+during !DETERMINER !RANKNUMBER grade
+during !DETERMINER !TIMEFRAME
+during !DETERMINER !TIMEFRAME of !MONTH
+during !DETERMINER course of
+during !DETERMINER day
+during !DETERMINER era
+during !DETERMINER era of
+during !DETERMINER final phase
+during !DETERMINER height of
+during !DETERMINER high tide
+during !DETERMINER initial phase
+during !DETERMINER interim
+during !DETERMINER interval
+during !DETERMINER last phase
+during !DETERMINER middle phase
+during !DETERMINER most recent !TIMEFRAME
+during !DETERMINER next !TIMEFRAME
+during !DETERMINER night
+during !DETERMINER past
+during !DETERMINER past !NUMS1TO100 !TIMEFRAME
+during !DETERMINER past !TIMEFRAME
+during !DETERMINER pregnancies
+during !DETERMINER pregnancy
+during !DETERMINER PREHISTORIC
+during !DETERMINER prime autumn
+during !DETERMINER prime fall
+during !DETERMINER prime spring
+during !DETERMINER prime summer
+during !DETERMINER prime winter
+during !DETERMINER PRIMEVAL
+during !DETERMINER prior !TIMEFRAME
+during !DETERMINER recess
+during !DETERMINER ride
+during !DETERMINER same period
+during !DETERMINER school !TIMEFRAME
+during !DETERMINER springtime
+during !DETERMINER teenage !TIMEFRAME
+during !DETERMINER teenage years
+during !DETERMINER time of
+during !DETERMINER time that
+during !DETERMINER TIME when
+during !DETERMINER trip
+during !DETERMINER wee !TIMEFRAME
+during !POSSESSIVEPRONOUN
+during !POSSESSIVEPRONOUN routine
+during !POSSESSIVEPRONOUN stint
+during !POSSESSIVEPRONOUN time
+during !RANKNUMBER grade
+during adolescence
+during adulthood
+during lent
+during may
+during nightfall
+during peak
+during peak !TIMEFRAME
+during pregnancy
+during prehistoric
+during prior !TIMEFRAME
+during this period
+during which
+dust of ages
+dying !TIMEFRAME
+dying day
+dying days
+dynasties
+dynasty
+early-afternoon
+early-evening
+early-morning
+early afternoon
+early evening
+early in !DETERMINER !TIMEFRAME
+early light
+early lights
+early morning
+ebb of
+ebbs of
+edition time
+edition times
+eight-!TIMEFRAME
+eight-!TIMEFRAME period
+eight-!TIMEFRAME periods
+eight-!TIMEFRAME undertaking
+eight-and-!DETERMINER-half
+eight-day
+eight-day-old
+eight-hour
+eight-hour drive
+eight-month
+eight-year
+eight-years old
+eight straight !TIMEFRAME
+eight straight day
+eight straight days
+eight straight month
+eight straight months
+eight straight week
+eight straight weeks
+eighteen-century
+eighteen-day-old
+eighteen-hour drive
+eighteen-year
+eighteen century
+eighteen century's
+eighteenth-month
+eighth-!TIMEFRAME
+eighth-century
+eighth-month
+eighth century
+eighth century's
+eighth rest
+eighth rests
+eighth straight day
+eighth straight month
+eighth straight week
+eighty-eight-year
+eighty-five-year
+eighty-four-year
+eighty-hour
+eighty-nine-year
+eighty-one-year
+eighty-seven-year
+eighty-six-year
+eighty-three-year
+eighty-two-year
+eighty-year
+elapse after
+elapsed after
+elapses after
+elapsing after
+eleven-!TIMEFRAME
+eleven-!TIMEFRAME period
+eleven-!TIMEFRAME periods
+eleven-day-old
+eleven-hour
+eleven-hour drive
+eleven-month
+eleven-year
+eleven straight !TIMEFRAME
+eleven straight day
+eleven straight days
+eleven straight month
+eleven straight months
+eleven straight week
+eleven straight weeks
+eleventh-century
+eleventh century
+eleventh century's
+encaenia
+encaenias
+endure.
+endured.
+endures.
+enduring
+enduring for
+enduring while
+enduringly
+enduringness
+entire performance
+entire performances
+entire stint
+entire time
+entirely as
+entr'acte
+entr'actes
+eon
+eonian
+eons
+epact
+epacts
+episode
+episodes
+episodic
+episodically
+epoch
+epochs
+equinoctial !TIMEFRAME
+equinoctial years
+era
+era in which
+eras
+estate for !TIMEFRAME
+estate for years
+estates for !TIMEFRAME
+estates for years
+estival
+estivate
+estivated
+estivates
+estivating
+estral
+estral cycle
+estral cycles
+estrous
+estrous cycle
+estrous cycles
+estrus
+estrus cycle
+estruses
+eve
+evenfall
+evening
+evening's close
+evening-time
+evening time
+eveningtime
+ever since !DETERMINER 1910's
+ever since !DETERMINER 1920's
+ever since !DETERMINER 1930's
+ever since !DETERMINER 1940's
+ever since !DETERMINER 1950's
+ever since !DETERMINER 1960's
+ever since !DETERMINER 1970's
+ever since !DETERMINER 1980's
+ever since !RANKNUMBER grade
+experience before us
+experience before us of
+experience guiding us
+experience guiding us of
+experience in front of us
+experience in front of us of
+experience to learn from
+experience to learn from of
+extend !NUMS1TO100 !TIMEFRAME
+extend !TIMEFRAME
+extend for !TIMEFRAME
+extend out !NUMS1TO100 !TIMEFRAME
+extend out over !NUMS1TO100 !TIMEFRAME
+extend over !NUMS1TO100 !TIMEFRAME
+extend through next !TIMEFRAME
+extended !NUMS1TO100 !TIMEFRAME
+extended !TIMEFRAME
+extended for !TIMEFRAME
+extended out !NUMS1TO100 !TIMEFRAME
+extended out over !NUMS1TO100 !TIMEFRAME
+extended over !NUMS1TO100 !TIMEFRAME
+extended through next !TIMEFRAME
+extending !NUMS1TO100 !TIMEFRAME
+extending !TIMEFRAME
+extending for !TIMEFRAME
+extending out !NUMS1TO100 !TIMEFRAME
+extending out over !NUMS1TO100 !TIMEFRAME
+extending over !NUMS1TO100 !TIMEFRAME
+extending through next !TIMEFRAME
+extends !NUMS1TO100 !TIMEFRAME
+extends !TIMEFRAME
+extends for !TIMEFRAME
+extends out !NUMS1TO100 !TIMEFRAME
+extends out over !NUMS1TO100 !TIMEFRAME
+extends over !NUMS1TO100 !TIMEFRAME
+extends through next !TIMEFRAME
+eye of day
+fall quarter
+fall quarters
+far into !DETERMINER night
+far into !DETERMINER wee !TIMEFRAME
+fastigia
+fastigium
+fastigiums
+father's day
+february's
+fence month
+fence season
+feria
+feriae
+ferial
+ferias
+festival !TIMEFRAME
+festival of lights
+festivals of lights
+fete day
+fete days
+few moments
+fiesta
+fiestas
+fifteen-!TIMEFRAME
+fifteen-century
+fifteen-day-old
+fifteen-hour drive
+fifteen-month
+fifteen-year
+fifteen century
+fifteen century's
+fifteenth-century
+fifth-!TIMEFRAME
+fifth-century
+fifth century
+fifth century's
+fifth straight day
+fifth straight month
+fifth straight week
+fifty-!TIMEFRAME
+fifty-eight-year
+fifty-five-year
+fifty-four-year
+fifty-hour
+fifty-nine-year
+fifty-one-year
+fifty-seven-year
+fifty-six-year
+fifty-three-year
+fifty-two-year
+fifty-year
+fill !POSSESSIVEPRONOUN day
+fill my day
+fill our day
+fill your day
+filled !POSSESSIVEPRONOUN day
+filled my day
+filled our day
+filled your day
+filling !POSSESSIVEPRONOUN day
+filling my day
+filling our day
+filling your day
+fills !POSSESSIVEPRONOUN day
+fills my day
+fills our day
+fills your day
+fin de siecle
+financial !TIMEFRAME
+financial years
+finish within
+finished within
+finishes within
+finishing within
+first-!TIMEFRAME
+first-century
+first attempt
+first century
+first century's
+fiscal period
+fiscal periods
+fish day
+fish days
+fishing season
+fishing seasons
+fit !PRONOUNOBJECTIVE into
+fits !PRONOUNOBJECTIVE into
+fits and starts
+fitted !PRONOUNOBJECTIVE into
+fitting !PRONOUNOBJECTIVE into
+five-!TIMEFRAME
+five-!TIMEFRAME old
+five-!TIMEFRAME period
+five-!TIMEFRAME periods
+five-!TIMEFRAME undertaking
+five-and-!DETERMINER-half
+five-day
+five-day-old
+five-hour
+five-hour drive
+five-minute
+five-month
+five-term
+five-week
+five-year
+five-years old
+five centuries
+five straight !TIMEFRAME
+five straight day
+five straight days
+five straight month
+five straight months
+five straight week
+five straight weeks
+flag day
+flag days
+fledge toward
+fledged toward
+fledges toward
+fledging toward
+flowering !TIMEFRAME
+flowering time
+flowering times
+flowing period
+flowing periods
+for !BIGNUMBER of !TIMEFRAME
+for !DETERMINER  period of
+for !DETERMINER !RANKNUMBER !TIMEFRAME running
+for !DETERMINER !SEASON
+for !DETERMINER !SEASON visit
+for !DETERMINER !TIMEFRAME
+for !DETERMINER !TIMEFRAME of !DAY
+for !DETERMINER !TIMEFRAME of !MONTH
+for !DETERMINER baseball season
+for !DETERMINER basketball season
+for !DETERMINER better part of
+for !DETERMINER better part of the day
+for !DETERMINER better part of the month
+for !DETERMINER better part of the week
+for !DETERMINER couple !TIMEFRAME
+for !DETERMINER day
+for !DETERMINER duration
+for !DETERMINER duration of
+for !DETERMINER duration of !DETERMINER
+for !DETERMINER duration of !POSSESSIVEPRONOUN
+for !DETERMINER entire !TIMEFRAME
+for !DETERMINER few !TIMEFRAME
+for !DETERMINER few !TIMEFRAME past
+for !DETERMINER few moments
+for !DETERMINER first !MEASURE
+for !DETERMINER first !NUMS1TO100 !MEASURE
+for !DETERMINER first !NUMS1TO100 !TIMEFRAME
+for !DETERMINER first !NUMS1TO100 half mile
+for !DETERMINER first !NUMS1TO100 mile
+for !DETERMINER first !NUMS1TO100 miles
+for !DETERMINER first !NUMS1TO100 quarter mile
+for !DETERMINER first half mile
+for !DETERMINER first quarter mile
+for !DETERMINER football season
+for !DETERMINER holidays
+for !DETERMINER instant
+for !DETERMINER last !NUMS1TO100 !TIMEFRAME
+for !DETERMINER last !TIMEFRAME
+for !DETERMINER limited time
+for !DETERMINER meantime
+for !DETERMINER moment
+for !DETERMINER night
+for !DETERMINER number of !TIMEFRAME
+for !DETERMINER past !NUMS1TO100 !TIMEFRAME
+for !DETERMINER past !TIMEFRAME
+for !DETERMINER past few !TIMEFRAME
+for !DETERMINER period
+for !DETERMINER period of time
+for !DETERMINER remainder
+for !DETERMINER remainder of
+for !DETERMINER remaining
+for !DETERMINER remaining amount of
+for !DETERMINER rest of
+for !DETERMINER rest of !DETERMINER !TIMEFRAME
+for !DETERMINER restricted amount of time
+for !DETERMINER season
+for !DETERMINER spring
+for !DETERMINER summer
+for !DETERMINER time
+for !DETERMINER time between
+for !DETERMINER while
+for !DETERMINER whole !TIMEFRAME
+for !DETERMINER winter
+for !NUMS1TO100 !TIMEFRAME
+for !NUMS1TO100 !TIMEFRAME in !DETERMINER row
+for !POSSESSIVEPRONOUN !RANKNUMBER birthday
+for !TIMEFRAME
+for !TIMEFRAME !NUMS1TO100
+for !TIMEFRAME in !DETERMINER row
+for almost !NUMS1TO100 !TIMEFRAME
+for any considerable time
+for any length of time
+for any time
+for as along as
+for as long as
+For awhile
+for close to !DETERMINER !TIMEFRAME
+for days and nights
+for days together
+for decades
+for generations
+for generations to come
+for half !DETERMINER round
+for hundreds of !TIMEFRAME
+for hundreds of thousands of !TIMEFRAME
+for hundreds of thousands of years
+for hundreds of years
+for last !TIMEFRAME
+for less than !NUMS1TO100 !TIMEFRAME
+for longueur
+for longueurs
+for many !TIMEFRAME
+for many days
+for more than !DETERMINER !TIMEFRAME
+for more than one !TIMEFRAME
+for several !TIMEFRAME
+for several days
+for some time
+for that !TIMEFRAME
+for thousands of !TIMEFRAME
+for thousands of years
+for weeks running
+forenoon
+forenoons
+fortnight
+fortnights
+forty-!TIMEFRAME
+forty-eight-year
+forty-five-year
+forty-four-year
+forty-hour
+forty-nine-year
+forty-one-year
+forty-seven-year
+forty-six-year
+forty-three-year
+forty-two-year
+forty-year
+four-!TIMEFRAME
+four-!TIMEFRAME college
+four-!TIMEFRAME old
+four-!TIMEFRAME period
+four-!TIMEFRAME periods
+four-!TIMEFRAME undertaking
+four-and-!DETERMINER-half
+four-day
+four-day-old
+four-hour
+four-hour drive
+four-minute
+four-month
+four-term
+four-year
+four-years old
+four straight !TIMEFRAME
+four straight day
+four straight days
+four straight month
+four straight months
+four straight week
+four straight weeks
+fourteen-century
+fourteen-day-old
+fourteen-hour drive
+fourteen-month
+fourteen-year
+fourteen century
+fourteen century's
+fourteenth-century
+fourth-!TIMEFRAME
+fourth-century
+fourth-month
+fourth century
+fourth century's
+fourth straight day
+fourth straight month
+fourth straight week
+freshman-!TIMEFRAME
+freshman-week
+freshman-weeks
+freshman !TIMEFRAME
+freshman week
+freshman weeks
+Friday-night
+Friday, !MONTH
+from !DETERMINER !TIMEFRAME
+from !DETERMINER !TIMEFRAME after
+from !DETERMINER !TIMEFRAME before
+from !DETERMINER cradle to !DETERMINER grave
+FROM !DETERMINER END OF !DETERMINER DAY
+from !DETERMINER long stint
+from !DETERMINER moment
+FROM !DETERMINER ORIGINAL
+from !DETERMINER stint
+from !DETERMINER time
+FROM !DETERMINER TOP
+FROM !DETERMINER WORD GO
+from !MONTH !NUMS1TO100 to !MONTH !NUMS1TO100
+from !NUMS1TO100 !TIMEFRAME to
+from !NUMS1TO100 !TIMEFRAME until
+from !NUMS1TO100 o'clock to !NUMS1TO100 o'clock
+from !NUMS1TO100 to !NUMS1TO100 !TIMEFRAME
+from !NUMS1to100 to !NUMS1to100 days
+from !NUMS1to100 to !NUMS1to100 minutes
+from !NUMS1to100 to !NUMS1to100 months
+from !NUMS1to100 to !NUMS1to100 weeks
+from !NUMS1to100 to !NUMS1to100 years
+FROM !POSSESSIVEPRONOUN ORIGINAL
+from !TIMEFRAME to !TIMEFRAME
+from 1848
+from 1849
+from 1850
+from 1851
+from 1852
+from 1853
+from 1854
+from 1855
+from 1856
+from 1857
+from 1858
+from 1859
+from 1860
+from 1861
+from 1862
+from 1863
+from 1864
+from 1865
+from 1866
+from 1867
+from 1868
+from 1869
+from 1870
+from 1871
+from 1872
+from 1873
+from 1874
+from 1875
+from 1876
+from 1877
+from 1878
+from 1879
+from 1880
+from 1881
+from 1882
+from 1883
+from 1884
+from 1885
+from 1886
+from 1887
+from 1888
+from 1889
+from 1890
+from 1891
+from 1892
+from 1893
+from 1894
+from 1895
+from 1896
+from 1897
+from 1898
+from 1899
+from 1900
+from 1900s
+from 1901
+from 1902
+from 1903
+from 1904
+from 1905
+from 1906
+from 1907
+from 1908
+from 1909
+from 1910
+from 1911
+from 1912
+from 1913
+from 1914
+from 1915
+from 1916
+from 1917
+from 1918
+from 1919
+from 1920
+from 1921
+from 1922
+from 1923
+from 1924
+from 1925
+from 1926
+from 1927
+from 1928
+from 1929
+from 1930
+from 1931
+from 1932
+from 1933
+from 1934
+from 1935
+from 1936
+from 1937
+from 1938
+from 1939
+from 1940
+from 1941
+from 1942
+from 1943
+from 1944
+from 1945
+from 1946
+from 1947
+from 1948
+from 1949
+from 1950
+from 1951
+from 1952
+from 1953
+from 1954
+from 1955
+from 1956
+from 1957
+from 1958
+from 1959
+from 1960
+from 1961
+from 1962
+from 1963
+from 1964
+from 1965
+from 1966
+from 1967
+from 1968
+from 1969
+from 1970
+from 1971
+from 1972
+from 1973
+from 1974
+from 1975
+from 1976
+from 1977
+from 1978
+from 1979
+from 1980
+from 1981
+from 1982
+from 1983
+from 1984
+from 1985
+from 1986
+from 1987
+from 1988
+from 1989
+from 1990
+from 1991
+from 1992
+from 1993
+from 1994
+from 1995
+from 1996
+from 1997
+from 1998
+from 1999
+from 2000
+from 2001
+from 2002
+from 2003
+from 2004
+from 2005
+from birth
+FROM DAWN TO DUSK
+from egg to apples
+from first grade through
+from kindergarten through
+from May to October
+from one !TIMEFRAME to !DETERMINER next
+from preschool through
+from that !TIMEFRAME on
+from that day on
+from that moment on
+from that month on
+FROM THAT POINT FORWARD
+from that point on
+from that second on
+FROM THAT TIME forth
+from that time on
+from that time onward
+from that week on
+full-term
+full-terms
+full term
+full terms
+further into
+further into !DETERMINER !TIMEFRAME
+game season
+game seasons
+gang-days
+gang-week
+gang week
+gap !TIMEFRAME
+gay day
+gestation
+gestational
+gestations
+glacial-period
+glacial period
+glacial periods
+glancingly
+go unexploited
+goes unexploited
+going unexploited
+gone on
+grace period
+grace periods
+gradually
+gradually became
+graveyard shift
+graveyard shifts
+great depression
+greek-week
+greek week
+grew for !DETERMINER time in
+ground-hog day
+ground-hog days
+ground on,
+ground on.
+grow for !DETERMINER time in
+growing for !DETERMINER time in
+growing season
+grows for !DETERMINER time in
+guest night
+guest nights
+habituate
+habituated
+habituates
+habituating
+habituation
+habituations
+had for !DETERMINER long time
+had long dwelled
+had long lived
+had long resided
+had time to
+had to wait !NUMS1TO100 !TIMEFRAME
+half-!TIMEFRAME
+half-centuries
+half-century
+half-hour
+half-minute
+half-term
+half !DETERMINER !TIMEFRAME
+half !DETERMINER century
+half !TIMEFRAME
+half day
+half day's
+half days
+half hitch
+half hitches
+half holiday
+half holidays
+half hour's
+half month's
+half round mark
+half years
+halfbeak
+halfbeaks
+halftime
+halftimes
+hang-fire
+hang fire
+happen over
+happened over
+happening over
+happens over
+happy-hour
+happy hour
+happy hours
+harmonic interval
+harmonic intervals
+harvest month
+has been under way
+has yet to expire
+hasn't expired
+he is !NUMS1TO100
+he kept
+he kept on
+held !DETERMINER note
+held !PRONOUNOBJECTIVE there
+held her there
+held it there
+held me there
+held over for
+held through
+held through !DETERMINER
+held us there
+held you there
+heliacal !TIMEFRAME
+heliacal years
+hell week
+her days
+her entire stint
+her stint
+her streak
+heroic age
+heroic ages
+hiatus
+hiatus of
+hiatus of learning
+hiatuses
+hibernation
+hiccup strike
+hiccup strikes
+high-day
+high-days
+high-noon
+high-season
+high-summer
+high day
+high days
+high noon
+high season
+high summer
+high tide of
+hit !DETERMINER key until
+hoc anno
+hock-day
+hock day
+hold !DETERMINER note
+hold !PRONOUNOBJECTIVE there
+hold her there
+hold it there
+hold me there
+hold over for
+hold us there
+hold you there
+holding !DETERMINER note
+holding !PRONOUNOBJECTIVE there
+holding it there
+holding me there
+holding over for
+holding pattern
+holding patterns
+holding us there
+holding you there
+holdover
+holdovers
+holds !DETERMINER note
+holds !PRONOUNOBJECTIVE there
+holds her there
+holds it there
+holds me there
+holds over for
+holds us there
+holds you there
+holiday-time
+holiday time
+holidaytime
+hols
+horsepower-!TIMEFRAME
+horsepower-years
+hourglass of time
+hourlong
+hours after
+hours before
+hourslong
+hourtime
+hr.
+hrs
+hrs.
+hundred-!TIMEFRAME
+hundred-hour
+hundred-year
+hundred days
+imperceptible duration
+imperceptible durations
+in-flight
+in !DETERMINER !ELEVENTHRUTEENS !TIMEFRAME
+in !DETERMINER !ELEVENTHRUTEENS !TIMEFRAME period
+in !DETERMINER !NUMS1TO100 !TIMEFRAME
+in !DETERMINER !NUMS1TO100 !TIMEFRAME between
+in !DETERMINER !NUMS1TO100 !TIMEFRAME period
+in !DETERMINER !ONEDIGIT !TIMEFRAME
+in !DETERMINER !ONEDIGIT !TIMEFRAME period
+in !DETERMINER !RANKNUMBER !TIMEFRAME
+in !DETERMINER !RANKNUMBER century
+in !DETERMINER !RANKNUMBER grade
+in !DETERMINER !SEASON
+in !DETERMINER !SEASON of
+in !DETERMINER !SEASON of !DETERMINER !TIMEFRAME
+in !DETERMINER !SEASON of last !TIMEFRAME
+in !DETERMINER !TIMEFRAME
+in !DETERMINER !TIMEFRAME after
+in !DETERMINER !TIMEFRAME and !TIMEFRAME after
+in !DETERMINER !TIMEFRAME and !TIMEFRAME before
+in !DETERMINER !TIMEFRAME before
+in !DETERMINER !TIMEFRAME between
+in !DETERMINER !TIMEFRAME following
+in !DETERMINER !TIMEFRAME just before
+in !DETERMINER !TIMEFRAME just prior to
+in !DETERMINER !TIMEFRAME of our Lord
+in !DETERMINER !TIMEFRAME preceding
+in !DETERMINER !TIMEFRAME prior to
+in !DETERMINER !TIMEFRAME since
+in !DETERMINER !TIMEFRAME that followed
+in !DETERMINER !TIMEFRAME when
+in !DETERMINER !TIMEOFDAY
+in !DETERMINER !TWODIGITS !ONEDIGIT !TIMEFRAME
+in !DETERMINER !TWODIGITS !ONEDIGIT !TIMEFRAME period
+in !DETERMINER 1800s
+in !DETERMINER 1810s
+in !DETERMINER 1820s
+in !DETERMINER 1830s
+in !DETERMINER 1840s
+in !DETERMINER 1850s
+in !DETERMINER 1860s
+in !DETERMINER 1870s
+in !DETERMINER 1880s
+in !DETERMINER 1890s
+in !DETERMINER 1900s
+in !DETERMINER 1910s
+in !DETERMINER 1920s
+in !DETERMINER 1930s
+in !DETERMINER 1940s
+in !DETERMINER 1950s
+in !DETERMINER 1960s
+in !DETERMINER 1970s
+in !DETERMINER 1980s
+in !DETERMINER 1990s
+in !DETERMINER age
+in !DETERMINER age of
+in !DETERMINER Christian era
+in !DETERMINER common era
+in !DETERMINER context of
+in !DETERMINER course
+in !DETERMINER course of
+in !DETERMINER course of events
+in !DETERMINER course of preparation
+in !DETERMINER day
+IN !DETERMINER DAYS OF
+in !DETERMINER early
+in !DETERMINER early !TIMEFRAME
+in !DETERMINER early 1800s
+in !DETERMINER early 1810s
+in !DETERMINER early 1820s
+in !DETERMINER early 1830s
+in !DETERMINER early 1840s
+in !DETERMINER early 1850s
+in !DETERMINER early 1860s
+in !DETERMINER early 1870s
+in !DETERMINER early 1880s
+in !DETERMINER early 1890s
+in !DETERMINER early 1900s
+in !DETERMINER early 1910s
+in !DETERMINER early 1920s
+in !DETERMINER early 1930s
+in !DETERMINER early 1940s
+in !DETERMINER early 1950s
+in !DETERMINER early 1960s
+in !DETERMINER early 1970s
+in !DETERMINER early 1980s
+in !DETERMINER early 1990s
+in !DETERMINER eighteenth-century
+in !DETERMINER eighth-century
+in !DETERMINER eleventh-century
+in !DETERMINER era
+in !DETERMINER era of
+in !DETERMINER evening
+in !DETERMINER EVENTUAL
+in !DETERMINER fifteenth-century
+in !DETERMINER fifth-century
+in !DETERMINER first-century
+in !DETERMINER first days of !MONTH
+in !DETERMINER first half of !DETERMINER !RANKNUMBER century
+in !DETERMINER fourteenth-century
+in !DETERMINER fourth-century
+IN !DETERMINER HALCYON DAYS
+in !DETERMINER interim
+in !DETERMINER intervals
+in !DETERMINER intervening time
+in !DETERMINER intervening times
+in !DETERMINER last !NUMS1TO100 !TIMEFRAME
+in !DETERMINER last !TIMEFRAME
+in !DETERMINER last days of !MONTH
+in !DETERMINER last few !TIMEFRAME
+in !DETERMINER last half of !DETERMINER !RANKNUMBER century
+in !DETERMINER last several !TIMEFRAME
+in !DETERMINER late
+in !DETERMINER late !TIMEFRAME
+in !DETERMINER late 1800s
+in !DETERMINER late 1810s
+in !DETERMINER late 1820s
+in !DETERMINER late 1830s
+in !DETERMINER late 1840s
+in !DETERMINER late 1850s
+in !DETERMINER late 1860s
+in !DETERMINER late 1870s
+in !DETERMINER late 1880s
+in !DETERMINER late 1890s
+in !DETERMINER late 1900s
+in !DETERMINER late 1910s
+in !DETERMINER late 1920s
+in !DETERMINER late 1930s
+in !DETERMINER late 1940s
+in !DETERMINER late 1950s
+in !DETERMINER late 1960s
+in !DETERMINER late 1970s
+in !DETERMINER late 1980s
+in !DETERMINER late 1990s
+IN !DETERMINER LITTLE MORE THAN !NUMS1TO100 !TIMEFRAME
+in !DETERMINER meantime
+in !DETERMINER mid
+in !DETERMINER middle of !DETERMINER !TIMEFRAME
+in !DETERMINER middle of !MONTH
+in !DETERMINER midst of !DETERMINER !TIMEFRAME
+in !DETERMINER minute
+in !DETERMINER month
+in !DETERMINER night
+in !DETERMINER nineteenth-century
+in !DETERMINER ninth-century
+in !DETERMINER past !TIMEFRAME
+in !DETERMINER past couple !TIMEFRAME
+in !DETERMINER past couple of !TIMEFRAME
+in !DETERMINER past few !TIMEFRAME
+in !DETERMINER period
+IN !DETERMINER PREHISTORIC
+in !DETERMINER previous !TIMEFRAME
+in !DETERMINER primary grades
+IN !DETERMINER PRIMEVAL
+IN !DETERMINER PROXIMATE TIME FRAME
+in !DETERMINER remaining
+in !DETERMINER remaining !TIMEFRAME
+in !DETERMINER same !TIMEFRAME
+in !DETERMINER second-century
+in !DETERMINER seventeenth-century
+in !DETERMINER seventh-century
+in !DETERMINER single time
+in !DETERMINER sixteenth-century
+in !DETERMINER sixth-century
+in !DETERMINER space of !DETERMINER !TIMEFRAME
+in !DETERMINER span
+in !DETERMINER span of
+in !DETERMINER summer
+in !DETERMINER tenth-century
+in !DETERMINER third-century
+in !DETERMINER thirteenth-century
+in !DETERMINER time
+in !DETERMINER time left
+in !DETERMINER time of
+in !DETERMINER time remaining
+IN !DETERMINER TIME WHEN
+in !DETERMINER times of
+in !DETERMINER twelfth-century
+in !DETERMINER twentieth-century
+in !DETERMINER week
+in !DETERMINER years between
+in !DETERMINER years that followed
+in !NUMS1TO100 !TIMEFRAME
+in !NUMS1TO100 !TIMEOFDAY
+in !TIMEFRAME
+IN !TIMEFRAME !NUMS1TO100
+IN a LITTLE LESS THAN !NUMS1TO100 !TIMEFRAME
+in abeyance
+in adolescence
+in adulthood
+in ages
+IN ALMOST !NUMS1TO100 !TIMEFRAME
+in autumn
+in between appointments
+in between class
+in between classes
+in between meetings
+in college
+in commendam
+in course
+in course of
+in courses of
+in day-time
+in days
+in durance
+in early !MONTH
+in elementary school
+in grade school
+in grammar school
+in half !DETERMINER !TIMEFRAME
+in high school
+in its !RANKNUMBER !TIMEFRAME
+in its entirety
+in just !DETERMINER last !TIMEFRAME
+in just !DETERMINER last few !TIMEFRAME
+in late !MONTH
+in less than !DETERMINER !TIMEFRAME
+in less than !NUMS1TO100 !TIMEFRAME
+in man
+in mankind
+in many !DETERMINER !TIMEFRAME
+in many !TIMEFRAME
+in middle school
+in minutes
+in moments of
+in months
+in office
+in one !TIMEFRAME
+in one century
+in one day
+in one decade
+in one minute
+in one week
+in our distant past
+in our fairly recent past
+in our past
+in our recent past
+in our spare time
+in our time
+in proper seasons
+in proper times
+in puberty
+in remission
+in season
+in spring
+in summer
+in suspension
+in that !TIMEFRAME
+in that period
+in that time period
+in the next couple of days
+in the next couple of months
+in the next couple of weeks
+IN TIME WHEN
+IN TIME,
+in times
+in times of
+in winter
+in years
+inauguration day
+inauguration days
+incubation
+incubation period
+incubation periods
+incubations
+independence-day
+independence day
+indian-summer
+indian-summers
+indian summer
+indian summers
+infection period
+infection periods
+inflationist period
+inflationist periods
+inflection point
+inflection points
+injury time
+injury times
+inning
+innings
+inside of !DETERMINER !TIMEFRAME
+inside of !NUMS1TO100
+inside of !NUMS1TO100 !TIMEFRAME
+instar
+instars
+intercession
+intercessional
+intercessions
+intercurrence
+intercurrent
+intercurrently
+intercurrents
+interglacial
+interglacials
+interim
+interims
+interlude
+interludes
+interlunar
+interlunars
+interlunation
+interlunations
+interphase
+interphases
+interregna
+interregnal
+interregnum
+interregnums
+interstadial
+intertidal
+intertidally
+intertidals
+interval
+interval of
+intervals
+intervals of
+intervening !TIMEFRAME
+into !DAY
+into !DETERMINER late !TIMEFRAME
+into !DETERMINER wee !TIMEFRAME
+into !TIMEOFDAY
+into tommorrow
+into tomorrow
+iron age
+is finished in
+it's !DETERMINER last !NUMS1TO100 !TIMEFRAME
+it's getting close to !POSSESSIVEPRONOUN
+it had taken !DETERMINER !TIMEFRAME
+it had taken less than !DETERMINER !TIMEFRAME
+it had taken more than !DETERMINER !TIMEFRAME
+it had taken over !DETERMINER !TIMEFRAME
+it has taken !DETERMINER !TIMEFRAME
+it has taken less than !DETERMINER !TIMEFRAME
+it has taken more than !DETERMINER !TIMEFRAME
+it has taken over !DETERMINER !TIMEFRAME
+it kept
+it kept on
+it took !DETERMINER !TIMEFRAME
+it took !NUMS1TO100 !TIMEFRAME
+it took less than !DETERMINER !TIMEFRAME
+it took more than !DETERMINER !TIMEFRAME
+it took over !DETERMINER !TIMEFRAME
+it was not until
+it wasn't until
+its !RANKNUMBER !TIMEFRAME
+its entirety
+jackson day
+jackson days
+january's
+july's
+june's
+junior-!TIMEFRAME
+junior !TIMEFRAME
+juridical days
+just !TIMEFRAME from
+just !TIMEFRAME from !DETERMINER time
+just !TIMEFRAME from !DETERMINER time when
+just after !TIMEOFDAY
+just as !PRONOUNNOMINAL
+just as !PRONOUNNOMINAL !AUX
+just before !TIMEOFDAY
+just keeps
+just kept it
+just kept things
+kalpa
+kalpas
+kamehameha day
+keep at
+keep it
+keep it that way
+keep some
+keep standing
+keep waiting until
+keeping it
+keeping it that way
+keeps it
+keeps it that way
+kept it for
+kept it that way for
+laid over in
+land tenure of
+land tenures of
+languishing in
+larboard watch
+larboard watches
+last !DETERMINER
+last !DETERMINER entire
+last !DETERMINER whole
+last !TIMEFRAME
+last as long
+last dying !TIMEFRAME
+last dying day
+last dying days
+last for
+last from !DETERMINER
+last from!NUMS1TO100 to !NUMS1TO100 !TIMEFRAME
+last one day
+lasted
+lasted !DETERMINER
+lasted !DETERMINER entire
+lasted !DETERMINER whole
+lasted as long
+lasted for
+lasted from !DETERMINER
+lasted from!NUMS1TO100 to !NUMS1TO100 !TIMEFRAME
+lasted one day
+lasting
+lasting !DETERMINER
+lasting !DETERMINER entire
+lasting !DETERMINER whole
+lasting as long
+lasting for
+lasting from !DETERMINER
+lasting from!NUMS1TO100 to !NUMS1TO100 !TIMEFRAME
+lasting one day
+lasts
+lasts !DETERMINER
+lasts !DETERMINER entire
+lasts !DETERMINER whole
+lasts as long
+lasts for
+lasts from !DETERMINER
+lasts from!NUMS1TO100 to !NUMS1TO100 !TIMEFRAME
+lasts one days
+late-afternoon
+late-evening
+late-morning
+late-night
+late afternoon
+late evening
+late in !DETERMINER !TIMEFRAME
+late in !DETERMINER day
+late morning
+law term
+law terms
+lay day
+lay days
+lay over in
+laying over in
+layover
+layovers
+lays over in
+lead time
+lead times
+leap !TIMEFRAME
+leap day
+leap days
+leap years
+lee's birthday
+leisure !TIMEFRAME
+length of time
+lengthened calm
+less than !NUMS1TO100 !TIMEFRAME
+letup during
+letup in
+letups during
+letups in
+lifting-day
+lifting day
+light-!TIMEFRAME
+light-years
+lighting-up time
+lincoln's birthday
+lived entirely
+lived for !DETERMINER time in
+lobster shift
+lobster shifts
+locked up for
+lodging turn
+lodging turns
+log !NUMS1TO100 !TIMEFRAME
+logged !NUMS1TO100 !TIMEFRAME
+logging !NUMS1TO100 !TIMEFRAME
+logs !NUMS1TO100 !TIMEFRAME
+long-burning
+long-range
+long-running
+long burning
+long calm
+long calms
+long discussion
+long discussions
+long drifting
+long enough to
+long interval
+long intervals
+long run
+long running
+long runs
+long spells of
+long time period
+long tract
+longrunning
+longtime
+longtimes
+lt-yr
+lt-yrs
+lull in
+lulls in
+lumen-month
+lunar-month
+lunar !TIMEFRAME
+lunar day
+lunar days
+lunar month
+lunar months
+lunar years
+lunation of
+lunations of
+lunch !TIMEFRAME
+lunch break
+lunch breaks
+lunch time
+lunch times
+lunchtime
+lunitidal interval
+lunitidal intervals
+lyke-wake
+lykewake
+maintain
+maintain !DETERMINER
+maintain !DETERMINER heading
+maintain !DETERMINER household
+maintain !POSSESSIVEPRONOUN
+maintain !PRONOUNOBJECTIVE
+maintain clearance
+maintain connection
+maintain connections
+maintain continuities
+maintain continuity
+maintain distances
+maintain position
+maintained !DETERMINER heading
+maintained !DETERMINER household
+maintained alongside
+maintained at
+maintained clearance
+maintained connection
+maintained connections
+maintained continuities
+maintained continuity
+maintained distances
+maintained for
+maintained from
+maintained herself
+maintained himelf
+maintained in
+maintained it
+maintained myself
+maintained on
+maintained ourselves
+maintained over
+maintained position
+maintained themselves
+maintained with
+maintained yourself
+maintaining
+maintaining !DETERMINER
+maintaining !POSSESSIVEPRONOUN
+maintaining !PRONOUNOBJECTIVE
+maintains
+maintains !DETERMINER
+maintains !DETERMINER heading
+maintains !DETERMINER household
+maintains !POSSESSIVEPRONOUN
+maintains !PRONOUNOBJECTIVE
+maintains clearance
+maintains connection
+maintains connections
+maintains continuities
+maintains continuity
+maintains distances
+maintains position
+maintenance of
+maintenance of membership
+major interval
+major intervals
+major second
+major seconds
+major seventh chord
+major seventh chords
+major sixth
+major third
+major thirds
+major triad
+major triads
+making-up day
+man-!TIMEFRAME
+man-day
+man-days
+man-years
+manhood
+many !TIMEFRAME
+MANY AT !DETERMINER TIME
+marathon
+marathons
+march's
+mardi gras
+matin
+matinee
+matinees
+matins
+may's
+may-morn
+may-morns
+mean while
+mending-time
+mending time
+menstrual epact
+menstrual epacts
+metal age
+michaelmas
+microsecond
+microseconds
+mild streak of
+mild streaks of
+mild stroke of
+mild strokes of
+milking period.
+milking periods
+millennia
+millennium
+millenniums
+millisecond
+milliseconds
+min
+minor second
+minor seconds
+mins
+minute's
+minute-long
+minute of
+minutes after
+minutes before
+minutes in
+minutes of
+minutes on
+moment of
+momentary
+moments after
+moments before
+moments between
+moments of
+Monday-night
+Monday, !MONTH
+month's
+month's close
+month's mind
+month-long
+month-old
+month in
+month long
+month of !MONTH
+month of Sundays
+month out
+month straight
+monthlong
+months after
+months before
+months in
+months long
+months of !MONTH
+months on
+months on end
+months straight
+more than !DETERMINER !TIMEFRAME
+more than !NUMS1TO100 !TIMEFRAME
+morn
+morn's
+morning-devotion
+morning-time
+morning devotion
+morning devotions
+morning time
+morning times
+morningtime
+morns
+most of !DAY
+most of !DETERMINER !TIMEFRAME
+most of !DETERMINER p.m.
+most of !MONTH
+most of a.m.
+mother's day
+move !DETERMINER cursor until
+much of !DAY
+much of !DETERMINER !TIMEFRAME
+much of !MONTH
+much of the a.m.
+much of the p.m.
+muck-up day
+muck-up days
+multi-!TIMEFRAME
+multiyear
+mumping day
+mumping days
+my entire !DAY
+my entire !MONTH
+my entire !TIMEFRAME
+name-day
+name-days
+name day
+name days
+nanosecond
+nanoseconds
+natal day
+natal days
+nautical day
+nautical days
+nazi-era
+NEAR TO !DETERMINER AGREEMENT
+near to !POSSESSIVEPRONOUN departure
+near to lift off
+nearly !DETERMINER !TIMEFRAME
+nearly half !DETERMINER century
+needle-time
+needle time
+new year's day
+new year's eve
+night-fall
+night off
+night time
+night to day
+nightfall
+nightlong
+nighttime
+nine-!TIMEFRAME
+nine-!TIMEFRAME old
+nine-!TIMEFRAME period
+nine-!TIMEFRAME periods
+nine-!TIMEFRAME undertaking
+nine-and-a-half hour
+nine-day
+nine-day-old
+nine-hour
+nine-hour drive
+nine-month
+nine-year
+nine-years old
+nine days' wonder
+nine straight !TIMEFRAME
+nine straight day
+nine straight days
+nine straight month
+nine straight months
+nine straight week
+nine straight weeks
+nineteen-century
+nineteen-day-old
+nineteen-hour drive
+nineteen-year
+nineteen century
+nineteen century's
+nineteenth-century
+nineteenth-month
+ninety-eight-year
+ninety-five-year
+ninety-four-year
+ninety-hour
+ninety-nine-year
+ninety-one-year
+ninety-seven-year
+ninety-six-year
+ninety-three-year
+ninety-two-year
+ninety-year
+ninth-!TIMEFRAME
+ninth-century
+ninth-month
+ninth !TIMEFRAME
+ninth century's
+ninth straight day
+ninth straight month
+ninth straight week
+nodical !TIMEFRAME
+nodical month
+nodical months
+nones
+noon
+noonday
+noontime
+NOT UNTIL
+NOT UNTIL !DETERMINER
+NOT UNTIL !DETERMINER !TIMEOFDAY
+NOT UNTIL !DETERMINER !TIMEOFDAY THAT
+NOT UNTIL !DETERMINER !TIMEOFDAY WHEN
+NOT UNTIL !DETERMINER EARLY !TIMEOFDAY
+NOT UNTIL !DETERMINER EARLY !TIMEOFDAY THAT
+NOT UNTIL !DETERMINER EARLY !TIMEOFDAY WHEN
+NOT UNTIL !DETERMINER LATE !TIMEOFDAY
+NOT UNTIL !DETERMINER LATE !TIMEOFDAY THAT
+NOT UNTIL !DETERMINER LATE !TIMEOFDAY WHEN
+not yet expire
+not yet expired
+not yet expires
+not yet expiring
+november's
+now through !MONTH
+occupied !PRONOUNOBJECTIVE for !DETERMINER !TIMEFRAME
+occur during
+occurred during
+occurring during
+occurs during
+october's
+oestral
+oestrous
+oestrous cycle
+oestrous cycles
+oestrus
+of-
+of !DETERMINER !TIMEFRAME
+of !DETERMINER day
+of !DETERMINER decade
+of !DETERMINER last few !TIMEFRAME
+of !DETERMINER month
+of !DETERMINER period
+of !DETERMINER week
+of !NUMS1TO100 !TIMEFRAME
+of !NUMS1TO100 years
+of !POSSESSIVEPRONOUN !TIMEFRAME
+of minutes
+office-week
+office !TIMEFRAME
+on-going
+on !DETERMINER single time
+on an average day
+On Easter Sunday
+on end
+on germination
+on hiatus
+on hold
+on one day
+on one night
+on president's day
+on watch
+one-!TIMEFRAME
+one-!TIMEFRAME old
+one-!TIMEFRAME period
+one-!TIMEFRAME undertaking
+one-and-a-half !TIMEFRAME
+one-day
+one-day-old
+one-hour
+one-hundred-and-eight-year
+one-hundred-and-five-year
+one-hundred-and-four-year
+one-hundred-and-nine-year
+one-hundred-and-one-year
+one-hundred-and-seven-year
+one-hundred-and-six-year
+one-hundred-and-ten-year
+one-hundred-and-three-year
+one-hundred-and-two-year
+one-month
+one-week
+one-year
+one !TIMEFRAME
+one !TIMEFRAME AFTERWARDS
+one !TIMEFRAME BEFORE
+one !TIMEFRAME EARLIER
+one !TIMEFRAME in
+one !TIMEFRAME LATER
+one autumn
+one fall
+one spring
+one summer
+one winter
+ongoing
+open day
+open days
+open time
+open times
+open week
+open weeks
+opera-season
+opera-seasons
+opera season
+opera seasons
+our streak
+out all day
+out all night
+over !DETERMINER !TIMEFRAME
+over !DETERMINER !TIMEOFDAY
+over !DETERMINER break
+over !DETERMINER course of events
+over !DETERMINER course of many !TIMEFRAME
+over !DETERMINER fall
+over !DETERMINER holiday
+over !DETERMINER holidays
+over !DETERMINER last !NUMS1TO100 !TIMEFRAME
+over !DETERMINER last few !TIMEFRAME
+over !DETERMINER last several !TIMEFRAME
+over !DETERMINER long haul
+over !DETERMINER long holiday
+over !DETERMINER next
+over !DETERMINER next !NUMS1TO100 !TIMEFRAME
+over !DETERMINER next !TIMEFRAME
+over !DETERMINER next few !TIMEFRAME
+over !DETERMINER next several !TIMEFRAME
+over !DETERMINER past
+over !DETERMINER past !TIMEFRAME
+over !DETERMINER past few !TIMEFRAME
+over !DETERMINER past several
+over !DETERMINER past several !TIMEFRAME
+over !DETERMINER short haul
+over !DETERMINER spring
+over !DETERMINER summer
+over !DETERMINER winter
+over !MONTH
+over !NUMS1TO100 !TIMEFRAME
+over !TIMEFRAME
+over 10-odd !TIMEFRAME
+over 100-odd !TIMEFRAME
+over 15-odd !TIMEFRAME
+over 20-odd !TIMEFRAME
+over 25-odd !TIMEFRAME
+over 30-odd !TIMEFRAME
+over 35-odd !TIMEFRAME
+over 40-odd !TIMEFRAME
+over 45-odd !TIMEFRAME
+over 50-odd !TIMEFRAME
+over 55-odd !TIMEFRAME
+over 60-odd !TIMEFRAME
+over 65-odd !TIMEFRAME
+over 70-odd !TIMEFRAME
+over 75-odd !TIMEFRAME
+over 80-odd !TIMEFRAME
+over 85-odd !TIMEFRAME
+over 90-odd !TIMEFRAME
+over 95-odd !TIMEFRAME
+over breakfast
+over dinner
+over lunch
+over such !DETERMINER !TIMEFRAME
+over supper
+over these !TIMEFRAME
+overnight
+overnighter
+overnighters
+overnights
+overwinter
+overwintered
+overwintering
+overwinters
+packet-day
+packet-days
+packet day
+packet days
+pan-american day
+pan american day
+parade-rest
+parade rest
+parallel-intervals
+parallel intervals
+parenthood
+part of !DAY
+parts of !POSSESSIVEPRONOUN day
+parts of !POSSESSIVEPRONOUN days
+pass time on
+passes time on
+passing !TIMEFRAME
+passing day
+passing days
+passing moment
+passing moments
+passing month
+passing months
+passing time on
+passing week
+passing weeks
+passing years
+passion sunday
+passion sundays
+passion week
+passion weeks
+patriots' day
+pause
+paused during
+paused for
+paused for station identification
+paused while
+pauses
+pauses for station identification
+pausing
+pausing for station identification
+pax in bello
+payday
+peace-lulled
+peacetime
+pend
+pended
+pending
+pends
+perdurability
+perdurable
+perdurables
+perdurably
+perdure
+perdured
+perdures
+perduring
+perennate
+perennated
+perennates
+perennating
+perennation
+perennations
+perinatal
+perinatals
+period between
+period of
+period of duty
+period of existence
+period of pax
+period of revolution
+period of studies
+period of study
+periods between
+persist
+persist at
+persist for
+persisted
+persisted at
+persisted for
+persisted in doing
+persisted in doing it
+persisted in doing that
+persistence of
+persistence of vision
+persistent lactation
+persistent lactations
+persisting
+persisting at
+persisting for
+persists
+persists at
+persists for
+phallic stage
+phallic stages
+pioneer day
+pip emma
+planting !TIMEFRAME
+play-day
+play out
+played out
+playing out
+plays out
+playtime
+plough-Monday
+policy !TIMEFRAME
+policy years
+portal-to-portal
+portal-to-portal pay
+portal-to-portal pays
+portal-to-portals
+post-war period
+post-war periods
+post war period
+post war periods
+pow-wowing-weather
+pow-wowing weather
+predawn
+prehistorically
+prehistory
+preparation time
+presentation time
+presentation times
+President's day
+press time
+press times
+prime !TIMEFRAME
+prime of !DETERMINER !TIMEFRAME
+prime of !DETERMINER morning
+primitive times
+principate period
+principate periods
+prison term
+prison terms
+pub-time
+pub-times
+pub time
+pub times
+pubescence
+pubescent
+pudding-time
+pudding-times
+pudding time
+pudding times
+puerperia
+puerperium
+pulvering-day
+pulvering day
+quadrennia
+quadrennium
+quarter-century
+quarter-minute
+quarter-month
+quarter !TIMEFRAME
+quarter of !DETERMINER !TIMEFRAME
+quarter of !DETERMINER century
+quarter rest
+quarter rests
+quater-centenary
+quatercentenaries
+quatercentenary
+quattrocento
+quaver rest
+quaver rests
+queen's birthday
+queen's birthdays
+question period
+question periods
+question time
+question times
+quincentenaries
+quincentenary
+quindecennial
+quindecennials
+quinquennia
+quinquennial
+quinquennials
+quinquennium
+quintuple time
+quintuple times
+race week
+race weeks
+raith
+raiths
+reach its season
+reached its season
+reaches its season
+reaching its season
+reaction time
+reaction times
+regnal
+regnal !TIMEFRAME
+regnal years
+regnals
+remain
+remain anonymous
+remain at !DETERMINER distance
+remain at peace
+remain firm
+remain in !DETERMINER shade
+remain in your memory
+remain incommunicado
+remain motionless
+remain neutral
+remain on your hands
+remain seated
+remain stable
+remain unexploited
+remain unfilled
+remain unmoved
+remain valid
+remained
+remained anonymous
+remained at !DETERMINER distance
+remained at peace
+remained firm
+remained in !DETERMINER shade
+remained in your memory
+remained incommunicado
+remained motionless
+remained neutral
+remained on your hands
+remained seated
+remained stable
+remained unexploited
+remained unfilled
+remained unmoved
+remained valid
+remaining
+remaining !MOTIONPREP
+remaining anonymous
+remaining at !DETERMINER distance
+remaining at peace
+remaining firm
+remaining in !DETERMINER shade
+remaining in your memory
+remaining incommunicado
+remaining motionless
+remaining neutral
+remaining on your hands
+remaining seated
+remaining stable
+remaining unexploited
+remaining unfilled
+remaining unmoved
+remaining valid
+remembrance day
+residually
+rest break
+rest breaks
+rest day
+rest days
+rest for
+rest of !DETERMINER !TIMEFRAME
+rest period
+rest periods
+rested for
+resting for
+rests for
+return-day
+return-days
+return day
+return days
+reverberation-time
+reverberation-times
+reverberation time
+reverberation times
+right in !DETERMINER middle of !DETERMINER !TIMEFRAME
+roaring forties
+roaring twenties
+rogation day
+rogation days
+roll on for
+roll on.
+rolled on for
+rolled on.
+rolling on for
+rolling on.
+rolls on for
+rolls on.
+rood-day
+rood-days
+rood day
+rood days
+run of
+run of events
+runs of
+runtime
+runtimes
+rush-hour
+rush !TIMEFRAME
+sabbath
+sabbath's
+sabbath-day
+sabbath-days
+sabbaths
+sabbaths'
+sabbatical
+sabbatical-!TIMEFRAME
+sabbatical !TIMEFRAME
+sabbatical leave
+sabbatical leaves
+sable-vested night
+sable-vested nights
+sack-time
+sack-times
+sack time
+sack times
+sailing day
+sailing days
+saint's day
+saint agnes's eve
+saint valentine's day
+sandwiched between appointments
+sandwiched between classes
+sandwiched between meetings
+Sarladaise
+saros
+sat on it for !DETERMINER while
+sat through
+Saturday-night
+Saturday, !MONTH
+saw !DETERMINER book through !DETERMINER press
+saw it out
+saw it through !DETERMINER press
+saw through !DETERMINER press
+school-terms
+school-vacation
+school !TIMEFRAME
+school day
+school day's
+school days
+school term
+school vacation
+schooldays
+sea day
+sea days
+sea term
+sea terms
+season's
+season of !DETERMINER !TIMEFRAME
+seasons'
+seasons of !DETERMINER !TIMEFRAME
+second's
+second-!TIMEFRAME
+second-century
+second !TIMEFRAME
+second century's
+second straight day
+second straight month
+second straight week
+seconds between
+see !DETERMINER book through !DETERMINER press
+see it out
+see it through !DETERMINER press
+see through !DETERMINER press
+seed-time
+seed !TIMEFRAME
+seed month
+seed months
+seed season
+seed seasons
+seed time
+seed times
+seedtime
+seedtimes
+seeing !DETERMINER book !DETERMINER press
+seeing it !DETERMINER press
+seeing it out
+seeing through !DETERMINER press
+sees !DETERMINER book through !DETERMINER press
+sees it out
+sees it through !DETERMINER press
+sees through !DETERMINER press
+semana hispana
+semipermanent
+senior-!TIMEFRAME
+senior !TIMEFRAME
+sennight
+sennights
+september's
+septennium
+septuple-time
+septuple time
+sequence of
+sermon-time
+sermon-week
+sermon time
+sermon week
+sermon while
+sermon whiles
+serrana hispana
+serve !DETERMINER hitch
+served !DETERMINER hitch
+served !DETERMINER stint
+serves !DETERMINER hitch
+serving !DETERMINER hitch
+session for
+session with
+sessions for
+sessions with
+setting day
+setting days
+seven-!TIMEFRAME
+seven-!TIMEFRAME old
+seven-!TIMEFRAME period
+seven-!TIMEFRAME periods
+seven-!TIMEFRAME undertaking
+seven-and-a-half !TIMEFRAME
+seven-day
+seven-day-old
+seven-hour
+seven-hour drive
+seven-month
+seven-year
+seven-years old
+seven !TIMEFRAME
+seven straight !TIMEFRAME
+seven straight day
+seven straight days
+seven straight month
+seven straight months
+seven straight week
+seven straight weeks
+seventeen-!TIMEFRAME
+seventeen-!TIMEFRAME locust
+seventeen-day-old
+seventeen-hour drive
+seventeen-year
+seventeenth-century
+seventeenth-month
+seventh-!TIMEFRAME
+seventh-century
+seventh-day
+seventh !TIMEFRAME
+seventh century's
+seventh day
+seventh straight day
+seventh straight month
+seventh straight week
+seventhy-hour
+seventy-!TIMEFRAME
+seventy-eight-year
+seventy-five-year
+seventy-four-year
+seventy-nine-year
+seventy-one-year
+seventy-seven-year
+seventy-six-year
+seventy-three-year
+seventy-two-year
+seventy-year
+several-months
+several !TIMEFRAME
+several days
+several months
+several weeks
+sexcentenaries
+sexcentenary
+sexennial
+sexennials
+sext
+sexts
+shade-enduring
+shank of !DETERMINER afternoon
+shank of !DETERMINER evening
+shavouth
+she is !NUMS1TO100
+she kept
+she kept on
+sheepshearing season
+sheepshearing seasons
+ship time
+shire day
+shire days
+shiva
+shivah
+shivas
+shive
+shives
+shop-shift
+shop-shifts
+shore leave
+shore leaves
+shore liberties
+shore liberty
+short interval
+short intervals
+short run
+short runs
+short spells of
+short tract
+shrove-tide
+shrove monday
+shrove mondays
+shrove sunday
+shrove sundays
+shrove tide
+shrove tuesday
+shrove tuesdays
+shroving-time
+shroving-times
+shroving day
+shroving time
+shroving times
+shroving week
+shut of day
+shuteye
+sidereal !TIMEFRAME
+sidereal day
+sidereal days
+sidereal minute
+sidereal minutes
+sidereal month
+sidereal months
+sidereal second
+sidereal seconds
+sidereal years
+silver age
+silver ages
+since !DAY last
+since !DETERMINER !RANKNUMBER century
+since !DETERMINER !VERBING
+since !DETERMINER beginning of
+since !DETERMINER early
+since !DETERMINER early days
+since !DETERMINER early part of
+since !DETERMINER end of
+since !DETERMINER last
+since !DETERMINER last !DAY
+since !DETERMINER last !MONTH
+since !DETERMINER last !TIMEFRAME
+since !DETERMINER late
+since !DETERMINER later part of
+since !DETERMINER mid-1910's
+since !DETERMINER mid-1920's
+since !DETERMINER mid-1930's
+since !DETERMINER mid-1940's
+since !DETERMINER mid-1950's
+since !DETERMINER mid-1960's
+since !DETERMINER mid-1970's
+since !DETERMINER mid-1980's
+since !DETERMINER mid-1990's
+since !MONTH
+since !MONTH !NUMS1TO100
+since !MONTH !RANKNUMBER
+since !MONTH last
+since !POSSESSIVEPRONOUN odyssey
+since !RANKNUMBER grade
+since !TIMEFRAME last
+since !VERBING
+since 9-11
+since 9-11-01
+since ancient
+since ancient times
+since becoming
+since just last !TIMEFRAME
+since last !TIMEFRAME
+since middle school
+since prehistoric
+since September 11
+since that time
+since then
+since which
+sine !DETERMINER 1990's
+single-season
+single season
+sit on it for !DETERMINER while
+sit through
+sits on it for !DETERMINER while
+sits through
+sitting-day
+sitting-days
+sitting day
+sitting days
+sitting on it for !DETERMINER while
+sittng through
+six-!TIMEFRAME
+six-!TIMEFRAME old
+six-!TIMEFRAME period
+six-!TIMEFRAME periods
+six-!TIMEFRAME undertaking
+six-and-and-half !TIMEFRAME
+six-day
+six-day-old
+six-hour
+six-hour drive
+six-minute
+six-month
+six-oclock
+six-term
+six-week
+six-year
+six-years old
+six straight !TIMEFRAME
+six straight day
+six straight days
+six straight month
+six straight months
+six straight week
+six straight weeks
+sixteen-century
+sixteen-day-old
+sixteen-hour drive
+sixteen-month
+sixteen-year
+sixteen century
+sixteen century's
+sixteenth-century
+sixth-!TIMEFRAME
+sixth-century
+sixth century
+sixth century's
+sixth straight day
+sixth straight month
+sixth straight week
+sixty-eight-year
+sixty-five-year
+sixty-four-year
+sixty-hour
+sixty-nine-year
+sixty-one-year
+sixty-second soundbite
+sixty-seven-year
+sixty-six-year
+sixty-three-year
+sixty-two-year
+sixty-year
+sleep-at-noon
+smokeho
+smokehos
+smoko
+smokos
+snack break
+snapping-time
+snapping-times
+snapping time
+snapping times
+social season
+social seasons
+solar-!TIMEFRAME
+solar-time
+solar-times
+solar-years
+solar !TIMEFRAME
+solar day
+solar days
+solar month
+solar months
+solar time
+solar times
+solar years
+some !TIMEFRAME
+some days
+some minutes
+some moments
+some months
+some occasion
+some of !MONTH
+some weeks
+sophomore-!TIMEFRAME
+sophomore !TIMEFRAME
+souvenir day
+souvenir days
+space out over
+spaced out over
+spaced within
+spaces out over
+spacing out over
+spacing within
+speak at length
+speaking at length
+speaks at length
+speech day
+speech days
+spell of rain
+spell of work
+spells of rain
+spells of work
+spend !DETERMINER !TIMEFRAME
+spend !DETERMINER !TIMEFRAME and !DETERMINER half
+spend !DETERMINER hitch in
+spend !TIMEFRAME
+spend days
+spending !DETERMINER !TIMEFRAME
+spending !DETERMINER !TIMEFRAME and !DETERMINER half
+spending !DETERMINER hitch in
+spending !TIMEFRAME
+spending days
+spends !DETERMINER !TIMEFRAME
+spends !DETERMINER !TIMEFRAME and !DETERMINER half
+spends !DETERMINER hitch in
+spends !TIMEFRAME
+spends days
+spent !DETERMINER !TIMEFRAME
+spent !DETERMINER !TIMEFRAME and !DETERMINER half
+spent !DETERMINER hitch in
+spent !TIMEFRAME
+spent days
+spoke at length
+sports day
+spread out for !NUMS1TO100 !TIMEFRAME
+spread out over !NUMS1TO100 !TIMEFRAME
+spring-time
+spring !TIMEOFDAY
+spring break
+spring quarter
+spring quarters
+spring time
+squaw-winter
+squaw-winters
+squaw winter
+squaw winters
+st. tib's eve
+stable period
+stable periods
+stage wait
+stage waits
+stand and wait
+stand by for !DETERMINER
+stand by for !TIMEFRAME
+stand for !TIMEFRAME
+standing and waiting
+standing by for !DETERMINER
+standing by for !TIMEFRAME
+standing for !TIMEFRAME
+stands and waits
+stands by for !DETERMINER
+stands by for !TIMEFRAME
+stands for !TIMEFRAME
+Stars are out
+start within
+started within
+starting within
+starts within
+station-break
+station-breaks
+station-day
+station-days
+station break
+station breaks
+station day
+station days
+stay
+stay-!DETERMINER-while
+stay-in
+stay-over
+stay !DETERMINER
+stay alive
+stay all
+stay all !TIMEFRAME
+stay all !TIMEOFDAY
+stay and maintain
+stay employed
+stay for
+stay for !DETERMINER !TIMEFRAME
+stay for !TIMEFRAME
+stay for winter
+stay here for
+stay of
+stay of execution
+stay on
+stay on !DETERMINER treadmill
+stay on your heels
+stay on your tail
+stay out
+stay over
+stay there for
+stay through
+stay up
+stay up into !DETERMINER small !TIMEFRAME
+stay up into !DETERMINER wee !TIMEFRAME
+stay up on
+stay with
+stayed alive
+stayed all
+stayed all !TIMEFRAME
+stayed all !TIMEOFDAY
+stayed during
+stayed employed
+stayed for
+stayed for !DETERMINER !TIMEFRAME
+stayed for !TIMEFRAME
+stayed for winter
+stayed here for
+stayed on
+stayed on !DETERMINER treadmill
+stayed on your heels
+stayed on your tail
+stayed out
+stayed over
+stayed there for
+stayed through
+stayed up
+stayed up into !DETERMINER small !TIMEFRAME
+stayed up into !DETERMINER wee !TIMEFRAME
+stayed up on
+stayed while
+stayed with
+staying
+staying alive
+staying all
+staying all !TIMEFRAME
+staying all !TIMEOFDAY
+staying employed
+staying for
+staying for !DETERMINER !TIMEFRAME
+staying for !TIMEFRAME
+staying for winter
+staying here for
+staying on
+staying on !DETERMINER treadmill
+staying on your heels
+staying on your tail
+staying out
+staying over
+staying there for
+staying through
+staying up
+staying up into !DETERMINER small !TIMEFRAME
+staying up into !DETERMINER wee !TIMEFRAME
+staying up on
+staying with
+staying with it
+stays
+stays alive
+stays all
+stays all !TIMEFRAME
+stays all !TIMEOFDAY
+stays employed
+stays for
+stays for !DETERMINER !TIMEFRAME
+stays for !TIMEFRAME
+stays for winter
+stays here for
+stays of
+stays of execution
+stays on
+stays on !DETERMINER treadmill
+stays on your heels
+stays on your tail
+stays out
+stays over
+stays there for
+stays through
+stays up
+stays up into !DETERMINER small !TIMEFRAME
+stays up into !DETERMINER wee !TIMEFRAME
+stays up on
+stays with
+step of time
+steps of time
+still !AUX
+still !DETERMINER residual
+still !DETERMINER residual from
+still !DETERMINER residuals from
+still comes
+still does
+still dozing
+still goes
+still is
+still not expire
+still not expired
+still not expires
+still not expiring
+still sleeping
+still travels
+stint
+stint as
+stint at
+stint in
+stints
+stints at
+stints in
+stood and waited
+stood by for !DETERMINER
+stood by for !TIMEFRAME
+stood for !TIMEFRAME
+stop-tap
+stop-taps
+stop out for
+stop out for !DETERMINER while
+stop out to
+stop tap
+stop taps
+stop time
+stop times
+stopped out for
+stopped out for !DETERMINER while
+stopped out to
+stopping out for
+stopping out for !DETERMINER while
+stopping out to
+stopping time
+stopping times
+stops out for
+stops out for !DETERMINER while
+stops out to
+story !TIMEFRAME
+stound
+straight !TIMEFRAME
+straight ahead from now
+straight day
+straight days
+straight minutes
+straight month
+straight months
+straight time
+straight times
+straight week
+straight weeks
+straight years
+streak of
+streaks of
+stream of time
+streams of time
+stretch out for
+stretch out for !DETERMINER !TIMEFRAME
+stretch out for !TIMEFRAME
+stretch out over
+stretch over !TIMEFRAME
+stretched out for
+stretched out for  !DETERMINER !TIMEFRAME
+stretched out for !TIMEFRAME
+stretched out over
+stretched over !TIMEFRAME
+stretches out for
+stretches out for !DETERMINER !TIMEFRAME
+stretches out for !TIMEFRAME
+stretches out over
+stretches over !TIMEFRAME
+stretching out for
+stretching out for !DETERMINER !TIMEFRAME
+stretching out for !TIMEFRAME
+stretching out over
+stretching over !TIMEFRAME
+STRING IT OUT
+string of events
+STRINGING IT OUT
+STRINGS IT OUT
+student !TIMEFRAME
+summer
+summer-time
+summer !TIMEOFDAY
+summer quarter
+summer quarters
+summer time
+summered
+summering
+summers
+summertime
+Sunday-night
+Sunday, !MONTH
+sundown
+sunup
+supper
+suppertime
+survive
+suspension period
+suspension periods
+sustain
+sustain !DETERMINER
+sustain !DETERMINER note
+sustain a part
+sustain someone's side
+sustaind for
+sustained !DETERMINER note
+sustained a part
+sustained action
+sustained actions
+sustained activities
+sustained activity
+sustained during
+sustained it
+sustained note
+sustained notes
+sustained while
+sustaining
+sustaining !DETERMINER
+sustaining !DETERMINER note
+sustaining a part
+sustains
+sustains !DETERMINER
+sustains !DETERMINER note
+sustains a part
+synodic-month
+synodic-months
+synodic !TIMEFRAME
+synodic month
+synodic months
+tag day
+tag days
+Take !DETERMINER break
+take !DETERMINER long time
+take !DETERMINER whole day
+take out !DETERMINER day
+takes !DETERMINER break
+taking !DETERMINER break
+target day
+target days
+target frame
+target frames
+tarriance
+tarriances
+task time
+task times
+tea-break
+tea-breaks
+tea-hour
+tea-interval
+tea-intervals
+tea !TIMEFRAME
+tea break
+tea breaks
+tea interval
+tea intervals
+teatime
+telethon
+telethons
+tempest-time
+temporal !TIMEFRAME
+tempore
+ten-and-a-half
+ten-day
+ten-day-old
+ten-hour
+ten-hour drive
+ten-minute
+ten-month
+ten-second
+ten-second soundbite
+ten-week
+ten-year
+ten-year old
+ten-year period
+ten-year periods
+ten-year undertaking
+ten-years old
+ten straight !TIMEFRAME
+ten straight day
+ten straight days
+ten straight month
+ten straight months
+ten straight week
+ten straight weeks
+tenant for !TIMEFRAME
+tenant for years
+tenant from !TIMEFRAME to !TIMEFRAME
+tenants from !TIMEFRAME to !TIMEFRAME
+tenth-!TIMEFRAME
+tenth-century
+tenth-month
+tenth century
+tenth century's
+tenth straight day
+tenth straight month
+tenth straight week
+tenure in
+tenure in chivalry
+tenure in free alms
+tenure in office
+tenures
+tenuto
+term-after-term
+term-time
+term !TIMEFRAME
+term after term
+term at
+term day
+term days
+term lasting
+term of imprisonment
+term time
+terms at
+terms lasting
+termtime
+texas independence day
+texas independence days
+thanksgiving-day
+thanksgiving day
+that !REMAIN
+that keeps
+that particular !TIMEFRAME
+that stays
+theatrical season
+theatrical seasons
+thef-wyke
+they kept
+they kept on
+third-!TIMEFRAME
+third-century
+third century
+third century's
+third straight day
+third straight month
+third straight week
+thirteen-century
+thirteen-day
+thirteen-hour drive
+thirteen-month
+thirteen-year
+thirteen century
+thirteen century's
+thirteenth-century
+thirty-!TIMEFRAME
+thirty-day
+thirty-eight-year
+thirty-five-year
+thirty-four-year
+thirty-hour
+thirty-nine-year
+thirty-one-year
+thirty-second soundbite
+thirty-seven-year
+thirty-six-year
+thirty-three-year
+thirty-two-year
+thirty-year
+this far into
+thousand-!TIMEFRAME
+thousand-years
+three-!TIMEFRAME
+three-!TIMEFRAME period
+three-!TIMEFRAME periods
+three-!TIMEFRAME undertaking
+three-and-a-half !TIMEFRAME
+three-day
+three-day-old
+three-dayed
+three-hour
+three-hour drive
+three-minute
+three-month
+three-term
+three-week
+three-weekly
+three-year
+three-years old
+three !TIMEFRAME
+three straight !TIMEFRAME
+three straight day
+three straight days
+three straight month
+three straight months
+three straight week
+three straight weeks
+threescore
+threescore !TIMEFRAME and ten
+threescore and ten
+threescore years and ten
+through !DETERMINER !TIMEFRAME
+through !DETERMINER day
+through !DETERMINER night
+through !DETERMINER period
+through !MONTH
+through !NUMS1TO100 !TIMEFRAME
+through much of !DETERMINER
+through much of !DETERMINER depression
+through this period
+throughout
+throughout !DETERMINER
+throughout !DETERMINER !TIMEFRAME
+throughout !POSSESSIVEPRONOUN
+throughout grade school
+throughout high school
+throughout middle school
+throughout most of
+Thursday-night
+Thursday, !MONTH
+ticket day
+ticket days
+ticket night
+ticket nights
+tide !PRONOUNOBJECTIVE over
+tide !PRONOUNOBJECTIVE over until
+tide day
+tide days
+tide over
+tide over till
+tide over until
+tided
+tided !PRONOUNOBJECTIVE over
+tided !PRONOUNOBJECTIVE over until
+tided over
+tided over till
+tided over until
+tides !PRONOUNOBJECTIVE over
+tides !PRONOUNOBJECTIVE over until
+tides over
+tides over till
+tides over until
+tiding !PRONOUNOBJECTIVE over
+tiding !PRONOUNOBJECTIVE over until
+tiding over
+tiding over till
+tiding over until
+tiffin
+tiffin-time
+tiffin time
+tiffins
+till !DETERMINER last
+till !DETERMINER time
+till !TIMEOFDAY
+till almost !TIMEOFDAY
+till near !TIMEOFDAY
+time-in
+time-lags
+time-off
+time-out
+time-period
+time-periods
+time for
+time intervals
+time lag
+time lead
+time of
+time of !TIMEFRAME
+time of night
+time off
+time off work
+time out
+time passing
+time period
+time period of
+time periods
+time periods of
+time spans
+time when he
+time when she
+time when they
+timeout
+timeouts
+times-off
+times-out
+times for
+times of
+times of night
+times off
+times out
+tin wedding anniversaries
+tin wedding anniversary
+tishah-b'ab
+to !DETERMINER crack of dawn
+to !DETERMINER crow of !DETERMINER rooster
+to !DETERMINER early !RANKNUMBER century
+to !DETERMINER last
+to !DETERMINER late !RANKNUMBER century
+to !DETERMINER mid !RANKNUMBER century
+to !DETERMINER middle of !DETERMINER !RANKNUMBER century
+to !POSSESSIVEPRONOUN last dying !TIMEFRAME
+to !POSSESSIVEPRONOUN last dying day
+to !POSSESSIVEPRONOUN last dying days
+to 1848
+to 1849
+to 1850
+to 1851
+to 1852
+to 1853
+to 1854
+to 1855
+to 1856
+to 1857
+to 1858
+to 1859
+to 1860
+to 1861
+to 1862
+to 1863
+to 1864
+to 1865
+to 1866
+to 1867
+to 1868
+to 1869
+to 1870
+to 1871
+to 1872
+to 1873
+to 1874
+to 1875
+to 1876
+to 1877
+to 1878
+to 1879
+to 1880
+to 1881
+to 1882
+to 1883
+to 1884
+to 1885
+to 1886
+to 1887
+to 1888
+to 1889
+to 1890
+to 1891
+to 1892
+to 1893
+to 1894
+to 1895
+to 1896
+to 1897
+to 1898
+to 1899
+to 1900
+to 1900s
+to 1901
+to 1902
+to 1903
+to 1904
+to 1905
+to 1906
+to 1907
+to 1908
+to 1909
+to 1910
+to 1911
+to 1912
+to 1913
+to 1914
+to 1915
+to 1916
+to 1917
+to 1918
+to 1919
+to 1920
+to 1921
+to 1922
+to 1923
+to 1924
+to 1925
+to 1926
+to 1927
+to 1928
+to 1929
+to 1930
+to 1931
+to 1932
+to 1933
+to 1934
+to 1935
+to 1936
+to 1937
+to 1938
+to 1939
+to 1940
+to 1941
+to 1942
+to 1943
+to 1944
+to 1945
+to 1946
+to 1947
+to 1948
+to 1949
+to 1950
+to 1951
+to 1952
+to 1953
+to 1954
+to 1955
+to 1956
+to 1957
+to 1958
+to 1959
+to 1960
+to 1961
+to 1962
+to 1963
+to 1964
+to 1965
+to 1966
+to 1967
+to 1968
+to 1969
+to 1970
+to 1971
+to 1972
+to 1973
+to 1974
+to 1975
+to 1976
+to 1977
+to 1978
+to 1979
+to 1980
+to 1981
+to 1982
+to 1983
+to 1984
+to 1985
+to 1986
+to 1987
+to 1988
+to 1989
+to 1990
+to 1991
+to 1992
+to 1993
+to 1994
+to 1995
+to 1996
+to 1997
+to 1998
+to 1999
+to 2000
+to 2001
+to 2002
+to 2003
+to 2004
+to 2005
+to keep
+to keep on
+to occupy
+to occupy !POSSESSIVEPRONOUN time
+to occupy my time
+to occupy our time
+to stand over in
+to stay and
+to while away
+tocher
+tochers
+today and for !DETERMINER next
+today and tommorrow
+today only
+tommy day
+tommy days
+took !DETERMINER break
+tract of time
+tracts of time
+travel time
+travel times
+treble-times
+treble time
+trencher-time
+trencher time
+trends in
+trial period
+trial periods
+trice
+tried to maintain
+tries to maintain
+trihemeral
+trimester
+trimesters
+tropical-!TIMEFRAME
+tropical-years
+tropical !TIMEFRAME
+tropical years
+true three !TIMEFRAME old
+try to maintain
+trying to maintain
+Tuesday-night
+Tuesday, !MONTH
+turn time
+twelfth-day
+twelfth-night
+twelfth-second
+twelfth day
+twelfth night
+twelve-!TIMEFRAME
+twelve-day
+twelve-day-old
+twelve-hour
+twelve-hour drive
+twelve-minute
+twelve-month
+twelve-year
+twelve-years
+twelvemonth
+twelvemonths
+twelvth-century
+twelvth century
+twelvth century's
+twentieth-century
+twentieth-month
+twentieth century
+twentieth century's
+twenty-!TIMEFRAME
+twenty-day
+twenty-day-old
+twenty-eight-year
+twenty-first-century
+twenty-five-year
+twenty-four-hour
+twenty-four-year
+twenty-fourmo
+twenty-fourmos
+twenty-hour
+twenty-hour drive
+twenty-minute
+twenty-minutes
+twenty-nine-year
+twenty-one-year
+twenty-second soundbite
+twenty-seconds
+twenty-seven-year
+twenty-six-year
+twenty-three-year
+twenty-two-year
+twenty-year
+twi-night
+twi-nighter
+twilight
+twilight-sleep
+twilight sleep
+twilights
+two-and-a-half hour
+two-day
+two-day-old
+two-day-olds
+two-day old
+two-day periods
+two-day undertaking
+two-decade-long
+two-hour
+two-hour drive
+two-minute
+two-month
+two-monthly
+two-term
+two-week
+two-weekend
+two-year
+two-years old
+two straight !TIMEFRAME
+two straight day
+two straight days
+two straight month
+two straight months
+two straight week
+two straight weeks
+two weeks
+unchanging
+under !DETERMINER !TIMEFRAME
+under !NUMS1TO100 !TIMEFRAME
+under all cases
+under all conditions
+under all events
+under it is
+under our nose
+under such circumstances
+unexpired
+unfinished
+unstable period
+unstable periods
+until
+until !DAY
+until !DETERMINER
+until !DETERMINER age
+until !DETERMINER age of
+until !DETERMINER age of !NUMS1TO100
+until !DETERMINER conclusion of
+until !DETERMINER crack of dawn
+until !DETERMINER deadline of
+UNTIL !DETERMINER LAST
+until !DETERMINER next
+until !DETERMINER next !MONTH
+until !DETERMINER next time
+UNTIL !DETERMINER PRESENT MOMENT
+UNTIL !DETERMINER PRESENT TIME
+until !DETERMINER time
+until !DETERMINER time that
+until !DETERMINER times
+until !PRONOUNNOMINAL
+until !TIMEOFDAY
+until almost !TIMEOFDAY
+until deadline
+until deadlines
+until deadlines of
+until further notice
+UNTIL HE
+until he is
+UNTIL I
+until I am
+UNTIL IT HAPPENS THAT
+until it reaches maturity
+until near !TIMEOFDAY
+until next
+until next !MONTH
+until one !TIMEFRAME
+until one !TIMEFRAME when
+UNTIL SHE
+until she is
+until such time
+until such time as
+UNTIL THAT DAY
+UNTIL THAT DAY WHEN
+until that moment
+until that time
+UNTIL THAT TIME WHEN
+until then
+UNTIL THERE !AUX
+UNTIL THERE IS
+UNTIL THEY
+until they !AUX
+UNTIL THIS !TIMEFRAME
+until this !TIMEOFDAY
+UNTIL THIS DAY
+until tommorrow
+until tomorrow
+UNTIL WE
+until we !AUX
+until we meet again
+until you !AUX
+until you come to
+until you see !DETERMINER
+up to !DETERMINER coming
+up to !DETERMINER future
+up to !DETERMINER present
+up to !DETERMINER time
+up to !DETERMINER time of
+up until
+up until !DETERMINER
+up until !DETERMINER !TIMEFRAME
+up until this point
+up until this time
+uptime
+v-day
+vacation-time
+vacationtime
+valentine day
+valentine days
+varnishing day
+varnishing days
+vestibule of Day
+veterans-day
+veterans day
+Victorian time
+Victorian times
+visiting day
+visiting days
+wait !DETERMINER minute
+wait !DETERMINER second
+wait !NUMS1TO100 !TIMEFRAME
+wait !TIMEFRAME
+wait for !DETERMINER light
+wait for !PRONOUNOBJECTIVE
+wait to
+WAIT UNTIL
+wait up for
+waited !DETERMINER minute
+waited !DETERMINER second
+waited !NUMS1TO100 !TIMEFRAME
+waited !TIMEFRAME
+waited for !DETERMINER light
+waited for !PRONOUNOBJECTIVE
+waited to
+waited until
+waited up for
+waiting !DETERMINER minute
+waiting !DETERMINER second
+waiting !NUMS1TO100 !TIMEFRAME
+waiting !TIMEFRAME
+waiting for !DETERMINER light
+waiting for !PRONOUNOBJECTIVE
+waiting period
+waiting periods
+waiting to
+waiting until
+waiting up for
+waits !DETERMINER minute
+waits !DETERMINER second
+waits !NUMS1TO100 !TIMEFRAME
+waits !TIMEFRAME
+waits for !DETERMINER light
+waits for !PRONOUNOBJECTIVE
+waits to
+waits until
+waits up for
+waking time
+waking times
+walk around !DETERMINER block
+walked around !DETERMINER block
+walking around !DETERMINER block
+walks around !DETERMINER block
+wander-!TIMEFRAME
+wander-years
+wander !TIMEFRAME
+wander years
+war-time
+war-times
+was !NUMS1TO100
+washington's birthday
+watch night
+watch nights
+water breather
+water breathers
+we kept on
+wear-off
+wear !DETERMINER afternoon away
+wear !DETERMINER evening away
+wear !DETERMINER morning away
+wear !DETERMINER night away
+wear !DETERMINER time away
+wear off
+weared on
+wearing-off
+wearing !DETERMINER afternoon away
+wearing !DETERMINER evening away
+wearing !DETERMINER morning away
+wearing !DETERMINER night away
+wearing !DETERMINER time away
+wearing off
+wears-off
+wears !DETERMINER afternoon away
+wears !DETERMINER evening away
+wears !DETERMINER morning away
+wears !DETERMINER night away
+wears !DETERMINER time away
+wears off
+wedding day
+wedding days
+Wednesday-night
+Wednesday, !MONTH
+wee-hour
+wee-hours
+wee !TIMEFRAME
+week's
+week-end
+week-long
+week-old
+week-work
+week in
+week long
+week out
+week straight
+week work
+weekending
+weekending in
+weeklong
+weeks
+weeks after
+weeks before
+weeks in
+weeks on
+weeks on end
+weeks straight
+weekslong
+went on all !TIMEOFDAY
+went on for !DETERMINER !TIMEFRAME
+went on for !DETERMINER few !TIMEFRAME
+went on for !DETERMINER long !TIMEFRAME
+went unexploited
+wet-season
+wet season
+when as
+when day !AUX done
+which !REMAIN
+which keeps
+which stays
+while
+while !DETERMINER
+while !PRONOUNNOMINAL
+while again
+while away,
+while he !AUX
+while he is
+while I am
+while in !DETERMINER waiting room
+while it !AUX
+while it is bright and early
+while it is still bright and early
+while on
+while on !DETERMINER
+while she is
+while there !AUX !DETERMINER letup
+while they !AUX
+while we !AUX
+while you !AUX
+whilst
+whit sunday
+whole !TIMEFRAME
+whole day
+widowerhood
+widowerhoods
+widowhood
+widowhoods
+winter-time
+winter !TIMEOFDAY
+winter break
+winter in
+winter of !POSSESSIVEPRONOUN days
+winter of my days
+winter of our days
+winter of your days
+winter quarter
+winter quarters
+winter time
+wintered
+wintered in
+wintering
+wintering in
+winters in
+wintertide
+wintertides
+wintertime
+wintertimes
+witch's sabbath
+witch sabbath
+witches' Sabbath
+witching !TIMEFRAME
+witching !TIMEFRAME of !DETERMINER night
+with !DETERMINER !TIMEFRAME
+with !NUMS1TO100 !TIMEFRAME
+with another !TIMEFRAME time
+with each !TIMEFRAME
+with each passing !TIMEFRAME
+with each passing day
+with each passing minute
+with each passing moment
+with each passing month
+with each passing week
+with every passing !TIMEFRAME
+with every passing day
+with every passing minute
+with every passing moment
+with every passing month
+with every passing week
+with intervals
+with time passing
+within !DETERMINER !HYPHENNUMS1TO100 !TIMEFRAME
+within !DETERMINER !NUMS1TO100 !TIMEFRAME
+within !DETERMINER !NUMS1TO100 !TIMEFRAME period
+within !DETERMINER !NUMS1TO12 to !NUMS1TO12 !TIMEFRAME drive
+within !DETERMINER !ONEDIGIT !TIMEFRAME
+within !DETERMINER !ONEDIGIT !TIMEFRAME period
+within !DETERMINER !RANKNUMBER !TIMEFRAME
+WITHIN !DETERMINER !TIMEFRAME
+within !DETERMINER !TIMEFRAME will
+within !DETERMINER !TWODIGITS !ONEDIGIT !TIMEFRAME
+within !DETERMINER !TWODIGITS !ONEDIGIT !TIMEFRAME period
+WITHIN !DETERMINER DAY
+within !DETERMINER few !TIMEFRAME
+within !DETERMINER few centuries
+within !DETERMINER few days
+within !DETERMINER few decades
+within !DETERMINER few minutes
+within !DETERMINER few moments
+within !DETERMINER few months
+within !DETERMINER few weeks
+within !DETERMINER few years
+within !DETERMINER fixed amount of time
+within !DETERMINER instant
+within !DETERMINER interval
+within !DETERMINER last
+within !DETERMINER minute
+WITHIN !DETERMINER MONTH
+WITHIN !DETERMINER NEXT !NUMS1TO100 !TIMEFRAME
+WITHIN !DETERMINER NEXT !TIMEFRAME
+WITHIN !DETERMINER NEXT DECADE
+WITHIN !DETERMINER NEXT FEW !TIMEFRAME
+WITHIN !DETERMINER NEXT MILLENIUM
+within !DETERMINER night
+within !DETERMINER PREHISTORIC
+within !DETERMINER previous !TIMEFRAME
+within !DETERMINER PRIMEVAL
+WITHIN !DETERMINER REASONABLE AMOUNT OF TIME
+WITHIN !DETERMINER REASONABLE TIME
+WITHIN !DETERMINER REASONABLE TIME FRAME
+within !DETERMINER same !TIMEFRAME
+within !DETERMINER space of !DETERMINER !TIMEFRAME
+within !DETERMINER span
+within !DETERMINER span of
+WITHIN !DETERMINER SPAN OF !NUMS1TO100 !TIMEFRAME
+within !DETERMINER specified amount of time
+within !DETERMINER specified time
+within !DETERMINER time of
+within !DETERMINER TIME when
+within !DETERMINER timeframe of
+WITHIN !DETERMINER WEEK
+within !MONTH
+within !NUMS1TO100 !TIMEFRAME
+within !NUMS1TO100 !TIMEOFDAY
+within !NUMS1TO100 or !NUMS1TO100 !TIMEFRAME
+within !NUMS1TO100 to !NUMS1TO100 !TIMEFRAME
+within !POSSESSIVEPRONOUN stint
+within !TIMEFRAME
+within any considerable length of time
+within any length of time
+within five minutes
+within intervals
+WITHIN JUST  !DETERMINER FEW !TIMEFRAME
+WITHIN JUST  !DETERMINER FEW DAYS
+WITHIN JUST  !DETERMINER FEW MONTHS
+WITHIN JUST !DETERMINER FEW DAYS
+WITHIN JUST !DETERMINER FEW MONTHS
+WITHIN JUST !DETERMINER FEW YEARS
+within the course of an average day
+wk
+wks
+womanhood
+womb-to-tomb
+woodchuck-day
+woodchuck-days
+woodchuck day
+woodchuck days
+wooden wedding anniversaries
+wooden wedding anniversary
+wore-off
+wore !DETERMINER afternoon away
+wore !DETERMINER evening away
+wore !DETERMINER morning away
+wore !DETERMINER night away
+wore !DETERMINER time away
+wore off
+wore on
+wore on,
+wore on.
+work-day
+work-shift
+work-shifts
+work-week
+work !TIMEFRAME
+work break
+work breaks
+work shift
+work shifts
+work through !DETERMINER night
+work week
+workday
+worked through !DETERMINER night
+working-day
+working !TIMEFRAME
+working through !DETERMINER night
+working week
+works through !DETERMINER night
+workshift
+workshifts
+workweek
+year-long
+year-old
+year straight
+yearlong
+years-old
+years in
+years long
+years of age
+years on
+years on end
+years straight
+yr
+yr.
+yrs
+yrs.
+yukon-time
+yukon-times
+yukon time
+yukon times

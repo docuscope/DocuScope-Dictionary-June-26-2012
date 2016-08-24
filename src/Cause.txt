@@ -1,0 +1,608 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX !DETERMINER cause
+!AUX !DETERMINER cause of
+!BEAR upon
+!BRING about
+!BRING into !DETERMINER world
+!BRING into being
+!BRING into existence
+!BRING on
+!BRING with it
+!CAUSAL !DETERMINER
+!CAUSAL !DETERMINER mind to stray
+!CAUSAL !DETERMINER mind to wander
+!CAUSAL !POSSESSIVEPRONOUN
+!CAUSAL !PRONOUNOBJECTIVE
+!CAUSAL !PRONOUNOBJECTIVE to
+!CAUSAL for
+!CAUSAL in court
+!CAUSAL it by !REFLEXIVEPRONOUN
+!CAUSAL it by yourself
+!CAUSAL list
+!CAUSAL to
+!CAUSAL to believe
+!DETERMINER cause is
+!DETERMINER cause was
+!DETERMINER causes are
+!DETERMINER chief factor
+!DETERMINER contributing factor
+!DETERMINER contributing factor in
+!DETERMINER determiner of
+!DETERMINER determiners of
+!DETERMINER DRIVING FORCE
+!DETERMINER DRIVING FORCE BEHIND
+!DETERMINER factor in
+!DETERMINER main factor
+!DETERMINER root cause
+!DETERMINER root causes
+!DO it by !REFLEXIVEPRONOUN
+!DO it by yourself
+!GET to !DETERMINER cause of
+!GET to !DETERMINER heart of
+!GET to !DETERMINER root of
+!GO to !DETERMINER cause
+!GO to !DETERMINER cause of
+!GO to !DETERMINER root
+!GO to !DETERMINER root of
+!HAVE !PRONOUNOBJECTIVE
+!HAVE caused
+!HAVE caused !DETERMINER
+!HAVE herself
+!HAVE himself
+!HAVE it
+!HAVE it happen
+!HAVE it happen that
+!HAVE me
+!HAVE one
+!HAVE ourselves
+!HAVE themselves
+!LIE at !DETERMINER cause
+!LIE at !DETERMINER heart
+!LIE at !DETERMINER root of
+!MAKE !PRONOUNOBJECTIVE aware
+!MAKE !PRONOUNOBJECTIVE aware of
+!MAKE !PRONOUNOBJECTIVE to
+!MAKE an impact
+!MAKE by
+!MAKE him
+!MAKE it appear to be
+!MAKE it go away
+!MAKE it happen
+!MAKE me aware
+!MAKE me aware of
+!MAKE our
+!MAKE their having
+!MAKE them to have
+!MAKE us aware
+!MAKE waves
+!MAKE you aware
+!MAKE you aware of
+!SHOW cause
+!SHOW cause for
+!SHOW reason
+!SHOW reason for
+. behind all of !DETERMINER
+act on
+acted on
+acting on
+active ingredient
+active ingredients
+acts on
+agent of
+agents of
+are !DETERMINER causes
+are !DETERMINER effects
+are causes
+are causes of
+are produced by
+are what make it
+at !DETERMINER hand
+at !DETERMINER hand of
+at !DETERMINER hands
+at !DETERMINER insistence
+at !DETERMINER insistence of
+at !DETERMINER instance of
+at !DETERMINER urging
+at !DETERMINER urging of
+at !DETERMINER urgings
+at !DETERMINER urgings of
+at !DETERMINER word of
+at !DETERMINER words of
+be !DETERMINER cause
+be !DETERMINER effect
+be !DETERMINER effects
+be identified by means of
+because of
+because of !DETERMINER
+because of !DETERMINER sweat of !POSSESSIVEPRONOUN brow
+because of !DETERMINER sweat of my brow
+because of !DETERMINER sweat of our brow
+because of !DETERMINER sweat of your brow
+because of !QUESTION
+because of accent
+because of age
+because of class
+because of educational background
+because of ethnicity
+because of extenuating circumstances
+because of gender
+because of income
+because of national origin
+because of neighborhood
+because of race
+because of religion
+because of sex
+because of that
+because of this whole thing
+born from
+born out of
+brught about by means of
+by !DETERMINER act of
+by !DETERMINER agency of
+by !DETERMINER aid of
+by !DETERMINER architect
+by !DETERMINER clock
+by !DETERMINER designer
+by !DETERMINER emergence of
+by !DETERMINER fashion designer
+by !DETERMINER group from
+by !DETERMINER hand of
+by !DETERMINER jot
+by !DETERMINER presence
+by !DETERMINER presence of
+by !DETERMINER team from
+by !DETERMINER team of
+by !DETERMINER writer
+by !POSSESSIVEPRONOUN attempt to
+by !POSSESSIVEPRONOUN attempts to
+by !POSSESSIVEPRONOUN effort to
+by !POSSESSIVEPRONOUN efforts to
+by agent
+by airmail
+by airplane
+by an ace
+by auction
+by being
+by being !DETERMINER
+by being about
+by being against
+by being for
+by being with
+by birth
+By boat
+by brute force
+by bus
+by cable
+By car
+by choice
+by design
+by destiny
+by dint of
+by disposition
+by doing it
+by doing so
+by election
+by erosion
+by express
+by ferry
+by force of
+by force of arms
+by force of habit
+by forced marches
+by freight
+by hand
+by heart
+by horse
+by instinct
+by interpretation
+by intuition
+by mail
+by main force
+by marriage
+by me
+by means
+by means of
+by means of !DETERMINER
+by means of which
+by memory
+By plane
+By rail
+by reflex
+by remote control
+By river
+by rote
+by sea
+by ship
+By steam
+by steamer
+by telegraph
+by train
+by trolley
+By truck
+by vote
+by water
+by way of !DETERMINER process called
+by what took place
+by which !PRONOUNNOMINAL
+by word of mouth
+byproduct
+byproducts
+came to hear of it through
+carried out by
+catylst
+catylst for
+catylsts
+catylsts for
+causa
+causa causans
+causa finalis
+causa sine qua non
+causal
+causal body
+causal factor
+causal glance
+causal sequence
+causal treatment
+causalities
+causality
+causally
+causally related
+causation
+causation of
+causative
+causative agent
+causative agents
+causative factor
+causatively
+causatives
+cause
+cause-and-effect
+cause !DETERMINER mind to stray
+cause !DETERMINER mind to wander
+cause and effect
+cause celebre
+cause clbre
+cause decay
+cause for
+cause in court
+cause into !QUESTION
+cause list
+cause of
+cause separation
+cause sleep
+cause to
+cause to believe
+cause to go out of your way
+caused
+caused by
+caused by !DETERMINER
+caused by !DETERMINER wind
+caused by fever
+caused by infection
+caused decay
+caused from
+caused from !DETERMINER
+caused separation
+caused sleep
+causes
+causes decay
+causes of
+causes of !QUESTION
+causes separation
+causes sleep
+causing
+causing decay
+causing separation
+causing sleep
+chain of cause and effect
+chain reaction
+chain reactions
+come to hear of it through
+comes to hear of it through
+coming to hear of it through
+compelling cause
+compelling causes
+conceived by
+concuss
+concussed
+concusses
+concussing
+conducted by !DETERMINER
+contribute to !QUESTION
+contributed to !QUESTION
+contributes to !QUESTION
+contributing factor
+contributing factors
+contributing factors in
+contributing to !QUESTION
+contributive
+contributively
+contributory
+determinant of
+determinants of
+determiner of
+determiners of
+determining factor
+determining factors
+directed by !DETERMINER
+directly impacted
+disease producer
+disease producers
+driven by
+driven by !DETERMINER
+driven by !DETERMINER logic
+driving factor
+driving force
+driving forces
+due to !DETERMINER event of
+due to !DETERMINER events of
+efficient cause
+efficient causes
+etiologies of
+etiology of
+executed by !DETERMINER
+executed from
+executed with
+factors in !DETERMINER
+fat-engendering
+febrifacient
+febrific
+fever-cooling
+fever-destroying
+fever-reducer
+fever-reducers
+for this cause
+forcing
+formed by !DETERMINER
+from that cause
+fuel !DETERMINER
+fueled !DETERMINER curiosity
+fueled !DETERMINER drive
+fueled !DETERMINER energy
+fueled !POSSESSIVEPRONOUN drive
+fueled by
+fueling
+fueling !DETERMINER
+fuels !DETERMINER
+gave cause
+gave cause for
+generated by
+give cause
+give cause for
+gives cause
+gives cause for
+giving cause
+giving cause for
+hansom-borne
+has led to
+has led to !DETERMINER
+have !REFLEXIVEPRONOUN
+have caused !POSSESSIVEPRONOUN
+having !REFLEXIVEPRONOUN
+having caused !POSSESSIVEPRONOUN
+help make
+help making
+helped make
+helps make
+impact
+impact !DETERMINER
+impact !POSSESSIVEPRONOUN
+impact !PRONOUNOBJECTIVE
+impact in
+impact on
+impacted
+impacted !DETERMINER very
+impacted from
+impacted from !DETERMINER
+impacted from !POSSESSIVEPRONOUN
+impacted from !PRONOUNOBJECTIVE
+impacting
+impacting !DETERMINER
+impacting !POSSESSIVEPRONOUN
+impacting !PRONOUNOBJECTIVE
+impacting on
+impaction on
+impacts
+impacts !DETERMINER
+impacts !POSSESSIVEPRONOUN
+impacts !PRONOUNOBJECTIVE
+impacts on
+impel
+impelled by !DETERMINER
+impellent
+impeller
+impellers
+impelling
+impels
+implemented by !DETERMINER
+implemented with
+impulsion
+impulsion of
+impulsions
+impulsions of
+in !DETERMINER aftermath
+in !DETERMINER aftermath of
+in !DETERMINER wake
+in bringing about
+in its wake
+inculcate !DETERMINER
+inculcated in
+inculcates !DETERMINER
+inculcating !DETERMINER
+induced by
+influence
+influence !DETERMINER
+influenced
+influenced by !DETERMINER
+influenced from !DETERMINER
+influenced with
+influencer
+influencers
+influences
+influences !DETERMINER
+influencing
+influencing !DETERMINER
+is !DETERMINER causal
+is !DETERMINER effect
+is produced by !DETERMINER
+is what makes it
+it made !DETERMINER
+it made !PRONOUNOBJECTIVE
+it made me
+it made our
+it made us
+it takes !DETERMINER
+it took !DETERMINER
+its effects
+leave in its wake
+leaves in its wake
+left in its wake
+man-begot
+man-created
+man-grown
+man-made
+man-making
+man-taught
+money-breeding
+move to action
+moved to action
+moves to action
+moving cause
+moving causes
+moving to action
+net effect
+net effects
+offshoot
+offshoot of
+offshoots
+offshoots of
+on !DETERMINER active part
+on !DETERMINER active part of
+one factor
+one of !DETERMINER chief factors
+one of !DETERMINER factors
+one of !DETERMINER main factors
+one of !DETERMINER primary factors
+only because
+only because of
+outcome
+outcome of
+outcome of !DETERMINER
+outcomes
+outcomes of
+outcomes of !DETERMINER
+outgrowth
+outgrowth from
+outgrowth of
+outgrowths
+outgrowths from
+pain producer
+pain producers
+powered by
+precipitate !DETERMINER
+precipitate !POSSESSIVEPRONOUN
+precipitate !PRONOUNOBJECTIVE
+precipitated from
+precipitated from !DETERMINER
+precipitated from !POSSESSIVEPRONOUN
+precipitated from !PRONOUNOBJECTIVE
+precipitates !DETERMINER
+precipitates !POSSESSIVEPRONOUN
+precipitates !PRONOUNOBJECTIVE
+precipitating !DETERMINER
+precipitating !POSSESSIVEPRONOUN
+precipitating !PRONOUNOBJECTIVE
+precipitator
+precipitators
+presses !PRONOUNOBJECTIVE into
+presses me into
+presses us into
+pressure producer
+pressure producers
+prison-caused
+produce conviction
+produced by !DETERMINER
+produced conviction
+produced from !DETERMINER
+produced with
+produced with !DETERMINER
+produces conviction
+producing conviction
+proof-producing
+proximate cause
+proximate causes
+reason behind
+reasons behind
+recession-induced
+root cause
+root cause for
+root cause of
+slave-got
+slave-grown
+sleep-bringer
+sleep-bringing
+sleep-causing
+sleep-compelling
+sleep-created
+sleep-procuring
+sleep-producer
+sleep-producing
+slime-begotten
+smoke agent
+smoke agents
+state-caused
+stated cause
+stated causes
+stomach-formed
+sunlight-caused
+tension producer
+tension producers
+that led
+that led to
+There is !DETERMINER reason that
+thirst-creating
+thirst-inducing
+thirst-raising
+through  !DETERMINER sweat of !POSSESSIVEPRONOUN brow
+through !DETERMINER competition
+through !DETERMINER effort
+through !DETERMINER efforts
+through !DETERMINER emergence of
+through !DETERMINER exertion
+through !DETERMINER exertions
+through !DETERMINER instrumentalities of
+through !DETERMINER instrumentality of
+through !DETERMINER media of
+through !DETERMINER medium of
+through !DETERMINER rule
+through !DETERMINER rules
+through !DETERMINER sweat of my brow
+through !DETERMINER sweat of our brow
+through !DETERMINER sweat of your brow
+through !DETERMINER work
+through !DETERMINER works
+through !POSSESSIVEPRONOUN blood
+through !POSSESSIVEPRONOUN effort
+through !POSSESSIVEPRONOUN efforts
+through !POSSESSIVEPRONOUN hard work
+through !POSSESSIVEPRONOUN labor
+through !POSSESSIVEPRONOUN patience
+through !POSSESSIVEPRONOUN sweat
+through !POSSESSIVEPRONOUN work
+through this process
+through which !PRONOUNNOMINAL
+tide-generating
+tide-producing
+timber-producing
+tornado-breeding
+trigger !DETERMINER
+triggered
+triggering
+triggers !DETERMINER
+vapor-producing
+vote-bringing
+with !DETERMINER hand of
+with !DETERMINER hands of

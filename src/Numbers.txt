@@ -1,0 +1,3313 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!NUMS1TO100
+!NUMS1TO100 !WEIGHT
+!NUMS1TO100 grand
+!NUMS1TO100 lots
+!NUMS1TO100 thousand
+$
+%
+1%
+1,0
+1,1
+1,10
+1,2
+1,3
+1,4
+1,5
+1,6
+1,7
+1,8
+1,9
+10
+10%
+10,10
+100
+100%
+100,
+1000
+1001
+101
+101,
+1010
+102
+102,
+103
+103,
+104
+104,
+105
+105,
+106
+106,
+107
+107,
+108
+108,
+109
+109,
+11
+11%
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+12
+12%
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+13
+13%
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+14
+14%
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+15
+15%
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+16
+16%
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+17
+17%
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+18
+18%
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+19
+19%
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+2%
+2,0
+2,1
+2,10
+2,2
+2,3
+2,4
+2,5
+2,6
+2,7
+2,8
+2,9
+20
+20%
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+21
+21%
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+22
+22%
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+23
+23%
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+24
+24%
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+25
+25%
+250
+250 degrees
+251
+252
+253
+254
+255
+256
+257
+258
+259
+26
+26%
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+27
+27%
+270
+271
+272
+273
+274
+275
+275 degrees
+276
+277
+278
+279
+28
+28%
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+29
+29%
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+3%
+3,0
+3,1
+3,10
+3,2
+3,3
+3,4
+3,5
+3,6
+3,7
+3,8
+3,9
+3/4
+30
+30%
+300
+300 degrees
+301
+302
+303
+304
+305
+306
+307
+308
+309
+31
+31%
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+32
+32%
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+33
+33%
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+34
+34%
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+35
+35%
+350
+350 degrees
+351
+352
+353
+354
+355
+356
+357
+358
+359
+36
+36%
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+37
+37%
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+38
+38%
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+39
+39%
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+4%
+4,0
+4,1
+4,10
+4,2
+4,3
+4,4
+4,5
+4,6
+4,7
+4,8
+4,9
+40
+40%
+400
+400 degrees
+401
+402
+403
+404
+405
+406
+407
+408
+409
+41
+41%
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+42
+42%
+420
+421
+422
+423
+424
+425
+426
+427
+428
+429
+43
+43%
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+44
+44%
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+45
+45%
+450
+450 degrees
+451
+452
+453
+454
+455
+456
+457
+458
+459
+46
+46%
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+47
+47%
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+48
+48%
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+49
+49%
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+5%
+5,0
+5,1
+5,10
+5,2
+5,3
+5,4
+5,5
+5,6
+5,7
+5,8
+5,9
+50
+50%
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+51
+51%
+510
+511
+512
+513
+514
+515
+516
+517
+518
+519
+52
+52%
+520
+521
+522
+523
+524
+525
+526
+527
+528
+529
+53
+53%
+530
+531
+532
+533
+534
+535
+536
+537
+538
+539
+54
+54%
+540
+541
+542
+543
+544
+545
+546
+547
+548
+549
+55
+55%
+550
+551
+552
+553
+554
+555
+556
+557
+558
+559
+56
+56%
+560
+561
+562
+563
+564
+565
+566
+567
+568
+569
+56k
+57
+57%
+570
+571
+572
+573
+574
+575
+576
+577
+578
+579
+58
+58%
+580
+581
+582
+583
+584
+585
+586
+587
+588
+589
+59
+59%
+590
+591
+592
+593
+594
+595
+596
+597
+598
+599
+6%
+6,0
+6,1
+6,10
+6,2
+6,3
+6,4
+6,5
+6,6
+6,7
+6,8
+6,9
+60
+60%
+600
+601
+602
+603
+604
+605
+606
+607
+608
+609
+61
+61%
+610
+611
+612
+613
+614
+615
+616
+617
+618
+619
+62
+62%
+620
+621
+622
+623
+624
+625
+626
+627
+628
+629
+63
+63%
+630
+631
+632
+633
+634
+635
+636
+637
+638
+639
+64
+64%
+640
+641
+642
+643
+644
+645
+646
+647
+648
+649
+65
+65%
+650
+651
+652
+653
+654
+655
+656
+657
+658
+659
+66
+66%
+660
+661
+662
+663
+664
+665
+666
+667
+668
+669
+67
+67%
+670
+671
+672
+673
+674
+675
+676
+677
+678
+679
+68
+68%
+680
+681
+682
+683
+684
+685
+686
+687
+688
+689
+69
+69%
+690
+691
+692
+693
+694
+695
+696
+697
+698
+699
+7%
+7,0
+7,1
+7,10
+7,2
+7,3
+7,4
+7,5
+7,6
+7,7
+7,8
+7,9
+70
+70%
+700
+701
+702
+703
+704
+705
+706
+707
+708
+709
+71
+71%
+710
+711
+712
+713
+714
+715
+716
+717
+718
+719
+72
+72%
+720
+721
+722
+723
+724
+725
+726
+727
+728
+729
+73
+73%
+730
+731
+732
+733
+734
+735
+736
+737
+738
+739
+74
+74%
+740
+741
+742
+743
+744
+745
+746
+747
+748
+749
+75
+75%
+750
+751
+752
+753
+754
+755
+756
+757
+758
+759
+76
+76%
+760
+761
+762
+763
+764
+765
+766
+767
+768
+769
+77
+77%
+770
+771
+772
+773
+774
+775
+776
+777
+778
+779
+78
+78%
+780
+781
+782
+783
+784
+785
+786
+787
+788
+789
+79
+79%
+790
+791
+792
+793
+794
+795
+796
+797
+798
+799
+8%
+8,0
+8,1
+8,10
+8,2
+8,3
+8,4
+8,5
+8,6
+8,7
+8,8
+8,9
+80
+80%
+800
+801
+802
+803
+804
+805
+806
+807
+808
+809
+81
+81%
+810
+811
+812
+813
+814
+815
+816
+817
+818
+819
+82
+82%
+820
+821
+822
+823
+824
+825
+826
+827
+828
+829
+83
+83%
+830
+831
+832
+833
+834
+835
+836
+837
+838
+839
+84
+84%
+840
+841
+842
+843
+844
+845
+846
+847
+848
+849
+85
+85%
+850
+851
+852
+853
+854
+855
+856
+857
+858
+859
+86
+86%
+860
+861
+862
+863
+864
+865
+866
+867
+868
+869
+87
+87%
+870
+871
+872
+873
+874
+875
+876
+877
+878
+879
+88
+88%
+880
+881
+882
+883
+884
+885
+886
+887
+888
+889
+89
+89%
+890
+891
+892
+893
+894
+895
+896
+897
+898
+899
+9%
+9,0
+9,1
+9,10
+9,2
+9,3
+9,4
+9,5
+9,6
+9,7
+9,8
+9,9
+90
+90%
+900
+901
+902
+903
+904
+905
+906
+907
+908
+909
+91
+91%
+910
+911
+912
+913
+914
+915
+916
+917
+918
+919
+92
+92%
+920
+921
+922
+923
+924
+925
+926
+927
+928
+929
+93
+93%
+930
+931
+932
+933
+934
+935
+936
+937
+938
+939
+94
+94%
+940
+941
+942
+943
+944
+945
+946
+947
+948
+949
+95
+95%
+950
+951
+952
+953
+954
+955
+956
+957
+958
+959
+96
+96%
+960
+961
+962
+963
+964
+965
+966
+967
+968
+969
+97
+97%
+970
+971
+972
+973
+974
+975
+976
+977
+978
+979
+98
+98%
+980
+981
+982
+983
+984
+985
+986
+987
+988
+989
+99
+99%
+990
+991
+992
+993
+994
+995
+996
+997
+998
+999
+about !DETERMINER half of
+about !NUMS1TO100 !WEIGHT
+about 150 !WEIGHT
+about one half of
+above !DETERMINER minimum
+above !DETERMINER threshold
+billion
+billion-dollar grass
+billions
+billionth
+billionths
+by !DETERMINER hundreds
+by !DETERMINER millions
+by !DETERMINER tens
+by !DETERMINER thousands
+eight
+eight-
+eight-celled
+eight-channel
+eight-cylinder
+eight-fold
+eight-gauge
+eight-member
+eight-million-dollar
+eight-ply
+eight-spot
+eight-step
+eight-volume
+eight-word
+eight-year old
+eight volume
+eighteen
+eighteens
+eighteenths
+eighter from Decatur
+eightfold way
+eightfold ways
+eighth-dimension
+eighth stock
+eighths
+eighties
+eightieths
+eights
+eightsome
+eighty
+eighty-eight
+eighty-five
+eighty-four
+eighty-nine
+eighty-niner
+eighty-one
+eighty-seven
+eighty-six
+eighty-three
+eighty-two
+fifteen
+fifteen-pounder
+fifteen-pounders
+fifteens
+fifteenths
+fifties
+fiftieths
+fifty
+fifty-dollar bill
+fifty-dollar bills
+fifty-eight
+fifty-five
+fifty-four
+fifty-nine
+fifty-one
+fifty-seven
+fifty-six
+fifty-three
+fifty-two
+fifty cent
+fifty cents
+fifty percent
+fifty percents
+five
+five-and-dime
+five-and-ten
+five-branched
+five-by-five
+five-card
+five-cent
+five-channel
+five-corn
+five-cut
+five-day fever
+five-day week
+five-dollar bill
+five-dollar gold piece
+five-eighth
+five-faced bishop
+five-figure
+five-foiled
+five-fold
+five-gaited
+five-guinea
+five-hundred-dollar bill
+five-lane
+five-lobed
+five-master
+five-membered
+five-million-dollar
+five-minute gun
+five-nerved
+five-nine
+five-o'clock tea
+five-page
+five-part
+five-part time
+five-parted
+five-percenter
+five-ply
+five-pound
+five-quart
+five-rater
+five-reel
+five-reeler
+five-ribbed
+five-shooter
+five-sisters
+five-spot
+five-spotted
+five-star
+five-step
+five-stringed
+five-toed
+five-toothed
+five-twenty
+five-valved
+five-volume
+five-word
+five all
+five and twenty
+five back
+five bucks
+five C's
+five cent
+five cents
+five dollars
+five hundred
+five hundred dollars
+five hundred rummy
+five percenter
+five rayed
+five senses
+five volume
+five W's
+five wins away
+fivepennies
+fivepenny
+fivepenny morris
+fiver
+fivers
+fives
+four
+four-acre
+four-bagger
+four-ball
+four-ball match
+four-bit
+four-bottom plow
+four-cant
+four-cent
+four-centered
+four-centered arch
+four-channel
+four-channel stereo system
+four-color
+four-color press
+four-color problem
+four-color process
+four-colored
+four-colour
+four-cornered
+four-coupled
+four-cutter
+four-cycle
+four-cylinder
+four-cylindered
+four-deal bridge
+four-deck
+four-decked
+four-decker
+four-dimensional
+four-dimensional geometry
+four-dimensional space
+four-dimensioned
+four-dollar
+four-door
+four-edged
+four-em space
+four-eyed
+four-eyed fish
+four-eyed opossum
+four-eyes
+four-faced
+four-figured
+four-fingered
+four-flowered
+four-flush
+four-flushing
+four-fold
+four-foot
+four-foot octave
+four-foot stop
+four-footer
+four-four time
+four-gallon
+four-grain
+four-gram
+four-gun
+four-hand
+four-handed
+four-hander
+four-headed
+four-horned
+four-horse
+four-horsed
+four-hundred-day clock
+four-in-hand
+four-in-hand coach
+four-in-hand etc
+four-in-hand tie
+four-lane
+four-line octave
+four-lined
+four-lobed
+four-masted
+four-masted brig
+four-master
+four-member
+four-million-dollar
+four-o'clock family
+four-oar
+four-oared
+four-ounce
+four-part
+four-part diaphony
+four-part flask
+four-part harmony
+four-part time
+four-percenter
+four-phase
+four-place
+four-ply
+four-post
+four-posted
+four-poster
+four-poster bed
+four-pound
+four-quarter
+four-rayed
+four-ring
+four-roomed
+four-rowed
+four-rowed barley
+four-second
+four-shilling
+four-spined
+four-spot
+four-spotted
+four-square
+four-star general
+four-step
+four-storied
+four-stranded
+four-stringed
+four-striped
+four-striper
+four-stroke
+four-stroke-cycle
+four-stroke cycle engine
+four-tailed bandage
+four-the-cat
+four-three-two-one rule
+four-times-accented
+four-tined
+four-toed
+four-toes
+four-tooth
+four-up etc
+four-volume
+four-way
+four-way cock
+four-way switch
+four-week
+four-wheel
+four-wheel drive
+four-wheeled
+four-wheeler
+four-winged
+four-word
+four-yard
+four and twenty
+four bits
+four corners of !DETERMINER earth
+four door
+four elements
+four flush
+four freedoms
+four horsemen
+four hundred
+four o'cat
+four of !DETERMINER kind
+four old cat
+four questions
+four volume
+four wins away
+fours
+fourscore
+fourscore and ten
+fourteen
+fourteens
+fourteenths
+half
+half-
+half-a-crown
+half-a-dollar
+half-acre
+half-addressed
+half-affianced
+half-afloat
+half-altered
+half-and-half
+half-and-half measures
+half-ape
+half-armed
+half-armor
+half-backed
+half-baked
+half-ball
+half-banked
+half-baptize
+half-barbarian
+half-bare
+half-barrel
+half-bent
+half-binding
+half-bleached
+half-blind
+half-blind joint
+half-blindly
+half-blood
+half-blooded
+half-blown
+half-board
+half-boiled
+half-boiling
+half-boot
+half-bound
+half-bowl
+half-breadth plan
+half-bred
+half-breed
+half-brilliant cut
+half-broken
+half-carried
+half-caste
+half-cell
+half-cent
+half-chanted
+half-cheek
+half-civil
+half-civilized
+half-civilly
+half-clear
+half-clearly
+half-climbing
+half-closed
+half-closing
+half-cock
+half-colored
+half-completed
+half-concealed
+half-concealing
+half-congealed
+half-conquered
+half-conservative
+half-conservatively
+half-consonant
+half-consumed
+half-consummated
+half-convicted
+half-convinced
+half-cooked
+half-cordate
+half-corrected
+half-cotton
+half-counted
+half-courtline
+half-cousin
+half-covered
+half-cracked
+half-crazed
+half-crazy
+half-critical
+half-critically
+half-crown
+half-crumbled
+half-crumbling
+half-cured
+half-cut
+half-dark
+half-day
+half-dazed
+half-dead
+half-dead escapement
+half-deaf
+half-decade
+half-decker
+half-defiant
+half-defiantly
+half-deified
+half-demented
+half-democratic
+half-demolished
+half-denuded
+half-destroyed
+half-developed
+half-digested
+half-dime
+half-discriminated
+half-discriminating
+half-disposed
+half-divine
+half-divinely
+half-dollar
+half-done
+half-door
+half-dozen
+half-dram
+half-drowned
+half-drowning
+half-drunk
+half-drunken
+half-dug
+half-dying
+half-eagle
+half-earnest
+half-earnestly
+half-eaten
+half-ebb
+half-educated
+half-farthing
+half-farthings
+half-feminine
+half-fertile
+half-fertilely
+half-fictitious
+half-fictitiously
+half-filled
+half-firkin
+half-fish
+half-flood
+half-florin
+half-folded
+half-formed
+half-forward
+half-furnished
+half-gallon
+half-gill
+half-god
+half-grown
+half-guinea
+half-hard
+half-hardy
+half-harvested
+half-headed
+half-healed
+half-heard
+half-heathen
+half-hidden
+half-hitch
+half-holiday
+half-hollow
+half-horse
+half-hour glass
+half-hunter
+half-hypnotized
+half-imperial
+half-inch
+half-inferior
+half-informed
+half-informing
+half-informingly
+half-inherited
+half-instinctive
+half-instinctively
+half-intellectual
+half-intellectually
+half-intelligible
+half-intelligibly
+half-intoxicated
+half-iron
+half-island
+half-jack
+half-jelled
+half-knot
+half-know
+half-lap joint
+half-lapped
+half-lattice girder
+half-latticed
+half-learned
+half-learnedly
+half-learning
+half-leather
+half-left
+half-length
+half-liberal
+half-liberally
+half-life
+half-life period
+half-light
+half-lined
+half-linen
+half-liter
+half-lived
+half-lives
+half-long
+half-looper
+half-lop
+half-lunged
+half-mad
+half-made
+half-marked
+half-marrow
+half-mast
+half-masticated
+half-matured
+half-meant
+half-melted
+half-mental
+half-mentally
+half-merited
+half-miler
+half-minute glass
+half-miseducated
+half-misunderstood
+half-mitten
+half-monitor
+half-moon
+half-moral
+half-mourning
+half-mumbled
+half-mummified
+half-normal
+half-normally
+half-note
+half-numb
+half-nylon
+half-obliterated
+half-on
+half-one
+half-oriental
+half-orphan
+half-oval
+half-oxidized
+half-pace
+half-pay
+half-peck
+half-pint
+half-pipe
+half-pitch
+half-plane
+half-plate
+half-plucked
+half-port
+half-pound
+half-pounder
+half-present
+half-price
+half-profane
+half-professed
+half-profile
+half-proletarian
+half-protested
+half-protesting
+half-proved
+half-proven
+half-provocative
+half-quarter
+half-quartern
+half-quarterpace
+half-quire
+half-radical
+half-radically
+half-rater
+half-raw
+half-rayon
+half-reactionary
+half-read
+half-reclaimed
+half-reclined
+half-reclining
+half-refined
+half-regained
+half-remonstrant
+half-republican
+half-retinal
+half-revealed
+half-reversed
+half-round body file
+half-round file
+half-run
+half-russia
+half-sagittate
+half-savage
+half-savagely
+half-saved
+half-seal
+half-second
+half-section
+half-seen
+half-severed
+half-shot
+half-sib
+half-sibling
+half-sighted
+half-sightedly
+half-sightedness
+half-sinking
+half-size
+half-slip
+half-sole
+half-soled
+half-solid
+half-soling
+half-souled
+half-sovereign
+half-spun
+half-squadron
+half-step
+half-sterile
+half-stock
+half-stocking
+half-stopped
+half-strain
+half-strained
+half-stroke
+half-strong
+half-stuff
+half-submerged
+half-suit
+half-sung
+half-sunk
+half-sunken
+half-swing
+half-sword
+half-syllabled
+half-taught
+half-tented
+half-terete
+half-theatrical
+half-thickness
+half-thought
+half-tide
+half-tide dock
+half-timber
+half-timbered
+half-time
+half-time intermission
+half-timer
+half-title
+half-title page
+half-tone
+half-tongue
+half-track
+half-tracked
+half-trained
+half-training
+half-translated
+half-turn stair
+half-turned
+half-turning
+half-understood
+half-used
+half-utilized
+half-value layer
+half-veiled
+half-vellum
+half-verified
+half-vexed
+half-visibility
+half-visible
+half-volley
+half-volleyed
+half-volleyer
+half-volleying
+half-vowelish
+half-waking
+half-wave rectification
+half-wave rectifier
+half-wavelength
+half-way
+half-white
+half-wicket
+half-winged
+half-womanly
+half-won
+half-woolen
+half-word
+half-world
+half-worsted
+half-woven
+half-written
+half !DETERMINER C
+half !DETERMINER dozen
+half !DETERMINER eye
+half !DETERMINER hundred
+half !DETERMINER idea
+half !DETERMINER million
+half anatropous
+half angel
+half armor
+half blood
+half brau
+half broad
+half diphthong
+half diphthongs
+half dollar
+half dollars
+half farthing
+half farthings
+half G
+half gerund
+half gerunds
+half grand
+half grands
+half header
+half headers
+half life
+half line
+half pay
+half points
+half port
+half rations
+half ray
+half royal
+half rupee
+half seal
+half sizes
+half sol
+half sole
+half sovereign
+half stock
+half story
+half stuff
+half title
+half titles
+half trap
+half traps
+half uncial
+half vowel
+half vowels
+half Wellington
+halfhead bedstead
+hundred
+hundred's place
+hundred-dollar
+hundred-dollar bill
+hundred-percent
+hundred-percent American
+hundred-percenter
+hundred-pound
+hundred-pounder
+hundred-yard dash
+hundred per cent
+hundreds
+hundreds and thousands
+hundredth's place
+hundredths
+hundredweight
+hundredweights
+in !DETERMINER millions of dollars
+in !DETERMINER trillions of dollars
+many-millioned
+million
+millions
+millionth
+millionth comparator
+millionth comparators
+millionths
+multimillion
+multimillions
+nine
+nine-channel
+nine-eyed
+nine-eyes
+nine-fold
+nine-foot
+nine-hole
+nine-holes
+nine-jointed
+nine-killer
+nine-knot
+nine-lived
+nine-member
+nine-million-dollar
+nine-part
+nine-part measure
+nine-part measures
+nine-part time
+nine-part times
+nine-ply
+nine-point
+nine-point circle
+nine-point circles
+nine-pound
+nine-pounder
+nine-power
+nine-share
+nine-shilling
+nine-spined
+nine-spot
+nine-spotted
+nine-step
+nine-syllabled
+nine-tailed
+nine-tenths
+nine-voiced
+nine-volume
+nine-word
+nine volume
+ninepence
+ninepenny morris
+nines
+nineteen
+nineteenth hole
+nineteenth man
+nineteenths
+nineties
+ninetieths
+ninety
+ninety-acre
+ninety-day
+ninety-day wonder
+ninety-eight
+ninety-five
+ninety-four
+ninety-nine
+ninety-one
+ninety-six
+ninety-three
+ninety-ton
+ninety-two
+ninety-word
+ninny-hammer
+ninth-born
+ninth-built
+ninth-class
+ninth-dimension
+ninth-formed
+ninth-hand
+ninth-known
+ninth-mentioned
+ninth-rate
+ninth-told
+ninth chord
+one
+one's
+one's adieus
+one's place
+one-a-cat
+one-acter
+one-armed bandit
+one-base hit
+one-berry
+one-billionth
+one-celled
+one-cent
+one-chambered
+one-channel
+one-class
+one-classer
+one-colored
+one-crop
+one-cusped
+one-decker
+one-dimensional
+one-dimensional wave
+one-dollar
+one-eared
+one-egg
+one-eighty
+one-eyed
+one-eyedness
+one-finned
+one-flowered
+one-foot
+one-footed
+one-fourth
+one-grained
+one-half
+one-hand
+one-handed
+one-handedness
+one-hearted
+one-hoofed
+one-horned
+one-horse
+one-horse town
+one-humped
+one-hundred-fifty
+one-hundred-percenter
+one-hundred-percentism
+one-ideaed
+one-jointed
+one-lane
+one-layered
+one-leaf
+one-leggedness
+one-line octave
+one-lung
+one-lunged
+one-lunger
+one-man
+one-man rule
+one-many
+one-member
+one-million-dollar
+one-millionth
+one-minute
+one-nerved
+one-night
+one-night stand
+one-nighter
+one-oclock
+one-off
+one-one
+one-party rule
+one-party system
+one-pipe
+one-pipe furnace
+one-point
+one-point perspective
+one-pope
+one-pound
+one-pounder
+one-price
+one-quarter
+one-rail
+one-reeler
+one-ribbed
+one-roomed
+one-seater
+one-seeded
+one-sepaled
+one-septate
+one-shot
+one-sidedly
+one-sidedness
+one-spot
+one-star general
+one-step
+one-step rocket
+one-storied
+one-striper
+one-term
+one-third
+one-toed
+one-track
+one-track mind
+one-trillionth
+one-two
+one-valued
+one-volume
+one-way
+one-way communication
+one-way ticket
+one-way trip
+one-windowed
+one-winged
+one-word
+one-world
+one another
+one billionth
+one bone and one flesh
+one cent
+one fifth
+one flesh
+one followed by
+one fourth
+one half
+one half of
+one hundred thousand
+one in !DETERMINER
+one leg
+one lot
+one man
+one millionth
+one mind
+one old cat
+one third !DETERMINER
+one touch of nature
+one trillionth
+one voice
+one volume
+one vote
+one win away
+oneiro-
+oneirocritical
+oneness
+ones
+seven
+seven-banded
+seven-branched
+seven-caped
+seven-card stud
+seven-channel
+seven-channeled
+seven-eleven
+seven-eyed
+seven-eyes
+seven-figure
+seven-fold
+seven-formed
+seven-hand
+seven-league
+seven-league boots
+seven-member
+seven-million-dollar
+seven-nerved
+seven-ounce
+seven-part
+seven-part time
+seven-piled
+seven-ply
+seven-point
+seven-point circle
+seven-poled
+seven-pronged
+seven-quired
+seven-sealed
+seven-shilling
+seven-shooter
+seven-sisters
+seven-spot
+seven-spotted
+seven-step
+seven-syllabled
+seven-thirties
+seven-thirty
+seven-thorned
+seven-tined
+seven-toned
+seven-twined
+seven-twisted
+seven-up
+seven-volume
+seven-word
+seven sisters
+seven sleepers
+seven stars
+seven volume
+sevens
+seventeen
+seventeen-hundreds
+seventeenths
+seventh-dimension
+seventh chord
+seventh nerve
+sevenths
+seventies
+seventieths
+seventy
+seventy-day
+seventy-dollar
+seventy-eight
+seventy-five
+seventy-footer
+seventy-four
+seventy-horse
+seventy-nine
+seventy-odd
+seventy-one
+seventy-seven
+seventy-six
+seventy-three
+seventy-ton
+seventy-two
+six
+six-by-six
+six-canted
+six-cavity
+six-cent
+six-channel
+six-coupled
+six-cut
+six-cylinder
+six-cylindered
+six-dollar
+six-eight
+six-eight time
+six-ell
+six-figure income
+six-figure incomes
+six-figured
+six-foiled
+six-fold
+six-game
+six-grain
+six-gram
+six-gun
+six-lane
+six-master
+six-member
+six-million-dollar
+six-mouth
+six-o-six
+six-ounce
+six-page
+six-part time
+six-ply
+six-pot
+six-pound
+six-pounder
+six-ranked
+six-rayed
+six-ribbed
+six-roomed
+six-rowed
+six-second
+six-shafted
+six-shared
+six-shilling
+six-spot
+six-step
+six-storied
+six-strand
+six-stringed
+six-striped
+six-syllable
+six-team
+six-three-three
+six-volume
+six-wheel
+six-wheeled
+six-wheeler
+six-winged
+six-word
+six-yard
+six-yard area
+six-yard line
+six and two threes
+six point
+six volume
+six ways from Sunday
+sixes
+sixpence
+sixpences
+sixpenny
+sixpenny bit
+sixteen
+sixteen-foot
+sixteen-foot stop
+sixteen-pounder
+sixteenth rest
+sixteenths
+sixth-dimension
+sixth-form
+sixth-grade
+sixth-rate
+sixth chord
+sixth column
+sixth form
+sixth nerve
+sixths
+sixties
+sixtieths
+sixty
+sixty-eight
+sixty-five
+sixty-four
+sixty-fourmo
+sixty-fourmos
+sixty-fourth note
+sixty-fourth rest
+sixty-nine
+sixty-one
+sixty-seven
+sixty-six
+sixty-three
+sixty-two
+sixty per cent
+ten
+ten's place
+ten-
+ten-a-penny
+ten-bore
+ten-cell
+ten-cent
+ten-channel
+ten-coupled
+ten-course
+ten-cylindered
+ten-dollar
+ten-eighty
+ten-fold
+ten-forties
+ten-gallon
+ten-gauge
+ten-grain
+ten-guinea
+ten-horsepower
+ten-jointed
+ten-keyed
+ten-league
+ten-member
+ten-million-dollar
+ten-parted
+ten-pennies
+ten-penny
+ten-percenter
+ten-pins
+ten-ply
+ten-point
+ten-pound
+ten-pounds
+ten-rayed
+ten-share unit stock
+ten-share unit stocks
+ten-shilling
+ten-spined
+ten-step
+ten-strike
+ten-strikes
+ten-to-one
+ten-twenty-thirty
+ten-volume
+ten-weeks stock
+ten-weeks stocks
+ten-word
+ten cent
+ten cents
+ten million
+ten strike
+ten strikes
+ten thousand
+ten to one
+ten volume
+third-class mail
+third-class mailing
+third-class mailings
+third-degree
+third-dimension
+third-estate
+third-force
+third-hand
+third-order
+third-party
+third-party procedures
+third-rail
+third-rank
+third-rate mail
+third-rate mails
+third-string
+third-strings
+third-world
+third astute
+third astutes
+third base
+third bases
+third degree
+third degrees
+third estate
+third estates
+third house
+third houses
+third law of motion
+third law of thermodynamics
+third market
+third markets
+third mortgage
+third mortgages
+third order
+third orders
+third parties
+third parties'
+third party
+third party's
+third party procedure
+third rank
+third sex
+third sexes
+third stomach
+third stomachs
+third string
+third strings
+third ventricle
+third ventricles
+third world
+third world's
+thirds
+thirlage
+thirlages
+thirst after
+thirst country
+thirteen
+thirteen-lined gopher
+thirteen-lined gophers
+thirteen-pence halfpennies
+thirteen-pence halfpenny
+thirteen-stone
+thirteen-stones
+thirteenths
+thirties
+thirtieths
+thirty
+thirty-eight
+thirty-five
+thirty-four
+thirty-gunner
+thirty-nine
+thirty-one
+thirty-pound
+thirty-second note
+thirty-second notes
+thirty-second rest
+thirty-second rests
+thirty-seven
+thirty-six
+thirty-thirty
+thirty-three
+thirty-ton
+thirty-two
+thirty-twomo
+thirty-twomos
+thirty-word
+thousand
+thousand-dollar
+thousand-dollars
+thousand-pound
+thousand dollar
+thousand dollars
+thousands
+thousandth
+thousandth's place
+thousandths
+three
+three-
+three-a-cat
+three-accent
+three-acre
+three-aged
+three-aisled
+three-alarm fire
+three-and-a-halfpenny
+three-angled
+three-arm
+three-arm protractor
+three-armed
+three-awned
+three-bagger
+three-ball
+three-ballmatch
+three-banded
+three-bar
+three-base
+three-base hit
+three-basehit
+three-bearded
+three-bid
+three-blade
+three-bladed
+three-bodied
+three-body
+three-bolted
+three-bottle
+three-bottom
+three-bottom plow
+three-bout
+three-branch
+three-branched
+three-bushel
+three-by-four
+three-capsuled
+three-card
+three-card lant
+three-card loo
+three-card monte
+three-card trick
+three-celled
+three-centered arch
+three-channel
+three-charge
+three-charge rate
+three-chinned
+three-circle
+three-circuit
+three-circuit switch
+three-class
+three-class system
+three-clause
+three-cleft
+three-coat
+three-cocked
+three-color
+three-color photography
+three-color printing
+three-color process
+three-color theory
+three-colored
+three-colour
+three-column
+three-component
+three-crank
+three-credit
+three-crowned
+three-cup
+three-cylinder
+three-D
+three-day fever
+three-day measles
+three-dimensional
+three-dimensional chess
+three-dimensional display
+three-dimensional photography
+three-dimensional war
+three-dimensional wave
+three-dimensionalness
+three-dip
+three-dropped
+three-eared
+three-echo
+three-edged
+three-effect
+three-electrode
+three-em space
+three-eyed
+three-faced
+three-farthing
+three-farthings
+three-fathom
+three-feet-plus
+three-ferry
+three-fibered
+three-field
+three-fifths
+three-figure
+three-fingered
+three-floored
+three-flowered
+three-fold
+three-foot
+three-footed
+three-forked
+three-formed
+three-four time
+three-fourths
+three-fruited
+three-gaited
+three-grained
+three-groined
+three-groove
+three-grooved
+three-guinea
+three-halfpence
+three-halfpenny
+three-halfpennyworth
+three-hand
+three-handed
+three-headed
+three-high
+three-hinged
+three-hooped
+three-horse
+three-in-hand
+three-in-one
+three-index
+three-iron
+three-island ship
+three-jointed
+three-judge
+three-lane
+three-layered
+three-legged race
+three-lettered
+three-life
+three-light
+three-man
+three-mast
+three-master
+three-member
+three-mile limit
+three-million-dollar
+three-minute glass
+three-monthly
+three-mouthed
+three-move
+three-movement
+three-mover
+three-name
+three-necked
+three-nerved
+three-ounce
+three-out
+three-ovuled
+three-pair
+three-part
+three-part harmony
+three-part time
+three-parted
+three-pass
+three-peaked
+three-phase
+three-phase alternating current
+three-phase alternator
+three-phase motor
+three-phase resistance welder
+three-phased
+three-phaser
+three-photon
+three-piece
+three-piece suit
+three-pile
+three-piled
+three-piler
+three-pint
+three-plait
+three-ply
+three-point
+three-point landing
+three-point perspective
+three-point problem
+three-point switch
+three-point turn
+three-pointed
+three-pointers
+three-pointing
+three-position
+three-poster
+three-pound
+three-pound piece
+three-pounder
+three-power receiver
+three-pronged
+three-quality
+three-quart
+three-quarter
+three-quarter-bred
+three-quarter back
+three-quarter bed
+three-quarter binding
+three-quarter nelson
+three-quarter time
+three-quarter tone
+three-quarter turn stair
+three-quarter vamp
+three-quarters
+three-quarters nelson
+three-rail
+three-ranked
+three-reel
+three-ridge
+three-ring
+three-ring circus
+three-ringed
+three-ringed circus
+three-roll
+three-room
+three-roomed
+three-row
+three-rowed
+three-sail
+three-salt
+three-scene
+three-season
+three-second
+three-seeded
+three-sentence
+three-shanked
+three-shaped
+three-shilling
+three-sidedness
+three-sixty
+three-soled
+three-space
+three-span
+three-speed
+three-speed gear
+three-spined
+three-spored
+three-spot
+three-spread
+three-square
+three-square file
+three-stage rocket
+three-star
+three-star general
+three-state
+three-step
+three-striper
+three-styled
+three-suited
+three-syllable
+three-syllable law
+three-syllabled
+three-tailed
+three-thorned
+three-thorned acacia
+three-thread
+three-throw
+three-tie
+three-tie joint
+three-tier
+three-tiered
+three-tined
+three-toed
+three-toes
+three-tongued
+three-toothed
+three-torque
+three-tripod
+three-up
+three-valued
+three-valved
+three-volume
+three-way
+three-way receiver
+three-way spread
+three-way switch
+three-wayed
+three-wheeled
+three-wheeler
+three-winged
+three-wire
+three-wire cable
+three-wire generator
+three-wire system
+three-wive
+three-woods
+three-word
+three-wormed
+three-year old
+three-years
+three balls
+three birds
+three estates
+three hundred
+three o' cat
+three of !DETERMINER kind
+three old cat
+three parts
+three percent
+three R's
+three Rs
+three sheets in
+three sheets to !DETERMINER wind
+three SO4 groups
+three throats
+three times
+three volume
+three wins away
+threefold block
+threefold purchase
+threefold tackle
+threepenny bit
+threepenny piece
+threes
+thrice
+thrice-accented
+thrice-blessed
+thrice-boiled
+thrice-crowned
+thrice-famed
+thrice-great
+thrice-happy
+thrice-honorable
+thrice-noble
+thrice-sold
+thrice-told
+thrice-venerable
+thrice-worthy
+thrice and four
+trillion
+trillions
+trillionth
+trillionth of !DETERMINER second
+trillionth of farad
+trillionth of farads
+trillionth of gram
+trillionths
+trimillion
+twelfth
+twelfth-cake
+twelfths
+twelve
+twelve-acre
+twelve-armed
+twelve-banded
+twelve-bore
+twelve-button
+twelve-candle
+twelve-carat
+twelve-cut
+twelve-dram
+twelve-feet
+twelve-foot
+twelve-footed
+twelve-fruited
+twelve-gated
+twelve-gauge
+twelve-gemmed
+twelve-handed
+twelve-hole
+twelve-horsepower
+twelve-inch
+twelve-labor
+twelve-mile limit
+twelve-mile limits
+twelve-note row
+twelve-note rows
+twelve-oared
+twelve-ounce
+twelve-part
+twelve-pint
+twelve-point
+twelve-point sphere
+twelve-pound
+twelve-pounder
+twelve-rayed
+twelve-shilling
+twelve-spoke
+twelve-tone
+twelve-tone technique
+twelve-tone techniques
+twelve-verse
+twelve-volume
+twelve-wired
+twelve dozen
+twelvemo
+twenties
+twentieth
+twentieths
+twenty
+twenty-carat
+twenty-centimeter
+twenty-centimeters
+twenty-cubit
+twenty-dollar
+twenty-eight
+twenty-five
+twenty-five cents
+twenty-five percent
+twenty-four
+twenty-four carat
+twenty-gauge
+twenty-grain
+twenty-line
+twenty-man
+twenty-mark
+twenty-mesh
+twenty-meter
+twenty-nigger
+twenty-nine
+twenty-one
+twenty-one point casino
+twenty-ounce
+twenty-payment
+twenty-penny
+twenty-plume
+twenty-pound
+twenty-round
+twenty-seven
+twenty-shilling
+twenty-six
+twenty-thread
+twenty-three
+twenty-ton
+twenty-two
+twenty-wood
+twi-
+two
+two-a-cat
+two-alarm fire
+two-and-a-half stripes
+two-aspect
+two-bid
+two-bill
+two-bodies problem
+two-bond
+two-bottom
+two-celled
+two-cent
+two-channel
+two-charge
+two-charge rate
+two-circuit
+two-circuit switch
+two-color press
+two-color printing
+two-colored
+two-compartment vessel
+two-component
+two-course system
+two-cycle
+two-cylinder
+two-dimensional
+two-dimensional wave
+two-dimensionality
+two-dimensionally
+two-dimensioned
+two-dollar
+two-dollar bill
+two-dollar word
+two-door
+two-factor
+two-family
+two-family house
+two-feeder
+two-field system
+two-figure
+two-fingered
+two-fluid
+two-fold
+two-foot
+two-foot octave
+two-footed
+two-for-a-cent
+two-for-a-penny
+two-forked
+two-formed
+two-four
+two-four time
+two-gallon
+two-grained
+two-groove
+two-grooved
+two-guinea
+two-gun
+two-hand
+two-handed
+two-handed saw
+two-handedly
+two-handedness
+two-handled
+two-headed
+two-high
+two-hinged
+two-horned
+two-horse
+two-horsepower
+two-humped
+two-hundred-and-thirty-pound
+two-hundred-kilo
+two-kingdom
+two-level
+two-life
+two-light
+two-line
+two-line octave
+two-lined
+two-lipped
+two-lobed
+two-lunged
+two-man
+two-mast
+two-masted
+two-master
+two-member
+two-membered
+two-million-dollar
+two-minute gun
+two-movement
+two-name
+two-name paper
+two-named
+two-necked
+two-needle
+two-nerved
+two-nozzle
+two-oar
+two-oared
+two-ounce
+two-pair
+two-part
+two-part harmony
+two-part time
+two-parted
+two-party
+two-party system
+two-pass
+two-peaked
+two-person
+two-petaled
+two-phase
+two-phaser
+two-piece
+two-pile
+two-piled
+two-pin escapement
+two-pipe
+two-place
+two-platoon
+two-platoon system
+two-plowed
+two-ply
+two-point
+two-pointic
+two-pole
+two-position
+two-pound
+two-principle
+two-pronged
+two-quart
+two-quarterback
+two-rail
+two-ranked
+two-rate
+two-rayed
+two-realm
+two-revolution
+two-row
+two-sample
+two-seeded
+two-shaft
+two-shafted
+two-shanked
+two-shaped
+two-sheave
+two-shift
+two-shilling
+two-shillingly
+two-shillingness
+two-shot
+two-sided
+two-sidedness
+two-soused
+two-speed
+two-spined
+two-spored
+two-spot
+two-spotted
+two-stage
+two-stall
+two-stalled
+two-star
+two-sticker
+two-storied
+two-stream
+two-stringed
+two-striped
+two-striper
+two-stroke
+two-stroke-cycle
+two-stroke cycle engine
+two-suit
+two-suiter
+two-syllable
+two-tailed test
+two-teeth
+two-thirder
+two-thirds
+two-thirty
+two-three
+two-throw
+two-tiered
+two-tined
+two-to-one
+two-tongued
+two-toothed
+two-topped
+two-track
+two-tusked
+two-twisted
+two-unit
+two-up
+two-valved
+two-volume
+two-way
+two-way communication
+two-way radio
+two-wheel
+two-wheeled
+two-wheeler
+two-wicked
+two-winged
+two-winged insect
+two-winged insects
+two-woods
+two-word
+two-year college
+two-year colleges
+two bits
+two cents
+two door
+two dozen
+two estates
+two fifths
+two hundred
+two leg
+two old
+two old cat
+two or more
+two or three
+two pair
+two volume
+two wins away
+twofer
+twofers
+twopence
+twopences
+twopenny-halfpenny
+twos
+upper ten
+upper ten thousand
+upper ten thousands
+upper tens
+yuan
+yuan-dollar
+yuan-dollars
+yuan dollar
+yuan dollars
+yuans
+zero
+zero-dimensional
+zero-dimensionals
+zero-divisor
+zero-divisors
+zero-lift
+zero-lift angle
+zero-lift angles
+zero-lifts
+zero-point energies
+zero-point energy
+zero-rated
+zero-thrust pitch
+zero-thrust pitches
+zero-zero
+zero-zeroes
+zero ablaut grade
+zero ablaut grades
+zero algebra
+zero algebras
+zero beat
+zero beats
+zero day
+zero days
+zero element
+zero elements
+zero fleck
+zero flecks
+zero grade
+zero grades
+zero gravities
+zero gravity
+zero grazing
+zero grazings
+zero group
+zero groups
+zero hour
+zero hours
+zero magnet
+zero magnets
+zero mark
+zero marks
+zero matricies
+zero matrix
+zero method
+zero methods
+zero oil
+zero oils
+zero point
+zero points
+zero post
+zero posts
+zero potential
+zero potentials
+zero set
+zero sets
+Zero Signal
+zero stage
+zero stages
+zero stem
+zero stems
+zero thrust pitch
+zero thrust pitches
+zero tone
+zero tones
+zero torque pitch
+zero torque pitches
+zero vector
+zero vectors
+zero weather
+zero weathers
+zeroes
+zeros

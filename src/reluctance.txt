@@ -1,0 +1,994 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX forced by
+!AUX forced down !POSSESSIVEPRONOUN throat
+!AUX forced down our throats
+!AUX forced down their throats
+!AUX forced down your throat
+!AUX forced into
+!AUX forced with
+!AUX hesitant
+!AUX pushed to
+!AUX reluctant
+!AUX resigned to
+!AUX resigned to !DETERMINER !IDEA
+!DETERMINER ceded
+!DETERMINER conceded
+!DETERMINER forced
+!DETERMINER mere thought of having to
+!DETERMINER only choice he really
+!DETERMINER only choice he really has
+!DETERMINER only choice she really
+!DETERMINER only choice she really has
+!DETERMINER only choice they really
+!DETERMINER only choice they really have
+!DETERMINER only choice you really
+!DETERMINER only choice you really have
+!DETERMINER reluctant
+!DETERMINER thought of having to
+!DETERMINER unwilling
+!FEEL coerced
+!FEEL forced into
+!FEEL forced to
+!FEEL lukewarm
+!FEEL pressed for
+!FEEL pressed to
+!FEEL pressured to
+!FEEL put upon to
+!FEEL resigned
+!FEEL resigned to
+!FEEL tepid about
+!FEEL tepid toward
+!FORCE !DETERMINER smile
+!GET by barely
+!GET by on
+!GET BY ON ONLY
+!GET by with
+!GET her to admit
+!GET her to agree
+!GET her to believe
+!GET her to concede
+!GET him to admit
+!GET him to agree
+!GET him to believe
+!GET him to concede
+!GET them to admit
+!GET them to agree
+!GET them to believe
+!GET them to concede
+!GET you to admit
+!GET you to agree
+!GET you to believe
+!GET you to concede
+!GIVE up
+!GIVE up for
+!HAVE finally convinced herself
+!HAVE finally convinced himself
+!HAVE finally convinced themselves
+!HAVE finally convinced yourself
+!HAVE finally convinced yourselves
+!HAVE finally persuaded herself
+!HAVE finally persuaded himself
+!HAVE finally persuaded themselves
+!HAVE finally persuaded yourself
+!HAVE finally persuaded yourselves
+!HAVE learned to accept that
+!HAVE no choice but
+!HAVE no choice but to
+!HAVE reservations about
+!HAVE reservations toward
+!HAVE resigned herself
+!HAVE resigned himself
+!HAVE resigned ourselves
+!HAVE resigned themselves
+!HAVE resigned under pressure
+!HAVE resigned yourself
+!HAVE to !REFUTE
+!HaVe to accept !DETERMINER reality
+!HAVe to accept reality
+!HAVE to acknowledge
+!HAVE to admit
+!HAVE to answer to
+!HAVE to back up
+!HAVE to bail out
+!HAVE to be asked to
+!HAVE to be bailed out
+!HAVE to be called away
+!HAVE TO BE CAREFUL ABOUT
+!HAVE TO BE CAREFUL OF
+!HAVE to be dealing with
+!HAVE to be dealt with
+!HAVE to be enduring
+!HAVE to be going through
+!HAVE TO BE ON !DETERMINER LOOKOUT FOR
+!HAVE to be removed
+!HAVE to be reprinted
+!HAVE to be spoon-fed
+!HAVE to be spoonfed
+!HAVE to be subjected to
+!HAVE to be tough against
+!HAVE to bear
+!HAVE to bear through
+!HAVE to bear up
+!HAVE to bear up under
+!HAVE to beat off
+!HAVE to bite !POSSESSIVEPRONOUN tongue
+!HAVE to break
+!HAVE to break it to
+!HAVE to brush off
+!HAVE to brush up against
+!HAVE to brush up on
+!HAVE to buckle under
+!HAVE to call her  down
+!HAVE to call him down
+!HAVE to call me down
+!HAVE to call them down
+!HAVE to call us down
+!HAVE to call you down
+!HAVE to cancel
+!HAVE to conceal
+!HAVE to concede
+!HAVE to conform
+!HAVE to confront
+!HAVE to cope with
+!HAVE to deal with
+!HAVE to deal with before
+!HAVE to decide
+!HAVE to decide between apples and oranges
+!HAVE to decline
+!HAVE to do better
+!HAVE to duke it out
+!HAVE to economize
+!HAVE to face
+!HAVE to face up to
+!HAVE to foot !DETERMINER bill
+!HAVE to force
+!HAVE to forego
+!HAVE to foresake
+!HAVE to fork out
+!HAVE to forsake
+!HAVE to get along without
+!HAVE to get out
+!HAVE to get out of !DETERMINER way
+!HAVE to give in to
+!HAVE to give up
+!HAVE to give up on
+!HAVE to go back to !DETERMINER drawing board
+!HAVE to go back to square one
+!HAVE to go it alone
+!HAVE to go out
+!HAVE to go out of !DETERMINER way
+!HAVE to go through
+!HAVE to go to war
+!HAVE to grieve for
+!HAVE to hear
+!HAVE to hide
+!HAVE to huff and puff
+!HAVE to jump hoops
+!HAVE to keep her in line
+!HAVE to keep him in line
+!HAVE to keep in line
+!HAVE to keep me in line
+!HAVE to keep them in line
+!HAVe to keep us in line
+!HAVE to keep you in line
+!HAVE to lay !PRONOUNOBJECTIVE off
+!HAVE to learn to live with it
+!HAVE to lie
+!HAVE to live down
+!HAVE to live through
+!HAVE to live through !DETERMINER
+!HAVE to live through !POSSESSIVEPRONOUN
+!HAVE to live through it
+!HAVE to live with
+!HAVE to live with it
+!HAVE to look in the face
+!HAVE to look it in the face
+!HAVE to look it right in the face
+!HAVE TO LOOK OUT FOR
+!HAVE to look over !POSSESSIVEPRONOUN shoulder
+!HAVE to look over !POSSESSIVEPRONOUN shoulders
+!HAVE to look over my shoulder
+!HAVE to look over our shoulders
+!HAVE to look over your shoulder
+!HAVE to make-do
+!HAVE to make !POSSESSIVEPRONOUN bed and lie in it
+!HAVE to make !POSSESSIVEPRONOUN beds and lie in it
+!HAVE to make do
+!HAVE to make excuses
+!HAVE to make excuses for
+!HAVE to make my bed and lie in it
+!HAVE to make our bed and lie in it
+!HAVE to make your bed and lie in it
+!HAVE to monkey with
+!HAVE to nix
+!HAVE to part with
+!HAVE to pay up
+!HAVE to placate !DETERMINER
+!HAVE to push into
+!HAVE to put up with
+!HAVE to question
+!HAVE to question !DETERMINER !CLAIM
+!HAVE to question seriously whether
+!HAVE to question whether
+!HAVE TO QUICKLY
+!HAVE to recall
+!HAVE to reckon with
+!HAVE to reckon with !DETERMINER fact
+!HAVE to reckon with !DETERMINER situation
+!HAVE to relive
+!HAVE to resort
+!HAVE to resort to
+!HAVE to rub out
+!HAVE to say that
+!HAVE to scrimp
+!HAVE to scrimp on
+!HAVE to sell out to
+!HAVE to seriously question whether
+!HAVE to shell out
+!HAVE to sit through
+!HAVE to slog through
+!HAVE to spoonfeed
+!HAVE to squirm
+!HAVE to steel herself for
+!HAVE to steel himself for
+!HAVE to steel ourselves for
+!HAVE to steel themselves for
+!HAVE to steep to
+!HAVE to step aside
+!HAVE to stoop to
+!HAVE to strip
+!HAVE to strip from
+!HAVE to strip of
+!HAVE to struggle
+!HAVE to struggle to
+!HAVE to struggle with
+!HAVE to subject
+!HAVE to subject !REFLEXIVEPRONOUN
+!HAVE to subject ourselves
+!HAVE to subject yourself
+!HAVE to subject yourselves
+!HAVE to subsist on
+!HAVE to surrender to
+!HAVE to take on
+!HAVE to talk over
+!HAVE to talk over !DETERMINER noise
+!HAVE to throw up
+!HAVE to turn !POSSESSIVEPRONOUN back on
+!HAVE to turn !POSSESSIVEPRONOUN backs on
+!HAVE to turn our backs on
+!HaVE to turn your back on
+!HAVE to undergo
+!HAVE to unlearn
+!HAVE to wait so long
+!HAVE TO WATCH OUT FOR
+!HAVE to withdraw
+!HAVE to yield
+!HAVE to yield to
+!MUSTSHOULD admit that
+!MUSTSHOULD advise
+!MUSTSHOULD caution
+!MUSTSHOULD confess that
+!MUSTSHOULD go on even
+!MUSTSHOULD go on even in !DETERMINER face
+!MUSTSHOULD go on without
+!MUSTSHOULD persevere even
+!MUSTSHOULD persevere even in !DETERMINER face
+!MUSTSHOULD persevere on without
+!MUSTSHOULD reluctantly
+!MUSTSHOULD reluctantly acknowledge
+!MUSTSHOULD reluctantly recommend
+!MUSTSHOULD wait
+!MUSTSHOULD warn
+!POSSESSIVEPRONOUN forced
+!POSSESSIVEPRONOUN reluctance
+!PUSH against !POSSESSIVEPRONOUN will
+!PUT in a situation
+!PUT upon to
+!ROYALWE !AUX forced
+!ROYALWE !AUX forced to
+!ROYALWE !AUX now forced
+!TRY to deal with
+a forced
+a general reluctance
+a reluctance
+accept reality
+acceptance of reality
+accepted reality
+accepting reality
+accepts reality
+acknowledge defeat
+acknowledge reluctantly
+acknowledged defeat
+acknowledges defeat
+acknowledges reluctantly
+acknowledging defeat
+acknowledging reluctantly
+acquiesce
+acquiesced
+acquiescence
+acquiescences
+acquiescent
+acquiescently
+acquiesces
+acquiescing
+adamant in !POSSESSIVEPRONOUN refusal
+adamant in our refusal
+adamant in your refusal
+adamantly refuse
+adamantly refused
+adamantly refuses
+adamantly refusing
+admits reluctantly
+afraid to be giving up on
+afraid to say
+against her will
+against his will
+against our will
+against their will
+almost-tempted
+almost tempted
+am hesitant
+arm-twisting
+barely getting by
+barely got by
+be forced
+be forced into
+be hesitant
+be pressed
+be pressed for
+be pressed into
+be pressured
+be pressured into
+be reluctant
+be reluctant to
+being put on !DETERMINER spot
+being put upon
+bitter truth
+bitter truths
+bow to pressure
+bowed to pressure
+bowing to pressure
+bows to pressure
+bring her to admit
+bring her to believe
+bring her to concede
+bring her to think
+bring him to admit
+bring him to believe
+bring him to concede
+bring him to think
+bring them to admit
+bring them to believe
+bring them to concede
+bring them to think
+bring you to admit
+bring you to believe
+bring you to concede
+bring you to think
+bringing her to admit
+bringing her to believe
+bringing her to concede
+bringing her to think
+bringing him to admit
+bringing him to believe
+bringing him to concede
+bringing him to think
+bringing them to admit
+bringing them to believe
+bringing them to concede
+bringing them to think
+bringing you to admit
+bringing you to believe
+bringing you to concede
+bringing you to think
+brings her to admit
+brings her to believe
+brings her to concede
+brings her to think
+brings him to admit
+brings him to believe
+brings him to concede
+brings him to think
+brings them to admit
+brings them to believe
+brings them to concede
+brings them to think
+brings you to admit
+brings you to believe
+brings you to concede
+brings you to think
+brought her to admit
+brought her to believe
+brought her to concede
+brought her to think
+brought him to admit
+brought him to believe
+brought him to concede
+brought him to think
+brought them to admit
+brought them to believe
+brought them to concede
+brought them to think
+brought us to admit
+brought us to believe
+brought us to concede
+brought us to think
+brought you to admit
+brought you to believe
+brought you to concede
+brought you to think
+but who !AUX !ROYALWE to judge
+but who !AUX they to judge
+but who !AUX you to judge
+but who is he to judge
+but who is she to judge
+can't bring !PRONOUNOBJECTIVE
+can't bring herself
+can't bring herself to
+can't bring himself
+can't bring himself to
+can't bring themselves
+can't bring themselves to
+can't bring yourself
+can't bring yourself to
+can't get herself
+can't get himself
+can't get themselves
+can't get yourself
+can't go along with
+can barely stand
+can barely tolerate
+can do nothing about
+can not bring herself to
+can not bring himself to
+can not bring ourselves to
+can not bring themselves to
+can not bring yourself to
+can only be worth it if
+can only make sense if
+can only shrug
+can only stand
+can only stand so much
+can reluctantly do nothing
+cannot bring herself
+cannot bring himself
+cannot bring ourselves
+cannot bring themselves
+cannot bring yourself
+cannot get herself
+cannot get himself
+cannot get ourselves
+cannot get themselves
+cannot get yourself
+cannot go along with
+capitulate
+capitulated
+capitulates
+capitulating
+capitulation
+capitulations
+capitulator
+capitulators
+capitulatory
+cede
+cede !DETERMINER
+cedes
+cedes !DETERMINER
+ceding
+ceding !DETERMINER
+compelled to do it
+concede
+conceded with
+concededly
+conceder
+conceders
+concedes
+conceding
+confronted with
+confronted with the choice of
+cornered into
+could not bring herself
+could not bring herself to
+could not bring himself
+could not bring himself to
+could not bring ourselves
+could not bring ourselves to
+could not bring themselves
+could not bring themselves to
+could not bring yourself
+could not bring yourself to
+could not get herself
+could not get himself
+could not get ourselves
+could not get themselves
+could not get yourself
+could only shrug
+couldn't bring herself
+couldn't bring herself to
+couldn't bring himself
+couldn't bring himself to
+couldn't bring ourselves
+couldn't bring ourselves to
+couldn't bring themselves
+couldn't bring themselves to
+couldn't bring yourself
+couldn't bring yourself to
+couldn't get herself
+couldn't get himself
+couldn't get ourselves
+couldn't get themselves
+couldn't get yourself
+deal with !DETERMINER situation
+dealing with !DETERMINER situation
+deals with !DETERMINER situation
+dealt with !DETERMINER situation
+don't want to be put on !DETERMINER spot
+face up
+face up to
+faced up
+faced up to
+faces up
+faces up to
+facing up to
+finally convinced
+finally convinced herself
+finally convinced himself
+finally convinced themselves
+finally gave in to
+finally persuaded
+finally persuaded herself
+finally persuaded themselves
+finallyl persuaded himself
+find herself unwilling
+find himself unwilling
+find ourselves unwilling
+find themselves unwilling
+find yourself unwilling
+finding herself unwilling
+finding himself unwilling
+finding ourselves unwilling
+finding themselves unwilling
+finding yourself unwilling
+finds herself unwilling
+finds himself unwilling
+finds ourselves unwilling
+finds themselves unwilling
+finds yourself unwilling
+forbear
+forbearance
+forbearances
+forbearing
+forbears
+forbore
+forborne
+force herself
+force himself
+force ourselves
+force themselves
+forced herself
+forced himself
+forced in a situation
+forced into it
+forced ourselves
+forced smile
+forced smiles
+forced themselves
+forced to acknowledge
+forced to admit
+forced to do it
+forced to give in to
+forces herself
+forces himself
+forces ourselves
+forces themselves
+forcing herself
+forcing himself
+forcing ourselves
+forcing themselves
+forfeit !DETERMINER
+forfeited
+forfeiting
+forfeits
+found herself unwilling
+found himself unwilling
+found ourselves unwilling
+found themselves unwilling
+found yourself unwilling
+gave up
+gave up for
+general reluctance
+given up
+given up on
+gives up
+got by just barely
+grudging
+grudgingly
+grudgingly agreed
+had no obligation
+had no obligation to
+had rather not
+had sooner not
+had thought better of
+had thought better of !DETERMINER !IDEA
+had thought better than to
+had to acknowledge
+had to admit
+had to agree
+had to back away from
+had to back down from
+had to be acknowledging
+had to be put down
+had to break
+had to capitulate
+had to concede
+had to give up
+had to sleep on it
+had to take on
+had to twist !POSSESSIVEPRONOUN arm
+had to twist !POSSESSIVEPRONOUN arms
+had to twist arms
+had to twist her arm
+had to twist my arms
+had to twist our arms
+had to unlearn
+half-acquiescent
+half-acquiescently
+half-hearted
+half-hearted thanks
+half-heartedly
+half-reluctant
+half-reluctantly
+half-tempted
+half tempted
+hard pressed
+hard pressed to
+hard put
+hard put to
+hard put to it
+hard realities
+hard reality
+hard road to travel
+hard row to hoe
+hard test
+hard time
+hard times
+hard to stomach
+hard truth
+hard truths
+has had to
+has no choice but to
+has no choice except to
+has to acknowledge
+has to admit
+has to agree
+has to be acknowledging
+has to capitulate
+has to concede
+has to give up
+has to sleep on it
+have a reluctance
+have a reluctance for
+have a reluctance with
+have had to
+have to give up
+have to live up to
+have to make a profit
+have to pay back
+have to perform
+have to sleep on it
+have to succeed
+have to wait
+have to win
+have to work
+having to give up
+having to sleep on it
+he does what he has to
+he does what he must
+he held back from
+he is forced
+he is forced to
+he is now forced
+hesitant
+hesitant to
+hesitantly
+hesitate to say
+hope will never
+hope will not
+hoped will never
+hoped will not
+hopes will not
+hopes with never
+hoping will never
+hoping will not
+ingrained reluctance
+just !DETERMINER thought of having to
+just could not
+just could not get herself
+just could not get himself
+just could not get ourselves
+just could not get themselves
+just couldn't
+just getting by
+just have to live with it
+lack of eagerness
+lack of enthusiasm
+leave with no alternative
+leave with no choice
+leaves with no alternative
+leaves with no choice
+leaving with no alternative
+leaving with no choice
+left with no alternative
+left with no choice
+like it or not
+lukewarm to
+manage to acknowledge
+manage to admit
+manage to believe
+manage to concede
+manage to think
+managed to acknowledge
+managed to admit
+managed to believe
+managed to concede
+managed to think
+manages to acknowledge
+manages to admit
+manages to believe
+manages to concede
+manages to think
+managing to acknowledge
+managing to admit
+managing to believe
+managing to concede
+managing to think
+merely getting by
+must reluctantly
+necessary evil
+no choice but to
+no real choice but
+no real choice but to
+not eager
+not enthusiastic
+only getting by
+only hesitantly
+our forced
+our reluctance
+paralyzed to do anything
+placed in a situation
+pressured into
+pressured into a situation
+RECONCILE !PRONOUNOBJECTIVE TO
+RECONCILES !PRONOUNOBJECTIVE TO
+RECONCILING !PRONOUNOBJECTIVE TO
+regret
+regret any inconvenience
+regret having
+regret having to
+regret so much
+regret that
+regret to have to say
+regret to inform you
+regret to say
+regreted so much
+regretful
+regretfully
+regreting so much
+regrets
+regrets any inconvenience
+regrets having
+regrets having to
+regrets so much
+regrets that
+regrets tht
+regrettable
+regrettables
+regrettably
+regretted about
+regretted any inconvenience
+regretted for
+regretted from
+regretted in
+regretted inside
+regretted on
+regretted that
+regretted to have
+regretted to have to
+regretted toward
+regretted towards
+regretted with
+regretting
+regretting any inconvenience
+regretting that
+regretting to have
+regretting to have to
+reluctance
+reluctance for
+reluctance with
+reluctant
+reluctant about
+reluctant compliance
+reluctant to
+reluctant to acknolwedge
+reluctant to comply
+reluctant to do
+reluctant to say
+reluctant toward
+reluctantly
+reluctantly acknowledge
+reluctantly acquiesced
+reluctantly acquiescent
+reluctantly compliant
+reluctantly complied
+reluctantly complies
+reluctantly complying
+reluctantly concede
+reluctantly conceded
+reluctantly conceded that
+reluctantly conceded to
+reluctantly concedes
+reluctantly conceding
+reluctantness
+relucted
+relucting
+relucts
+reservation about
+reservation over
+reservation toward
+reservations about
+reservations over
+reservations toward
+resign !DETERMINER
+resign to
+resign under fire
+resign under pressure
+resignation toward
+resignation toward !DETERMINER
+resigned to
+resigned to !DETERMINER
+resigned to that
+resigned under pressure
+resigning to
+resigning under pressure
+resigns to
+resigns under pressure
+resort to
+resorted to
+resorting to
+resorts to
+serious reservation
+serious reservations
+she does what she has to
+she does what she must
+she held back from
+she is forced
+she is forced to
+she is now forced
+sober truth
+sober truths
+sobering truth
+sobering truths
+sorry to
+sorry to acknowledge
+sorry to discover
+sorry to discover that
+sorry to find
+sorry to find out
+sorry to find that
+sorry to have to
+sorry to have to tell
+sorry to hear
+sorry to learn
+sorry to learn that
+sorry to realize
+sorry to recognize
+sorry to report
+sorry to say
+stuck having
+stuck looking
+stuck looking for
+stuck with barely enough
+stuck with having
+stuck with needing
+that he has to
+that she has to
+that they have to
+that you have to
+they !AUX forced
+they !AUX forced to
+they !AUX now forced
+they do what they have to
+they do what they must
+they held back from
+thought better of
+thought better of !DETERMINER !IDEA
+thought better of it than
+thought better of it than to
+thought better than to
+thought twice
+thought twice about
+thought twice before
+to be caught in
+to be put in a situation
+to be trapped in
+to face up to
+to find herself in
+to find himself in
+to find ourselves in
+to find themselves in
+to find yourself in
+to have to
+to have to cope
+to have to cope with
+to have to struggle
+tried to cope with
+tries to cope with
+try to cope with
+trying to cope with
+ultimately gave in
+ultimately gave in to
+un-thought-of
+uneager
+uneagerly
+uneagerness
+unenthusiastic
+unenthusiastically
+unthink
+unthinking !DETERMINER
+unthinking a
+unthinks
+unthought
+unwilled
+unwilling
+unwilling !MOTIONPREP
+unwilling about
+unwilling to
+unwilling to accept
+unwilling to forgive and forget
+unwillingly
+unwillingness
+unyield attitude
+unyielding
+unyieldingly
+unyieldingness
+was coerced
+was hesitant
+was pressured
+was reluctant
+were hesitant
+were reluctant
+who !AUX they to judge
+who !AUX you to judge
+who is he to judge
+who is she to judge
+will be coerced
+will be forced
+will have to pay
+willing to cede
+willing to cede with
+willing to concede
+willingness to concede
+with !DETERMINER reluctance
+with a general reluctance
+with a reluctance
+with grudging
+with much reluctance
+with regret
+with regrets
+with reluctance
+with sad resignation
+with sadness
+with some reluctance
+with sorrow
+would as soon not
+Would be unwilling to
+would have to pay
+you !AUX forced
+you !AUX forced to
+you !AUX now forced to
+you do what you have to
+you do what you must
+your forced

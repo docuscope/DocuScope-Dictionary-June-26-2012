@@ -1,0 +1,114 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!DETERMINER buzz
+!DETERMINER gossip is that
+!DETERMINER GOSSIP OF
+buzz on !DETERMINER street
+by a blogger
+by a journalist
+by podcasting
+by podcasts
+celebrities
+celebrity
+circulation of
+coconut radio
+coconut radios
+downloaded by
+downloaded over
+flying rumors
+from a journalist
+gone viral
+gossip
+gossip made tedious by morality
+gossiped about
+gossiped at
+gossiped in
+gossiped on
+gossiped with
+gossiping
+gossips
+gossipy
+hot buzz
+hot political buzz
+idle gossips
+in !DETERMINER media
+in !DETERMINER newspaper
+in !DETERMINER newspapers
+in !DETERMINER papers
+in a blog
+in a book authored by
+in a book by
+in print
+in the paper
+in the poll
+in the polls
+into print
+listened to by
+listened to over
+market share of
+meme
+memes
+on !DETERMINER blog
+on !DETERMINER blog of
+on !DETERMINER blogs of
+on !DETERMINER Internet
+on !DETERMINER radio
+on !DETERMINER world wide web
+on a blog
+on radio
+on television
+on TV
+over !DETERMINER Internet
+over !DETERMINER network
+over !DETERMINER phone
+over !DETERMINER radio
+over !DETERMINER transom
+over !DETERMINER wire
+over !DETERMINER wires
+over !DETERMINER world wide web
+over a blog
+over podcast
+over podcasts
+over print
+piece of gossip
+pieces of gossip
+political buzz
+poll reports
+poll shows
+polls report
+polls show
+polls suggest
+published by
+published in
+pulse of !DETERMINER street
+pulse on !DETERMINER street
+release of
+retail-gossip
+retail gossip
+rumblings on !DETERMINER street
+rumor
+rumor and speculation
+rumored
+rumored-about
+rumored-over
+rumored about
+rumored over
+rumored to be
+rumoring
+rumors
+rumors and speculation
+rumors on !DETERMINER street
+talk across town
+talk of !DETERMINER town
+the constant buzz around here
+the pundits say
+the talk among those in the know
+the talk around here
+the talk in political circles
+the talk in some circles
+viewed by
+watched by
+with a share of
+with an audience of

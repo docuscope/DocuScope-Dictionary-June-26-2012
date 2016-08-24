@@ -1,0 +1,300 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX forced down my throat
+!DETERMINER only choice !ROYALWE really
+!DETERMINER only choice !ROYALWE really have
+!FORCE me
+!FORCE my hand
+!GET me to admit
+!GET me to agree
+!GET me to believe
+!GET me to concede
+!GET us to admit
+!GET us to agree
+!GET us to believe
+!GET us to concede
+!HAVE to force myself
+!HAVE to steel myself for
+!HAVE to subject myself
+!HAVE to turn my back on
+!ROYALWE accept that
+!ROYALWE adamant refuse
+!ROYALWE adamantly refuse to
+!ROYALWE am afraid !ROYALWE have to
+!ROYALWE am afraid that !ROYALWE must
+!ROYALWE am afraid that you
+!ROYALWE am ambivalent
+!ROYALWE am being pressured into
+!ROYALWE am being put on !DETERMINER spot
+!ROYALWE am caught in
+!ROYALWE am compelled
+!ROYALWE am dealing with !DETERMINER situation
+!ROYALWE am forced
+!ROYALWE am forced in a situation
+!ROYALWE am forced to
+!ROYALWE am half-hearted about
+!ROYALWE am having to deal with
+!ROYALWE am hesitant to
+!ROYALWE am mixed
+!ROYALWE am mixed about
+!ROYALWE am not unwilling
+!ROYALWE am now forced to
+!ROYALWE am now in a position where !ROYALWE have to
+!ROYALWE am obligated
+!ROYALWE am of a mixed
+!ROYALWE am put in a situation
+!ROYALWE am reluctant
+!ROYALWE am reluctantly
+!ROYALWE am required
+!ROYALWE am resigned
+!ROYALWE am resigned to
+!ROYALWE am resigned to that
+!ROYALWE am sorry that
+!ROYALWE am sorry to
+!ROYALWE am sorry to acknowledge
+!ROYALWE am sorry to find
+!ROYALWE am sorry to hear
+!ROYALWE am sorry to learn
+!ROYALWE am sorry to realize
+!ROYALWE am sorry to recognize
+!ROYALWE am sorry to report
+!ROYALWE am to be put in a situation
+!ROYALWE am trapped in
+!ROYALWE am unwilling
+!ROYALWE am very reluctant
+!ROYALWE beg to differ
+!ROYALWE can't accept
+!ROYALWE can't accept !DETERMINER !IDEA that
+!ROYALWE can't accept that
+!ROYALWE can't help but believe
+!ROYALWE can't help but think
+!ROYALWE can't help but think that
+!ROYALWE can barely stand
+!ROYALWE can barely tolerate
+!ROYALWE can only stand
+!ROYALWE can stand only
+!ROYALWE cannot accept
+!ROYALWE deal with !DETERMINER situation
+!ROYALWE dealt with
+!ROYALWE dealt with !DETERMINER situation
+!ROYALWE do what !ROYALWE have to
+!ROYALWE do what !ROYALWE must
+!ROYALWE feel !ROYALWE !MUSTSHOULD
+!ROYALWE finally decided to deal with
+!ROYALWE finally gave in
+!ROYALWE finally had to
+!ROYALWE find !ROYALWE !MUSTSHOULD
+!ROYALWE find !ROYALWE have to
+!ROYALWE find myself caught in
+!ROYALWE find myself having to
+!ROYALWE find myself having to deal with
+!ROYALWE find myself trapped in
+!ROYALWE find myself unwilling
+!ROYALWE found !ROYALWE had to
+!ROYALWE gave it up
+!ROYALWE gave it up for
+!ROYALWE gave up
+!ROYALWE gave up on
+!ROYALWE had little choice
+!ROYALWE had no choice
+!ROYALWE had thought better of
+!ROYALWE had thought better of !DETERMINER !IDEA
+!ROYALWE had thought better than to
+!ROYALWE had to
+!ROYALWE had to acquiesce
+!ROYALWE had to be
+!ROYALWE had to be acquiescent
+!ROYALWE had to be acquiescing
+!ROYALWE had to capitulate
+!ROYALWE had to give up
+!ROYALWE had to resign
+!ROYALWE hate to
+!ROYALWE hate to say
+!ROYALWE hate to say !ROYALWE really shouldn't
+!ROYALWE hate to say !ROYALWE shouldn't
+!ROYALWE have a general reluctance
+!ROYALWE have a reluctance
+!ROYALWE have been caught in
+!ROYALWE have been forced into a situation
+!ROYALWE have been placed in a situation
+!ROYALWE have been pressured into
+!ROYALWE have been pressured into a situation
+!ROYALWE have been put in a situation
+!ROYALWE have been put on !DETERMINER spot
+!ROYALWE have been trapped in
+!ROYALWE have been unable
+!ROYALWE have been unable to
+!ROYALWE have convinced myself
+!ROYALWE have finally persuaded myself
+!ROYALWE have had to
+!ROYALWE have learned to accept that
+!ROYALWE have no alternative
+!ROYALWE have no choice
+!ROYALWE have no choice but
+!ROYALWE have no choice but to
+!ROYALWE have persuaded myself
+!ROYALWE have resigned myself
+!ROYALWE have to
+!ROYALWE have to deal
+!ROYALWE have to deal with !DETERMINER situation
+!ROYALWE have to say !ROYALWE shouldn't
+!ROYALWE haven't been able
+!ROYALWE held back from
+!ROYALWE honestly don't want to
+!ROYALWE hope !ROYALWE never have to
+!ROYALWE just can't bear
+!ROYALWE just couldn't
+!ROYALWE just couldn't get myself
+!ROYALWE just shouldn't
+!ROYALWE now have to
+!ROYALWE really don't want to
+!ROYALWE regret
+!ROYALWE regret !ROYALWE had to
+!ROYALWE regret having to
+!ROYALWE regret that
+!ROYALWE regret to say
+!ROYALWE regret very much
+!ROYALWE regrettably
+!ROYALWE regrettably have to
+!ROYALWE reluctantly
+!ROYALWE shouldn't have to
+!ROYALWE thought better of
+!ROYALWE thought better of !DETERMINER !IDEA
+!ROYALWE thought better than to
+!ROYALWE ultimately gave in
+!ROYALWE was coerced
+!ROYALWE was compelled
+!ROYALWE was forced
+!ROYALWE was obligated
+!ROYALWE was pressured
+!ROYALWE was required
+!ROYALWE will have to live with it
+!ROYALWE will just have to live with it
+adamant in my refusal
+against my will
+bring me to admit
+bring me to believe
+bring me to concede
+bring me to think
+bring us to admit
+bring us to believe
+bring us to concede
+bring us to think
+bringing me to admit
+bringing me to believe
+bringing me to concede
+bringing me to think
+bringing us to admit
+bringing us to believe
+bringing us to concede
+bringing us to think
+brings me to admit
+brings me to believe
+brings me to concede
+brings me to think
+brings us to admit
+brings us to believe
+brings us to concede
+brings us to think
+brought me to admit
+brought me to believe
+brought me to concede
+brought me to think
+but who am !ROYALWE to judge
+can't bring myself
+can't bring myself to
+can't bring ourselves
+can't bring ourselves to
+can't get myself
+can't get ourselves
+can not bring myself to
+cannot bring myself
+cannot bring myself to
+cannot get myself
+could not bring myself to
+couldn't bring myself
+couldn't get myself
+couldn't get myself to
+finally convinced myself
+finally gave in to myself
+finally persuaded myself
+find myself unwilling
+finding myself unwilling
+finds myself unwilling
+force myself
+forced down my throat
+forced myself
+forces myself
+forcing myself
+found myself unwilling
+I'm afraid
+I'm afraid I !MUSTSHOULD
+I'm afraid I !MUSTSHOULD advise
+I'm afraid I !MUSTSHOULD allow
+I'm afraid I !MUSTSHOULD be cruel only to be kind
+I'm afraid I !MUSTSHOULD beg to differ
+I'm afraid I !MUSTSHOULD campaign
+I'm afraid I !MUSTSHOULD caution
+I'm afraid I !MUSTSHOULD deal with
+I'm afraid I !MUSTSHOULD do what I'm afraid I have to do
+I'm afraid I !MUSTSHOULD fight
+I'm afraid I !MUSTSHOULD fulfill my obligation
+I'm afraid I !MUSTSHOULD fulfill my obligations
+I'm afraid I !MUSTSHOULD leave
+I'm afraid I !MUSTSHOULD let
+I'm afraid I !MUSTSHOULD let you know
+I'm afraid I !MUSTSHOULD permit
+I'm afraid I !MUSTSHOULD recommend
+I'm afraid I !MUSTSHOULD say
+I'm afraid I !MUSTSHOULD think better of
+I'm afraid I !MUSTSHOULD warn
+I'm afraid I have to
+I'm afraid I need to
+I'm afraid I ought to
+I'm afraid I should
+I'm afraid that
+I'm being forced into
+I'm being pushed into
+I'm finding I have to
+I'm quite reluctant
+I'm reluctant
+I'm very reluctant
+I've been unable to
+it's against my
+just could not get myself
+my arm's being twisted
+my arm had to be twisted
+my compelled
+my forced
+my obligated
+my reluctance
+reconcile myself
+reconcile myself to
+reconciled myself
+reconciled myself to
+reconciles myself
+reconciles myself to
+reconciling myself
+reconciling myself to
+regrettably !ROYALWE
+regrettably, !ROYALWE
+reluctantly !ROYALWE
+reluctantly !ROYALWE am
+right under my nose
+that !ROYALWE have no choice
+that !ROYALWE have to
+though !ROYALWE don't want to
+though it's against my
+we've been unable
+we've been unable to
+we will have to live with it
+we will just have to live with it
+whether !ROYALWE want to or not
+who am !ROYALWE to judge
+with great relucatance !ROYALWE
+with great reluctance !ROYALWE
+with reluctance !ROYALWE
+with some reluctance !ROYALWE
+you give me no choice but

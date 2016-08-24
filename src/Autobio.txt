@@ -1,0 +1,674 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!LIVE my life
+!QUESTION I discovered
+!QUESTION I learned
+!QUESTION I was
+!TIMEFRAME of my childhood
+, how I
+, what I
+, when I
+, whenever I
+, where I used to
+, who I have
+, why I
+about the time of my
+am an experienced
+am experienced
+am experienced living
+am experienced living and working
+am experienced working
+am familiar with
+am very familiar with
+around the time of my
+as a boy I
+as a boy I would
+as a child I
+as a child I often
+as a girl I
+as a girl I would
+as a young boy I
+as a young boy I would
+as a young girl I
+as a young girl I would
+as a young man I
+as a young man I would
+as a young woman I
+as a young woman I would
+as early as I can
+as early as I can remember
+as early as I could
+as I aged
+as I became a man
+as I became a woman
+as I became an old man
+as I became an old woman
+as I blossomed
+as I entered boyhood
+as I entered manhood
+as I flew out the nest
+as I flew the coup
+as I gained more experience
+as I got bigger
+as I got my first job
+as I got older
+as I grew
+as I grew from boy to man
+as I grew from girl to woman
+as I grew up
+as I have often said
+as I learned the ropes
+as I left home
+as I left the nest
+as I matured
+as I near the end of my career
+as I often say
+as I once was
+as I recollect
+as I ripened
+as I spread my wings
+as I started school
+as I was later to
+as I was to
+as I was to later
+as I went out on my own
+as I wised up
+as my memory
+as soon as I
+as soon as I could
+as soon as I got
+as soon as I had
+as soon as I met
+as we once were
+born before my time
+born before our time
+came upon me
+corner of my memories
+corner of my memory
+corners of my memory
+could I have known
+devote my life
+devoted my life
+devotes my life
+devoting my life
+during my time
+during my time at
+during my time in
+during my time with
+earlist years of my
+early I was
+early years of my
+early years of my childhood
+even in my early years I
+everything to me
+first years of my
+first years of my childhood
+for as long as I can remember
+for as long as I can remember I
+for my !RANKNUMBER birthday
+from as early as I can remember
+from my days of
+from my years of
+from the time I
+from the time I could
+from the time I got
+from the time I had
+from the time I met
+generally I
+had changed from my days
+had fallen on my shoulders
+had often hurt me
+had slipped from my days
+had touched me
+had touched my
+has crossed my mind
+he said to me
+he says to me
+he took pity on me
+hidden from me
+hit me
+I'd !ROUTINEACT
+I'd always
+I'd grown up with
+I'd have
+I'd have preferred
+I'd have rather
+I'd often say
+I'd often VERBSTEM
+I'm !ROUTINEACT
+I'm always
+I'm from
+I've
+I've always
+I've always been
+I've been
+I've been called
+I've been having
+I've been having !DETERMINER
+I've been known to
+I've been meaning to
+I've been meaning to come
+I've grown up with
+I've jumped around
+I've jumped around the !GEOREGION
+I've knocked around
+I've known
+I've long
+I've long been
+I've long known
+I've often
+I've often been
+I !ROUTINEACT used to
+I always
+I always became
+I always got
+I always have
+I always used to
+I always used to be
+I always went in for
+I am experienced living
+I am experienced living and working
+I am experienced working
+I am known to
+I am prone to
+I began
+I began a
+I began the
+I can recall
+I can remember
+I can still
+I come from
+I could be found
+I could often be found
+I did have
+I do not remember
+I ever could
+I ever had
+I ever will have
+I generally
+I grew to
+I had
+I had !ROUTINEACT
+I had !ROUTINEACT been
+I had always been
+I had been
+I had been living
+I had been tempted
+I had ever
+I had ever witnessed
+I had grown up with
+I had long
+I had long been
+I had long been committed to
+I had long believed
+I had long committed myself to
+I had long stood for
+I had long thought
+I had reservations about
+I had the feeling
+I had wanted
+I had wanted to
+I have !DETERMINER tendency to
+I have !ROUTINEACT
+I have !ROUTINEACT been
+I have !TIMEFRAME of experience
+I have a !TIMEFRAME of experience
+I have always
+I have always !MAKE it a point
+I have always admired
+I have always been
+I have always believed in
+I have always carried as a role model
+I have always championed
+I have always craved
+I have always dreamed
+I have always enjoyed
+I have always had a thing about
+I have always had as a role model
+I have always held as a role model
+I have always hoped
+I have always liked
+I have always looked up to
+I have always prided myself
+I have always said
+I have always stood for
+I have always tried
+I have always tried my best
+I have always wanted
+I have always wanted to
+I have always yearned
+I have become
+I have been
+I have been aware of
+I have been known to
+I have been living
+I have been musing
+I have been tempted
+I have craved
+I have ever
+I have grown up with
+I have had
+I have had the feeling
+I have known
+I have known !PRONOUNOBJECTIVE
+I have known !PRONOUNOBJECTIVE over
+I have known !PRONOUNOBJECTIVE since
+I have long
+I have long been
+I have long been committed to
+I have long believed
+I have long committed myself to
+I have long stood for
+I have long thought
+I have made clear
+I have made clear that
+I have never been
+I have never disclosed this before
+I have never had
+I have never really
+I have never revealed this before
+I have never said this publicly
+I have often
+I have often been
+I have often said
+I have only
+I have only been
+I have only been to
+I have reservations about
+I have since
+I have still
+I have to this day
+I have wanted
+I have wanted to
+I have worked for
+I haven't
+I haven't even
+I haven't ever
+I in restrospect
+I keep thinking
+I look back
+I look back upon this
+I might still
+I never
+I never in my life
+I never went in for
+I now remember
+I often have had the feeling
+I often thought of
+I recall
+I recollect
+I remember
+I remember that
+I remember when
+I share a penchant for
+I share a proclivity for
+I started
+I still believe
+I still feel
+I stopped
+I tend to
+I took pity on myself
+I used to
+I used to be
+I was
+I was always tempted
+I was born
+I was born and raised
+I was born into a
+I was known to say
+I was living
+I was named after a
+I was named after my
+I was named after the
+I was not long in
+I was not long in finding out
+I was raised
+I was raised on
+I was raised with
+I was reminded of
+I was right
+I was right when
+I went in for
+I went on to
+I work as a
+I would !ROUTINEACT
+I would always
+I would always say
+I would be
+I would often
+I would routinely say
+I write as a
+I?m CFO
+in !RANKNUMBER grade I
+in !RANKNUMBER grade, I
+in all my born days
+in all my career
+in all my years
+in my !RANKNUMBER !TIMEFRAME
+in my 20s
+in my 30s
+in my 40s
+in my 50s
+in my 60s
+in my 70s
+in my 80
+in my 90s
+in my adolescence
+in my adulthood
+in my career
+in my childhood
+in my earlier years
+in my effort
+in my efforts
+in my eighties
+in my fifties
+in my forties
+in my freshman !TIMEFRAME
+in my junior !TIMEFRAME
+in my nineties
+in my own case
+in my own lifetime
+in my prime
+in my salad days
+in my second childhood
+in my senior !TIMEFRAME
+in my seventies
+in my sixties
+in my sophomore !TIMEFRAME
+in my teens
+in my thirties
+in my travel
+in my travels
+in my twenties
+in my years
+in my youth
+in pity for me
+in retrospect I
+it is increasingly occurring to me
+it isn't often that I
+it takes me
+it took me
+it was my
+it was only when
+it was only when I could
+it was only when I got
+it was only when I had
+it was only when I met
+it wasn't until had
+it wasn't until I
+it wasn't until I could
+it wasn't until I got
+it wasn't until I met
+it wasn't until I went
+later years of my
+little did I know
+my adolescence
+my adulthood
+my ancestor's
+my ancestors
+my aunt
+my aunt's
+my aunts
+my background
+my background in
+my birth
+my birthplace
+my born days
+my boyhood
+my burning youth
+my childhood
+my cousin
+my cousin's
+my cousins
+my craft and sullen art
+my cultural identity
+my dad
+my dad's
+my daddy
+my daddy's
+my daughter
+my daughter's
+my daughters
+my days of
+my earliest
+my earliest memories
+my early adulthood
+my early memories
+my entire life
+my entire world
+my families
+my family's
+my family tree
+my father
+my father's
+my father was a
+my fathers
+my fathers'
+my first
+my first !TIMEFRAME
+my first !TIMEFRAME at
+my first !TIMEFRAME on
+my first !TIMEFRAME with
+my first actual
+my first bout
+my first challenge
+my first fight
+my first image
+my first impression
+my first match
+my first meeting with
+my first memories
+my first prayer
+my first real
+my first sight of
+my first true
+my fond memories
+my fondest memories
+my fondest memory
+my girlhood
+my goal in life
+my goal in life has been
+my goal in life has been to
+my grandchild
+my grandchild's
+my grandchildren
+my grandfather
+my grandfather's
+my grandfather was a
+my grandfathers'
+my grandmother
+my grandmother's
+my grandmother was a
+my grandmothers
+my grandparent's
+my great grandfather
+my great grandmother
+my green age
+my heritage
+my history
+my humble self
+my last bout
+my last challenge
+my last fight
+my last match
+my LAST PRAYER
+my life
+my longest memories
+my memory
+my memory can
+my memory can take
+my MOM
+my mom's
+my mommy
+my mommy's
+my moms
+my months of
+my mother
+my mother's
+my mother was a
+my mothers
+my name
+my old haunts
+my old stomping grounds
+my oldest memories
+my original
+my parent
+my parent's
+my parents
+my past
+my period of
+my periods of
+My social life
+my time
+my time of
+my times
+my tradition
+my traditions
+my uncles
+my whole life
+my whole world
+my world
+my years of
+my youth
+name me after
+named me after
+names me after
+naming me after
+not until later in life did I
+of my time
+of my times
+of my youth
+often hurt me
+on my !RANKNUMBER birthday
+only in my later years did
+only much later did I
+our first bout
+our first challenge
+our first fight
+our first match
+our first prayer
+our last bout
+our last challenge
+our last fight
+our last match
+our LAST PRAYER
+out of pity for me
+over all my years
+over my years
+over the years I
+over the years, I
+pity for me
+place of my birth
+Pursue my studies
+raised in !POSSESSIVEPRONOUN
+raised in a barn
+recall my father
+recall my father's
+recall my mother
+recall my mother's
+recalled my father
+recalled my father's
+recalled my mother
+recalled my mother's
+recalling my father
+recalling my father's
+recalling my mother
+recalling my mother's
+recalls my father
+recalls my father's
+recalls my mother
+recalls my mother's
+remember my father
+remember my father's
+remember my mother
+remember my mother's
+remembered my father
+remembered my father's
+remembered my mother
+remembered my mother's
+remembering my father
+remembering my father's
+remembering my mother
+remembering my mother's
+remembers my father
+remembers my father's
+remembers my mother
+remembers my mother's
+rested upon me
+said to me
+says to me
+separated from my
+she said to me
+she says to me
+she took pity on me
+SINCE I WAS KNEE HIGH TO !DETERMINER GRASSHOPPER
+since my childhood
+sneaked around me
+spend my life
+spending my life
+spends my life
+spent my life
+Stayed with me the most
+Stuck in my mind
+taking pity on me
+that's !QUESTION I
+that's the reason I
+the remainder of my life
+the rest of my life
+they said to me
+they says to me
+they took pity on me
+this is the reason I
+thought of my father
+thought of my mother
+thought of my parents
+through my parents
+through my parents'
+throughout my childhood
+time of my life
+times for me
+times of my life
+unhappily for me
+until I could
+until I got
+until I had
+until I met
+very early on I
+very early on in life I
+We live apart
+went after my main objective
+went after my objective
+what I have !AUX
+When I
+When I do
+when I first
+when I had
+When I had been
+when I HAPPENED TO
+when I have
+when I have thought
+when I still young
+When I was
+When I was assigned to
+When I was living in
+When I was stationed in
+When I was working
+When I was working on
+when I was young
+when we were still young
+when we were young
+Whenever I
+Whenever I do
+where I'm coming from
+where I always
+where I came from
+where I come from
+where I had
+where I have had
+where I used to
+who I am?
+who I have
+whom I had
+whom I have

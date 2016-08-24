@@ -1,0 +1,2899 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX  looking for
+!AUX !DETERMINER current
+!AUX !DETERMINER important consequence
+!AUX !DETERMINER key
+!AUX !DETERMINER key idea
+!AUX !DETERMINER key move
+!AUX !DETERMINER key pattern
+!AUX !DETERMINER key point
+!AUX !DETERMINER key thing
+!AUX !DETERMINER late
+!AUX !DETERMINER latest
+!AUX !DETERMINER latest rage
+!AUX !DETERMINER main
+!AUX !DETERMINER new
+!AUX !DETERMINER new rage
+!AUX !DETERMINER prominent consequence
+!AUX !DETERMINER rage
+!AUX !DETERMINER recent
+!AUX !DETERMINER serious consequence
+!AUX !DETERMINER significant consequence
+!AUX !DETERMINER tipping point
+!AUX !DETERMINER turning point
+!AUX !DETERMINER turning points
+!AUX abuzz
+!AUX abuzz with
+!AUX ahead of time
+!AUX all but
+!AUX ALL OVER
+!AUX already
+!AUX already going on
+!AUX already happening
+!AUX already in place
+!AUX an essential
+!AUX an unanticipated
+!AUX available
+!AUX beginning to
+!AUX continuing
+!AUX continuing to
+!AUX current
+!AUX currently
+!AUX currently looking for
+!AUX currently playing
+!AUX currently starring
+!AUX currently under way
+!AUX doing
+!AUX done
+!AUX essential
+!AUX essentially
+!AUX expecting her !RANKNUMBER child
+!AUX expecting his !RANKNUMBER child
+!AUX expecting their !RANKNUMBER child
+!AUX finally drawn into
+!AUX finally now
+!AUX following through
+!AUX following through on
+!AUX getting a good deal of attention
+!AUX getting attention
+!AUX in business
+!AUX in force
+!AUX in operation
+!AUX in process
+!AUX in production
+!AUX in progress
+!AUX informed about
+!AUX informed by
+!AUX informed that
+!AUX key
+!AUX key ideas
+!AUX key moves
+!AUX key patterns
+!AUX key to
+!AUX new in
+!AUX no longer
+!AUX no more
+!AUX not complete
+!AUX not finished
+!AUX not over
+!AUX not yet
+!AUX not yet available
+!AUX not yet complete
+!AUX not yet completed
+!AUX not yet finished
+!AUX not yet over
+!AUX not yet through
+!AUX now !DETERMINER current
+!AUX now able
+!AUX now at hand
+!AUX now available
+!AUX now available at
+!AUX now back
+!AUX now back in !DETERMINER saddle
+!AUX now capable
+!AUX now closed
+!AUX now current
+!AUX now done
+!AUX now due
+!AUX now finally
+!AUX now finished
+!AUX now following through
+!AUX now for the first time
+!AUX now in
+!AUX now in !DETERMINER position
+!AUX now in business
+!AUX now in effect
+!AUX now in force
+!AUX now in operation
+!AUX now informed
+!AUX now looking for
+!AUX now payable
+!AUX now pending
+!AUX now ready
+!AUX now something
+!AUX now taking !DETERMINER lead
+!AUX now under way
+!AUX now underway
+!AUX now willing
+!AUX on !DETERMINER mission
+!AUX ongoing
+!AUX open for
+!AUX open to !DETERMINER public
+!AUX open to all
+!AUX open to criticism
+!AUX open to doubt
+!AUX open to error
+!AUX open to question
+!AUX open to reproach
+!AUX open to solution
+!AUX open to suspicion
+!AUX our subject
+!AUX our subject on this edition
+!AUX our subject on this episode
+!AUX pending
+!AUX published
+!AUX registered as
+!AUX so far
+!AUX something that
+!AUX starting to
+!AUX starting to follow through on
+!AUX still
+!AUX still !DETERMINER mystery
+!AUX still around
+!AUX still here
+!AUX still in
+!AUX still in !DETERMINER !GEOREGION
+!AUX still in this !GEOREGION
+!AUX still intact
+!AUX still keeping
+!AUX still looking for
+!AUX STILL NOT
+!AUX still not completely understood
+!AUX still not over
+!AUX still not well understood
+!AUX still pending
+!AUX still real
+!AUX still there
+!AUX still unconfirmed
+!AUX still unfolding
+!AUX still without
+!AUX taking !DETERMINER lead
+!AUX tipping points
+!AUX to be unveiled today
+!AUX turning points
+!AUX unchanging
+!AUX under !DETERMINER warning
+!AUX under !DETERMINER watch
+!AUX under way
+!AUX underway
+!AUX unfolding
+!AUX urgent
+!AUX USED TO !PRONOUNOBJECTIVE NOW
+!AUX very much in business
+!AUX very much still in business
+!BREAK !DETERMINER news
+!BREAK !POSSESSIVEPRONOUN silence
+!BREAK our silence
+!BRING !PRONOUNOBJECTIVE up-to-date
+!BRING !PRONOUNOBJECTIVE up to date
+!BRING !PRONOUNOBJECTIVE up to speed
+!BRING to !DETERMINER forefront
+!BRING up to date
+!BRING up to speed
+!BRING up todate
+!BRING us up-to-date
+!BRING word
+!BRING word of
+!BRING you up-to-date
+!BRING you up to date
+!CALL for a relaxation
+!CALL for calm
+!CALL for peace
+!COME this !TIMEOFDAY
+!COME this very !TIMEOFDAY
+!COME to !DETERMINER fore
+!DETERMINER !MEASURE shy of
+!DETERMINER !TIMEFRAME had finally arrived
+!DETERMINER announced
+!DETERMINER announced motive
+!DETERMINER appointment of
+!DETERMINER basic drift
+!DETERMINER basic drift !AUX
+!DETERMINER basic drift of !DETERMINER
+!DETERMINER basic thrust
+!DETERMINER basic thrust !AUX
+!DETERMINER basic thrust of !DETERMINER
+!DETERMINER bottom line
+!DETERMINER BOTTOM LINE !AUX
+!DETERMINER brand-new
+!DETERMINER breaking story
+!DETERMINER buzz about
+!DETERMINER buzz on
+!DETERMINER complete lowdown
+!DETERMINER current news
+!DETERMINER dope on
+!DETERMINER effective date
+!DETERMINER effective dates
+!DETERMINER fast-breaking story
+!DETERMINER final word !AUX in
+!DETERMINER final word !AUX not in
+!DETERMINER final words !AUX in
+!DETERMINER final words !AUX not in
+!DETERMINER foci are
+!DETERMINER focus !AUX
+!DETERMINER focus !AUX in
+!DETERMINER focus in
+!DETERMINER focus was in
+!DETERMINER game has changed
+!DETERMINER jury !AUX back
+!DETERMINER jury !AUX still out
+!DETERMINER jury has returned
+!DETERMINER key concept
+!DETERMINER key contributor
+!DETERMINER key element
+!DETERMINER key ingredient
+!DETERMINER key notion
+!DETERMINER key opportunity
+!DETERMINER key point of
+!DETERMINER key seat
+!DETERMINER key signature
+!DETERMINER key size
+!DETERMINER key stop
+!DETERMINER last I heard
+!DETERMINER last word !AUX in
+!DETERMINER last word !AUX not in
+!DETERMINER last words !AUX in
+!DETERMINER last words !AUX not in
+!DETERMINER lastest dope
+!DETERMINER lastest dope on
+!DETERMINER lastest skinny
+!DETERMINER lastest skinny on
+!DETERMINER latest
+!DETERMINER latest buzz
+!DETERMINER latest buzz about
+!DETERMINER latest buzz on
+!DETERMINER latest coming up in
+!DETERMINER latest I heard
+!DETERMINER latest information
+!DETERMINER latest information about
+!DETERMINER latest information of
+!DETERMINER latest news
+!DETERMINER latest news about
+!DETERMINER latest news of
+!DETERMINER latest on
+!DETERMINER latest poop
+!DETERMINER latest thing
+!DETERMINER latest wrinkle
+!DETERMINER latest wrinkles
+!DETERMINER live
+!DETERMINER lot of attention
+!DETERMINER low-down
+!DETERMINER lowdown
+!DETERMINER lowdown on
+!DETERMINER main
+!DETERMINER main point
+!DETERMINER more things change, !DETERMINER more they stay !DETERMINER same
+!DETERMINER most recent information
+!DETERMINER most recent information about
+!DETERMINER most recent information of
+!DETERMINER most up-to-date
+!DETERMINER new
+!DETERMINER new address
+!DETERMINER new ball game
+!DETERMINER new look
+!DETERMINER new looks
+!DETERMINER new music
+!DETERMINER new music scene
+!DETERMINER new music scenes
+!DETERMINER new phone number
+!DETERMINER new realities !AUX
+!DETERMINER new reality !AUX
+!DETERMINER new step-up
+!DETERMINER new step-up in
+!DETERMINER new step up
+!DETERMINER new step up in
+!DETERMINER newest
+!DETERMINER newest information
+!DETERMINER newest information about
+!DETERMINER newest information of
+!DETERMINER newness of
+!DETERMINER news
+!DETERMINER news of
+!DETERMINER pace !AUX changing
+!DETERMINER progress report on
+!DETERMINER progress we have made
+!DETERMINER pronouncement of
+!DETERMINER real presence
+!DETERMINER recent
+!DETERMINER recent problem
+!DETERMINER scoop on
+!DETERMINER short answer !AUX
+!DETERMINER short answers !AUX
+!DETERMINER skinny
+!DETERMINER skinny on
+!DETERMINER spotlight will be on
+!DETERMINER substance of her
+!DETERMINER substance of his
+!DETERMINER substance of my
+!DETERMINER substance of our
+!DETERMINER substance of their
+!DETERMINER substance of your
+!DETERMINER total lowdown
+!DETERMINER turning point
+!DETERMINER urgency
+!DETERMINER urgent
+!DETERMINER urgently important
+!DETERMINER verdict !AUX in
+!DETERMINER verdict !AUX out
+!DETERMINER verdicts !AUX in
+!DETERMINER very latest
+!DETERMINER very newest
+!DETERMINER word !AUX
+!DETERMINER word !AUX out
+!DROP !DETERMINER bombshell
+!FILE for bankruptcy
+!FILL !PRONOUNOBJECTIVE in
+!FILL !PRONOUNOBJECTIVE in on
+!FILL !REFLEXIVEPRONOUN in
+!FILL me in
+!FILL myself in
+!FILL ourselves in
+!FILL us in
+!FILL us in as follows:
+!FILL us in on as follows:
+!FILL yourself in
+!FILL yourselves in
+!GET !DETERMINER new
+!GET !DETERMINER word out
+!GET wind
+!GET wind of
+!GET word of
+!GET word out
+!GIVE !DETERMINER complete lowdown on
+!GIVE !DETERMINER dope on
+!GIVE !DETERMINER full lowdown on
+!GIVE !DETERMINER latest
+!GIVE !DETERMINER live
+!GIVE !DETERMINER low-down
+!GIVE !DETERMINER low-down on
+!GIVE !DETERMINER low down
+!GIVE !DETERMINER low down on
+!GIVE !DETERMINER lowdown
+!GIVE !DETERMINER lowdown on
+!GIVE !DETERMINER lowdowns on
+!GIVE !DETERMINER new meaning
+!GIVE !DETERMINER real lowdown on
+!GIVE !DETERMINER scoop
+!GIVE !DETERMINER skinny on
+!GIVE !DETERMINER word out
+!GIVE an update on
+!GIVE it to be understood that
+!GIVE it to be undertood
+!GIVE new meaning
+!GIVE new meaning to
+!GIVE notice
+!GIVE notification
+!GIVE top billing
+!GIVE us to understand
+!GIVE word
+!GIVE word out
+!GIVE word that
+!GIVE you an update on
+!HAVE !DETERMINER ability to
+!HAVe !DETERMINER bombshell
+!HAVE !DETERMINER bombshell to drop
+!HAVE !DETERMINER latest coming up in
+!HAVE !DETERMINER mission to
+!HAVE !DETERMINER new
+!HAVE !DETERMINER new address
+!HAVE !DETERMINER new meaning
+!HAVE !DETERMINER new phone number
+!HAVE !DETERMINER opportunity to
+!HAVE !DETERMINER simple mission
+!HAVE agreed
+!HAVE agreed in principle
+!HAVE all the details
+!HAVE already
+!HAVE already done it
+!HAVE also
+!HAVE announced her resignation
+!HAVE announced her retirement
+!HAVE announced his resignation
+!HAVE announced his retirement
+!HAVE answered
+!HAVE approved
+!HAVE as of yet
+!HAVE as of yet not
+!HAVE as yet
+!HAVE as yet not
+!HAVE assumed !DETERMINER position
+!HAVE assumed !DETERMINER title
+!HAVE at last
+!HAVE at long last
+!HAVE attained
+!HAVE been appointed
+!HAVE been awarded
+!HAVE been designated
+!HAVE been featured
+!HAVE been fired
+!HAVE been following through
+!HAVE been following through on
+!HAVE been named
+!HAVE been promoted
+!HAVE been starting to follow through
+!HAVE been terminated
+!HAVE been transferred
+!HAVE by now
+!HAVE by now usually
+!HAVE by way of
+!HAVE captured
+!HAVE changed all that
+!HAVE come so far
+!HAVE come thus far
+!HAVE come to !DETERMINER
+!HAVE come to !DETERMINER settlement
+!HAVE come to an agreement
+!HAVE come to terms
+!HAVE come up
+!HAVE come up with
+!HAVE committed
+!HAVE completed
+!HAVE consented
+!HAVE decided to
+!HAVE deleted
+!HAVE determined to
+!HAVE died
+!HAVE disallowed
+!HAVE dismissed
+!HAVE disqualified
+!HAVE earned !DETERMINER
+!HAVE eliminated
+!HAVE emerged as
+!HAVE emerged as an
+!HAVE eradicated
+!HAVE erased
+!HAVE expunged
+!HAVE failed
+!HAVE felt like home
+!HAVE finally
+!HAVE finally arrived
+!HAVE fired
+!HAVE frequently
+!HAVE gained
+!HAVE gained considerable
+!HAVE gained wide attention
+!HAVE generated
+!HAVE given consent
+!HAVE given permission
+!HAVE gotten
+!HAVE gotten so far
+!HAVE gotten thus far
+!HAVE graduated
+!HAVE graduated law school
+!HAVE graduated medical school
+!HAVE granted consent
+!HAVE had
+!HAVE had !DETERMINER
+!HAVE had such
+!HAVE had such !DETERMINER
+!HAVE happened
+!HAVE in !DETERMINER way of
+!HAVE inducted
+!HAVE informed me
+!HAVE initiated
+!HAVE instituted
+!HAVE joined
+!HAVE joined !DETERMINER
+!HAVE joined FORCES WITH
+!HAVE judged that
+!HAVE just
+!HAVE just been
+!HAVE just concluded
+!HAVE just decided
+!HAVE just found out
+!HAVE just handed down
+!HAVE just informed me
+!HAVE just learned
+!HAVE just missed
+!HAVE just missed !PRONOUNOBJECTIVE
+!HAVE just missed me
+!HAVE just missed us
+!HAVE just missed you
+!HAVE just ruled
+!HAVE just uncovered
+!HAVE known
+!HAVE lately
+!HaVE lately become
+!HAVE lately become !DETERMINER
+!HAVE lately become common
+!HAVE lately become commonplace
+!HAVE lately become key
+!HAVE lately been
+!HAVE lately contended
+!HAVE lately preached
+!HAVE led up to
+!HAVE more to
+!HAVE more to come
+!HAVE named
+!HAVE new information
+!HAVE new meaning
+!HAVE new meanings
+!HAVE news
+!HAVE news for
+!HAVE news for you
+!HAVE no news
+!HAVE not already
+!HAVE not as of yet
+!HAVE not changed
+!HAVE not changed much
+!HAVE not ended
+!HAVE not finished
+!HAVE not healed
+!HAVE not healed yet
+!HAVE not heard anything
+!HAVE not heard anything about
+!HAVE not yet
+!HAVE now
+!HAVE now become
+!HAVE now BECOME !DETERMINER
+!HAVE now become common
+!HAVE now become commonplace
+!HAVE now BECOME KEY
+!HAVE now been accomplished
+!HAVE now been completed
+!HAVE now been informed
+!HAVE now earned
+!HAVE now established
+!HAVE now informed me
+!HAVE now lapsed
+!HAVE now no way to
+!HAVE now often
+!HAVE now proven
+!HAVE now won
+!HAVE obtained
+!HAVE of this day
+!HAVE of yet not
+!HAVE only lately
+!HAVE only recently
+!HAVE opted for
+!HAVE opted to
+!HAVE permitted
+!HAVE planned
+!HAVE procured
+!HAVE recently
+!HAVE recently argued for
+!HAVE recently become
+!HAVE recently become !DETERMINER
+!HAVE recently become common
+!HAVE recently become commonplace
+!HAVE recently become key
+!HAVE recently been appointed
+!HAVE recently been elected
+!HAVE recently been elected to
+!HAVE recently been looking for
+!HAVE recently contended
+!HAVE recently decided
+!HAVE recently died
+!HAVE recently earned
+!HAVE recently established
+!HAVE recently gained
+!HAVE recently generated
+!HAVE recently gotten
+!HAVE recently informed me
+!HAVE recently joined forces with
+!HAVE recently proved
+!HAVE recently returned
+!HAVE recently returned to
+!HAVE recently testified
+!HAVE recently turned to
+!HAVE recently won
+!HAVE recommended
+!HAVE rejected
+!HAVE resigned
+!HAVE resolved
+!HAVE responded
+!HAVE rested on
+!HAVE retired
+!HAVE ridden
+!HAVE sanctioned
+!HAVE schemed to
+!HAVE secured
+!HAVE seen !DETERMINER world
+!HAVE seen everything
+!HAVE seen it all
+!HAVE seen life
+!HAVE served as
+!HAVE since
+!HAVE so far
+!HAVE some bombshells
+!HAVE spent !DETERMINER
+!HAVE spent !DETERMINER last
+!HAVE starting today
+!HAVE still
+!HAVE stimulated much debate
+!HAVE stimulated much speculation
+!HAVE stood for
+!HAVE stuck
+!HAVE survived
+!HAVE suspended
+!HAVE taken place
+!HAVE terminated
+!HAVE testified
+!HAVE the consequence
+!HAVE the details
+!HAVE these
+!HAVE this
+!HAVE those
+!HAVE thus far
+!HAVE today
+!HAVE understood
+!HAVE urgent news
+!HAVE wed
+!HAVE worked tirelessly for
+!HAVE written movingly
+!HAVE yet
+!HAVE YET ANOTHER
+!HAVE yet to
+!HAVE yet to be
+!HOLD forth at
+!KEEP !DETERMINER FENCE AROUND
+!KEEP !DETERMINER presence
+!KEEP !POSSESSIVEPRONOUN EYES GLUED ON
+!KEEP !POSSESSIVEPRONOUN EYES GLUED TO
+!KEEP !PRONOUNOBJECTIVE updated
+!KEEP me updated
+!KEEP to !DETERMINER latest
+!KEEP us updated
+!KEEP you up-to-date
+!KEEP you updated
+!LAND UP WITH
+!LEAVE undone
+!LEAVE word
+!LET off !DETERMINER bombshell
+!MAKE !DETERMINER announcement
+!MAKE !DETERMINER announcement that
+!MAKE !DETERMINER new
+!MAKE !DETERMINER pronouncement
+!MAKE !DETERMINER surprising
+!MAKE !DETERMINER surprising announcement that
+!MAKE an announced
+!MAKE an announcement
+!MAKE an unannounced
+!MAKE partner
+!POSSESSIVEPRONOUN news
+!PRESENT !DETERMINER findings
+!PRESENT !DETERMINER report
+!PRESENT !POSSESSIVEPRONOUN findings
+!PRESENT !POSSESSIVEPRONOUN report
+!PRESENT !POSSESSIVEPRONOUN results
+!PRESENT findings
+!PRESENT results
+!PUT !DETERMINER new emphasis on information
+!PUT !DETERMINER spotlight on
+!REMAIN !DETERMINER !FIND OF
+!REMAIN !DETERMINER SURPRISING
+!REMAIN !DETERMINER UNEXPLAINED !FIND
+!SERVE NOTICE
+!SERVE NOTICE ON
+!TAKE !DETERMINER new tack
+!TAKE effect
+!TAKE effect on
+!TAKE new tacks
+!TURN !DETERMINER new
+!TURN !DETERMINER new page
+!TURN !DETERMINER new phase
+!TURN attention
+!TURN attention on
+!TURN attention to
+, which opened to
+. key to
+. these have
+. this has
+abuzz
+accelerating !DETERMINER speed at which we conduct business
+accelerating !DETERMINER speed of business
+accept !DETERMINER offer
+accept her offer
+accept his offer
+accept my offer
+accept our offer
+accept their offer
+accepted !DETERMINER offer
+accepted her offer
+accepted his offer
+accepted my offer
+accepted our offer
+accepted their offer
+accepting !DETERMINER offer
+accepting her offer
+accepting his offer
+accepting my offer
+accepting our offer
+accepting their offer
+accepts !DETERMINER offer
+accepts her offer
+accepts his offer
+accepts my offer
+accepts our offer
+accepts their offer
+adding an unprecedented level of service
+after today,
+alert
+alert !DETERMINER
+alert !PRONOUNOBJECTIVE to
+alerted
+alerted !PRONOUNOBJECTIVE to
+alerted for
+alerted to
+alerting
+alerting !DETERMINER
+alerting !PRONOUNOBJECTIVE to
+alerting for
+alerting to
+alerts
+alerts !DETERMINER
+alerts !PRONOUNOBJECTIVE to
+alerts for
+alerts to
+all !DETERMINER old rules have changed
+all !DETERMINER rules have changed
+all abuzz
+all clear
+all complete
+all done
+all finished
+all gone
+all in hand
+all off.
+all on one side
+all on.
+all over but
+all over but !DETERMINER shouting
+all over except for
+all over save for
+all over.
+all present and accounted for
+all ready
+all right
+all square
+all standing
+all started
+all underway
+almost !DETERMINER time to
+almost depleted
+almost gone
+almost over
+almost through with
+almost time to
+already
+already !AUX
+already at hand
+already be
+already believe
+already had
+already has
+already have
+already in abeyance
+already in hand
+already in place
+already scheduled
+already think
+also served as
+amazing news
+an interim report on
+an update on !DETERMINER
+AND !AUX STILL
+and still
+and still do
+and still find
+and still have
+and still he
+and still I
+and still it
+and still make
+and still she
+and still they
+and still we
+and still you
+announce
+announce !DETERMINER
+announce !DETERMINER new
+announce !DETERMINER next
+announce !DETERMINER result
+announce !DETERMINER results
+announce !PRONOUNOBJECTIVE
+announce her engagement
+announce her graduation
+announce her marriage
+announce her plans
+announce her retirement
+announce his engagement
+announce his graduation
+announce his marriage
+announce his plans
+announce his retirement
+announce my engagement
+announce my graduation
+announce my marriage
+announce my plans
+announce my retirement
+announce new
+announce next
+announce our engagement
+announce our graduation
+announce our marriage
+announce our plans
+announce our retirement
+announce that
+announce their engagement
+announce their graduation
+announce their marriage
+announce their plans
+announce their retirement
+announce with
+announced
+announced !DETERMINER
+announced !DETERMINER new
+announced !DETERMINER next
+announced !DETERMINER result
+announced !DETERMINER results
+announced !PRONOUNOBJECTIVE
+announced by
+announced her engagement
+announced her graduation
+announced her marriage
+announced her plans
+announced her resignation
+announced her retirement
+announced his engagement
+announced his graduation
+announced his marriage
+announced his plans
+announced his resignation
+announced his retirement
+announced motive
+announced my engagement
+announced my graduation
+announced my marriage
+announced my plans
+announced my retirement
+announced new
+announced next
+announced our engagement
+announced our graduation
+announced our marriage
+announced our plans
+announced our retirement
+announced that
+announced their engagement
+announced their graduation
+announced their marriage
+announced their plans
+announced their retirement
+announced today
+announced with
+announcement
+announcements
+ANNOUNCES
+announces !DETERMINER
+announces !DETERMINER new
+announces !DETERMINER next
+announces !DETERMINER result
+announces !DETERMINER results
+announces !PRONOUNOBJECTIVE
+announces her engagement
+announces her graduation
+announces her marriage
+announces her plans
+announces her retirement
+announces his engagement
+announces his graduation
+announces his marriage
+announces his plans
+announces his retirement
+announces my engagement
+announces my graduation
+announces my marriage
+announces my plans
+announces my retirement
+announces new
+announces next
+announces our engagement
+announces our graduation
+announces our marriage
+announces our plans
+announces our retirement
+announces that
+announces their engagement
+announces their graduation
+announces their marriage
+announces their plans
+announces their retirement
+announces with
+announcing
+announcing !DETERMINER
+announcing !DETERMINER new
+announcing !DETERMINER next
+announcing !DETERMINER result
+announcing !DETERMINER results
+announcing !PRONOUNOBJECTIVE
+announcing her engagement
+announcing her graduation
+announcing her marriage
+announcing her plans
+announcing her retirement
+announcing his engagement
+announcing his graduation
+announcing his marriage
+announcing his plans
+announcing his retirement
+announcing my engagement
+announcing my graduation
+announcing my marriage
+announcing my plans
+announcing my retirement
+announcing new
+announcing next
+announcing our engagement
+announcing our graduation
+announcing our marriage
+announcing our plans
+announcing our retirement
+announcing that
+announcing their engagement
+announcing their graduation
+announcing their marriage
+announcing their plans
+announcing their retirement
+announcing with
+anouns
+answer differs
+answer is different
+answer is the same
+answer remains the same
+answers are different
+answers are the same
+answers differ
+any more
+any more.
+any more;
+appoint to
+appointed director
+appointed to be
+appointed to be read
+appointing to
+appointment to
+appoints to
+apprise of
+apprised of
+apprises of
+apprising of
+are key players
+aready
+arrive unannounced
+arrived unannounced
+arrives unannounced
+arriving unannounced
+as hereinafter provided
+as I said before
+as I said previously
+as it now stands
+as it stands
+as we said before
+as we said previously
+assume new ownership
+assumed new ownership
+assumes new ownership
+assuming new ownership
+at any time now
+at last count
+at last count there were
+available from now until
+back in !DETERMINER saddle
+bad news
+basic rules have changed
+Basically, exactly what I said in my previous statement
+be !DETERMINER latest
+be !DETERMINER latest rage
+be !DETERMINER new
+be !DETERMINER new rage
+be !DETERMINER rage
+be already
+be available to customers on !DETERMINER global scale
+be brought before !DETERMINER
+be informed about
+be informed on
+be installed as
+be open for
+be sure to let you know
+be sure to make you aware that
+be sure to notify you that
+be sure to remind you
+be under way
+bear news
+beared news
+bearing news
+bears news
+became even more pronounced
+became more pronounced
+become even more pronounced
+become more pronounced
+becomes even more pronounced
+becomes more pronounced
+becoming an information society
+becoming even more pronounced
+becoming more pronounced
+been lately
+been recently
+before now
+big change in
+big changes
+big changes in
+bore news
+bought !DETERMINER new
+break !DETERMINER story
+break it to
+break the story
+break this story
+breaking !DETERMINER story
+breaking developments
+breaking information
+breaking it to
+breaking just now
+breaking news
+breaking report
+breaking story
+breaking the story
+breaking this story
+breaks !DETERMINER story
+breaks it to
+breaks the story
+breaks this story
+brief you
+briefed about
+briefed by
+briefed from
+briefed on
+bring now to your attention
+broke !DETERMINER story
+broke it to
+broke the story
+broke this story
+bulletin
+bulletin !DETERMINER
+bulletin !MOTIONPREP
+bulletin !POSSESSIVEPRONOUN
+bulletin !PRONOUNOBJECTIVE
+bulletined
+bulletined !DETERMINER
+bulletined !MOTIONPREP
+bulletined !POSSESSIVEPRONOUN
+bulletined !PRONOUNOBJECTIVE
+bulletining
+bulletining !DETERMINER
+bulletining !MOTIONPREP
+bulletining !POSSESSIVEPRONOUN
+bulletining !PRONOUNOBJECTIVE
+bulletins
+bulletins !DETERMINER
+bulletins !MOTIONPREP
+bulletins !POSSESSIVEPRONOUN
+bulletins !PRONOUNOBJECTIVE
+but here's !DETERMINER
+but here !AUX !DETERMINER
+but LATELY
+buy !DETERMINER new
+buying !DETERMINER new
+buys !DETERMINER new
+buzz with
+buzz with excitement
+buzzed with
+buzzed with excitement
+buzzes with
+buzzes with excitement
+buzzing with excitement
+buzzzing with
+call to your attention
+call to your attention that
+call your attention to recent
+came unannounced
+came word
+can't refrain
+can't resume
+can't stop
+can be no more
+can now
+can now confirm
+cannot get started
+cannot refrain
+cannot resume
+cannot stop
+cast !DETERMINER new light
+casted !DETERMINER new light
+casting !DETERMINER new light
+casts !DETERMINER new light
+chief thing
+chief things
+come unannounced
+come word
+comes unannounced
+comes word
+coming unannounced
+coming word
+commissioned today
+communicate to you
+complete lowdown
+complete lowdown on
+conspicuous by
+conspicuous in
+continue
+continue !DETERMINER same
+continue for
+continue on
+continue to be
+continue to do
+continue to exist
+continue to find
+continue to go
+continue to hold
+continue to keep
+continued !DETERMINER same
+continued for
+continued on
+continued on for
+continued to
+continued to be
+continued to exist
+continued to mew
+continues !DETERMINER same
+continues for
+continues on
+continues to
+continues to be
+continues to do
+continues to exist
+continues to find
+continues to go
+continues to hold
+continues to keep
+continues to this day
+continuing !DETERMINER same
+continuing for
+continuing into
+continuing on
+continuing to be
+continuing to do
+continuing to exist
+continuing to find
+continuing to go
+continuing to have
+continuing to hold
+continuing to keep
+continuing with
+convey to you that
+could have known
+could have told you earlier
+could not have known
+could not have told you earlier
+could now
+could still be
+couldn't stop
+current resume
+current resumes
+current scuttlebutt
+currently !AUX
+currently are
+currently featured
+currently have
+currently in existence
+decided today
+delighted to announce
+delighted to award
+delighted to designate
+delighted to feature
+delighted to inform
+delighted to name
+delighted to promote
+deliver !DETERMINER live
+deliver !DETERMINER message
+delivered !DETERMINER live
+delivered !DETERMINER message
+delivering !DETERMINER live
+delivering !DETERMINER message
+delivers !DETERMINER live
+delivers !DETERMINER message
+dernier cri
+developing stories
+developments in
+did it all already
+did not end
+did not finish
+did not refrain
+did not stop
+didn't stop
+died today
+different answer
+different answer than before
+different answers than before
+different from before
+different than before
+differnt answers
+divulgate
+divulgated
+divulgater
+divulgaters
+divulgates
+divulgating
+divulgation
+divulgations
+draw your attention to recent
+drop !DETERMINER bombshell
+dropped !DETERMINER bombshell
+dropping !DETERMINER bombshell
+drops !DETERMINER bombshell
+du jour
+dynamic environment
+earlier today
+earth-shaking news
+effective !DETERMINER
+effective !DETERMINER first of this
+effective !MONTH
+effective !MONTH !RANKNUMBER !YEAR
+effective advising difficult
+effective date
+effective dates
+effective immediately
+enter !DETERMINER world of
+entered !DETERMINER world of
+entering !DETERMINER world of
+enters !DETERMINER world of
+environment that !AUX dynamic
+environment that !AUX stable
+environment that !AUX turbulent
+environment that !AUX unstable
+exactly what I said in my previous statement
+explode !DETERMINER bombshell
+exploded !DETERMINER bombshell
+explodes !DETERMINER bombshell
+exploding !DETERMINER bombshell
+extant
+face new competitors
+fairly recent
+fairly recently
+fast-breaking stories
+fast-breaking story
+feature
+feature !DETERMINER
+feature !DETERMINER new
+feature !POSSESSIVEPRONOUN
+feature !POSSESSIVEPRONOUN new
+feature !PRONOUNOBJECTIVE
+feature attraction
+feature attractions
+featured
+featured !DETERMINER
+featured !DETERMINER new
+featured !POSSESSIVEPRONOUN
+featured !POSSESSIVEPRONOUN new
+featured !PRONOUNOBJECTIVE new
+features
+features !DETERMINER
+features !DETERMINER new
+features !POSSESSIVEPRONOUN
+features !POSSESSIVEPRONOUN new
+features !PRONOUNOBJECTIVE new
+featuring
+featuring !DETERMINER
+featuring !DETERMINER new
+featuring !POSSESSIVEPRONOUN
+featuring !POSSESSIVEPRONOUN new
+featuring !PRONOUNOBJECTIVE new
+file !DETERMINER claim
+file for
+filed !DETERMINER claim
+filed for
+files !DETERMINER claim
+files for
+filing !DETERMINER claim
+filing for
+finally
+finally find
+finally find !DETERMINER
+finally finding
+finally finds
+finally finds !DETERMINER
+finally it
+FINALLY WOUND UP
+finally wound up in
+find !DETERMINER new
+finding !DETERMINER new
+finds !DETERMINER new
+for !DETERMINER very first time in !NUMS1TO100 !TIMEFRAME
+for further information
+found !DETERMINER new
+freighted with significance
+fresh and new
+friendly environment
+from !DETERMINER things we produce to !DETERMINER service we supply
+from manufacturing to information
+from service to information
+full lowdown
+full lowdown on
+further information
+Go unnoticed
+Goes unnoticed
+Going unnoticed
+good news
+grand total
+grand totals
+had already
+had only lately
+had only recently
+had recently
+had resigned
+had since
+hallmark !DETERMINER
+hallmark !POSSESSIVEPRONOUN
+hallmark !PRONOUNOBJECTIVE
+hallmarked !DETERMINER
+hallmarked !POSSESSIVEPRONOUN
+hallmarked !PRONOUNOBJECTIVE
+hallmarking !DETERMINER
+hallmarking !POSSESSIVEPRONOUN
+hallmarking !PRONOUNOBJECTIVE
+hallmarks !DETERMINER
+hallmarks !POSSESSIVEPRONOUN
+hallmarks !PRONOUNOBJECTIVE
+happened just now
+happened today
+happening today
+happens today
+has fallen into
+has more on all that
+has more on that
+has not changed much
+hasn't changed much
+hastening !DETERMINER speed at which we conduct business
+hastening !DETERMINER speed of business
+Have a personal reason
+Have a reason to
+Have great consequences
+Have personal reasons
+Have real consequences
+Have reasons to
+he's
+he !AUX
+he joins
+he will join
+headline
+headlined
+headliner
+headliners
+headlines
+headlining
+healthy respect for
+hear about
+hear what happened
+heard
+heard what happened
+hearing about
+hearing what happened
+hears about
+hears what happened
+heighten !DETERMINER contrast
+heightened !DETERMINER contrast
+heightens !DETERMINER contrast
+heigtening !DETERMINER contrast
+her adoption of
+herald !DETERMINER
+herald her
+herald his
+herald my
+herald our
+herald their
+herald your
+heralded
+heralded !DETERMINER
+heralded her
+heralded his
+heralded my
+heralded our
+heralded their
+heralded your
+heralding
+heralding !DETERMINER
+heralding her
+heralding his
+heralding my
+heralding our
+heralding their
+heralding your
+heralds !DETERMINER
+heralds her
+heralds his
+heralds my
+heralds our
+heralds their
+heralds your
+here's !DETERMINER
+here's !DETERMINER bottom line
+here's !DETERMINER most
+here's !DETERMINER most important
+here !AUX !QUESTION
+here !AUX !QUESTION I
+here !AUX !QUESTION I want
+here !AUX !QUESTION I want you
+here !AUX !QUESTION I want you to
+here !AUX some
+here all along
+here already
+here today
+here tonight
+his adoption of
+hostile environment
+how now
+however there !AUX currently
+however there !AUX now
+huge changes
+I've already
+I've just
+I've recently
+I've yet
+I am now authorized to
+I feel pretty much the same way
+I feel the same
+I still feel the same
+I will no longer
+ice bulletin
+ice bulletins
+in !DETERMINER act of
+in !DETERMINER current
+in !DETERMINER latest
+in !DETERMINER latest fashion
+in !DETERMINER latest mode
+in !DETERMINER latest news
+in !DETERMINER latest style
+in !DETERMINER lead
+in !DETERMINER new light
+in !DETERMINER news
+in !DETERMINER recent
+in an act of
+in process
+in production
+inform !PRONOUNOBJECTIVE about
+inform !PRONOUNOBJECTIVE on
+inform !PRONOUNOBJECTIVE that
+inform me about
+inform me on
+inform us about
+inform us on
+inform you about
+inform you on
+inform you that
+informed !PRONOUNOBJECTIVE about
+informed !PRONOUNOBJECTIVE on
+informed !PRONOUNOBJECTIVE that
+informed by
+informed from
+informed me about
+informed me on
+informed of !DETERMINER
+informed us about
+informed us on
+informed you about
+informed you on
+informing !PRONOUNOBJECTIVE about
+informing !PRONOUNOBJECTIVE on
+informing !PRONOUNOBJECTIVE that
+informing me about
+informing me on
+informing us about
+informing us on
+informing you about
+informing you on
+informs !PRONOUNOBJECTIVE about
+informs !PRONOUNOBJECTIVE on
+informs !PRONOUNOBJECTIVE that
+informs me about
+informs me on
+informs us about
+informs us on
+informs you about
+informs you on
+install as
+installed as
+installing as
+installs as
+introduces
+is a key player
+is under oath.
+issue !DETERMINER bulletin
+issue !DETERMINER press release
+issue an alert
+issued !DETERMINER bulletin
+issued !DETERMINER press release
+issued an alert
+issues !DETERMINER bulletin
+issues !DETERMINER press release
+issues an alert
+issuing !DETERMINER bulletin
+issuing !DETERMINER press release
+issuing an alert
+it's !DETERMINER fact that
+it's !DETERMINER new ball game
+it's !DETERMINER newly
+it's !DETERMINER only
+it's !DETERMINER real
+it's !DETERMINER recent
+it's !DETERMINER recently
+it's !DETERMINER still fresh
+it's almost like
+it's almost time to
+it's an emergency
+it's been
+it's going on now
+it's not yet
+it's now !DETERMINER
+it's now down
+it's now up
+it's over.
+it's over;
+it's still
+it's unique
+it's unique in
+it's up to !PRONOUNOBJECTIVE whether
+it's where
+it's yet
+it !AUX not yet
+it !AUX now
+it !AUX now clear
+it !AUX over.
+it !AUX over;
+it finally
+it has
+it has !DETERMINER
+it has come to my attention
+it has come to my attention that
+IT HAS NOT CHANGED SINCE LAST YEAR
+it has now
+it has something to do with
+it has to do with
+it just happened
+it keeps
+it took !PRONOUNOBJECTIVE about
+it took !PRONOUNOBJECTIVE as long as
+juciest news
+juciest scttlebutt
+juicy detail
+juicy details
+juicy scuttlebutt
+just !DETERMINER !MEASURE shy of
+just !DETERMINER !TIMEFRAME ago
+just !DETERMINER few !TIMEFRAME ago
+just !DETERMINER few !TIMEFRAME back
+just !DETERMINER short !TIMEFRAME ago
+just !DETERMINER short while ago
+just !GET wind of
+just !PUT on notice
+just !PUT us on notice
+just !TIMEFRAME ago
+just as I speak
+just became
+just closed on
+just closed out
+just coming to understand
+just days ago
+just discover
+just discovered
+just discovers
+just featured at
+just featured in
+just featured on
+just featured with
+just find out
+just finding out
+just finds out
+just found out
+just got word from
+just got word of
+just happened today
+just heard about
+just heard from
+just hours ago
+just in !DETERMINER last
+just informed !PRONOUNOBJECTIVE that
+just informed that
+just landed !DETERMINER
+just landing !DETERMINER
+just lands !DETERMINER
+just lapsed
+just last
+just learned that
+just minutes ago
+just missed !PRONOUNOBJECTIVE
+just missed me
+just missed us
+just missed you
+just newly
+just now !DETERMINER
+just now happened
+just now have learned
+just now learning
+just now understanding
+just now was
+just now was being
+just put !PRONOUNOBJECTIVE on notice
+just received word from
+just received word of
+just recent
+just recently happened
+just seconds ago
+just shy of
+just starred at
+just starred from
+just starred in
+just starred on
+just starred with
+just surfaced in
+just surfacing on
+just this:
+just today !DETERMINER
+just took root in
+just turned !DETERMINER new leaf
+just turned over !DETERMINER new leaf
+key concept
+key concepts
+key contributor
+key contributors
+key element
+key industries
+key industry
+key ingredient
+key ingredients
+key signature
+key signatures
+key to
+larum
+larumed
+laruming
+larums
+last I heard
+LATELY
+later today
+latest
+latest-craze
+latest-fad
+latest-poop
+latest-thing
+latest about
+latest craze
+latest development
+latest dope
+latest fad
+latest fashion
+latest from
+latest from !DETERMINER
+latest news
+latest on
+latest on !DETERMINER
+latest on that
+latest on this
+latest poop
+latest scuttlebutt
+latest skinny
+latest thing
+latest trend
+latest trends
+lead stories
+lead story
+learn !DETERMINER new
+learned !DETERMINER new
+learning !DETERMINER new
+learns !DETERMINER new
+let's get !DETERMINER latest
+let's get !DETERMINER latest on
+life still goes on
+Like I said before
+Like I said previously
+Like we said before
+Like we said previously
+little-known
+little known
+lots of attention
+low-down on
+lowest prices ever
+lowest sail price
+main attraction
+main attractions
+main draw
+main draws
+main feature
+main features
+maintain !DETERMINER presence
+maintained !DETERMINER presence
+maintaining !DETERMINER presence
+maintains !DETERMINER presence
+managed keeping to
+mark !DETERMINER transition point
+marked !DETERMINER transition point
+marking !DETERMINER transition point
+marks !DETERMINER transition point
+may terminate
+mean now
+mean today
+meant now
+meant today
+message that
+might have known
+might now
+more details !AUX in
+more than ever before
+most timely
+most up-to-date
+much !DETERMINER same
+much of her professional life
+much of his professional life
+much the same as I did a year ago
+much the same thing as before
+much the same thing as previously
+must now
+my new diagnosis
+named !DETERMINER partner
+named !DETERMINER partner in
+named an associate
+named assistant
+named associate
+named AVP
+named CEO
+named president
+named vice-president
+named VP
+need someone
+needed someone
+needing someone
+needs someone
+new-admitted
+new-apparel
+new-array
+new-awaked
+new-begotten
+new-bladed
+new-bloomed
+new-blown
+new-born
+new-built
+new-coined
+new-come
+new-create
+new-cut
+new-day
+new-fashion
+new-fashioned
+new-fire method
+new-fledged
+new-found
+new-front
+new-furbish
+new-furnish
+new-grown
+new-laid
+new-light
+new-looking
+new-made
+new-mint
+new-minted
+new-mintedness
+new-model
+new-modeler
+new-name
+new-people
+new-rich
+new-rigged
+new-risen
+new-set
+new-shaped
+new-sprung
+new-spun
+new-written
+new-wrought
+new-year
+new address
+new arrival
+new beginning
+new birth
+new craze
+new departure
+new detail
+new details
+new developments
+new developments in
+new developments taking place
+new developments underway
+new height
+new information
+new issue
+new life
+new light
+new lights
+new man
+new meaning
+new mintage
+new ownership
+new ownerships
+new path
+new paths
+new phase
+new phone number
+new plan
+new plans
+new realism
+new record high
+new record low
+new sense
+new slant
+new style
+new tack
+new tacks
+new to
+new track
+new tracks
+new twist
+new varieties
+new variety
+new wrinkle
+new wrinkle on
+new wrinkles
+new wrinkles on
+newest
+newest scuttlebutt
+newly
+newly-
+newly-arrived
+newly-discovered information
+newly-formed
+newly-obtained
+newly appointed to head up !DETERMINER
+newly arrived
+newly discovered information
+newly formed
+newly modified
+newly obtained
+newly rooted in
+newness to
+news
+news-flash
+news-flashes
+news-item
+news-items
+news-making
+news-release
+news-releases
+news-report
+news-reports
+news-stirring
+news bulletin
+news bulletins
+news flash
+news flashes
+news from
+news item
+news items
+news of
+news release
+news releases
+news report
+news reports
+news stirring
+news stories
+news story
+newsbreak
+newsbreaks
+newsflash
+newsflashes
+next logical step
+next step
+next step in
+no change
+no change since last !MONTH
+no change since last month
+no change since last year
+no change since yesterday
+no longer
+no longer among us
+no longer available
+no longer holds !PRONOUNOBJECTIVE
+no longer holds me
+no longer holds us
+no longer holds you
+no longer present
+no longer with us
+no more !AUX
+no more are
+no more have
+no more shall
+no more will
+no news
+no news !AUX good news
+no response
+no responses
+not beginning
+not completed
+not disclosed
+not ended
+not ending
+not finished
+not leaving
+not starting
+not stopping
+not yet
+not yet beginning
+not yet commencing
+not yet completed
+not yet disclosed
+not yet finished
+not yet formed
+not yet given shape
+not yet out of
+not yet properly formed
+not yet refraining
+not yet started
+not yet starting
+not yet stopping
+not yet taken shape
+note on
+nothing has changed
+nothing has happened to change my opinion
+nothing has happened to change my opinions
+notification
+notifications
+notified
+notifies
+notify
+notifying
+novel information
+now !AUX
+now !AUX !DETERMINER time
+now !AUX singing !DETERMINER different tune
+now !CATCH fire
+now !DETERMINER
+now !DETERMINER day
+now !DETERMINER days
+now !DETERMINER new look
+now !DETERMINER prime time for
+now !DETERMINER reality
+now !DETERMINER times
+now !HAVE
+now !PUT on notice
+now !PUT us on notice
+now !SING !DETERMINER different tune
+now !SING to a different tune
+now absorb
+now absorbed
+now absorbing
+now absorbs
+now accomplished
+now accumulated
+now alert for
+now alert to
+now alone
+now announce
+now announcing
+now appearing live
+now approach
+now at !DETERMINER point
+now at !DETERMINER point of
+now at !DETERMINER turning point
+now at hand
+now at large
+now authorized
+now authorized to
+now available
+now back
+now back in !DETERMINER saddle
+now bankrupt
+now barely
+now be
+now being
+now being !DETERMINER new
+now being questioned
+now believe
+now big
+now borne
+now came upon
+now captured
+now come upon
+now comes upon
+now coming upon
+now conjecture
+now dead
+now debuting
+now debuts
+now drawn into
+now empty
+now even
+now existing
+now extinct
+now fallen
+now fashionable
+now features
+now featuring
+now for !DETERMINER time being
+now from hindsight
+now full
+now hallmarking
+now hallmarks
+now happen upon
+now happened upon
+now happening upon
+now happens upon
+now has
+now has !DETERMINER authority to
+now has !DETERMINER last laugh
+now has !DETERMINER power
+now has learned
+now has only incomplete information
+now have
+now have !DETERMINER power to
+now have absorbed
+now have learned
+now having
+now he !AUX
+now heads up !DETERMINER
+now hypothesize
+now I know
+now I recognize
+now I understand
+now in
+now in abeyance
+now in custody
+now in effect
+now in existence
+now in force
+now in hand
+now in its !RANKNUMBER !TIMEFRAME
+now in more detail
+now in operation
+now informed
+now informed about
+now it's up to
+now it !AUX time
+now it was time
+now known
+now lapsed
+now leaving
+now let up
+now live
+now live from
+now living in
+now look
+now looks
+now lost
+now neglected
+now obsolescent
+NOW OF AGE
+now on !DETERMINER global scale
+now only
+now open for discussion
+now open up
+now opened up
+now opening up
+now opens up
+now place !PRONOUNOBJECTIVE on notice
+now place on notice
+now place us on notice
+now placed !PRONOUNOBJECTIVE on notice
+now placed on notice
+now placed us on notice
+now places !PRONOUNOBJECTIVE on notice
+now places on notice
+now places us on notice
+now placing !PRONOUNOBJECTIVE on notice
+now placing on notice
+now placing us on notice
+now ponder
+now premieres
+now premiering
+now prepared
+now prepared to
+now put !PRONOUNOBJECTIVE on notice
+now rare
+now ready
+now ready for you
+now ready to
+now recently
+now recently dead
+now recently existing
+now remember
+now report
+now report on
+NOW RESIDING
+now right
+now right by
+now right on !DETERMINER
+now sang !DETERMINER different tune
+now scarcely
+now she !AUX
+now speculate
+now stars
+now survives on
+now suspect
+now terminating
+now that
+now that some time has past
+now they are
+now thing
+now things
+now think
+now this
+now time
+now times
+now under pressure
+now under way
+now upon
+now waning
+now well under way
+now will
+now will brief you on
+now you don't
+now you see it
+now you see it now you don't
+now,
+nowadays
+occuring today
+occurs today
+Of any consequence to be found
+on notice
+one further note on
+one more note on
+one more time
+one of !DETERMINER key ideas
+one of !DETERMINER key things
+one of !DETERMINER new
+only !DETERMINER few !TIMEFRAME ago
+only !DETERMINER few !TIMEFRAME ago,
+ONLY LATELY
+only newly
+only recently
+only very recently
+only within !DETERMINER last few !TIMEFRAME
+overall, basically different
+overall, basically the same
+pass on !DETERMINER word
+pass on !DETERMINER word that
+passed on !DETERMINER word
+passed on !DETERMINER word that
+passes on !DETERMINER word
+passes on !DETERMINER word that
+passing on !DETERMINER word
+passing on !DETERMINER word that
+piece of news
+pieces of news
+plat du jour
+pleased to announce
+pleased to award
+pleased to designate
+pleased to feature
+pleased to inform
+pleased to name
+pleased to promote
+premiere !DETERMINER new
+premiere !POSSESSIVEPRONOUN
+premiere !PRONOUNOBJECTIVE
+premiered !DETERMINER
+premiered !POSSESSIVEPRONOUN
+premiered !PRONOUNOBJECTIVE
+premieres !DETERMINER
+premieres !POSSESSIVEPRONOUN
+premieres !PRONOUNOBJECTIVE
+premiering !DETERMINER
+premiering !POSSESSIVEPRONOUN
+premiering !PRONOUNOBJECTIVE
+pretty much the same thing as before
+pretty much the same thing as previously
+progress on
+provide an update on
+raise sharply
+raised sharply
+raises sharply
+real issue
+real issues
+real lowdown
+real lowdown on
+real meaning
+real meanings
+real presence
+receive word
+receive word of
+received word
+received word of
+receives word
+receiving word of
+recent detail
+recent details
+recent scuttlebutts
+recently
+recently-discovered information
+recently !PUT on notice
+recently !PUT us on notice
+recently closed on
+recently discovered information
+recently drawn into
+recently headed up !DETERMINER
+recently heading up !DETERMINER
+recently hired
+recently informed
+recently informed by
+recently informed that
+recently learned
+recently led to
+recently opened
+recently place !PRONOUNOBJECTIVE on notice
+recently place on notice
+recently place us on notice
+recently placed !PRONOUNOBJECTIVE on notice
+recently placed on notice
+recently placed us on notice
+recently places !PRONOUNOBJECTIVE on notice
+recently places on notice
+recently places us on notice
+recently placing !PRONOUNOBJECTIVE on notice
+recently placing on notice
+recently placing us on notice
+recently presented !DETERMINER results
+recently put
+recently put !PRONOUNOBJECTIVE on notice
+recently put on order
+recently rooted in
+recently shut down
+recently shuts down
+recently shutting down
+recently surfaced
+recently surfaced in
+recently surfacing
+recently turned !DETERMINER new leaf
+recently turned over !DETERMINER new leaf
+recently uncovered
+regret to notify you
+regret to notify you that
+reject !DETERMINER offer
+reject her offer
+reject his offer
+reject my offer
+reject our offer
+reject their offer
+rejected !DETERMINER offer
+rejected her offer
+rejected his offer
+rejected my offer
+rejected our offer
+rejected their offer
+rejecting !DETERMINER offer
+rejecting her offer
+rejecting his offer
+rejecting my offer
+rejecting our offer
+rejecting their offer
+rejects !DETERMINER offer
+rejects her offer
+rejects his offer
+rejects my offer
+rejects our offer
+rejects their offer
+relay to you
+release !DETERMINER statement
+released !DETERMINER new
+released !DETERMINER statement
+released new
+releases !DETERMINER statement
+releasing !DETERMINER statement
+relevant fact
+relevant facts
+relevant point
+relevant points
+remain in business
+remain pending
+remain unchanged
+remained unchanged
+remaining unchanged
+remains in business
+remains pending
+remains the same as last time
+remains the same as last year
+remains the same as last year's
+remains the same as when
+remains unchanged
+remains unchanging
+remains unconfirmed
+renew
+renewed
+renewing
+renews
+report on !DETERMINER progress we have made
+report on our progress
+report on what we've
+reported today
+resume at
+resumed at
+resumes at
+resuming at
+retired today
+roll out !DETERMINER
+roll out her
+roll out his
+roll out my
+roll out our
+roll out their
+rolled out !DETERMINER
+rolled out her
+rolled out his
+rolled out my
+rolled out our
+rolled out their
+rolling out !DETERMINER
+rolling out her
+rolling out his
+rolling out my
+rolling out our
+rolling out their
+rolls out !DETERMINER
+rolls out her
+rolls out his
+rolls out my
+rolls out our
+rolls out their
+rose sharply
+ruled today
+salience
+saliencies
+saliency
+salient
+salient fact
+salient facts
+salient point
+salient points
+saliently
+same answer
+same answer as before
+same answers
+same answers as before
+same as before
+same as last month
+same as last week
+same as last year
+same as yesterday
+same ol same ol
+saw !DETERMINER new
+scuttle-but
+scuttle but
+scuttle buts
+scuttlebutted
+scuttlebutting
+search for someone
+searched for someone
+searches for someone
+searching for someone
+see !DETERMINER new
+seeing !DETERMINER new
+sees !DETERMINER new
+send word
+sending word
+sends word
+sent word
+serve notice
+served notice
+serves notice
+serving notice
+Set off !DETERMINER debate
+Set off an alarm
+Set off an uproar
+Sets off !DETERMINER debate
+Sets off an alarm
+Sets off an uproar
+Setting off !DETERMINER debate
+Setting off an alarm
+Setting off an uproar
+shall be brought before !DETERMINER
+shall be conducted
+shall be entitled
+shall be scheduled
+shall terminate
+shan't
+she's
+she !AUX
+she joins
+she will join
+should be arriving
+should be coming
+should be departing
+should be here
+should be here any time
+should be leaving
+should brief
+should brief you
+should bring you up to date
+should bring you up to speed
+should have thought of it before
+should have thought of it sooner
+should let you know
+should no longer
+should now
+should now be
+should update you
+show no sign
+show no sign of
+show no signs
+show no signs of
+show up early
+show up late
+showcase !DETERMINER
+showcase !POSSESSIVEPRONOUN
+showcase !PRONOUNOBJECTIVE
+showcased !DETERMINER
+showcased !POSSESSIVEPRONOUN
+showcased !PRONOUNOBJECTIVE
+showcases !DETERMINER
+showcases !POSSESSIVEPRONOUN
+showcases !PRONOUNOBJECTIVE
+showcasing !DETERMINER
+showcasing !POSSESSIVEPRONOUN
+showcasing !PRONOUNOBJECTIVE
+showed no sign
+showed no sign of
+showed no signs
+showed no signs of
+showed up early
+showed up late
+showing no sign
+showing no sign of
+showing no signs
+showing no signs of
+showing up early
+showing up late
+shows no sign
+shows no sign of
+shows no signs
+shows no signs of
+shows up early
+shows up late
+shy by just
+shy of !DETERMINER goal
+signifies !DETERMINER new
+signifying !DETERMINER new
+since been
+so far
+so far !AUX
+so far are
+so far borne
+so now
+so now it !AUX
+some time has past since
+sported
+spotlight !DETERMINER
+spotlight !POSSESSIVEPRONOUN
+spotlight !PRONOUNOBJECTIVE
+spotlighted
+spotlighted !DETERMINER
+spotlighted !POSSESSIVEPRONOUN
+spotlighted !PRONOUNOBJECTIVE
+spotlighting
+spotlighting !DETERMINER
+spotlighting !POSSESSIVEPRONOUN
+spotlighting !PRONOUNOBJECTIVE
+spotlights !DETERMINER
+spotlights !POSSESSIVEPRONOUN
+spotlights !PRONOUNOBJECTIVE
+stable environment
+star !DETERMINER
+star !POSSESSIVEPRONOUN
+star !PRONOUNOBJECTIVE
+starring !DETERMINER
+starring !POSSESSIVEPRONOUN
+starring !PRONOUNOBJECTIVE
+stars !DETERMINER
+stars !POSSESSIVEPRONOUN
+stars !PRONOUNOBJECTIVE
+step change in !DETERMINER way business !AUX done
+step up to
+stepped up to
+stepped up to !DETERMINER plate
+stepped up to bat
+stepping up to
+steps up to
+still
+still-devastated
+still !DETERMINER long way
+still !DETERMINER long way from
+still !DETERMINER long way to go
+still !DETERMINER reality
+still !KEEP
+still !KEEP it going
+still !KEEP it up
+still !KEEP on
+still !REMAIN
+still admired
+still applies
+still around
+still be
+still closed
+still continue
+still continue to
+still continued
+still continues
+still continuing
+still developing stories
+still different
+still diminishing
+still does not
+still doesn't
+still don't get it
+still encircled
+still existing
+still fail
+still feel the same way
+still goes on
+still had time
+still has
+still has no
+still has time
+still have
+still have no
+still have time
+still having time
+still here
+still holding
+still improving
+still in
+still in !DETERMINER
+still in existence
+still in love
+still in progress
+still in the same situation
+still incomplete
+still increasing
+still insist
+still learning that
+still less
+still living
+still more
+still most
+still most of the time
+still new
+still no
+still no word
+still no word about
+still not
+still not !DETERMINER
+still not settled
+still on !DETERMINER very
+still on hold
+still on order
+still on that very
+still out there
+still overlook
+still pagan
+still persist
+still persisted
+still persisting
+still persists
+still pining
+still recurring
+still refuted
+still remain in business
+still remains in business
+still renewed
+still repaired
+still return
+still rocking
+still sick
+still slaughtered
+still small voice within
+still small voices within
+still the same
+still there
+still think
+still to be
+still to be initiated
+still to find
+still today
+still unchanged
+still unconfirmed
+still unexpired
+still unfinished
+still unformed
+still unformulated
+still ungraded
+still unlicked
+still unmarried
+still unplaced
+still unrealized
+still unresolved
+still unscheduled
+still unset
+still unspoken for
+still untrained
+still untranslated
+still untravelled
+still untried
+still untutored
+still unused
+still unvanquished
+still unweighed
+still up in !DETERMINER air
+still vexed
+still watching
+stop !DETERMINER press
+stop !DETERMINER presses
+stopped !DETERMINER press
+stopped !DETERMINER presses
+stopping !DETERMINER presses
+stops !DETERMINER presses
+suspension of hostilities
+sweeping change
+sweeping changes
+tack new tacks
+tacking !DETERMINER new tack
+tacking new tacks
+tacks new tacks
+tell !DETERMINER news
+tell you different
+tell you just this
+tell you that
+telling !DETERMINER news
+tells !DETERMINER news
+that's done
+that's done now
+that's what
+that !PRONOUNNOMINAL has
+that !PRONOUNNOMINAL now has
+that continues
+that just happened
+that just now happened
+that led to !DETERMINER
+that there !AUX still
+that they have
+that they now have
+the big headline
+the big news
+the big thing
+the current scuttlebutt
+the message that
+the same answer applies
+the same answer applies as before
+The same answer as last time
+the same as !PRONOUNNOMINAL did a month ago
+the same as !PRONOUNNOMINAL did a week ago
+the same as !PRONOUNNOMINAL did a year ago
+the same as !PRONOUNNOMINAL did last !MONTH
+the same as !PRONOUNNOMINAL did last year
+the same as !PRONOUNNOMINAL did yesterday
+the same as I did a month ago
+the same as I did a week ago
+the same as I did a year ago
+the same as I did last !MONTH
+the same as I did last year
+the same as I did yesterday
+the same as i said before
+the same as last year
+The same things I stated in November, 2001 are true today
+The same things I stated then are true now
+The same things I stated then are true today
+there !AUX currently
+there !AUX new information
+there !AUX no let up
+there !AUX no let up in
+there !AUX no word
+there !AUX no word of
+there !AUX now
+there !AUX still
+there !AUX still some
+there all along
+there already
+there are still
+there is more to say about that
+there is still
+there today
+there tonight
+there will be more about that
+there will be more of
+there will be more of that
+they've
+they've !DETERMINER
+they've been recently
+they join
+they just missed
+they will join
+things have changed
+things haven't changed
+Things still haven't really changed that much
+this !AUX !DETERMINER progress report on
+this just happened
+this just in
+this just now happened
+this month !AUX !DETERMINER month when
+this week !AUX !DETERMINER week when
+this year !AUX !DETERMINER year when
+through this announcement
+through this single announcement
+thus far
+thus far and no farther
+thus far unconfirmed
+THUS FAR WE HAVE
+THUS FAR,
+time has past since
+timely information
+timely news
+tip !DETERMINER balance
+tip !DETERMINER balance away from
+tip !DETERMINER balance toward
+tip !DETERMINER balance towards
+tipped !DETERMINER balance
+tipped !DETERMINER balance away from
+tipped !DETERMINER balance toward
+tipped !DETERMINER balance towards
+tipping !DETERMINER balance
+tipping !DETERMINER balance away from
+tipping !DETERMINER balance toward
+tipping !DETERMINER balance towards
+tips !DETERMINER balance
+tips !DETERMINER balance away from
+tips !DETERMINER balance toward
+tips !DETERMINER balance towards
+to !DETERMINER new
+to !DETERMINER point that !PRONOUNNOMINAL has
+to !DETERMINER point that !PRONOUNNOMINAL now has
+to !DETERMINER point that they have
+to !DETERMINER point that they now have
+to announce that
+to be informed about
+to be informed on
+to date,
+TO HAVE LATELY
+to introduce
+today !AUX !DETERMINER day when
+today announced
+today called upon
+today died
+today retired
+told !DETERMINER news
+top stories
+top story
+trumpet in
+trumpeted in
+trumpeting in
+trumpets in
+turbulent environment
+turn down !DETERMINER offer
+turn down an offer
+turned down !DETERMINER offer
+turned down an offer
+turning down !DETERMINER offer
+turning down an offer
+turns down !DETERMINER offer
+turns down an offer
+unapparent
+unapprised
+unchanged
+under !DETERMINER current
+under !DETERMINER current circumstances
+under current circumstances
+under new
+under new management
+under pressure now
+under some pressure
+underway
+unfound
+unstable environment
+until now
+until this date
+unusual in that
+unusual that
+unveiled !DETERMINER new
+unveiled new
+up-to-date about
+up-to-date from
+up-to-date on
+up-to-date resume
+up-to-date resumes
+up till this date
+up to date,
+up to this date
+up until this date
+update
+update about
+update by
+update from
+update on
+update on !DETERMINER
+update you
+update you on
+updated
+updated resume
+updated resumes
+updates
+updating
+urgency of
+very latest
+very little information !AUX available
+very much remain in business
+very much remains in business
+very much the same as I did a year ago
+very recently
+view in !DETERMINER new light
+viewed in !DETERMINER new light
+viewing in !DETERMINER new light
+views in !DETERMINER new light
+was able to complete
+was an unanticipated
+was appointed to
+was appointed to chair
+was appointed to head
+was appointed to lead
+was just now
+was named
+was published
+watershed event
+we're just learning
+we're learning
+we've
+we !AUX just learning
+we !AUX learning
+we feel the same
+we have !DETERMINER latest
+we have !DETERMINER latest coming up in
+we have new information
+we have not caught them yet
+we now know
+we will no longer
+wedding bells for
+Went unnoticed
+were unanticipated
+what !AUX salient
+what I said in my previous statement
+where he !AUX today
+where I am today
+where she !AUX today
+where they !AUX today
+where we !AUX today
+where you !AUX today
+which continues
+which just happened
+which just now happened
+will brief you
+will continue on
+will debut
+will fill you in
+will formally
+will formally debut
+will update you
+will, effective
+wish to congratulate
+wished to congratulate
+wishes to congratulate
+wishing to congratulate
+with !DETERMINER brand new
+with !DETERMINER difference
+with !DETERMINER new
+with recent
+with these changes
+without fanfare
+without incident
+won't be undersold
+word !AUX out
+word got around that
+word has just reached us
+word has reached us
+word is now getting around
+word of
+word out
+word reached
+word reached us
+words of
+would like to inform you
+would like to inform you that
+yet has
+you've got to hear this
+you've got to listen to this
+you will no longer

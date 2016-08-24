@@ -1,0 +1,437 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+
+
+!AUX requested to
+!MAKE !DETERMINER request
+!MAKE a request
+!MODAL !ROYALWE ask !YOU to
+!MODAL !ROYALWE ask a favor
+!MODAL !ROYALWE ask for a favor
+!MODAL !ROYALWE ask you to
+!MODAL !ROYALWE be so bold to ask if you could
+!MODAL !ROYALWE hear
+!MODAL !ROYALWE hear from
+!MODAL !ROYALWE I ask if you
+!MODAL !ROYALWE if you could be so kind
+!MODAL !ROYALWE impose to request
+!MODAL !ROYALWE offer
+!MODAL !ROYALWE present
+!MODAL !ROYALWE propose
+!MODAL !ROYALWE request
+!MODAL !ROYALWE suggest
+!MODAL !ROYALWE take your order
+!MODAL !YOU be
+!MODAL !YOU be so kind
+!MODAL !YOU be so kind as to
+!MODAL !YOU be sure to
+!MODAL !YOU please
+!MODAL !YOU please be
+!MODAL !YOU please be sure to
+!MODAL a
+!MODAL one ask of you
+!MODAL we ask of you
+!MODAL we propose
+!MODAL we request
+!MODAL we suggest
+!ROYALWE ask !PRONOUNOBJECTIVE to
+!ROYALWE ask !YOU
+!ROYALWE ask !YOU to
+!ROYALWE ask that
+!ROYALWE ask that !YOU
+!ROYALWE formally request
+!ROYALWE have been asking !PRONOUNOBJECTIVE to
+!ROYALWE look forward to meeting
+!ROYALWE prefer to request
+!ROYALWE request
+!ROYALWE request a
+!ROYALWE request that
+!ROYALWE request to
+!ROYALWE respectfully ask
+!ROYALWE respectfully ask that
+!ROYALWE respectfully request
+!ROYALWE want to ask !YOU out
+!ROYALWE was wondering if !YOU
+!ROYALWE was wondering if !YOU would
+!ROYALWE wonder if !YOU would
+!ROYALWE would appreciate
+!ROYALWE would like a
+!ROYALWE would like to request
+!ROYALWE would request
+!ROYALWE would request a
+, please
+, please call
+, please call !DETERMINER
+, please do
+. !MODAL !ROYALWE hear
+. !MODAL !ROYALWE hear from
+. !MODAL !ROYALWE propose
+. !MODAL !ROYALWE suggest
+. !MODAL !YOU please
+. !MODAL we propose
+. !MODAL we suggest
+. !ROYALWE wonder if !YOU would
+. !ROYALWE wonder if !YOU would ask
+. can't !YOU please
+. can !YOU please
+. could you
+. could you please
+. could you possibly
+. do me a favor
+. give us a call at
+. may he have
+. may I have
+. may it have
+. may she have
+. may they have
+. may we have
+. might !ROYALWE hear
+. might !ROYALWE hear from
+. pay as !YOU
+. pay as !YOU go
+. pay before !YOU
+. please
+. please accept
+. please call or write
+. please let me know
+. please let me know !QUESTION
+. please look into
+. please make sure to
+. please pay
+. please pay as
+. please take a seat
+. so please
+. so please be
+. so please be careful
+. so please be careful out there
+. to accept this offer
+. to accept this offer, please
+. to accept this offer, please sign
+. why not
+. will !YOU
+. will !YOU please
+. won't !YOU please
+. would !YOU
+. would !YOU mind if
+. would !YOU mind much if
+. would !YOU mind very much if
+. would !YOU please
+. wouldn't it be better
+. wouldn't it be better to
+ask
+ask !PRONOUNOBJECTIVE to
+ask about
+ask after
+ask as to
+ask bids for
+ask for
+ask for !DETERMINER
+ask for !DETERMINER bill
+ask for !DETERMINER check
+ask for !DETERMINER injunction
+ask for !DETERMINER sidebar
+ask for !DETERMINER stay
+ask for !DETERMINER tab
+ask for !POSSESSIVEPRONOUN hand
+ask for help
+ask for it
+ask her out
+ask him out
+ask in exchange
+ask me out
+ask no favors
+ask no quarter
+ask of
+ask offers for
+ask questions
+ask them out
+ask us out
+ask you out
+asked !PRONOUNOBJECTIVE to
+asked about
+asked after
+asked as to
+asked bids for
+asked for
+asked for !DETERMINER
+asked for !DETERMINER bill
+asked for !DETERMINER check
+asked for !DETERMINER injunction
+asked for !DETERMINER sidebar
+asked for !DETERMINER stay
+asked for !DETERMINER tab
+asked for !POSSESSIVEPRONOUN hand
+asked for help
+asked for it
+asked her out
+asked him out
+asked in exchange
+asked me out
+asked of
+asked offers for
+asked them out
+asked us out
+asked you out
+asking
+asking !PRONOUNOBJECTIVE to
+asking about
+asking after
+asking as to
+asking bids for
+asking for
+asking for !DETERMINER
+asking for !DETERMINER bill
+asking for !DETERMINER check
+asking for !DETERMINER injunction
+asking for !DETERMINER sidebar
+asking for !DETERMINER stay
+asking for !DETERMINER tab
+asking for help
+asking for it
+asking her out
+asking him out
+asking in exchange
+asking me out
+asking no favors
+asking no quarter
+asking of
+asking offers for
+asking them out
+asking us out
+asking you out
+asks
+asks !PRONOUNOBJECTIVE to
+asks about
+asks after
+asks as to
+asks bids for
+asks for
+asks for !DETERMINER
+asks for !DETERMINER bill
+asks for !DETERMINER check
+asks for !DETERMINER injunction
+asks for !DETERMINER sidebar
+asks for !DETERMINER stay
+asks for !DETERMINER tab
+asks for !POSSESSIVEPRONOUN hand
+asks for help
+asks for it
+asks her out
+asks him out
+asks in exchange
+asks me out
+asks no favors
+asks no quarter
+asks of
+asks offers for
+asks them out
+asks us out
+asks you out
+by-your-leave
+by your leave
+call me
+call upon
+called upon
+calling upon
+calls upon
+can't !YOU please
+can !ROYALWE ask a favor
+can !ROYALWE ask for a favor
+can !ROYALWE request
+can !ROYALWE take your order
+can !YOU please
+can we meet at your convenience
+can we meet at your earliest convenience
+can we meet soon
+can we please meet
+could !YOU
+could you please
+could you possibly
+couldn't !YOU please
+do !YOU mind if
+do !YOU mind if !ROYALWE
+do not call
+do not come over
+do not try
+don't come over
+entreat
+entreated
+entreaties
+entreating
+entreatingly
+entreats
+entreaty
+fax me
+forward me
+give me a call
+give me a ring
+hand it over!
+hand me
+has been asking for
+I'd like to arrange a meeting
+I'd like to request
+I'd like to set up a meeting
+I am asking !PRONOUNOBJECTIVE to
+if !YOU please
+if it !MODAL please
+impetration
+impetrations
+impetrative
+impetratively
+impetrator
+impetrators
+intreat
+intreated
+intreating
+intreatingly
+intreats
+let me know
+letting me know
+letting us know
+listen please
+listen to me please
+Listen to this
+listen up
+listen up please
+mail me
+ora pro nobis
+pass me
+phone me
+please -- by !MONTH !RANKNUMBER -
+please --by !MONTH !RANKNUMBER
+please accept
+please answer
+please ask if
+please avoid
+please be patient
+please bear with me
+please call or write
+please consider
+please describe
+please do
+please do not
+please do not try
+please don't
+please don't hesitate
+please don't hesitate to contact
+please don't hesitate to contact me
+please elaborate
+please explain
+please feel free
+please feel free to
+please feel free to call
+please fill in
+please fill out
+please get in touch
+please give me your attention
+please go ahead
+please hand
+please hand me
+please hold
+please indicate
+please indicate the
+please join me
+please keep in touch
+please let
+please let !PRONOUNOBJECTIVE know
+please let !ROYALWE know
+please let !ROYALWE know if
+please let !ROYALWE know if !YOU have ever
+please let !ROYALWE know if !YOU have lately
+please let !ROYALWE know if !YOU have recently
+please let !ROYALWE know if your answer to
+please let me know
+please let me know !QUESTION
+please let us know
+please pass
+please pay
+please pay attention
+please pay out
+please pay up
+please please
+please provide
+please remember to
+please reply
+please respond
+please send your
+please stay
+please stick around
+please think about
+please write me when !YOU can
+please!
+please,
+quiet please
+request
+request a
+request for
+request the
+request the favor
+request the presence
+request the presence of
+requested a presence
+requested about
+requested for
+requested from
+requested on
+requested the favor
+requested the presence
+requested the presence of
+requested with
+requesting
+requesting a
+requesting for
+requesting the
+requesting the favor
+requesting the presence
+requesting the presence of
+requests
+requests a
+requests for
+requests the
+requests the favor
+requests the presence
+requests the presence of
+s'il vous pla
+s'il vous plait
+see if !YOU can stop in or stop by
+send me
+so please
+so please be
+so please be careful
+so please be careful out there
+thank !YOU in advance
+when can !ROYALWE get in touch
+will !YOU be sure to
+will !YOU let !PRONOUNOBJECTIVE know !QUESTION
+will !YOU let me know !QUESTION
+will !YOU let us know !QUESTION
+will !YOU please
+will !YOU please, by
+will !YOU please, by the
+will !YOU please, within
+will you go out with me
+won't !YOU agree
+won't !YOU come
+won't !YOU decide
+won't !YOU give
+won't !YOU join us?
+won't !YOU lend
+won't !YOU please
+would !YOU
+would !YOU be so good as to
+would !YOU be so good to
+would !YOU be so kind
+would !YOU be so kind as to
+would !YOU be so kind to
+would !YOU be sure to
+would !YOU describe
+would !YOU mind if
+would !YOU mind much if
+would !YOU mind very much if
+would !YOU please
+would !YOU please be sure to
+would !YOU provide
+would appreciate
+would it be possible for !YOU to
+would like to meet
+wouldn't !YOU please

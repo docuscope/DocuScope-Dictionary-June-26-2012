@@ -1,0 +1,330 @@
+# Copyright 2012, 2016 David Kaufer and Suguru Ishizaki, Carnegie Mellon University
+
+!AUX !DETERMINER ANACHRONISM
+!AUX !DETERMINER inconsiderate
+!AUX !DETERMINER inconvenience
+!AUX !DETERMINER sellout
+!AUX !DETERMINER tort
+!AUX !DETERMINER worse for
+!AUX !DETERMINER wrong
+!AUX !DETERMINER wrong approach
+!AUX !DETERMINER wrong strategy
+!AUX !DETERMINER wrong thing to do
+!AUX all !DETERMINER lie
+!AUX all lies
+!AUX amiss
+!AUX ANACHRONISTIC
+!AUX answerable for
+!AUX ANTIQUATED
+!AUX ARCHAIC
+!AUX backward
+!AUX bad for
+!AUX brassbound
+!AUX charged with !DETERMINER crime
+!AUX clearly difficult
+!AUX coerced
+!AUX criminal
+!AUX criminals
+!AUX evil
+!AUX fantasy
+!AUX guilty
+!AUX guilty of
+!AUX incompatible
+!AUX incomplete
+!AUX inconsequential
+!AUX inconsiderate
+!AUX inconsistent
+!AUX inconvenient
+!AUX indefensible
+!AUX just fanstasy
+!AUX just fiction
+!AUX lame
+!AUX less than justified
+!AUX misguided
+!AUX mistaken in !DETERMINER belief
+!AUX mistaken on !DETERMINER facts
+!AUX mistaken to believe
+!AUX mistaken to think
+!AUX not !DETERMINER sensible
+!AUX not !DETERMINER sensible !IDEA
+!AUX not adequate
+!AUX not convenient
+!AUX not coordinated
+!AUX not ethical
+!AUX not fair
+!AUX not feasible
+!AUX not good
+!AUX not just
+!AUX not moral
+!AUX not reasonable
+!AUX not sensible
+!AUX not sound
+!AUX not true
+!AUX not workable
+!AUX nothing to be proud of
+!AUX off !DETERMINER mark
+!AUX off !DETERMINER mark to
+!AUX off on !POSSESSIVEPRONOUN facts
+!AUX only fantasy
+!AUX only fiction
+!AUX out of place
+!AUX outdated
+!AUX poorly
+!AUX put up to it
+!AUX shed of any humanity
+!AUX sneaky and evasive
+!AUX speaking from both sides of !POSSESSIVEPRONOUN mouth
+!AUX speaking out of both sides of !POSSESSIVEPRONOUN mouth
+!AUX straining credibility
+!AUX substantial demands
+!AUX suppositiious
+!AUX supposititious
+!AUX the cost
+!AUX the costs
+!AUX the price
+!AUX the prices
+!AUX tiresome
+!AUX too good to be true
+!AUX too large to
+!AUX too small to
+!AUX torts
+!AUX unacceptable
+!AUX unauthorized
+!AUX unmindful
+!AUX unmindful of
+!AUX unpredictable
+!AUX unqualified for
+!AUX unqualified to
+!AUX violated
+!AUX well-intentioned but
+!AUX well-meaning but
+!AUX wrong
+!AUX wrong on !DETERMINER fact
+!AUX wrong on !DETERMINER facts
+!AUX wrong to
+!GET off easy
+!PRONOUNNOMINAL babbled
+!PRONOUNNOMINAL babbles
+!PRONOUNNOMINAL baited
+!PRONOUNNOMINAL baits
+!PRONOUNNOMINAL bamboozled
+!PRONOUNNOMINAL bamboozles
+!PRONOUNNOMINAL bellyached
+!PRONOUNNOMINAL bellyaches
+!PRONOUNNOMINAL blackmailed
+!PRONOUNNOMINAL blackmails
+!PRONOUNNOMINAL blasphemed
+!PRONOUNNOMINAL blathered
+!PRONOUNNOMINAL blathers
+!PRONOUNNOMINAL brutalized
+!PRONOUNNOMINAL brutalizes
+!PRONOUNNOMINAL bulldozed
+!PRONOUNNOMINAL bulldozes
+!PRONOUNNOMINAL bullied
+!PRONOUNNOMINAL bullies
+!PRONOUNNOMINAL butchered
+!PRONOUNNOMINAL butchers
+!PRONOUNNOMINAL consorted
+!PRONOUNNOMINAL consorts
+!PRONOUNNOMINAL conspired
+!PRONOUNNOMINAL conspires
+!PRONOUNNOMINAL contrived
+!PRONOUNNOMINAL contrives
+!PRONOUNNOMINAL deceived
+!PRONOUNNOMINAL deceives
+!PRONOUNNOMINAL deprived
+!PRONOUNNOMINAL deprives
+!PRONOUNNOMINAL derailed
+!PRONOUNNOMINAL derails
+!PRONOUNNOMINAL dickered
+!PRONOUNNOMINAL dickers
+!PRONOUNNOMINAL disturbed
+!PRONOUNNOMINAL disturbs
+!PRONOUNNOMINAL double-talked
+!PRONOUNNOMINAL double-talks
+!PRONOUNNOMINAL double talked
+!PRONOUNNOMINAL double talks
+!PRONOUNNOMINAL duped
+!PRONOUNNOMINAL dupes
+!PRONOUNNOMINAL encroached
+!PRONOUNNOMINAL encroaches
+!PRONOUNNOMINAL encumbered
+!PRONOUNNOMINAL encumbers
+!PRONOUNNOMINAL equivocated
+!PRONOUNNOMINAL equivocates
+!PRONOUNNOMINAL extorted
+!PRONOUNNOMINAL extorts
+!PRONOUNNOMINAL fabricated
+!PRONOUNNOMINAL fabricates
+!PRONOUNNOMINAL faced
+!PRONOUNNOMINAL faces
+!PRONOUNNOMINAL faltered
+!PRONOUNNOMINAL falters
+!PRONOUNNOMINAL floundered
+!PRONOUNNOMINAL flounders
+!PRONOUNNOMINAL flubbed
+!PRONOUNNOMINAL flubs
+!PRONOUNNOMINAL flunked
+!PRONOUNNOMINAL flunks
+!PRONOUNNOMINAL fomented
+!PRONOUNNOMINAL foments
+!PRONOUNNOMINAL forsaken
+!PRONOUNNOMINAL forsakes
+!PRONOUNNOMINAL forsook
+!PRONOUNNOMINAL fumbled
+!PRONOUNNOMINAL fumbles
+!PRONOUNNOMINAL goose-stepped
+!PRONOUNNOMINAL goose-steps
+!PRONOUNNOMINAL goosestepped
+!PRONOUNNOMINAL goosesteps
+!PRONOUNNOMINAL gouged
+!PRONOUNNOMINAL gouges
+!PRONOUNNOMINAL greenmailed
+!PRONOUNNOMINAL greenmails
+!PRONOUNNOMINAL hit-and-ran
+!PRONOUNNOMINAL hit-and-runs
+!PRONOUNNOMINAL impeded
+!PRONOUNNOMINAL impedes
+!PRONOUNNOMINAL imperiled
+!PRONOUNNOMINAL imperils
+!PRONOUNNOMINAL impugned
+!PRONOUNNOMINAL impugns
+!PRONOUNNOMINAL incriminated
+!PRONOUNNOMINAL incriminates
+!PRONOUNNOMINAL incurred
+!PRONOUNNOMINAL incurs
+!PRONOUNNOMINAL indisposed
+!PRONOUNNOMINAL indisposes
+!PRONOUNNOMINAL indoctrinated
+!PRONOUNNOMINAL indoctrinates
+!PRONOUNNOMINAL indulged
+!PRONOUNNOMINAL indulges
+!PRONOUNNOMINAL infected
+!PRONOUNNOMINAL infects
+!PRONOUNNOMINAL infested
+!PRONOUNNOMINAL infests
+!PRONOUNNOMINAL infiltrated
+!PRONOUNNOMINAL infiltrates
+!PRONOUNNOMINAL inflamed
+!PRONOUNNOMINAL inflames
+!PRONOUNNOMINAL inflated
+!PRONOUNNOMINAL inflates
+!PRONOUNNOMINAL interfered
+!PRONOUNNOMINAL interferes
+!PRONOUNNOMINAL intimidated
+!PRONOUNNOMINAL intimidates
+!PRONOUNNOMINAL intoxicated
+!PRONOUNNOMINAL intoxicates
+!PRONOUNNOMINAL intruded
+!PRONOUNNOMINAL intrudes
+!PRONOUNNOMINAL lagged
+!PRONOUNNOMINAL lags
+!PRONOUNNOMINAL lags behind
+!PRONOUNNOMINAL looted
+!PRONOUNNOMINAL loots
+!PRONOUNNOMINAL loses
+!PRONOUNNOMINAL lost
+!PRONOUNNOMINAL low-balled
+!PRONOUNNOMINAL low-balls
+!PRONOUNNOMINAL lowballed
+!PRONOUNNOMINAL lowballs
+!PRONOUNNOMINAL maimed
+!PRONOUNNOMINAL maims
+!PRONOUNNOMINAL mangled
+!PRONOUNNOMINAL mangles
+!PRONOUNNOMINAL massacred
+!PRONOUNNOMINAL massacres
+!PRONOUNNOMINAL meddled
+!PRONOUNNOMINAL meddles
+!PRONOUNNOMINAL misbehaved
+!PRONOUNNOMINAL misbehaves
+!PRONOUNNOMINAL misfired
+!PRONOUNNOMINAL misfires
+!PRONOUNNOMINAL misinformed
+!PRONOUNNOMINAL misinforms
+!PRONOUNNOMINAL misinterpreted
+!PRONOUNNOMINAL misinterprets
+!PRONOUNNOMINAL misses the point
+!PRONOUNNOMINAL mistreated
+!PRONOUNNOMINAL mistreats
+!PRONOUNNOMINAL moped
+!PRONOUNNOMINAL mopes
+!PRONOUNNOMINAL mutilated
+!PRONOUNNOMINAL mutilates
+!PRONOUNNOMINAL overexerted
+!PRONOUNNOMINAL overexerts
+!PRONOUNNOMINAL overreached
+!PRONOUNNOMINAL overstated
+!PRONOUNNOMINAL overstates
+!PRONOUNNOMINAL overstepped
+!PRONOUNNOMINAL oversteps
+!PRONOUNNOMINAL palavered
+!PRONOUNNOMINAL palavers
+!PRONOUNNOMINAL perjured
+!PRONOUNNOMINAL perjures
+!PRONOUNNOMINAL perpetuated
+!PRONOUNNOMINAL perpetuates
+!PRONOUNNOMINAL persecuted
+!PRONOUNNOMINAL persecutes
+!PRONOUNNOMINAL personalized
+!PRONOUNNOMINAL personalizes
+!PRONOUNNOMINAL philander
+!PRONOUNNOMINAL philandered
+!PRONOUNNOMINAL plain lied
+!PRONOUNNOMINAL plain lies
+!PRONOUNNOMINAL plundered
+!PRONOUNNOMINAL plunders
+!PRONOUNNOMINAL politicized
+!PRONOUNNOMINAL politicizes
+!PRONOUNNOMINAL polluted
+!PRONOUNNOMINAL pollutes
+!PRONOUNNOMINAL pontificated
+!PRONOUNNOMINAL pontificates
+!PRONOUNNOMINAL pouted
+!PRONOUNNOMINAL pouts
+!PRONOUNNOMINAL prattled
+!PRONOUNNOMINAL prattles
+!PRONOUNNOMINAL strangled
+!PRONOUNNOMINAL strangles
+!PRONOUNNOMINAL transgressed
+!PRONOUNNOMINAL transgresses
+Cursed for
+cursed with
+does not know the first thing about
+doesn't know the first thing about
+graceless
+gracelessly
+gracelessness
+imputable
+imputableness
+imputably
+imputation
+imputation of
+imputations
+imputative
+imputatively
+impute
+impute shame
+impute shame to
+impute to
+imputed
+imputed shame
+imputed shame to
+imputed to
+imputes
+imputes shame
+imputes shame to
+imputes to
+imputing
+imputing shame
+imputing shame to
+imputing to
+is blamed for
+is discredited
+is widely blamed for
+out of !POSSESSIVEPRONOUN depth
+out of !POSSESSIVEPRONOUN element
+over !POSSESSIVEPRONOUN head
+reputation buster
+ruined !POSSESSIVEPRONOUN reputation
+ruins !POSSESSIVEPRONOUN reputation
